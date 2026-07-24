@@ -1,7 +1,6 @@
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 import json
-import os
 import re
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
@@ -16,7 +15,9 @@ HEADERS = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/126.0.0.0 Safari/537.36"
-    )
+    ),
+    "Accept": "application/json, text/plain, */*",
+    "Referer": BASE_URL,
 }
 
 
@@ -27,7 +28,7 @@ def get_ist_time():
 
 
 def clean_text(text):
-    """ইমোজি ও সিম্বল ক্লিনিং"""
+    """ইমোজি ও অপ্রয়োজনীয় ক্যারেক্টার ক্লিন করা"""
     if not text:
         return ""
     cleaned = re.sub(r"[^\w\s-]", "", text)
@@ -48,7 +49,7 @@ def extract_m3u8(html_content):
 
 
 def scrape_match_details(session, match_url):
-    """একটি ম্যাচের সব তথ্য পার্স করে"""
+    """একটি ম্যাচের সব কাস্টম ডাটা পার্স করে"""
     try:
         res = session.get(match_url, timeout=12)
         res.encoding = "utf-8"
@@ -68,13 +69,13 @@ def scrape_match_details(session, match_url):
         date_el = soup.find("span", class_="meta-date")
         match_date = date_el.text.strip() if date_el else ""
 
-        # ২. কভার পিকচার
+        # ২. প্রতিযোগিতা কভার পিকচার (Cover Image)
         competition_cover = ""
         cover_match = re.search(r"(/covers/[a-zA-Z0-9\-_.]+\.webp)", res.text)
         if cover_match:
             competition_cover = urljoin(BASE_URL, cover_match.group(1))
 
-        # ৩. টিম ও লোগো
+        # ৩. টিমের তথ্য ও লোগো
         home_team = soup.find("div", class_="score-team home-team")
         home_name = "Home Team"
         home_logo = ""
@@ -104,7 +105,7 @@ def scrape_match_details(session, match_url):
         status_el = soup.find("span", class_="score-label")
         match_status = status_el.text.strip() if status_el else "FT"
 
-        # ৪. ডেসক্রিপশন
+        # ৪. ডেসক্রিপশন (ক্লিন টেক্সট)
         description = ""
         desc_container = soup.find("div", class_="description-container")
         if desc_container:
@@ -116,7 +117,7 @@ def scrape_match_details(session, match_url):
             )
             description = re.sub(r"\s+", " ", raw_text).strip()
 
-        # ৫. থাম্বনেইল
+        # ৫. থাম্বনেইল লিংক
         thumbnail_url = ""
         og_image = soup.find("meta", property="og:image")
         if og_image and og_image.get("content"):
@@ -126,7 +127,7 @@ def scrape_match_details(session, match_url):
             if video_el and video_el.get("poster"):
                 thumbnail_url = video_el["poster"]
 
-        # ৬. স্ট্রিম পার্টস
+        # ৬. স্ট্রিম পার্টস (Only Streams)
         streams = []
         seen_m3u8 = set()
         all_links = soup.find_all("a", href=True)
@@ -177,7 +178,7 @@ def scrape_match_details(session, match_url):
             if m3u8_link:
                 streams.append({"part": "Full Stream", "m3u8_url": m3u8_link})
 
-        # ৭. স্ট্যাটিস্টিক্স
+        # ৭. স্ট্যাটিস্টিক্স (টিমের অরিজিনাল নাম দিয়ে)
         stats = {}
         stat_rows = soup.find_all("div", class_="stat-row")
         for row in stat_rows:
@@ -200,7 +201,7 @@ def scrape_match_details(session, match_url):
                 away_name: away_pos.text.strip(),
             }
 
-        # ৮. সামারি ইভেন্টস
+        # ৮. সামারি ইভেন্টস (Events Timeline)
         events = []
         events_container = soup.find("div", class_="match-events")
         if events_container:
@@ -259,7 +260,7 @@ def scrape_match_details(session, match_url):
 
                     events.append(ev_obj)
 
-        # ৯. হেড-টু-হেড
+        # ৯. হেড-টু-হেড (H2H Data)
         h2h_data = {
             "summary": {},
             "previous_matches": [],
@@ -388,7 +389,7 @@ def scrape_match_details(session, match_url):
             "statistics": stats,
             "events_timeline": events,
             "head_to_head": h2h_data,
-            "description": description,
+            "description": description,  # <-- ডেসক্রিপশন একদম নিচে
         }
 
     except Exception as e:
@@ -396,63 +397,54 @@ def scrape_match_details(session, match_url):
         return None
 
 
-def get_50_sitemap_video_links():
-    """সাইটম্যাপ থেকে ৫০টি লিংক বের করা"""
-    session = requests.Session()
-    session.headers.update(HEADERS)
+def get_50_match_urls_from_api(session):
+    """API থেকে সরাসরি ৫০টি সাম্প্রতিক ম্যাচের slug এনে URL তৈরি করা"""
+    api_url = f"{BASE_URL}/api/videos/latest.json?page=1&per_page=50&locale=en"
+    match_urls = []
 
-    sitemap_index_url = urljoin(BASE_URL, "/sitemap-index.xml")
-    video_links = []
+    print("[-] API থেকে সাম্প্রতিক ৫০টি ম্যাচের Slug সংগ্রহ করা হচ্ছে...")
 
     try:
-        res = session.get(sitemap_index_url, timeout=15)
+        res = session.get(api_url, timeout=15)
         res.encoding = "utf-8"
 
         if res.status_code == 200:
-            sitemap_urls = re.findall(
-                r"<loc>(https?://[^\s<]+)</loc>", res.text
-            )
+            data = res.json()
+            videos = data.get("videos", [])
 
-            def parse_sitemap(sm_url):
-                found = []
-                try:
-                    s_session = requests.Session()
-                    s_session.headers.update(HEADERS)
-                    sm_res = s_session.get(sm_url, timeout=15)
-                    if sm_res.status_code == 200:
-                        matches = re.findall(
-                            r"<loc>(https?://[^\s<]+/video/[^\s<]+)</loc>",
-                            sm_res.text,
-                        )
-                        for m in matches:
-                            if m not in found:
-                                found.append(m)
-                except Exception:
-                    pass
-                return found
+            for item in videos:
+                slug = item.get("slug")
+                if slug:
+                    full_match_url = f"{BASE_URL}/video/{slug}"
+                    if full_match_url not in match_urls:
+                        match_urls.append(full_match_url)
 
-            with ThreadPoolExecutor(max_workers=15) as executor:
-                results = executor.map(parse_sitemap, sitemap_urls)
+            print(f"[+] এপিআই থেকে সফলভাবে {len(match_urls)} টি ম্যাচের সঠিক লিংক তৈরি হয়েছে!")
+        else:
+            print(f"[!] এপিআই রিকোয়েস্টে স্ট্যাটাস কোড: {res.status_code}")
 
-            for match_list in results:
-                for link in match_list:
-                    if link not in video_links:
-                        video_links.append(link)
+    except Exception as e:
+        print(f"[!] এপিআই থেকে ডাটা আনতে সমস্যা: {e}")
 
-    except Exception:
-        pass
-
-    return video_links[:50]
+    return match_urls
 
 
 def main():
-    print(f"\n[!] ReFooty স্ক্র্যাপ শুরু: {get_ist_time()}")
+    print(f"\n[!] ReFooty গিটহাব অটো-স্ক্র্যাপ শুরু: {get_ist_time()}")
 
-    # ১. সরাসরি ৫০টি লিংক সংগ্রহ
-    target_links = get_50_sitemap_video_links()
-    print(f"[-] সাইটম্যাপ থেকে পাওয়া ৫০টি ম্যাচ সরাসরি স্ক্যান করা হচ্ছে...")
+    session = requests.Session()
+    session.headers.update(HEADERS)
 
-    # ২. সমান্তরালভাবে প্রসেস
+    # ১. API থেকে ৫০টি অরিজিনাল লিংক তৈরি
+    target_links = get_50_match_urls_from_api(session)
+
+    if not target_links:
+        print("[!] কোনো লিংক পাওয়া যায়নি। স্ক্রিপ্ট শেষ হচ্ছে।")
+        return
+
+    print(f"[-] মাল্টি-থ্রেডিং মোডে ৫০টি ম্যাচ পার্স করা হচ্ছে...")
+
+    # ২. সমান্তরালভাবে ম্যাচ পেজ প্রসেস করা
     def task(link):
         thread_session = requests.Session()
         thread_session.headers.update(HEADERS)
@@ -466,7 +458,7 @@ def main():
         if data:
             matches_data.append(data)
 
-    # ৩. কোনো ফিল্টার বা স্কিপ ছাড়াই সোজা জেসন সেভ করা
+    # ৩. ফাইনাল জেসন প্যাকেজ সেভ করা
     final_package = {
         "Owner": "Ivan-FluX",
         "Telegram": "https://t.me/iVan_flux",
@@ -483,7 +475,7 @@ def main():
             f"\n[SUCCESS] সফলভাবে {OUTPUT_FILE} তৈরি ও আপডেট হয়েছে! মোট ম্যাচ: {len(matches_data)}"
         )
     except Exception as e:
-        print(f"[ERROR] ফাইল সেভ করতে সমস্যা: {e}")
+        print(f"[ERROR] ফাইল সেভ করতে ব্যর্থ: {e}")
 
 
 if __name__ == "__main__":
