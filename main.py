@@ -21,13 +21,13 @@ HEADERS = {
 
 
 def get_ist_time():
-    """ভারতীয়/বাংলাদেশী সময় অনুযায়ী আপডেট টাইম বের করা"""
+    """ভারতীয়/বাংলাদেশী সময় বের করা"""
     tz = pytz.timezone("Asia/Kolkata")
     return datetime.now(tz).strftime("%d/%m/%Y %H:%M:%S IST")
 
 
 def clean_text(text):
-    """ইমোজি ও অপ্রয়োজনীয় প্রতীক মুছে টেক্সট পরিষ্কার করা"""
+    """ইমোজি ও সিম্বল ক্লিনিং"""
     if not text:
         return ""
     cleaned = re.sub(r"[^\w\s-]", "", text)
@@ -35,7 +35,7 @@ def clean_text(text):
 
 
 def extract_m3u8(html_content):
-    """HTML থেকে m3u8 স্ট্রিম লিংক বের করা"""
+    """m3u8 স্ট্রিম লিংক বের করা"""
     m3u8_matches = re.findall(r"https?://[^\s'\"]+\.m3u8[^\s'\"]*", html_content)
     if m3u8_matches:
         return m3u8_matches[0]
@@ -48,7 +48,7 @@ def extract_m3u8(html_content):
 
 
 def scrape_match_details(session, match_url):
-    """একটি ম্যাচের সব তথ্য (Cover, Description, Events, H2H, Stats, Streams) পার্স করে"""
+    """একটি ম্যাচের সব তথ্য পার্স করে"""
     try:
         res = session.get(match_url, timeout=12)
         res.encoding = "utf-8"
@@ -68,13 +68,13 @@ def scrape_match_details(session, match_url):
         date_el = soup.find("span", class_="meta-date")
         match_date = date_el.text.strip() if date_el else ""
 
-        # ২. প্রতিযোগিতা কভার পিকচার (Cover Image)
+        # ২. কভার পিকচার
         competition_cover = ""
         cover_match = re.search(r"(/covers/[a-zA-Z0-9\-_.]+\.webp)", res.text)
         if cover_match:
             competition_cover = urljoin(BASE_URL, cover_match.group(1))
 
-        # ৩. টিমের নাম ও লোগো
+        # ৩. টিম ও লোগো
         home_team = soup.find("div", class_="score-team home-team")
         home_name = "Home Team"
         home_logo = ""
@@ -104,7 +104,7 @@ def scrape_match_details(session, match_url):
         status_el = soup.find("span", class_="score-label")
         match_status = status_el.text.strip() if status_el else "FT"
 
-        # ৪. ডেসক্রিপশন (ক্লিন টেক্সট)
+        # ৪. ডেসক্রিপশন
         description = ""
         desc_container = soup.find("div", class_="description-container")
         if desc_container:
@@ -116,7 +116,7 @@ def scrape_match_details(session, match_url):
             )
             description = re.sub(r"\s+", " ", raw_text).strip()
 
-        # ৫. থাম্বনেইল লিংক
+        # ৫. থাম্বনেইল
         thumbnail_url = ""
         og_image = soup.find("meta", property="og:image")
         if og_image and og_image.get("content"):
@@ -126,7 +126,7 @@ def scrape_match_details(session, match_url):
             if video_el and video_el.get("poster"):
                 thumbnail_url = video_el["poster"]
 
-        # ৬. স্ট্রিম পার্টস (Only Streams)
+        # ৬. স্ট্রিম পার্টস
         streams = []
         seen_m3u8 = set()
         all_links = soup.find_all("a", href=True)
@@ -177,7 +177,7 @@ def scrape_match_details(session, match_url):
             if m3u8_link:
                 streams.append({"part": "Full Stream", "m3u8_url": m3u8_link})
 
-        # ৭. স্ট্যাটিস্টিক্স (টিমের অরিজিনাল নাম ব্যবহার করা)
+        # ৭. স্ট্যাটিস্টিক্স
         stats = {}
         stat_rows = soup.find_all("div", class_="stat-row")
         for row in stat_rows:
@@ -200,7 +200,7 @@ def scrape_match_details(session, match_url):
                 away_name: away_pos.text.strip(),
             }
 
-        # ৮. সামারি ইভেন্টস (Events Timeline)
+        # ৮. সামারি ইভেন্টস
         events = []
         events_container = soup.find("div", class_="match-events")
         if events_container:
@@ -259,7 +259,7 @@ def scrape_match_details(session, match_url):
 
                     events.append(ev_obj)
 
-        # ৯. হেড-টু-হেড (H2H Data)
+        # ৯. হেড-টু-হেড
         h2h_data = {
             "summary": {},
             "previous_matches": [],
@@ -388,7 +388,7 @@ def scrape_match_details(session, match_url):
             "statistics": stats,
             "events_timeline": events,
             "head_to_head": h2h_data,
-            "description": description,  # <-- ডেসক্রিপশন একদম নিচে
+            "description": description,
         }
 
     except Exception as e:
@@ -397,14 +397,12 @@ def scrape_match_details(session, match_url):
 
 
 def get_50_sitemap_video_links():
-    """সাইটম্যাপ স্লাইসিং (Sitemap Slicing) দিয়ে ৫০টি লিংক বের করা"""
+    """সাইটম্যাপ থেকে ৫০টি লিংক বের করা"""
     session = requests.Session()
     session.headers.update(HEADERS)
 
     sitemap_index_url = urljoin(BASE_URL, "/sitemap-index.xml")
     video_links = []
-
-    print("[-] সাইটম্যাপ ইনডেক্স স্ক্যান করা হচ্ছে...")
 
     try:
         res = session.get(sitemap_index_url, timeout=15)
@@ -441,92 +439,51 @@ def get_50_sitemap_video_links():
                     if link not in video_links:
                         video_links.append(link)
 
-    except Exception as e:
-        print(f"[!] সাইটম্যাপ স্ক্যানে সতর্কতা: {e}")
+    except Exception:
+        pass
 
-    # Sitemap Slicing: প্রথম ৫০টি অনন্য ম্যাচের লিংক স্লাইস করা
-    sliced_links = video_links[:50]
-    print(f"[+] সফলভাবে ৫০টি অনন্য ম্যাচ লিংক স্লাইস করা হয়েছে।")
-    return sliced_links
+    return video_links[:50]
 
 
 def main():
-    print(
-        f"\n[!] ReFooty গিটহাব অটো-স্ক্র্যাপ শুরু: {get_ist_time()}"
-    )
+    print(f"\n[!] ReFooty স্ক্র্যাপ শুরু: {get_ist_time()}")
 
-    existing_data = []
-    scraped_titles = set()
-
-    # ১. আগে কোনো জেসন সেভ থাকলে তা লোড করা
-    if os.path.exists(OUTPUT_FILE):
-        try:
-            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
-                old_json = json.load(f)
-                existing_data = old_json.get("matches", [])
-                for item in existing_data:
-                    if item.get("title"):
-                        scraped_titles.add(item.get("title"))
-            print(
-                f"[+] পূর্ববর্তী ডাটাবেজ থেকে {len(existing_data)} টি ম্যাচ লোড করা হয়েছে।"
-            )
-        except Exception as e:
-            print(f"[!] পুরোনো ফাইল পড়তে সমস্যা: {e}")
-
-    # ২. সাইটম্যাপ স্লাইসিং থেকে ৫০টি লিংক সংগ্রহ
+    # ১. সরাসরি ৫০টি লিংক সংগ্রহ
     target_links = get_50_sitemap_video_links()
+    print(f"[-] সাইটম্যাপ থেকে পাওয়া ৫০টি ম্যাচ সরাসরি স্ক্যান করা হচ্ছে...")
 
-    # ৩. নতুন লিংক থাকলে তা স্ক্যান করা
-    unscraped_links = [
-        link
-        for link in target_links
-        if not any(
-            re.sub(r"[^\w]", "", link.lower())
-            in re.sub(r"[^\w]", "", title.lower())
-            for title in scraped_titles
-        )
-    ]
-
-    print(
-        f"[-] মোট ৫০টির মধ্যে নতুন স্ক্যান করতে হবে: {len(target_links)} টি লিঙ্ক"
-    )
-
-    new_matches_data = []
-
+    # ২. সমান্তরালভাবে প্রসেস
     def task(link):
         thread_session = requests.Session()
         thread_session.headers.update(HEADERS)
         return scrape_match_details(thread_session, link)
 
+    matches_data = []
     with ThreadPoolExecutor(max_workers=15) as executor:
         results = executor.map(task, target_links)
 
     for data in results:
-        if data and data.get("title") not in scraped_titles:
-            new_matches_data.append(data)
-            scraped_titles.add(data.get("title"))
+        if data:
+            matches_data.append(data)
 
-    # ৪. মার্চ করে সাজানো
-    all_final_matches = new_matches_data + existing_data
-
-    # ৫. ফাইনাল জেসন আউটপুট তৈরি
+    # ৩. কোনো ফিল্টার বা স্কিপ ছাড়াই সোজা জেসন সেভ করা
     final_package = {
         "Owner": "Ivan-FluX",
         "Telegram": "https://t.me/iVan_flux",
         "App_name": "ReFooty All Matches Auto Scraper",
         "Last_update": get_ist_time(),
-        "Total_Matches": len(all_final_matches),
-        "matches": all_final_matches,
+        "Total_Matches": len(matches_data),
+        "matches": matches_data,
     }
 
     try:
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(final_package, f, indent=4, ensure_ascii=False)
         print(
-            f"\n[SUCCESS] সফলভাবে {OUTPUT_FILE} আপডেট হয়েছে! মোট ম্যাচ: {len(all_final_matches)}"
+            f"\n[SUCCESS] সফলভাবে {OUTPUT_FILE} তৈরি ও আপডেট হয়েছে! মোট ম্যাচ: {len(matches_data)}"
         )
     except Exception as e:
-        print(f"[ERROR] ফাইল রাইট করতে ব্যর্থ: {e}")
+        print(f"[ERROR] ফাইল সেভ করতে সমস্যা: {e}")
 
 
 if __name__ == "__main__":
