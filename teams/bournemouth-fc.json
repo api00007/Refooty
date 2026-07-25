@@ -1,0 +1,218 @@
+{
+    "team": "Bournemouth FC",
+    "team_logo": "https://img.refooty.com/logo/teams/8714.webp",
+    "total_matches": 1,
+    "matches": [
+        {
+            "title": "Bournemouth vs Sunderland",
+            "competition": "Premier League",
+            "competition_cover": "https://refooty.com/covers/premier-league.webp",
+            "date": "Feb 28, 2026",
+            "thumbnail_url": "https://img.refooty.com/thumbnail/bournemouth-v-sunderland-2026-02-28-nk47.webp",
+            "teams": {
+                "home_team": {
+                    "name": "Bournemouth FC",
+                    "logo": "https://img.refooty.com/logo/teams/8714.webp",
+                    "score": "1"
+                },
+                "away_team": {
+                    "name": "Sunderland",
+                    "logo": "https://img.refooty.com/logo/teams/746.webp",
+                    "score": "1"
+                },
+                "status": "FT"
+            },
+            "streams": [
+                {
+                    "part": "Full Stream",
+                    "m3u8_url": "https://img.refooty.com/m3u8/Bournemouth_v_Sunderland_2026_02_28.m3u8"
+                }
+            ],
+            "statistics": {
+                "shots_on_target": {
+                    "Bournemouth FC": "5",
+                    "Sunderland": "4"
+                },
+                "shots_off_target": {
+                    "Bournemouth FC": "9",
+                    "Sunderland": "2"
+                },
+                "shots_blocked": {
+                    "Bournemouth FC": "7",
+                    "Sunderland": "2"
+                },
+                "corners": {
+                    "Bournemouth FC": "7",
+                    "Sunderland": "3"
+                },
+                "fouls": {
+                    "Bournemouth FC": "15",
+                    "Sunderland": "12"
+                },
+                "offsides": {
+                    "Bournemouth FC": "1",
+                    "Sunderland": "2"
+                },
+                "yellow_cards": {
+                    "Bournemouth FC": "4",
+                    "Sunderland": "2"
+                },
+                "goalkeeper_saves": {
+                    "Bournemouth FC": "3",
+                    "Sunderland": "4"
+                },
+                "crosses": {
+                    "Bournemouth FC": "4",
+                    "Sunderland": "1"
+                },
+                "ball_possession": {
+                    "Bournemouth FC": "62%",
+                    "Sunderland": "38%"
+                }
+            },
+            "events_timeline": [
+                {
+                    "time": "1'",
+                    "team": "Sunderland",
+                    "player": "E. Mayenda",
+                    "event_type": "Goal",
+                    "score_update": "0 - 1"
+                },
+                {
+                    "time": "16'",
+                    "team": "Sunderland",
+                    "player": "N. Sadiki",
+                    "event_type": "Yellow Card"
+                },
+                {
+                    "time": "58'",
+                    "team": "Bournemouth FC",
+                    "player": "T. Adams",
+                    "event_type": "Yellow Card"
+                },
+                {
+                    "time": "63'",
+                    "team": "Bournemouth FC",
+                    "player": "Evanilson",
+                    "event_type": "Goal",
+                    "assist": "M. Tavernier",
+                    "score_update": "1 - 1"
+                },
+                {
+                    "time": "74'",
+                    "team": "Sunderland",
+                    "player": "R. Roefs",
+                    "event_type": "Yellow Card"
+                },
+                {
+                    "time": "86'",
+                    "team": "Bournemouth FC",
+                    "player": "A. Toth",
+                    "event_type": "Yellow Card"
+                },
+                {
+                    "time": "90'",
+                    "team": "Bournemouth FC",
+                    "player": "R. Christie",
+                    "event_type": "Yellow Card"
+                },
+                {
+                    "time": "90+5'",
+                    "team": "Bournemouth FC",
+                    "player": "A. Scott",
+                    "event_type": "Yellow Card"
+                }
+            ],
+            "head_to_head": {
+                "summary": {
+                    "Bournemouth FC_wins": "1",
+                    "draws": "0",
+                    "Sunderland_wins": "1"
+                },
+                "previous_matches": [
+                    {
+                        "date": "29/11/2025",
+                        "competition": "Premier League",
+                        "teams_and_score": "Sunderland 3 - 2 AFC Bournemouth"
+                    },
+                    {
+                        "date": "29/04/2017",
+                        "competition": "Premier League",
+                        "teams_and_score": "Sunderland 0 - 1 AFC Bournemouth"
+                    }
+                ],
+                "home_team_form": {
+                    "team": "Bournemouth FC",
+                    "form": [
+                        "D",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "date": "28/02/2026",
+                            "competition": "Premier League",
+                            "teams_and_score": "AFC Bournemouth 1 - 1 Sunderland",
+                            "result": "D"
+                        },
+                        {
+                            "date": "10/01/2026",
+                            "competition": "FA Cup: Round 3",
+                            "teams_and_score": "Newcastle United 3 - 3 AFC Bournemouth",
+                            "result": "D"
+                        },
+                        {
+                            "date": "07/01/2026",
+                            "competition": "Premier League",
+                            "teams_and_score": "AFC Bournemouth 3 - 2 Tottenham Hotspur",
+                            "result": "L"
+                        }
+                    ]
+                },
+                "away_team_form": {
+                    "team": "Sunderland",
+                    "form": [
+                        "D",
+                        "W",
+                        "L",
+                        "D",
+                        "L"
+                    ],
+                    "recent_matches": [
+                        {
+                            "date": "28/02/2026",
+                            "competition": "Premier League",
+                            "teams_and_score": "AFC Bournemouth 1 - 1 Sunderland",
+                            "result": "D"
+                        },
+                        {
+                            "date": "15/02/2026",
+                            "competition": "FA Cup: Round 4",
+                            "teams_and_score": "Oxford United 0 - 1 Sunderland",
+                            "result": "W"
+                        },
+                        {
+                            "date": "11/02/2026",
+                            "competition": "Premier League",
+                            "teams_and_score": "Sunderland 0 - 1 Liverpool",
+                            "result": "L"
+                        },
+                        {
+                            "date": "10/01/2026",
+                            "competition": "FA Cup: Round 3",
+                            "teams_and_score": "Everton 1 - 1 Sunderland",
+                            "result": "D"
+                        },
+                        {
+                            "date": "07/01/2026",
+                            "competition": "Premier League",
+                            "teams_and_score": "Brentford 3 - 0 Sunderland",
+                            "result": "L"
+                        }
+                    ]
+                }
+            },
+            "description": "Watch Bournemouth FC vs Sunderland highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on February 28, 2026."
+        }
+    ]
+}
