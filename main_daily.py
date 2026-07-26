@@ -1,4 +1,3 @@
-from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 import json
 import os
@@ -9,12 +8,15 @@ import pytz
 import requests
 
 BASE_URL = "https://refooty.com"
-OUTPUT_FILE = "refooty.json"
+OUTPUT_FILE = "latest_daily.json"
+STATE_FILE = "last_seen.json"
 
 GITHUB_USER = "api00007"
 GITHUB_REPO = "Refooty"
 GITHUB_EMAIL = "sptv5204@gmail.com"
-GITHUB_TOKEN = "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"  # <--- আপনার আসল গিটহাব PAT টোকেনটি এখানে বসাবেন
+GITHUB_TOKEN = os.environ.get(
+    "PAT_TOKEN", "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"
+)
 
 HEADERS = {
     "User-Agent": (
@@ -26,13 +28,11 @@ HEADERS = {
 
 
 def get_ist_time():
-    """ভারতীয়/বাংলাদেশী সময় বের করা"""
     tz = pytz.timezone("Asia/Kolkata")
-    return datetime.now(tz).strftime("%d/%m/%Y %H:%M:%S IST")
+    return datetime.now(tz).strftime("%I:%M:%S %p %d-%m-%Y")
 
 
 def clean_text(text):
-    """ইমোজি ও অপ্রয়োজনীয় প্রতীক মুছে টেক্সট পরিষ্কার করা"""
     if not text:
         return ""
     cleaned = re.sub(r"[^\w\s-]", "", text)
@@ -40,8 +40,9 @@ def clean_text(text):
 
 
 def extract_m3u8(html_content):
-    """HTML থেকে m3u8 স্ট্রিম লিংক বের করা"""
-    m3u8_matches = re.findall(r"https?://[^\s'\"]+\.m3u8[^\s'\"]*", html_content)
+    m3u8_matches = re.findall(
+        r"https?://[^\s'\"]+\.m3u8[^\s'\"]*", html_content
+    )
     if m3u8_matches:
         return m3u8_matches[0]
 
@@ -52,8 +53,25 @@ def extract_m3u8(html_content):
     return None
 
 
+def extract_teams_from_title(title):
+    if not title:
+        return None, None
+    clean_t = re.sub(
+        r"\b(full match|highlights|goals|watch)\b",
+        "",
+        title,
+        flags=re.IGNORECASE,
+    ).strip()
+    parts = re.split(r"\s+(?:vs|v|-|–|—)\s+", clean_t, flags=re.IGNORECASE)
+    if len(parts) >= 2:
+        t1 = parts[0].strip()
+        t2 = parts[1].strip()
+        if t1 and t2:
+            return t1, t2
+    return None, None
+
+
 def scrape_match_details(session, match_url):
-    """একটি ম্যাচের সব কাস্টম ডাটা পার্স করে"""
     try:
         res = session.get(match_url, timeout=12)
         res.encoding = "utf-8"
@@ -63,23 +81,24 @@ def scrape_match_details(session, match_url):
 
         soup = BeautifulSoup(res.text, "html.parser")
 
-        # ১. বেসিক তথ্য
         title_el = soup.find("h1", class_="video-title")
         title = title_el.text.strip() if title_el else "Football Match"
 
         comp_el = soup.find("a", class_="competition-link")
-        competition = comp_el.text.strip() if comp_el else "Unknown Competition"
+        competition = (
+            comp_el.text.strip() if comp_el else "Unknown Competition"
+        )
 
         date_el = soup.find("span", class_="meta-date")
         match_date = date_el.text.strip() if date_el else ""
 
-        # ২. প্রতিযোগিতা কভার পিকচার (Cover Image)
         competition_cover = ""
-        cover_match = re.search(r"(/covers/[a-zA-Z0-9\-_.]+\.webp)", res.text)
+        cover_match = re.search(
+            r"(/covers/[a-zA-Z0-9\-_.]+\.webp)", res.text
+        )
         if cover_match:
             competition_cover = urljoin(BASE_URL, cover_match.group(1))
 
-        # ৩. টিমের তথ্য ও লোগো
         home_team = soup.find("div", class_="score-team home-team")
         home_name = "Home Team"
         home_logo = ""
@@ -109,7 +128,20 @@ def scrape_match_details(session, match_url):
         status_el = soup.find("span", class_="score-label")
         match_status = status_el.text.strip() if status_el else "FT"
 
-        # ৪. ডেসক্রিপশন (ক্লিন টেক্সট)
+        events_info = {
+            "away_team": {
+                "logo": away_logo,
+                "name": away_name,
+                "score": away_score,
+            },
+            "home_team": {
+                "logo": home_logo,
+                "name": home_name,
+                "score": home_score,
+            },
+            "status": match_status,
+        }
+
         description = ""
         desc_container = soup.find("div", class_="description-container")
         if desc_container:
@@ -121,7 +153,6 @@ def scrape_match_details(session, match_url):
             )
             description = re.sub(r"\s+", " ", raw_text).strip()
 
-        # ৫. থাম্বনেইল লিংক
         thumbnail_url = ""
         og_image = soup.find("meta", property="og:image")
         if og_image and og_image.get("content"):
@@ -131,7 +162,6 @@ def scrape_match_details(session, match_url):
             if video_el and video_el.get("poster"):
                 thumbnail_url = video_el["poster"]
 
-        # ৬. স্ট্রিম পার্টস (Only Streams)
         streams = []
         seen_m3u8 = set()
         all_links = soup.find_all("a", href=True)
@@ -182,7 +212,6 @@ def scrape_match_details(session, match_url):
             if m3u8_link:
                 streams.append({"part": "Full Stream", "m3u8_url": m3u8_link})
 
-        # ৭. স্ট্যাটিস্টিক্স (টিমের অরিজিনাল নাম দিয়ে)
         stats = {}
         stat_rows = soup.find_all("div", class_="stat-row")
         for row in stat_rows:
@@ -205,7 +234,6 @@ def scrape_match_details(session, match_url):
                 away_name: away_pos.text.strip(),
             }
 
-        # ৮. সামারি ইভেন্টস (Events Timeline)
         events = []
         events_container = soup.find("div", class_="match-events")
         if events_container:
@@ -216,13 +244,17 @@ def scrape_match_details(session, match_url):
                 item = wrap.find("div", class_="event-item")
                 if item:
                     item_classes = item.get("class", [])
-                    actual_team = home_name if "home" in item_classes else away_name
+                    actual_team = (
+                        home_name if "home" in item_classes else away_name
+                    )
 
                     time_el = item.find("div", class_="event-time")
                     time_val = time_el.text.strip() if time_el else ""
 
                     player_el = item.find("span", class_="player-name")
-                    player_val = player_el.text.strip() if player_el else ""
+                    player_val = (
+                        player_el.text.strip() if player_el else ""
+                    )
 
                     assist_el = item.find("span", class_="assist-name")
                     assist_val = (
@@ -264,12 +296,19 @@ def scrape_match_details(session, match_url):
 
                     events.append(ev_obj)
 
-        # ৯. হেড-টু-হেড (H2H Data)
         h2h_data = {
             "summary": {},
             "previous_matches": [],
-            "home_team_form": {"team": home_name, "form": [], "recent_matches": []},
-            "away_team_form": {"team": away_name, "form": [], "recent_matches": []},
+            "home_team_form": {
+                "team": home_name,
+                "form": [],
+                "recent_matches": [],
+            },
+            "away_team_form": {
+                "team": away_name,
+                "form": [],
+                "recent_matches": [],
+            },
         }
 
         h2h_container = soup.find("div", class_="match-h2h")
@@ -280,13 +319,17 @@ def scrape_match_details(session, match_url):
                 dr = sum_el.find("div", class_="stat-item draw")
                 aw = sum_el.find("div", class_="stat-item away")
                 h2h_data["summary"] = {
-                    f"{home_name}_wins": hw.find("span", class_="stat-value").text.strip()
+                    f"{home_name}_wins": hw.find(
+                        "span", class_="stat-value"
+                    ).text.strip()
                     if hw and hw.find("span", class_="stat-value")
                     else "0",
                     "draws": dr.find("span", class_="stat-value").text.strip()
                     if dr and dr.find("span", class_="stat-value")
                     else "0",
-                    f"{away_name}_wins": aw.find("span", class_="stat-value").text.strip()
+                    f"{away_name}_wins": aw.find(
+                        "span", class_="stat-value"
+                    ).text.strip()
                     if aw and aw.find("span", class_="stat-value")
                     else "0",
                 }
@@ -298,19 +341,17 @@ def scrape_match_details(session, match_url):
                     comp_el = row.find("span", class_="competition")
                     teams_el = row.find("div", class_="match-teams")
 
-                    h2h_data["previous_matches"].append(
-                        {
-                            "date": d_el.text.strip() if d_el else "",
-                            "competition": comp_el.text.strip()
-                            if comp_el
-                            else "",
-                            "teams_and_score": re.sub(
-                                r"\s+", " ", teams_el.text
-                            ).strip()
-                            if teams_el
-                            else "",
-                        }
-                    )
+                    h2h_data["previous_matches"].append({
+                        "date": d_el.text.strip() if d_el else "",
+                        "competition": comp_el.text.strip()
+                        if comp_el
+                        else "",
+                        "teams_and_score": re.sub(
+                            r"\s+", " ", teams_el.text
+                        ).strip()
+                        if teams_el
+                        else "",
+                    })
 
             home_form_tab = h2h_container.find("div", id="h2h-tab-home-form")
             if home_form_tab:
@@ -324,20 +365,18 @@ def scrape_match_details(session, match_url):
                     comp_el = row.find("span", class_="competition")
                     teams_el = row.find("div", class_="match-teams")
                     res_el = row.find("div", class_="result-badge")
-                    matches.append(
-                        {
-                            "date": d_el.text.strip() if d_el else "",
-                            "competition": comp_el.text.strip()
-                            if comp_el
-                            else "",
-                            "teams_and_score": re.sub(
-                                r"\s+", " ", teams_el.text
-                            ).strip()
-                            if teams_el
-                            else "",
-                            "result": res_el.text.strip() if res_el else "",
-                        }
-                    )
+                    matches.append({
+                        "date": d_el.text.strip() if d_el else "",
+                        "competition": comp_el.text.strip()
+                        if comp_el
+                        else "",
+                        "teams_and_score": re.sub(
+                            r"\s+", " ", teams_el.text
+                        ).strip()
+                        if teams_el
+                        else "",
+                        "result": res_el.text.strip() if res_el else "",
+                    })
                 h2h_data["home_team_form"]["form"] = dots
                 h2h_data["home_team_form"]["recent_matches"] = matches
 
@@ -353,118 +392,89 @@ def scrape_match_details(session, match_url):
                     comp_el = row.find("span", class_="competition")
                     teams_el = row.find("div", class_="match-teams")
                     res_el = row.find("div", class_="result-badge")
-                    matches.append(
-                        {
-                            "date": d_el.text.strip() if d_el else "",
-                            "competition": comp_el.text.strip()
-                            if comp_el
-                            else "",
-                            "teams_and_score": re.sub(
-                                r"\s+", " ", teams_el.text
-                            ).strip()
-                            if teams_el
-                            else "",
-                            "result": res_el.text.strip() if res_el else "",
-                        }
-                    )
+                    matches.append({
+                        "date": d_el.text.strip() if d_el else "",
+                        "competition": comp_el.text.strip()
+                        if comp_el
+                        else "",
+                        "teams_and_score": re.sub(
+                            r"\s+", " ", teams_el.text
+                        ).strip()
+                        if teams_el
+                        else "",
+                        "result": res_el.text.strip() if res_el else "",
+                    })
                 h2h_data["away_team_form"]["form"] = dots
                 h2h_data["away_team_form"]["recent_matches"] = matches
 
         return {
             "title": title,
+            "thumbnail_url": thumbnail_url,
             "competition": competition,
             "competition_cover": competition_cover,
             "date": match_date,
-            "thumbnail_url": thumbnail_url,
-            "teams": {
-                "home_team": {
-                    "name": home_name,
-                    "logo": home_logo,
-                    "score": home_score,
-                },
-                "away_team": {
-                    "name": away_name,
-                    "logo": away_logo,
-                    "score": away_score,
-                },
-                "status": match_status,
-            },
+            "events_info": events_info,
             "streams": streams,
-            "statistics": stats,
             "events_timeline": events,
             "head_to_head": h2h_data,
+            "statistics": stats,
             "description": description,
         }
 
-    except Exception as e:
-        print(f"Error scraping {match_url}: {e}")
+    except Exception:
         return None
 
 
-def get_all_match_urls(session):
-    """API এর মাধ্যমে ১ থেকে শেষ পেজ পর্যন্ত সব ৪,৫৩৬+ টি ম্যাচের Slug সংগ্রহ করা (খালি পেজ ইগনোর লজিকসহ)"""
-    match_urls = []
-    page = 1
-    consecutive_empty = 0
-    print("[-] API থেকে ওয়েবসাইটের সকল ম্যাচের Slug পয়েন্ট সংগ্রহ করা হচ্ছে...")
-
-    while True:
-        api_url = f"{BASE_URL}/api/videos/latest.json?page={page}&per_page=50&locale=en"
+def load_last_seen_slug():
+    if os.path.exists(STATE_FILE):
         try:
-            res = session.get(api_url, timeout=15)
-            res.encoding = "utf-8"
+            with open(STATE_FILE, "r", encoding="utf-8") as f:
+                st = json.load(f)
+                return st.get("last_slug", "")
+        except Exception:
+            pass
+    return ""
 
-            if res.status_code != 200:
-                print(f"[!] পেজ {page} এ সমস্যা (Status: {res.status_code})। পরবর্তী পেজে যাওয়া হচ্ছে...")
-                page += 1
-                consecutive_empty += 1
-                if consecutive_empty >= 5:
-                    break
+
+def save_last_seen_slug(slug):
+    if slug:
+        with open(STATE_FILE, "w", encoding="utf-8") as f:
+            json.dump({"last_slug": slug}, f, indent=2)
+
+
+def fetch_new_matches_only(session):
+    last_slug = load_last_seen_slug()
+    api_url = f"{BASE_URL}/api/videos/latest.json?page=1&per_page=25&locale=en"
+    new_match_urls = []
+
+    try:
+        res = session.get(api_url, timeout=15)
+        res.encoding = "utf-8"
+
+        if res.status_code != 200:
+            return []
+
+        data = res.json()
+        videos = data.get("videos", [])
+
+        for item in videos:
+            slug = item.get("slug")
+            if not slug:
                 continue
 
-            data = res.json()
-            videos = data.get("videos", [])
-
-            # খালি পেজ ইগনোর লজিক (videos: [])
-            if not videos or len(videos) == 0:
-                print(f"[!] পেজ {page} খালি (০ টি ভিডিও)। স্কিপ করে পেজ {page+1}-এ যাওয়া হচ্ছে...")
-                page += 1
-                consecutive_empty += 1
-                if consecutive_empty >= 5: # পরপর ৫টি পেজ খালি থাকলে বোঝা যাবে পেজ শেষ
-                    break
-                continue
-
-            # ভিডিও পেলে কাউন্টার রিসেট
-            consecutive_empty = 0
-
-            for item in videos:
-                slug = item.get("slug")
-                if slug:
-                    full_url = f"{BASE_URL}/video/{slug}"
-                    if full_url not in match_urls:
-                        match_urls.append(full_url)
-
-            has_more = data.get("hasMore", False)
-            print(f"[*] পেজ {page} স্ক্যান শেষ। সংগৃহীত মোট লিঙ্ক: {len(match_urls)}")
-
-            if not has_more and page > 100:
+            if slug == last_slug:
                 break
 
-            page += 1
+            full_url = f"{BASE_URL}/video/{slug}"
+            new_match_urls.append((slug, full_url))
 
-        except Exception as e:
-            print(f"[!] পেজ {page} স্ক্যান করতে সমস্যা: {e}")
-            page += 1
-            consecutive_empty += 1
-            if consecutive_empty >= 5:
-                break
+    except Exception:
+        pass
 
-    print(f"\n[+] সফলভাবে সর্বমোট {len(match_urls)} টি ম্যাচের লিঙ্ক পাওয়া গেছে!")
-    return match_urls
+    return new_match_urls
 
 
 def push_to_github():
-    print("[-] গিটহাবে refooty.json আপডেট করা হচ্ছে...")
     remote_url = f"https://{GITHUB_TOKEN}@github.com/{GITHUB_USER}/{GITHUB_REPO}.git"
 
     try:
@@ -472,66 +482,29 @@ def push_to_github():
         os.system(f'git config --global user.name "{GITHUB_USER}"')
         os.system(f"git remote set-url origin {remote_url}")
 
-        os.system("git add refooty.json")
-        os.system(f'git commit -m "Full All Matches Update: {get_ist_time()}"')
+        os.system("git add .")
+        os.system(
+            f'git commit -m "Incremental Daily Update: {get_ist_time()}"'
+        )
         os.system("git push origin main")
-
-        print("[SUCCESS] সমস্ত ৪,৫৩৬+ ম্যাচের ডাটা সফলভাবে গিটহাবে পুশ হয়েছে!")
-    except Exception as e:
-        print(f"[ERROR] পুশ ব্যর্থ: {e}")
+    except Exception:
+        pass
 
 
 def main():
-    print(f"\n[!] ReFooty অল-ম্যাচ মাস্টার স্ক্র্যাপার চালু হয়েছে: {get_ist_time()}")
-
     session = requests.Session()
     session.headers.update(HEADERS)
 
-    # ১. এপিআই এর মাধ্যমে সম্পূর্ণ ৪,৫৩৬টি ম্যাচের সোর্স লিংক সংগ্রহ
-    target_links = get_all_match_urls(session)
-
-    if not target_links:
-        print("[!] কোনো লিংক পাওয়া যায়নি।")
+    new_items = fetch_new_matches_only(session)
+    if not new_items:
         return
 
-    print(f"\n[-] ২০টি সমান্তরাল থ্রেডে {len(target_links)}টি ম্যাচ অতি দ্রুত স্ক্র্যাপ করা হচ্ছে...")
+    latest_top_slug = new_items[0][0]
 
-    # ২. সমান্তরালভাবে প্রসেসিং
-    def task(link):
-        thread_session = requests.Session()
-        thread_session.headers.update(HEADERS)
-        return scrape_match_details(thread_session, link)
-
-    matches_data = []
-    with ThreadPoolExecutor(max_workers=20) as executor:
-        results = executor.map(task, target_links)
-
-    for data in results:
+    scraped_matches = []
+    for slug, url in new_items:
+        data = scrape_match_details(session, url)
         if data:
-            matches_data.append(data)
+            scraped_matches.append(data)
 
-    # ৩. ফাইনাল জেসন তৈরি ও ফাইল সেভ
-    final_package = {
-        "Owner": GITHUB_USER,
-        "Telegram": "https://t.me/iVan_flux",
-        "App_name": "ReFooty All Matches Master Scraper",
-        "Last_update": get_ist_time(),
-        "Total_Matches": len(matches_data),
-        "matches": matches_data,
-    }
-
-    try:
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(final_package, f, indent=4, ensure_ascii=False)
-        print(f"\n[+] {OUTPUT_FILE} সেভ হয়েছে। মোট প্রসেসকৃত ম্যাচ: {len(matches_data)}")
-
-        # ৪. গিটহাবে পুশ
-        push_to_github()
-
-    except Exception as e:
-        print(f"[ERROR] সেভ ব্যর্থ: {e}")
-
-
-if __name__ == "__main__":
-    main()
-x
+    if scrap
