@@ -2,11 +2,46 @@
   "Total_Competitions": 17,
   "competitions": [
     {
+      "name": "Premiership - Scotland",
+      "slug": "premiership-scotland",
+      "cover_image": "https://refooty.com/covers/scottish-premiership.webp",
+      "total_matches": 7,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/premiership-scotland.json"
+    },
+    {
+      "name": "Unknown Competition",
+      "slug": "unknown-competition",
+      "cover_image": "",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/unknown-competition.json"
+    },
+    {
       "name": "Major League Soccer",
       "slug": "major-league-soccer",
       "cover_image": "https://refooty.com/covers/mls.webp",
-      "total_matches": 30,
+      "total_matches": 36,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/major-league-soccer.json"
+    },
+    {
+      "name": "UEFA Europa League",
+      "slug": "uefa-europa-league",
+      "cover_image": "https://refooty.com/covers/uefa-europa-league.webp",
+      "total_matches": 18,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-league.json"
+    },
+    {
+      "name": "UEFA Europa Conference League",
+      "slug": "uefa-europa-conference-league",
+      "cover_image": "https://refooty.com/covers/uefa-europa-conference-league.webp",
+      "total_matches": 38,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-conference-league.json"
+    },
+    {
+      "name": "Friendly",
+      "slug": "friendly",
+      "cover_image": "https://refooty.com/covers/friendly.webp",
+      "total_matches": 135,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/friendly.json"
     },
     {
       "name": "Argentine Primera División",
@@ -16,39 +51,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/argentine-primera-división.json"
     },
     {
-      "name": "UEFA Europa Conference League",
-      "slug": "uefa-europa-conference-league",
-      "cover_image": "https://refooty.com/covers/uefa-europa-conference-league.webp",
-      "total_matches": 25,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-conference-league.json"
-    },
-    {
-      "name": "Friendly",
-      "slug": "friendly",
-      "cover_image": "https://refooty.com/covers/friendly.webp",
-      "total_matches": 132,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/friendly.json"
-    },
-    {
       "name": "UEFA Champions League",
       "slug": "uefa-champions-league",
       "cover_image": "https://refooty.com/covers/uefa-champions-league.webp",
       "total_matches": 18,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-champions-league.json"
-    },
-    {
-      "name": "UEFA Europa League",
-      "slug": "uefa-europa-league",
-      "cover_image": "https://refooty.com/covers/uefa-europa-league.webp",
-      "total_matches": 10,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-league.json"
-    },
-    {
-      "name": "Unknown Competition",
-      "slug": "unknown-competition",
-      "cover_image": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/unknown-competition.json"
     },
     {
       "name": "Liga 1 - Indonesia",
@@ -70,13 +77,6 @@
       "cover_image": "https://refooty.com/covers/carabao.webp",
       "total_matches": 2,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/carabao.json"
-    },
-    {
-      "name": "Premiership - Scotland",
-      "slug": "premiership-scotland",
-      "cover_image": "https://refooty.com/covers/scottish-premiership.webp",
-      "total_matches": 6,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/premiership-scotland.json"
     },
     {
       "name": "Eredivisie",

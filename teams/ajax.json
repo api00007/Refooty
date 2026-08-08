@@ -1,9 +1,217 @@
 {
   "team": "Ajax",
   "team_logo": "https://img.refooty.com/logo/teams/194.webp",
-  "total_matches": 3,
-  "Last update time": "05:30:46 AM 07-08-2026",
+  "total_matches": 4,
+  "Last update time": "05:30:17 AM 08-08-2026",
   "matches": [
+    {
+      "title": "Ajax vs Shelbourne",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/ajax-vs-shelbourne-2026-08-06-ihmJ.webp",
+      "competition": "UEFA Europa Conference League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-conference-league.webp",
+      "date": "Aug 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/3854.webp",
+          "name": "Shelbourne",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/194.webp",
+          "name": "Ajax",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/ajax-vs-shelbourne-2026-08-06_qEgac.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Ajax",
+          "player": "M. Godts",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Ajax",
+          "player": "O. Wijndal",
+          "event_type": "Goal",
+          "assist": "S. Berghuis",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Shelbourne",
+          "player": "E. Caffrey",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Ajax",
+          "player": "K. Dolberg",
+          "event_type": "Goal",
+          "assist": "S. Berghuis",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "76'",
+          "team": "Ajax",
+          "player": "M. Godts",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "91'",
+          "team": "Shelbourne",
+          "player": "D. Kelly",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "Ajax",
+          "player": "J. Mokio",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Ajax_wins": "0",
+          "draws": "0",
+          "Shelbourne_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Ajax",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Ajax 3 - 1 Shelbourne",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "FC Volendam 1 - 3 Ajax",
+              "result": "W"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Ajax 4 - 1 Vojvodina",
+              "result": "W"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Ajax 2 - 1 Burnley",
+              "result": "W"
+            },
+            {
+              "date": "23/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Vojvodina 1 - 4 Ajax",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Shelbourne",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Ajax 3 - 1 Shelbourne",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "League of Ireland Premier Division",
+              "teams_and_score": "Waterford FC 1 - 0 Shelbourne",
+              "result": "L"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Nomme Kalju FC 2 - 1 Shelbourne",
+              "result": "L"
+            },
+            {
+              "date": "17/07/2026",
+              "competition": "FAI Cup",
+              "teams_and_score": "Kerry 2 - 2 Shelbourne",
+              "result": "D"
+            },
+            {
+              "date": "07/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Shelbourne 1 - 1 Celtic",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Ajax": "11",
+          "Shelbourne": "3"
+        },
+        "shots_off_target": {
+          "Ajax": "15",
+          "Shelbourne": "0"
+        },
+        "shots_blocked": {
+          "Ajax": "6",
+          "Shelbourne": "0"
+        },
+        "corners": {
+          "Ajax": "14",
+          "Shelbourne": "0"
+        },
+        "fouls": {
+          "Ajax": "11",
+          "Shelbourne": "4"
+        },
+        "offsides": {
+          "Ajax": "3",
+          "Shelbourne": "1"
+        },
+        "yellow_cards": {
+          "Ajax": "1",
+          "Shelbourne": "1"
+        },
+        "goalkeeper_saves": {
+          "Ajax": "2",
+          "Shelbourne": "8"
+        },
+        "ball_possession": {
+          "Ajax": "71%",
+          "Shelbourne": "29%"
+        }
+      },
+      "description": "Watch Ajax vs Shelbourne highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on August 6, 2026. A European showdown under the lights On August 6, 2026, Ajax faced Shelbourne in a highly anticipated UEFA Europa Conference League fixture. The atmosphere was charged with expectation as both sides looked to make their mark in this critical European match. Dominance from the start The match began with Ajax asserting their authority early. Just 6 minutes in, Mika Godts confidently dispatched a penalty to give the hosts an early lead. The pressure remained relentless, and at the 22-minute mark, Owen Wijndal doubled the advantage for the home side, expertly set up by a precise assist from Steven Berghuis . Throughout the first half, Ajax dictated the tempo, forcing the Shelbourne defense into constant, frantic recovery efforts. Second-half drama and resistance As the second half commenced, Ajax picked up where they left off. Kasper Dolberg found the back of the net in the 50th minute, once again benefiting from a Steven Berghuis delivery. Despite a momentary setback when Mika Godts missed a second penalty chance at the 57th minute, the match remained intense. Shelbourne fought back with resilience as the clock ticked down, eventually finding a breakthrough through Daniel Kelly in the 84th minute. Though both sides made several substitutions to freshen their lineups, the score held steady through the final whistle, concluding a hard-fought battle."
+    },
     {
       "title": "FC Volendam vs Ajax",
       "thumbnail_url": "https://img.refooty.com/thumbnail/fc-volendam-vs-ajax-2026-08-02-ywEA.webp",
