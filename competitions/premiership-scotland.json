@@ -1,9 +1,433 @@
 {
   "competition": "Premiership - Scotland",
   "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-  "total_matches": 7,
-  "Last update time": "07:30:11 AM 08-08-2026",
+  "total_matches": 9,
+  "Last update time": "05:30:18 AM 09-08-2026",
   "matches": [
+    {
+      "title": "Dundee - Aberdeen",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-aberdeen-2026-08-08-mhwX.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/252.webp",
+          "name": "Aberdeen",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/253.webp",
+          "name": "Dundee FC",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/dundee-aberdeen-2026-08-08_gCkXX.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Dundee FC",
+          "player": "J. Westley",
+          "event_type": "Goal",
+          "assist": "J. Bevan",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Aberdeen",
+          "player": "A. Briedl",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Aberdeen",
+          "player": "L. Mayo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Aberdeen",
+          "player": "S. Robinson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Dundee FC",
+          "player": "J. Westley",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Dundee FC",
+          "player": "J. Bevan",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Aberdeen",
+          "player": "J. Milne",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Dundee FC_wins": "2",
+          "draws": "1",
+          "Aberdeen_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "17/05/2026",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Dundee FC 3 - 2 Aberdeen"
+          },
+          {
+            "date": "21/02/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Aberdeen 2 - 3 Dundee FC"
+          },
+          {
+            "date": "15/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee FC 1 - 2 Aberdeen"
+          },
+          {
+            "date": "13/04/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Aberdeen 0 - 0 Dundee FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Dundee FC",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Dundee FC 4 - 0 Clyde",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Dundee FC 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Annan Athletic 0 - 5 Dundee FC",
+              "result": "W"
+            },
+            {
+              "date": "08/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brechin City 1 - 1 Dundee FC",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Aberdeen",
+          "form": [
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group A",
+              "teams_and_score": "Aberdeen 3 - 0 Kelty Hearts",
+              "result": "W"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Linfield 0 - 2 Aberdeen",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Dundee FC": "7",
+          "Aberdeen": "3"
+        },
+        "shots_off_target": {
+          "Dundee FC": "7",
+          "Aberdeen": "4"
+        },
+        "shots_blocked": {
+          "Dundee FC": "4",
+          "Aberdeen": "2"
+        },
+        "corners": {
+          "Dundee FC": "5",
+          "Aberdeen": "4"
+        },
+        "fouls": {
+          "Dundee FC": "9",
+          "Aberdeen": "12"
+        },
+        "offsides": {
+          "Dundee FC": "0",
+          "Aberdeen": "2"
+        },
+        "yellow_cards": {
+          "Dundee FC": "1",
+          "Aberdeen": "3"
+        },
+        "goalkeeper_saves": {
+          "Dundee FC": "3",
+          "Aberdeen": "5"
+        },
+        "crosses": {
+          "Dundee FC": "3",
+          "Aberdeen": "6"
+        },
+        "ball_possession": {
+          "Dundee FC": "47%",
+          "Aberdeen": "53%"
+        }
+      },
+      "description": "Watch Dundee FC vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Scottish Premiership season continued with a high-stakes encounter as Dundee FC faced off against Aberdeen . Fans gathered in anticipation of a contest that promised both tactical discipline and offensive ambition from the opening whistle. Early Breakthrough and First Half Discipline On August 8, 2026 , the match ignited early with a showcase of clinical attacking play. In the 9th minute, the deadlock was broken when Joe Bevan turned provider, delivering a precise ball to Joe Westley , who made no mistake in finding the back of the net. This early advantage for Aberdeen set the tone for a physical contest, as Dundee FC struggled to find an immediate rhythm. The intensity of the match was reflected in the referee's notebook, starting with a yellow card for Alexander Briedl in the 12th minute. As the first half progressed, the battle in midfield grew more contested. Lewis Mayo received a booking in the 38th minute for a mistimed challenge, and goalscorer Joe Westley joined him in the book just before the interval in the 44th minute. Despite the cautions, the visitors remained composed, maintaining their lead as both sides retreated to the dressing rooms for half-time adjustments. Bevan Doubles the Lead as Substitutions Flow The second half began with a tactical reshuffle, as Dundee FC introduced Lewis Smith and Ayoub Mouloua to inject energy into their lineup. However, it was Aberdeen who struck again to tighten their grip on the match. In the 56th minute, the roles shifted for Joe Bevan ; after assisting the opener, he found the net himself to double the lead. This second goal provided a significant cushion and forced the hosts into further defensive vulnerability as they chased the game. The final half-hour saw a flurry of activity on the benches, with both managers utilizing their full squads. Players like Finlay Robertson , Ashley Hay , and Jack Milne were introduced to manage the closing stages. Although Jack Milne picked up a late yellow card in the 90th minute, the result was never in doubt. The referee blew the final whistle at 90+4 minutes, confirming a disciplined and effective performance by the visitors on the road."
+    },
+    {
+      "title": "St. Mirren - St. Johnstone",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-st-johnstone-2026-08-08-0lBB.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/258.webp",
+          "name": "ST Johnstone",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/251.webp",
+          "name": "ST Mirren",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-st-johnstone-2026-08-08_gNaYn.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "ST Mirren",
+          "player": "M. Fraser",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "ST Mirren",
+          "player": "R. Carr",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "ST Johnstone",
+          "player": "J. Gullan",
+          "event_type": "Goal",
+          "score_update": "0 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "ST Johnstone",
+          "player": "J. Gullan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "ST Mirren",
+          "player": "K. Phillips",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "ST Mirren_wins": "2",
+          "draws": "1",
+          "ST Johnstone_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "01/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "St. Mirren 0 - 1 St. Johnstone"
+          },
+          {
+            "date": "24/02/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "St. Mirren 2 - 0 St. Johnstone"
+          },
+          {
+            "date": "25/02/2023",
+            "competition": "Premiership 22/23",
+            "teams_and_score": "St. Johnstone 1 - 1 St. Mirren"
+          },
+          {
+            "date": "30/04/2022",
+            "competition": "Premiership: Relegation Group 21/22",
+            "teams_and_score": "St. Johnstone 0 - 1 St. Mirren"
+          }
+        ],
+        "home_team_form": {
+          "team": "ST Mirren",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "St. Mirren 1 - 0 St. Johnstone",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Scottish League Cup: Group C",
+              "teams_and_score": "St. Mirren 0 - 1 Dunfermline Athletic",
+              "result": "W"
+            },
+            {
+              "date": "27/06/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Arbroath 2 - 4 St. Mirren",
+              "result": "W"
+            },
+            {
+              "date": "25/05/2026",
+              "competition": "Premiership: Qualification",
+              "teams_and_score": "St. Mirren 1 - 0 Partick Thistle",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Premiership: Relegation Group",
+              "teams_and_score": "St. Mirren 1 - 1 Dundee United",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "ST Johnstone",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "St. Mirren 1 - 0 St. Johnstone",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group F",
+              "teams_and_score": "St. Johnstone 1 - 1 East Fife",
+              "result": "D"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cove Rangers 2 - 4 St. Johnstone",
+              "result": "W"
+            },
+            {
+              "date": "01/05/2026",
+              "competition": "Championship",
+              "teams_and_score": "Ayr United 0 - 1 St. Johnstone",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "ST Mirren": "4",
+          "ST Johnstone": "2"
+        },
+        "shots_off_target": {
+          "ST Mirren": "5",
+          "ST Johnstone": "4"
+        },
+        "shots_blocked": {
+          "ST Mirren": "4",
+          "ST Johnstone": "3"
+        },
+        "corners": {
+          "ST Mirren": "5",
+          "ST Johnstone": "2"
+        },
+        "fouls": {
+          "ST Mirren": "11",
+          "ST Johnstone": "8"
+        },
+        "offsides": {
+          "ST Mirren": "2",
+          "ST Johnstone": "1"
+        },
+        "yellow_cards": {
+          "ST Mirren": "2",
+          "ST Johnstone": "1"
+        },
+        "goalkeeper_saves": {
+          "ST Mirren": "2",
+          "ST Johnstone": "3"
+        },
+        "crosses": {
+          "ST Mirren": "2",
+          "ST Johnstone": "6"
+        },
+        "ball_possession": {
+          "ST Mirren": "52%",
+          "ST Johnstone": "48%"
+        }
+      },
+      "description": "Watch ST Mirren vs ST Johnstone highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The atmosphere was thick with anticipation as two determined sides faced off in a crucial Scottish Premiership encounter. With league positions at stake, both teams looked to establish dominance early in what promised to be a fascinating tactical battle. A Cautious Opening Exchange The match on 2026-08-08 began with a display of high physical intensity and disciplined defending. St. Mirren looked to control the tempo, but the rhythm was frequently interrupted by the referee’s whistle. Marcus Fraser received an early yellow card in the 6th minute, setting the tone for a gritty first half. St. Johnstone remained resilient, though they struggled to create clear-cut chances. As the half progressed, Ryan Carr also entered the book in the 29th minute, and both sides headed into the break with the deadlock still intact. Penalty Drama and the Decisive Moment The second half provided the spark the fans had been waiting for, starting with a massive missed opportunity for the visitors. In the 49th minute, St. Johnstone were awarded a penalty, but Jamie Gullan failed to convert, much to the relief of the home crowd. The tension rose as Gullan was cautioned minutes later. The turning point arrived in the 73rd minute when St. Mirren won a penalty of their own. Killian Phillips stepped up and clinicaly dispatched his effort to give the hosts the lead. Following the goal, a series of tactical substitutions involving Louis Lloyd and Kai Fotheringham refreshed both lineups, but the home side held firm to secure a hard-fought victory."
+    },
     {
       "title": "Partick Thistle - Livingston",
       "thumbnail_url": "https://img.refooty.com/thumbnail/partick-thistle-livingston-2026-08-07-X5wH.webp",

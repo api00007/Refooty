@@ -1,11 +1,32 @@
 {
-  "Total_Competitions": 17,
+  "Total_Competitions": 18,
   "competitions": [
+    {
+      "name": "Premiership - Scotland",
+      "slug": "premiership-scotland",
+      "cover_image": "https://refooty.com/covers/scottish-premiership.webp",
+      "total_matches": 9,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/premiership-scotland.json"
+    },
+    {
+      "name": "Major League Soccer",
+      "slug": "major-league-soccer",
+      "cover_image": "https://refooty.com/covers/mls.webp",
+      "total_matches": 42,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/major-league-soccer.json"
+    },
+    {
+      "name": "Argentine Primera División",
+      "slug": "argentine-primera-división",
+      "cover_image": "https://refooty.com/covers/argentine-primera-division.webp",
+      "total_matches": 38,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/argentine-primera-división.json"
+    },
     {
       "name": "Friendly",
       "slug": "friendly",
       "cover_image": "https://refooty.com/covers/friendly.webp",
-      "total_matches": 137,
+      "total_matches": 138,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/friendly.json"
     },
     {
@@ -16,6 +37,13 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/primeira-liga.json"
     },
     {
+      "name": "2. Bundesliga",
+      "slug": "2-bundesliga",
+      "cover_image": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/2-bundesliga.json"
+    },
+    {
       "name": "Carabao",
       "slug": "carabao",
       "cover_image": "https://refooty.com/covers/carabao.webp",
@@ -23,25 +51,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/carabao.json"
     },
     {
-      "name": "Premiership - Scotland",
-      "slug": "premiership-scotland",
-      "cover_image": "https://refooty.com/covers/scottish-premiership.webp",
-      "total_matches": 7,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/premiership-scotland.json"
-    },
-    {
       "name": "Unknown Competition",
       "slug": "unknown-competition",
       "cover_image": "",
       "total_matches": 3,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/unknown-competition.json"
-    },
-    {
-      "name": "Major League Soccer",
-      "slug": "major-league-soccer",
-      "cover_image": "https://refooty.com/covers/mls.webp",
-      "total_matches": 36,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/major-league-soccer.json"
     },
     {
       "name": "UEFA Europa League",
@@ -56,13 +70,6 @@
       "cover_image": "https://refooty.com/covers/uefa-europa-conference-league.webp",
       "total_matches": 38,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-conference-league.json"
-    },
-    {
-      "name": "Argentine Primera División",
-      "slug": "argentine-primera-división",
-      "cover_image": "https://refooty.com/covers/argentine-primera-division.webp",
-      "total_matches": 37,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/argentine-primera-división.json"
     },
     {
       "name": "UEFA Champions League",
