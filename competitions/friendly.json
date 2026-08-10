@@ -1,132 +1,197 @@
 {
   "competition": "Friendly",
   "competition_cover": "https://refooty.com/covers/friendly.webp",
-  "total_matches": 156,
-  "Last update time": "05:31:11 AM 10-08-2026",
+  "total_matches": 166,
+  "Last update time": "07:35:25 AM 10-08-2026",
   "matches": [
     {
-      "title": "Nottingham Forest vs Barcelona",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/nottingham-forest-vs-barcelona-2026-08-08-De53.webp",
+      "title": "Manchester City vs Atletico Madrid",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-city-vs-atletico-madrid-2026-08-09-rAJH.webp",
       "competition": "Friendly",
       "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 8, 2026",
+      "date": "Aug 9, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/529.webp",
-          "name": "Barcelona",
+          "logo": "https://img.refooty.com/logo/teams/530.webp",
+          "name": "Atletico Madrid",
           "score": "1"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/65.webp",
-          "name": "Nottingham Forest",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/50.webp",
+          "name": "Manchester City",
+          "score": "3"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/nottingham-forest-vs-barcelona-2026-08-08_pPYKK.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/manchester-city-vs-atletico-madrid-2026-08-09_UeDcc.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "45+2'",
-          "team": "Barcelona",
-          "player": "Raphinha",
+          "time": "1'",
+          "team": "Atletico Madrid",
+          "player": "J. Dominguez",
           "event_type": "Goal",
           "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Atletico Madrid",
+          "player": "M. Hjulmand",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Manchester City",
+          "player": "O. Marmoush",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Manchester City",
+          "player": "O. Marmoush",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Manchester City",
+          "player": "J. Gvardiol",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Manchester City",
+          "player": "R. Aït-Nouri",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Nottingham Forest_wins": "0",
-          "draws": "0",
-          "Barcelona_wins": "0"
+          "Manchester City_wins": "0",
+          "draws": "1",
+          "Atletico Madrid_wins": "1"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "30/07/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Manchester City 1 - 2 Atletico Madrid"
+          },
+          {
+            "date": "13/04/2022",
+            "competition": "Quarter-Finals 21/22",
+            "teams_and_score": "Atletico Madrid 0 - 0 Manchester City"
+          }
+        ],
         "home_team_form": {
-          "team": "Nottingham Forest",
+          "team": "Manchester City",
           "form": [
+            "W",
             "L",
-            "L",
-            "D",
-            "L"
+            "W",
+            "W",
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Nottingham Forest 0 - 1 Barcelona",
-              "result": "L"
-            },
-            {
-              "date": "31/07/2026",
+              "date": "09/08/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "Sporting CP 4 - 1 Nottingham Forest",
-              "result": "L"
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "W"
             },
             {
               "date": "24/05/2026",
               "competition": "Premier League 25/26",
-              "teams_and_score": "Nottingham Forest 1 - 1 AFC Bournemouth",
-              "result": "D"
+              "teams_and_score": "Manchester City 1 - 2 Aston Villa",
+              "result": "L"
             },
             {
-              "date": "07/05/2026",
-              "competition": "Semi-Finals",
-              "teams_and_score": "Aston Villa 4 - 0 Nottingham Forest",
-              "result": "L"
+              "date": "16/05/2026",
+              "competition": "FA Cup: Final",
+              "teams_and_score": "Chelsea 0 - 1 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Manchester City 3 - 0 Crystal Palace",
+              "result": "W"
+            },
+            {
+              "date": "25/04/2026",
+              "competition": "FA Cup: Semi-Finals",
+              "teams_and_score": "Manchester City 2 - 1 Southampton",
+              "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "Barcelona",
+          "team": "Atletico Madrid",
           "form": [
             "L",
-            "D",
-            "L"
+            "W",
+            "L",
+            "L",
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Udinese 1 - 0 Barcelona",
-              "result": "L"
-            },
-            {
-              "date": "31/07/2026",
+              "date": "09/08/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
-              "result": "D"
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "L"
             },
             {
-              "date": "23/05/2026",
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Atletico Madrid 4 - 1 Getafe",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
               "competition": "LaLiga 25/26",
-              "teams_and_score": "Valencia 3 - 1 Barcelona",
+              "teams_and_score": "Villarreal 5 - 1 Atletico Madrid",
               "result": "L"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Semi-Finals",
+              "teams_and_score": "Arsenal 1 - 0 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Valencia 0 - 2 Atletico Madrid",
+              "result": "W"
             }
           ]
         }
       },
       "statistics": {},
-      "description": "Watch Nottingham Forest vs Barcelona highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
+      "description": "Watch Manchester City vs Atletico Madrid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
     },
     {
-      "title": "Eintracht Frankfurt vs Hull City",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/eintracht-frankfurt-vs-hull-city-2026-08-08-uv4C.webp",
+      "title": "Arsenal vs Borussia Dortmund",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/arsenal-vs-borussia-dortmund-2026-08-09-HfSj.webp",
       "competition": "Friendly",
       "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 8, 2026",
+      "date": "Aug 9, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/64.webp",
-          "name": "Hull City",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/165.webp",
+          "name": "Borussia Dortmund",
+          "score": "3"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/169.webp",
-          "name": "Eintracht Frankfurt",
+          "logo": "https://img.refooty.com/logo/teams/42.webp",
+          "name": "Arsenal",
           "score": "2"
         },
         "status": "FT"
@@ -134,100 +199,445 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/eintracht-frankfurt-vs-hull-city-2026-08-08_OGIL6.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/arsenal-vs-borussia-dortmund-2026-08-09_RMdwz.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "45+10'",
-          "team": "Eintracht Frankfurt",
-          "player": "J. Burkardt",
+          "time": "1'",
+          "team": "Borussia Dortmund",
+          "player": "S. Inacio",
           "event_type": "Goal",
-          "score_update": "1 - 0"
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Borussia Dortmund",
+          "player": "K. Karetsas",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "31'",
+          "team": "Arsenal",
+          "player": "G. Magalhães",
+          "event_type": "Yellow Card"
         },
         {
           "time": "46'",
-          "team": "Eintracht Frankfurt",
-          "player": "L. Arrhov",
+          "team": "Arsenal",
+          "player": "E. Nwaneri",
           "event_type": "Goal",
-          "score_update": "2 - 0"
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Borussia Dortmund",
+          "player": "K. J. Gadou",
+          "event_type": "Goal",
+          "score_update": "1 - 3"
+        },
+        {
+          "time": "76'",
+          "team": "Arsenal",
+          "player": "V. Gyökeres",
+          "event_type": "Goal",
+          "score_update": "2 - 3"
+        },
+        {
+          "time": "PEN 1",
+          "team": "Arsenal",
+          "player": "G. Jesus",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "PEN 1",
+          "team": "Borussia Dortmund",
+          "player": "M. Sabitzer",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "PEN 2",
+          "team": "Arsenal",
+          "player": "F. Vieira",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "PEN 2",
+          "team": "Borussia Dortmund",
+          "player": "L. Reggiani",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "PEN 3",
+          "team": "Arsenal",
+          "player": "P. Hincapié",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "PEN 3",
+          "team": "Borussia Dortmund",
+          "player": "T. Yamamoto",
+          "event_type": "Goal",
+          "score_update": "2 - 3"
+        },
+        {
+          "time": "PEN 4",
+          "team": "Arsenal",
+          "player": "G. Martinelli",
+          "event_type": "Goal",
+          "score_update": "4 - 3"
+        },
+        {
+          "time": "PEN 4",
+          "team": "Borussia Dortmund",
+          "player": "M. Albert",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "PEN 5",
+          "team": "Arsenal",
+          "player": "E. Nwaneri",
+          "event_type": "Goal",
+          "score_update": "5 - 4"
+        },
+        {
+          "time": "PEN 5",
+          "team": "Borussia Dortmund",
+          "player": "C. Chukwuemeka",
+          "event_type": "Goal",
+          "score_update": "4 - 4"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Eintracht Frankfurt_wins": "0",
+          "Arsenal_wins": "2",
           "draws": "0",
-          "Hull City_wins": "0"
+          "Borussia Dortmund_wins": "1"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "26/11/2014",
+            "competition": "Champions League grp. D",
+            "teams_and_score": "Arsenal 2 - 0 Borussia Dortmund"
+          },
+          {
+            "date": "06/11/2013",
+            "competition": "Champions League grp. F",
+            "teams_and_score": "Borussia Dortmund 0 - 1 Arsenal"
+          },
+          {
+            "date": "30/10/2002",
+            "competition": "Champions League grp. A",
+            "teams_and_score": "Borussia Dortmund 2 - 1 Arsenal"
+          }
+        ],
         "home_team_form": {
-          "team": "Eintracht Frankfurt",
+          "team": "Arsenal",
           "form": [
+            "L",
+            "D",
             "W",
-            "D"
+            "W",
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "08/08/2026",
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 2 - 3 Borussia Dortmund",
+              "result": "L"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Final",
+              "teams_and_score": "Paris Saint-Germain 1 - 1 Arsenal",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Crystal Palace 1 - 2 Arsenal",
+              "result": "W"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Semi-Finals",
+              "teams_and_score": "Arsenal 1 - 0 Atletico Madrid",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Arsenal 3 - 0 Fulham",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Borussia Dortmund",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 2 - 3 Borussia Dortmund",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Eintracht Frankfurt 2 - 0 Hull City",
+              "teams_and_score": "Fortuna Dusseldorf 2 - 1 Borussia Dortmund",
+              "result": "L"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Oberhausen 1 - 3 Borussia Dortmund",
               "result": "W"
             },
             {
               "date": "16/05/2026",
               "competition": "Bundesliga 25/26",
-              "teams_and_score": "Eintracht Frankfurt 2 - 2 VfB Stuttgart",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Hull City",
-          "form": [
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Eintracht Frankfurt 2 - 0 Hull City",
-              "result": "L"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "Championship: Play-offs 25/26",
-              "teams_and_score": "Hull City 1 - 0 Middlesbrough",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Hull City 2 - 1 Norwich City",
+              "teams_and_score": "Werder Bremen 0 - 2 Borussia Dortmund",
               "result": "W"
             }
           ]
         }
       },
       "statistics": {},
-      "description": "Watch Eintracht Frankfurt vs Hull City highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
+      "description": "Watch Arsenal vs Borussia Dortmund highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
     },
     {
-      "title": "Genoa vs Deportivo La Coruna",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/genoa-vs-deportivo-la-coruna-2026-08-08-bOUz.webp",
+      "title": "Chelsea vs Johor Darul Takzim FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-vs-johor-darul-takzim-fc-2026-08-09-5aM6.webp",
       "competition": "Friendly",
       "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 8, 2026",
+      "date": "Aug 9, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/544.webp",
-          "name": "Deportivo La Coruna",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/2523.webp",
+          "name": "Johor Darul Takzim FC",
+          "score": "2"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/495.webp",
-          "name": "Genoa",
+          "logo": "https://img.refooty.com/logo/teams/49.webp",
+          "name": "Chelsea",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/chelsea-vs-johor-darul-takzim-fc-2026-08-09_zuTjJ.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Chelsea",
+          "player": "A. Aiman",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Johor Darul Takzim FC",
+          "player": "L. Delap",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Chelsea",
+          "player": "E. Israfilov",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Johor Darul Takzim FC",
+          "player": "L. Delap",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "52'",
+          "team": "Chelsea",
+          "player": "J. Silva",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "54'",
+          "team": "Johor Darul Takzim FC",
+          "player": "Estêvão",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "62'",
+          "team": "Johor Darul Takzim FC",
+          "player": "L. Delap",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "65'",
+          "team": "Chelsea",
+          "player": "Arribas",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "66'",
+          "team": "Johor Darul Takzim FC",
+          "player": "N. Jackson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "68'",
+          "team": "Chelsea",
+          "player": "A. Cristian",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "75'",
+          "team": "Johor Darul Takzim FC",
+          "player": "G. Quenda",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "86'",
+          "team": "Chelsea",
+          "player": "Bergson",
+          "event_type": "Goal",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "89'",
+          "team": "Johor Darul Takzim FC",
+          "player": "A. Cristian",
+          "event_type": "Goal"
+        },
+        {
+          "time": "90+2'",
+          "team": "Johor Darul Takzim FC",
+          "player": "R. Watson",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Chelsea_wins": "0",
+          "draws": "0",
+          "Johor Darul Takzim FC_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Chelsea",
+          "form": [
+            "D",
+            "D",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Johor Darul Ta'zim FC 3 - 3 Chelsea",
+              "result": "D"
+            },
+            {
+              "date": "24/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Elche 0 - 0 Johor Darul Ta'zim FC",
+              "result": "D"
+            },
+            {
+              "date": "10/05/2026",
+              "competition": "Super League",
+              "teams_and_score": "Kelantan The Real Warriors 1 - 14 Johor Darul Ta'zim FC",
+              "result": "W"
+            },
+            {
+              "date": "17/04/2026",
+              "competition": "Champions League: Quarter-Finals",
+              "teams_and_score": "Al Ahli 2 - 1 Johor Darul Ta'zim FC",
+              "result": "L"
+            },
+            {
+              "date": "11/04/2026",
+              "competition": "Super League",
+              "teams_and_score": "Johor Darul Ta'zim FC 1 - 1 Terengganu",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Johor Darul Takzim FC",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Johor Darul Ta'zim FC 3 - 3 Chelsea",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Sunderland 2 - 1 Chelsea",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "FA Cup: Final",
+              "teams_and_score": "Chelsea 0 - 1 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Chelsea",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Chelsea vs Johor Darul Takzim FC highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The friendly encounter between Johor Darul Takzim FC and Chelsea on August 9, 2026, delivered a spectacle that few had anticipated. Both sets of supporters were treated to a match defined by tactical shifts and a relentless pursuit of victory in a high-octane environment. Second Half Intensity and the Penalty Breakthrough After a tightly contested opening period, the game exploded into life during the second half. The referee was kept busy early on, issuing yellow cards to J. Silva and Chelsea's Estêvão as the physical nature of the contest increased. The deadlock in the scoreline was broken in the 62nd minute when Liam Delap stepped up to convert a penalty, giving the visitors a 1-2 lead. However, the lead was short-lived. Just three minutes later, Arribas found the back of the net to bring Johor Darul Takzim FC level at 2-2. The intensity remained high as Nicolas Jackson , A. Cristian , and G. Quenda all entered the book in a frantic ten-minute spell that saw the momentum swing back and forth. A Late Twist at the Death As the match entered its final stages, it appeared that the home side had secured a famous result. In the 86th minute, Bergson struck to make it 3-2, sending the home crowd into raptures. But the drama was far from over. In a cruel twist for the hosts, A. Cristian inadvertently turned the ball into his own net in the 89th minute, handing Chelsea an equalizer. A late yellow card for R. Watson in stoppage time concluded the events, leaving both managers with plenty to reflect on after a thrilling 3-3 draw that showcased the attacking flair of both squads."
+    },
+    {
+      "title": "FC Schalke 04 vs Atalanta",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/fc-schalke-04-vs-atalanta-2026-08-09-i1hM.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/499.webp",
+          "name": "Atalanta",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/174.webp",
+          "name": "FC Schalke 04",
           "score": "0"
         },
         "status": "FT"
@@ -235,599 +645,498 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/genoa-vs-deportivo-la-coruna-2026-08-08_lMCAd.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/fc-schalke-04-vs-atalanta-2026-08-09_gW77D.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "46'",
-          "team": "Deportivo La Coruna",
-          "player": "K. Sanchez",
+          "time": "1'",
+          "team": "Atalanta",
+          "player": "G. Scamacca",
           "event_type": "Goal",
           "score_update": "0 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Genoa_wins": "0",
-          "draws": "0",
-          "Deportivo La Coruna_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Genoa",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Genoa 0 - 1 Deportivo La Coruna",
-              "result": "L"
-            },
-            {
-              "date": "04/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "AFC Bournemouth 10 - 1 Genoa",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Leicester City 0 - 1 Genoa",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Lecce 1 - 0 Genoa",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Deportivo La Coruna",
-          "form": [
-            "W",
-            "D",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Genoa 0 - 1 Deportivo La Coruna",
-              "result": "W"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Fiorentina 1 - 1 Deportivo La Coruna",
-              "result": "D"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "St. Pauli 2 - 2 Deportivo La Coruna",
-              "result": "D"
-            },
-            {
-              "date": "31/05/2026",
-              "competition": "LaLiga 2",
-              "teams_and_score": "Deportivo La Coruna 1 - 2 Las Palmas",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Genoa vs Deportivo La Coruna highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
-    },
-    {
-      "title": "Napoli vs Celta Vigo",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-vs-celta-vigo-2026-08-08-krbe.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/538.webp",
-          "name": "Celta Vigo",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/492.webp",
-          "name": "Napoli",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/napoli-vs-celta-vigo-2026-08-08_vYemI.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Napoli",
-          "player": "G. D. Lorenzo",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Celta Vigo",
-          "player": "F. Jutglà",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Napoli_wins": "0",
-          "draws": "0",
-          "Celta Vigo_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Napoli",
-          "form": [
-            "D",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 1 - 1 Celta Vigo",
-              "result": "D"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Napoli 2 - 1 Osasuna",
-              "result": "W"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 2 - 0 Carrarese",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Napoli 1 - 0 Udinese",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Celta Vigo",
-          "form": [
-            "D",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 1 - 1 Celta Vigo",
-              "result": "D"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "SC Braga 2 - 2 Celta Vigo",
-              "result": "D"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Celta Vigo 1 - 0 Sevilla",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Napoli vs Celta Vigo highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
-    },
-    {
-      "title": "Real Betis vs Bournemouth",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/real-betis-vs-bournemouth-2026-08-08-oXL2.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/35.webp",
-          "name": "Bournemouth",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/543.webp",
-          "name": "Real Betis",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/real-betis-vs-bournemouth-2026-08-08_r50Te.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Real Betis",
-          "player": "D. Gomez",
-          "event_type": "Yellow Card"
         },
         {
           "time": "16'",
-          "team": "Bournemouth",
-          "player": "M. Tavernier",
+          "team": "Atalanta",
+          "player": "L. Samardžić",
           "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Real Betis",
-          "player": "Antony",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "31'",
-          "team": "Real Betis",
-          "player": "N. Deossa",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Bournemouth",
-          "player": "A. Scott",
-          "event_type": "Red Card"
+          "score_update": "0 - 2"
         },
         {
           "time": "46'",
-          "team": "Real Betis",
-          "player": "C. Hernandez",
+          "team": "Atalanta",
+          "player": "N. Krstovic",
           "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Bournemouth",
-          "player": "Evanilson",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "76'",
-          "team": "Bournemouth",
-          "player": "A. Adli",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Real Betis",
-          "player": "P. Fornals",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
+          "score_update": "0 - 3"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Real Betis_wins": "1",
+          "FC Schalke 04_wins": "0",
           "draws": "0",
-          "Bournemouth_wins": "0"
+          "Atalanta_wins": "0"
         },
-        "previous_matches": [
-          {
-            "date": "03/08/2018",
-            "competition": "Club Friendlies",
-            "teams_and_score": "AFC Bournemouth 0 - 2 Real Betis"
-          }
-        ],
+        "previous_matches": [],
         "home_team_form": {
-          "team": "Real Betis",
+          "team": "FC Schalke 04",
           "form": [
-            "D",
             "W",
-            "W",
-            "W"
+            "L"
           ],
           "recent_matches": [
             {
               "date": "08/08/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Betis 2 - 2 AFC Bournemouth",
-              "result": "D"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Arsenal 1 - 3 Real Betis",
+              "teams_and_score": "Schalke 04 0 - 3 Atalanta",
               "result": "W"
             },
             {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Betis 1 - 0 Almeria",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Real Betis 2 - 1 Levante",
-              "result": "W"
+              "date": "17/05/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Schalke 04 1 - 0 Eintracht Braunschweig",
+              "result": "L"
             }
           ]
         },
         "away_team_form": {
-          "team": "Bournemouth",
+          "team": "Atalanta",
           "form": [
+            "W",
+            "L",
+            "W",
             "D",
-            "W",
-            "W",
             "D"
           ],
           "recent_matches": [
             {
               "date": "08/08/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Betis 2 - 2 AFC Bournemouth",
-              "result": "D"
-            },
-            {
-              "date": "04/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "AFC Bournemouth 10 - 1 Genoa",
-              "result": "W"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Augsburg 2 - 5 AFC Bournemouth",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Nottingham Forest 1 - 1 AFC Bournemouth",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Real Betis vs Bournemouth highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
-    },
-    {
-      "title": "Lens vs Sunderland",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/lens-vs-sunderland-2026-08-08-sPQU.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/746.webp",
-          "name": "Sunderland",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/116.webp",
-          "name": "Lens",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/lens-vs-sunderland-2026-08-08_i4kR9.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "46'",
-          "team": "Sunderland",
-          "player": "T. Hume",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Sunderland",
-          "player": "W. Isidor",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Lens_wins": "0",
-          "draws": "0",
-          "Sunderland_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Lens",
-          "form": [
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Lens 0 - 2 Sunderland",
-              "result": "L"
-            },
-            {
-              "date": "22/05/2026",
-              "competition": "Coupe de France",
-              "teams_and_score": "Lens 3 - 1 Nice",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Lyon 0 - 4 Lens",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Sunderland",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Lens 0 - 2 Sunderland",
+              "teams_and_score": "Schalke 04 0 - 3 Atalanta",
               "result": "W"
             },
             {
               "date": "02/08/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "Sunderland 1 - 0 Wrexham",
-              "result": "W"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Leeds United 1 - 0 Sunderland",
+              "teams_and_score": "Feyenoord 2 - 1 Atalanta",
               "result": "L"
             },
             {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Liverpool 4 - 2 Sunderland",
-              "result": "L"
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Atalanta 3 - 2 S.S. Arezzo",
+              "result": "W"
             },
             {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "York City 1 - 5 Sunderland",
-              "result": "W"
+              "date": "22/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Fiorentina 1 - 1 Atalanta",
+              "result": "D"
+            },
+            {
+              "date": "22/04/2026",
+              "competition": "Coppa Italia: Semi-Finals",
+              "teams_and_score": "Atalanta 1 - 1 Lazio",
+              "result": "D"
             }
           ]
         }
       },
       "statistics": {},
-      "description": "Watch Lens vs Sunderland highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
+      "description": "Watch FC Schalke 04 vs Atalanta highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
     },
     {
-      "title": "Tottenham vs Getafe",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/tottenham-vs-getafe-2026-08-08-X60e.webp",
+      "title": "Hoffenheim vs Hansa Rostock",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/hoffenheim-vs-hansa-rostock-2026-08-09-j9Og.webp",
       "competition": "Friendly",
       "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 8, 2026",
+      "date": "Aug 9, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/546.webp",
-          "name": "Getafe",
+          "logo": "https://img.refooty.com/logo/teams/1321.webp",
+          "name": "Hansa Rostock",
           "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/47.webp",
-          "name": "Tottenham",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/7955.webp",
+          "name": "Hoffenheim",
+          "score": "3"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/tottenham-vs-getafe-2026-08-08_5BotG.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/hoffenheim-vs-hansa-rostock-2026-08-09_uVynI.m3u8"
         }
       ],
-      "events_timeline": [],
+      "events_timeline": [
+        {
+          "time": "16'",
+          "team": "Hoffenheim",
+          "player": "W. Burger",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "45+13'",
+          "team": "Hoffenheim",
+          "player": "B. Conte",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Hoffenheim",
+          "player": "U. Tohumcu",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        }
+      ],
       "head_to_head": {
         "summary": {
-          "Tottenham_wins": "0",
-          "draws": "0",
-          "Getafe_wins": "1"
+          "Hoffenheim_wins": "1",
+          "draws": "1",
+          "Hansa Rostock_wins": "0"
         },
         "previous_matches": [
           {
-            "date": "25/10/2007",
-            "competition": "UEFA Cup Grp. G",
-            "teams_and_score": "Tottenham Hotspur 1 - 2 Getafe"
+            "date": "18/04/2009",
+            "competition": "1. Bundesliga",
+            "teams_and_score": "Karlsruher SC 2 - 2 Hoffenheim"
+          },
+          {
+            "date": "29/10/2003",
+            "competition": "DFB Pokal",
+            "teams_and_score": "Hoffenheim 4 - 0 Karlsruher SC"
           }
         ],
         "home_team_form": {
-          "team": "Tottenham",
+          "team": "Hoffenheim",
           "form": [
-            "D",
-            "W"
+            "W",
+            "L"
           ],
           "recent_matches": [
             {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Tottenham Hotspur 1 - 1 Getafe",
-              "result": "D"
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hoffenheim 3 - 0 Karlsruher SC",
+              "result": "W"
             },
             {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Tottenham Hotspur 1 - 0 Everton",
-              "result": "W"
+              "date": "16/05/2026",
+              "competition": "Bundesliga 25/26",
+              "teams_and_score": "Borussia M'gladbach 4 - 0 Hoffenheim",
+              "result": "L"
             }
           ]
         },
         "away_team_form": {
-          "team": "Getafe",
+          "team": "Hansa Rostock",
           "form": [
-            "D",
             "L",
+            "L",
+            "W",
             "W"
           ],
           "recent_matches": [
             {
               "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Tottenham Hotspur 1 - 1 Getafe",
-              "result": "D"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "AS Monaco 1 - 0 Getafe",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Karlsruher SC 2 - 1 Arminia Bielefeld",
               "result": "L"
             },
             {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Getafe 1 - 0 Osasuna",
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hoffenheim 3 - 0 Karlsruher SC",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Karlsruher SC 1 - 2 Inter",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Karlsruher SC 1 - 2 VfL Bochum",
               "result": "W"
             }
           ]
         }
       },
       "statistics": {},
-      "description": "Watch Tottenham vs Getafe highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
+      "description": "Watch Hoffenheim vs Hansa Rostock highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
+      "title": "Frosinone vs Lazio",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/frosinone-vs-lazio-2026-08-09-Sjlq.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/487.webp",
+          "name": "Lazio",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/512.webp",
+          "name": "Frosinone",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/frosinone-vs-lazio-2026-08-09_jel4E.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Frosinone",
+          "player": "G. Calo",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Lazio",
+          "player": "M. Zaccagni",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Lazio",
+          "player": "M. Zaccagni",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Frosinone_wins": "1",
+          "draws": "0",
+          "Lazio_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "03/08/2024",
+            "competition": "Featured Club Friendlies",
+            "teams_and_score": "Frosinone 0 - 2 Lazio"
+          },
+          {
+            "date": "16/03/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Frosinone 2 - 3 Lazio"
+          },
+          {
+            "date": "22/07/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Frosinone 10 - 0 Asd Equipe Lazio"
+          },
+          {
+            "date": "12/09/2020",
+            "competition": "Club Friendlies 2020",
+            "teams_and_score": "Frosinone 0 - 1 Lazio"
+          },
+          {
+            "date": "04/02/2019",
+            "competition": "Serie A",
+            "teams_and_score": "Frosinone 0 - 1 Lazio"
+          }
+        ],
+        "home_team_form": {
+          "team": "Frosinone",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Frosinone 1 - 2 Lazio",
+              "result": "L"
+            },
+            {
+              "date": "08/05/2026",
+              "competition": "Serie B",
+              "teams_and_score": "Frosinone 5 - 0 Mantova",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lazio",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Frosinone 1 - 2 Lazio",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Ascoli 1 - 2 Lazio",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lazio 6 - 3 Avellino",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Lazio 2 - 1 Pisa",
+              "result": "W"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Coppa Italia: Final",
+              "teams_and_score": "Lazio 0 - 2 Inter",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Frosinone vs Lazio highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
+      "title": "Marseille vs Athletic Club",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-vs-athletic-club-2026-08-09-hpwx.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/531.webp",
+          "name": "Athletic Club",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/81.webp",
+          "name": "Marseille",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/marseille-vs-athletic-club-2026-08-09_ewBGX.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Marseille",
+          "player": "A. Gomes",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Athletic Club",
+          "player": "O. Sancet",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Marseille",
+          "player": "I. Paixão",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Marseille",
+          "player": "T. Mmadi",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Marseille_wins": "1",
+          "draws": "1",
+          "Athletic Club_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "15/03/2018",
+            "competition": "Europa League Final Stage",
+            "teams_and_score": "Athletic Club 1 - 2 Marseille"
+          },
+          {
+            "date": "25/02/2016",
+            "competition": "Europa League Final Stages",
+            "teams_and_score": "Athletic Club 1 - 1 Marseille"
+          }
+        ],
+        "home_team_form": {
+          "team": "Marseille",
+          "form": [
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Marseille 3 - 1 Athletic Club",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Marseille 3 - 1 Rennes",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Athletic Club",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Marseille 3 - 1 Athletic Club",
+              "result": "L"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Real Madrid 4 - 2 Athletic Club",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Marseille vs Athletic Club highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
     },
     {
       "title": "Ipswich vs Rayo Vallecano",
@@ -2610,6 +2919,99 @@
       "description": "Watch Bayern München vs Aston Villa highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 7, 2026."
     },
     {
+      "title": "Monaco vs Getafe",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/monaco-vs-getafe-2026-08-06-QQYB.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/546.webp",
+          "name": "Getafe",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/91.webp",
+          "name": "Monaco",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/monaco-vs-getafe-2026-08-06_b9tk3.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Monaco",
+          "player": "P. Brunner",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Monaco",
+          "player": "C. Mawissa",
+          "event_type": "Red Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Monaco_wins": "0",
+          "draws": "0",
+          "Getafe_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Monaco",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AS Monaco 1 - 0 Getafe",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Strasbourg 5 - 4 AS Monaco",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Getafe",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AS Monaco 1 - 0 Getafe",
+              "result": "L"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Getafe 1 - 0 Osasuna",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Monaco vs Getafe highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 6, 2026."
+    },
+    {
       "title": "Torino vs Atalanta",
       "thumbnail_url": "https://img.refooty.com/thumbnail/torino-vs-atalanta-2026-08-06-Xol6.webp",
       "competition": "Friendly",
@@ -3838,6 +4240,134 @@
       "description": "Watch Chelsea vs Juventus highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 5, 2026."
     },
     {
+      "title": "Mallorca vs Paris Saint Germain",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/mallorca-vs-paris-saint-germain-2026-08-05-hC7Q.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/85.webp",
+          "name": "Paris Saint Germain",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/798.webp",
+          "name": "Mallorca",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/mallorca-vs-paris-saint-germain-2026-08-05_G7CL4.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Mallorca",
+          "player": "Z. Luvumbo",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Mallorca",
+          "player": "J. Virgili",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Mallorca",
+          "player": "A. Raíllo",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Mallorca",
+          "player": "A. Roca",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Mallorca_wins": "0",
+          "draws": "0",
+          "Paris Saint Germain_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Mallorca",
+          "form": [
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Mallorca 3 - 0 Paris Saint-Germain",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Mallorca 3 - 0 Real Oviedo",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Paris Saint Germain",
+          "form": [
+            "L",
+            "D",
+            "L",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Mallorca 3 - 0 Paris Saint-Germain",
+              "result": "L"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Final",
+              "teams_and_score": "Paris Saint-Germain 1 - 1 Arsenal",
+              "result": "D"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Paris FC 2 - 1 Paris Saint-Germain",
+              "result": "L"
+            },
+            {
+              "date": "06/05/2026",
+              "competition": "Semi-Finals",
+              "teams_and_score": "Bayern Munich 1 - 1 Paris Saint-Germain",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Paris Saint-Germain 2 - 2 Lorient",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Mallorca vs Paris Saint Germain highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 5, 2026."
+    },
+    {
       "title": "Arsenal vs Real Betis",
       "thumbnail_url": "https://img.refooty.com/thumbnail/arsenal-vs-real-betis-2026-08-05-Ondj.webp",
       "competition": "Friendly",
@@ -3978,134 +4508,6 @@
       },
       "statistics": {},
       "description": "Watch Arsenal vs Real Betis highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 5, 2026."
-    },
-    {
-      "title": "Mallorca vs Paris Saint Germain",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/mallorca-vs-paris-saint-germain-2026-08-05-hC7Q.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 5, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/85.webp",
-          "name": "Paris Saint Germain",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/798.webp",
-          "name": "Mallorca",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/mallorca-vs-paris-saint-germain-2026-08-05_G7CL4.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Mallorca",
-          "player": "Z. Luvumbo",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Mallorca",
-          "player": "J. Virgili",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Mallorca",
-          "player": "A. Raíllo",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Mallorca",
-          "player": "A. Roca",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Mallorca_wins": "0",
-          "draws": "0",
-          "Paris Saint Germain_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Mallorca",
-          "form": [
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Mallorca 3 - 0 Paris Saint-Germain",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Mallorca 3 - 0 Real Oviedo",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Paris Saint Germain",
-          "form": [
-            "L",
-            "D",
-            "L",
-            "D",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Mallorca 3 - 0 Paris Saint-Germain",
-              "result": "L"
-            },
-            {
-              "date": "30/05/2026",
-              "competition": "Final",
-              "teams_and_score": "Paris Saint-Germain 1 - 1 Arsenal",
-              "result": "D"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Paris FC 2 - 1 Paris Saint-Germain",
-              "result": "L"
-            },
-            {
-              "date": "06/05/2026",
-              "competition": "Semi-Finals",
-              "teams_and_score": "Bayern Munich 1 - 1 Paris Saint-Germain",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Paris Saint-Germain 2 - 2 Lorient",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Mallorca vs Paris Saint Germain highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 5, 2026."
     },
     {
       "title": "AC Milan vs Inter",
@@ -6254,105 +6656,11 @@
       },
       "statistics": {},
       "description": "Watch Lens vs Villarreal highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 2, 2026."
-    },
-    {
-      "title": "Groningen vs Valladolid",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/groningen-vs-valladolid-2026-08-02-FB9I.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 2, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/720.webp",
-          "name": "Valladolid",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/202.webp",
-          "name": "Groningen",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/groningen-vs-valladolid-2026-08-02_N2kBb.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Groningen",
-          "player": "T. V. Bergen",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Groningen_wins": "0",
-          "draws": "0",
-          "Valladolid_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Groningen",
-          "form": [
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Groningen 1 - 0 Real Valladolid",
-              "result": "W"
-            },
-            {
-              "date": "21/05/2026",
-              "competition": "Eredivisie: UECL Play-off",
-              "teams_and_score": "Ajax 2 - 0 FC Groningen",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "Heracles 1 - 2 FC Groningen",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Valladolid",
-          "form": [
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Groningen 1 - 0 Real Valladolid",
-              "result": "L"
-            },
-            {
-              "date": "31/05/2026",
-              "competition": "LaLiga 2",
-              "teams_and_score": "Almeria 1 - 0 Real Valladolid",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Groningen vs Valladolid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 2, 2026."
     }
   ],
   "hasMore": true,
   "currentCount": 50,
-  "totalCount": 156,
+  "totalCount": 166,
   "currentPage": 1,
   "lastPage": 4
 }
