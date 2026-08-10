@@ -1,9 +1,944 @@
 {
   "competition": "Argentine Primera División",
   "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-  "total_matches": 38,
-  "Last update time": "07:30:49 AM 09-08-2026",
+  "total_matches": 42,
+  "Last update time": "05:31:11 AM 10-08-2026",
   "matches": [
+    {
+      "title": "San Lorenzo - Huracan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/san-lorenzo-huracan-2026-08-09-Ihrs.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/445.webp",
+          "name": "Huracan",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/460.webp",
+          "name": "San Lorenzo",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/san-lorenzo-huracan-2026-08-09_p42mS.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "2'",
+          "team": "San Lorenzo",
+          "player": "M. d. Ritis",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "20'",
+          "team": "Huracan",
+          "player": "L. Carrizo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+2'",
+          "team": "Huracan",
+          "player": "J. Caicedo",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "57'",
+          "team": "Huracan",
+          "player": "J. Caicedo",
+          "event_type": "Goal",
+          "assist": "F. Kalinger",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "57'",
+          "team": "Huracan",
+          "player": "J. Caicedo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "63'",
+          "team": "San Lorenzo",
+          "player": "O. Gill",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "77'",
+          "team": "Huracan",
+          "player": "I. Pussetto",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "San Lorenzo",
+          "player": "R. Auzmendi",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "San Lorenzo_wins": "1",
+          "draws": "6",
+          "Huracan_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "08/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "CA Huracan 1 - 0 San Lorenzo de Almagro"
+          },
+          {
+            "date": "30/08/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "San Lorenzo de Almagro 0 - 0 CA Huracan"
+          },
+          {
+            "date": "23/02/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "CA Huracan 2 - 0 San Lorenzo de Almagro"
+          },
+          {
+            "date": "20/07/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "San Lorenzo de Almagro 1 - 1 CA Huracan"
+          },
+          {
+            "date": "24/02/2024",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "CA Huracan 0 - 0 San Lorenzo de Almagro"
+          },
+          {
+            "date": "30/09/2023",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "San Lorenzo de Almagro 1 - 1 CA Huracan"
+          },
+          {
+            "date": "05/03/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "CA Huracan 1 - 1 San Lorenzo de Almagro"
+          }
+        ],
+        "home_team_form": {
+          "team": "San Lorenzo",
+          "form": [
+            "L",
+            "D",
+            "L",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "San Lorenzo de Almagro 0 - 2 CA Huracan",
+              "result": "L"
+            },
+            {
+              "date": "17/07/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "San Lorenzo de Almagro 1 - 1 Deportivo Riestra",
+              "result": "D"
+            },
+            {
+              "date": "27/05/2026",
+              "competition": "Group D",
+              "teams_and_score": "San Lorenzo de Almagro 0 - 1 CD Recoleta",
+              "result": "L"
+            },
+            {
+              "date": "10/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "River Plate 2 - 2 San Lorenzo de Almagro",
+              "result": "D"
+            },
+            {
+              "date": "06/05/2026",
+              "competition": "Group D",
+              "teams_and_score": "Deportivo Cuenca 0 - 0 San Lorenzo de Almagro",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Huracan",
+          "form": [
+            "W",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "San Lorenzo de Almagro 0 - 2 CA Huracan",
+              "result": "W"
+            },
+            {
+              "date": "03/06/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Barracas Central 1 - 0 CA Huracan",
+              "result": "L"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Argentinos Juniors 1 - 0 CA Huracan",
+              "result": "L"
+            },
+            {
+              "date": "03/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Racing Club 0 - 0 CA Huracan",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "San Lorenzo": "2",
+          "Huracan": "5"
+        },
+        "shots_off_target": {
+          "San Lorenzo": "3",
+          "Huracan": "8"
+        },
+        "shots_blocked": {
+          "San Lorenzo": "1",
+          "Huracan": "1"
+        },
+        "corners": {
+          "San Lorenzo": "2",
+          "Huracan": "4"
+        },
+        "fouls": {
+          "San Lorenzo": "9",
+          "Huracan": "21"
+        },
+        "offsides": {
+          "San Lorenzo": "3",
+          "Huracan": "0"
+        },
+        "yellow_cards": {
+          "San Lorenzo": "2",
+          "Huracan": "3"
+        },
+        "red_cards": {
+          "San Lorenzo": "1",
+          "Huracan": "0"
+        },
+        "goalkeeper_saves": {
+          "San Lorenzo": "3",
+          "Huracan": "2"
+        },
+        "ball_possession": {
+          "San Lorenzo": "54%",
+          "Huracan": "46%"
+        }
+      },
+      "description": "Watch San Lorenzo vs Huracan highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
+      "title": "Independiente - Platense",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/independiente-platense-2026-08-09-Zn1l.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1064.webp",
+          "name": "Platense",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/453.webp",
+          "name": "Independiente",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/independiente-platense-2026-08-09_IheD7.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Independiente",
+          "player": "S. Montiel",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "49'",
+          "team": "Platense",
+          "player": "I. Vazquez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "65'",
+          "team": "Platense",
+          "player": "G. Mainero",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "84'",
+          "team": "Independiente",
+          "player": "K. Lomonaco",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Platense",
+          "player": "N. Lopez",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Independiente_wins": "2",
+          "draws": "3",
+          "Platense_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "08/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Club Atletico Platense 0 - 1 Independiente"
+          },
+          {
+            "date": "24/10/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Independiente 3 - 0 Club Atletico Platense"
+          },
+          {
+            "date": "17/02/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Club Atletico Platense 1 - 1 Independiente"
+          },
+          {
+            "date": "19/05/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Club Atletico Platense 0 - 0 Independiente"
+          },
+          {
+            "date": "05/02/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Independiente 1 - 2 Club Atletico Platense"
+          },
+          {
+            "date": "05/07/2022",
+            "competition": "Primera Division 2022",
+            "teams_and_score": "Independiente 1 - 3 Club Atletico Platense"
+          },
+          {
+            "date": "31/07/2021",
+            "competition": "Primera Division 2021",
+            "teams_and_score": "Club Atletico Platense 1 - 1 Independiente"
+          }
+        ],
+        "home_team_form": {
+          "team": "Independiente",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Independiente 0 - 1 Club Atletico Platense",
+              "result": "L"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Union 0 - 2 Independiente",
+              "result": "W"
+            },
+            {
+              "date": "10/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Rosario Central 3 - 1 Independiente",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "San Lorenzo de Almagro 1 - 2 Independiente",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Platense",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Independiente 0 - 1 Club Atletico Platense",
+              "result": "W"
+            },
+            {
+              "date": "28/05/2026",
+              "competition": "Group E",
+              "teams_and_score": "Corinthians 0 - 2 Club Atletico Platense",
+              "result": "W"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Club Atletico Platense 0 - 0 San Martin San Juan",
+              "result": "D"
+            },
+            {
+              "date": "07/05/2026",
+              "competition": "Group E",
+              "teams_and_score": "Club Atletico Platense 1 - 1 Club Atletico Penarol",
+              "result": "D"
+            },
+            {
+              "date": "03/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Club Atletico Platense 0 - 2 Estudiantes de la Plata",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Independiente": "5",
+          "Platense": "2"
+        },
+        "shots_off_target": {
+          "Independiente": "9",
+          "Platense": "4"
+        },
+        "shots_blocked": {
+          "Independiente": "4",
+          "Platense": "0"
+        },
+        "corners": {
+          "Independiente": "13",
+          "Platense": "1"
+        },
+        "fouls": {
+          "Independiente": "12",
+          "Platense": "16"
+        },
+        "offsides": {
+          "Independiente": "2",
+          "Platense": "0"
+        },
+        "yellow_cards": {
+          "Independiente": "2",
+          "Platense": "2"
+        },
+        "goalkeeper_saves": {
+          "Independiente": "1",
+          "Platense": "5"
+        },
+        "ball_possession": {
+          "Independiente": "66%",
+          "Platense": "34%"
+        }
+      },
+      "description": "Watch Independiente vs Platense highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The Liga Profesional Argentina clash between Independiente and Platense promised a battle of tactical discipline and grit. Both teams took to the pitch on 2026-08-09 looking to claim vital points in what was expected to be a closely contested affair. A Tense Opening Half The match began with both sides showing significant caution, prioritizing defensive solidity over risky offensive surges. Independiente looked to use their home advantage to dictate play, but Platense remained resolute. The physicality of the contest was evident just before the break when Santiago Gabriel Montiel was shown a yellow card in the 44th minute, leaving the game scoreless at halftime. Mainero Breaks the Deadlock The second half saw immediate tactical adjustments, with Independiente bringing on Lautaro Millan to spark their attack. However, it was the visitors who maintained their composure. After Ignacio Vazquez picked up a yellow card in the 49th minute, the defining moment arrived at the 65-minute mark. Guido Mainero found space in the final third and clinicaly converted his chance to put Platense 1-0 ahead. Following the goal, Independiente pushed forward in search of an equalizer, introducing fresh legs in Hector Bobadilla and Luciano Cabral . Despite the increased pressure, the home side struggled to break down a stubborn defensive line. Holding Firm Until the End As the clock ticked down, the match grew increasingly heated. Kevin Lomonaco received a yellow card for the hosts in the 84th minute, and Nicolas Lopez followed suit for the visitors during stoppage time. Despite six minutes of added time and late tactical substitutions, Platense successfully navigated the final stages to secure a hard-earned away victory, leaving Independiente to reflect on missed opportunities."
+    },
+    {
+      "title": "Instituto - Gimnasia Mendoza",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/instituto-gimnasia-mendoza-2026-08-09-nJfR.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1066.webp",
+          "name": "Gimnasia M.",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/478.webp",
+          "name": "Instituto Cordoba",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/instituto-gimnasia-mendoza-2026-08-09_UxeZl.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Instituto Cordoba",
+          "player": "J. Galvan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Gimnasia M.",
+          "player": "L. Cabrera",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "74'",
+          "team": "Gimnasia M.",
+          "player": "G. Guiffrey",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Instituto Cordoba",
+          "player": "A. N. Luna",
+          "event_type": "Goal",
+          "score_update": "0 - 0"
+        },
+        {
+          "time": "80'",
+          "team": "Instituto Cordoba",
+          "player": "A. N. Luna",
+          "event_type": "Goal",
+          "assist": "J. Lazaro",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "82'",
+          "team": "Instituto Cordoba",
+          "player": "D. A. Sosa",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "83'",
+          "team": "Gimnasia M.",
+          "player": "F. Antonini",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90'",
+          "team": "Instituto Cordoba",
+          "player": "J. Lazaro",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Instituto Cordoba",
+          "player": "L. Mosevich",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Gimnasia M.",
+          "player": "E. Munoz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+6'",
+          "team": "Gimnasia M.",
+          "player": "A. Modica",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Instituto Cordoba_wins": "0",
+          "draws": "1",
+          "Gimnasia M._wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "09/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Gimnasia Mendoza 1 - 0 Instituto Cordoba"
+          },
+          {
+            "date": "27/07/2022",
+            "competition": "Primera Nacional",
+            "teams_and_score": "Gimnasia Mendoza 2 - 0 Instituto Cordoba"
+          },
+          {
+            "date": "17/11/2019",
+            "competition": "Primera Nacional: Group B",
+            "teams_and_score": "Gimnasia Mendoza 2 - 1 Instituto Cordoba"
+          },
+          {
+            "date": "20/04/2019",
+            "competition": "Primera B Nacional",
+            "teams_and_score": "Instituto Cordoba 1 - 1 Gimnasia Mendoza"
+          }
+        ],
+        "home_team_form": {
+          "team": "Instituto Cordoba",
+          "form": [
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Instituto Cordoba 1 - 0 Gimnasia Mendoza",
+              "result": "W"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Instituto Cordoba 2 - 1 Lanus",
+              "result": "W"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Estudiantes de Rio Cuarto 0 - 2 Instituto Cordoba",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Gimnasia M.",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Instituto Cordoba 1 - 0 Gimnasia Mendoza",
+              "result": "L"
+            },
+            {
+              "date": "04/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Gimnasia Mendoza 2 - 1 Defensa y Justicia",
+              "result": "L"
+            },
+            {
+              "date": "15/04/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Gimnasia Mendoza 0 - 0 Gimnasia y Tiro",
+              "result": "D"
+            },
+            {
+              "date": "12/04/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Club Atletico Platense 1 - 1 Gimnasia Mendoza",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Instituto Cordoba": "7",
+          "Gimnasia M.": "0"
+        },
+        "shots_off_target": {
+          "Instituto Cordoba": "5",
+          "Gimnasia M.": "3"
+        },
+        "shots_blocked": {
+          "Instituto Cordoba": "3",
+          "Gimnasia M.": "1"
+        },
+        "corners": {
+          "Instituto Cordoba": "3",
+          "Gimnasia M.": "2"
+        },
+        "fouls": {
+          "Instituto Cordoba": "17",
+          "Gimnasia M.": "11"
+        },
+        "offsides": {
+          "Instituto Cordoba": "4",
+          "Gimnasia M.": "1"
+        },
+        "yellow_cards": {
+          "Instituto Cordoba": "4",
+          "Gimnasia M.": "5"
+        },
+        "goalkeeper_saves": {
+          "Instituto Cordoba": "0",
+          "Gimnasia M.": "6"
+        },
+        "ball_possession": {
+          "Instituto Cordoba": "48%",
+          "Gimnasia M.": "52%"
+        }
+      },
+      "description": "Watch Instituto Cordoba vs Gimnasia M. highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 9, 2026. High Stakes in Cordoba On August 9, 2026, the stage was set for a rigorous encounter between Instituto Cordoba and Gimnasia M. in the Liga Profesional Argentina . The match began as a tactical chess match, with both sides displaying discipline and aggression in a first half defined by physical battles across the midfield. The Turning Point The tempo accelerated dramatically after the interval as both teams looked to force an opening. The tension reached its peak in the 76th minute when Instituto Cordoba were awarded a penalty, only for Alex Luna to miss the target from the spot. Showing immense character, Luna did not let the frustration linger. He surged forward just four minutes later in the 80th minute to connect with an assist from Jeremias Lazaro , firing the ball home to break the deadlock and ignite the home crowd. A Tense Finale The final minutes saw a flurry of cards as the contest descended into a frantic struggle. Gimnasia M. pushed forward in search of an equalizer, but the Instituto Cordoba defense remained resolute under mounting pressure. The referee’s whistle finally halted the late-game chaos, confirming a hard-fought victory for the home side in a match that will be remembered for its shifting emotions and the resilience shown in the face of a missed opportunity."
+    },
+    {
+      "title": "Boca Juniors - Velez Sarsfield",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/boca-juniors-velez-sarsfield-2026-08-09-T2bc.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/438.webp",
+          "name": "Velez Sarsfield",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/451.webp",
+          "name": "Boca Juniors",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/boca-juniors-velez-sarsfield-2026-08-09_UPeIe.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Velez Sarsfield",
+          "player": "D. Valdés",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Boca Juniors",
+          "player": "L. Blanco",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Boca Juniors",
+          "player": "S. Ascacibar",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Velez Sarsfield",
+          "player": "L. Robertone",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Boca Juniors",
+          "player": "A. Costa",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Velez Sarsfield",
+          "player": "E. Gomez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Velez Sarsfield",
+          "player": "M. Pellegrini",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Velez Sarsfield",
+          "player": "J. Garcia",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Boca Juniors_wins": "4",
+          "draws": "3",
+          "Velez Sarsfield_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "09/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Velez Sarsfield 2 - 1 Boca Juniors"
+          },
+          {
+            "date": "28/11/2024",
+            "competition": "Cup",
+            "teams_and_score": "Boca Juniors 3 - 4 Velez Sarsfield"
+          },
+          {
+            "date": "14/06/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Boca Juniors 1 - 0 Velez Sarsfield"
+          },
+          {
+            "date": "26/02/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Velez Sarsfield 1 - 2 Boca Juniors"
+          },
+          {
+            "date": "02/10/2022",
+            "competition": "Primera Division 2022",
+            "teams_and_score": "Boca Juniors 1 - 0 Velez Sarsfield"
+          },
+          {
+            "date": "10/04/2022",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Velez Sarsfield 0 - 0 Boca Juniors"
+          },
+          {
+            "date": "24/10/2021",
+            "competition": "Primera Division 2021",
+            "teams_and_score": "Velez Sarsfield 2 - 0 Boca Juniors"
+          }
+        ],
+        "home_team_form": {
+          "team": "Boca Juniors",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Boca Juniors 1 - 1 Velez Sarsfield",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Knockout Round Playoffs",
+              "teams_and_score": "O'Higgins 1 - 0 Boca Juniors",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Deportivo Riestra 3 - 0 Boca Juniors",
+              "result": "L"
+            },
+            {
+              "date": "24/07/2026",
+              "competition": "Knockout Round Playoffs",
+              "teams_and_score": "Boca Juniors 1 - 0 O'Higgins",
+              "result": "W"
+            },
+            {
+              "date": "17/07/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Sarmiento 0 - 2 Boca Juniors",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Velez Sarsfield",
+          "form": [
+            "D",
+            "L",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Boca Juniors 1 - 1 Velez Sarsfield",
+              "result": "D"
+            },
+            {
+              "date": "11/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Velez Sarsfield 0 - 1 Gimnasia LP",
+              "result": "L"
+            },
+            {
+              "date": "04/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Velez Sarsfield 1 - 1 Newell's Old Boys",
+              "result": "D"
+            },
+            {
+              "date": "01/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Velez Sarsfield 2 - 0 Gimnasia y Tiro",
+              "result": "W"
+            },
+            {
+              "date": "27/04/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Velez Sarsfield 2 - 2 Union",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Boca Juniors": "9",
+          "Velez Sarsfield": "4"
+        },
+        "shots_off_target": {
+          "Boca Juniors": "14",
+          "Velez Sarsfield": "3"
+        },
+        "shots_blocked": {
+          "Boca Juniors": "6",
+          "Velez Sarsfield": "1"
+        },
+        "corners": {
+          "Boca Juniors": "5",
+          "Velez Sarsfield": "4"
+        },
+        "fouls": {
+          "Boca Juniors": "12",
+          "Velez Sarsfield": "10"
+        },
+        "offsides": {
+          "Boca Juniors": "3",
+          "Velez Sarsfield": "3"
+        },
+        "yellow_cards": {
+          "Boca Juniors": "2",
+          "Velez Sarsfield": "4"
+        },
+        "goalkeeper_saves": {
+          "Boca Juniors": "3",
+          "Velez Sarsfield": "8"
+        },
+        "ball_possession": {
+          "Boca Juniors": "59%",
+          "Velez Sarsfield": "41%"
+        }
+      },
+      "description": "Watch Boca Juniors vs Velez Sarsfield highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
     {
       "title": "Independiente Rivadavia - Estudiantes Río Cuarto",
       "thumbnail_url": "https://img.refooty.com/thumbnail/independiente-rivadavia-estudiantes-rio-cuarto-2026-08-08-Jixw.webp",

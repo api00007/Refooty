@@ -1,9 +1,204 @@
 {
   "team": "Derby County",
   "team_logo": "https://img.refooty.com/logo/teams/69.webp",
-  "total_matches": 3,
-  "Last update time": "07:30:49 AM 09-08-2026",
+  "total_matches": 4,
+  "Last update time": "05:31:11 AM 10-08-2026",
   "matches": [
+    {
+      "title": "Derby County vs Lincoln",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/derby-county-vs-lincoln-2026-08-08-kqNM.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1379.webp",
+          "name": "Lincoln",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/69.webp",
+          "name": "Derby County",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/derby-county-vs-lincoln-2026-08-08_bRK6x.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "3'",
+          "team": "Lincoln",
+          "player": "B. House",
+          "event_type": "Goal",
+          "assist": "V. I. Oleksandrovych",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "23'",
+          "team": "Lincoln",
+          "player": "D. Jefferies",
+          "event_type": "Goal",
+          "assist": "F. Draper",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "32'",
+          "team": "Lincoln",
+          "player": "A. Reach",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "35'",
+          "team": "Derby County",
+          "player": "L. Travis",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+1'",
+          "team": "Derby County",
+          "player": "S. Szmodics",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Lincoln",
+          "player": "B. House",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Derby County_wins": "2",
+          "draws": "2",
+          "Lincoln_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "20/01/2024",
+            "competition": "English Football League - League One 2023/2024",
+            "teams_and_score": "Lincoln City 0 - 0 Derby County"
+          },
+          {
+            "date": "19/09/2023",
+            "competition": "English Football League Trophy 2023/2024",
+            "teams_and_score": "Derby County 2 - 0 Lincoln City"
+          },
+          {
+            "date": "14/02/2023",
+            "competition": "English Football League - League One 2022/2023",
+            "teams_and_score": "Derby County 1 - 1 Lincoln City"
+          },
+          {
+            "date": "12/08/2008",
+            "competition": "English League Cup 2008/2009",
+            "teams_and_score": "Derby County 3 - 1 Lincoln City"
+          },
+          {
+            "date": "24/08/2004",
+            "competition": "English League Cup 2004/2005",
+            "teams_and_score": "Lincoln City 3 - 1 Derby County"
+          }
+        ],
+        "home_team_form": {
+          "team": "Derby County",
+          "form": [
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Derby County 1 - 2 Lincoln City",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Rotherham United 1 - 1 Derby County",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Derby County 1 - 2 Sheffield United",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lincoln",
+          "form": [
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Derby County 1 - 2 Lincoln City",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Port Vale 0 - 2 Lincoln City",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Derby County": "4",
+          "Lincoln": "4"
+        },
+        "shots_off_target": {
+          "Derby County": "1",
+          "Lincoln": "6"
+        },
+        "shots_blocked": {
+          "Derby County": "3",
+          "Lincoln": "4"
+        },
+        "corners": {
+          "Derby County": "3",
+          "Lincoln": "6"
+        },
+        "fouls": {
+          "Derby County": "12",
+          "Lincoln": "12"
+        },
+        "offsides": {
+          "Derby County": "1",
+          "Lincoln": "3"
+        },
+        "yellow_cards": {
+          "Derby County": "1",
+          "Lincoln": "2"
+        },
+        "goalkeeper_saves": {
+          "Derby County": "2",
+          "Lincoln": "2"
+        },
+        "crosses": {
+          "Derby County": "6",
+          "Lincoln": "6"
+        },
+        "ball_possession": {
+          "Derby County": "71%",
+          "Lincoln": "29%"
+        }
+      },
+      "description": "Watch Derby County vs Lincoln highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The atmosphere at Pride Park was thick with anticipation for this Carabao Cup clash, as both sides sought to keep their cup dreams alive. On August 8, 2026 , the stage was set for a high-intensity encounter that would test the resolve of both Derby County and Lincoln City from the opening whistle. Lincoln's Explosive Start Lincoln City wasted no time in asserting their dominance, catching the home side cold in the opening exchanges. In just the 3rd minute, a corner situation proved clinical as Ivan Varfolomeev delivered a precise cross into the danger zone. Ben House was perfectly positioned to fire home from very close range into the bottom right corner, giving the visitors an immediate platform to build upon. The momentum remained firmly with the Imps, and they doubled their lead in the 23rd minute. Freddie Draper turned provider with a clever through ball that split the Derby defense, allowing Dom Jefferies to ghost into the center of the box. Jefferies made no mistake, slotting a right-footed shot into the bottom left corner to silence the Pride Park faithful and put Lincoln City firmly in the driving seat. Derby Fight Back Before the Break As the first half drew to a close, Derby County finally found the spark they had been searching for. In the first minute of added time, Sam Szmodics produced a moment of individual brilliance to haul his team back into the contest. Picking up the ball outside the area, Szmodics unleashed a powerful right-footed strike that soared into the top left corner, leaving goalkeeper George Wickens with no chance. The goal breathed new life into the stadium and set the stage for a compelling second period. Defensive Resilience and Late Drama The second half was a story of tactical adjustments and mounting pressure from the hosts. Derby manager looked to his bench, introducing Max Johnston , Craig Forsyth , and Filip Bilbija to inject fresh energy. While Carlton Morris and Joe Ward both saw significant chances saved or blocked, Lincoln City remained disciplined at the back. George Wickens was called into action again in the 86th minute, producing a vital save to deny Ward's long-range effort. In a frantic finish, Lincoln made several defensive substitutions to see out the game, including the introduction of Callum Elder and Mason Melia . Despite late pressure and a blocked shot from Bobby Clark in the dying moments, the Imps held firm. The final whistle confirmed a 2-1 victory for Lincoln City , as they successfully navigated a tough away tie to progress in the competition."
+    },
     {
       "title": "Rotherham vs Derby County",
       "thumbnail_url": "https://img.refooty.com/thumbnail/rotherham-vs-derby-county-2026-08-04-aj6r.webp",
