@@ -1,9 +1,213 @@
 {
   "competition": "Carabao",
   "competition_cover": "https://refooty.com/covers/carabao.webp",
-  "total_matches": 23,
-  "Last update time": "05:30:28 AM 11-08-2026",
+  "total_matches": 24,
+  "Last update time": "07:30:38 AM 11-08-2026",
   "matches": [
+    {
+      "title": "Plymouth vs Exeter City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/plymouth-vs-exeter-city-2026-08-10-ZDiQ.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 10, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1364.webp",
+          "name": "Exeter City",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1357.webp",
+          "name": "Plymouth",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/plymouth-vs-exeter-city-2026-08-10_lcHhl.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Exeter City",
+          "player": "C. Cummins",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "78'",
+          "team": "Exeter City",
+          "player": "E. Sutherland",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "87'",
+          "team": "Exeter City",
+          "player": "E. Sutherland",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Plymouth",
+          "player": "A. Hartridge",
+          "event_type": "Goal",
+          "assist": "H. White",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "90+4'",
+          "team": "Plymouth",
+          "player": "A. Pepple",
+          "event_type": "Goal",
+          "assist": "F. Issaka",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Plymouth_wins": "2",
+          "draws": "2",
+          "Exeter City_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "11/04/2026",
+            "competition": "League 1 25/26",
+            "teams_and_score": "Plymouth Argyle 2 - 2 Exeter City"
+          },
+          {
+            "date": "15/04/2023",
+            "competition": "English Football League - League One 2022/2023",
+            "teams_and_score": "Exeter City 0 - 1 Plymouth Argyle"
+          },
+          {
+            "date": "26/10/2019",
+            "competition": "English Football League - League Two 2019/2020",
+            "teams_and_score": "Exeter City 4 - 0 Plymouth Argyle"
+          },
+          {
+            "date": "03/10/2017",
+            "competition": "English Football League Trophy 2017/2018",
+            "teams_and_score": "Plymouth Argyle 2 - 2 Exeter City"
+          },
+          {
+            "date": "11/02/2017",
+            "competition": "English Football League - League Two 2016/2017",
+            "teams_and_score": "Plymouth Argyle 3 - 0 Exeter City"
+          },
+          {
+            "date": "02/04/2016",
+            "competition": "English Football League - League Two 2015/2016",
+            "teams_and_score": "Exeter City 2 - 1 Plymouth Argyle"
+          }
+        ],
+        "home_team_form": {
+          "team": "Plymouth",
+          "form": [
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Plymouth Argyle 2 - 0 Exeter City",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Plymouth Argyle 0 - 0 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Northampton Town 2 - 3 Plymouth Argyle",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Exeter City",
+          "form": [
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Plymouth Argyle 2 - 0 Exeter City",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Exeter City 1 - 1 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Exeter City 1 - 2 Bradford City",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Plymouth": "6",
+          "Exeter City": "1"
+        },
+        "shots_off_target": {
+          "Plymouth": "9",
+          "Exeter City": "6"
+        },
+        "shots_blocked": {
+          "Plymouth": "6",
+          "Exeter City": "1"
+        },
+        "corners": {
+          "Plymouth": "9",
+          "Exeter City": "3"
+        },
+        "fouls": {
+          "Plymouth": "9",
+          "Exeter City": "14"
+        },
+        "offsides": {
+          "Plymouth": "2",
+          "Exeter City": "0"
+        },
+        "yellow_cards": {
+          "Plymouth": "0",
+          "Exeter City": "1"
+        },
+        "red_cards": {
+          "Plymouth": "0",
+          "Exeter City": "1"
+        },
+        "goalkeeper_saves": {
+          "Plymouth": "1",
+          "Exeter City": "4"
+        },
+        "crosses": {
+          "Plymouth": "9",
+          "Exeter City": "6"
+        },
+        "ball_possession": {
+          "Plymouth": "63%",
+          "Exeter City": "37%"
+        }
+      },
+      "description": "Watch Plymouth vs Exeter City highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 10, 2026. The Devon Derby returned to the Carabao Cup stage on August 10, 2026 , as Plymouth Argyle hosted Exeter City in a high-stakes encounter. Both teams sought to assert local dominance in a match that remained balanced and unpredictable until the very final moments of play. A Tense Exchange of Chances From the opening whistle, Plymouth Argyle looked to dictate the tempo, with Harvey White testing the waters early with a long-range effort. The home side continued to pile on the pressure as Ronan Curtis and Aribim Pepple forced Exeter City goalkeeper Jack Bycroft into several crucial saves. Despite the territorial advantage for the Pilgrims, Exeter remained dangerous on the break, with Charlie Cummins nearly finding the target from a set-piece situation that flew just over the bar. As the first half progressed, the physical nature of the derby became evident. Charlie Cummins received an early booking for a heavy challenge, signaling the intensity of the midfield battle. While Mathias Ross and Pepple continued to search for the breakthrough before the interval, the visitors’ defense held firm, ensuring the scoreline remained level at the break after a series of blocked attempts and narrow misses. Momentum Shifts and a Costly Red Card The second half saw Exeter City grow in confidence, creating a flurry of opportunities. Taylor Perry and Andrew Oluwabori both came close to silencing the home crowd, with the latter seeing a headed effort rise just too high. Plymouth's manager responded by introducing fresh legs, bringing on Matthew Sorinola and Julio Pleguezuelo to regain control of the flanks and revitalize an attack that was struggling to find a clinical edge. The game reached a turning point in the 87th minute when Ethan Sutherland , who had been cautioned only nine minutes earlier, committed a tactical foul that resulted in a second yellow card. His dismissal left Exeter City a man down for the closing stages, forcing them into a defensive shell as Plymouth Argyle launched a final, desperate assault on the Grecians' goal. Stoppage Time Fireworks Just as the match seemed destined for a penalty shootout, the deadlock was finally broken in the 92nd minute. A pinpoint corner from Harvey White found the head of Alex Hartridge , who powered his effort into the top left corner from close range. The breakthrough sent the home supporters into a frenzy, but the drama was far from over as the clock ticked deep into added time. With Exeter pushing everyone forward in search of an equalizer, Plymouth Argyle struck again in the 94th minute. Freddie Issaka spearheaded a lightning-fast counter-attack, squaring the ball to Aribim Pepple in the center of the box. Pepple made no mistake, slotting the ball home to secure a 2-0 victory. Although Josh Gordon forced one final save from Murphy Cooper in the dying seconds, the result was already sealed, sending Plymouth through to the next round."
+    },
     {
       "title": "Cardiff vs Swindon Town",
       "thumbnail_url": "https://img.refooty.com/thumbnail/cardiff-vs-swindon-town-2026-08-09-l16i.webp",
@@ -1685,6 +1889,1113 @@
         }
       },
       "description": "Watch Middlesbrough vs Wrexham highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 7, 2026. The stadium lights shone brightly as two ambitious sides clashed in a Carabao Cup tie filled with tactical intrigue. Both teams entered the pitch knowing that efficiency in front of goal would be the deciding factor in who progressed to the next round. A Balanced Opening Exchange On August 7, 2026 , Middlesbrough hosted Wrexham in a match that burst into life from the opening whistle. The hosts nearly took an early lead in the 7th minute when Adilson Malanda saw his close-range effort heroically saved by Danny Ward . Middlesbrough continued to apply pressure, with Will Lankshear forcing another sharp save from Ward just eight minutes later as the Boro looked to capitalize on their home advantage. Wrexham , however, were far from passive. Nathan Broadhead sent a header agonizingly wide following a pinpoint cross from Callum Doyle , and Oliver Rathbone tested the atmosphere with a long-range strike that whistled over the bar. Despite the high energy and a flurry of corners for the home side, the first half ended without a breakthrough, leaving everything to play for in the second period. Lankshear Breaks the Deadlock The deadlock was finally broken in the 61st minute as Middlesbrough ’s persistence paid off. A clever headed pass from Sebastian Berhalter found Will Lankshear on the right side of the box. The young forward composed himself before driving a low shot into the bottom left corner to make it 1-0. The goal sparked a reaction from Wrexham , who made a triple substitution shortly after, introducing Kieffer Moore , Bailey Cadamarteri , and Benjamin Whiteman to find an equalizer. As the clock ticked down, the game became increasingly physical. Sam Smith was booked for simulation, and Will Lankshear also saw yellow for a mistimed challenge. Middlesbrough almost doubled their lead in the 87th minute when Morgan Whittaker led a lightning-fast break, only to see his shot cannon off the right-hand post. Late Pressure and Final Whistle In a frantic finale, Wrexham threw everything forward. Callum Doyle forced a late save from Sol Brynn in the 89th minute, while a series of corners kept the Middlesbrough defense on high alert. Tactical fouls led to yellow cards for Dominic Hyam and Doyle as they struggled to contain the hosts' counter-attacks during stoppage time. Ultimately, Middlesbrough held firm to secure a 1-0 victory and advance in the Carabao Cup . It was a performance defined by one clinical moment from Lankshear and a solid defensive display that weathered the late storm from the visitors."
+    },
+    {
+      "title": "Burnley vs Notts County",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/burnley-vs-notts-county-2026-08-08-GjMe.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1376.webp",
+          "name": "Notts County",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/44.webp",
+          "name": "Burnley",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/burnley-vs-notts-county-2026-08-08_al83M.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Notts County",
+          "player": "J. Gibbons",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Notts County",
+          "player": "C. Roberts",
+          "event_type": "Goal",
+          "assist": "N. Tsaroulla",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "47'",
+          "team": "Burnley",
+          "player": "Z. Flemming",
+          "event_type": "Goal",
+          "assist": "M. Edwards",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "73'",
+          "team": "Notts County",
+          "player": "D. Lipsiuc",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Notts County",
+          "player": "J. Evans",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "PEN 1",
+          "team": "Burnley",
+          "player": "Z. Flemming",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "PEN 1",
+          "team": "Notts County",
+          "player": "E. Acquah",
+          "event_type": "Goal",
+          "score_update": "0 - 0"
+        },
+        {
+          "time": "PEN 2",
+          "team": "Burnley",
+          "player": "Z. Amdouni",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "PEN 2",
+          "team": "Notts County",
+          "player": "D. Campbell",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "PEN 3",
+          "team": "Burnley",
+          "player": "M. Trésor",
+          "event_type": "Goal",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "PEN 3",
+          "team": "Notts County",
+          "player": "C. Grant",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "PEN 4",
+          "team": "Burnley",
+          "player": "H. Mejbri",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "PEN 4",
+          "team": "Notts County",
+          "player": "J. Evans",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "PEN 5",
+          "team": "Burnley",
+          "player": "K. Walker",
+          "event_type": "Goal",
+          "score_update": "4 - 3"
+        },
+        {
+          "time": "PEN 5",
+          "team": "Notts County",
+          "player": "J. Bedeau",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "PEN 1",
+          "team": "Burnley",
+          "player": "Z. Flemming",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "PEN 1",
+          "team": "Notts County",
+          "player": "J. Belshaw",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Burnley_wins": "1",
+          "draws": "3",
+          "Notts County_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "08/04/2000",
+            "competition": "English Football League - League One 1999/2000",
+            "teams_and_score": "Burnley 2 - 1 Notts County"
+          },
+          {
+            "date": "03/04/1999",
+            "competition": "English Football League - League One 1998/1999",
+            "teams_and_score": "Notts County 0 - 0 Burnley"
+          },
+          {
+            "date": "26/04/1997",
+            "competition": "English Football League - League One 1996/1997",
+            "teams_and_score": "Notts County 1 - 1 Burnley"
+          },
+          {
+            "date": "20/04/1996",
+            "competition": "English Football League - League One 1995/1996",
+            "teams_and_score": "Notts County 1 - 1 Burnley"
+          },
+          {
+            "date": "14/01/1995",
+            "competition": "English Football League - Championship 1994/1995",
+            "teams_and_score": "Notts County 3 - 0 Burnley"
+          }
+        ],
+        "home_team_form": {
+          "team": "Burnley",
+          "form": [
+            "D",
+            "L",
+            "D",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Burnley 1 - 1 Notts County",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2025",
+              "teams_and_score": "Burnley 0 - 1 Torino",
+              "result": "L"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Burnley 2 - 2 Espanyol",
+              "result": "D"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Ajax 2 - 1 Burnley",
+              "result": "L"
+            },
+            {
+              "date": "16/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Salt Lake 4 - 1 Burnley",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Notts County",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Burnley 1 - 1 Notts County",
+              "result": "D"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Notts County 0 - 2 Nottingham Forest",
+              "result": "L"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Randers FC 3 - 1 Notts County",
+              "result": "L"
+            },
+            {
+              "date": "25/05/2026",
+              "competition": "League 2: Play-offs 25/26",
+              "teams_and_score": "Notts County 3 - 0 Salford City",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Notts County 1 - 1 Bristol Rovers",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Burnley": "4",
+          "Notts County": "2"
+        },
+        "shots_off_target": {
+          "Burnley": "6",
+          "Notts County": "3"
+        },
+        "shots_blocked": {
+          "Burnley": "2",
+          "Notts County": "1"
+        },
+        "corners": {
+          "Burnley": "4",
+          "Notts County": "3"
+        },
+        "fouls": {
+          "Burnley": "9",
+          "Notts County": "15"
+        },
+        "offsides": {
+          "Burnley": "0",
+          "Notts County": "2"
+        },
+        "yellow_cards": {
+          "Burnley": "1",
+          "Notts County": "4"
+        },
+        "goalkeeper_saves": {
+          "Burnley": "1",
+          "Notts County": "3"
+        },
+        "crosses": {
+          "Burnley": "4",
+          "Notts County": "3"
+        },
+        "ball_possession": {
+          "Burnley": "74%",
+          "Notts County": "26%"
+        }
+      },
+      "description": "Watch Burnley vs Notts County highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The drama of the Carabao Cup was on full display on 2026-08-08 as Burnley and Notts County locked horns in a fiercely contested encounter. Both sides displayed incredible grit and determination, battling for every ball in a match that refused to follow a simple script until the very last kick. Notts County Stun the Hosts The first half saw Burnley attempting to dominate possession, with Zian Flemming and Jacob Bruun Larsen looking lively in the final third. However, they found it difficult to break through a resilient Notts County backline anchored by James Belshaw . The visitors grew in confidence as the half progressed, looking dangerous on the counter-attack. Their persistence paid dividends in the 42nd minute. Callum Roberts found space outside the box after a neat pass from Nick Tsaroulla and unleashed a pinpoint left-footed strike into the bottom right corner. The stunning effort left the home crowd stunned and gave the underdogs a deserved lead heading into the break. Flemming Ignites the Comeback Whatever was said in the Burnley dressing room worked instantly, as the hosts equalized just two minutes after the restart. In the 47th minute, Zian Flemming clinical finish from the center of the box flew into the top right corner following an assist by Marcus Edwards . The equalizer shifted the momentum, and the second half became a flurry of chances for both sides, with Marcus Edwards forcing a big save from James Belshaw and Zeki Amdouni dragging a shot wide. As the clock ticked down, the tension reached a boiling point. Notts County nearly snatched a late winner when Emile Acquah saw his header saved by Max Weiss , while Burnley ’s late pressure resulted in several corners but no winning goal. With the score locked at 1-1 after 90 minutes, the match moved to a penalty shootout. Shootout Heroics and the Decisive Blow In the shootout, Burnley goalkeeper Max Weiss rose to the occasion, producing two vital saves to deny Emile Acquah and Jacob Bedeau . Although Hannibal Mejbri missed his spot-kick, successful conversions from Zian Flemming , Zeki Amdouni , and Mike Trésor kept the pressure on the visitors. It fell to Kyle Walker to provide the final act of the night. The experienced defender stepped up and hammered his penalty into the top left corner to seal a 4-3 shootout victory. The result sees Burnley progress to the next round after a night where they were pushed to the absolute limit by a valiant Notts County ."
+    },
+    {
+      "title": "Stoke City vs Oldham",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/stoke-city-vs-oldham-2026-08-08-nX28.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1349.webp",
+          "name": "Oldham",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/75.webp",
+          "name": "Stoke City",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/stoke-city-vs-oldham-2026-08-08_XG5Iu.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Stoke City",
+          "player": "B. Lawal",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Oldham",
+          "player": "R. Delaney",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Stoke City",
+          "player": "O. Norburn",
+          "event_type": "Goal"
+        },
+        {
+          "time": "61'",
+          "team": "Stoke City",
+          "player": "B. Jun-Ho",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Stoke City",
+          "player": "R. Boženík",
+          "event_type": "Goal",
+          "assist": "B. Jun-Ho",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Stoke City_wins": "3",
+          "draws": "0",
+          "Oldham_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "24/08/2004",
+            "competition": "English League Cup 2004/2005",
+            "teams_and_score": "Oldham Athletic 2 - 1 Stoke City"
+          },
+          {
+            "date": "06/04/2002",
+            "competition": "English Football League - League One 2001/2002",
+            "teams_and_score": "Oldham Athletic 2 - 1 Stoke City"
+          },
+          {
+            "date": "28/04/2001",
+            "competition": "English Football League - League One 2000/2001",
+            "teams_and_score": "Oldham Athletic 1 - 2 Stoke City"
+          },
+          {
+            "date": "04/04/2000",
+            "competition": "English Football League - League One 1999/2000",
+            "teams_and_score": "Oldham Athletic 0 - 1 Stoke City"
+          },
+          {
+            "date": "04/05/1999",
+            "competition": "English Football League - League One 1998/1999",
+            "teams_and_score": "Oldham Athletic 1 - 0 Stoke City"
+          },
+          {
+            "date": "29/03/1997",
+            "competition": "English Football League - Championship 1996/1997",
+            "teams_and_score": "Stoke City 2 - 1 Oldham Athletic"
+          }
+        ],
+        "home_team_form": {
+          "team": "Stoke City",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Stoke City 2 - 0 Oldham Athletic",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Stoke City 1 - 1 Valencia",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stoke City 4 - 0 Sheffield Wednesday",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Bristol City 2 - 0 Stoke City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Oldham",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Stoke City 2 - 0 Oldham Athletic",
+              "result": "L"
+            },
+            {
+              "date": "21/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Oldham Athletic 1 - 3 Bolton Wanderers",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Oldham Athletic 3 - 0 Accrington Stanley",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Stoke City": "3",
+          "Oldham": "4"
+        },
+        "shots_off_target": {
+          "Stoke City": "7",
+          "Oldham": "4"
+        },
+        "shots_blocked": {
+          "Stoke City": "1",
+          "Oldham": "1"
+        },
+        "corners": {
+          "Stoke City": "3",
+          "Oldham": "3"
+        },
+        "fouls": {
+          "Stoke City": "14",
+          "Oldham": "11"
+        },
+        "offsides": {
+          "Stoke City": "4",
+          "Oldham": "2"
+        },
+        "yellow_cards": {
+          "Stoke City": "2",
+          "Oldham": "1"
+        },
+        "goalkeeper_saves": {
+          "Stoke City": "4",
+          "Oldham": "2"
+        },
+        "crosses": {
+          "Stoke City": "4",
+          "Oldham": "5"
+        },
+        "ball_possession": {
+          "Stoke City": "59%",
+          "Oldham": "41%"
+        }
+      },
+      "description": "Watch Stoke City vs Oldham highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Carabao Cup fixture on 2026-08-08 brought together Stoke City and Oldham Athletic in a contest defined by tactical shifts and decisive second-half moments. Both sides entered the pitch with high energy, looking to secure a place in the next round of the competition. Defensive Resilience in a Goalless First Half Oldham Athletic started the match with intent, refusing to be overawed by their opponents. Within the opening ten minutes, Mike Fondop forced two smart saves from Viktor Johansson , signaling the visitors' threat. Stoke City gradually grew into the game, with Sam Gallagher becoming a central figure in their offensive efforts. Gallagher saw a close-range effort saved by Mathew Hudson and later sent a header just wide of the target following a precise cross from Eric-Junior Bocat . The first half remained a balanced affair, characterized by missed opportunities and solid goalkeeping. While Sorba Thomas and Lamine Cissé looked to spark creativity for the hosts, Oldham's defensive line, led by Donervon Daniels , held firm. The teams headed into the tunnel at halftime with the deadlock unbroken, setting the stage for a dramatic restart. Substitutions Turn the Tide for Stoke The momentum shifted shortly after the break when Stoke City took the lead in the 48th minute through an unfortunate own goal by Oliver Norburn . Oldham tried to find a way back, with Kane Drummond testing Johansson again in the 56th minute, but the hosts maintained their composure. A series of substitutions mid-way through the second half proved to be the turning point for Stoke . The introduction of Bae Jun-Ho and Róbert Bozeník added fresh impetus to the attack. In the 82nd minute, Bae Jun-Ho turned provider, sliding a perfectly weighted through ball to Róbert Bozeník , who clinically fired into the bottom right corner to double the lead. Despite late pressure from Oldham , including headed chances for Elliott Nevitt and Jamie Robson , Stoke City managed the closing stages effectively to secure a 2-0 victory."
+    },
+    {
+      "title": "Leicester vs Northampton",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/leicester-vs-northampton-2026-08-08-hT7u.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1337.webp",
+          "name": "Northampton",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/46.webp",
+          "name": "Leicester",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/leicester-vs-northampton-2026-08-08_JxxFu.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Leicester",
+          "player": "C. Okoli",
+          "event_type": "Goal",
+          "assist": "L. Thomas",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Leicester",
+          "player": "B. Decordova-Reid",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Leicester",
+          "player": "S. Braybrooke",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "82'",
+          "team": "Leicester",
+          "player": "W. Burns",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Northampton",
+          "player": "H. Saunders",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+8'",
+          "team": "Leicester",
+          "player": "T. Watson",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Leicester_wins": "3",
+          "draws": "1",
+          "Northampton_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "11/07/2026",
+            "competition": "Friendly 2026",
+            "teams_and_score": "Leicester City 3 - 0 Northampton Town"
+          },
+          {
+            "date": "15/07/2023",
+            "competition": "Friendly 2023",
+            "teams_and_score": "Northampton Town 0 - 1 Leicester City"
+          },
+          {
+            "date": "30/07/2013",
+            "competition": "Friendly 2013",
+            "teams_and_score": "Northampton Town 2 - 1 Leicester City"
+          },
+          {
+            "date": "31/01/2009",
+            "competition": "English Football League - League One 2008/2009",
+            "teams_and_score": "Northampton Town 1 - 2 Leicester City"
+          },
+          {
+            "date": "26/03/1966",
+            "competition": "English Premier League 1965/1966",
+            "teams_and_score": "Northampton Town 2 - 2 Leicester City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Leicester",
+          "form": [
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Leicester City 1 - 0 Northampton Town",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leicester City 0 - 1 Genoa",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Blackburn Rovers 0 - 1 Leicester City",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Northampton",
+          "form": [
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Leicester City 1 - 0 Northampton Town",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Northampton Town 0 - 2 Birmingham City",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Northampton Town 2 - 3 Plymouth Argyle",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Leicester": "3",
+          "Northampton": "2"
+        },
+        "shots_off_target": {
+          "Leicester": "3",
+          "Northampton": "1"
+        },
+        "shots_blocked": {
+          "Leicester": "2",
+          "Northampton": "1"
+        },
+        "corners": {
+          "Leicester": "7",
+          "Northampton": "5"
+        },
+        "fouls": {
+          "Leicester": "11",
+          "Northampton": "12"
+        },
+        "offsides": {
+          "Leicester": "2",
+          "Northampton": "1"
+        },
+        "yellow_cards": {
+          "Leicester": "4",
+          "Northampton": "1"
+        },
+        "goalkeeper_saves": {
+          "Leicester": "2",
+          "Northampton": "2"
+        },
+        "crosses": {
+          "Leicester": "5",
+          "Northampton": "2"
+        },
+        "ball_possession": {
+          "Leicester": "77%",
+          "Northampton": "23%"
+        }
+      },
+      "description": "Watch Leicester vs Northampton highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Carabao Cup returned on August 8, 2026, featuring an intriguing knockout encounter between Leicester City and Northampton Town . Both sides entered the fray with a clear objective: securing a spot in the next round through a display of tactical discipline and competitive spirit. Early Pressure and the Decisive Header Leicester City established their dominance early in the match, although they received an early warning when Harvey Saunders forced a save from Jakub Stolarczyk in the opening minute. The breakthrough arrived in the 15th minute following a period of sustained pressure. A well-delivered corner from Luke Thomas found Caleb Okoli in the box, and the defender made no mistake, powering a header into the bottom left corner from close range. Following the goal, the Foxes continued to dictate the tempo, with Sammy Braybrooke and Luke Thomas both testing the visitor's resolve. Northampton Town remained a threat on the counter-attack, with Jon Guthrie going close with a header from a corner, but the hosts held their narrow advantage as the teams headed into the tunnel at half-time. Second Half Resilience and Late Drama As the second half unfolded, Northampton Town introduced several substitutions to inject fresh energy into their pursuit of an equalizer. Tyrese Fornah came close in the 74th minute, forcing Jakub Stolarczyk into a crucial save to preserve the lead. Leicester also looked to extend their cushion, with Bobby De Cordova-Reid seeing his effort saved by a sharp Zach Jeacock after a clever through ball from Liam Cullen . The closing stages were characterized by high intensity and tactical fouls, leading to yellow cards for Wes Burns and Tom Watson . Despite eight minutes of added time and a late chance for Olabade Aluko , Leicester City managed to navigate the pressure. The final whistle confirmed a hard-fought victory for the home side, bringing an end to a spirited challenge from a resilient Northampton squad."
+    },
+    {
+      "title": "Gillingham vs Luton",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/gillingham-vs-luton-2026-08-08-b4An.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1359.webp",
+          "name": "Luton",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1347.webp",
+          "name": "Gillingham",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/gillingham-vs-luton-2026-08-08_rvTy9.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Luton",
+          "player": "N. Wells",
+          "event_type": "Goal",
+          "assist": "J. Luker",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Gillingham",
+          "player": "Z. Albarus",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Luton",
+          "player": "B. Benagr",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Luton",
+          "player": "G. Kodua",
+          "event_type": "Goal",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "91'",
+          "team": "Luton",
+          "player": "S. Morris",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Gillingham_wins": "3",
+          "draws": "2",
+          "Luton_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "19/07/2025",
+            "competition": "Friendly 2025",
+            "teams_and_score": "Gillingham 0 - 2 Luton Town"
+          },
+          {
+            "date": "29/08/2023",
+            "competition": "English League Cup 2023/2024",
+            "teams_and_score": "Luton Town 3 - 2 Gillingham"
+          },
+          {
+            "date": "16/03/2019",
+            "competition": "English Football League - League One 2018/2019",
+            "teams_and_score": "Luton Town 2 - 2 Gillingham"
+          },
+          {
+            "date": "30/08/2016",
+            "competition": "English Football League Trophy 2016/2017",
+            "teams_and_score": "Gillingham 1 - 2 Luton Town"
+          },
+          {
+            "date": "06/10/2015",
+            "competition": "English Football League Trophy 2015/2016",
+            "teams_and_score": "Gillingham 2 - 1 Luton Town"
+          },
+          {
+            "date": "03/03/2009",
+            "competition": "English Football League - League Two 2008/2009",
+            "teams_and_score": "Luton Town 0 - 0 Gillingham"
+          },
+          {
+            "date": "01/04/2008",
+            "competition": "English Football League - League One 2007/2008",
+            "teams_and_score": "Gillingham 2 - 1 Luton Town"
+          }
+        ],
+        "home_team_form": {
+          "team": "Gillingham",
+          "form": [
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Gillingham 0 - 3 Luton Town",
+              "result": "L"
+            },
+            {
+              "date": "21/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Gillingham 1 - 0 Millwall",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Gillingham 1 - 0 Shrewsbury Town",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Luton",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Gillingham 0 - 3 Luton Town",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Luton Town 0 - 1 Go Ahead Eagles",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Bolton Wanderers 2 - 3 Luton Town",
+              "result": "W"
+            },
+            {
+              "date": "12/04/2026",
+              "competition": "EFL Trophy: Knockout Stage",
+              "teams_and_score": "Luton Town 3 - 1 Stockport County",
+              "result": "W"
+            },
+            {
+              "date": "06/04/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "AFC Wimbledon 0 - 3 Luton Town",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Gillingham": "2",
+          "Luton": "11"
+        },
+        "shots_off_target": {
+          "Gillingham": "2",
+          "Luton": "5"
+        },
+        "shots_blocked": {
+          "Gillingham": "3",
+          "Luton": "1"
+        },
+        "corners": {
+          "Gillingham": "2",
+          "Luton": "9"
+        },
+        "fouls": {
+          "Gillingham": "17",
+          "Luton": "10"
+        },
+        "offsides": {
+          "Gillingham": "1",
+          "Luton": "2"
+        },
+        "yellow_cards": {
+          "Gillingham": "1",
+          "Luton": "1"
+        },
+        "goalkeeper_saves": {
+          "Gillingham": "8",
+          "Luton": "2"
+        },
+        "crosses": {
+          "Gillingham": "2",
+          "Luton": "4"
+        },
+        "ball_possession": {
+          "Gillingham": "34%",
+          "Luton": "66%"
+        }
+      },
+      "description": "Watch Gillingham vs Luton highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Carabao Cup took center stage on August 8, 2026, as Gillingham welcomed Luton Town for a knockout encounter under the lights. Fans at the stadium were treated to a tactical battle as both sides vied for a spot in the next round of the competition. Luton Take Control Early From the opening whistle, Luton Town displayed their intent to dictate play. As early as the 2nd minute, Jake Richards forced a sharp save from Owen Mason , setting the tone for a busy evening for the Gillingham goalkeeper. The pressure continued to mount as Jordan Clark saw multiple efforts saved in the 13th minute, with the visitors consistently finding gaps in the home side's defensive lines. The deadlock was finally broken in the 43rd minute. A perfectly weighted through ball from Jayden Luker found Nahki Wells in the center of the box. The striker made no mistake, sliding a right-footed shot into the bottom right corner to give the visitors a deserved lead just before the break. Gillingham had struggled to create clear-cut chances, with a James Brophy header earlier in the half being their most notable effort. Clinical Finishing Doubles the Advantage The second half began with an early setback for Luton Town as Jayden Luker was forced off due to injury, replaced by Kasey Palmer . However, the momentum remained firmly with the visitors. In the 59th minute, Benedict Benagr found himself in the right place at the right time, converting from close range to double the lead. The goal followed a period of sustained pressure and a fast break that left the Gillingham defense scrambling. In an attempt to change the course of the match, Gillingham introduced five substitutes simultaneously in the 67th minute, including Will Goodwin and Sullivan Booth . While Goodwin did manage to test Josh Keeley with a low shot in the 85th minute, the home side found it difficult to consistently break through a disciplined Luton midfield. Sealing the Victory Any hopes of a late comeback were extinguished in the 78th minute. Following a corner, substitute Gideon Kodua rose highest to power a header into the center of the goal from very close range. The 3-0 scoreline reflected Luton's dominance throughout the encounter. As the match entered eight minutes of stoppage time, Kodua nearly added a fourth but saw his effort strike the left post. Despite a late flurry of attempts from Sullivan Booth and Harry Waldock for the hosts, the Luton Town defense held firm. The final whistle confirmed a comprehensive victory for the visitors, sending them through to the next stage of the Carabao Cup ."
+    },
+    {
+      "title": "Watford vs Crawley Town",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-vs-crawley-town-2026-08-08-8onW.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1362.webp",
+          "name": "Crawley Town",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/38.webp",
+          "name": "Watford",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/watford-vs-crawley-town-2026-08-08_Z5315.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Watford",
+          "player": "E. Bove",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "62'",
+          "team": "Crawley Town",
+          "player": "C. Barker",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "63'",
+          "team": "Watford",
+          "player": "I. Bravo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "67'",
+          "team": "Crawley Town",
+          "player": "K. Gordon",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+7'",
+          "team": "Crawley Town",
+          "player": "P. Aderoju",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+9'",
+          "team": "Watford",
+          "player": "M. Bola",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Watford_wins": "0",
+          "draws": "0",
+          "Crawley Town_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Watford",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Watford 1 - 0 Crawley Town",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Watford 0 - 1 Fiorentina",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Watford 3 - 0 Hansa Rostock",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Watford 0 - 4 Coventry City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Crawley Town",
+          "form": [
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Watford 1 - 0 Crawley Town",
+              "result": "L"
+            },
+            {
+              "date": "03/08/2026",
+              "competition": "EFL Cup: Qualification Round",
+              "teams_and_score": "York City 0 - 2 Crawley Town",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Crawley Town 0 - 0 Salford City",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Watford": "11",
+          "Crawley Town": "3"
+        },
+        "shots_off_target": {
+          "Watford": "12",
+          "Crawley Town": "3"
+        },
+        "shots_blocked": {
+          "Watford": "13",
+          "Crawley Town": "3"
+        },
+        "corners": {
+          "Watford": "12",
+          "Crawley Town": "1"
+        },
+        "fouls": {
+          "Watford": "11",
+          "Crawley Town": "13"
+        },
+        "offsides": {
+          "Watford": "2",
+          "Crawley Town": "2"
+        },
+        "yellow_cards": {
+          "Watford": "2",
+          "Crawley Town": "3"
+        },
+        "goalkeeper_saves": {
+          "Watford": "3",
+          "Crawley Town": "10"
+        },
+        "crosses": {
+          "Watford": "6",
+          "Crawley Town": "3"
+        },
+        "ball_possession": {
+          "Watford": "61%",
+          "Crawley Town": "39%"
+        }
+      },
+      "description": "Watch Watford vs Crawley Town highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. Under the lights of the Carabao Cup , Watford and Crawley Town locked horns in a clash that tested the nerves and endurance of both squads. Fans were treated to a night of persistent attacks and defensive heroics that kept the outcome uncertain until the very last moments. Early Battles and Goalkeeping Heroics On August 8, 2026 , the Carabao Cup stage was set for a tense encounter. From the opening whistle, Watford looked to assert dominance, with Iker Bravo testing Vito Mannone as early as the 3rd minute. The Crawley Town goalkeeper was kept busy throughout the first half, notably denying Othmane Maamma twice in a frantic 7th minute. Despite the pressure, the visitors held firm, occasionally venturing forward as Stephen Duke-McKenna forced a save from Federico Ravaglia around the half-hour mark. Second Half Drama and Woodwork Rattled The intensity ramped up after the break. Watford introduced Amin Nabizada , who immediately made an impact by setting up Iker Bravo , only for the shot to whistle wide. The most agonising moment for the home side came in the 60th minute when Luca Kjerrumgaard saw his effort strike the left post. As the clock ticked down, a flurry of yellow cards for players like Charlie Barker and Kellan Gordon showed the rising tension, while injuries to Gianmarco Di Biase and Othmane Maamma disrupted the flow of the match. The Decisive Blow in Added Time With nine minutes of stoppage time announced, the match seemed destined for a stalemate. However, in the 99th minute, the deadlock was finally shattered. Rocco Vata found Marc Bola outside the area, and the defender unleashed a spectacular right-footed strike into the top left corner. This late breakthrough proved to be the difference, as Watford navigated the final seconds of the 12 added minutes to secure their progression in the tournament."
     },
     {
       "title": "Wolverhampton vs Port Vale",
@@ -3926,1113 +5237,6 @@
         }
       },
       "description": "Watch Cambridge United vs Barnet highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Carabao Cup returned to the spotlight on August 8, 2026, as Cambridge United hosted Barnet in a clash that promised intensity and knockout drama. Both sides entered the fray seeking a path to the next round, setting the stage for a compelling encounter where momentum would prove to be everything. A Cautious Opening Half The match began with a period of tactical sparring, but it wasn't long before Cambridge United attempted to impose their home advantage. Louis Appéré was a constant threat in the early stages, testing the reflexes of Barnet goalkeeper Matthew Cox as early as the eighth minute. Barnet , however, remained disciplined, looking to exploit spaces on the break with Kabongo Tshimanga leading the line. As the half progressed, chances became more frequent for both sides. Ben Knight and Glenn McConnell both saw efforts saved by an inspired Cox , while at the other end, Charlie Lakin forced a sharp save from Cambridge stopper Jake Eastwood . Despite several promising openings and a flurry of corners, the first 45 minutes ended goalless, leaving the fans in anticipation of a breakthrough. Quick-fire Double Shifts the Momentum The second half exploded into life shortly after the restart, and it was Barnet who struck first. In the 49th minute, a lightning-fast break saw Charlie Lakin find Kabongo Tshimanga in the center of the box, and the striker made no mistake, firing into the center of the goal. The away support was still celebrating when Cambridge United launched their response. Just three minutes later, the scores were level. Glenn McConnell orchestrated a counter-attack, feeding Ben Knight , who clinically slotted a left-footed shot into the bottom right corner. The home side seized the momentum and struck again in the 57th minute. Louis Appéré turned provider, setting up Isaac Heath for a right-footed finish from the center of the box to complete a stunning five-minute turnaround. Late Drama and Defensive Heroics Faced with a deficit, Barnet threw everything forward in the closing stages. Substitutions brought fresh energy, and Tom Knowles forced a fine save from Eastwood in the 78th minute. The match grew increasingly physical as the clock ticked down, with Idris Kanu , Kelland Watts , and Zac Williams all receiving yellow cards during a series of heated exchanges. Seven minutes of added time provided a grandstand finish. Barnet pushed for an equalizer, but a crucial block on an Idris Kanu header in the 98th minute epitomized Cambridge's defensive resolve. When the final whistle blew, Cambridge United celebrated a hard-fought 2-1 victory, securing their progression to the next round of the Carabao Cup after a resilient second-half performance."
-    },
-    {
-      "title": "Burnley vs Notts County",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/burnley-vs-notts-county-2026-08-08-GjMe.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1376.webp",
-          "name": "Notts County",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/44.webp",
-          "name": "Burnley",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/burnley-vs-notts-county-2026-08-08_al83M.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Notts County",
-          "player": "J. Gibbons",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Notts County",
-          "player": "C. Roberts",
-          "event_type": "Goal",
-          "assist": "N. Tsaroulla",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "47'",
-          "team": "Burnley",
-          "player": "Z. Flemming",
-          "event_type": "Goal",
-          "assist": "M. Edwards",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "73'",
-          "team": "Notts County",
-          "player": "D. Lipsiuc",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "Notts County",
-          "player": "J. Evans",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "PEN 1",
-          "team": "Burnley",
-          "player": "Z. Flemming",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "PEN 1",
-          "team": "Notts County",
-          "player": "E. Acquah",
-          "event_type": "Goal",
-          "score_update": "0 - 0"
-        },
-        {
-          "time": "PEN 2",
-          "team": "Burnley",
-          "player": "Z. Amdouni",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "PEN 2",
-          "team": "Notts County",
-          "player": "D. Campbell",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "PEN 3",
-          "team": "Burnley",
-          "player": "M. Trésor",
-          "event_type": "Goal",
-          "score_update": "3 - 2"
-        },
-        {
-          "time": "PEN 3",
-          "team": "Notts County",
-          "player": "C. Grant",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "PEN 4",
-          "team": "Burnley",
-          "player": "H. Mejbri",
-          "event_type": "Goal",
-          "score_update": "3 - 3"
-        },
-        {
-          "time": "PEN 4",
-          "team": "Notts County",
-          "player": "J. Evans",
-          "event_type": "Goal",
-          "score_update": "3 - 3"
-        },
-        {
-          "time": "PEN 5",
-          "team": "Burnley",
-          "player": "K. Walker",
-          "event_type": "Goal",
-          "score_update": "4 - 3"
-        },
-        {
-          "time": "PEN 5",
-          "team": "Notts County",
-          "player": "J. Bedeau",
-          "event_type": "Goal",
-          "score_update": "3 - 3"
-        },
-        {
-          "time": "PEN 1",
-          "team": "Burnley",
-          "player": "Z. Flemming",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "PEN 1",
-          "team": "Notts County",
-          "player": "J. Belshaw",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Burnley_wins": "1",
-          "draws": "3",
-          "Notts County_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "08/04/2000",
-            "competition": "English Football League - League One 1999/2000",
-            "teams_and_score": "Burnley 2 - 1 Notts County"
-          },
-          {
-            "date": "03/04/1999",
-            "competition": "English Football League - League One 1998/1999",
-            "teams_and_score": "Notts County 0 - 0 Burnley"
-          },
-          {
-            "date": "26/04/1997",
-            "competition": "English Football League - League One 1996/1997",
-            "teams_and_score": "Notts County 1 - 1 Burnley"
-          },
-          {
-            "date": "20/04/1996",
-            "competition": "English Football League - League One 1995/1996",
-            "teams_and_score": "Notts County 1 - 1 Burnley"
-          },
-          {
-            "date": "14/01/1995",
-            "competition": "English Football League - Championship 1994/1995",
-            "teams_and_score": "Notts County 3 - 0 Burnley"
-          }
-        ],
-        "home_team_form": {
-          "team": "Burnley",
-          "form": [
-            "D",
-            "L",
-            "D",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Burnley 1 - 1 Notts County",
-              "result": "D"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Club Friendlies 2025",
-              "teams_and_score": "Burnley 0 - 1 Torino",
-              "result": "L"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Burnley 2 - 2 Espanyol",
-              "result": "D"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Ajax 2 - 1 Burnley",
-              "result": "L"
-            },
-            {
-              "date": "16/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Salt Lake 4 - 1 Burnley",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Notts County",
-          "form": [
-            "D",
-            "L",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Burnley 1 - 1 Notts County",
-              "result": "D"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Notts County 0 - 2 Nottingham Forest",
-              "result": "L"
-            },
-            {
-              "date": "14/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Randers FC 3 - 1 Notts County",
-              "result": "L"
-            },
-            {
-              "date": "25/05/2026",
-              "competition": "League 2: Play-offs 25/26",
-              "teams_and_score": "Notts County 3 - 0 Salford City",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Notts County 1 - 1 Bristol Rovers",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Burnley": "4",
-          "Notts County": "2"
-        },
-        "shots_off_target": {
-          "Burnley": "6",
-          "Notts County": "3"
-        },
-        "shots_blocked": {
-          "Burnley": "2",
-          "Notts County": "1"
-        },
-        "corners": {
-          "Burnley": "4",
-          "Notts County": "3"
-        },
-        "fouls": {
-          "Burnley": "9",
-          "Notts County": "15"
-        },
-        "offsides": {
-          "Burnley": "0",
-          "Notts County": "2"
-        },
-        "yellow_cards": {
-          "Burnley": "1",
-          "Notts County": "4"
-        },
-        "goalkeeper_saves": {
-          "Burnley": "1",
-          "Notts County": "3"
-        },
-        "crosses": {
-          "Burnley": "4",
-          "Notts County": "3"
-        },
-        "ball_possession": {
-          "Burnley": "74%",
-          "Notts County": "26%"
-        }
-      },
-      "description": "Watch Burnley vs Notts County highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The drama of the Carabao Cup was on full display on 2026-08-08 as Burnley and Notts County locked horns in a fiercely contested encounter. Both sides displayed incredible grit and determination, battling for every ball in a match that refused to follow a simple script until the very last kick. Notts County Stun the Hosts The first half saw Burnley attempting to dominate possession, with Zian Flemming and Jacob Bruun Larsen looking lively in the final third. However, they found it difficult to break through a resilient Notts County backline anchored by James Belshaw . The visitors grew in confidence as the half progressed, looking dangerous on the counter-attack. Their persistence paid dividends in the 42nd minute. Callum Roberts found space outside the box after a neat pass from Nick Tsaroulla and unleashed a pinpoint left-footed strike into the bottom right corner. The stunning effort left the home crowd stunned and gave the underdogs a deserved lead heading into the break. Flemming Ignites the Comeback Whatever was said in the Burnley dressing room worked instantly, as the hosts equalized just two minutes after the restart. In the 47th minute, Zian Flemming clinical finish from the center of the box flew into the top right corner following an assist by Marcus Edwards . The equalizer shifted the momentum, and the second half became a flurry of chances for both sides, with Marcus Edwards forcing a big save from James Belshaw and Zeki Amdouni dragging a shot wide. As the clock ticked down, the tension reached a boiling point. Notts County nearly snatched a late winner when Emile Acquah saw his header saved by Max Weiss , while Burnley ’s late pressure resulted in several corners but no winning goal. With the score locked at 1-1 after 90 minutes, the match moved to a penalty shootout. Shootout Heroics and the Decisive Blow In the shootout, Burnley goalkeeper Max Weiss rose to the occasion, producing two vital saves to deny Emile Acquah and Jacob Bedeau . Although Hannibal Mejbri missed his spot-kick, successful conversions from Zian Flemming , Zeki Amdouni , and Mike Trésor kept the pressure on the visitors. It fell to Kyle Walker to provide the final act of the night. The experienced defender stepped up and hammered his penalty into the top left corner to seal a 4-3 shootout victory. The result sees Burnley progress to the next round after a night where they were pushed to the absolute limit by a valiant Notts County ."
-    },
-    {
-      "title": "Stoke City vs Oldham",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/stoke-city-vs-oldham-2026-08-08-nX28.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1349.webp",
-          "name": "Oldham",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/75.webp",
-          "name": "Stoke City",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/stoke-city-vs-oldham-2026-08-08_XG5Iu.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Stoke City",
-          "player": "B. Lawal",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Oldham",
-          "player": "R. Delaney",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Stoke City",
-          "player": "O. Norburn",
-          "event_type": "Goal"
-        },
-        {
-          "time": "61'",
-          "team": "Stoke City",
-          "player": "B. Jun-Ho",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Stoke City",
-          "player": "R. Boženík",
-          "event_type": "Goal",
-          "assist": "B. Jun-Ho",
-          "score_update": "2 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Stoke City_wins": "3",
-          "draws": "0",
-          "Oldham_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "24/08/2004",
-            "competition": "English League Cup 2004/2005",
-            "teams_and_score": "Oldham Athletic 2 - 1 Stoke City"
-          },
-          {
-            "date": "06/04/2002",
-            "competition": "English Football League - League One 2001/2002",
-            "teams_and_score": "Oldham Athletic 2 - 1 Stoke City"
-          },
-          {
-            "date": "28/04/2001",
-            "competition": "English Football League - League One 2000/2001",
-            "teams_and_score": "Oldham Athletic 1 - 2 Stoke City"
-          },
-          {
-            "date": "04/04/2000",
-            "competition": "English Football League - League One 1999/2000",
-            "teams_and_score": "Oldham Athletic 0 - 1 Stoke City"
-          },
-          {
-            "date": "04/05/1999",
-            "competition": "English Football League - League One 1998/1999",
-            "teams_and_score": "Oldham Athletic 1 - 0 Stoke City"
-          },
-          {
-            "date": "29/03/1997",
-            "competition": "English Football League - Championship 1996/1997",
-            "teams_and_score": "Stoke City 2 - 1 Oldham Athletic"
-          }
-        ],
-        "home_team_form": {
-          "team": "Stoke City",
-          "form": [
-            "W",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Stoke City 2 - 0 Oldham Athletic",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Stoke City 1 - 1 Valencia",
-              "result": "D"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Stoke City 4 - 0 Sheffield Wednesday",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Bristol City 2 - 0 Stoke City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Oldham",
-          "form": [
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Stoke City 2 - 0 Oldham Athletic",
-              "result": "L"
-            },
-            {
-              "date": "21/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Oldham Athletic 1 - 3 Bolton Wanderers",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Oldham Athletic 3 - 0 Accrington Stanley",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Stoke City": "3",
-          "Oldham": "4"
-        },
-        "shots_off_target": {
-          "Stoke City": "7",
-          "Oldham": "4"
-        },
-        "shots_blocked": {
-          "Stoke City": "1",
-          "Oldham": "1"
-        },
-        "corners": {
-          "Stoke City": "3",
-          "Oldham": "3"
-        },
-        "fouls": {
-          "Stoke City": "14",
-          "Oldham": "11"
-        },
-        "offsides": {
-          "Stoke City": "4",
-          "Oldham": "2"
-        },
-        "yellow_cards": {
-          "Stoke City": "2",
-          "Oldham": "1"
-        },
-        "goalkeeper_saves": {
-          "Stoke City": "4",
-          "Oldham": "2"
-        },
-        "crosses": {
-          "Stoke City": "4",
-          "Oldham": "5"
-        },
-        "ball_possession": {
-          "Stoke City": "59%",
-          "Oldham": "41%"
-        }
-      },
-      "description": "Watch Stoke City vs Oldham highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Carabao Cup fixture on 2026-08-08 brought together Stoke City and Oldham Athletic in a contest defined by tactical shifts and decisive second-half moments. Both sides entered the pitch with high energy, looking to secure a place in the next round of the competition. Defensive Resilience in a Goalless First Half Oldham Athletic started the match with intent, refusing to be overawed by their opponents. Within the opening ten minutes, Mike Fondop forced two smart saves from Viktor Johansson , signaling the visitors' threat. Stoke City gradually grew into the game, with Sam Gallagher becoming a central figure in their offensive efforts. Gallagher saw a close-range effort saved by Mathew Hudson and later sent a header just wide of the target following a precise cross from Eric-Junior Bocat . The first half remained a balanced affair, characterized by missed opportunities and solid goalkeeping. While Sorba Thomas and Lamine Cissé looked to spark creativity for the hosts, Oldham's defensive line, led by Donervon Daniels , held firm. The teams headed into the tunnel at halftime with the deadlock unbroken, setting the stage for a dramatic restart. Substitutions Turn the Tide for Stoke The momentum shifted shortly after the break when Stoke City took the lead in the 48th minute through an unfortunate own goal by Oliver Norburn . Oldham tried to find a way back, with Kane Drummond testing Johansson again in the 56th minute, but the hosts maintained their composure. A series of substitutions mid-way through the second half proved to be the turning point for Stoke . The introduction of Bae Jun-Ho and Róbert Bozeník added fresh impetus to the attack. In the 82nd minute, Bae Jun-Ho turned provider, sliding a perfectly weighted through ball to Róbert Bozeník , who clinically fired into the bottom right corner to double the lead. Despite late pressure from Oldham , including headed chances for Elliott Nevitt and Jamie Robson , Stoke City managed the closing stages effectively to secure a 2-0 victory."
-    },
-    {
-      "title": "Leicester vs Northampton",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/leicester-vs-northampton-2026-08-08-hT7u.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1337.webp",
-          "name": "Northampton",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/46.webp",
-          "name": "Leicester",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/leicester-vs-northampton-2026-08-08_JxxFu.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Leicester",
-          "player": "C. Okoli",
-          "event_type": "Goal",
-          "assist": "L. Thomas",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Leicester",
-          "player": "B. Decordova-Reid",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Leicester",
-          "player": "S. Braybrooke",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "82'",
-          "team": "Leicester",
-          "player": "W. Burns",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Northampton",
-          "player": "H. Saunders",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+8'",
-          "team": "Leicester",
-          "player": "T. Watson",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Leicester_wins": "3",
-          "draws": "1",
-          "Northampton_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "11/07/2026",
-            "competition": "Friendly 2026",
-            "teams_and_score": "Leicester City 3 - 0 Northampton Town"
-          },
-          {
-            "date": "15/07/2023",
-            "competition": "Friendly 2023",
-            "teams_and_score": "Northampton Town 0 - 1 Leicester City"
-          },
-          {
-            "date": "30/07/2013",
-            "competition": "Friendly 2013",
-            "teams_and_score": "Northampton Town 2 - 1 Leicester City"
-          },
-          {
-            "date": "31/01/2009",
-            "competition": "English Football League - League One 2008/2009",
-            "teams_and_score": "Northampton Town 1 - 2 Leicester City"
-          },
-          {
-            "date": "26/03/1966",
-            "competition": "English Premier League 1965/1966",
-            "teams_and_score": "Northampton Town 2 - 2 Leicester City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Leicester",
-          "form": [
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Leicester City 1 - 0 Northampton Town",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Leicester City 0 - 1 Genoa",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Blackburn Rovers 0 - 1 Leicester City",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Northampton",
-          "form": [
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Leicester City 1 - 0 Northampton Town",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Northampton Town 0 - 2 Birmingham City",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Northampton Town 2 - 3 Plymouth Argyle",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Leicester": "3",
-          "Northampton": "2"
-        },
-        "shots_off_target": {
-          "Leicester": "3",
-          "Northampton": "1"
-        },
-        "shots_blocked": {
-          "Leicester": "2",
-          "Northampton": "1"
-        },
-        "corners": {
-          "Leicester": "7",
-          "Northampton": "5"
-        },
-        "fouls": {
-          "Leicester": "11",
-          "Northampton": "12"
-        },
-        "offsides": {
-          "Leicester": "2",
-          "Northampton": "1"
-        },
-        "yellow_cards": {
-          "Leicester": "4",
-          "Northampton": "1"
-        },
-        "goalkeeper_saves": {
-          "Leicester": "2",
-          "Northampton": "2"
-        },
-        "crosses": {
-          "Leicester": "5",
-          "Northampton": "2"
-        },
-        "ball_possession": {
-          "Leicester": "77%",
-          "Northampton": "23%"
-        }
-      },
-      "description": "Watch Leicester vs Northampton highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Carabao Cup returned on August 8, 2026, featuring an intriguing knockout encounter between Leicester City and Northampton Town . Both sides entered the fray with a clear objective: securing a spot in the next round through a display of tactical discipline and competitive spirit. Early Pressure and the Decisive Header Leicester City established their dominance early in the match, although they received an early warning when Harvey Saunders forced a save from Jakub Stolarczyk in the opening minute. The breakthrough arrived in the 15th minute following a period of sustained pressure. A well-delivered corner from Luke Thomas found Caleb Okoli in the box, and the defender made no mistake, powering a header into the bottom left corner from close range. Following the goal, the Foxes continued to dictate the tempo, with Sammy Braybrooke and Luke Thomas both testing the visitor's resolve. Northampton Town remained a threat on the counter-attack, with Jon Guthrie going close with a header from a corner, but the hosts held their narrow advantage as the teams headed into the tunnel at half-time. Second Half Resilience and Late Drama As the second half unfolded, Northampton Town introduced several substitutions to inject fresh energy into their pursuit of an equalizer. Tyrese Fornah came close in the 74th minute, forcing Jakub Stolarczyk into a crucial save to preserve the lead. Leicester also looked to extend their cushion, with Bobby De Cordova-Reid seeing his effort saved by a sharp Zach Jeacock after a clever through ball from Liam Cullen . The closing stages were characterized by high intensity and tactical fouls, leading to yellow cards for Wes Burns and Tom Watson . Despite eight minutes of added time and a late chance for Olabade Aluko , Leicester City managed to navigate the pressure. The final whistle confirmed a hard-fought victory for the home side, bringing an end to a spirited challenge from a resilient Northampton squad."
-    },
-    {
-      "title": "Gillingham vs Luton",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/gillingham-vs-luton-2026-08-08-b4An.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1359.webp",
-          "name": "Luton",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1347.webp",
-          "name": "Gillingham",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/gillingham-vs-luton-2026-08-08_rvTy9.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Luton",
-          "player": "N. Wells",
-          "event_type": "Goal",
-          "assist": "J. Luker",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Gillingham",
-          "player": "Z. Albarus",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Luton",
-          "player": "B. Benagr",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "76'",
-          "team": "Luton",
-          "player": "G. Kodua",
-          "event_type": "Goal",
-          "score_update": "0 - 3"
-        },
-        {
-          "time": "91'",
-          "team": "Luton",
-          "player": "S. Morris",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Gillingham_wins": "3",
-          "draws": "2",
-          "Luton_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "19/07/2025",
-            "competition": "Friendly 2025",
-            "teams_and_score": "Gillingham 0 - 2 Luton Town"
-          },
-          {
-            "date": "29/08/2023",
-            "competition": "English League Cup 2023/2024",
-            "teams_and_score": "Luton Town 3 - 2 Gillingham"
-          },
-          {
-            "date": "16/03/2019",
-            "competition": "English Football League - League One 2018/2019",
-            "teams_and_score": "Luton Town 2 - 2 Gillingham"
-          },
-          {
-            "date": "30/08/2016",
-            "competition": "English Football League Trophy 2016/2017",
-            "teams_and_score": "Gillingham 1 - 2 Luton Town"
-          },
-          {
-            "date": "06/10/2015",
-            "competition": "English Football League Trophy 2015/2016",
-            "teams_and_score": "Gillingham 2 - 1 Luton Town"
-          },
-          {
-            "date": "03/03/2009",
-            "competition": "English Football League - League Two 2008/2009",
-            "teams_and_score": "Luton Town 0 - 0 Gillingham"
-          },
-          {
-            "date": "01/04/2008",
-            "competition": "English Football League - League One 2007/2008",
-            "teams_and_score": "Gillingham 2 - 1 Luton Town"
-          }
-        ],
-        "home_team_form": {
-          "team": "Gillingham",
-          "form": [
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Gillingham 0 - 3 Luton Town",
-              "result": "L"
-            },
-            {
-              "date": "21/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Gillingham 1 - 0 Millwall",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Gillingham 1 - 0 Shrewsbury Town",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Luton",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Gillingham 0 - 3 Luton Town",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Luton Town 0 - 1 Go Ahead Eagles",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Bolton Wanderers 2 - 3 Luton Town",
-              "result": "W"
-            },
-            {
-              "date": "12/04/2026",
-              "competition": "EFL Trophy: Knockout Stage",
-              "teams_and_score": "Luton Town 3 - 1 Stockport County",
-              "result": "W"
-            },
-            {
-              "date": "06/04/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "AFC Wimbledon 0 - 3 Luton Town",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Gillingham": "2",
-          "Luton": "11"
-        },
-        "shots_off_target": {
-          "Gillingham": "2",
-          "Luton": "5"
-        },
-        "shots_blocked": {
-          "Gillingham": "3",
-          "Luton": "1"
-        },
-        "corners": {
-          "Gillingham": "2",
-          "Luton": "9"
-        },
-        "fouls": {
-          "Gillingham": "17",
-          "Luton": "10"
-        },
-        "offsides": {
-          "Gillingham": "1",
-          "Luton": "2"
-        },
-        "yellow_cards": {
-          "Gillingham": "1",
-          "Luton": "1"
-        },
-        "goalkeeper_saves": {
-          "Gillingham": "8",
-          "Luton": "2"
-        },
-        "crosses": {
-          "Gillingham": "2",
-          "Luton": "4"
-        },
-        "ball_possession": {
-          "Gillingham": "34%",
-          "Luton": "66%"
-        }
-      },
-      "description": "Watch Gillingham vs Luton highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Carabao Cup took center stage on August 8, 2026, as Gillingham welcomed Luton Town for a knockout encounter under the lights. Fans at the stadium were treated to a tactical battle as both sides vied for a spot in the next round of the competition. Luton Take Control Early From the opening whistle, Luton Town displayed their intent to dictate play. As early as the 2nd minute, Jake Richards forced a sharp save from Owen Mason , setting the tone for a busy evening for the Gillingham goalkeeper. The pressure continued to mount as Jordan Clark saw multiple efforts saved in the 13th minute, with the visitors consistently finding gaps in the home side's defensive lines. The deadlock was finally broken in the 43rd minute. A perfectly weighted through ball from Jayden Luker found Nahki Wells in the center of the box. The striker made no mistake, sliding a right-footed shot into the bottom right corner to give the visitors a deserved lead just before the break. Gillingham had struggled to create clear-cut chances, with a James Brophy header earlier in the half being their most notable effort. Clinical Finishing Doubles the Advantage The second half began with an early setback for Luton Town as Jayden Luker was forced off due to injury, replaced by Kasey Palmer . However, the momentum remained firmly with the visitors. In the 59th minute, Benedict Benagr found himself in the right place at the right time, converting from close range to double the lead. The goal followed a period of sustained pressure and a fast break that left the Gillingham defense scrambling. In an attempt to change the course of the match, Gillingham introduced five substitutes simultaneously in the 67th minute, including Will Goodwin and Sullivan Booth . While Goodwin did manage to test Josh Keeley with a low shot in the 85th minute, the home side found it difficult to consistently break through a disciplined Luton midfield. Sealing the Victory Any hopes of a late comeback were extinguished in the 78th minute. Following a corner, substitute Gideon Kodua rose highest to power a header into the center of the goal from very close range. The 3-0 scoreline reflected Luton's dominance throughout the encounter. As the match entered eight minutes of stoppage time, Kodua nearly added a fourth but saw his effort strike the left post. Despite a late flurry of attempts from Sullivan Booth and Harry Waldock for the hosts, the Luton Town defense held firm. The final whistle confirmed a comprehensive victory for the visitors, sending them through to the next stage of the Carabao Cup ."
-    },
-    {
-      "title": "Watford vs Crawley Town",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-vs-crawley-town-2026-08-08-8onW.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1362.webp",
-          "name": "Crawley Town",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/38.webp",
-          "name": "Watford",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/watford-vs-crawley-town-2026-08-08_Z5315.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Watford",
-          "player": "E. Bove",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "62'",
-          "team": "Crawley Town",
-          "player": "C. Barker",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "63'",
-          "team": "Watford",
-          "player": "I. Bravo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "67'",
-          "team": "Crawley Town",
-          "player": "K. Gordon",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+7'",
-          "team": "Crawley Town",
-          "player": "P. Aderoju",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+9'",
-          "team": "Watford",
-          "player": "M. Bola",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Watford_wins": "0",
-          "draws": "0",
-          "Crawley Town_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Watford",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Watford 1 - 0 Crawley Town",
-              "result": "W"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Watford 0 - 1 Fiorentina",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Watford 3 - 0 Hansa Rostock",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Watford 0 - 4 Coventry City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Crawley Town",
-          "form": [
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Watford 1 - 0 Crawley Town",
-              "result": "L"
-            },
-            {
-              "date": "03/08/2026",
-              "competition": "EFL Cup: Qualification Round",
-              "teams_and_score": "York City 0 - 2 Crawley Town",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Crawley Town 0 - 0 Salford City",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Watford": "11",
-          "Crawley Town": "3"
-        },
-        "shots_off_target": {
-          "Watford": "12",
-          "Crawley Town": "3"
-        },
-        "shots_blocked": {
-          "Watford": "13",
-          "Crawley Town": "3"
-        },
-        "corners": {
-          "Watford": "12",
-          "Crawley Town": "1"
-        },
-        "fouls": {
-          "Watford": "11",
-          "Crawley Town": "13"
-        },
-        "offsides": {
-          "Watford": "2",
-          "Crawley Town": "2"
-        },
-        "yellow_cards": {
-          "Watford": "2",
-          "Crawley Town": "3"
-        },
-        "goalkeeper_saves": {
-          "Watford": "3",
-          "Crawley Town": "10"
-        },
-        "crosses": {
-          "Watford": "6",
-          "Crawley Town": "3"
-        },
-        "ball_possession": {
-          "Watford": "61%",
-          "Crawley Town": "39%"
-        }
-      },
-      "description": "Watch Watford vs Crawley Town highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. Under the lights of the Carabao Cup , Watford and Crawley Town locked horns in a clash that tested the nerves and endurance of both squads. Fans were treated to a night of persistent attacks and defensive heroics that kept the outcome uncertain until the very last moments. Early Battles and Goalkeeping Heroics On August 8, 2026 , the Carabao Cup stage was set for a tense encounter. From the opening whistle, Watford looked to assert dominance, with Iker Bravo testing Vito Mannone as early as the 3rd minute. The Crawley Town goalkeeper was kept busy throughout the first half, notably denying Othmane Maamma twice in a frantic 7th minute. Despite the pressure, the visitors held firm, occasionally venturing forward as Stephen Duke-McKenna forced a save from Federico Ravaglia around the half-hour mark. Second Half Drama and Woodwork Rattled The intensity ramped up after the break. Watford introduced Amin Nabizada , who immediately made an impact by setting up Iker Bravo , only for the shot to whistle wide. The most agonising moment for the home side came in the 60th minute when Luca Kjerrumgaard saw his effort strike the left post. As the clock ticked down, a flurry of yellow cards for players like Charlie Barker and Kellan Gordon showed the rising tension, while injuries to Gianmarco Di Biase and Othmane Maamma disrupted the flow of the match. The Decisive Blow in Added Time With nine minutes of stoppage time announced, the match seemed destined for a stalemate. However, in the 99th minute, the deadlock was finally shattered. Rocco Vata found Marc Bola outside the area, and the defender unleashed a spectacular right-footed strike into the top left corner. This late breakthrough proved to be the difference, as Watford navigated the final seconds of the 12 added minutes to secure their progression in the tournament."
     }
   ]
 }
