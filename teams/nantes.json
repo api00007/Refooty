@@ -1,9 +1,211 @@
 {
   "team": "Nantes",
   "team_logo": "https://img.refooty.com/logo/teams/83.webp",
-  "total_matches": 1,
-  "Last update time": "11:30:37 AM 11-08-2026",
+  "total_matches": 2,
+  "Last update time": "07:40:51 PM 15-08-2026",
   "matches": [
+    {
+      "title": "Laval vs Nantes",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/laval-vs-nantes-2026-08-14-bUeW.webp",
+      "competition": "Ligue 2",
+      "competition_cover": "",
+      "date": "Aug 14, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/83.webp",
+          "name": "Nantes",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/433.webp",
+          "name": "Laval",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/laval-vs-nantes-2026-08-14_QP2IC.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Laval",
+          "player": "T. Dago",
+          "event_type": "Goal",
+          "assist": "E. Clavreul",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Nantes",
+          "player": "B. Guirassy",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "90'",
+          "team": "Laval",
+          "player": "J. Maggiotti",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Laval",
+          "player": "M. Houdayer",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Laval_wins": "2",
+          "draws": "2",
+          "Nantes_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "12/07/2025",
+            "competition": "Club Friendlies 2025",
+            "teams_and_score": "Nantes 2 - 0 Laval"
+          },
+          {
+            "date": "03/08/2024",
+            "competition": "Featured Club Friendlies",
+            "teams_and_score": "Laval 1 - 2 Nantes"
+          },
+          {
+            "date": "20/01/2024",
+            "competition": "Coupe de France 23/24",
+            "teams_and_score": "Nantes 0 - 1 Laval"
+          },
+          {
+            "date": "15/07/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Nantes 0 - 3 Laval"
+          },
+          {
+            "date": "16/12/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Nantes 1 - 1 Laval"
+          },
+          {
+            "date": "19/01/2013",
+            "competition": "Ligue 2",
+            "teams_and_score": "Laval 0 - 0 Nantes"
+          },
+          {
+            "date": "12/10/2012",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Nantes 1 - 0 Laval"
+          }
+        ],
+        "home_team_form": {
+          "team": "Laval",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "14/08/2026",
+              "competition": "Ligue 2",
+              "teams_and_score": "Laval 2 - 1 Nantes",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Le Havre 1 - 1 Laval",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Ligue 2: Relegation Play-offs",
+              "teams_and_score": "Laval 1 - 0 Rouen",
+              "result": "W"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Ligue 2 25/26",
+              "teams_and_score": "Laval 2 - 1 Boulogne",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Nantes",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "14/08/2026",
+              "competition": "Ligue 2",
+              "teams_and_score": "Laval 2 - 1 Nantes",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Le Mans 1 - 0 Nantes",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Nantes 0 - 0 Toulouse",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Laval": "5",
+          "Nantes": "3"
+        },
+        "shots_off_target": {
+          "Laval": "2",
+          "Nantes": "6"
+        },
+        "shots_blocked": {
+          "Laval": "2",
+          "Nantes": "8"
+        },
+        "corners": {
+          "Laval": "2",
+          "Nantes": "7"
+        },
+        "fouls": {
+          "Laval": "14",
+          "Nantes": "11"
+        },
+        "offsides": {
+          "Laval": "3",
+          "Nantes": "2"
+        },
+        "yellow_cards": {
+          "Laval": "1",
+          "Nantes": "0"
+        },
+        "goalkeeper_saves": {
+          "Laval": "2",
+          "Nantes": "3"
+        },
+        "ball_possession": {
+          "Laval": "41%",
+          "Nantes": "59%"
+        }
+      },
+      "description": "Watch Laval vs Nantes highlights and goals from Ligue 2 on ReFooty: Football Highlights Hub. Match played on August 14, 2026. Tension was palpable as Laval welcomed Nantes for a highly anticipated showdown in Ligue 2 . Both teams entered the pitch with everything to play for, setting the stage for a match that would keep fans on the edge of their seats until the very end. Early Exchanges and the Opening Breakthrough On August 14, 2026, the contest began with high energy but was quickly interrupted by physical concerns for both sides. As early as the 12th minute, Laval was forced into a substitution when Francis Coquelin had to make way for Ethan Clavreul . Shortly after, Wilitty Younoussa was also replaced by Louis Leroux . Despite these forced adjustments, the home side remained focused on their offensive objectives. The persistence paid off in the 17th minute. The newly introduced Ethan Clavreul made an immediate impact, providing a clinical assist for Trevis Dago , who found the back of the net to put Laval ahead. The goal galvanized the home crowd, but Nantes showed resilience as they searched for a response before the break. Nantes Responds and Tactical Shifts As the first half drew to a close, Nantes ramped up their pressure. In the 44th minute, Bahereba Guirassy struck a crucial equalizer, clinical finishing ensuring that both teams went into the tunnel level at the break. The goal shifted the momentum, and the second half became a tactical chess match as both managers turned to their benches to find a winning edge. In the second half, fresh legs were introduced, including Mathieu Cafaro for the visitors and Mathis Houdayer for the hosts. While the game remained tightly contested with defensive discipline on both sides, the intensity never wavered. As the clock ticked toward ninety minutes, a yellow card for Julien Maggiotti signaled the rising stakes and desperation in the final stages. Stoppage-Time Drama Just when it appeared the points would be shared, the match reached a dramatic climax in stoppage time. In the 95th minute, Mathis Houdayer capitalized on a late opportunity to score a sensational winner, sending the home supporters into a frenzy. The referee blew the final whistle shortly after, sealing a hard-fought victory for Laval and leaving Nantes with no time to recover."
+    },
     {
       "title": "Nantes vs RED Star FC 93",
       "thumbnail_url": "https://img.refooty.com/thumbnail/nantes-vs-red-star-fc-93-2026-08-08-rQFI.webp",

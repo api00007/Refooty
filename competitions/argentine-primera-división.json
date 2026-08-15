@@ -1,19 +1,905 @@
 {
   "competition": "Argentine Primera División",
   "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-  "total_matches": 48,
-  "Last update time": "11:30:37 AM 11-08-2026",
+  "total_matches": 52,
+  "Last update time": "07:40:51 PM 15-08-2026",
   "matches": [
     {
+      "title": "Racing Club - Banfield",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/racing-club-banfield-2026-08-15-EPEt.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/449.webp",
+          "name": "Banfield",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/436.webp",
+          "name": "Racing Club",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/racing-club-banfield-2026-08-15_A26Lw.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Banfield",
+          "player": "N. Pais",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Racing Club",
+          "player": "M. Kranevitter",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Banfield",
+          "player": "A. Machado",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Racing Club",
+          "player": "U. Ortegoza",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Banfield",
+          "player": "L. Cano",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Racing Club_wins": "5",
+          "draws": "3",
+          "Banfield_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "14/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Banfield 0 - 2 Racing Club"
+          },
+          {
+            "date": "11/10/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Banfield 1 - 3 Racing Club"
+          },
+          {
+            "date": "06/04/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Racing Club 4 - 1 Banfield"
+          },
+          {
+            "date": "27/10/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Banfield 2 - 1 Racing Club"
+          },
+          {
+            "date": "04/06/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Racing Club 2 - 0 Banfield"
+          },
+          {
+            "date": "19/08/2022",
+            "competition": "Primera Division 2022",
+            "teams_and_score": "Banfield 0 - 2 Racing Club"
+          },
+          {
+            "date": "30/04/2022",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Racing Club 1 - 1 Banfield"
+          }
+        ],
+        "home_team_form": {
+          "team": "Racing Club",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "14/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Racing Club 0 - 1 Banfield",
+              "result": "L"
+            },
+            {
+              "date": "16/07/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Racing Club 4 - 1 Defensa y Justicia",
+              "result": "W"
+            },
+            {
+              "date": "27/05/2026",
+              "competition": "Group E",
+              "teams_and_score": "Racing Club 2 - 0 Independiente Petrolero",
+              "result": "W"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Rosario Central 2 - 1 Racing Club",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Banfield",
+          "form": [
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "14/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Racing Club 0 - 1 Banfield",
+              "result": "W"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Banfield 1 - 1 San Martin de Tucuman",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Barracas Central 1 - 2 Banfield",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Racing Club": "2",
+          "Banfield": "2"
+        },
+        "shots_off_target": {
+          "Racing Club": "17",
+          "Banfield": "2"
+        },
+        "shots_blocked": {
+          "Racing Club": "4",
+          "Banfield": "2"
+        },
+        "corners": {
+          "Racing Club": "6",
+          "Banfield": "1"
+        },
+        "fouls": {
+          "Racing Club": "9",
+          "Banfield": "11"
+        },
+        "offsides": {
+          "Racing Club": "4",
+          "Banfield": "2"
+        },
+        "yellow_cards": {
+          "Racing Club": "2",
+          "Banfield": "2"
+        },
+        "goalkeeper_saves": {
+          "Racing Club": "1",
+          "Banfield": "2"
+        },
+        "ball_possession": {
+          "Racing Club": "82%",
+          "Banfield": "18%"
+        }
+      },
+      "description": "Watch Racing Club vs Banfield highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The atmosphere was electric at the stadium as two sides desperate for points clashed in a high-stakes encounter. Both teams looked to impose their rhythm early on in a match defined by tactical discipline and physical intensity. Intensity from the Opening Whistle On August 15, 2026 , Racing Club and Banfield met in a Liga Profesional Argentina fixture that promised fireworks from the start. The opening stages were characterized by heavy challenges and a tactical chess match in midfield. Nacho Pais saw a yellow card just four minutes in, setting a physical tone for the afternoon. Shortly after, Matias Kranevitter was also cautioned in the 13th minute as the referee struggled to keep a lid on the simmering tensions. Machado Finds the Breakthrough The deadlock was finally broken in the 24th minute of the first half. Alexander Machado found space in the final third and produced a clinical finish to put his side ahead. The goal sparked celebrations in the stands, but the game remained a balanced and gritty affair. Banfield attempted to respond with an early tactical change in the 26th minute, as Elias Torres replaced Lautaro Diaz , but they struggled to find a clear path to goal before halftime, with Ulises Ortegoza also picking up a booking. Tactical Shifts and the Final Stand The second half saw a flurry of substitutions as both managers looked to freshen up their lineups and influence the momentum. Lautaro Villegas replaced Nacho Pais at the break, and the physical nature of the contest continued with Lautaro Cano receiving a yellow card in the 55th minute. Despite late pressure and a series of tactical shifts involving Gaston Lodico and Bruno Sepulveda , the defensive lines held firm. The referee blew the final whistle after five minutes of stoppage time, confirming a narrow but vital victory built on defensive resilience."
+    },
+    {
+      "title": "Talleres de Cordoba - Lanus",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/talleres-de-cordoba-lanus-2026-08-12-CD51.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 12, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/446.webp",
+          "name": "Lanus",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/456.webp",
+          "name": "Talleres Cordoba",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/talleres-de-cordoba-lanus-2026-08-12_OHiJI.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "32'",
+          "team": "Lanus",
+          "player": "R. D. Jesus",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "33'",
+          "team": "Talleres Cordoba",
+          "player": "F. Fattori",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+1'",
+          "team": "Talleres Cordoba",
+          "player": "A. Schott",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Lanus",
+          "player": "D. Aquino",
+          "event_type": "Goal",
+          "assist": "Y. Valois",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Lanus",
+          "player": "Y. Valois",
+          "event_type": "Goal",
+          "assist": "S. J. Marcich",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Lanus",
+          "player": "C. Izquierdoz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Lanus",
+          "player": "Y. Valois",
+          "event_type": "Goal",
+          "assist": "M. Sepulveda",
+          "score_update": "0 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Talleres Cordoba_wins": "3",
+          "draws": "2",
+          "Lanus_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "09/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Lanus 1 - 1 Talleres"
+          },
+          {
+            "date": "09/08/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Lanus 1 - 0 Talleres"
+          },
+          {
+            "date": "10/02/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Talleres 0 - 1 Lanus"
+          },
+          {
+            "date": "07/11/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Talleres 1 - 2 Lanus"
+          },
+          {
+            "date": "24/06/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Lanus 2 - 1 Talleres"
+          },
+          {
+            "date": "02/10/2022",
+            "competition": "Primera Division 2022",
+            "teams_and_score": "Talleres 0 - 1 Lanus"
+          },
+          {
+            "date": "25/10/2021",
+            "competition": "Primera Division 2021",
+            "teams_and_score": "Lanus 3 - 3 Talleres"
+          }
+        ],
+        "home_team_form": {
+          "team": "Talleres Cordoba",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Talleres 0 - 3 Lanus",
+              "result": "W"
+            },
+            {
+              "date": "20/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
+              "result": "W"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Talleres 0 - 1 Belgrano",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Union 1 - 1 Talleres",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lanus",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Talleres 0 - 3 Lanus",
+              "result": "W"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Knockout Round Playoffs",
+              "teams_and_score": "Cienciano 4 - 0 Lanus",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Lanus 1 - 0 San Lorenzo de Almagro",
+              "result": "W"
+            },
+            {
+              "date": "23/07/2026",
+              "competition": "Knockout Round Playoffs",
+              "teams_and_score": "Lanus 2 - 0 Cienciano",
+              "result": "W"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Instituto Cordoba 2 - 1 Lanus",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Talleres Cordoba": "7",
+          "Lanus": "7"
+        },
+        "shots_off_target": {
+          "Talleres Cordoba": "9",
+          "Lanus": "8"
+        },
+        "shots_blocked": {
+          "Talleres Cordoba": "2",
+          "Lanus": "8"
+        },
+        "corners": {
+          "Talleres Cordoba": "2",
+          "Lanus": "5"
+        },
+        "fouls": {
+          "Talleres Cordoba": "4",
+          "Lanus": "9"
+        },
+        "offsides": {
+          "Talleres Cordoba": "1",
+          "Lanus": "5"
+        },
+        "yellow_cards": {
+          "Talleres Cordoba": "2",
+          "Lanus": "2"
+        },
+        "goalkeeper_saves": {
+          "Talleres Cordoba": "4",
+          "Lanus": "7"
+        },
+        "ball_possession": {
+          "Talleres Cordoba": "60%",
+          "Lanus": "40%"
+        }
+      },
+      "description": "Watch Talleres Cordoba vs Lanus highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 12, 2026. The Liga Profesional Argentina delivered another intense encounter as Talleres de Córdoba hosted Lanús . Fans gathered at the stadium on August 12, 2026, for a match that promised tactical intrigue and high energy from the very first whistle. A Gritty Battle in the First Half The opening period was characterized by tactical discipline and physical challenges, as both teams struggled to find clear openings in the final third. Midfield dominance was fiercely contested, leading to several interventions by the referee. Ronaldo Dejesus received the first yellow card of the match in the 32nd minute, and he was quickly followed into the book by Federico Fattori just a minute later. As the half drew to a close, the tension remained high. Augusto Schott was cautioned during stoppage time, reflecting the competitive nature of the clash. Despite the high work rate from both sides, the first half ended without a goal, leaving the tactical battle to be decided in the remaining 45 minutes. The Valois Impact and the Breakthrough The second half saw a series of tactical adjustments, but it was the introduction of Yoshan Valois in the 65th minute that truly altered the course of the game. The deadlock was finally broken in the 74th minute when Dylan Aquino found the back of the net, clinical in his finish after being set up by Valois . This opening goal forced the game to open up, as Talleres pushed for an equalizer. However, the momentum stayed firmly with the visitors. In the 79th minute, Sasha Marcich turned provider, delivering a precise ball for Yoshan Valois to score his first of the night. The substitute's energy proved too much for the tired Talleres defense, which struggled to contain the rapid transitions and clinical finishing on display. Closing the Show In the final stages of the match, the intensity did not waver. Carlos Izquierdoz picked up a yellow card in the 86th minute as the defensive battle continued, but the highlight of the closing minutes was yet to come. In the 87th minute, Matias Sepulveda provided a brilliant assist for Yoshan Valois , who calmly slotted home his second goal of the evening. With a commanding lead established in the final ten minutes, the final whistle confirmed a decisive performance. The tactical patience shown throughout the match, combined with a sensational cameo from the bench, ensured that the headlines belonged to the visitors on this memorable night in the Argentine top flight."
+    },
+    {
+      "title": "Union Santa Fe - Central Cordoba",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/union-santa-fe-central-cordoba-2026-08-11-9qvQ.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 11, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/790.webp",
+          "name": "Central Cordoba",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/441.webp",
+          "name": "Union Santa Fe",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/union-santa-fe-central-cordoba-2026-08-11_CT7Pg.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Union Santa Fe",
+          "player": "L. Menossi",
+          "event_type": "Goal",
+          "assist": "J. Palacios",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "51'",
+          "team": "Central Cordoba",
+          "player": "M. Santos",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "54'",
+          "team": "Central Cordoba",
+          "player": "F. Mansilla",
+          "event_type": "Goal",
+          "assist": "L. Sequeira",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "63'",
+          "team": "Union Santa Fe",
+          "player": "L. Vargas",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "69'",
+          "team": "Central Cordoba",
+          "player": "L. Sequeira",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Central Cordoba",
+          "player": "H. Tijanovich",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "79'",
+          "team": "Union Santa Fe",
+          "player": "L. Menossi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Union Santa Fe",
+          "player": "J. Palacios",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Central Cordoba",
+          "player": "Y. Casermeiro",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+7'",
+          "team": "Central Cordoba",
+          "player": "S. Moyano",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Union Santa Fe_wins": "3",
+          "draws": "2",
+          "Central Cordoba_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "07/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Central Cordoba de Santiago 1 - 0 Union"
+          },
+          {
+            "date": "10/10/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Central Cordoba de Santiago 3 - 1 Union"
+          },
+          {
+            "date": "06/04/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Union 1 - 0 Central Cordoba de Santiago"
+          },
+          {
+            "date": "04/10/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Union 0 - 2 Central Cordoba de Santiago"
+          },
+          {
+            "date": "19/03/2024",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Union 2 - 2 Central Cordoba de Santiago"
+          },
+          {
+            "date": "01/11/2023",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Central Cordoba de Santiago 2 - 0 Union"
+          },
+          {
+            "date": "19/05/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Central Cordoba de Santiago 0 - 1 Union"
+          }
+        ],
+        "home_team_form": {
+          "team": "Union Santa Fe",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "11/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Union 1 - 2 Central Cordoba de Santiago",
+              "result": "W"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Union 0 - 2 Independiente",
+              "result": "W"
+            },
+            {
+              "date": "12/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Belgrano 2 - 0 Union",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Union 1 - 1 Talleres",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Central Cordoba",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "11/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Union 1 - 2 Central Cordoba de Santiago",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Central Cordoba de Santiago 1 - 2 Boca Juniors",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Union Santa Fe": "7",
+          "Central Cordoba": "4"
+        },
+        "shots_off_target": {
+          "Union Santa Fe": "8",
+          "Central Cordoba": "2"
+        },
+        "shots_blocked": {
+          "Union Santa Fe": "7",
+          "Central Cordoba": "3"
+        },
+        "corners": {
+          "Union Santa Fe": "6",
+          "Central Cordoba": "4"
+        },
+        "fouls": {
+          "Union Santa Fe": "15",
+          "Central Cordoba": "3"
+        },
+        "offsides": {
+          "Union Santa Fe": "1",
+          "Central Cordoba": "1"
+        },
+        "yellow_cards": {
+          "Union Santa Fe": "3",
+          "Central Cordoba": "4"
+        },
+        "goalkeeper_saves": {
+          "Union Santa Fe": "2",
+          "Central Cordoba": "6"
+        },
+        "ball_possession": {
+          "Union Santa Fe": "59%",
+          "Central Cordoba": "41%"
+        }
+      },
+      "description": "Watch Union Santa Fe vs Central Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 11, 2026. The stands were packed on August 11, 2026, as Union Santa Fe hosted Central Cordoba in a highly anticipated Liga Profesional Argentina clash. Both sides sought to establish dominance early in a match that promised plenty of tactical intrigue. Union Takes the Initiative Union Santa Fe started the contest with intent, utilizing the home-field advantage to pin the visitors back. Their persistence paid off in the 17th minute when Julian Palacios delivered a precise pass to Lucas Menossi . The midfielder made no mistake, firing the ball home to give Union a deserved 1-0 lead. For the remainder of the first half, the hosts looked comfortable, controlling the tempo and limiting Central Cordoba to half-chances as they headed into the break with the advantage. A Stunning Second-Half Turnaround The dynamic of the match shifted dramatically shortly after the restart. Central Cordoba emerged for the second half with renewed energy and leveled the score in the 51st minute through a clinical finish from Michael Santos . Before the home side could even process the equalizer, they were dealt a second blow just three minutes later. In the 54th minute, Leonardo Sequeira turned provider, setting up Facundo Mansilla Zahir who found the back of the net to complete a rapid turnaround. Within a matter of minutes, Central Cordoba had transformed a deficit into a 1-2 lead, leaving the home supporters in stunned silence. Discipline Tested in the Closing Stages As the clock ticked down, the match became increasingly physical and frayed. A series of yellow cards illustrated the rising tension, with Lautaro Vargas , Leonardo Sequeira , and Horacio Tijanovich all entering the referee's book. Union Santa Fe attempted to find an equalizer by introducing fresh legs like Mauro Luna Diale , but the visitors' defense remained resolute. The drama continued deep into stoppage time as Yuri Casermeiro and Santiago Moyano also received cautions while trying to protect their lead. Despite seven minutes of added time and intense pressure from the hosts, Central Cordoba held firm to secure a hard-fought away victory, leaving Union Santa Fe to regret their second-half collapse."
+    },
+    {
+      "title": "Banfield - Belgrano",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/banfield-belgrano-2026-08-11-ogqN.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 11, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/440.webp",
+          "name": "Belgrano Cordoba",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/449.webp",
+          "name": "Banfield",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/banfield-belgrano-2026-08-11_l2yQX.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Banfield",
+          "player": "T. Adoryan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Belgrano Cordoba",
+          "player": "A. Sporle",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Banfield",
+          "player": "T. Perrotta",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "48'",
+          "team": "Belgrano Cordoba",
+          "player": "L. Passerini",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Belgrano Cordoba",
+          "player": "L. Lopez",
+          "event_type": "Goal",
+          "assist": "L. Zelarayán",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "90+4'",
+          "team": "Banfield",
+          "player": "L. Pinero",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Banfield_wins": "1",
+          "draws": "3",
+          "Belgrano Cordoba_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "08/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Belgrano 1 - 0 Banfield"
+          },
+          {
+            "date": "09/08/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Belgrano 2 - 1 Banfield"
+          },
+          {
+            "date": "07/02/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Banfield 1 - 1 Belgrano"
+          },
+          {
+            "date": "06/11/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Banfield 1 - 1 Belgrano"
+          },
+          {
+            "date": "26/06/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Belgrano 3 - 1 Banfield"
+          },
+          {
+            "date": "22/10/2018",
+            "competition": "Superliga",
+            "teams_and_score": "Belgrano 1 - 1 Banfield"
+          },
+          {
+            "date": "09/04/2017",
+            "competition": "Primera Division",
+            "teams_and_score": "Banfield 2 - 0 Belgrano"
+          }
+        ],
+        "home_team_form": {
+          "team": "Banfield",
+          "form": [
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Banfield 0 - 2 Belgrano",
+              "result": "L"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Banfield 1 - 1 San Martin de Tucuman",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Barracas Central 1 - 2 Banfield",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Belgrano Cordoba",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Banfield 0 - 2 Belgrano",
+              "result": "W"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "CA Gimnasia de Jujuy 2 - 2 Belgrano",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "River Plate 2 - 3 Belgrano",
+              "result": "W"
+            },
+            {
+              "date": "03/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Belgrano 4 - 0 Sarmiento",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Banfield": "6",
+          "Belgrano Cordoba": "5"
+        },
+        "shots_off_target": {
+          "Banfield": "9",
+          "Belgrano Cordoba": "6"
+        },
+        "shots_blocked": {
+          "Banfield": "3",
+          "Belgrano Cordoba": "3"
+        },
+        "corners": {
+          "Banfield": "4",
+          "Belgrano Cordoba": "1"
+        },
+        "fouls": {
+          "Banfield": "14",
+          "Belgrano Cordoba": "11"
+        },
+        "offsides": {
+          "Banfield": "1",
+          "Belgrano Cordoba": "1"
+        },
+        "yellow_cards": {
+          "Banfield": "3",
+          "Belgrano Cordoba": "1"
+        },
+        "goalkeeper_saves": {
+          "Banfield": "3",
+          "Belgrano Cordoba": "6"
+        },
+        "ball_possession": {
+          "Banfield": "50%",
+          "Belgrano Cordoba": "50%"
+        }
+      },
+      "description": "Watch Banfield vs Belgrano Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 11, 2026. Banfield and Belgrano Cordoba faced off in a highly anticipated Liga Profesional Argentina clash, with both sides seeking to climb the table. The match promised tactical intrigue as these two historic clubs renewed their rivalry on the pitch. A Gritty Opening Exchange On August 11, 2026 , the match began with high physical stakes and a cautious approach from both managers. The first half was defined more by defensive organization and refereeing interventions than by fluid attacking play. Tomas Adoryan received an early yellow card in the 14th minute, setting a combative tone for the afternoon. As the interval approached, the tension escalated, leading to further bookings for Adrian Sporle and Tiziano Perrotta , ensuring that both teams headed into the break with plenty to contemplate after a goalless opening 45 minutes. Belgrano Seizes Control The dynamic of the match shifted dramatically immediately after the restart. In the 48th minute, Lucas Passerini broke the deadlock with a clinical strike, putting Belgrano in the ascendancy. Banfield attempted to respond with tactical changes, including the introduction of Lautaro Gomez , but the visitors remained resolute. The pressure told again in the 61st minute when Lucas Zelarayán orchestrated a brilliant move to set up Lisandro Lopez , who doubled the lead and left the home supporters silenced. As the clock ticked down, Belgrano managed the game with maturity, utilizing their bench to keep energy levels high. Despite late efforts from Banfield and a flurry of substitutions involving players like Neyder no and Federico Anselmo , the comeback never materialized. A late yellow card for Lisandro Pinero in stoppage time served as a final note of frustration for the hosts before the referee blew the final whistle on a decisive away victory."
+    },
+    {
       "title": "Defensa y Justicia - Newell's",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/defensa-y-justicia-newells-2026-08-10-vvMK.webp",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/defensa-y-justicia-newells-2026-08-10-t7RV.webp",
       "competition": "Argentine Primera División",
       "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
       "date": "Aug 10, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/434.webp",
-          "name": "Gimnasia LP",
+          "logo": "https://img.refooty.com/logo/teams/457.webp",
+          "name": "Newells Old Boys",
           "score": "1"
         },
         "home_team": {
@@ -32,7 +918,7 @@
       "events_timeline": [
         {
           "time": "31'",
-          "team": "Gimnasia LP",
+          "team": "Newells Old Boys",
           "player": "J. Russo",
           "event_type": "Yellow Card"
         },
@@ -46,7 +932,7 @@
         },
         {
           "time": "40'",
-          "team": "Gimnasia LP",
+          "team": "Newells Old Boys",
           "player": "J. Russo",
           "event_type": "Red Card"
         },
@@ -72,7 +958,7 @@
         },
         {
           "time": "83'",
-          "team": "Gimnasia LP",
+          "team": "Newells Old Boys",
           "player": "B. L. Cabrera",
           "event_type": "Goal",
           "assist": "M. Ortega",
@@ -89,7 +975,7 @@
         "summary": {
           "Defensa Y Justicia_wins": "5",
           "draws": "1",
-          "Gimnasia LP_wins": "4"
+          "Newells Old Boys_wins": "4"
         },
         "previous_matches": [
           {
@@ -157,7 +1043,7 @@
           ]
         },
         "away_team_form": {
-          "team": "Gimnasia LP",
+          "team": "Newells Old Boys",
           "form": [
             "L",
             "D",
@@ -188,46 +1074,46 @@
       "statistics": {
         "shots_on_target": {
           "Defensa Y Justicia": "6",
-          "Gimnasia LP": "4"
+          "Newells Old Boys": "4"
         },
         "shots_off_target": {
           "Defensa Y Justicia": "5",
-          "Gimnasia LP": "3"
+          "Newells Old Boys": "3"
         },
         "shots_blocked": {
           "Defensa Y Justicia": "5",
-          "Gimnasia LP": "2"
+          "Newells Old Boys": "2"
         },
         "corners": {
           "Defensa Y Justicia": "3",
-          "Gimnasia LP": "7"
+          "Newells Old Boys": "7"
         },
         "fouls": {
           "Defensa Y Justicia": "14",
-          "Gimnasia LP": "10"
+          "Newells Old Boys": "10"
         },
         "offsides": {
           "Defensa Y Justicia": "8",
-          "Gimnasia LP": "0"
+          "Newells Old Boys": "0"
         },
         "yellow_cards": {
           "Defensa Y Justicia": "3",
-          "Gimnasia LP": "0"
+          "Newells Old Boys": "0"
         },
         "red_cards": {
           "Defensa Y Justicia": "0",
-          "Gimnasia LP": "1"
+          "Newells Old Boys": "1"
         },
         "goalkeeper_saves": {
           "Defensa Y Justicia": "3",
-          "Gimnasia LP": "4"
+          "Newells Old Boys": "4"
         },
         "ball_possession": {
           "Defensa Y Justicia": "58%",
-          "Gimnasia LP": "42%"
+          "Newells Old Boys": "42%"
         }
       },
-      "description": "Watch Defensa Y Justicia vs Gimnasia LP highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 10, 2026. The Liga Profesional Argentina delivered another high-octane encounter as Defensa y Justicia hosted Gimnasia LP in a match filled with tactical intrigue and disciplinary drama. On August 10, 2026, fans witnessed a clash where the balance of power shifted drastically before the halftime whistle. The Breakthrough and Disciplinary Shift The match began with palpable intensity, forcing an early tactical adjustment in the 7th minute when Domingo Blanco replaced Agustin Hausch . The first major breakthrough occurred in the 32nd minute as Cesar Perez provided a clinical assist for Fernando Roman , who made no mistake in putting Defensa y Justicia ahead. However, the momentum took a sharp turn for the visitors shortly after. Jeronimo Russo , who had been cautioned just a minute before the goal, received a second yellow card in the 40th minute, resulting in a dismissal that left his side playing with ten men. Consolidation and Late Pressure Entering the second half with a numerical advantage, Defensa y Justicia looked to secure the points. In the 68th minute, Valentin Loza set up Tomas Perez , who doubled the lead with a composed finish. While the game seemed to be drifting toward a comfortable conclusion, Gimnasia LP showed great resilience. In the 83rd minute, Martin Ortega found Bruno Cabrera , who pulled one back to set up a grandstand finish. Despite late pressure and a yellow card for goalscorer Fernando Roman in stoppage time, the home side held firm to claim the victory when the referee blew the final whistle after 94 minutes of action."
+      "description": "Watch Defensa Y Justicia vs Newells Old Boys highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 10, 2026. The Liga Profesional Argentina delivered another high-octane encounter as Defensa y Justicia hosted Gimnasia LP in a match filled with tactical intrigue and disciplinary drama. On August 10, 2026, fans witnessed a clash where the balance of power shifted drastically before the halftime whistle. The Breakthrough and Disciplinary Shift The match began with palpable intensity, forcing an early tactical adjustment in the 7th minute when Domingo Blanco replaced Agustin Hausch . The first major breakthrough occurred in the 32nd minute as Cesar Perez provided a clinical assist for Fernando Roman , who made no mistake in putting Defensa y Justicia ahead. However, the momentum took a sharp turn for the visitors shortly after. Jeronimo Russo , who had been cautioned just a minute before the goal, received a second yellow card in the 40th minute, resulting in a dismissal that left his side playing with ten men. Consolidation and Late Pressure Entering the second half with a numerical advantage, Defensa y Justicia looked to secure the points. In the 68th minute, Valentin Loza set up Tomas Perez , who doubled the lead with a composed finish. While the game seemed to be drifting toward a comfortable conclusion, Gimnasia LP showed great resilience. In the 83rd minute, Martin Ortega found Bruno Cabrera , who pulled one back to set up a grandstand finish. Despite late pressure and a yellow card for goalscorer Fernando Roman in stoppage time, the home side held firm to claim the victory when the referee blew the final whistle after 94 minutes of action."
     },
     {
       "title": "Gimnasia de La Plata - Barracas Central",
@@ -2071,6 +2957,508 @@
         }
       },
       "description": "Watch Rosario Central vs Aldosivi highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Liga Profesional Argentina delivered another captivating chapter as Rosario Central faced off against Aldosivi in a match of shifting momentum. Both teams took to the pitch with high stakes on the line, setting the stage for a tactical battle in front of a passionate crowd. A Cautious Opening Half On August 8, 2026 , the match began with both sides testing each other’s resolve in a disciplined first half. Rosario Central looked to establish their rhythm early on, but Aldosivi remained compact, denying the hosts any clear-cut chances. The first 45 minutes were defined by midfield duels and defensive solidity, leading to a goalless stalemate as the referee blew for half-time after two minutes of stoppage time. Second Half Drama and Tactical Shifts The game truly came alive after the interval. In the 52nd minute, Alan Sosa broke the deadlock for Aldosivi , finishing clinicaly to give the visitors a shocking lead. This goal forced Rosario Central into an immediate reaction, leading to the introduction of Jaminton Campaz from the bench. The pressure from the home side soon paid off in the 61st minute when a cross resulted in an unfortunate own goal by Nicolas Zalazar , bringing the score to 1-1 and shifting the momentum firmly back to the hosts. Campaz Seals the Victory With the scores level, the atmosphere intensified as Rosario Central pushed for a winner. The turning point arrived in the 80th minute when Jaminton Campaz found the back of the net, completing a remarkable turnaround for his side. As the clock wound down, tactical substitutions followed, including the departure of Angel Di Maria to solidify the lead. Despite late pressure and a yellow card for Aldosivi's Rodrigo Gonzalez , the home side held firm until the final whistle at 95 minutes to secure all three points."
+    },
+    {
+      "title": "Sarmiento - Argentinos Juniors",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sarmiento-argentinos-juniors-2026-07-24-hsJ5.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Jul 24, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/458.webp",
+          "name": "Argentinos JRS",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/474.webp",
+          "name": "Sarmiento Junin",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/sarmiento-argentinos-juniors-2026-07-24_GnG6l.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "13'",
+          "team": "Sarmiento Junin",
+          "player": "E. E. Gimenez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Argentinos JRS",
+          "player": "F. E. Paredes",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "24'",
+          "team": "Argentinos JRS",
+          "player": "I. Morales",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "30'",
+          "team": "Sarmiento Junin",
+          "player": "J. Marabel",
+          "event_type": "Goal",
+          "assist": "P. Magnin",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "43'",
+          "team": "Argentinos JRS",
+          "player": "F. Alvarez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+1'",
+          "team": "Sarmiento Junin",
+          "player": "J. Insaurralde",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "48'",
+          "team": "Argentinos JRS",
+          "player": "A. Lescano",
+          "event_type": "Goal",
+          "assist": "T. Molina",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "53'",
+          "team": "Sarmiento Junin",
+          "player": "C. Zabala",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "54'",
+          "team": "Argentinos JRS",
+          "player": "A. Lescano",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "58'",
+          "team": "Argentinos JRS",
+          "player": "S. Prieto",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "69'",
+          "team": "Sarmiento Junin",
+          "player": "R. Orihuela",
+          "event_type": "Goal",
+          "assist": "C. Zabala",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Argentinos JRS",
+          "player": "D. Porcel",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90'",
+          "team": "Argentinos JRS",
+          "player": "D. Porcel",
+          "event_type": "Goal",
+          "assist": "H. Lopez",
+          "score_update": "2 - 3"
+        },
+        {
+          "time": "90+1'",
+          "team": "Argentinos JRS",
+          "player": "D. Porcel",
+          "event_type": "Red Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Sarmiento Junin_wins": "0",
+          "draws": "3",
+          "Argentinos JRS_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "26/01/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Argentinos Juniors 1 - 0 Sarmiento"
+          },
+          {
+            "date": "08/08/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Argentinos Juniors 0 - 0 Sarmiento"
+          },
+          {
+            "date": "08/04/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Sarmiento 2 - 0 Argentinos Juniors"
+          },
+          {
+            "date": "11/06/2022",
+            "competition": "Primera Division 2022",
+            "teams_and_score": "Sarmiento 1 - 0 Argentinos Juniors"
+          },
+          {
+            "date": "26/04/2022",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Argentinos Juniors 0 - 0 Sarmiento"
+          },
+          {
+            "date": "11/12/2021",
+            "competition": "Primera Division 2021",
+            "teams_and_score": "Argentinos Juniors 2 - 0 Sarmiento"
+          },
+          {
+            "date": "30/05/2015",
+            "competition": "Primera Division",
+            "teams_and_score": "Sarmiento 0 - 0 Argentinos Juniors"
+          }
+        ],
+        "home_team_form": {
+          "team": "Sarmiento Junin",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/07/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Sarmiento 2 - 3 Argentinos Juniors",
+              "result": "W"
+            },
+            {
+              "date": "17/07/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Sarmiento 0 - 2 Boca Juniors",
+              "result": "W"
+            },
+            {
+              "date": "03/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Belgrano 4 - 0 Sarmiento",
+              "result": "L"
+            },
+            {
+              "date": "09/04/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Sarmiento 1 - 0 Tristan Suarez",
+              "result": "L"
+            },
+            {
+              "date": "02/04/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Barracas Central 1 - 2 Sarmiento",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Argentinos JRS",
+          "form": [
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/07/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Sarmiento 2 - 3 Argentinos Juniors",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Argentinos Juniors 1 - 1 Belgrano",
+              "result": "D"
+            },
+            {
+              "date": "03/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Gimnasia LP 2 - 0 Argentinos Juniors",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sarmiento Junin": "3",
+          "Argentinos JRS": "5"
+        },
+        "shots_off_target": {
+          "Sarmiento Junin": "5",
+          "Argentinos JRS": "3"
+        },
+        "shots_blocked": {
+          "Sarmiento Junin": "4",
+          "Argentinos JRS": "5"
+        },
+        "corners": {
+          "Sarmiento Junin": "7",
+          "Argentinos JRS": "2"
+        },
+        "fouls": {
+          "Sarmiento Junin": "15",
+          "Argentinos JRS": "14"
+        },
+        "offsides": {
+          "Sarmiento Junin": "1",
+          "Argentinos JRS": "2"
+        },
+        "yellow_cards": {
+          "Sarmiento Junin": "3",
+          "Argentinos JRS": "4"
+        },
+        "red_cards": {
+          "Sarmiento Junin": "0",
+          "Argentinos JRS": "1"
+        },
+        "goalkeeper_saves": {
+          "Sarmiento Junin": "2",
+          "Argentinos JRS": "1"
+        },
+        "ball_possession": {
+          "Sarmiento Junin": "45%",
+          "Argentinos JRS": "55%"
+        }
+      },
+      "description": "Watch Sarmiento Junin vs Argentinos JRS highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 24, 2026. A high-stakes clash in the Liga Profesional On July 24, 2026, the encounter between Sarmiento Junin and Argentinos Juniors set the stage for an intense tactical battle. With both sides eager to establish control, the matchday atmosphere was palpable as players looked to make their mark on the Liga Profesional standings. First half tensions and breakthrough Early exchanges were defined by a series of disciplinary actions as both teams fought to gain a foothold. The stalemate was eventually broken in the 30th minute when Junior Marabel , assisted by Pablo Magnin , found the back of the net to give Sarmiento the lead. The first half continued to be a physical affair, with the home side successfully heading into the dressing rooms with the narrow advantage. Momentum swings and late heroics Following the break, the tempo accelerated significantly. Alan Lescano leveled the score for Argentinos Juniors in the 48th minute, connecting with a pass from Tomas Molina . The visitors pushed forward relentlessly, taking the lead through Sebastian Prieto in the 58th minute. However, the game remained wide open, and Sarmiento equalized at the 69th minute mark through Renzo Orihuela , who was set up by Cristian Zabala . The defining moment of the match arrived in the final minute of regular time. Diego Porcel surged forward to score for Argentinos Juniors , assisted by Hernan Lopez , to break the deadlock. The drama didn't end there, as Porcel was sent off just one minute later after receiving a second yellow card. Despite finishing the match with ten men, the visitors held firm to secure a thrilling victory."
+    },
+    {
+      "title": "Belgrano - Rosario Central",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/belgrano-rosario-central-2026-07-24-xwif.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Jul 24, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/437.webp",
+          "name": "Rosario Central",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/440.webp",
+          "name": "Belgrano Cordoba",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/belgrano-rosario-central-2026-07-24_tgW2w.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Rosario Central",
+          "player": "F. Mallo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Belgrano Cordoba",
+          "player": "N. Fernandez",
+          "event_type": "Goal",
+          "assist": "F. Vazquez",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "77'",
+          "team": "Rosario Central",
+          "player": "J. Fernandez",
+          "event_type": "Goal",
+          "assist": "G. Avila",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "88'",
+          "team": "Belgrano Cordoba",
+          "player": "F. G. Metilli",
+          "event_type": "Goal",
+          "assist": "R. Hernandes",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "90+2'",
+          "team": "Rosario Central",
+          "player": "E. Veron",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Belgrano Cordoba_wins": "3",
+          "draws": "3",
+          "Rosario Central_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "25/01/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Rosario Central 1 - 2 Belgrano"
+          },
+          {
+            "date": "14/12/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Rosario Central 2 - 1 Belgrano"
+          },
+          {
+            "date": "28/07/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Belgrano 0 - 0 Rosario Central"
+          },
+          {
+            "date": "02/03/2019",
+            "competition": "Superliga",
+            "teams_and_score": "Rosario Central 0 - 0 Belgrano"
+          },
+          {
+            "date": "14/01/2019",
+            "competition": "Torneo de Verano",
+            "teams_and_score": "Rosario Central 1 - 1 Belgrano"
+          },
+          {
+            "date": "07/04/2018",
+            "competition": "Superliga",
+            "teams_and_score": "Rosario Central 2 - 1 Belgrano"
+          },
+          {
+            "date": "18/12/2016",
+            "competition": "Primera Division",
+            "teams_and_score": "Belgrano 0 - 2 Rosario Central"
+          }
+        ],
+        "home_team_form": {
+          "team": "Belgrano Cordoba",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/07/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Belgrano 2 - 1 Rosario Central",
+              "result": "L"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "CA Gimnasia de Jujuy 2 - 2 Belgrano",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "River Plate 2 - 3 Belgrano",
+              "result": "W"
+            },
+            {
+              "date": "03/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Belgrano 4 - 0 Sarmiento",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Rosario Central",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/07/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Belgrano 2 - 1 Rosario Central",
+              "result": "L"
+            },
+            {
+              "date": "31/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Estudiantes de la Plata 3 - 0 Rosario Central",
+              "result": "L"
+            },
+            {
+              "date": "27/05/2026",
+              "competition": "Group H",
+              "teams_and_score": "Independiente del Valle 1 - 0 Rosario Central",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "River Plate 1 - 0 Rosario Central",
+              "result": "L"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Group H",
+              "teams_and_score": "Rosario Central 1 - 0 Libertad",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Belgrano Cordoba": "5",
+          "Rosario Central": "3"
+        },
+        "shots_off_target": {
+          "Belgrano Cordoba": "5",
+          "Rosario Central": "6"
+        },
+        "shots_blocked": {
+          "Belgrano Cordoba": "3",
+          "Rosario Central": "1"
+        },
+        "corners": {
+          "Belgrano Cordoba": "6",
+          "Rosario Central": "7"
+        },
+        "fouls": {
+          "Belgrano Cordoba": "10",
+          "Rosario Central": "13"
+        },
+        "offsides": {
+          "Belgrano Cordoba": "2",
+          "Rosario Central": "2"
+        },
+        "yellow_cards": {
+          "Belgrano Cordoba": "0",
+          "Rosario Central": "2"
+        },
+        "goalkeeper_saves": {
+          "Belgrano Cordoba": "2",
+          "Rosario Central": "3"
+        },
+        "ball_possession": {
+          "Belgrano Cordoba": "47%",
+          "Rosario Central": "53%"
+        }
+      },
+      "description": "Watch Belgrano Cordoba vs Rosario Central highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 24, 2026. The stadium atmosphere was electric as two competitive sides clashed in a crucial fixture of the Liga Profesional Argentina . This match on July 24, 2026, served as a testing ground for both squads aiming to climb the standings. Breaking the deadlock Early exchanges were tactical, but Belgrano found their rhythm first. In the 36th minute, Franco Vazquez delivered a clever pass to Nicolas Fernandez , who slotted home to give the hosts a deserved lead. The first half was defined by physical battles, notably resulting in a yellow card for Facundo Mallo just before the half-hour mark. Late drama decides the outcome Following the break, Rosario Central pushed forward with increased intensity. Their persistence paid off in the 77th minute when Gaston Avila set up Julian Fernandez for the equalizer. With the game finely balanced, Belgrano staged a late resurgence. In the 88th minute, Ramiro Hernandes provided the crucial assist for Francisco Gonzalez Metilli , who fired home the winning goal. Despite a late yellow card for Elias Veron and desperate pressure from the visitors, the home side held firm to secure a memorable victory."
     },
     {
       "title": "Union Santa Fe - Lanus 1",
@@ -10023,826 +11411,11 @@
         }
       },
       "description": "Watch Racing Club vs Gimnasia LP highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 25, 2026. The Liga Profesional Argentina clash between Racing Club and Gimnasia La Plata on July 25, 2026, lived up to its billing as a high-intensity encounter. Both sides displayed tactical discipline and attacking intent, creating a narrative that kept the spectators on edge until the final whistle. Early Breakthrough and Gimnasia's Resilience Racing Club ignited the match early, finding the back of the net in just the 6th minute. Santiago Solari provided a pinpoint assist for Matko Miljevic , who clinical finish gave the hosts an immediate advantage. The early goal forced Gimnasia LP to respond, and despite an early booking for Alejandro Tello , they slowly clawed their way back into the contest. Their efforts were rewarded in the 32nd minute when Bautista Barros Schelotto struck a well-deserved equalizer. The momentum seemed to shift toward the visitors as they disrupted Racing's rhythm, leading to further tension on the pitch and a yellow card for Mateo Seoane shortly before the break. Penalty Heartbreak and Colombo’s Decisive Strike Drama peaked just before halftime in the 42nd minute when Gimnasia were awarded a penalty. Marcelo Torres stepped up with a chance to take the lead, but he failed to convert, a moment that would prove costly. The miss led to an immediate tactical change, with Manuel Panaro replacing Torres during the interval as both managers looked to the bench for inspiration in the second half. As the game progressed through a series of substitutions, including the introduction of Lautaro Diaz and Juan Cortazzo , Racing found the decisive breakthrough. In the 69th minute, Matko Miljevic turned provider, setting up Nazareno Colombo for what would be the winning goal. Despite late pressure and yellow cards for Agustin Auzmendi and Renzo Giampaoli , Racing Club held firm to secure a vital victory."
-    },
-    {
-      "title": "Gimnasia y Esgrima - Central Córdoba",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/gimnasia-y-esgrima-central-cordoba-2026-07-24-YqHo.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Jul 24, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/790.webp",
-          "name": "Central Cordoba",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/434.webp",
-          "name": "Gimnasia LP",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/gimnasia-y-esgrima-central-cordoba-2026-07-24_w2Mym.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {
-          "Gimnasia LP_wins": "0",
-          "draws": "0",
-          "Central Cordoba_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Gimnasia LP",
-          "form": [
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "16/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Dynamo-Makhachkala 3 - 1 Dynamo Saint Petersburg",
-              "result": "L"
-            },
-            {
-              "date": "09/07/2025",
-              "competition": "Club Friendlies 2025",
-              "teams_and_score": "FC Rostov 2 - 1 FC Dynamo-Makhachkala",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Central Cordoba",
-          "form": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "07/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Dynamo-Makhachkala 1 - 3 Gimnasia LP",
-              "result": "W"
-            },
-            {
-              "date": "14/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "River Plate 2 - 0 Gimnasia LP",
-              "result": "L"
-            },
-            {
-              "date": "03/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Gimnasia LP 2 - 0 Argentinos Juniors",
-              "result": "L"
-            },
-            {
-              "date": "22/04/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Acassuso 0 - 3 Gimnasia LP",
-              "result": "W"
-            },
-            {
-              "date": "18/04/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Gimnasia LP 1 - 0 Estudiantes de Rio Cuarto",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Gimnasia LP vs Central Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 24, 2026."
-    },
-    {
-      "title": "Defensa y Justicia - Aldosivi",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/defensa-y-justicia-aldosivi-2026-07-24-jJ6Z.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Jul 24, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/463.webp",
-          "name": "Aldosivi",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/442.webp",
-          "name": "Defensa Y Justicia",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/defensa-y-justicia-aldosivi-2026-07-24_uKJEU.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Aldosivi",
-          "player": "N. Cordero",
-          "event_type": "Goal",
-          "assist": "A. T. L. Fernandez",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "Aldosivi",
-          "player": "J. Pombo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Defensa Y Justicia",
-          "player": "D. Barbona",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "51'",
-          "team": "Defensa Y Justicia",
-          "player": "C. Pérez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "68'",
-          "team": "Defensa Y Justicia",
-          "player": "A. Hausch",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "71'",
-          "team": "Aldosivi",
-          "player": "A. T. L. Fernandez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Aldosivi",
-          "player": "B. Palavecino",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Defensa Y Justicia_wins": "4",
-          "draws": "3",
-          "Aldosivi_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "22/01/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Aldosivi 0 - 0 Defensa y Justicia"
-          },
-          {
-            "date": "22/07/2025",
-            "competition": "Primera Division: Clausura",
-            "teams_and_score": "Defensa y Justicia 2 - 0 Aldosivi"
-          },
-          {
-            "date": "30/01/2025",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Aldosivi 0 - 5 Defensa y Justicia"
-          },
-          {
-            "date": "11/07/2022",
-            "competition": "Primera Division 2022",
-            "teams_and_score": "Defensa y Justicia 3 - 2 Aldosivi"
-          },
-          {
-            "date": "09/08/2021",
-            "competition": "Primera Division 2021",
-            "teams_and_score": "Aldosivi 1 - 0 Defensa y Justicia"
-          },
-          {
-            "date": "14/01/2021",
-            "competition": "Copa Diego Maradona: Fase Complementación: Group A",
-            "teams_and_score": "Defensa y Justicia 4 - 4 Aldosivi"
-          },
-          {
-            "date": "20/10/2019",
-            "competition": "Primera Division",
-            "teams_and_score": "Aldosivi 1 - 0 Defensa y Justicia"
-          }
-        ],
-        "home_team_form": {
-          "team": "Defensa Y Justicia",
-          "form": [
-            "D",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "24/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Defensa y Justicia 1 - 1 Aldosivi",
-              "result": "D"
-            },
-            {
-              "date": "16/07/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Racing Club 4 - 1 Defensa y Justicia",
-              "result": "L"
-            },
-            {
-              "date": "04/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Gimnasia Mendoza 2 - 1 Defensa y Justicia",
-              "result": "L"
-            },
-            {
-              "date": "01/04/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Defensa y Justicia 2 - 1 CA Chaco For Ever",
-              "result": "W"
-            },
-            {
-              "date": "21/03/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Defensa y Justicia 2 - 0 Union",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Aldosivi",
-          "form": [
-            "D",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "24/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Defensa y Justicia 1 - 1 Aldosivi",
-              "result": "D"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "River Plate 1 - 3 Aldosivi",
-              "result": "W"
-            },
-            {
-              "date": "03/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Aldosivi 1 - 1 Independiente Rivadavia",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Defensa Y Justicia": "2",
-          "Aldosivi": "3"
-        },
-        "shots_off_target": {
-          "Defensa Y Justicia": "2",
-          "Aldosivi": "2"
-        },
-        "corners": {
-          "Defensa Y Justicia": "4",
-          "Aldosivi": "1"
-        },
-        "fouls": {
-          "Defensa Y Justicia": "3",
-          "Aldosivi": "8"
-        },
-        "yellow_cards": {
-          "Defensa Y Justicia": "2",
-          "Aldosivi": "3"
-        },
-        "goalkeeper_saves": {
-          "Defensa Y Justicia": "2",
-          "Aldosivi": "1"
-        },
-        "ball_possession": {
-          "Defensa Y Justicia": "69%",
-          "Aldosivi": "31%"
-        }
-      },
-      "description": "Watch Defensa Y Justicia vs Aldosivi highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 24, 2026. On July 24, 2026, Defensa y Justicia and Aldosivi squared off in a pivotal Liga Profesional Argentina fixture, with both sides looking to make their mark on the league standings through disciplined football. Taking the initiative The match opened with high intensity, but it was Defensa y Justicia who capitalized on their momentum early on. In the 16th minute, Nicolas Cordero broke the deadlock, firing home after receiving a clinical assist from Tomas Fernandez . The momentum continued to swing in favor of the hosts, as David Barbona added a second goal in the 29th minute, effectively taking control of the game’s narrative before the referee signaled for half time. Managing the lead The second half saw a more fragmented game as both teams battled for control in the center of the pitch. Disciplinary issues began to surface, with the referee issuing yellow cards to Cesar Perez and Agustin Hausch for the home side, and to Tomas Fernandez and Blas Palavecino for the visitors. Despite a flurry of substitutions from both benches—including late appearances from Andres Chavez and Domingo Blanco —the defensive lines held firm. The final whistle confirmed a professional victory built on the back of an inspired first-half performance."
-    },
-    {
-      "title": "Sarmiento - Argentinos Juniors",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/sarmiento-argentinos-juniors-2026-07-24-hsJ5.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Jul 24, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/458.webp",
-          "name": "Argentinos JRS",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/474.webp",
-          "name": "Sarmiento Junin",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/sarmiento-argentinos-juniors-2026-07-24_GnG6l.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "13'",
-          "team": "Sarmiento Junin",
-          "player": "E. E. Gimenez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Argentinos JRS",
-          "player": "F. E. Paredes",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "24'",
-          "team": "Argentinos JRS",
-          "player": "I. Morales",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "30'",
-          "team": "Sarmiento Junin",
-          "player": "J. Marabel",
-          "event_type": "Goal",
-          "assist": "P. Magnin",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "43'",
-          "team": "Argentinos JRS",
-          "player": "F. Alvarez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+1'",
-          "team": "Sarmiento Junin",
-          "player": "J. Insaurralde",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "48'",
-          "team": "Argentinos JRS",
-          "player": "A. Lescano",
-          "event_type": "Goal",
-          "assist": "T. Molina",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "53'",
-          "team": "Sarmiento Junin",
-          "player": "C. Zabala",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "54'",
-          "team": "Argentinos JRS",
-          "player": "A. Lescano",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "58'",
-          "team": "Argentinos JRS",
-          "player": "S. Prieto",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "69'",
-          "team": "Sarmiento Junin",
-          "player": "R. Orihuela",
-          "event_type": "Goal",
-          "assist": "C. Zabala",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "76'",
-          "team": "Argentinos JRS",
-          "player": "D. Porcel",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90'",
-          "team": "Argentinos JRS",
-          "player": "D. Porcel",
-          "event_type": "Goal",
-          "assist": "H. Lopez",
-          "score_update": "2 - 3"
-        },
-        {
-          "time": "90+1'",
-          "team": "Argentinos JRS",
-          "player": "D. Porcel",
-          "event_type": "Red Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Sarmiento Junin_wins": "0",
-          "draws": "3",
-          "Argentinos JRS_wins": "4"
-        },
-        "previous_matches": [
-          {
-            "date": "26/01/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Argentinos Juniors 1 - 0 Sarmiento"
-          },
-          {
-            "date": "08/08/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "Argentinos Juniors 0 - 0 Sarmiento"
-          },
-          {
-            "date": "08/04/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Sarmiento 2 - 0 Argentinos Juniors"
-          },
-          {
-            "date": "11/06/2022",
-            "competition": "Primera Division 2022",
-            "teams_and_score": "Sarmiento 1 - 0 Argentinos Juniors"
-          },
-          {
-            "date": "26/04/2022",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Argentinos Juniors 0 - 0 Sarmiento"
-          },
-          {
-            "date": "11/12/2021",
-            "competition": "Primera Division 2021",
-            "teams_and_score": "Argentinos Juniors 2 - 0 Sarmiento"
-          },
-          {
-            "date": "30/05/2015",
-            "competition": "Primera Division",
-            "teams_and_score": "Sarmiento 0 - 0 Argentinos Juniors"
-          }
-        ],
-        "home_team_form": {
-          "team": "Sarmiento Junin",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Sarmiento 2 - 3 Argentinos Juniors",
-              "result": "W"
-            },
-            {
-              "date": "17/07/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Sarmiento 0 - 2 Boca Juniors",
-              "result": "W"
-            },
-            {
-              "date": "03/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Belgrano 4 - 0 Sarmiento",
-              "result": "L"
-            },
-            {
-              "date": "09/04/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Sarmiento 1 - 0 Tristan Suarez",
-              "result": "L"
-            },
-            {
-              "date": "02/04/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Barracas Central 1 - 2 Sarmiento",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Argentinos JRS",
-          "form": [
-            "W",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Sarmiento 2 - 3 Argentinos Juniors",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "Argentinos Juniors 1 - 1 Belgrano",
-              "result": "D"
-            },
-            {
-              "date": "03/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Gimnasia LP 2 - 0 Argentinos Juniors",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Sarmiento Junin": "3",
-          "Argentinos JRS": "5"
-        },
-        "shots_off_target": {
-          "Sarmiento Junin": "5",
-          "Argentinos JRS": "3"
-        },
-        "shots_blocked": {
-          "Sarmiento Junin": "4",
-          "Argentinos JRS": "5"
-        },
-        "corners": {
-          "Sarmiento Junin": "7",
-          "Argentinos JRS": "2"
-        },
-        "fouls": {
-          "Sarmiento Junin": "15",
-          "Argentinos JRS": "14"
-        },
-        "offsides": {
-          "Sarmiento Junin": "1",
-          "Argentinos JRS": "2"
-        },
-        "yellow_cards": {
-          "Sarmiento Junin": "3",
-          "Argentinos JRS": "4"
-        },
-        "red_cards": {
-          "Sarmiento Junin": "0",
-          "Argentinos JRS": "1"
-        },
-        "goalkeeper_saves": {
-          "Sarmiento Junin": "2",
-          "Argentinos JRS": "1"
-        },
-        "ball_possession": {
-          "Sarmiento Junin": "45%",
-          "Argentinos JRS": "55%"
-        }
-      },
-      "description": "Watch Sarmiento Junin vs Argentinos JRS highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 24, 2026. A high-stakes clash in the Liga Profesional On July 24, 2026, the encounter between Sarmiento Junin and Argentinos Juniors set the stage for an intense tactical battle. With both sides eager to establish control, the matchday atmosphere was palpable as players looked to make their mark on the Liga Profesional standings. First half tensions and breakthrough Early exchanges were defined by a series of disciplinary actions as both teams fought to gain a foothold. The stalemate was eventually broken in the 30th minute when Junior Marabel , assisted by Pablo Magnin , found the back of the net to give Sarmiento the lead. The first half continued to be a physical affair, with the home side successfully heading into the dressing rooms with the narrow advantage. Momentum swings and late heroics Following the break, the tempo accelerated significantly. Alan Lescano leveled the score for Argentinos Juniors in the 48th minute, connecting with a pass from Tomas Molina . The visitors pushed forward relentlessly, taking the lead through Sebastian Prieto in the 58th minute. However, the game remained wide open, and Sarmiento equalized at the 69th minute mark through Renzo Orihuela , who was set up by Cristian Zabala . The defining moment of the match arrived in the final minute of regular time. Diego Porcel surged forward to score for Argentinos Juniors , assisted by Hernan Lopez , to break the deadlock. The drama didn't end there, as Porcel was sent off just one minute later after receiving a second yellow card. Despite finishing the match with ten men, the visitors held firm to secure a thrilling victory."
-    },
-    {
-      "title": "Belgrano - Rosario Central",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/belgrano-rosario-central-2026-07-24-xwif.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Jul 24, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/437.webp",
-          "name": "Rosario Central",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/440.webp",
-          "name": "Belgrano Cordoba",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/belgrano-rosario-central-2026-07-24_tgW2w.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Rosario Central",
-          "player": "F. Mallo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Belgrano Cordoba",
-          "player": "N. Fernandez",
-          "event_type": "Goal",
-          "assist": "F. Vazquez",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "77'",
-          "team": "Rosario Central",
-          "player": "J. Fernandez",
-          "event_type": "Goal",
-          "assist": "G. Avila",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "88'",
-          "team": "Belgrano Cordoba",
-          "player": "F. G. Metilli",
-          "event_type": "Goal",
-          "assist": "R. Hernandes",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "90+2'",
-          "team": "Rosario Central",
-          "player": "E. Veron",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Belgrano Cordoba_wins": "3",
-          "draws": "3",
-          "Rosario Central_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "25/01/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Rosario Central 1 - 2 Belgrano"
-          },
-          {
-            "date": "14/12/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "Rosario Central 2 - 1 Belgrano"
-          },
-          {
-            "date": "28/07/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Belgrano 0 - 0 Rosario Central"
-          },
-          {
-            "date": "02/03/2019",
-            "competition": "Superliga",
-            "teams_and_score": "Rosario Central 0 - 0 Belgrano"
-          },
-          {
-            "date": "14/01/2019",
-            "competition": "Torneo de Verano",
-            "teams_and_score": "Rosario Central 1 - 1 Belgrano"
-          },
-          {
-            "date": "07/04/2018",
-            "competition": "Superliga",
-            "teams_and_score": "Rosario Central 2 - 1 Belgrano"
-          },
-          {
-            "date": "18/12/2016",
-            "competition": "Primera Division",
-            "teams_and_score": "Belgrano 0 - 2 Rosario Central"
-          }
-        ],
-        "home_team_form": {
-          "team": "Belgrano Cordoba",
-          "form": [
-            "L",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Belgrano 2 - 1 Rosario Central",
-              "result": "L"
-            },
-            {
-              "date": "30/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "CA Gimnasia de Jujuy 2 - 2 Belgrano",
-              "result": "D"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "River Plate 2 - 3 Belgrano",
-              "result": "W"
-            },
-            {
-              "date": "03/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Belgrano 4 - 0 Sarmiento",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Rosario Central",
-          "form": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Belgrano 2 - 1 Rosario Central",
-              "result": "L"
-            },
-            {
-              "date": "31/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Estudiantes de la Plata 3 - 0 Rosario Central",
-              "result": "L"
-            },
-            {
-              "date": "27/05/2026",
-              "competition": "Group H",
-              "teams_and_score": "Independiente del Valle 1 - 0 Rosario Central",
-              "result": "L"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "River Plate 1 - 0 Rosario Central",
-              "result": "L"
-            },
-            {
-              "date": "05/05/2026",
-              "competition": "Group H",
-              "teams_and_score": "Rosario Central 1 - 0 Libertad",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Belgrano Cordoba": "5",
-          "Rosario Central": "3"
-        },
-        "shots_off_target": {
-          "Belgrano Cordoba": "5",
-          "Rosario Central": "6"
-        },
-        "shots_blocked": {
-          "Belgrano Cordoba": "3",
-          "Rosario Central": "1"
-        },
-        "corners": {
-          "Belgrano Cordoba": "6",
-          "Rosario Central": "7"
-        },
-        "fouls": {
-          "Belgrano Cordoba": "10",
-          "Rosario Central": "13"
-        },
-        "offsides": {
-          "Belgrano Cordoba": "2",
-          "Rosario Central": "2"
-        },
-        "yellow_cards": {
-          "Belgrano Cordoba": "0",
-          "Rosario Central": "2"
-        },
-        "goalkeeper_saves": {
-          "Belgrano Cordoba": "2",
-          "Rosario Central": "3"
-        },
-        "ball_possession": {
-          "Belgrano Cordoba": "47%",
-          "Rosario Central": "53%"
-        }
-      },
-      "description": "Watch Belgrano Cordoba vs Rosario Central highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 24, 2026. The stadium atmosphere was electric as two competitive sides clashed in a crucial fixture of the Liga Profesional Argentina . This match on July 24, 2026, served as a testing ground for both squads aiming to climb the standings. Breaking the deadlock Early exchanges were tactical, but Belgrano found their rhythm first. In the 36th minute, Franco Vazquez delivered a clever pass to Nicolas Fernandez , who slotted home to give the hosts a deserved lead. The first half was defined by physical battles, notably resulting in a yellow card for Facundo Mallo just before the half-hour mark. Late drama decides the outcome Following the break, Rosario Central pushed forward with increased intensity. Their persistence paid off in the 77th minute when Gaston Avila set up Julian Fernandez for the equalizer. With the game finely balanced, Belgrano staged a late resurgence. In the 88th minute, Ramiro Hernandes provided the crucial assist for Francisco Gonzalez Metilli , who fired home the winning goal. Despite a late yellow card for Elias Veron and desperate pressure from the visitors, the home side held firm to secure a memorable victory."
     }
-  ]
+  ],
+  "hasMore": true,
+  "currentCount": 50,
+  "totalCount": 52,
+  "currentPage": 1,
+  "lastPage": 2
 }
