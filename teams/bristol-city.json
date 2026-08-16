@@ -1,9 +1,234 @@
 {
   "team": "Bristol City",
   "team_logo": "https://img.refooty.com/logo/teams/56.webp",
-  "total_matches": 1,
-  "Last update time": "06:10:36 AM 16-08-2026",
+  "total_matches": 2,
+  "Last update time": "04:00:58 AM 17-08-2026",
   "matches": [
+    {
+      "title": "Bristol City vs Millwall",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-city-vs-millwall-2026-08-15-4Y4z.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Aug 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/58.webp",
+          "name": "Millwall",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/56.webp",
+          "name": "Bristol City",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/bristol-city-vs-millwall-2026-08-15_BYhkC.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Millwall",
+          "player": "J. Coburn",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Bristol City",
+          "player": "A. Randell",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Bristol City",
+          "player": "A. Randell",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "46'",
+          "team": "Millwall",
+          "player": "J. Coburn",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Millwall",
+          "player": "J. Metcalfe",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Millwall",
+          "player": "J. Coburn",
+          "event_type": "Goal",
+          "assist": "J. Metcalfe",
+          "score_update": "0 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bristol City_wins": "2",
+          "draws": "1",
+          "Millwall_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "29/12/2025",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Millwall 2 - 1 Bristol City"
+          },
+          {
+            "date": "04/03/2025",
+            "competition": "Championship",
+            "teams_and_score": "Millwall 0 - 2 Bristol City"
+          },
+          {
+            "date": "01/01/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Bristol City 0 - 1 Millwall"
+          },
+          {
+            "date": "29/12/2022",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Millwall 0 - 0 Bristol City"
+          },
+          {
+            "date": "02/01/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Bristol City 3 - 2 Millwall"
+          }
+        ],
+        "home_team_form": {
+          "team": "Bristol City",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Bristol City 0 - 2 Millwall",
+              "result": "L"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bristol City 0 - 1 Walsall",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Exeter City 1 - 1 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bristol City 4 - 1 Newcastle United",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Forest Green Rovers 3 - 2 Bristol City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Millwall",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Bristol City 0 - 2 Millwall",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "QPR 1 - 1 Millwall",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Millwall 1 - 0 Royal Antwerp",
+              "result": "W"
+            },
+            {
+              "date": "11/05/2026",
+              "competition": "Championship: Play-offs 25/26",
+              "teams_and_score": "Millwall 0 - 2 Hull City",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bristol City": "0",
+          "Millwall": "3"
+        },
+        "shots_off_target": {
+          "Bristol City": "6",
+          "Millwall": "10"
+        },
+        "shots_blocked": {
+          "Bristol City": "2",
+          "Millwall": "11"
+        },
+        "corners": {
+          "Bristol City": "6",
+          "Millwall": "6"
+        },
+        "fouls": {
+          "Bristol City": "8",
+          "Millwall": "12"
+        },
+        "offsides": {
+          "Bristol City": "1",
+          "Millwall": "3"
+        },
+        "yellow_cards": {
+          "Bristol City": "0",
+          "Millwall": "2"
+        },
+        "red_cards": {
+          "Bristol City": "1",
+          "Millwall": "0"
+        },
+        "goalkeeper_saves": {
+          "Bristol City": "2",
+          "Millwall": "0"
+        },
+        "crosses": {
+          "Bristol City": "0",
+          "Millwall": "13"
+        },
+        "ball_possession": {
+          "Bristol City": "34%",
+          "Millwall": "66%"
+        }
+      },
+      "description": "Watch Bristol City vs Millwall highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The atmosphere was electric on August 15, 2026 , as Bristol City faced off against Millwall in a highly anticipated Championship encounter. Both sets of players took to the pitch with high energy, setting the stage for a match where tactical discipline and clinical finishing would prove to be the ultimate difference-makers. Early Discipline and the Red Card Turning Point The contest began with a physical edge, as the referee was called into action early to maintain control. Millwall forward Josh Coburn received an early booking in the 15th minute, but the momentum shifted decisively against the hosts later in the half. Bristol City midfielder Adam Randell was cautioned in the 23rd minute, and his afternoon came to a premature end in the 36th minute after receiving a second yellow card. Reduced to ten men, the home side faced an uphill battle for the remainder of the afternoon. Millwall wasted little time in exploiting their numerical advantage. In the 41st minute, Josh Coburn found the back of the net to break the deadlock, silencing the home crowd. Despite the tactical adjustments from the Bristol City bench, including the introduction of Kyrell Lisbie for Femi Azeez , the visitors headed into the break with both a lead and a man advantage. Coburn Seals the Result in the Second Half The second half started much like the first ended, with the visitors exerting pressure. Just five minutes after the restart, Jenson Metcalfe turned provider, delivering a pinpoint assist for Josh Coburn , who clinically dispatched his second goal of the match in the 50th minute. This two-goal cushion allowed Millwall to manage the game with confidence, while Bristol City struggled to create clear-cut chances with a depleted lineup. As the clock ticked down, both managers turned to their benches to freshen up the play. Mark Sykes and Lyndon Dykes were among the many substitutes introduced as the pace of the game naturally slowed. Despite a late push from the hosts in the six minutes of added time, Millwall remained professional and composed. The final whistle confirmed a comprehensive victory for the visitors, headlined by Coburn's brace and a pivotal first-half dismissal."
+    },
     {
       "title": "Bristol City vs Newcastle",
       "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-city-vs-newcastle-2026-07-29-V5PO.webp",

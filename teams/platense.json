@@ -1,9 +1,486 @@
 {
   "team": "Platense",
   "team_logo": "https://img.refooty.com/logo/teams/1064.webp",
-  "total_matches": 3,
-  "Last update time": "06:10:36 AM 16-08-2026",
+  "total_matches": 4,
+  "Last update time": "04:00:58 AM 17-08-2026",
   "matches": [
+    {
+      "title": "Platense - Boca Juniors",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/platense-boca-juniors-2026-08-16-5kE1.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 16, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/451.webp",
+          "name": "Boca Juniors",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1064.webp",
+          "name": "Platense",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/platense-boca-juniors-2026-08-16_dqEQG.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Platense",
+          "player": "T. Silva",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Platense",
+          "player": "k. Retamar",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Boca Juniors",
+          "player": "M. Delgado",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Boca Juniors",
+          "player": "M. Merentiel",
+          "event_type": "Goal",
+          "assist": "S. Ascacibar",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Boca Juniors",
+          "player": "S. Ascacibar",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Platense_wins": "1",
+          "draws": "2",
+          "Boca Juniors_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "15/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Boca Juniors 0 - 0 Club Atletico Platense"
+          },
+          {
+            "date": "02/06/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Club Atletico Platense 1 - 0 Boca Juniors"
+          },
+          {
+            "date": "27/01/2024",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Club Atletico Platense 0 - 0 Boca Juniors"
+          },
+          {
+            "date": "19/08/2023",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Boca Juniors 3 - 1 Club Atletico Platense"
+          },
+          {
+            "date": "19/02/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Boca Juniors 3 - 1 Club Atletico Platense"
+          },
+          {
+            "date": "07/08/2022",
+            "competition": "Primera Division 2022",
+            "teams_and_score": "Boca Juniors 2 - 1 Club Atletico Platense"
+          },
+          {
+            "date": "26/08/2021",
+            "competition": "Primera Division 2021",
+            "teams_and_score": "Club Atletico Platense 1 - 3 Boca Juniors"
+          }
+        ],
+        "home_team_form": {
+          "team": "Platense",
+          "form": [
+            "D",
+            "D",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Club Atletico Platense 1 - 1 Boca Juniors",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "Club Atletico Platense 1 - 1 Coquimbo Unido",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Independiente 0 - 1 Club Atletico Platense",
+              "result": "W"
+            },
+            {
+              "date": "28/05/2026",
+              "competition": "Group E",
+              "teams_and_score": "Corinthians 0 - 2 Club Atletico Platense",
+              "result": "W"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Club Atletico Platense 0 - 0 San Martin San Juan",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Boca Juniors",
+          "form": [
+            "D",
+            "W",
+            "D",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Club Atletico Platense 1 - 1 Boca Juniors",
+              "result": "D"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "Boca Juniors 3 - 1 CD Recoleta",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Boca Juniors 1 - 1 Velez Sarsfield",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Knockout Round Playoffs",
+              "teams_and_score": "O'Higgins 1 - 0 Boca Juniors",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Deportivo Riestra 3 - 0 Boca Juniors",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Platense": "8",
+          "Boca Juniors": "4"
+        },
+        "shots_off_target": {
+          "Platense": "4",
+          "Boca Juniors": "5"
+        },
+        "shots_blocked": {
+          "Platense": "0",
+          "Boca Juniors": "5"
+        },
+        "corners": {
+          "Platense": "3",
+          "Boca Juniors": "7"
+        },
+        "fouls": {
+          "Platense": "11",
+          "Boca Juniors": "14"
+        },
+        "offsides": {
+          "Platense": "1",
+          "Boca Juniors": "1"
+        },
+        "yellow_cards": {
+          "Platense": "1",
+          "Boca Juniors": "2"
+        },
+        "goalkeeper_saves": {
+          "Platense": "3",
+          "Boca Juniors": "7"
+        },
+        "ball_possession": {
+          "Platense": "34%",
+          "Boca Juniors": "66%"
+        }
+      },
+      "description": "Watch Platense vs Boca Juniors highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 16, 2026. Strategic Battle in the Liga Profesional On August 16, 2026, Platense hosted Boca Juniors in a high-stakes Liga Profesional Argentina fixture that demanded maximum concentration from both squads. The match began with a cagey atmosphere, as neither team was willing to concede ground, leading to a physical battle across the midfield that defined the rhythm of the opening half. Momentum Swings and Late Response The narrative shifted significantly in the second half when Nicolas Retamar broke the deadlock in the 53rd minute, firing Platense into the lead. With the home side gaining momentum, Boca Juniors turned to their bench, introducing fresh energy to salvage their campaign. This tactical shift proved effective as the visitors began to pressure the defensive line with renewed intensity. With just ten minutes remaining in regulation, Miguel Merentiel emerged as the hero for the visitors, converting a decisive goal after being set up by Santiago Ascacibar . Despite the frantic efforts from both sides to snatch a late winner and the referee handing out late cautions to maintain order, the scoreline remained level at the final whistle, concluding an intense afternoon of football ."
+    },
+    {
+      "title": "Platense - Talleres de Cordoba",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/platense-talleres-de-cordoba-2026-08-04-NBw8.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/456.webp",
+          "name": "Talleres Cordoba",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1064.webp",
+          "name": "Platense",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/platense-talleres-de-cordoba-2026-08-04_V6RM8.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Platense",
+          "player": "M. Barrios",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Talleres Cordoba",
+          "player": "S. Fernandez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Talleres Cordoba",
+          "player": "R. Rick",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Talleres Cordoba",
+          "player": "F. Fattori",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Talleres Cordoba",
+          "player": "T. Chamorro",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Talleres Cordoba",
+          "player": "V. Depietri",
+          "event_type": "Goal",
+          "assist": "R. Rick",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "91'",
+          "team": "Talleres Cordoba",
+          "player": "R. Rick",
+          "event_type": "Goal",
+          "assist": "V. Depietri",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "106'",
+          "team": "Talleres Cordoba",
+          "player": "F. Cristaldo",
+          "event_type": "Goal",
+          "assist": "M. Galarza",
+          "score_update": "0 - 4"
+        },
+        {
+          "time": "121'",
+          "team": "Platense",
+          "player": "G. Mainero",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Platense_wins": "3",
+          "draws": "2",
+          "Talleres Cordoba_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "01/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Talleres 1 - 2 Club Atletico Platense"
+          },
+          {
+            "date": "08/11/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Talleres 1 - 0 Club Atletico Platense"
+          },
+          {
+            "date": "29/04/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Club Atletico Platense 2 - 1 Talleres"
+          },
+          {
+            "date": "14/06/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Talleres 2 - 1 Club Atletico Platense"
+          },
+          {
+            "date": "25/02/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Club Atletico Platense 2 - 4 Talleres"
+          },
+          {
+            "date": "23/08/2022",
+            "competition": "Primera Division 2022",
+            "teams_and_score": "Club Atletico Platense 0 - 0 Talleres"
+          },
+          {
+            "date": "13/02/2022",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Club Atletico Platense 1 - 0 Talleres"
+          }
+        ],
+        "home_team_form": {
+          "team": "Platense",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Club Atletico Platense 0 - 4 Talleres",
+              "result": "L"
+            },
+            {
+              "date": "28/05/2026",
+              "competition": "Group E",
+              "teams_and_score": "Corinthians 0 - 2 Club Atletico Platense",
+              "result": "W"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Club Atletico Platense 0 - 0 San Martin San Juan",
+              "result": "D"
+            },
+            {
+              "date": "07/05/2026",
+              "competition": "Group E",
+              "teams_and_score": "Club Atletico Platense 1 - 1 Club Atletico Penarol",
+              "result": "D"
+            },
+            {
+              "date": "03/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Club Atletico Platense 0 - 2 Estudiantes de la Plata",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Talleres Cordoba",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Club Atletico Platense 0 - 4 Talleres",
+              "result": "W"
+            },
+            {
+              "date": "20/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
+              "result": "W"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Talleres 0 - 1 Belgrano",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Union 1 - 1 Talleres",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Platense": "8",
+          "Talleres Cordoba": "7"
+        },
+        "shots_off_target": {
+          "Platense": "8",
+          "Talleres Cordoba": "1"
+        },
+        "shots_blocked": {
+          "Platense": "6",
+          "Talleres Cordoba": "0"
+        },
+        "corners": {
+          "Platense": "2",
+          "Talleres Cordoba": "3"
+        },
+        "fouls": {
+          "Platense": "14",
+          "Talleres Cordoba": "15"
+        },
+        "offsides": {
+          "Platense": "1",
+          "Talleres Cordoba": "4"
+        },
+        "yellow_cards": {
+          "Platense": "2",
+          "Talleres Cordoba": "3"
+        },
+        "goalkeeper_saves": {
+          "Platense": "3",
+          "Talleres Cordoba": "8"
+        },
+        "ball_possession": {
+          "Platense": "46%",
+          "Talleres Cordoba": "54%"
+        }
+      },
+      "description": "Watch Platense vs Talleres Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 4, 2026. The clash between Platense and Talleres de Cordoba in the Liga Profesional Argentina served as a tense tactical battle for supremacy. On August 4, 2026, both sides stepped onto the pitch determined to control the match and secure a vital result. Physical Battles in the First Half Early proceedings were defined by intense physical combat in the midfield, with the referee forced to issue cautions to Martin Barrios and Santiago Fernandez as tempers flared. As the half neared its conclusion, the stalemate was finally broken in the 43rd minute. Rick displayed clinical composure to find the back of the net, giving his side a hard-fought lead heading into the halftime break. Second-Half Goal Frenzy The game exploded into life after the restart, with tactical changes sparking a wave of attacking football. The drama began in the 69th minute when Valentin Depietri leveled the score, assisted by Rick . The momentum swung wildly as Rick struck again in the 74th minute, this time set up by Valentin Depietri . The resilience of Talleres de Cordoba was on full display, and they forced the final twist at the 77th minute when Franco Cristaldo hammered home an assist from Matias Galarza , capping off a spectacular sequence of goals that defined the second half."
+    },
     {
       "title": "Platense - Union Santa Fe",
       "thumbnail_url": "https://img.refooty.com/thumbnail/platense-union-santa-fe-2026-07-25-AAcN.webp",
@@ -474,255 +951,6 @@
         }
       },
       "description": "Watch Independiente vs Platense highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The Liga Profesional Argentina clash between Independiente and Platense promised a battle of tactical discipline and grit. Both teams took to the pitch on 2026-08-09 looking to claim vital points in what was expected to be a closely contested affair. A Tense Opening Half The match began with both sides showing significant caution, prioritizing defensive solidity over risky offensive surges. Independiente looked to use their home advantage to dictate play, but Platense remained resolute. The physicality of the contest was evident just before the break when Santiago Gabriel Montiel was shown a yellow card in the 44th minute, leaving the game scoreless at halftime. Mainero Breaks the Deadlock The second half saw immediate tactical adjustments, with Independiente bringing on Lautaro Millan to spark their attack. However, it was the visitors who maintained their composure. After Ignacio Vazquez picked up a yellow card in the 49th minute, the defining moment arrived at the 65-minute mark. Guido Mainero found space in the final third and clinicaly converted his chance to put Platense 1-0 ahead. Following the goal, Independiente pushed forward in search of an equalizer, introducing fresh legs in Hector Bobadilla and Luciano Cabral . Despite the increased pressure, the home side struggled to break down a stubborn defensive line. Holding Firm Until the End As the clock ticked down, the match grew increasingly heated. Kevin Lomonaco received a yellow card for the hosts in the 84th minute, and Nicolas Lopez followed suit for the visitors during stoppage time. Despite six minutes of added time and late tactical substitutions, Platense successfully navigated the final stages to secure a hard-earned away victory, leaving Independiente to reflect on missed opportunities."
-    },
-    {
-      "title": "Platense - Talleres de Cordoba",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/platense-talleres-de-cordoba-2026-08-04-NBw8.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Aug 4, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/456.webp",
-          "name": "Talleres Cordoba",
-          "score": "4"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1064.webp",
-          "name": "Platense",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/platense-talleres-de-cordoba-2026-08-04_V6RM8.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Platense",
-          "player": "M. Barrios",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Talleres Cordoba",
-          "player": "S. Fernandez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Talleres Cordoba",
-          "player": "R. Rick",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Talleres Cordoba",
-          "player": "F. Fattori",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Talleres Cordoba",
-          "player": "T. Chamorro",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Talleres Cordoba",
-          "player": "V. Depietri",
-          "event_type": "Goal",
-          "assist": "R. Rick",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "91'",
-          "team": "Talleres Cordoba",
-          "player": "R. Rick",
-          "event_type": "Goal",
-          "assist": "V. Depietri",
-          "score_update": "0 - 3"
-        },
-        {
-          "time": "106'",
-          "team": "Talleres Cordoba",
-          "player": "F. Cristaldo",
-          "event_type": "Goal",
-          "assist": "M. Galarza",
-          "score_update": "0 - 4"
-        },
-        {
-          "time": "121'",
-          "team": "Platense",
-          "player": "G. Mainero",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Platense_wins": "3",
-          "draws": "2",
-          "Talleres Cordoba_wins": "4"
-        },
-        "previous_matches": [
-          {
-            "date": "01/02/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Talleres 1 - 2 Club Atletico Platense"
-          },
-          {
-            "date": "08/11/2025",
-            "competition": "Primera Division: Clausura",
-            "teams_and_score": "Talleres 1 - 0 Club Atletico Platense"
-          },
-          {
-            "date": "29/04/2025",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Club Atletico Platense 2 - 1 Talleres"
-          },
-          {
-            "date": "14/06/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "Talleres 2 - 1 Club Atletico Platense"
-          },
-          {
-            "date": "25/02/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Club Atletico Platense 2 - 4 Talleres"
-          },
-          {
-            "date": "23/08/2022",
-            "competition": "Primera Division 2022",
-            "teams_and_score": "Club Atletico Platense 0 - 0 Talleres"
-          },
-          {
-            "date": "13/02/2022",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Club Atletico Platense 1 - 0 Talleres"
-          }
-        ],
-        "home_team_form": {
-          "team": "Platense",
-          "form": [
-            "L",
-            "W",
-            "D",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "03/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Club Atletico Platense 0 - 4 Talleres",
-              "result": "L"
-            },
-            {
-              "date": "28/05/2026",
-              "competition": "Group E",
-              "teams_and_score": "Corinthians 0 - 2 Club Atletico Platense",
-              "result": "W"
-            },
-            {
-              "date": "13/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Club Atletico Platense 0 - 0 San Martin San Juan",
-              "result": "D"
-            },
-            {
-              "date": "07/05/2026",
-              "competition": "Group E",
-              "teams_and_score": "Club Atletico Platense 1 - 1 Club Atletico Penarol",
-              "result": "D"
-            },
-            {
-              "date": "03/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Club Atletico Platense 0 - 2 Estudiantes de la Plata",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Talleres Cordoba",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "03/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Club Atletico Platense 0 - 4 Talleres",
-              "result": "W"
-            },
-            {
-              "date": "20/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
-              "result": "W"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "Talleres 0 - 1 Belgrano",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Union 1 - 1 Talleres",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Platense": "8",
-          "Talleres Cordoba": "7"
-        },
-        "shots_off_target": {
-          "Platense": "8",
-          "Talleres Cordoba": "1"
-        },
-        "shots_blocked": {
-          "Platense": "6",
-          "Talleres Cordoba": "0"
-        },
-        "corners": {
-          "Platense": "2",
-          "Talleres Cordoba": "3"
-        },
-        "fouls": {
-          "Platense": "14",
-          "Talleres Cordoba": "15"
-        },
-        "offsides": {
-          "Platense": "1",
-          "Talleres Cordoba": "4"
-        },
-        "yellow_cards": {
-          "Platense": "2",
-          "Talleres Cordoba": "3"
-        },
-        "goalkeeper_saves": {
-          "Platense": "3",
-          "Talleres Cordoba": "8"
-        },
-        "ball_possession": {
-          "Platense": "46%",
-          "Talleres Cordoba": "54%"
-        }
-      },
-      "description": "Watch Platense vs Talleres Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 4, 2026. The clash between Platense and Talleres de Cordoba in the Liga Profesional Argentina served as a tense tactical battle for supremacy. On August 4, 2026, both sides stepped onto the pitch determined to control the match and secure a vital result. Physical Battles in the First Half Early proceedings were defined by intense physical combat in the midfield, with the referee forced to issue cautions to Martin Barrios and Santiago Fernandez as tempers flared. As the half neared its conclusion, the stalemate was finally broken in the 43rd minute. Rick displayed clinical composure to find the back of the net, giving his side a hard-fought lead heading into the halftime break. Second-Half Goal Frenzy The game exploded into life after the restart, with tactical changes sparking a wave of attacking football. The drama began in the 69th minute when Valentin Depietri leveled the score, assisted by Rick . The momentum swung wildly as Rick struck again in the 74th minute, this time set up by Valentin Depietri . The resilience of Talleres de Cordoba was on full display, and they forced the final twist at the 77th minute when Franco Cristaldo hammered home an assist from Matias Galarza , capping off a spectacular sequence of goals that defined the second half."
     }
   ]
 }

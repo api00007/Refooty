@@ -1,9 +1,233 @@
 {
   "team": "Alverca",
   "team_logo": "https://img.refooty.com/logo/teams/4724.webp",
-  "total_matches": 1,
-  "Last update time": "06:10:36 AM 16-08-2026",
+  "total_matches": 2,
+  "Last update time": "04:00:58 AM 17-08-2026",
   "matches": [
+    {
+      "title": "Alverca vs Estrela",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/alverca-vs-estrela-2026-08-15-JX3j.webp",
+      "competition": "Primeira Liga",
+      "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+      "date": "Aug 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/24536.webp",
+          "name": "Estrela",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/4724.webp",
+          "name": "Alverca",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/alverca-vs-estrela-2026-08-15_4rPk0.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Alverca",
+          "player": "D. Gui",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Estrela",
+          "player": "L. Patrick",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Estrela",
+          "player": "S. Lekovic",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Estrela",
+          "player": "E. Doue",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Alverca",
+          "player": "V. Semedo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Estrela",
+          "player": "L. Antonetti",
+          "event_type": "Goal",
+          "assist": "R. Soares",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Alverca",
+          "player": "I. Luccas",
+          "event_type": "Goal",
+          "assist": "I. James",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Alverca",
+          "player": "V. Semedo",
+          "event_type": "Goal",
+          "assist": "R. Lucas",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Estrela",
+          "player": "A. Marcus",
+          "event_type": "Goal",
+          "assist": "R. Soares",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "106'",
+          "team": "Alverca",
+          "player": "Chiquinho",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "121'",
+          "team": "Estrela",
+          "player": "E. P. Vanga",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Alverca_wins": "1",
+          "draws": "1",
+          "Estrela_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "31/01/2026",
+            "competition": "Primeira Liga",
+            "teams_and_score": "Alverca 1 - 1 CF Estrela da Amadora"
+          },
+          {
+            "date": "05/01/2020",
+            "competition": "Campeonato de Portugal Grp. D",
+            "teams_and_score": "Alverca 2 - 0 CF Estrela da Amadora"
+          }
+        ],
+        "home_team_form": {
+          "team": "Alverca",
+          "form": [
+            "D",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "Alverca 2 - 2 CF Estrela da Amadora",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Mafra 1 - 0 Alverca",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "Famalicao 1 - 0 Alverca",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Estrela",
+          "form": [
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "Alverca 2 - 2 CF Estrela da Amadora",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "CF Estrela da Amadora 1 - 0 Lusitano Ginasio Clube",
+              "result": "W"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "SC Braga 2 - 2 CF Estrela da Amadora",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Alverca": "4",
+          "Estrela": "7"
+        },
+        "shots_off_target": {
+          "Alverca": "7",
+          "Estrela": "3"
+        },
+        "shots_blocked": {
+          "Alverca": "1",
+          "Estrela": "0"
+        },
+        "corners": {
+          "Alverca": "2",
+          "Estrela": "0"
+        },
+        "fouls": {
+          "Alverca": "10",
+          "Estrela": "12"
+        },
+        "offsides": {
+          "Alverca": "2",
+          "Estrela": "1"
+        },
+        "yellow_cards": {
+          "Alverca": "2",
+          "Estrela": "4"
+        },
+        "red_cards": {
+          "Alverca": "1",
+          "Estrela": "0"
+        },
+        "goalkeeper_saves": {
+          "Alverca": "5",
+          "Estrela": "2"
+        },
+        "crosses": {
+          "Alverca": "9",
+          "Estrela": "11"
+        },
+        "ball_possession": {
+          "Alverca": "46%",
+          "Estrela": "54%"
+        }
+      },
+      "description": "Watch Alverca vs Estrela highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The Primeira Liga treated fans to a high-octane encounter as Alverca hosted Estrela da Amadora in a match defined by dramatic momentum shifts. Both sides displayed immense tactical discipline before a frantic second half transformed the contest into a modern classic. A Cautious Opening Exchange On August 15, 2026 , the match began with both teams jostling for midfield supremacy. The first half was characterized more by physical challenges than goalmouth action, as the referee was kept busy reaching for his pocket. Davy Gui and Vivaldo Semedo saw yellow for the hosts, while Luan Patrick and Eddy Doue were booked for the visitors. While Nabili Touaizi forced a comfortable save from Leonardo Linck early on, the defenses remained largely untroubled as the sides headed into the interval locked in a stalemate. Second Half Goal Explosion The game exploded into life shortly after the restart. In the 51st minute, Leandro Antonetti broke the deadlock for Estrela da Amadora , nodding home a precise cross from Rafa Soares . The lead was short-lived, however, as Alverca mounted a spirited comeback. Ian Luccas equalized in the 58th minute with a powerful header, and by the 62nd minute, the turnaround was complete when Vivaldo Semedo tapped in from close range following excellent work by Rayan Lucas . VAR Drama and Late Resilience The drama intensified in the final quarter of the match. Estrela da Amadora refused to back down and found an equalizer in the 69th minute when Abraham Marcus lashed a superb left-footed volley into the net. The momentum swung again when Chiquinho was sent off for Alverca in the 74th minute; initially shown a yellow, the decision was upgraded to red following a VAR review for violent conduct. Despite being a man down, Alverca held firm through six minutes of stoppage time, with goalkeeper Matheus Mendes producing a vital save to deny Abraham Marcus a last-gasp winner."
+    },
     {
       "title": "FC Porto vs Alverca",
       "thumbnail_url": "https://img.refooty.com/thumbnail/fc-porto-vs-alverca-2026-08-09-I4sG.webp",

@@ -1,9 +1,217 @@
 {
   "team": "Valladolid",
   "team_logo": "https://img.refooty.com/logo/teams/720.webp",
-  "total_matches": 1,
-  "Last update time": "06:10:36 AM 16-08-2026",
+  "total_matches": 2,
+  "Last update time": "04:00:58 AM 17-08-2026",
   "matches": [
+    {
+      "title": "Mallorca vs Valladolid",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/mallorca-vs-valladolid-2026-08-15-zmvj.webp",
+      "competition": "Segunda División",
+      "competition_cover": "",
+      "date": "Aug 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/720.webp",
+          "name": "Valladolid",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/798.webp",
+          "name": "Mallorca",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/mallorca-vs-valladolid-2026-08-15_cI4kp.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "36'",
+          "team": "Mallorca",
+          "player": "M. Calatayud",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+1'",
+          "team": "Mallorca",
+          "player": "S. Darder",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Valladolid",
+          "player": "D. Torres",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Valladolid",
+          "player": "R. M. Gil",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Mallorca",
+          "player": "P. Torre",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "91'",
+          "team": "Mallorca",
+          "player": "A. Raíllo",
+          "event_type": "Goal",
+          "assist": "A. Sala",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Mallorca_wins": "1",
+          "draws": "2",
+          "Valladolid_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "10/05/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Mallorca 2 - 1 Real Valladolid"
+          },
+          {
+            "date": "09/04/2023",
+            "competition": "LaLiga 22/23",
+            "teams_and_score": "Real Valladolid 3 - 3 Mallorca"
+          },
+          {
+            "date": "01/02/2020",
+            "competition": "LaLiga",
+            "teams_and_score": "Mallorca 0 - 1 Real Valladolid"
+          },
+          {
+            "date": "04/08/2019",
+            "competition": "Club Friendlies 2019",
+            "teams_and_score": "Mallorca 2 - 2 Real Valladolid"
+          },
+          {
+            "date": "05/12/2018",
+            "competition": "Copa del Rey",
+            "teams_and_score": "Real Valladolid 2 - 1 Mallorca"
+          },
+          {
+            "date": "13/05/2017",
+            "competition": "LaLiga2",
+            "teams_and_score": "Real Valladolid 2 - 1 Mallorca"
+          }
+        ],
+        "home_team_form": {
+          "team": "Mallorca",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "LaLiga 2",
+              "teams_and_score": "Mallorca 2 - 0 Real Valladolid",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Mallorca 1 - 1 Elversberg",
+              "result": "D"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Mallorca 3 - 0 Paris Saint-Germain",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Mallorca 3 - 0 Real Oviedo",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Valladolid",
+          "form": [
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "LaLiga 2",
+              "teams_and_score": "Mallorca 2 - 0 Real Valladolid",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Groningen 1 - 0 Real Valladolid",
+              "result": "L"
+            },
+            {
+              "date": "31/05/2026",
+              "competition": "LaLiga 2",
+              "teams_and_score": "Almeria 1 - 0 Real Valladolid",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Mallorca": "3",
+          "Valladolid": "1"
+        },
+        "shots_off_target": {
+          "Mallorca": "2",
+          "Valladolid": "3"
+        },
+        "shots_blocked": {
+          "Mallorca": "2",
+          "Valladolid": "7"
+        },
+        "corners": {
+          "Mallorca": "3",
+          "Valladolid": "3"
+        },
+        "fouls": {
+          "Mallorca": "13",
+          "Valladolid": "12"
+        },
+        "offsides": {
+          "Mallorca": "1",
+          "Valladolid": "0"
+        },
+        "yellow_cards": {
+          "Mallorca": "2",
+          "Valladolid": "2"
+        },
+        "goalkeeper_saves": {
+          "Mallorca": "1",
+          "Valladolid": "1"
+        },
+        "ball_possession": {
+          "Mallorca": "48%",
+          "Valladolid": "52%"
+        }
+      },
+      "description": "Watch Mallorca vs Valladolid highlights and goals from Segunda División on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The atmosphere was electric on August 15, 2026, as Mallorca and Valladolid faced off in a highly anticipated Segunda División fixture. Both teams entered the pitch looking to establish early-season momentum in a contest that promised tactical discipline and high energy. A Cautious Opening Half The first half was a testament to defensive organization, with both sides struggling to find a breakthrough in the final third. Valladolid 's Miguel Calatayud received the first booking of the match in the 36th minute as the physical intensity ramped up. Just before the interval, Mallorca 's Sergi Darder was also shown a yellow card during stoppage time, epitomizing a tense first 45 minutes where clear-cut chances were at a premium and the score remained level. Second Half Breakthrough The game sparked into life after the restart as Mallorca began to turn the screw. Valladolid found themselves under significant pressure, leading to quick-fire yellow cards for David Torres and Ramon Martinez . The deadlock was finally broken in the 62nd minute when Pablo Torre found the target, sending the home crowd into raptures. Sensing an opportunity to consolidate, Mallorca made a triple substitution shortly after, bringing on Alex Sala , Adrian Liso , and Mateu y to maintain their dominance. Sealing the Victory The tactical changes paid immediate dividends. In the 72nd minute, substitute Alex Sala provided a perfect assist for Antonio Raillo , who doubled the lead with a clinical finish. Valladolid attempted to claw their way back with several substitutions of their own, including the introduction of Jorge Delgado and Mathis Lachuer , but they could not find a way through the resilient Mallorca backline. After six minutes of added time, the referee brought the contest to a close, confirming a professional and well-earned victory for the hosts."
+    },
     {
       "title": "Groningen vs Valladolid",
       "thumbnail_url": "https://img.refooty.com/thumbnail/groningen-vs-valladolid-2026-08-02-FB9I.webp",
