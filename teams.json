@@ -2,6 +2,20 @@
   "Total_Teams": 607,
   "teams": [
     {
+      "name": "Manchester United",
+      "slug": "manchester-united",
+      "logo": "https://img.refooty.com/logo/teams/33.webp",
+      "total_matches": 5,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/manchester-united.json"
+    },
+    {
+      "name": "Ac Milan",
+      "slug": "ac-milan",
+      "logo": "https://img.refooty.com/logo/teams/489.webp",
+      "total_matches": 5,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ac-milan.json"
+    },
+    {
       "name": "Chelsea",
       "slug": "chelsea",
       "logo": "https://img.refooty.com/logo/teams/49.webp",
@@ -940,13 +954,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/real-madrid.json"
     },
     {
-      "name": "Manchester United",
-      "slug": "manchester-united",
-      "logo": "https://img.refooty.com/logo/teams/33.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/manchester-united.json"
-    },
-    {
       "name": "Leeds",
       "slug": "leeds",
       "logo": "https://img.refooty.com/logo/teams/63.webp",
@@ -1360,11 +1367,536 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ksk-beveren.json"
     },
     {
-      "name": "Remo",
-      "slug": "remo",
-      "logo": "https://img.refooty.com/logo/teams/1198.webp",
+      "name": "Tottenham",
+      "slug": "tottenham",
+      "logo": "https://img.refooty.com/logo/teams/47.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/tottenham.json"
+    },
+    {
+      "name": "Girona",
+      "slug": "girona",
+      "logo": "https://img.refooty.com/logo/teams/547.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/girona.json"
+    },
+    {
+      "name": "Falkirk",
+      "slug": "falkirk",
+      "logo": "https://img.refooty.com/logo/teams/1389.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/falkirk.json"
+    },
+    {
+      "name": "St Mirren",
+      "slug": "st-mirren",
+      "logo": "https://img.refooty.com/logo/teams/251.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/st-mirren.json"
+    },
+    {
+      "name": "Manchester City",
+      "slug": "manchester-city",
+      "logo": "https://img.refooty.com/logo/teams/50.webp",
       "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/remo.json"
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/manchester-city.json"
+    },
+    {
+      "name": "Inter",
+      "slug": "inter",
+      "logo": "https://img.refooty.com/logo/teams/505.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/inter.json"
+    },
+    {
+      "name": "Aberdeen",
+      "slug": "aberdeen",
+      "logo": "https://img.refooty.com/logo/teams/252.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/aberdeen.json"
+    },
+    {
+      "name": "Independiente",
+      "slug": "independiente",
+      "logo": "https://img.refooty.com/logo/teams/453.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/independiente.json"
+    },
+    {
+      "name": "Gimnasia Lp",
+      "slug": "gimnasia-lp",
+      "logo": "https://img.refooty.com/logo/teams/434.webp",
+      "total_matches": 6,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/gimnasia-lp.json"
+    },
+    {
+      "name": "Atletico Tucuman",
+      "slug": "atletico-tucuman",
+      "logo": "https://img.refooty.com/logo/teams/455.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/atletico-tucuman.json"
+    },
+    {
+      "name": "Velez Sarsfield",
+      "slug": "velez-sarsfield",
+      "logo": "https://img.refooty.com/logo/teams/438.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/velez-sarsfield.json"
+    },
+    {
+      "name": "Fc St. Gallen",
+      "slug": "fc-st-gallen",
+      "logo": "https://img.refooty.com/logo/teams/1011.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-st-gallen.json"
+    },
+    {
+      "name": "Parma",
+      "slug": "parma",
+      "logo": "https://img.refooty.com/logo/teams/523.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/parma.json"
+    },
+    {
+      "name": "Doncaster",
+      "slug": "doncaster",
+      "logo": "https://img.refooty.com/logo/teams/1354.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/doncaster.json"
+    },
+    {
+      "name": "Bromley",
+      "slug": "bromley",
+      "logo": "https://img.refooty.com/logo/teams/1832.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bromley.json"
+    },
+    {
+      "name": "Qpr",
+      "slug": "qpr",
+      "logo": "https://img.refooty.com/logo/teams/72.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/qpr.json"
+    },
+    {
+      "name": "Nice",
+      "slug": "nice",
+      "logo": "https://img.refooty.com/logo/teams/84.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/nice.json"
+    },
+    {
+      "name": "Crystal Palace",
+      "slug": "crystal-palace",
+      "logo": "https://img.refooty.com/logo/teams/52.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/crystal-palace.json"
+    },
+    {
+      "name": "Al Ula Fc",
+      "slug": "al-ula-fc",
+      "logo": "https://volleybox.net/media/upload/teams/big_1727423282X0qWP.png",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/al-ula-fc.json"
+    },
+    {
+      "name": "Sevilla",
+      "slug": "sevilla",
+      "logo": "https://img.refooty.com/logo/teams/536.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sevilla.json"
+    },
+    {
+      "name": "Dundee Utd",
+      "slug": "dundee-utd",
+      "logo": "https://img.refooty.com/logo/teams/1386.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dundee-utd.json"
+    },
+    {
+      "name": "Arema Fc",
+      "slug": "arema-fc",
+      "logo": "https://img.refooty.com/logo/teams/2438.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/arema-fc.json"
+    },
+    {
+      "name": "Dpmm Fc",
+      "slug": "dpmm-fc",
+      "logo": "https://img.refooty.com/logo/teams/4202.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dpmm-fc.json"
+    },
+    {
+      "name": "Persib Bandung",
+      "slug": "persib-bandung",
+      "logo": "https://img.refooty.com/logo/teams/2445.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/persib-bandung.json"
+    },
+    {
+      "name": "Tampines Rovers",
+      "slug": "tampines-rovers",
+      "logo": "https://img.refooty.com/logo/teams/4206.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/tampines-rovers.json"
+    },
+    {
+      "name": "Sunderland",
+      "slug": "sunderland",
+      "logo": "https://img.refooty.com/logo/teams/746.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sunderland.json"
+    },
+    {
+      "name": "Birmingham",
+      "slug": "birmingham",
+      "logo": "https://img.refooty.com/logo/teams/54.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/birmingham.json"
+    },
+    {
+      "name": "Barcelona",
+      "slug": "barcelona",
+      "logo": "https://img.refooty.com/logo/teams/529.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/barcelona.json"
+    },
+    {
+      "name": "Vietnam",
+      "slug": "vietnam",
+      "logo": "https://img.refooty.com/logo/teams/1542.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/vietnam.json"
+    },
+    {
+      "name": "Singapore",
+      "slug": "singapore",
+      "logo": "https://img.refooty.com/logo/teams/1546.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/singapore.json"
+    },
+    {
+      "name": "Timor-Leste",
+      "slug": "timor-leste",
+      "logo": "https://img.refooty.com/logo/teams/5537.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/timor-leste.json"
+    },
+    {
+      "name": "Indonesia",
+      "slug": "indonesia",
+      "logo": "https://img.refooty.com/logo/teams/1571.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/indonesia.json"
+    },
+    {
+      "name": "Coritiba",
+      "slug": "coritiba",
+      "logo": "https://img.refooty.com/logo/teams/147.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/coritiba.json"
+    },
+    {
+      "name": "Cruzeiro",
+      "slug": "cruzeiro",
+      "logo": "https://img.refooty.com/logo/teams/135.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/cruzeiro.json"
+    },
+    {
+      "name": "Corinthians",
+      "slug": "corinthians",
+      "logo": "https://img.refooty.com/logo/teams/131.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/corinthians.json"
+    },
+    {
+      "name": "Athletico Paranaense",
+      "slug": "athletico-paranaense",
+      "logo": "https://img.refooty.com/logo/teams/134.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/athletico-paranaense.json"
+    },
+    {
+      "name": "Aris Thessaloniki",
+      "slug": "aris-thessaloniki",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/6/6f/Aris_fc.png",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/aris-thessaloniki.json"
+    },
+    {
+      "name": "Coleraine Fc",
+      "slug": "coleraine-fc",
+      "logo": "",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/coleraine-fc.json"
+    },
+    {
+      "name": "Hjk",
+      "slug": "hjk",
+      "logo": "https://img.refooty.com/logo/teams/13990.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hjk.json"
+    },
+    {
+      "name": "Hammarby Ff",
+      "slug": "hammarby-ff",
+      "logo": "https://img.refooty.com/logo/teams/363.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hammarby-ff.json"
+    },
+    {
+      "name": "Sydney Olympic",
+      "slug": "sydney-olympic",
+      "logo": "https://img.refooty.com/logo/teams/3774.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sydney-olympic.json"
+    },
+    {
+      "name": "Brisbane Roar",
+      "slug": "brisbane-roar",
+      "logo": "https://img.refooty.com/logo/teams/947.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/brisbane-roar.json"
+    },
+    {
+      "name": "Al Ittihad Fc",
+      "slug": "al-ittihad-fc",
+      "logo": "https://img.refooty.com/logo/teams/2938.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/al-ittihad-fc.json"
+    },
+    {
+      "name": "South Melbourne",
+      "slug": "south-melbourne",
+      "logo": "https://img.refooty.com/logo/teams/3811.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/south-melbourne.json"
+    },
+    {
+      "name": "Adelaide United",
+      "slug": "adelaide-united",
+      "logo": "https://img.refooty.com/logo/teams/948.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/adelaide-united.json"
+    },
+    {
+      "name": "Fc Rottach-Egern",
+      "slug": "fc-rottach-egern",
+      "logo": "https://img.fcbayern.com/image/upload/f_auto/q_auto/t_cms-1x1-seo-thumbnail/v1601390539/cms/public/images/fcbayern-com/logos/sonstige/rottach-egern.png",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-rottach-egern.json"
+    },
+    {
+      "name": "Bayern München",
+      "slug": "bayern-münchen",
+      "logo": "https://img.refooty.com/logo/teams/157.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bayern-münchen.json"
+    },
+    {
+      "name": "Hibernian",
+      "slug": "hibernian",
+      "logo": "https://img.refooty.com/logo/teams/249.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hibernian.json"
+    },
+    {
+      "name": "Malisheva",
+      "slug": "malisheva",
+      "logo": "https://img.refooty.com/logo/teams/15576.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/malisheva.json"
+    },
+    {
+      "name": "Watford",
+      "slug": "watford",
+      "logo": "https://img.refooty.com/logo/teams/38.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/watford.json"
+    },
+    {
+      "name": "Trabzonspor",
+      "slug": "trabzonspor",
+      "logo": "https://img.refooty.com/logo/teams/998.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/trabzonspor.json"
+    },
+    {
+      "name": "Al Sadd",
+      "slug": "al-sadd",
+      "logo": "https://img.refooty.com/logo/teams/2895.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/al-sadd.json"
+    },
+    {
+      "name": "Istanbul Basaksehir",
+      "slug": "istanbul-basaksehir",
+      "logo": "https://img.refooty.com/logo/teams/564.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/istanbul-basaksehir.json"
+    },
+    {
+      "name": "Fc Midtjylland",
+      "slug": "fc-midtjylland",
+      "logo": "https://img.refooty.com/logo/teams/397.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-midtjylland.json"
+    },
+    {
+      "name": "Paksi Se",
+      "slug": "paksi-se",
+      "logo": "https://img.refooty.com/logo/teams/11856.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/paksi-se.json"
+    },
+    {
+      "name": "Derry City",
+      "slug": "derry-city",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/derry-city.json"
+    },
+    {
+      "name": "Hnk Rijeka",
+      "slug": "hnk-rijeka",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hnk-rijeka.json"
+    },
+    {
+      "name": "Cfr Cluj Ii",
+      "slug": "cfr-cluj-ii",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/cfr-cluj-ii.json"
+    },
+    {
+      "name": "Alashkert",
+      "slug": "alashkert",
+      "logo": "",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/alashkert.json"
+    },
+    {
+      "name": "Universitatea Cluj",
+      "slug": "universitatea-cluj",
+      "logo": "https://img.refooty.com/logo/teams/2599.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/universitatea-cluj.json"
+    },
+    {
+      "name": "Fk Jablonec",
+      "slug": "fk-jablonec",
+      "logo": "",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fk-jablonec.json"
+    },
+    {
+      "name": "Nk Varazdin",
+      "slug": "nk-varazdin",
+      "logo": "",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/nk-varazdin.json"
+    },
+    {
+      "name": "Fk Zalgiris Vilnius",
+      "slug": "fk-zalgiris-vilnius",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fk-zalgiris-vilnius.json"
+    },
+    {
+      "name": "Dinamo Tbilisi",
+      "slug": "dinamo-tbilisi",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dinamo-tbilisi.json"
+    },
+    {
+      "name": "Ludogorets",
+      "slug": "ludogorets",
+      "logo": "https://img.refooty.com/logo/teams/566.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ludogorets.json"
+    },
+    {
+      "name": "Hapoel Tel Aviv",
+      "slug": "hapoel-tel-aviv",
+      "logo": "https://img.refooty.com/logo/teams/4501.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hapoel-tel-aviv.json"
+    },
+    {
+      "name": "Aek Athens Fc",
+      "slug": "aek-athens-fc",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/aek-athens-fc.json"
+    },
+    {
+      "name": "Wrexham",
+      "slug": "wrexham",
+      "logo": "https://img.refooty.com/logo/teams/1837.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/wrexham.json"
+    },
+    {
+      "name": "Liverpool",
+      "slug": "liverpool",
+      "logo": "https://img.refooty.com/logo/teams/40.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/liverpool.json"
+    },
+    {
+      "name": "Zimbru",
+      "slug": "zimbru",
+      "logo": "",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/zimbru.json"
+    },
+    {
+      "name": "Bsc Young Boys",
+      "slug": "bsc-young-boys",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bsc-young-boys.json"
+    },
+    {
+      "name": "Fk Liepaja",
+      "slug": "fk-liepaja",
+      "logo": "",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fk-liepaja.json"
+    },
+    {
+      "name": "Ballkani",
+      "slug": "ballkani",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ballkani.json"
+    },
+    {
+      "name": "Bohemians",
+      "slug": "bohemians",
+      "logo": "https://img.refooty.com/logo/teams/3840.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bohemians.json"
+    },
+    {
+      "name": "Hnk Hajduk Split",
+      "slug": "hnk-hajduk-split",
+      "logo": "https://img.refooty.com/logo/teams/608.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hnk-hajduk-split.json"
+    },
+    {
+      "name": "Vojvodina",
+      "slug": "vojvodina",
+      "logo": "https://img.refooty.com/logo/teams/702.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/vojvodina.json"
     },
     {
       "name": "Vitoria",
@@ -1379,6 +1911,545 @@
       "logo": "https://img.refooty.com/logo/teams/121.webp",
       "total_matches": 3,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/palmeiras.json"
+    },
+    {
+      "name": "Mls All-Stars",
+      "slug": "mls-all-stars",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9817.png",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/mls-all-stars.json"
+    },
+    {
+      "name": "Liga Mx All-Stars",
+      "slug": "liga-mx-all-stars",
+      "logo": "https://images.mlssoccer.com/image/upload/t_q-best/v1629144633/assets/competitions/all-star-game/liga-mx-all-stars-480.png",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/liga-mx-all-stars.json"
+    },
+    {
+      "name": "Fluminense",
+      "slug": "fluminense",
+      "logo": "https://img.refooty.com/logo/teams/124.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fluminense.json"
+    },
+    {
+      "name": "Bahia",
+      "slug": "bahia",
+      "logo": "https://img.refooty.com/logo/teams/118.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bahia.json"
+    },
+    {
+      "name": "Internacional",
+      "slug": "internacional",
+      "logo": "https://img.refooty.com/logo/teams/119.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/internacional.json"
+    },
+    {
+      "name": "Flamengo",
+      "slug": "flamengo",
+      "logo": "https://img.refooty.com/logo/teams/127.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/flamengo.json"
+    },
+    {
+      "name": "Mirassol",
+      "slug": "mirassol",
+      "logo": "https://img.refooty.com/logo/teams/7848.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/mirassol.json"
+    },
+    {
+      "name": "Remo",
+      "slug": "remo",
+      "logo": "https://img.refooty.com/logo/teams/1198.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/remo.json"
+    },
+    {
+      "name": "Utrecht",
+      "slug": "utrecht",
+      "logo": "https://img.refooty.com/logo/teams/207.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/utrecht.json"
+    },
+    {
+      "name": "Al Shahaniya",
+      "slug": "al-shahaniya",
+      "logo": "https://img.refooty.com/logo/teams/2893.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/al-shahaniya.json"
+    },
+    {
+      "name": "Fc Copenhagen",
+      "slug": "fc-copenhagen",
+      "logo": "https://img.refooty.com/logo/teams/400.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-copenhagen.json"
+    },
+    {
+      "name": "Polissya",
+      "slug": "polissya",
+      "logo": "https://img.refooty.com/logo/teams/24589.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/polissya.json"
+    },
+    {
+      "name": "Dukagjini",
+      "slug": "dukagjini",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dukagjini.json"
+    },
+    {
+      "name": "Fc Lugano",
+      "slug": "fc-lugano",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-lugano.json"
+    },
+    {
+      "name": "Fenerbahce",
+      "slug": "fenerbahce",
+      "logo": "https://img.refooty.com/logo/teams/611.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fenerbahce.json"
+    },
+    {
+      "name": "Kauno Žalgiris",
+      "slug": "kauno-žalgiris",
+      "logo": "https://img.refooty.com/logo/teams/3872.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/kauno-žalgiris.json"
+    },
+    {
+      "name": "Ki Klaksvik",
+      "slug": "ki-klaksvik",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ki-klaksvik.json"
+    },
+    {
+      "name": "Villarreal",
+      "slug": "villarreal",
+      "logo": "https://img.refooty.com/logo/teams/533.webp",
+      "total_matches": 5,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/villarreal.json"
+    },
+    {
+      "name": "Racing Santander",
+      "slug": "racing-santander",
+      "logo": "https://img.refooty.com/logo/teams/4665.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/racing-santander.json"
+    },
+    {
+      "name": "Real Betis",
+      "slug": "real-betis",
+      "logo": "https://img.refooty.com/logo/teams/543.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/real-betis.json"
+    },
+    {
+      "name": "Lyon",
+      "slug": "lyon",
+      "logo": "https://img.refooty.com/logo/teams/80.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/lyon.json"
+    },
+    {
+      "name": "Cerezo Osaka",
+      "slug": "cerezo-osaka",
+      "logo": "https://img.refooty.com/logo/teams/291.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/cerezo-osaka.json"
+    },
+    {
+      "name": "Borussia Dortmund",
+      "slug": "borussia-dortmund",
+      "logo": "https://img.refooty.com/logo/teams/165.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/borussia-dortmund.json"
+    },
+    {
+      "name": "Lecce",
+      "slug": "lecce",
+      "logo": "https://img.refooty.com/logo/teams/867.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/lecce.json"
+    },
+    {
+      "name": "Bistrica",
+      "slug": "bistrica",
+      "logo": "https://img.refooty.com/logo/teams/6718.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bistrica.json"
+    },
+    {
+      "name": "Psms Medan",
+      "slug": "psms-medan",
+      "logo": "https://img.refooty.com/logo/teams/2447.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/psms-medan.json"
+    },
+    {
+      "name": "Persebaya Surabaya",
+      "slug": "persebaya-surabaya",
+      "logo": "https://img.refooty.com/logo/teams/2446.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/persebaya-surabaya.json"
+    },
+    {
+      "name": "Burnley",
+      "slug": "burnley",
+      "logo": "https://img.refooty.com/logo/teams/44.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/burnley.json"
+    },
+    {
+      "name": "Espanyol",
+      "slug": "espanyol",
+      "logo": "https://img.refooty.com/logo/teams/540.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/espanyol.json"
+    },
+    {
+      "name": "Rapid",
+      "slug": "rapid",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/rapid.json"
+    },
+    {
+      "name": "Fc Santa Coloma",
+      "slug": "fc-santa-coloma",
+      "logo": "",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-santa-coloma.json"
+    },
+    {
+      "name": "Bristol City",
+      "slug": "bristol-city",
+      "logo": "https://img.refooty.com/logo/teams/56.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bristol-city.json"
+    },
+    {
+      "name": "Kickers Offenbach",
+      "slug": "kickers-offenbach",
+      "logo": "https://img.refooty.com/logo/teams/1628.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/kickers-offenbach.json"
+    },
+    {
+      "name": "Vfb Stuttgart",
+      "slug": "vfb-stuttgart",
+      "logo": "https://img.refooty.com/logo/teams/172.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/vfb-stuttgart.json"
+    },
+    {
+      "name": "Lech Poznan",
+      "slug": "lech-poznan",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/lech-poznan.json"
+    },
+    {
+      "name": "Agf",
+      "slug": "agf",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/agf.json"
+    },
+    {
+      "name": "Vikingur Reykjavik",
+      "slug": "vikingur-reykjavik",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/vikingur-reykjavik.json"
+    },
+    {
+      "name": "Sydney",
+      "slug": "sydney",
+      "logo": "https://img.refooty.com/logo/teams/943.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sydney.json"
+    },
+    {
+      "name": "Port Fc",
+      "slug": "port-fc",
+      "logo": "https://img.refooty.com/logo/teams/2789.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/port-fc.json"
+    },
+    {
+      "name": "Persija Jakarta",
+      "slug": "persija-jakarta",
+      "logo": "https://img.refooty.com/logo/teams/2439.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/persija-jakarta.json"
+    },
+    {
+      "name": "Barracas Central",
+      "slug": "barracas-central",
+      "logo": "https://img.refooty.com/logo/teams/2432.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/barracas-central.json"
+    },
+    {
+      "name": "Aldosivi",
+      "slug": "aldosivi",
+      "logo": "https://img.refooty.com/logo/teams/463.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/aldosivi.json"
+    },
+    {
+      "name": "Argentinos Jrs",
+      "slug": "argentinos-jrs",
+      "logo": "https://img.refooty.com/logo/teams/458.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/argentinos-jrs.json"
+    },
+    {
+      "name": "Estudiantes L.P.",
+      "slug": "estudiantes-lp",
+      "logo": "https://img.refooty.com/logo/teams/450.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/estudiantes-lp.json"
+    },
+    {
+      "name": "Rosario Central",
+      "slug": "rosario-central",
+      "logo": "https://img.refooty.com/logo/teams/437.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/rosario-central.json"
+    },
+    {
+      "name": "San Lorenzo",
+      "slug": "san-lorenzo",
+      "logo": "https://img.refooty.com/logo/teams/460.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/san-lorenzo.json"
+    },
+    {
+      "name": "Gimnasia M.",
+      "slug": "gimnasia-m",
+      "logo": "https://img.refooty.com/logo/teams/1066.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/gimnasia-m.json"
+    },
+    {
+      "name": "Sarmiento Junin",
+      "slug": "sarmiento-junin",
+      "logo": "https://img.refooty.com/logo/teams/474.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sarmiento-junin.json"
+    },
+    {
+      "name": "Tamworth",
+      "slug": "tamworth",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/tamworth.json"
+    },
+    {
+      "name": "Macclesfield",
+      "slug": "macclesfield",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/macclesfield.json"
+    },
+    {
+      "name": "Sutton United",
+      "slug": "sutton-united",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sutton-united.json"
+    },
+    {
+      "name": "Folkestone Invicta",
+      "slug": "folkestone-invicta",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/folkestone-invicta.json"
+    },
+    {
+      "name": "Modena",
+      "slug": "modena",
+      "logo": "https://img.refooty.com/logo/teams/899.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/modena.json"
+    },
+    {
+      "name": "Ratchaburi",
+      "slug": "ratchaburi",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ratchaburi.json"
+    },
+    {
+      "name": "Selangor",
+      "slug": "selangor",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/selangor.json"
+    },
+    {
+      "name": "Lens",
+      "slug": "lens",
+      "logo": "https://img.refooty.com/logo/teams/116.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/lens.json"
+    },
+    {
+      "name": "Psv Eindhoven",
+      "slug": "psv-eindhoven",
+      "logo": "https://img.refooty.com/logo/teams/197.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/psv-eindhoven.json"
+    },
+    {
+      "name": "Fc Eindhoven",
+      "slug": "fc-eindhoven",
+      "logo": "https://img.refooty.com/logo/teams/422.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-eindhoven.json"
+    },
+    {
+      "name": "Stoke City",
+      "slug": "stoke-city",
+      "logo": "https://img.refooty.com/logo/teams/75.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/stoke-city.json"
+    },
+    {
+      "name": "Gori",
+      "slug": "gori",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/gori.json"
+    },
+    {
+      "name": "Ararat-Armenia",
+      "slug": "ararat-armenia",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ararat-armenia.json"
+    },
+    {
+      "name": "Drita",
+      "slug": "drita",
+      "logo": "",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/drita.json"
+    },
+    {
+      "name": "Floriana",
+      "slug": "floriana",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/floriana.json"
+    },
+    {
+      "name": "Dinamo Zagreb",
+      "slug": "dinamo-zagreb",
+      "logo": "https://img.refooty.com/logo/teams/620.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dinamo-zagreb.json"
+    },
+    {
+      "name": "Fc Thun",
+      "slug": "fc-thun",
+      "logo": "https://img.refooty.com/logo/teams/1012.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-thun.json"
+    },
+    {
+      "name": "Philippines",
+      "slug": "philippines",
+      "logo": "https://img.refooty.com/logo/teams/10953.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/philippines.json"
+    },
+    {
+      "name": "Myanmar",
+      "slug": "myanmar",
+      "logo": "https://img.refooty.com/logo/teams/1556.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/myanmar.json"
+    },
+    {
+      "name": "Malaysia",
+      "slug": "malaysia",
+      "logo": "https://img.refooty.com/logo/teams/1538.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/malaysia.json"
+    },
+    {
+      "name": "Laos",
+      "slug": "laos",
+      "logo": "https://img.refooty.com/logo/teams/1558.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/laos.json"
+    },
+    {
+      "name": "Western Sydney Wanderers",
+      "slug": "western-sydney-wanderers",
+      "logo": "https://img.refooty.com/logo/teams/939.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/western-sydney-wanderers.json"
+    },
+    {
+      "name": "Bursaspor",
+      "slug": "bursaspor",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bursaspor.json"
+    },
+    {
+      "name": "Shakhtar Donetsk",
+      "slug": "shakhtar-donetsk",
+      "logo": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/shakhtar-donetsk.json"
+    },
+    {
+      "name": "Monaco",
+      "slug": "monaco",
+      "logo": "https://img.refooty.com/logo/teams/91.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/monaco.json"
+    },
+    {
+      "name": "Venezia",
+      "slug": "venezia",
+      "logo": "https://img.refooty.com/logo/teams/517.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/venezia.json"
+    },
+    {
+      "name": "Feyenoord",
+      "slug": "feyenoord",
+      "logo": "https://img.refooty.com/logo/teams/209.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/feyenoord.json"
+    },
+    {
+      "name": "Rayo Vallecano",
+      "slug": "rayo-vallecano",
+      "logo": "https://img.refooty.com/logo/teams/728.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/rayo-vallecano.json"
+    },
+    {
+      "name": "Cambodia",
+      "slug": "cambodia",
+      "logo": "https://img.refooty.com/logo/teams/1543.webp",
+      "total_matches": 4,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/cambodia.json"
     },
     {
       "name": "Atletico Mg",
@@ -1409,25 +2480,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/gremio.json"
     },
     {
-      "name": "Fluminense",
-      "slug": "fluminense",
-      "logo": "https://img.refooty.com/logo/teams/124.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fluminense.json"
-    },
-    {
       "name": "Rb Bragantino",
       "slug": "rb-bragantino",
       "logo": "https://img.refooty.com/logo/teams/794.webp",
       "total_matches": 2,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/rb-bragantino.json"
-    },
-    {
-      "name": "Coritiba",
-      "slug": "coritiba",
-      "logo": "https://img.refooty.com/logo/teams/147.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/coritiba.json"
     },
     {
       "name": "Fc Schalke 04",
@@ -1449,13 +2506,6 @@
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18794.png",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/wsg-swarovski-tirol.json"
-    },
-    {
-      "name": "Burnley",
-      "slug": "burnley",
-      "logo": "https://img.refooty.com/logo/teams/44.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/burnley.json"
     },
     {
       "name": "Torino",
@@ -1493,13 +2543,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/norwich.json"
     },
     {
-      "name": "Sevilla",
-      "slug": "sevilla",
-      "logo": "https://img.refooty.com/logo/teams/536.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sevilla.json"
-    },
-    {
       "name": "Ad Ceuta Fc",
       "slug": "ad-ceuta-fc",
       "logo": "https://img.refooty.com/logo/teams/10139.webp",
@@ -1512,13 +2555,6 @@
       "logo": "https://img.refooty.com/logo/teams/785.webp",
       "total_matches": 2,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/karlsruher-sc.json"
-    },
-    {
-      "name": "Inter",
-      "slug": "inter",
-      "logo": "https://img.refooty.com/logo/teams/505.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/inter.json"
     },
     {
       "name": "West Ham",
@@ -1535,53 +2571,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/carrarese.json"
     },
     {
-      "name": "Estudiantes L.P.",
-      "slug": "estudiantes-lp",
-      "logo": "https://img.refooty.com/logo/teams/450.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/estudiantes-lp.json"
-    },
-    {
-      "name": "Independiente",
-      "slug": "independiente",
-      "logo": "https://img.refooty.com/logo/teams/453.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/independiente.json"
-    },
-    {
-      "name": "Cruzeiro",
-      "slug": "cruzeiro",
-      "logo": "https://img.refooty.com/logo/teams/135.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/cruzeiro.json"
-    },
-    {
       "name": "Botafogo",
       "slug": "botafogo",
       "logo": "https://img.refooty.com/logo/teams/120.webp",
       "total_matches": 3,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/botafogo.json"
-    },
-    {
-      "name": "Bahia",
-      "slug": "bahia",
-      "logo": "https://img.refooty.com/logo/teams/118.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bahia.json"
-    },
-    {
-      "name": "Corinthians",
-      "slug": "corinthians",
-      "logo": "https://img.refooty.com/logo/teams/131.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/corinthians.json"
-    },
-    {
-      "name": "Atletico Tucuman",
-      "slug": "atletico-tucuman",
-      "logo": "https://img.refooty.com/logo/teams/455.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/atletico-tucuman.json"
     },
     {
       "name": "Independiente Rivadavia",
@@ -1640,20 +2634,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/vasco-da-gama.json"
     },
     {
-      "name": "Mirassol",
-      "slug": "mirassol",
-      "logo": "https://img.refooty.com/logo/teams/7848.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/mirassol.json"
-    },
-    {
-      "name": "San Lorenzo",
-      "slug": "san-lorenzo",
-      "logo": "https://img.refooty.com/logo/teams/460.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/san-lorenzo.json"
-    },
-    {
       "name": "Cf Montreal",
       "slug": "cf-montreal",
       "logo": "https://img.refooty.com/logo/teams/1614.webp",
@@ -1689,32 +2669,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/atlanta-united-fc.json"
     },
     {
-      "name": "Athletico Paranaense",
-      "slug": "athletico-paranaense",
-      "logo": "https://img.refooty.com/logo/teams/134.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/athletico-paranaense.json"
-    },
-    {
-      "name": "Internacional",
-      "slug": "internacional",
-      "logo": "https://img.refooty.com/logo/teams/119.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/internacional.json"
-    },
-    {
       "name": "River Plate",
       "slug": "river-plate",
       "logo": "https://img.refooty.com/logo/teams/435.webp",
       "total_matches": 2,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/river-plate.json"
-    },
-    {
-      "name": "Barracas Central",
-      "slug": "barracas-central",
-      "logo": "https://img.refooty.com/logo/teams/2432.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/barracas-central.json"
     },
     {
       "name": "Santos",
@@ -1878,20 +2837,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/auckland.json"
     },
     {
-      "name": "Tottenham",
-      "slug": "tottenham",
-      "logo": "https://img.refooty.com/logo/teams/47.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/tottenham.json"
-    },
-    {
-      "name": "Wrexham",
-      "slug": "wrexham",
-      "logo": "https://img.refooty.com/logo/teams/1837.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/wrexham.json"
-    },
-    {
       "name": "Indy Eleven",
       "slug": "indy-eleven",
       "logo": "https://img.refooty.com/logo/teams/3996.webp",
@@ -2032,13 +2977,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/west-bromwich-albion.json"
     },
     {
-      "name": "Qpr",
-      "slug": "qpr",
-      "logo": "https://img.refooty.com/logo/teams/72.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/qpr.json"
-    },
-    {
       "name": "Rotherham",
       "slug": "rotherham",
       "logo": "https://img.refooty.com/logo/teams/73.webp",
@@ -2051,13 +2989,6 @@
       "logo": "https://img.refooty.com/logo/teams/15407.webp",
       "total_matches": 3,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sheffield-united.json"
-    },
-    {
-      "name": "Watford",
-      "slug": "watford",
-      "logo": "https://img.refooty.com/logo/teams/38.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/watford.json"
     },
     {
       "name": "Hansa Rostock",
@@ -2081,39 +3012,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fortuna-düsseldorf.json"
     },
     {
-      "name": "Borussia Dortmund",
-      "slug": "borussia-dortmund",
-      "logo": "https://img.refooty.com/logo/teams/165.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/borussia-dortmund.json"
-    },
-    {
       "name": "Wehen Wiesbaden",
       "slug": "wehen-wiesbaden",
       "logo": "https://img.refooty.com/logo/teams/13964.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/wehen-wiesbaden.json"
-    },
-    {
-      "name": "Bayern München",
-      "slug": "bayern-münchen",
-      "logo": "https://img.refooty.com/logo/teams/157.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bayern-münchen.json"
-    },
-    {
-      "name": "Liverpool",
-      "slug": "liverpool",
-      "logo": "https://img.refooty.com/logo/teams/40.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/liverpool.json"
-    },
-    {
-      "name": "Sunderland",
-      "slug": "sunderland",
-      "logo": "https://img.refooty.com/logo/teams/746.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sunderland.json"
     },
     {
       "name": "Fc Porto",
@@ -2151,46 +3054,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/celtic.json"
     },
     {
-      "name": "Ac Milan",
-      "slug": "ac-milan",
-      "logo": "https://img.refooty.com/logo/teams/489.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ac-milan.json"
-    },
-    {
-      "name": "Vfb Stuttgart",
-      "slug": "vfb-stuttgart",
-      "logo": "https://img.refooty.com/logo/teams/172.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/vfb-stuttgart.json"
-    },
-    {
       "name": "Hollenbach",
       "slug": "hollenbach",
       "logo": "https://img.refooty.com/logo/teams/17048.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hollenbach.json"
-    },
-    {
-      "name": "Myanmar",
-      "slug": "myanmar",
-      "logo": "https://img.refooty.com/logo/teams/1556.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/myanmar.json"
-    },
-    {
-      "name": "Malaysia",
-      "slug": "malaysia",
-      "logo": "https://img.refooty.com/logo/teams/1538.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/malaysia.json"
-    },
-    {
-      "name": "Laos",
-      "slug": "laos",
-      "logo": "https://img.refooty.com/logo/teams/1558.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/laos.json"
     },
     {
       "name": "Thailand",
@@ -2205,13 +3073,6 @@
       "logo": "https://img.refooty.com/logo/teams/457.webp",
       "total_matches": 3,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/newells-old-boys.json"
-    },
-    {
-      "name": "Gimnasia Lp",
-      "slug": "gimnasia-lp",
-      "logo": "https://img.refooty.com/logo/teams/434.webp",
-      "total_matches": 6,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/gimnasia-lp.json"
     },
     {
       "name": "Tigre",
@@ -2235,13 +3096,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/huracan.json"
     },
     {
-      "name": "Velez Sarsfield",
-      "slug": "velez-sarsfield",
-      "logo": "https://img.refooty.com/logo/teams/438.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/velez-sarsfield.json"
-    },
-    {
       "name": "Instituto Cordoba",
       "slug": "instituto-cordoba",
       "logo": "https://img.refooty.com/logo/teams/478.webp",
@@ -2256,34 +3110,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/alcorcon.json"
     },
     {
-      "name": "Hammarby Ff",
-      "slug": "hammarby-ff",
-      "logo": "https://img.refooty.com/logo/teams/363.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hammarby-ff.json"
-    },
-    {
-      "name": "Fc Santa Coloma",
-      "slug": "fc-santa-coloma",
-      "logo": "",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-santa-coloma.json"
-    },
-    {
-      "name": "Fk Liepaja",
-      "slug": "fk-liepaja",
-      "logo": "",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fk-liepaja.json"
-    },
-    {
-      "name": "Paksi Se",
-      "slug": "paksi-se",
-      "logo": "https://img.refooty.com/logo/teams/11856.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/paksi-se.json"
-    },
-    {
       "name": "Sc Freiburg",
       "slug": "sc-freiburg",
       "logo": "https://img.refooty.com/logo/teams/160.webp",
@@ -2296,13 +3122,6 @@
       "logo": "https://img.refooty.com/logo/teams/69.webp",
       "total_matches": 4,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/derby-county.json"
-    },
-    {
-      "name": "Hnk Hajduk Split",
-      "slug": "hnk-hajduk-split",
-      "logo": "https://img.refooty.com/logo/teams/608.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hnk-hajduk-split.json"
     },
     {
       "name": "Vfl Wolfsburg",
@@ -2340,67 +3159,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/st-pauli.json"
     },
     {
-      "name": "Cambodia",
-      "slug": "cambodia",
-      "logo": "https://img.refooty.com/logo/teams/1543.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/cambodia.json"
-    },
-    {
-      "name": "Singapore",
-      "slug": "singapore",
-      "logo": "https://img.refooty.com/logo/teams/1546.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/singapore.json"
-    },
-    {
-      "name": "Timor-Leste",
-      "slug": "timor-leste",
-      "logo": "https://img.refooty.com/logo/teams/5537.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/timor-leste.json"
-    },
-    {
-      "name": "Vietnam",
-      "slug": "vietnam",
-      "logo": "https://img.refooty.com/logo/teams/1542.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/vietnam.json"
-    },
-    {
       "name": "Defensa Y Justicia",
       "slug": "defensa-y-justicia",
       "logo": "https://img.refooty.com/logo/teams/442.webp",
       "total_matches": 3,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/defensa-y-justicia.json"
-    },
-    {
-      "name": "Aldosivi",
-      "slug": "aldosivi",
-      "logo": "https://img.refooty.com/logo/teams/463.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/aldosivi.json"
-    },
-    {
-      "name": "Sarmiento Junin",
-      "slug": "sarmiento-junin",
-      "logo": "https://img.refooty.com/logo/teams/474.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sarmiento-junin.json"
-    },
-    {
-      "name": "Argentinos Jrs",
-      "slug": "argentinos-jrs",
-      "logo": "https://img.refooty.com/logo/teams/458.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/argentinos-jrs.json"
-    },
-    {
-      "name": "Rosario Central",
-      "slug": "rosario-central",
-      "logo": "https://img.refooty.com/logo/teams/437.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/rosario-central.json"
     },
     {
       "name": "New York Red Bulls",
@@ -2417,25 +3180,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/tromsø-il.json"
     },
     {
-      "name": "Alashkert",
-      "slug": "alashkert",
-      "logo": "",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/alashkert.json"
-    },
-    {
       "name": "Cfr 1907 Cluj",
       "slug": "cfr-1907-cluj",
       "logo": "",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/cfr-1907-cluj.json"
-    },
-    {
-      "name": "Zimbru",
-      "slug": "zimbru",
-      "logo": "",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/zimbru.json"
     },
     {
       "name": "Debreceni Vsc",
@@ -2466,20 +3215,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sc-braga.json"
     },
     {
-      "name": "Nk Varazdin",
-      "slug": "nk-varazdin",
-      "logo": "",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/nk-varazdin.json"
-    },
-    {
-      "name": "Fk Jablonec",
-      "slug": "fk-jablonec",
-      "logo": "",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fk-jablonec.json"
-    },
-    {
       "name": "Sheriff Tiraspol",
       "slug": "sheriff-tiraspol",
       "logo": "",
@@ -2492,27 +3227,6 @@
       "logo": "",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/maccabi.json"
-    },
-    {
-      "name": "Hjk",
-      "slug": "hjk",
-      "logo": "https://img.refooty.com/logo/teams/13990.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hjk.json"
-    },
-    {
-      "name": "Coleraine Fc",
-      "slug": "coleraine-fc",
-      "logo": "",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/coleraine-fc.json"
-    },
-    {
-      "name": "Fc Midtjylland",
-      "slug": "fc-midtjylland",
-      "logo": "https://img.refooty.com/logo/teams/397.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-midtjylland.json"
     },
     {
       "name": "Johor Darul Takzim Fc",
@@ -2529,20 +3243,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/abc.json"
     },
     {
-      "name": "Monaco",
-      "slug": "monaco",
-      "logo": "https://img.refooty.com/logo/teams/91.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/monaco.json"
-    },
-    {
-      "name": "Parma",
-      "slug": "parma",
-      "logo": "https://img.refooty.com/logo/teams/523.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/parma.json"
-    },
-    {
       "name": "Sampdoria",
       "slug": "sampdoria",
       "logo": "https://img.refooty.com/logo/teams/498.webp",
@@ -2555,13 +3255,6 @@
       "logo": "https://img.refooty.com/logo/teams/202.webp",
       "total_matches": 2,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/groningen.json"
-    },
-    {
-      "name": "Utrecht",
-      "slug": "utrecht",
-      "logo": "https://img.refooty.com/logo/teams/207.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/utrecht.json"
     },
     {
       "name": "Moreirense",
@@ -2590,13 +3283,6 @@
       "logo": "https://img.refooty.com/logo/teams/23192.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/swansea-city.json"
-    },
-    {
-      "name": "Birmingham",
-      "slug": "birmingham",
-      "logo": "https://img.refooty.com/logo/teams/54.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/birmingham.json"
     },
     {
       "name": "Crewe",
@@ -2718,13 +3404,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/heerenveen.json"
     },
     {
-      "name": "Manchester City",
-      "slug": "manchester-city",
-      "logo": "https://img.refooty.com/logo/teams/50.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/manchester-city.json"
-    },
-    {
       "name": "Frosinone",
       "slug": "frosinone",
       "logo": "https://img.refooty.com/logo/teams/512.webp",
@@ -2737,13 +3416,6 @@
       "logo": "https://img.refooty.com/logo/teams/4724.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/alverca.json"
-    },
-    {
-      "name": "Psv Eindhoven",
-      "slug": "psv-eindhoven",
-      "logo": "https://img.refooty.com/logo/teams/197.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/psv-eindhoven.json"
     },
     {
       "name": "Fortuna Sittard",
@@ -2760,13 +3432,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sparta-rotterdam.json"
     },
     {
-      "name": "Feyenoord",
-      "slug": "feyenoord",
-      "logo": "https://img.refooty.com/logo/teams/209.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/feyenoord.json"
-    },
-    {
       "name": "Pec Zwolle",
       "slug": "pec-zwolle",
       "logo": "https://img.refooty.com/logo/teams/193.webp",
@@ -2779,34 +3444,6 @@
       "logo": "https://img.refooty.com/logo/teams/250.webp",
       "total_matches": 2,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/kilmarnock.json"
-    },
-    {
-      "name": "Dundee Utd",
-      "slug": "dundee-utd",
-      "logo": "https://img.refooty.com/logo/teams/1386.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dundee-utd.json"
-    },
-    {
-      "name": "Falkirk",
-      "slug": "falkirk",
-      "logo": "https://img.refooty.com/logo/teams/1389.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/falkirk.json"
-    },
-    {
-      "name": "Hibernian",
-      "slug": "hibernian",
-      "logo": "https://img.refooty.com/logo/teams/249.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hibernian.json"
-    },
-    {
-      "name": "Gimnasia M.",
-      "slug": "gimnasia-m",
-      "logo": "https://img.refooty.com/logo/teams/1066.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/gimnasia-m.json"
     },
     {
       "name": "Guadalajara Chivas",
@@ -2921,13 +3558,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/rochdale.json"
     },
     {
-      "name": "Barcelona",
-      "slug": "barcelona",
-      "logo": "https://img.refooty.com/logo/teams/529.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/barcelona.json"
-    },
-    {
       "name": "Lincoln",
       "slug": "lincoln",
       "logo": "https://img.refooty.com/logo/teams/1379.webp",
@@ -2998,13 +3628,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/celta-vigo.json"
     },
     {
-      "name": "Real Betis",
-      "slug": "real-betis",
-      "logo": "https://img.refooty.com/logo/teams/543.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/real-betis.json"
-    },
-    {
       "name": "Cambridge United",
       "slug": "cambridge-united",
       "logo": "https://img.refooty.com/logo/teams/1370.webp",
@@ -3024,13 +3647,6 @@
       "logo": "https://img.refooty.com/logo/teams/1376.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/notts-county.json"
-    },
-    {
-      "name": "Stoke City",
-      "slug": "stoke-city",
-      "logo": "https://img.refooty.com/logo/teams/75.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/stoke-city.json"
     },
     {
       "name": "Oldham",
@@ -3066,13 +3682,6 @@
       "logo": "https://img.refooty.com/logo/teams/1362.webp",
       "total_matches": 2,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/crawley-town.json"
-    },
-    {
-      "name": "Lens",
-      "slug": "lens",
-      "logo": "https://img.refooty.com/logo/teams/116.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/lens.json"
     },
     {
       "name": "Getafe",
@@ -3152,13 +3761,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/estrela.json"
     },
     {
-      "name": "Philippines",
-      "slug": "philippines",
-      "logo": "https://img.refooty.com/logo/teams/10953.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/philippines.json"
-    },
-    {
       "name": "Ipswich",
       "slug": "ipswich",
       "logo": "https://img.refooty.com/logo/teams/22895.webp",
@@ -3166,25 +3768,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ipswich.json"
     },
     {
-      "name": "Rayo Vallecano",
-      "slug": "rayo-vallecano",
-      "logo": "https://img.refooty.com/logo/teams/728.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/rayo-vallecano.json"
-    },
-    {
       "name": "1.Fc Köln",
       "slug": "1fc-köln",
       "logo": "https://img.refooty.com/logo/teams/192.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/1fc-köln.json"
-    },
-    {
-      "name": "Villarreal",
-      "slug": "villarreal",
-      "logo": "https://img.refooty.com/logo/teams/533.webp",
-      "total_matches": 5,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/villarreal.json"
     },
     {
       "name": "Portsmouth",
@@ -3222,20 +3810,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dundee-fc.json"
     },
     {
-      "name": "Aberdeen",
-      "slug": "aberdeen",
-      "logo": "https://img.refooty.com/logo/teams/252.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/aberdeen.json"
-    },
-    {
-      "name": "St Mirren",
-      "slug": "st-mirren",
-      "logo": "https://img.refooty.com/logo/teams/251.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/st-mirren.json"
-    },
-    {
       "name": "St Johnstone",
       "slug": "st-johnstone",
       "logo": "https://img.refooty.com/logo/teams/258.webp",
@@ -3248,13 +3822,6 @@
       "logo": "https://img.refooty.com/logo/teams/2424.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/estudiantes-de-rio-cuarto.json"
-    },
-    {
-      "name": "Crystal Palace",
-      "slug": "crystal-palace",
-      "logo": "https://img.refooty.com/logo/teams/52.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/crystal-palace.json"
     },
     {
       "name": "Fc Gutersloh",
@@ -3341,20 +3908,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/livingston.json"
     },
     {
-      "name": "Indonesia",
-      "slug": "indonesia",
-      "logo": "https://img.refooty.com/logo/teams/1571.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/indonesia.json"
-    },
-    {
-      "name": "Bohemians",
-      "slug": "bohemians",
-      "logo": "https://img.refooty.com/logo/teams/3840.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bohemians.json"
-    },
-    {
       "name": "Kups",
       "slug": "kups",
       "logo": "",
@@ -3376,32 +3929,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/tre-fiori.json"
     },
     {
-      "name": "Drita",
-      "slug": "drita",
-      "logo": "",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/drita.json"
-    },
-    {
-      "name": "Fc Copenhagen",
-      "slug": "fc-copenhagen",
-      "logo": "https://img.refooty.com/logo/teams/400.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-copenhagen.json"
-    },
-    {
       "name": "Dinamo Minsk",
       "slug": "dinamo-minsk",
       "logo": "https://img.refooty.com/logo/teams/394.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dinamo-minsk.json"
-    },
-    {
-      "name": "Kauno Žalgiris",
-      "slug": "kauno-žalgiris",
-      "logo": "https://img.refooty.com/logo/teams/3872.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/kauno-žalgiris.json"
     },
     {
       "name": "Shkendija",
@@ -3453,13 +3985,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ferencvarosi-tc.json"
     },
     {
-      "name": "Fenerbahce",
-      "slug": "fenerbahce",
-      "logo": "https://img.refooty.com/logo/teams/611.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fenerbahce.json"
-    },
-    {
       "name": "Sturm Graz",
       "slug": "sturm-graz",
       "logo": "https://img.refooty.com/logo/teams/637.webp",
@@ -3509,34 +4034,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/mallorca.json"
     },
     {
-      "name": "Persib Bandung",
-      "slug": "persib-bandung",
-      "logo": "https://img.refooty.com/logo/teams/2445.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/persib-bandung.json"
-    },
-    {
-      "name": "Persija Jakarta",
-      "slug": "persija-jakarta",
-      "logo": "https://img.refooty.com/logo/teams/2439.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/persija-jakarta.json"
-    },
-    {
-      "name": "Persebaya Surabaya",
-      "slug": "persebaya-surabaya",
-      "logo": "https://img.refooty.com/logo/teams/2446.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/persebaya-surabaya.json"
-    },
-    {
-      "name": "Arema Fc",
-      "slug": "arema-fc",
-      "logo": "https://img.refooty.com/logo/teams/2438.webp",
-      "total_matches": 4,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/arema-fc.json"
-    },
-    {
       "name": "Jeju United Fc",
       "slug": "jeju-united-fc",
       "logo": "https://img.refooty.com/logo/teams/2761.webp",
@@ -3577,20 +4074,6 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/BG_Pathum_United_F.C._logo.svg/960px-BG_Pathum_United_F.C._logo.svg.png",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bg-pathum-united.json"
-    },
-    {
-      "name": "Dinamo Zagreb",
-      "slug": "dinamo-zagreb",
-      "logo": "https://img.refooty.com/logo/teams/620.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dinamo-zagreb.json"
-    },
-    {
-      "name": "Al Ula Fc",
-      "slug": "al-ula-fc",
-      "logo": "https://volleybox.net/media/upload/teams/big_1727423282X0qWP.png",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/al-ula-fc.json"
     },
     {
       "name": "York City Lfc",
@@ -3640,13 +4123,6 @@
       "logo": "",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/torreense.json"
-    },
-    {
-      "name": "Racing Santander",
-      "slug": "racing-santander",
-      "logo": "https://img.refooty.com/logo/teams/4665.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/racing-santander.json"
     },
     {
       "name": "Hessen Kassel",
@@ -3773,482 +4249,6 @@
       "logo": "https://img.refooty.com/logo/teams/292.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-tokyo.json"
-    },
-    {
-      "name": "Girona",
-      "slug": "girona",
-      "logo": "https://img.refooty.com/logo/teams/547.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/girona.json"
-    },
-    {
-      "name": "Fc St. Gallen",
-      "slug": "fc-st-gallen",
-      "logo": "https://img.refooty.com/logo/teams/1011.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-st-gallen.json"
-    },
-    {
-      "name": "Doncaster",
-      "slug": "doncaster",
-      "logo": "https://img.refooty.com/logo/teams/1354.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/doncaster.json"
-    },
-    {
-      "name": "Bromley",
-      "slug": "bromley",
-      "logo": "https://img.refooty.com/logo/teams/1832.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bromley.json"
-    },
-    {
-      "name": "Nice",
-      "slug": "nice",
-      "logo": "https://img.refooty.com/logo/teams/84.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/nice.json"
-    },
-    {
-      "name": "Dpmm Fc",
-      "slug": "dpmm-fc",
-      "logo": "https://img.refooty.com/logo/teams/4202.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dpmm-fc.json"
-    },
-    {
-      "name": "Tampines Rovers",
-      "slug": "tampines-rovers",
-      "logo": "https://img.refooty.com/logo/teams/4206.webp",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/tampines-rovers.json"
-    },
-    {
-      "name": "Aris Thessaloniki",
-      "slug": "aris-thessaloniki",
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/6/6f/Aris_fc.png",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/aris-thessaloniki.json"
-    },
-    {
-      "name": "Sydney Olympic",
-      "slug": "sydney-olympic",
-      "logo": "https://img.refooty.com/logo/teams/3774.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sydney-olympic.json"
-    },
-    {
-      "name": "Brisbane Roar",
-      "slug": "brisbane-roar",
-      "logo": "https://img.refooty.com/logo/teams/947.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/brisbane-roar.json"
-    },
-    {
-      "name": "Al Ittihad Fc",
-      "slug": "al-ittihad-fc",
-      "logo": "https://img.refooty.com/logo/teams/2938.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/al-ittihad-fc.json"
-    },
-    {
-      "name": "South Melbourne",
-      "slug": "south-melbourne",
-      "logo": "https://img.refooty.com/logo/teams/3811.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/south-melbourne.json"
-    },
-    {
-      "name": "Adelaide United",
-      "slug": "adelaide-united",
-      "logo": "https://img.refooty.com/logo/teams/948.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/adelaide-united.json"
-    },
-    {
-      "name": "Fc Rottach-Egern",
-      "slug": "fc-rottach-egern",
-      "logo": "https://img.fcbayern.com/image/upload/f_auto/q_auto/t_cms-1x1-seo-thumbnail/v1601390539/cms/public/images/fcbayern-com/logos/sonstige/rottach-egern.png",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-rottach-egern.json"
-    },
-    {
-      "name": "Malisheva",
-      "slug": "malisheva",
-      "logo": "https://img.refooty.com/logo/teams/15576.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/malisheva.json"
-    },
-    {
-      "name": "Trabzonspor",
-      "slug": "trabzonspor",
-      "logo": "https://img.refooty.com/logo/teams/998.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/trabzonspor.json"
-    },
-    {
-      "name": "Al Sadd",
-      "slug": "al-sadd",
-      "logo": "https://img.refooty.com/logo/teams/2895.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/al-sadd.json"
-    },
-    {
-      "name": "Istanbul Basaksehir",
-      "slug": "istanbul-basaksehir",
-      "logo": "https://img.refooty.com/logo/teams/564.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/istanbul-basaksehir.json"
-    },
-    {
-      "name": "Derry City",
-      "slug": "derry-city",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/derry-city.json"
-    },
-    {
-      "name": "Hnk Rijeka",
-      "slug": "hnk-rijeka",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hnk-rijeka.json"
-    },
-    {
-      "name": "Cfr Cluj Ii",
-      "slug": "cfr-cluj-ii",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/cfr-cluj-ii.json"
-    },
-    {
-      "name": "Universitatea Cluj",
-      "slug": "universitatea-cluj",
-      "logo": "https://img.refooty.com/logo/teams/2599.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/universitatea-cluj.json"
-    },
-    {
-      "name": "Fk Zalgiris Vilnius",
-      "slug": "fk-zalgiris-vilnius",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fk-zalgiris-vilnius.json"
-    },
-    {
-      "name": "Dinamo Tbilisi",
-      "slug": "dinamo-tbilisi",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dinamo-tbilisi.json"
-    },
-    {
-      "name": "Ludogorets",
-      "slug": "ludogorets",
-      "logo": "https://img.refooty.com/logo/teams/566.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ludogorets.json"
-    },
-    {
-      "name": "Hapoel Tel Aviv",
-      "slug": "hapoel-tel-aviv",
-      "logo": "https://img.refooty.com/logo/teams/4501.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/hapoel-tel-aviv.json"
-    },
-    {
-      "name": "Aek Athens Fc",
-      "slug": "aek-athens-fc",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/aek-athens-fc.json"
-    },
-    {
-      "name": "Bsc Young Boys",
-      "slug": "bsc-young-boys",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bsc-young-boys.json"
-    },
-    {
-      "name": "Ballkani",
-      "slug": "ballkani",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ballkani.json"
-    },
-    {
-      "name": "Vojvodina",
-      "slug": "vojvodina",
-      "logo": "https://img.refooty.com/logo/teams/702.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/vojvodina.json"
-    },
-    {
-      "name": "Mls All-Stars",
-      "slug": "mls-all-stars",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9817.png",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/mls-all-stars.json"
-    },
-    {
-      "name": "Liga Mx All-Stars",
-      "slug": "liga-mx-all-stars",
-      "logo": "https://images.mlssoccer.com/image/upload/t_q-best/v1629144633/assets/competitions/all-star-game/liga-mx-all-stars-480.png",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/liga-mx-all-stars.json"
-    },
-    {
-      "name": "Flamengo",
-      "slug": "flamengo",
-      "logo": "https://img.refooty.com/logo/teams/127.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/flamengo.json"
-    },
-    {
-      "name": "Al Shahaniya",
-      "slug": "al-shahaniya",
-      "logo": "https://img.refooty.com/logo/teams/2893.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/al-shahaniya.json"
-    },
-    {
-      "name": "Polissya",
-      "slug": "polissya",
-      "logo": "https://img.refooty.com/logo/teams/24589.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/polissya.json"
-    },
-    {
-      "name": "Dukagjini",
-      "slug": "dukagjini",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/dukagjini.json"
-    },
-    {
-      "name": "Fc Lugano",
-      "slug": "fc-lugano",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-lugano.json"
-    },
-    {
-      "name": "Ki Klaksvik",
-      "slug": "ki-klaksvik",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ki-klaksvik.json"
-    },
-    {
-      "name": "Lyon",
-      "slug": "lyon",
-      "logo": "https://img.refooty.com/logo/teams/80.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/lyon.json"
-    },
-    {
-      "name": "Cerezo Osaka",
-      "slug": "cerezo-osaka",
-      "logo": "https://img.refooty.com/logo/teams/291.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/cerezo-osaka.json"
-    },
-    {
-      "name": "Lecce",
-      "slug": "lecce",
-      "logo": "https://img.refooty.com/logo/teams/867.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/lecce.json"
-    },
-    {
-      "name": "Bistrica",
-      "slug": "bistrica",
-      "logo": "https://img.refooty.com/logo/teams/6718.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bistrica.json"
-    },
-    {
-      "name": "Psms Medan",
-      "slug": "psms-medan",
-      "logo": "https://img.refooty.com/logo/teams/2447.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/psms-medan.json"
-    },
-    {
-      "name": "Espanyol",
-      "slug": "espanyol",
-      "logo": "https://img.refooty.com/logo/teams/540.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/espanyol.json"
-    },
-    {
-      "name": "Rapid",
-      "slug": "rapid",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/rapid.json"
-    },
-    {
-      "name": "Bristol City",
-      "slug": "bristol-city",
-      "logo": "https://img.refooty.com/logo/teams/56.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bristol-city.json"
-    },
-    {
-      "name": "Kickers Offenbach",
-      "slug": "kickers-offenbach",
-      "logo": "https://img.refooty.com/logo/teams/1628.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/kickers-offenbach.json"
-    },
-    {
-      "name": "Lech Poznan",
-      "slug": "lech-poznan",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/lech-poznan.json"
-    },
-    {
-      "name": "Agf",
-      "slug": "agf",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/agf.json"
-    },
-    {
-      "name": "Vikingur Reykjavik",
-      "slug": "vikingur-reykjavik",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/vikingur-reykjavik.json"
-    },
-    {
-      "name": "Sydney",
-      "slug": "sydney",
-      "logo": "https://img.refooty.com/logo/teams/943.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sydney.json"
-    },
-    {
-      "name": "Port Fc",
-      "slug": "port-fc",
-      "logo": "https://img.refooty.com/logo/teams/2789.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/port-fc.json"
-    },
-    {
-      "name": "Tamworth",
-      "slug": "tamworth",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/tamworth.json"
-    },
-    {
-      "name": "Macclesfield",
-      "slug": "macclesfield",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/macclesfield.json"
-    },
-    {
-      "name": "Sutton United",
-      "slug": "sutton-united",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/sutton-united.json"
-    },
-    {
-      "name": "Folkestone Invicta",
-      "slug": "folkestone-invicta",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/folkestone-invicta.json"
-    },
-    {
-      "name": "Modena",
-      "slug": "modena",
-      "logo": "https://img.refooty.com/logo/teams/899.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/modena.json"
-    },
-    {
-      "name": "Ratchaburi",
-      "slug": "ratchaburi",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ratchaburi.json"
-    },
-    {
-      "name": "Selangor",
-      "slug": "selangor",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/selangor.json"
-    },
-    {
-      "name": "Fc Eindhoven",
-      "slug": "fc-eindhoven",
-      "logo": "https://img.refooty.com/logo/teams/422.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-eindhoven.json"
-    },
-    {
-      "name": "Gori",
-      "slug": "gori",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/gori.json"
-    },
-    {
-      "name": "Ararat-Armenia",
-      "slug": "ararat-armenia",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/ararat-armenia.json"
-    },
-    {
-      "name": "Floriana",
-      "slug": "floriana",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/floriana.json"
-    },
-    {
-      "name": "Fc Thun",
-      "slug": "fc-thun",
-      "logo": "https://img.refooty.com/logo/teams/1012.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/fc-thun.json"
-    },
-    {
-      "name": "Western Sydney Wanderers",
-      "slug": "western-sydney-wanderers",
-      "logo": "https://img.refooty.com/logo/teams/939.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/western-sydney-wanderers.json"
-    },
-    {
-      "name": "Bursaspor",
-      "slug": "bursaspor",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/bursaspor.json"
-    },
-    {
-      "name": "Shakhtar Donetsk",
-      "slug": "shakhtar-donetsk",
-      "logo": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/shakhtar-donetsk.json"
-    },
-    {
-      "name": "Venezia",
-      "slug": "venezia",
-      "logo": "https://img.refooty.com/logo/teams/517.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/teams/venezia.json"
     }
   ]
 }
