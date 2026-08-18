@@ -1,9 +1,205 @@
 {
   "competition": "FIFA Club World Cup",
   "competition_cover": "https://refooty.com/covers/fifa-club-world-cup.webp",
-  "total_matches": 1,
-  "Last update time": "06:10:30 AM 18-08-2026",
+  "total_matches": 2,
+  "Last update time": "03:00:35 AM 19-08-2026",
   "matches": [
+    {
+      "title": "Heidenheim vs Bayern Munich",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/heidenheim-v-bayern-munich-2026-08-18-5LLb.webp",
+      "competition": "FIFA Club World Cup",
+      "competition_cover": "https://refooty.com/covers/fifa-club-world-cup.webp",
+      "date": "Aug 18, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/157.webp",
+          "name": "Bayern München",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/180.webp",
+          "name": "1. FC Heidenheim",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Heidenheim_v_Bayern_Munich_2026_08_18.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "1. FC Heidenheim",
+          "player": "Y. Wagner",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "1. FC Heidenheim",
+          "player": "L. Kerber",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Bayern München",
+          "player": "F. Chavez",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Bayern München",
+          "player": "T. Binder",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "1. FC Heidenheim",
+          "player": "J. Niehues",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Bayern München",
+          "player": "A. Ibrahimovic",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Bayern München",
+          "player": "L. Díaz",
+          "event_type": "Goal",
+          "score_update": "2 - 3"
+        },
+        {
+          "time": "76'",
+          "team": "Bayern München",
+          "player": "M. Olise",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Bayern München",
+          "player": "N. Brown",
+          "event_type": "Goal",
+          "score_update": "2 - 4"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "1. FC Heidenheim_wins": "1",
+          "draws": "1",
+          "Bayern München_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "02/05/2026",
+            "competition": "Bundesliga 25/26",
+            "teams_and_score": "Bayern Munich 3 - 3 FC Heidenheim"
+          },
+          {
+            "date": "19/04/2025",
+            "competition": "Bundesliga 24/25",
+            "teams_and_score": "FC Heidenheim 0 - 4 Bayern Munich"
+          },
+          {
+            "date": "06/04/2024",
+            "competition": "Bundesliga 23/24",
+            "teams_and_score": "FC Heidenheim 3 - 2 Bayern Munich"
+          },
+          {
+            "date": "03/04/2019",
+            "competition": "DFB Pokal",
+            "teams_and_score": "Bayern Munich 5 - 4 FC Heidenheim"
+          }
+        ],
+        "home_team_form": {
+          "team": "1. FC Heidenheim",
+          "form": [
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "18/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Heidenheim 2 - 4 Bayern Munich",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Hertha Berlin 4 - 1 FC Heidenheim",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hamburger SV 3 - 1 FC Heidenheim",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Bundesliga 25/26",
+              "teams_and_score": "FC Heidenheim 0 - 2 Mainz 05",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bayern München",
+          "form": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "18/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Heidenheim 2 - 4 Bayern Munich",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bayern Munich 3 - 1 RB Leipzig",
+              "result": "L"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "DFB Cup: Final 25/26",
+              "teams_and_score": "Bayern Munich 3 - 0 VfB Stuttgart",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Bundesliga 25/26",
+              "teams_and_score": "Bayern Munich 5 - 1 FC Cologne",
+              "result": "L"
+            },
+            {
+              "date": "06/05/2026",
+              "competition": "Semi-Finals",
+              "teams_and_score": "Bayern Munich 1 - 1 Paris Saint-Germain",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch 1. FC Heidenheim vs Bayern München highlights and goals from FIFA Club World Cup on ReFooty: Football Highlights Hub. Match played on August 18, 2026."
+    },
     {
       "title": "Juventus vs Inter Milan",
       "thumbnail_url": "https://img.refooty.com/thumbnail/juventus-v-inter-milan-2026-08-08-ljbw.webp",
