@@ -2,18 +2,18 @@
   "Total_Competitions": 29,
   "competitions": [
     {
+      "name": "FIFA Club World Cup",
+      "slug": "fifa-club-world-cup",
+      "cover_image": "https://refooty.com/covers/fifa-club-world-cup.webp",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/fifa-club-world-cup.json"
+    },
+    {
       "name": "UEFA Champions League",
       "slug": "uefa-champions-league",
       "cover_image": "https://refooty.com/covers/uefa-champions-league.webp",
       "total_matches": 24,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-champions-league.json"
-    },
-    {
-      "name": "FIFA Club World Cup",
-      "slug": "fifa-club-world-cup",
-      "cover_image": "https://refooty.com/covers/fifa-club-world-cup.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/fifa-club-world-cup.json"
     },
     {
       "name": "Argentine Primera División",
@@ -128,11 +128,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/league-one.json"
     },
     {
-      "name": "USL Championship",
-      "slug": "usl-championship",
-      "cover_image": "",
-      "total_matches": 18,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/usl-championship.json"
+      "name": "UEFA Europa Conference League",
+      "slug": "uefa-europa-conference-league",
+      "cover_image": "https://refooty.com/covers/uefa-europa-conference-league.webp",
+      "total_matches": 58,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-conference-league.json"
     },
     {
       "name": "UEFA Europa League",
@@ -142,11 +142,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-league.json"
     },
     {
-      "name": "UEFA Europa Conference League",
-      "slug": "uefa-europa-conference-league",
-      "cover_image": "https://refooty.com/covers/uefa-europa-conference-league.webp",
-      "total_matches": 58,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-conference-league.json"
+      "name": "Liga 1 - Indonesia",
+      "slug": "liga-1-indonesia",
+      "cover_image": "https://refooty.com/covers/liga-1-indonesia.webp",
+      "total_matches": 12,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/liga-1-indonesia.json"
     },
     {
       "name": "Carabao",
@@ -154,6 +154,27 @@
       "cover_image": "https://refooty.com/covers/carabao.webp",
       "total_matches": 24,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/carabao.json"
+    },
+    {
+      "name": "Premiership - Scotland",
+      "slug": "premiership-scotland",
+      "cover_image": "https://refooty.com/covers/scottish-premiership.webp",
+      "total_matches": 13,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/premiership-scotland.json"
+    },
+    {
+      "name": "A-League",
+      "slug": "a-league",
+      "cover_image": "https://refooty.com/covers/a-league.webp",
+      "total_matches": 2,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/a-league.json"
+    },
+    {
+      "name": "USL Championship",
+      "slug": "usl-championship",
+      "cover_image": "",
+      "total_matches": 18,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/usl-championship.json"
     },
     {
       "name": "Pro League - Saudi Arabia",
@@ -182,27 +203,6 @@
       "cover_image": "",
       "total_matches": 18,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/ligue-2.json"
-    },
-    {
-      "name": "Premiership - Scotland",
-      "slug": "premiership-scotland",
-      "cover_image": "https://refooty.com/covers/scottish-premiership.webp",
-      "total_matches": 13,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/premiership-scotland.json"
-    },
-    {
-      "name": "Liga 1 - Indonesia",
-      "slug": "liga-1-indonesia",
-      "cover_image": "https://refooty.com/covers/liga-1-indonesia.webp",
-      "total_matches": 12,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/liga-1-indonesia.json"
-    },
-    {
-      "name": "A-League",
-      "slug": "a-league",
-      "cover_image": "https://refooty.com/covers/a-league.webp",
-      "total_matches": 2,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/a-league.json"
     }
   ]
 }
