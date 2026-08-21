@@ -1,9 +1,220 @@
 {
   "team": "Colorado Rapids",
   "team_logo": "https://img.refooty.com/logo/teams/1610.webp",
-  "total_matches": 3,
-  "Last update time": "12:50:19 PM 21-08-2026",
+  "total_matches": 4,
+  "Last update time": "01:47:36 PM 21-08-2026",
   "matches": [
+    {
+      "title": "Colorado Rapids vs Los Angeles FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/colorado-rapids-vs-los-angeles-fc-2026-08-20-lkui.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1616.webp",
+          "name": "Los Angeles FC",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1610.webp",
+          "name": "Colorado Rapids",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/colorado-rapids-vs-los-angeles-fc-2026-08-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Los Angeles FC",
+          "player": "Y. Cheberko",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Colorado Rapids",
+          "player": "J. Ebobisse",
+          "event_type": "Goal"
+        },
+        {
+          "time": "31'",
+          "team": "Colorado Rapids",
+          "player": "Y. Maziz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Los Angeles FC",
+          "player": "E. Segura",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Los Angeles FC",
+          "player": "N. Tafari",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Colorado Rapids",
+          "player": "R. Navarro",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Colorado Rapids",
+          "player": "D. Yapi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Colorado Rapids",
+          "player": "K. Thompson",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Colorado Rapids_wins": "0",
+          "draws": "2",
+          "Los Angeles FC_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "23/04/2026",
+            "competition": "MLS",
+            "teams_and_score": "Los Angeles FC 0 - 0 Colorado Rapids"
+          },
+          {
+            "date": "19/10/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Colorado Rapids 2 - 2 Los Angeles FC"
+          },
+          {
+            "date": "26/02/2025",
+            "competition": "Champions Cup: Round 1",
+            "teams_and_score": "Los Angeles FC 1 - 0 Colorado Rapids"
+          },
+          {
+            "date": "22/08/2024",
+            "competition": "",
+            "teams_and_score": "Los Angeles FC 4 - 0 Colorado Rapids"
+          },
+          {
+            "date": "30/06/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Los Angeles FC 3 - 0 Colorado Rapids"
+          },
+          {
+            "date": "24/08/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Los Angeles FC 4 - 0 Colorado Rapids"
+          }
+        ],
+        "home_team_form": {
+          "team": "Colorado Rapids",
+          "form": [
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Colorado Rapids 1 - 0 Los Angeles FC",
+              "result": "W"
+            },
+            {
+              "date": "21/05/2026",
+              "competition": "US Open Cup",
+              "teams_and_score": "Colorado Rapids 2 - 0 San Jose Earthquakes",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "MLS",
+              "teams_and_score": "Real Salt Lake 2 - 1 Colorado Rapids",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Los Angeles FC",
+          "form": [
+            "L",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Colorado Rapids 1 - 0 Los Angeles FC",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Los Angeles FC 1 - 1 Queretaro FC",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Vancouver Whitecaps 1 - 1 Los Angeles FC",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Colorado Rapids": "4",
+          "Los Angeles FC": "2"
+        },
+        "shots_off_target": {
+          "Colorado Rapids": "8",
+          "Los Angeles FC": "3"
+        },
+        "shots_blocked": {
+          "Colorado Rapids": "1",
+          "Los Angeles FC": "5"
+        },
+        "corners": {
+          "Colorado Rapids": "4",
+          "Los Angeles FC": "4"
+        },
+        "fouls": {
+          "Colorado Rapids": "13",
+          "Los Angeles FC": "10"
+        },
+        "offsides": {
+          "Colorado Rapids": "1",
+          "Los Angeles FC": "3"
+        },
+        "yellow_cards": {
+          "Colorado Rapids": "3",
+          "Los Angeles FC": "3"
+        },
+        "goalkeeper_saves": {
+          "Colorado Rapids": "2",
+          "Los Angeles FC": "5"
+        },
+        "ball_possession": {
+          "Colorado Rapids": "51%",
+          "Los Angeles FC": "49%"
+        }
+      },
+      "description": "Watch Colorado Rapids vs Los Angeles FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 20, 2026. The MLS clash between Colorado Rapids and Los Angeles FC promised to be a high-stakes encounter from the very first whistle. Played on August 20, 2026 , the match saw both tactical discipline and moments of individual misfortune shape a narrative that kept the crowd on the edge of their seats. Early Breakthrough via Defensive Misfortune The deadlock was broken in unexpected fashion midway through the first half. After Evgen Cheberko picked up a yellow card in the 21st minute, disaster struck for the visitors just moments later. Jeremy Ebobisse , attempting to clear a dangerous ball, inadvertently directed it into his own net in the 22nd minute. This own goal handed the Colorado Rapids a vital lead and forced Los Angeles FC to rethink their defensive approach as the game grew increasingly physical. Disciplinary Battles and Penalty Drama As the first half progressed, the referee was kept busy with a flurry of bookings for Youssef Maziz , Eddie Segura , and Nkosi Tafari . In the 42nd minute, the Colorado Rapids were presented with a golden opportunity to double their advantage from the penalty spot. Rafael Navarro stepped up with the chance to consolidate the lead, but he failed to convert the strike, leaving the door open for a potential comeback from the visitors heading into the interval. Tactical Shifts and a Gritty Conclusion The second half saw both managers turn to their benches to find a spark. Los Angeles FC introduced elite talent in the form of Heung-Min Son and Denis Bouanga past the hour mark, while the Rapids looked to stabilize their lineup with Aaron Long and Dante Sealy . Despite the offensive pressure and a late yellow card for Kosi Thompson , the Colorado Rapids defense held firm through nine minutes of stoppage time to secure the result when the final whistle blew at 90+9'."
+    },
     {
       "title": "Colorado Rapids - Sporting Kansas City | Full Match Highlights",
       "thumbnail_url": "https://img.refooty.com/thumbnail/colorado-rapids-sporting-kansas-city-full-match-highlights-2026-08-16-at39.webp",
