@@ -2,93 +2,180 @@
   "competition": "Friendly",
   "competition_cover": "https://refooty.com/covers/friendly.webp",
   "total_matches": 201,
-  "Last update time": "01:50:16 AM 21-08-2026",
+  "Last update time": "07:10:18 AM 21-08-2026",
   "matches": [
     {
-      "title": "Bromley vs QPR",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/bromley-vs-qpr-2026-07-31-k0Yw.webp",
+      "title": "Manchester City vs Atletico Madrid",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-city-vs-atletico-madrid-2026-08-09-rAJH.webp",
       "competition": "Friendly",
       "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Jul 31, 2026",
+      "date": "Aug 9, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/72.webp",
-          "name": "QPR",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/530.webp",
+          "name": "Atletico Madrid",
+          "score": "1"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1832.webp",
-          "name": "Bromley",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/50.webp",
+          "name": "Manchester City",
+          "score": "3"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/bromley-vs-qpr-2026-07-31_4ERPo.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/manchester-city-vs-atletico-madrid-2026-08-09_UeDcc.m3u8"
         }
       ],
-      "events_timeline": [],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Atletico Madrid",
+          "player": "J. Dominguez",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Atletico Madrid",
+          "player": "M. Hjulmand",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Manchester City",
+          "player": "O. Marmoush",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Manchester City",
+          "player": "O. Marmoush",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Manchester City",
+          "player": "J. Gvardiol",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Manchester City",
+          "player": "R. Aït-Nouri",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        }
+      ],
       "head_to_head": {
         "summary": {
-          "Bromley_wins": "0",
-          "draws": "0",
-          "QPR_wins": "0"
+          "Manchester City_wins": "0",
+          "draws": "1",
+          "Atletico Madrid_wins": "1"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "30/07/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Manchester City 1 - 2 Atletico Madrid"
+          },
+          {
+            "date": "13/04/2022",
+            "competition": "Quarter-Finals 21/22",
+            "teams_and_score": "Atletico Madrid 0 - 0 Manchester City"
+          }
+        ],
         "home_team_form": {
-          "team": "Bromley",
+          "team": "Manchester City",
           "form": [
-            "D",
+            "W",
+            "L",
+            "W",
+            "W",
             "W"
           ],
           "recent_matches": [
             {
-              "date": "28/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Bromley 1 - 1 Millwall",
-              "result": "D"
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "W"
             },
             {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Bromley 3 - 1 Walsall",
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Manchester City 1 - 2 Aston Villa",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "FA Cup: Final",
+              "teams_and_score": "Chelsea 0 - 1 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Manchester City 3 - 0 Crystal Palace",
+              "result": "W"
+            },
+            {
+              "date": "25/04/2026",
+              "competition": "FA Cup: Semi-Finals",
+              "teams_and_score": "Manchester City 2 - 1 Southampton",
               "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "QPR",
+          "team": "Atletico Madrid",
           "form": [
+            "L",
             "W",
-            "W",
-            "L"
+            "L",
+            "L",
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "25/07/2026",
+              "date": "09/08/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "QPR 3 - 2 Fiorentina",
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Atletico Madrid 4 - 1 Getafe",
               "result": "W"
             },
             {
-              "date": "21/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "QPR 1 - 0 Wycombe Wanderers",
-              "result": "W"
+              "date": "24/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Villarreal 5 - 1 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Semi-Finals",
+              "teams_and_score": "Arsenal 1 - 0 Atletico Madrid",
+              "result": "L"
             },
             {
               "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Ipswich Town 3 - 0 QPR",
-              "result": "L"
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Valencia 0 - 2 Atletico Madrid",
+              "result": "W"
             }
           ]
         }
       },
       "statistics": {},
-      "description": "Watch Bromley vs QPR highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 31, 2026."
+      "description": "Watch Manchester City vs Atletico Madrid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
     }
   ],
   "hasMore": false,

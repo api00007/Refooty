@@ -3,23 +3,242 @@
   "AUTHOR": "iVan_FluX",
   "CONTACT (OWNER)": "https://t.me/iVan_flux",
   "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-  "Last update time": "01:50:16 AM 21-08-2026",
+  "Last update time": "07:10:17 AM 21-08-2026",
   "matches": [
     {
-      "title": "Falkirk - St. Mirren",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/falkirk-st-mirren-2026-08-01-MDbR.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 1, 2026",
+      "title": "1. FC Heidenheim vs VfL Osnabrück",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/1-fc-heidenheim-vs-vfl-osnabruck-2026-08-09-ONiz.webp",
+      "competition": "2. Bundesliga",
+      "competition_cover": "",
+      "date": "Aug 9, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/251.webp",
-          "name": "ST Mirren",
-          "score": "2"
+          "logo": "https://img.refooty.com/logo/teams/1324.webp",
+          "name": "VfL Osnabrück",
+          "score": "3"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1389.webp",
-          "name": "Falkirk",
+          "logo": "https://img.refooty.com/logo/teams/180.webp",
+          "name": "1. FC Heidenheim",
+          "score": "4"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/1-fc-heidenheim-vs-vfl-osnabruck-2026-08-09_JxRZC.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "10'",
+          "team": "1. FC Heidenheim",
+          "player": "B. Zivzivadze",
+          "event_type": "Goal",
+          "assist": "M. Costly",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "13'",
+          "team": "VfL Osnabrück",
+          "player": "I. Badjie",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "23'",
+          "team": "VfL Osnabrück",
+          "player": "N. Wiemann",
+          "event_type": "Goal",
+          "assist": "K. Faber",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "29'",
+          "team": "1. FC Heidenheim",
+          "player": "M. Costly",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "34'",
+          "team": "VfL Osnabrück",
+          "player": "D. Kopacz",
+          "event_type": "Goal",
+          "assist": "K. Faber",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "45'",
+          "team": "VfL Osnabrück",
+          "player": "F. Wagner",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+2'",
+          "team": "1. FC Heidenheim",
+          "player": "J. Schoppner",
+          "event_type": "Goal",
+          "assist": "J. Fohrenbach",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "54'",
+          "team": "1. FC Heidenheim",
+          "player": "O. Mhamdi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "89'",
+          "team": "1. FC Heidenheim",
+          "player": "M. Pieringer",
+          "event_type": "Goal",
+          "assist": "M. Costly",
+          "score_update": "4 - 2"
+        },
+        {
+          "time": "90+2'",
+          "team": "VfL Osnabrück",
+          "player": "R. Meissner",
+          "event_type": "Goal",
+          "score_update": "4 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "1. FC Heidenheim_wins": "1",
+          "draws": "0",
+          "VfL Osnabrück_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "20/02/2021",
+            "competition": "2. Bundesliga 20/21",
+            "teams_and_score": "VfL Osnabrück 1 - 2 FC Heidenheim"
+          },
+          {
+            "date": "22/12/2019",
+            "competition": "2. Bundesliga",
+            "teams_and_score": "FC Heidenheim 3 - 1 VfL Osnabrück"
+          },
+          {
+            "date": "03/05/2014",
+            "competition": "3. Liga",
+            "teams_and_score": "VfL Osnabrück 1 - 0 FC Heidenheim"
+          }
+        ],
+        "home_team_form": {
+          "team": "1. FC Heidenheim",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "FC Heidenheim 4 - 3 VfL Osnabrück",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hamburger SV 3 - 1 FC Heidenheim",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Bundesliga 25/26",
+              "teams_and_score": "FC Heidenheim 0 - 2 Mainz 05",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "VfL Osnabrück",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "FC Heidenheim 4 - 3 VfL Osnabrück",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Paderborn 2 - 0 VfL Osnabrück",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "3. Liga",
+              "teams_and_score": "VfB Stuttgart II 3 - 4 VfL Osnabrück",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "1. FC Heidenheim": "6",
+          "VfL Osnabrück": "6"
+        },
+        "shots_off_target": {
+          "1. FC Heidenheim": "10",
+          "VfL Osnabrück": "6"
+        },
+        "shots_blocked": {
+          "1. FC Heidenheim": "4",
+          "VfL Osnabrück": "12"
+        },
+        "corners": {
+          "1. FC Heidenheim": "4",
+          "VfL Osnabrück": "6"
+        },
+        "fouls": {
+          "1. FC Heidenheim": "6",
+          "VfL Osnabrück": "6"
+        },
+        "offsides": {
+          "1. FC Heidenheim": "9",
+          "VfL Osnabrück": "0"
+        },
+        "yellow_cards": {
+          "1. FC Heidenheim": "1",
+          "VfL Osnabrück": "2"
+        },
+        "goalkeeper_saves": {
+          "1. FC Heidenheim": "3",
+          "VfL Osnabrück": "2"
+        },
+        "ball_possession": {
+          "1. FC Heidenheim": "53%",
+          "VfL Osnabrück": "47%"
+        }
+      },
+      "description": "Watch 1. FC Heidenheim vs VfL Osnabrück highlights and goals from 2. Bundesliga on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The 2. Bundesliga encounter between 1. FC Heidenheim and VfL Osnabrück promised a tactical battle of high stakes, drawing fans into an atmosphere thick with anticipation. Both sides took to the pitch looking to establish dominance in a match that would eventually unfold into a classic goal-fest. An Explosive First-Half Exchange On August 9, 2026 , the match ignited early as the hosts found their rhythm within the first ten minutes. Budu Zivzivadze opened the scoring for 1. FC Heidenheim in the 10th minute, clinical in his finish after being set up by Marcel Costly . The lead, however, was temporary. VfL Osnabrück fought back with determination, and by the 23rd minute, Niklas Wiemann had leveled the score following a precise assist from Konrad Faber . The see-saw nature of the contest continued as Marcel Costly turned from provider to goalscorer in the 29th minute, restoring the lead for the home side. Yet, the visitors remained undeterred. David Kopacz struck back in the 34th minute, once again assisted by Konrad Faber , to make it 2-2. The drama of the first half reached its peak in stoppage time when Jan Schoeppner found the net in the 45+2 minute, thanks to a delivery from Jonas Foehrenbach , sending Heidenheim into the locker room with a slim advantage. Late Security and Penalty Drama The second half saw a shift in intensity as tactical substitutions and yellow cards, including one for Oualid Mhamdi , slowed the initial frantic pace. As the clock wound down, it appeared the points were secured in the 89th minute when Marvin Pieringer extended the lead to 4-2, capitalizing on another Marcel Costly assist. However, VfL Osnabrück refused to go quietly. In the second minute of added time, Robin Meissner converted a penalty to bring the score to 4-3, ensuring a nervous final few moments for the home crowd. Despite the late pressure during the nine minutes of injury time, Heidenheim held firm until the final whistle, concluding a breathtaking encounter that showcased the very best of German football's second tier."
+    },
+    {
+      "title": "Energie Cottbus vs Hannover 96",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/energie-cottbus-vs-hannover-96-2026-08-09-MGfF.webp",
+      "competition": "2. Bundesliga",
+      "competition_cover": "",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
           "score": "0"
         },
         "status": "FT"
@@ -27,213 +246,192 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/falkirk-st-mirren-2026-08-01_4uJVn.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/energie-cottbus-vs-hannover-96-2026-08-09_5M0YT.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch Energie Cottbus vs Hannover 96 highlights and goals from 2. Bundesliga on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
+      "title": "VfL Wolfsburg vs 1. FC Kaiserslautern",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/vfl-wolfsburg-vs-1-fc-kaiserslautern-2026-08-09-N1Ry.webp",
+      "competition": "2. Bundesliga",
+      "competition_cover": "",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/745.webp",
+          "name": "1. FC Kaiserslautern",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/161.webp",
+          "name": "VfL Wolfsburg",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/vfl-wolfsburg-vs-1-fc-kaiserslautern-2026-08-09_0oYla.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "ST Mirren",
-          "player": "K. Phillips",
-          "event_type": "Goal",
-          "assist": "H. Fieldson",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "66'",
-          "team": "ST Mirren",
-          "player": "R. Carr",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "80'",
-          "team": "ST Mirren",
-          "player": "H. Fieldson",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "87'",
-          "team": "ST Mirren",
-          "player": "K. Phillips",
-          "event_type": "Goal",
-          "assist": "R. Idowu",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "88'",
-          "team": "ST Mirren",
-          "player": "K. Phillips",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "ST Mirren",
-          "player": "L. Thomas",
+          "team": "1. FC Kaiserslautern",
+          "player": "S. Sahin",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Falkirk_wins": "1",
-          "draws": "0",
-          "ST Mirren_wins": "1"
+          "VfL Wolfsburg_wins": "0",
+          "draws": "1",
+          "1. FC Kaiserslautern_wins": "0"
         },
         "previous_matches": [
           {
-            "date": "21/03/2026",
-            "competition": "Premiership",
-            "teams_and_score": "Falkirk 1 - 2 St. Mirren"
-          },
-          {
-            "date": "28/04/2018",
-            "competition": "Championship",
-            "teams_and_score": "Falkirk 1 - 0 St. Mirren"
+            "date": "03/03/2012",
+            "competition": "1. Bundesliga",
+            "teams_and_score": "Kaiserslautern 0 - 0 Wolfsburg"
           }
         ],
         "home_team_form": {
-          "team": "Falkirk",
+          "team": "VfL Wolfsburg",
           "form": [
+            "D",
             "L",
-            "W",
-            "W",
             "L",
             "W"
           ],
           "recent_matches": [
             {
-              "date": "01/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Falkirk 0 - 2 St. Mirren",
+              "date": "08/08/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Wolfsburg 0 - 0 Kaiserslautern",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Wolfsburg 3 - 1 Telstar",
               "result": "L"
             },
             {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group G",
-              "teams_and_score": "Falkirk 3 - 0 Stranraer",
-              "result": "W"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Falkirk 1 - 0 Genk",
-              "result": "W"
-            },
-            {
-              "date": "14/07/2026",
-              "competition": "Scottish League Cup: Group G",
-              "teams_and_score": "Falkirk 0 - 1 Ayr United",
+              "date": "25/05/2026",
+              "competition": "Bundesliga: Qualification Play-offs",
+              "teams_and_score": "Paderborn 2 - 1 Wolfsburg",
               "result": "L"
             },
             {
-              "date": "07/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Airdrieonians 1 - 2 Falkirk",
+              "date": "16/05/2026",
+              "competition": "Bundesliga 25/26",
+              "teams_and_score": "St. Pauli 1 - 3 Wolfsburg",
               "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "ST Mirren",
+          "team": "1. FC Kaiserslautern",
           "form": [
-            "W",
-            "W",
-            "W",
+            "D",
             "L",
-            "D"
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "01/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Falkirk 0 - 2 St. Mirren",
-              "result": "W"
+              "date": "08/08/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Wolfsburg 0 - 0 Kaiserslautern",
+              "result": "D"
             },
             {
-              "date": "26/07/2026",
-              "competition": "Scottish League Cup: Group C",
-              "teams_and_score": "St. Mirren 0 - 1 Dunfermline Athletic",
-              "result": "W"
-            },
-            {
-              "date": "27/06/2026",
+              "date": "17/07/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Arbroath 2 - 4 St. Mirren",
-              "result": "W"
-            },
-            {
-              "date": "25/05/2026",
-              "competition": "Premiership: Qualification",
-              "teams_and_score": "St. Mirren 1 - 0 Partick Thistle",
+              "teams_and_score": "Mainz 05 4 - 1 Kaiserslautern",
               "result": "L"
             },
             {
               "date": "17/05/2026",
-              "competition": "Premiership: Relegation Group",
-              "teams_and_score": "St. Mirren 1 - 1 Dundee United",
-              "result": "D"
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Magdeburg 0 - 1 Kaiserslautern",
+              "result": "W"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Falkirk": "1",
-          "ST Mirren": "5"
+          "VfL Wolfsburg": "5",
+          "1. FC Kaiserslautern": "3"
         },
         "shots_off_target": {
-          "Falkirk": "3",
-          "ST Mirren": "7"
+          "VfL Wolfsburg": "10",
+          "1. FC Kaiserslautern": "5"
         },
         "shots_blocked": {
-          "Falkirk": "6",
-          "ST Mirren": "3"
+          "VfL Wolfsburg": "4",
+          "1. FC Kaiserslautern": "0"
         },
         "corners": {
-          "Falkirk": "7",
-          "ST Mirren": "7"
+          "VfL Wolfsburg": "9",
+          "1. FC Kaiserslautern": "2"
         },
         "fouls": {
-          "Falkirk": "18",
-          "ST Mirren": "18"
+          "VfL Wolfsburg": "17",
+          "1. FC Kaiserslautern": "10"
         },
         "offsides": {
-          "Falkirk": "3",
-          "ST Mirren": "2"
+          "VfL Wolfsburg": "1",
+          "1. FC Kaiserslautern": "2"
         },
         "yellow_cards": {
-          "Falkirk": "0",
-          "ST Mirren": "4"
+          "VfL Wolfsburg": "0",
+          "1. FC Kaiserslautern": "1"
         },
         "goalkeeper_saves": {
-          "Falkirk": "4",
-          "ST Mirren": "1"
-        },
-        "crosses": {
-          "Falkirk": "7",
-          "ST Mirren": "3"
+          "VfL Wolfsburg": "3",
+          "1. FC Kaiserslautern": "3"
         },
         "ball_possession": {
-          "Falkirk": "58%",
-          "ST Mirren": "42%"
+          "VfL Wolfsburg": "63%",
+          "1. FC Kaiserslautern": "37%"
         }
       },
-      "description": "Watch Falkirk vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 1, 2026. The stage was set on August 1, 2026 , as Falkirk played host to St. Mirren in a highly anticipated Premiership encounter. Both sets of fans filled the stands, eager to see their teams compete in a match that promised plenty of tactical intrigue and competitive spirit. Early Breakthrough for the Visitors St. Mirren started the match with clear intent, applying pressure from the opening whistle. Their persistence paid off in the 11th minute when Henry Fieldson delivered a pinpoint assist to find Killian Phillips . The forward made no mistake, clinical in his execution to give his side an early lead. Falkirk attempted to find an immediate response, but the visitors' defensive line held firm, ensuring they went into the break with their advantage intact despite the growing pressure from the home side. Tactical Shifts and Rising Tension As the second half progressed, the match became a more cagey affair with both managers turning to their benches. St. Mirren introduced Roland Idowu in the 83rd minute, looking to secure the result, while Falkirk made several changes, including bringing on Paul McGovern and Leon McCann . The referee was kept busy as the physical nature of the game increased, issuing yellow cards to Ryan Carr and Henry Fieldson as both teams battled fiercely for control of the midfield. Phillips Doubles the Advantage The defining moment arrived late in the game. In the 87th minute, Roland Idowu made an immediate impact, providing the assist for Killian Phillips to strike again. His second goal of the match effectively ended Falkirk's hopes of a comeback. Although Phillips and Luke Thomas both picked up late bookings in a heated conclusion, St. Mirren navigated the final minutes and five minutes of stoppage time to claim a deserved victory on the road."
+      "description": "Watch VfL Wolfsburg vs 1. FC Kaiserslautern highlights and goals from 2. Bundesliga on ReFooty: Football Highlights Hub. Match played on August 9, 2026. Tactical standoff at the Volkswagen Arena On August 9, 2026 , the Volkswagen Arena hosted a gritty 2. Bundesliga encounter between VfL Wolfsburg and 1. FC Kaiserslautern . Throughout the match, both sides demonstrated defensive resilience, prioritizing tactical structure and shape over expansive attacking football in a clash that left neither side able to break the deadlock. In the first half, the battle was primarily contested in the middle of the park. The tension was palpable as the game developed, leading to a yellow card for Semih Sahin in the 35th minute following a robust challenge. As the referee blew for halftime, the score remained level, with the defensive units from both teams successfully neutralizing the limited chances that materialized during the opening 45 minutes. Fresh legs and final efforts As the second half unfolded, the managers turned to their benches to inject energy into the match. VfL Wolfsburg introduced fresh legs in the form of Maximilian Arnold and Yannick Gerhardt , while 1. FC Kaiserslautern attempted to find a breakthrough by bringing on Erencan Yardimci and Leon Robinson . Despite the late substitutions and a desperate push from both clubs to find a winning goal, the opposing defenses held firm. The final whistle confirmed a goalless draw, reflecting the tight and demanding nature of this mid-season encounter."
     },
     {
-      "title": "Manchester City vs Inter",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-city-vs-inter-2026-08-01-29hg.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 1, 2026",
+      "title": "St. Pauli vs Greuther Fürth",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/st-pauli-vs-greuther-furth-2026-08-09-HJLS.webp",
+      "competition": "2. Bundesliga",
+      "competition_cover": "",
+      "date": "Aug 9, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/505.webp",
-          "name": "Inter",
+          "logo": "https://img.refooty.com/logo/teams/178.webp",
+          "name": "Greuther Fürth",
           "score": "1"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/50.webp",
-          "name": "Manchester City",
+          "logo": "https://img.refooty.com/logo/teams/21565.webp",
+          "name": "St. Pauli",
           "score": "1"
         },
         "status": "FT"
@@ -241,120 +439,969 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/manchester-city-vs-inter-2026-08-01_bqkl6.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/st-pauli-vs-greuther-furth-2026-08-09_018lV.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "St. Pauli",
+          "player": "M. Mathisen",
+          "event_type": "Goal",
+          "assist": "B. Hrgota",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Greuther Fürth",
+          "player": "F. Klaus",
+          "event_type": "Goal",
+          "assist": "J. Dehm",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "St. Pauli",
+          "player": "A. Pyrka",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "St. Pauli_wins": "3",
+          "draws": "0",
+          "Greuther Fürth_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "19/07/2024",
+            "competition": "Featured Club Friendlies",
+            "teams_and_score": "St. Pauli 1 - 3 Greuther Furth"
+          },
+          {
+            "date": "03/02/2024",
+            "competition": "2. Bundesliga 23/24",
+            "teams_and_score": "St. Pauli 3 - 2 Greuther Furth"
+          },
+          {
+            "date": "11/03/2023",
+            "competition": "2. Bundesliga 22/23",
+            "teams_and_score": "St. Pauli 2 - 1 Greuther Furth"
+          },
+          {
+            "date": "25/04/2021",
+            "competition": "2. Bundesliga 20/21",
+            "teams_and_score": "St. Pauli 2 - 1 Greuther Furth"
+          },
+          {
+            "date": "28/01/2020",
+            "competition": "2. Bundesliga",
+            "teams_and_score": "Greuther Furth 3 - 0 St. Pauli"
+          }
+        ],
+        "home_team_form": {
+          "team": "St. Pauli",
+          "form": [
+            "D",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "St. Pauli 1 - 1 Greuther Furth",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "St. Pauli 2 - 2 Deportivo La Coruna",
+              "result": "D"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Bundesliga 25/26",
+              "teams_and_score": "St. Pauli 1 - 3 Wolfsburg",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Greuther Fürth",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "St. Pauli 1 - 1 Greuther Furth",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Freiburg 0 - 3 Greuther Furth",
+              "result": "W"
+            },
+            {
+              "date": "26/05/2026",
+              "competition": "2. Bundesliga: Qualification Play-offs",
+              "teams_and_score": "Greuther Furth 2 - 0 RW Essen",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Greuther Furth 3 - 0 Fortuna Dusseldorf",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "St. Pauli": "6",
+          "Greuther Fürth": "7"
+        },
+        "shots_off_target": {
+          "St. Pauli": "4",
+          "Greuther Fürth": "5"
+        },
+        "shots_blocked": {
+          "St. Pauli": "7",
+          "Greuther Fürth": "3"
+        },
+        "corners": {
+          "St. Pauli": "9",
+          "Greuther Fürth": "2"
+        },
+        "fouls": {
+          "St. Pauli": "4",
+          "Greuther Fürth": "5"
+        },
+        "offsides": {
+          "St. Pauli": "7",
+          "Greuther Fürth": "2"
+        },
+        "yellow_cards": {
+          "St. Pauli": "1",
+          "Greuther Fürth": "0"
+        },
+        "goalkeeper_saves": {
+          "St. Pauli": "6",
+          "Greuther Fürth": "5"
+        },
+        "ball_possession": {
+          "St. Pauli": "58%",
+          "Greuther Fürth": "42%"
+        }
+      },
+      "description": "Watch St. Pauli vs Greuther Fürth highlights and goals from 2. Bundesliga on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The stage was set for a compelling encounter in the 2. Bundesliga as the two sides faced off in a highly anticipated football clash. On August 9, 2026 , the atmosphere at the stadium underscored the importance of the points at stake in this competitive league fixture. A tale of two second-half strikes While the first half was a tactical chess match played with caution, the game ignited immediately after the interval. Just moments into the second half, Marcus Mathisen broke the deadlock, firing home after receiving a clever assist from Branimir Hrgota . However, the lead was short-lived as the game opened up; in the 52nd minute, Felix Klaus responded for his team, connecting perfectly with a Jannik Dehm cross to level the scoring and shift the momentum back to an even keel. Tactical maneuvers and final intensity As the half progressed, the physical toll became apparent, leading to a flurry of substitutions. Arkadiusz Pyrka picked up a yellow card in the 61st minute, highlighting the growing frustration and competitive spirit on the pitch. Both managers turned to their benches, with players like Mika Wallentowitz , Eric Smith , and Ricky-Jade Jones entering the fray to chase a late winner. Despite the late tactical reshuffling and waves of pressure, neither side could find a decisive second goal, leaving the final whistle to confirm a hard-fought draw."
+    },
+    {
+      "title": "Karlsruher SC vs Arminia Bielefeld",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/karlsruher-sc-vs-arminia-bielefeld-2026-08-09-GsvM.webp",
+      "competition": "2. Bundesliga",
+      "competition_cover": "",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/karlsruher-sc-vs-arminia-bielefeld-2026-08-09_enFnX.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch Karlsruher SC vs Arminia Bielefeld highlights and goals from 2. Bundesliga on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
+      "title": "1. FC Magdeburg vs Eintracht Braunschweig",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/1-fc-magdeburg-vs-eintracht-braunschweig-2026-08-09-1hB2.webp",
+      "competition": "2. Bundesliga",
+      "competition_cover": "",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/1-fc-magdeburg-vs-eintracht-braunschweig-2026-08-09_BGK89.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch 1. FC Magdeburg vs Eintracht Braunschweig highlights and goals from 2. Bundesliga on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
+      "title": "SV Darmstadt 98 vs Holstein Kiel",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sv-darmstadt-98-vs-holstein-kiel-2026-08-09-VttD.webp",
+      "competition": "2. Bundesliga",
+      "competition_cover": "",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/sv-darmstadt-98-vs-holstein-kiel-2026-08-09_XuXH3.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch SV Darmstadt 98 vs Holstein Kiel highlights and goals from 2. Bundesliga on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
+      "title": "Bochum vs Hertha BSC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bochum-vs-hertha-bsc-2026-08-09-qaeY.webp",
+      "competition": "2. Bundesliga",
+      "competition_cover": "",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/bochum-vs-hertha-bsc-2026-08-09_dTkO3.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch Bochum vs Hertha BSC highlights and goals from 2. Bundesliga on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
+      "title": "Chelsea vs Johor Darul Takzim FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-vs-johor-darul-takzim-fc-2026-08-09-5aM6.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/2523.webp",
+          "name": "Johor Darul Takzim FC",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/49.webp",
+          "name": "Chelsea",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/chelsea-vs-johor-darul-takzim-fc-2026-08-09_zuTjJ.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Manchester City",
-          "player": "D. Mubama",
+          "team": "Chelsea",
+          "player": "A. Aiman",
           "event_type": "Goal",
           "score_update": "1 - 0"
         },
         {
           "time": "16'",
-          "team": "Inter",
-          "player": "B. Pavard",
+          "team": "Johor Darul Takzim FC",
+          "player": "L. Delap",
           "event_type": "Goal",
           "score_update": "1 - 1"
         },
         {
+          "time": "31'",
+          "team": "Chelsea",
+          "player": "E. Israfilov",
+          "event_type": "Yellow Card"
+        },
+        {
           "time": "46'",
-          "team": "Inter",
-          "player": "A. Stankovic",
+          "team": "Johor Darul Takzim FC",
+          "player": "L. Delap",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "52'",
+          "team": "Chelsea",
+          "player": "J. Silva",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "54'",
+          "team": "Johor Darul Takzim FC",
+          "player": "Estêvão",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "62'",
+          "team": "Johor Darul Takzim FC",
+          "player": "L. Delap",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "65'",
+          "team": "Chelsea",
+          "player": "Arribas",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "66'",
+          "team": "Johor Darul Takzim FC",
+          "player": "N. Jackson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "68'",
+          "team": "Chelsea",
+          "player": "A. Cristian",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "75'",
+          "team": "Johor Darul Takzim FC",
+          "player": "G. Quenda",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "86'",
+          "team": "Chelsea",
+          "player": "Bergson",
+          "event_type": "Goal",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "89'",
+          "team": "Johor Darul Takzim FC",
+          "player": "A. Cristian",
+          "event_type": "Goal"
+        },
+        {
+          "time": "90+2'",
+          "team": "Johor Darul Takzim FC",
+          "player": "R. Watson",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Chelsea_wins": "0",
+          "draws": "0",
+          "Johor Darul Takzim FC_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Chelsea",
+          "form": [
+            "D",
+            "D",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Johor Darul Ta'zim FC 3 - 3 Chelsea",
+              "result": "D"
+            },
+            {
+              "date": "24/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Elche 0 - 0 Johor Darul Ta'zim FC",
+              "result": "D"
+            },
+            {
+              "date": "10/05/2026",
+              "competition": "Super League",
+              "teams_and_score": "Kelantan The Real Warriors 1 - 14 Johor Darul Ta'zim FC",
+              "result": "W"
+            },
+            {
+              "date": "17/04/2026",
+              "competition": "Champions League: Quarter-Finals",
+              "teams_and_score": "Al Ahli 2 - 1 Johor Darul Ta'zim FC",
+              "result": "L"
+            },
+            {
+              "date": "11/04/2026",
+              "competition": "Super League",
+              "teams_and_score": "Johor Darul Ta'zim FC 1 - 1 Terengganu",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Johor Darul Takzim FC",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Johor Darul Ta'zim FC 3 - 3 Chelsea",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Sunderland 2 - 1 Chelsea",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "FA Cup: Final",
+              "teams_and_score": "Chelsea 0 - 1 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Chelsea",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Chelsea vs Johor Darul Takzim FC highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The friendly encounter between Johor Darul Takzim FC and Chelsea on August 9, 2026, delivered a spectacle that few had anticipated. Both sets of supporters were treated to a match defined by tactical shifts and a relentless pursuit of victory in a high-octane environment. Second Half Intensity and the Penalty Breakthrough After a tightly contested opening period, the game exploded into life during the second half. The referee was kept busy early on, issuing yellow cards to J. Silva and Chelsea's Estêvão as the physical nature of the contest increased. The deadlock in the scoreline was broken in the 62nd minute when Liam Delap stepped up to convert a penalty, giving the visitors a 1-2 lead. However, the lead was short-lived. Just three minutes later, Arribas found the back of the net to bring Johor Darul Takzim FC level at 2-2. The intensity remained high as Nicolas Jackson , A. Cristian , and G. Quenda all entered the book in a frantic ten-minute spell that saw the momentum swing back and forth. A Late Twist at the Death As the match entered its final stages, it appeared that the home side had secured a famous result. In the 86th minute, Bergson struck to make it 3-2, sending the home crowd into raptures. But the drama was far from over. In a cruel twist for the hosts, A. Cristian inadvertently turned the ball into his own net in the 89th minute, handing Chelsea an equalizer. A late yellow card for R. Watson in stoppage time concluded the events, leaving both managers with plenty to reflect on after a thrilling 3-3 draw that showcased the attacking flair of both squads."
+    },
+    {
+      "title": "Hoffenheim vs Hansa Rostock",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/hoffenheim-vs-hansa-rostock-2026-08-09-j9Og.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1321.webp",
+          "name": "Hansa Rostock",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/7955.webp",
+          "name": "Hoffenheim",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/hoffenheim-vs-hansa-rostock-2026-08-09_uVynI.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "16'",
+          "team": "Hoffenheim",
+          "player": "W. Burger",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "45+13'",
+          "team": "Hoffenheim",
+          "player": "B. Conte",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Hoffenheim",
+          "player": "U. Tohumcu",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Hoffenheim_wins": "1",
+          "draws": "1",
+          "Hansa Rostock_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "18/04/2009",
+            "competition": "1. Bundesliga",
+            "teams_and_score": "Karlsruher SC 2 - 2 Hoffenheim"
+          },
+          {
+            "date": "29/10/2003",
+            "competition": "DFB Pokal",
+            "teams_and_score": "Hoffenheim 4 - 0 Karlsruher SC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Hoffenheim",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hoffenheim 3 - 0 Karlsruher SC",
+              "result": "W"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Bundesliga 25/26",
+              "teams_and_score": "Borussia M'gladbach 4 - 0 Hoffenheim",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Hansa Rostock",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Karlsruher SC 2 - 1 Arminia Bielefeld",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hoffenheim 3 - 0 Karlsruher SC",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Karlsruher SC 1 - 2 Inter",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Karlsruher SC 1 - 2 VfL Bochum",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Hoffenheim vs Hansa Rostock highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
+      "title": "Heerenveen vs Twente",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/heerenveen-vs-twente-2026-08-09-nsQS.webp",
+      "competition": "Eredivisie",
+      "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/415.webp",
+          "name": "Twente",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/210.webp",
+          "name": "Heerenveen",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/heerenveen-vs-twente-2026-08-09_hYhnV.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "52'",
+          "team": "Heerenveen",
+          "player": "L. Oyen",
+          "event_type": "Goal",
+          "assist": "J. Trenskow",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "75'",
+          "team": "Heerenveen",
+          "player": "D. W. Proper",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Heerenveen",
+          "player": "L. Oyen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Twente",
+          "player": "D. Rots",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Heerenveen_wins": "0",
+          "draws": "3",
+          "Twente_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "07/02/2026",
+            "competition": "Eredivisie",
+            "teams_and_score": "FC Twente 5 - 0 SC Heerenveen"
+          },
+          {
+            "date": "09/02/2025",
+            "competition": "Eredivisie",
+            "teams_and_score": "SC Heerenveen 3 - 3 FC Twente"
+          },
+          {
+            "date": "03/04/2024",
+            "competition": "Eredivisie 23/24",
+            "teams_and_score": "SC Heerenveen 3 - 3 FC Twente"
+          },
+          {
+            "date": "04/06/2023",
+            "competition": "Eredivisie: UECL Play-off",
+            "teams_and_score": "FC Twente 4 - 0 SC Heerenveen"
+          },
+          {
+            "date": "04/03/2023",
+            "competition": "Eredivisie 22/23",
+            "teams_and_score": "FC Twente 3 - 3 SC Heerenveen"
+          }
+        ],
+        "home_team_form": {
+          "team": "Heerenveen",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "SC Heerenveen 1 - 0 FC Twente",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "SC Heerenveen 3 - 2 NFC Volos",
+              "result": "W"
+            },
+            {
+              "date": "21/05/2026",
+              "competition": "Eredivisie: UECL Play-off",
+              "teams_and_score": "FC Utrecht 3 - 2 SC Heerenveen",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "SC Heerenveen 0 - 0 Ajax",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Twente",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "SC Heerenveen 1 - 0 FC Twente",
+              "result": "L"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "FC Twente 6 - 0 DAC 1904 Dunajska Streda",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Genk 2 - 1 FC Twente",
+              "result": "L"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Ferencvaros 2 - 2 FC Twente",
+              "result": "D"
+            },
+            {
+              "date": "24/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Emmen 0 - 3 FC Twente",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Heerenveen": "4",
+          "Twente": "3"
+        },
+        "shots_off_target": {
+          "Heerenveen": "1",
+          "Twente": "11"
+        },
+        "shots_blocked": {
+          "Heerenveen": "2",
+          "Twente": "4"
+        },
+        "corners": {
+          "Heerenveen": "4",
+          "Twente": "8"
+        },
+        "fouls": {
+          "Heerenveen": "7",
+          "Twente": "7"
+        },
+        "offsides": {
+          "Heerenveen": "2",
+          "Twente": "2"
+        },
+        "yellow_cards": {
+          "Heerenveen": "2",
+          "Twente": "1"
+        },
+        "goalkeeper_saves": {
+          "Heerenveen": "3",
+          "Twente": "3"
+        },
+        "crosses": {
+          "Heerenveen": "2",
+          "Twente": "10"
+        },
+        "ball_possession": {
+          "Heerenveen": "46%",
+          "Twente": "54%"
+        }
+      },
+      "description": "Watch Heerenveen vs Twente highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on August 9, 2026. SC Heerenveen and Twente faced off in a highly anticipated Eredivisie encounter, where tactical discipline and individual moments of brilliance were expected to define the afternoon. The match on 2026-08-09 brought together two sides eager to establish their dominance early in the campaign in front of a 21,022-strong crowd. A Cagey Opening Period The first half was a battle of attrition, with both sides struggling to find a clear opening. Twente looked the more threatening early on, as Sondre Oerjasaeter unleashed a powerful drive from distance in the 11th minute that whistled just wide of the post. Marko Pjaca kept the home defense on their toes with a series of dangerous corner deliveries, but SC Heerenveen remained organized. Bernt Klaverboer was called into action for routine collections, ensuring the game remained deadlocked as the teams headed into the tunnel for the break. Oyen Breaks the Deadlock The introduction of Luca Oyen at the start of the second half proved to be a masterstroke. Replacing Lanroy Machine , the substitute needed just six minutes to make his mark. In the 52nd minute, Jacob Trenskow found space to provide a perfectly weighted assist for Luca Oyen , who calmly slotted the ball home with his left foot. The goal shifted the momentum, forcing Twente to abandon their cautious approach and commit more players forward in search of an equalizer. Twente’s Late Surge and Defensive Resilience As the clock ticked down, Twente launched a relentless aerial assault. Younes Taha delivered a barrage of corners, testing the resolve of the SC Heerenveen backline. Headers from Max Bruns and Robin Propper forced saves from Bernt Klaverboer , who remained composed under immense pressure. The tension boiled over in stoppage time as Daan Rots received a yellow card for a reckless challenge, and Luca Oyen was booked for time-wasting. Despite a late chance for Wout Weghorst that flashed wide, the home side held firm to secure all three points."
+    },
+    {
+      "title": "Manchester City vs Atletico Madrid",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-city-vs-atletico-madrid-2026-08-09-rAJH.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/530.webp",
+          "name": "Atletico Madrid",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/50.webp",
+          "name": "Manchester City",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/manchester-city-vs-atletico-madrid-2026-08-09_UeDcc.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Atletico Madrid",
+          "player": "J. Dominguez",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Atletico Madrid",
+          "player": "M. Hjulmand",
           "event_type": "Yellow Card"
         },
         {
           "time": "61'",
           "team": "Manchester City",
-          "player": "A. Khusanov",
+          "player": "O. Marmoush",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Manchester City",
+          "player": "O. Marmoush",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Manchester City",
+          "player": "J. Gvardiol",
           "event_type": "Yellow Card"
         },
         {
-          "time": "PEN 1",
+          "time": "106'",
           "team": "Manchester City",
           "player": "R. Aït-Nouri",
           "event_type": "Goal",
-          "score_update": "0 - 0"
-        },
-        {
-          "time": "PEN 1",
-          "team": "Inter",
-          "player": "P. Zieliński",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "PEN 2",
-          "team": "Manchester City",
-          "player": "A. Khusanov",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "PEN 2",
-          "team": "Inter",
-          "player": "D. Frattesi",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "PEN 3",
-          "team": "Manchester City",
-          "player": "N. González",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "PEN 3",
-          "team": "Inter",
-          "player": "M. Mosconi",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "PEN 4",
-          "team": "Manchester City",
-          "player": "C. Echeverri",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "PEN 4",
-          "team": "Inter",
-          "player": "M. Lavelli",
-          "event_type": "Goal",
-          "score_update": "1 - 3"
+          "score_update": "3 - 1"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Manchester City_wins": "2",
+          "Manchester City_wins": "0",
           "draws": "1",
-          "Inter_wins": "0"
+          "Atletico Madrid_wins": "1"
         },
         "previous_matches": [
           {
-            "date": "18/09/2024",
-            "competition": "League Stage 24/25",
-            "teams_and_score": "Manchester City 0 - 0 Inter"
+            "date": "30/07/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Manchester City 1 - 2 Atletico Madrid"
           },
           {
-            "date": "10/06/2023",
-            "competition": "Final 22/23",
-            "teams_and_score": "Manchester City 1 - 0 Inter"
-          },
-          {
-            "date": "31/07/2011",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Inter 0 - 3 Manchester City"
+            "date": "13/04/2022",
+            "competition": "Quarter-Finals 21/22",
+            "teams_and_score": "Atletico Madrid 0 - 0 Manchester City"
           }
         ],
         "home_team_form": {
           "team": "Manchester City",
           "form": [
-            "D",
+            "W",
             "L",
             "W",
             "W",
@@ -362,10 +1409,10 @@
           ],
           "recent_matches": [
             {
-              "date": "01/08/2026",
+              "date": "09/08/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester City 1 - 1 Inter",
-              "result": "D"
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "W"
             },
             {
               "date": "24/05/2026",
@@ -394,1492 +1441,55 @@
           ]
         },
         "away_team_form": {
-          "team": "Inter",
+          "team": "Atletico Madrid",
           "form": [
-            "D",
-            "D",
+            "L",
             "W",
-            "W",
+            "L",
+            "L",
             "W"
           ],
           "recent_matches": [
             {
-              "date": "01/08/2026",
+              "date": "09/08/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester City 1 - 1 Inter",
-              "result": "D"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Bologna 3 - 3 Inter",
-              "result": "D"
-            },
-            {
-              "date": "13/05/2026",
-              "competition": "Coppa Italia: Final",
-              "teams_and_score": "Lazio 0 - 2 Inter",
-              "result": "W"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Lazio 0 - 3 Inter",
-              "result": "W"
-            },
-            {
-              "date": "21/04/2026",
-              "competition": "Coppa Italia: Semi-Finals",
-              "teams_and_score": "Inter 3 - 2 Como 1907",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Manchester City vs Inter highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
-    },
-    {
-      "title": "Aberdeen - Heart of Midlothian",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-heart-of-midlothian-2026-08-01-0QkG.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 1, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/254.webp",
-          "name": "Heart Of Midlothian",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/252.webp",
-          "name": "Aberdeen",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-heart-of-midlothian-2026-08-01_l8S3M.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Aberdeen",
-          "player": "B. Lyons",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Heart Of Midlothian",
-          "player": "O. McEntee",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Heart Of Midlothian",
-          "player": "J. Altena",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "89'",
-          "team": "Heart Of Midlothian",
-          "player": "H. Milne",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90'",
-          "team": "Aberdeen",
-          "player": "K. Nisbet",
-          "event_type": "Goal",
-          "assist": "L. Mayo",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "90+3'",
-          "team": "Heart Of Midlothian",
-          "player": "S. Findlay",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Aberdeen",
-          "player": "K. Nisbet",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "90+6'",
-          "team": "Aberdeen",
-          "player": "K. Nisbet",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Aberdeen_wins": "1",
-          "draws": "1",
-          "Heart Of Midlothian_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "28/02/2026",
-            "competition": "Premiership",
-            "teams_and_score": "Hearts 1 - 0 Aberdeen"
-          },
-          {
-            "date": "19/04/2025",
-            "competition": "Scottish Cup: Semi-Finals",
-            "teams_and_score": "Hearts 1 - 2 Aberdeen"
-          },
-          {
-            "date": "12/01/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Aberdeen 0 - 0 Hearts"
-          },
-          {
-            "date": "27/01/2024",
-            "competition": "Premiership 23/24",
-            "teams_and_score": "Hearts 2 - 0 Aberdeen"
-          }
-        ],
-        "home_team_form": {
-          "team": "Aberdeen",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Aberdeen 2 - 1 Hearts",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group A",
-              "teams_and_score": "Aberdeen 3 - 0 Kelty Hearts",
-              "result": "W"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Linfield 0 - 2 Aberdeen",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Premiership: Relegation Group",
-              "teams_and_score": "Dundee FC 3 - 2 Aberdeen",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Heart Of Midlothian",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Aberdeen 2 - 1 Hearts",
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
               "result": "L"
             },
-            {
-              "date": "28/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hearts 0 - 2 Sturm Graz",
-              "result": "W"
-            },
-            {
-              "date": "17/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Hearts 2 - 1 Rayo Vallecano",
-              "result": "L"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "Premiership: Championship Group",
-              "teams_and_score": "Celtic 3 - 1 Hearts",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Aberdeen": "3",
-          "Heart Of Midlothian": "4"
-        },
-        "shots_off_target": {
-          "Aberdeen": "4",
-          "Heart Of Midlothian": "7"
-        },
-        "shots_blocked": {
-          "Aberdeen": "4",
-          "Heart Of Midlothian": "8"
-        },
-        "corners": {
-          "Aberdeen": "4",
-          "Heart Of Midlothian": "6"
-        },
-        "fouls": {
-          "Aberdeen": "10",
-          "Heart Of Midlothian": "17"
-        },
-        "offsides": {
-          "Aberdeen": "3",
-          "Heart Of Midlothian": "0"
-        },
-        "yellow_cards": {
-          "Aberdeen": "3",
-          "Heart Of Midlothian": "2"
-        },
-        "red_cards": {
-          "Aberdeen": "0",
-          "Heart Of Midlothian": "1"
-        },
-        "goalkeeper_saves": {
-          "Aberdeen": "3",
-          "Heart Of Midlothian": "1"
-        },
-        "crosses": {
-          "Aberdeen": "6",
-          "Heart Of Midlothian": "3"
-        },
-        "ball_possession": {
-          "Aberdeen": "51%",
-          "Heart Of Midlothian": "49%"
-        }
-      },
-      "description": "Watch Aberdeen vs Heart Of Midlothian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 1, 2026. The stage was set for a classic Scottish Premiership encounter on August 1, 2026 , as Aberdeen welcomed Heart of Midlothian . Both sides brought a high level of intensity to the pitch, knowing that every point in this early-season clash would be vital. Hearts Take the Initiative Heart of Midlothian started the match with a clear tactical plan, looking to disrupt Aberdeen ’s rhythm with a physical approach. The competitive nature of the game was evident early on when Brad Lyons received a yellow card in the 34th minute. The visitors capitalized on their momentum just a minute later, as Oisin McEntee found the back of the net to give the visitors a deserved lead. Aberdeen struggled to find an immediate response, and despite Jordi Altena picking up a caution for the visitors shortly before the break, Hearts headed into the interval with their noses in front. Tactical Adjustments and Rising Tension As the second half got underway, the match evolved into a game of chess between the two managers. A flurry of substitutions followed after the hour mark, with players like Stuart Armstrong , Gavin Molloy , and Jamie McCart introduced to alter the dynamic. Aberdeen gradually began to dominate possession, piling pressure on the visitors' backline. The tension reached a boiling point as the match entered its final phase, with Harry Milne receiving a yellow card in the 89th minute as Hearts fought desperately to protect their slender advantage. The Ultimate Stoppage-Time Turnaround Just as the clock hit the 90-minute mark, the match exploded into life. Kevin Nisbet leveled the scores after being set up by Lewis Mayo , sending the home crowd into a frenzy. The drama intensified in the 93rd minute when Stuart Findlay was shown a straight red card, leading to furious protests from the visiting side. Capitalizing on the chaos, Aberdeen were awarded a penalty in the 95th minute. Kevin Nisbet stepped up to calmly slot home his second of the game, completing a stunning turnaround. Despite a late yellow card for Nisbet during the celebrations, Aberdeen held firm through eleven minutes of stoppage time to claim all three points."
-    },
-    {
-      "title": "Independiente - Newell's",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/independiente-newells-2026-07-31-4sq8.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Jul 31, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/434.webp",
-          "name": "Gimnasia LP",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/453.webp",
-          "name": "Independiente",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/independiente-newells-2026-07-31_Jpz7H.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Independiente",
-          "player": "S. Montiel",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Independiente",
-          "player": "J. M. Fedorco",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "73'",
-          "team": "Gimnasia LP",
-          "player": "L. Regiardo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "77'",
-          "team": "Gimnasia LP",
-          "player": "F. Escobar",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "88'",
-          "team": "Independiente",
-          "player": "D. Martinez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Gimnasia LP",
-          "player": "F. Scarpeccio",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Independiente_wins": "3",
-          "draws": "2",
-          "Gimnasia LP_wins": "4"
-        },
-        "previous_matches": [
-          {
-            "date": "28/01/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Newell's Old Boys 1 - 1 Independiente"
-          },
-          {
-            "date": "26/11/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "Newell's Old Boys 2 - 1 Independiente"
-          },
-          {
-            "date": "11/07/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Independiente 0 - 2 Newell's Old Boys"
-          },
-          {
-            "date": "24/09/2022",
-            "competition": "Primera Division 2022",
-            "teams_and_score": "Independiente 1 - 0 Newell's Old Boys"
-          },
-          {
-            "date": "31/10/2021",
-            "competition": "Primera Division 2021",
-            "teams_and_score": "Newell's Old Boys 1 - 0 Independiente"
-          },
-          {
-            "date": "05/03/2021",
-            "competition": "Copa de la Liga Profesional: Group B",
-            "teams_and_score": "Newell's Old Boys 1 - 2 Independiente"
-          },
-          {
-            "date": "13/12/2019",
-            "competition": "Primera Division",
-            "teams_and_score": "Independiente 2 - 3 Newell's Old Boys"
-          }
-        ],
-        "home_team_form": {
-          "team": "Independiente",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "31/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Independiente 1 - 0 Newell's Old Boys",
-              "result": "W"
-            },
-            {
-              "date": "22/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Union 0 - 2 Independiente",
-              "result": "W"
-            },
-            {
-              "date": "10/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "Rosario Central 3 - 1 Independiente",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "San Lorenzo de Almagro 1 - 2 Independiente",
-              "result": "W"
-            },
-            {
-              "date": "27/03/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Independiente 4 - 2 Sportivo Atenas",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Gimnasia LP",
-          "form": [
-            "L",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "31/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Independiente 1 - 0 Newell's Old Boys",
-              "result": "L"
-            },
-            {
-              "date": "04/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Velez Sarsfield 1 - 1 Newell's Old Boys",
-              "result": "D"
-            },
-            {
-              "date": "29/03/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Newell's Old Boys 0 - 2 Acassuso",
-              "result": "W"
-            },
-            {
-              "date": "21/03/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Newell's Old Boys 1 - 0 Gimnasia Mendoza",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Independiente": "4",
-          "Gimnasia LP": "1"
-        },
-        "shots_off_target": {
-          "Independiente": "5",
-          "Gimnasia LP": "1"
-        },
-        "shots_blocked": {
-          "Independiente": "3",
-          "Gimnasia LP": "0"
-        },
-        "corners": {
-          "Independiente": "7",
-          "Gimnasia LP": "2"
-        },
-        "fouls": {
-          "Independiente": "12",
-          "Gimnasia LP": "7"
-        },
-        "offsides": {
-          "Independiente": "0",
-          "Gimnasia LP": "2"
-        },
-        "yellow_cards": {
-          "Independiente": "2",
-          "Gimnasia LP": "3"
-        },
-        "goalkeeper_saves": {
-          "Independiente": "1",
-          "Gimnasia LP": "3"
-        },
-        "ball_possession": {
-          "Independiente": "49%",
-          "Gimnasia LP": "51%"
-        }
-      },
-      "description": "Watch Independiente vs Gimnasia LP highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 31, 2026. The atmosphere in the Liga Profesional Argentina was electric on July 31, 2026, as Independiente faced off against Gimnasia LP . Both sides took to the field looking to assert their dominance in a clash defined by tactical discipline and physical intensity. Montiel Breaks the Deadlock The match began with a measured tempo, but the intensity quickly ramped up as both teams fought for control of the midfield. An early tactical shift saw Lautaro Rios replace Walter Nunez after just 31 minutes, signaling the high stakes of the encounter. The breakthrough finally arrived in the 41st minute when Santiago Gabriel Montiel found the back of the net with a clinical finish, sending the home fans into raptures. The tension boiled over just before the break, with Juan Fedorco picking up a yellow card in the 43rd minute. Tactical Shifts and a Gritty Finish The second half saw a flurry of changes as both managers looked to influence the outcome. Independiente introduced Maximiliano Meza and Alan Sonora at the restart to maintain their momentum. As the game progressed, it became a more physical affair, with the referee busy reaching for his pocket. Luca Regiardo and Franco Escobar were both booked for Gimnasia LP as they struggled to contain the home side's attacks. In the closing stages, the match remained balanced on a knife-edge. Despite a series of late substitutions, including the introduction of Luciano Cabral for the goalscorer Montiel , Independiente held firm. Even with late bookings for David Martinez and Francisco Scarpeccio , the hosts managed to navigate the four minutes of stoppage time to secure a hard-fought victory when the final whistle blew at 90+4'."
-    },
-    {
-      "title": "Central Córdoba - Atlético Tucumán",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/central-cordoba-atletico-tucuman-2026-07-31-w2zH.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Jul 31, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/455.webp",
-          "name": "Atletico Tucuman",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/790.webp",
-          "name": "Central Cordoba",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/central-cordoba-atletico-tucuman-2026-07-31_PWtmO.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "52'",
-          "team": "Atletico Tucuman",
-          "player": "F. Nicola",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "63'",
-          "team": "Atletico Tucuman",
-          "player": "L. Diaz",
-          "event_type": "Goal",
-          "assist": "R. R. Rodriguez",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "89'",
-          "team": "Central Cordoba",
-          "player": "F. Martinez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "Atletico Tucuman",
-          "player": "L. Diaz",
-          "event_type": "Goal",
-          "assist": "L. Ingolotti",
-          "score_update": "0 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Central Cordoba_wins": "3",
-          "draws": "4",
-          "Atletico Tucuman_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "28/01/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Atletico Tucuman 0 - 0 Central Cordoba de Santiago"
-          },
-          {
-            "date": "19/07/2025",
-            "competition": "Primera Division: Clausura",
-            "teams_and_score": "Atletico Tucuman 1 - 1 Central Cordoba de Santiago"
-          },
-          {
-            "date": "31/01/2025",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Central Cordoba de Santiago 2 - 0 Atletico Tucuman"
-          },
-          {
-            "date": "17/12/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "Atletico Tucuman 2 - 0 Central Cordoba de Santiago"
-          },
-          {
-            "date": "27/02/2024",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Central Cordoba de Santiago 0 - 0 Atletico Tucuman"
-          },
-          {
-            "date": "03/10/2023",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Atletico Tucuman 0 - 0 Central Cordoba de Santiago"
-          },
-          {
-            "date": "29/07/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Central Cordoba de Santiago 0 - 2 Atletico Tucuman"
-          }
-        ],
-        "home_team_form": {
-          "team": "Central Cordoba",
-          "form": [
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "31/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Central Cordoba de Santiago 0 - 2 Atletico Tucuman",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Central Cordoba de Santiago 1 - 2 Boca Juniors",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Atletico Tucuman",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "31/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Central Cordoba de Santiago 0 - 2 Atletico Tucuman",
-              "result": "W"
-            },
-            {
-              "date": "20/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
-              "result": "W"
-            },
-            {
-              "date": "03/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "River Plate 0 - 1 Atletico Tucuman",
-              "result": "W"
-            },
-            {
-              "date": "25/03/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Atletico Tucuman 2 - 1 Sportivo Barracas",
-              "result": "W"
-            },
-            {
-              "date": "21/03/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Atletico Tucuman 1 - 0 Gimnasia LP",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Central Cordoba": "1",
-          "Atletico Tucuman": "2"
-        },
-        "shots_off_target": {
-          "Central Cordoba": "5",
-          "Atletico Tucuman": "4"
-        },
-        "shots_blocked": {
-          "Central Cordoba": "3",
-          "Atletico Tucuman": "2"
-        },
-        "corners": {
-          "Central Cordoba": "4",
-          "Atletico Tucuman": "3"
-        },
-        "fouls": {
-          "Central Cordoba": "9",
-          "Atletico Tucuman": "13"
-        },
-        "offsides": {
-          "Central Cordoba": "0",
-          "Atletico Tucuman": "2"
-        },
-        "yellow_cards": {
-          "Central Cordoba": "1",
-          "Atletico Tucuman": "1"
-        },
-        "goalkeeper_saves": {
-          "Central Cordoba": "0",
-          "Atletico Tucuman": "1"
-        },
-        "ball_possession": {
-          "Central Cordoba": "59%",
-          "Atletico Tucuman": "41%"
-        }
-      },
-      "description": "Watch Central Cordoba vs Atletico Tucuman highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 31, 2026. The Liga Profesional Argentina action on July 31, 2026, brought together Central Córdoba and Atlético Tucumán in a clash of high stakes and tactical discipline. Fans expected a tightly contested affair, and the match delivered a narrative shaped by individual brilliance and defensive resilience. A Cagey Opening Period The first half was a story of two sides nullifying each other’s strengths. Central Córdoba looked to utilize their home advantage, pushing forward with intent, but Atlético Tucumán remained organized and disciplined at the back. Clear-cut chances were at a premium as the midfield battle dominated the proceedings. Both teams headed into the tunnel at halftime knowing that the second half would require a moment of magic to break the deadlock. Leandro Diaz Takes Charge As play resumed, the intensity shifted. A yellow card for Franco Nicola in the 52nd minute signaled a more aggressive approach from the visitors. That aggression paid off in the 63rd minute when Ramiro Ruiz delivered a pinpoint assist to Leandro Diaz , who clinicaly finished to give Atlético Tucumán the lead. The goal changed the complexion of the match , forcing Central Córdoba to throw more players forward in search of an equalizer. Late Drama and the Decisive Strike The closing stages were frantic as Central Córdoba made several tactical changes to salvage a point. However, their discipline wavered, resulting in a yellow card for Fernando Martinez in the 89th minute. Just as the home side pushed for a late miracle, Atlético Tucumán struck on the counter. In the 90+2 minute, Luis Ingolotti set up Leandro Diaz for his second goal of the night, effectively ending any hopes of a comeback. The referee blew the final whistle at 90+6 minutes, confirming a statement win for the visitors."
-    },
-    {
-      "title": "Talleres de Cordoba - Velez Sarsfield",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/talleres-de-cordoba-velez-sarsfield-2026-07-31-NuEJ.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Jul 31, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/438.webp",
-          "name": "Velez Sarsfield",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/456.webp",
-          "name": "Talleres Cordoba",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/talleres-de-cordoba-velez-sarsfield-2026-07-31_3kDEK.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Talleres Cordoba",
-          "player": "R. Martinez",
-          "event_type": "Goal",
-          "assist": "T. Chamorro",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Velez Sarsfield",
-          "player": "M. Pellegrini",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Talleres Cordoba",
-          "player": "F. Fattori",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Velez Sarsfield",
-          "player": "R. Aliendro",
-          "event_type": "Goal",
-          "assist": "E. Gomez",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "79'",
-          "team": "Velez Sarsfield",
-          "player": "T. Silveor",
-          "event_type": "Goal",
-          "assist": "L. Robertone",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "90'",
-          "team": "Velez Sarsfield",
-          "player": "D. Valdés",
-          "event_type": "Goal",
-          "assist": "T. Aguirre",
-          "score_update": "1 - 3"
-        },
-        {
-          "time": "90+2'",
-          "team": "Talleres Cordoba",
-          "player": "V. Fascendini",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Talleres Cordoba_wins": "4",
-          "draws": "1",
-          "Velez Sarsfield_wins": "4"
-        },
-        "previous_matches": [
-          {
-            "date": "27/01/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Velez Sarsfield 2 - 1 Talleres"
-          },
-          {
-            "date": "01/11/2025",
-            "competition": "Primera Division: Clausura",
-            "teams_and_score": "Velez Sarsfield 0 - 1 Talleres"
-          },
-          {
-            "date": "18/04/2025",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Talleres 0 - 1 Velez Sarsfield"
-          },
-          {
-            "date": "21/07/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "Velez Sarsfield 3 - 0 Talleres"
-          },
-          {
-            "date": "31/03/2024",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Talleres 1 - 0 Velez Sarsfield"
-          },
-          {
-            "date": "05/11/2023",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Velez Sarsfield 1 - 1 Talleres"
-          },
-          {
-            "date": "06/03/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Talleres 1 - 2 Velez Sarsfield"
-          }
-        ],
-        "home_team_form": {
-          "team": "Talleres Cordoba",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Talleres 1 - 3 Velez Sarsfield",
-              "result": "W"
-            },
-            {
-              "date": "20/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
-              "result": "W"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "Talleres 0 - 1 Belgrano",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Union 1 - 1 Talleres",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Velez Sarsfield",
-          "form": [
-            "W",
-            "L",
-            "D",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Talleres 1 - 3 Velez Sarsfield",
-              "result": "W"
-            },
-            {
-              "date": "11/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "Velez Sarsfield 0 - 1 Gimnasia LP",
-              "result": "L"
-            },
-            {
-              "date": "04/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Velez Sarsfield 1 - 1 Newell's Old Boys",
-              "result": "D"
-            },
-            {
-              "date": "01/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Velez Sarsfield 2 - 0 Gimnasia y Tiro",
-              "result": "W"
-            },
-            {
-              "date": "27/04/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Velez Sarsfield 2 - 2 Union",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Talleres Cordoba": "6",
-          "Velez Sarsfield": "5"
-        },
-        "shots_off_target": {
-          "Talleres Cordoba": "12",
-          "Velez Sarsfield": "4"
-        },
-        "shots_blocked": {
-          "Talleres Cordoba": "2",
-          "Velez Sarsfield": "0"
-        },
-        "corners": {
-          "Talleres Cordoba": "8",
-          "Velez Sarsfield": "4"
-        },
-        "fouls": {
-          "Talleres Cordoba": "9",
-          "Velez Sarsfield": "6"
-        },
-        "offsides": {
-          "Talleres Cordoba": "2",
-          "Velez Sarsfield": "0"
-        },
-        "yellow_cards": {
-          "Talleres Cordoba": "2",
-          "Velez Sarsfield": "1"
-        },
-        "goalkeeper_saves": {
-          "Talleres Cordoba": "2",
-          "Velez Sarsfield": "5"
-        },
-        "ball_possession": {
-          "Talleres Cordoba": "63%",
-          "Velez Sarsfield": "37%"
-        }
-      },
-      "description": "Watch Talleres Cordoba vs Velez Sarsfield highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 31, 2026. The Liga Profesional Argentina clash between Talleres de Cordoba and Velez Sarsfield on July 31, 2026, delivered a tactical battle filled with intensity. Fans witnessed a game where defensive discipline was tested against clinical finishing, keeping the result in doubt until the very final moments. A Tightly Contested Opening Half Talleres de Cordoba started the match with intent, looking to use their home advantage to unsettle the visitors. Their persistence paid off in the 27th minute when Ronaldo Martinez found the back of the net, clinical in his finish after being set up by Timoteo Chamorro . Velez Sarsfield struggled with discipline shortly after, as Matias Pellegrini and Federico Fattori both picked up yellow cards. However, the visitors found a way back just before the whistle; in the 45th minute, Rodrigo Aliendro equalized following an assist from Elias Gomez , ensuring the sides went into the break level at 1-1. Tactical Shifts and Second Half Drama The second half saw a series of substitutions as both managers looked for a decisive edge. The momentum shifted in favor of Velez Sarsfield following the introduction of Lucas Robertone . In the 79th minute, Robertone turned provider for Thiago Silvero , who struck home to give the visitors the lead. Talleres attempted to respond by bringing on fresh legs like Bruno Barticciotto , but they found it difficult to break down a resilient Velez backline. As the clock struck 90 minutes, Velez Sarsfield put the game beyond reach. Diego Valdes , a late substitute for Luca Feler , converted a pass from Thiago Aguirre to make it 3-1. A late yellow card for Valentin Fascendini in stoppage time reflected the frustration of the home side as Velez Sarsfield celebrated a hard-fought away victory."
-    },
-    {
-      "title": "Benfica vs FC St. Gallen",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/benfica-vs-fc-st-gallen-2026-07-31-eYv8.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Jul 31, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1011.webp",
-          "name": "FC St. Gallen",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/211.webp",
-          "name": "Benfica",
-          "score": "5"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/benfica-vs-fc-st-gallen-2026-07-31_96c9X.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Benfica",
-          "player": "V. Pavlidis",
-          "event_type": "Goal",
-          "assist": "R. Silva",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "FC St. Gallen",
-          "player": "J. Stanic",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "FC St. Gallen",
-          "player": "C. Okoroji",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Benfica",
-          "player": "V. Pavlidis",
-          "event_type": "Goal",
-          "assist": "J. Kaminski",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "76'",
-          "team": "FC St. Gallen",
-          "player": "J. Stanic",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "91'",
-          "team": "Benfica",
-          "player": "V. Pavlidis",
-          "event_type": "Goal",
-          "assist": "A. Bah",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "106'",
-          "team": "Benfica",
-          "player": "V. Pavlidis",
-          "event_type": "Goal",
-          "score_update": "4 - 0"
-        },
-        {
-          "time": "121'",
-          "team": "Benfica",
-          "player": "C. Lenglet",
-          "event_type": "Goal",
-          "assist": "D. Lukébakio",
-          "score_update": "5 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Benfica_wins": "0",
-          "draws": "0",
-          "FC St. Gallen_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "23/07/2026",
-            "competition": "Qualification",
-            "teams_and_score": "St. Gallen 2 - 1 Benfica"
-          }
-        ],
-        "home_team_form": {
-          "team": "Benfica",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Benfica 5 - 0 St. Gallen",
-              "result": "W"
-            },
-            {
-              "date": "24/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Benfica 5 - 1 CF Os Belenenses",
-              "result": "W"
-            },
-            {
-              "date": "23/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "St. Gallen 2 - 1 Benfica",
-              "result": "L"
-            },
-            {
-              "date": "17/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Benfica 2 - 0 Villarreal",
-              "result": "W"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Benfica 1 - 2 Flamengo",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "FC St. Gallen",
-          "form": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Benfica 5 - 0 St. Gallen",
-              "result": "L"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Super League",
-              "teams_and_score": "St. Gallen 2 - 1 FC Zurich",
-              "result": "L"
-            },
-            {
-              "date": "23/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "St. Gallen 2 - 1 Benfica",
-              "result": "L"
-            },
-            {
-              "date": "17/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "St. Gallen 0 - 3 Norwich City",
-              "result": "W"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Lyon 6 - 3 St. Gallen",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Benfica": "10",
-          "FC St. Gallen": "3"
-        },
-        "shots_off_target": {
-          "Benfica": "8",
-          "FC St. Gallen": "6"
-        },
-        "shots_blocked": {
-          "Benfica": "7",
-          "FC St. Gallen": "2"
-        },
-        "corners": {
-          "Benfica": "9",
-          "FC St. Gallen": "2"
-        },
-        "fouls": {
-          "Benfica": "5",
-          "FC St. Gallen": "12"
-        },
-        "offsides": {
-          "Benfica": "3",
-          "FC St. Gallen": "3"
-        },
-        "yellow_cards": {
-          "Benfica": "0",
-          "FC St. Gallen": "1"
-        },
-        "red_cards": {
-          "Benfica": "0",
-          "FC St. Gallen": "1"
-        },
-        "goalkeeper_saves": {
-          "Benfica": "2",
-          "FC St. Gallen": "5"
-        },
-        "crosses": {
-          "Benfica": "7",
-          "FC St. Gallen": "2"
-        },
-        "ball_possession": {
-          "Benfica": "72%",
-          "FC St. Gallen": "28%"
-        }
-      },
-      "description": "Watch Benfica vs FC St. Gallen highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 31, 2026. On the night of July 31, 2026 , the UEFA Europa League returned with a highly anticipated fixture between Portuguese giants Benfica and the Swiss visitors FC St. Gallen . Fans gathered to witness a tactical battle that promised high intensity and European drama. Early Breakthrough in Lisbon The match began with Benfica exerting immediate pressure, controlling the rhythm of the football from the opening whistle. It didn't take long for the deadlock to be broken. In the 11th minute, Rafa Silva played a pinpoint ball to Vangelis Pavlidis , who made no mistake in finding the back of the net. This early goal set the tone for the first half , as FC St. Gallen struggled to find their footing against a relentless home side. The Swiss side faced further complications when Jozo Stanic received a yellow card early on, and a tactical substitution was forced in the 33rd minute as Joel Ruiz replaced Tom Gaal . Despite these setbacks, the visitors managed to keep the deficit to a single goal heading into the interval. Turning Point and Disciplinary Woes The second half saw the momentum shift decisively. Ten minutes after the restart, Jakub Kaminski provided a brilliant assist for Vangelis Pavlidis to double the lead. Just moments later, the game reached a critical turning point when Jozo Stanic was shown a second yellow card and subsequently a red card , leaving FC St. Gallen with ten men. Exploiting the numerical advantage, Benfica continued their assault. Alexander Bah delivered a cross in the 66th minute that allowed Vangelis Pavlidis to complete a stunning hat-trick. The Greek striker wasn't finished yet; in the 74th minute, he converted a clinical penalty to score his fourth of the night, cementing his status as the standout player of the match . Clinical Finish and Late Flair With the result effectively sealed, both managers turned to their benches. Benfica introduced fresh legs including Dodi Lukebakio and Andreas Schjelderup . The substitutes made an immediate impact, with Lukebakio providing the assist for Clement Lenglet to add a fifth goal in the 81st minute. As the final whistle blew, it was a dominant display of sports excellence by the Lisbon side."
-    },
-    {
-      "title": "Parma vs Arezzo",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/parma-vs-arezzo-2026-07-31-YjbU.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Jul 31, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/876.webp",
-          "name": "Arezzo",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/523.webp",
-          "name": "Parma",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/parma-vs-arezzo-2026-07-31_cI4MA.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Parma",
-          "player": "R. Kouda",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Arezzo",
-          "player": "M. Sala",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Parma_wins": "0",
-          "draws": "0",
-          "Arezzo_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Parma",
-          "form": [
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Parma 1 - 1 S.S. Arezzo",
-              "result": "D"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Parma 1 - 0 Sassuolo",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Arezzo",
-          "form": [
-            "D",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Parma 1 - 1 S.S. Arezzo",
-              "result": "D"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Super Cup Serie C",
-              "teams_and_score": "Benevento 1 - 0 S.S. Arezzo",
-              "result": "L"
-            },
-            {
-              "date": "26/04/2026",
-              "competition": "Serie C: Group B",
-              "teams_and_score": "S.S. Arezzo 3 - 1 Torres",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Parma vs Arezzo highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 31, 2026."
-    },
-    {
-      "title": "Doncaster vs Wolves",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/doncaster-vs-wolves-2026-07-31-MgEt.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Jul 31, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/39.webp",
-          "name": "Wolves",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1354.webp",
-          "name": "Doncaster",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/doncaster-vs-wolves-2026-07-31_CTBQN.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "46'",
-          "team": "Wolves",
-          "player": "F. Lopez",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Wolves",
-          "player": "T. Chirewa",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Doncaster_wins": "1",
-          "draws": "0",
-          "Wolves_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "01/08/2015",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Doncaster Rovers 3 - 4 Wolves"
-          },
-          {
-            "date": "18/01/2011",
-            "competition": "FA Cup",
-            "teams_and_score": "Wolves 5 - 0 Doncaster Rovers"
-          },
-          {
-            "date": "03/05/2009",
-            "competition": "Championship",
-            "teams_and_score": "Wolves 1 - 0 Doncaster Rovers"
-          },
-          {
-            "date": "25/07/2007",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Doncaster Rovers 1 - 0 Wolves"
-          }
-        ],
-        "home_team_form": {
-          "team": "Doncaster",
-          "form": [
-            "L",
-            "W"
-          ],
-          "recent_matches": [
             {
               "date": "29/07/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Doncaster Rovers 0 - 2 Wolves",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Peterborough United 1 - 3 Doncaster Rovers",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Wolves",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Doncaster Rovers 0 - 2 Wolves",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Wolves 1 - 2 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "22/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Maidenhead United 0 - 1 Wolves",
+              "teams_and_score": "Atletico Madrid 4 - 1 Getafe",
               "result": "W"
             },
             {
               "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Burnley 1 - 1 Wolves",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Doncaster vs Wolves highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 31, 2026."
-    },
-    {
-      "title": "Bromley vs QPR",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/bromley-vs-qpr-2026-07-31-k0Yw.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Jul 31, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/72.webp",
-          "name": "QPR",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1832.webp",
-          "name": "Bromley",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/bromley-vs-qpr-2026-07-31_4ERPo.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {
-          "Bromley_wins": "0",
-          "draws": "0",
-          "QPR_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Bromley",
-          "form": [
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "28/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Bromley 1 - 1 Millwall",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Bromley 3 - 1 Walsall",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "QPR",
-          "form": [
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "QPR 3 - 2 Fiorentina",
-              "result": "W"
-            },
-            {
-              "date": "21/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "QPR 1 - 0 Wycombe Wanderers",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Ipswich Town 3 - 0 QPR",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Villarreal 5 - 1 Atletico Madrid",
               "result": "L"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Semi-Finals",
+              "teams_and_score": "Arsenal 1 - 0 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Valencia 0 - 2 Atletico Madrid",
+              "result": "W"
             }
           ]
         }
       },
       "statistics": {},
-      "description": "Watch Bromley vs QPR highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 31, 2026."
+      "description": "Watch Manchester City vs Atletico Madrid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
     }
   ],
   "hasMore": false,
-  "currentCount": 10,
-  "totalCount": 760,
+  "currentCount": 12,
+  "totalCount": 762,
   "currentPage": 16,
   "lastPage": 16
 }
