@@ -2,8 +2,232 @@
   "team": "Nacional",
   "team_logo": "https://img.refooty.com/logo/teams/225.webp",
   "total_matches": 2,
-  "Last update time": "05:50:19 AM 22-08-2026",
+  "Last update time": "06:30:07 AM 22-08-2026",
   "matches": [
+    {
+      "title": "Santa Clara vs Nacional",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/santa-clara-vs-nacional-2026-08-10-eVon.webp",
+      "competition": "Primeira Liga",
+      "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+      "date": "Aug 10, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/225.webp",
+          "name": "Nacional",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/227.webp",
+          "name": "Santa Clara",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/santa-clara-vs-nacional-2026-08-10_zikyl.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Santa Clara",
+          "player": "G. Paciencia",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Santa Clara",
+          "player": "G. Paciencia",
+          "event_type": "Goal",
+          "assist": "D. Calila",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Santa Clara",
+          "player": "Vinicius",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Nacional",
+          "player": "Liziero",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Santa Clara",
+          "player": "D. Borges",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Nacional",
+          "player": "Wesley",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Nacional",
+          "player": "M. Baeza",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Nacional",
+          "player": "F. Soares",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Santa Clara_wins": "4",
+          "draws": "2",
+          "Nacional_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "11/05/2026",
+            "competition": "Primeira Liga",
+            "teams_and_score": "Santa Clara 2 - 0 Nacional"
+          },
+          {
+            "date": "30/03/2025",
+            "competition": "Primeira Liga",
+            "teams_and_score": "Santa Clara 1 - 0 Nacional"
+          },
+          {
+            "date": "17/03/2024",
+            "competition": "Liga Portugal 2 23/24",
+            "teams_and_score": "Santa Clara 0 - 1 Nacional"
+          },
+          {
+            "date": "11/01/2024",
+            "competition": "Portugal Cup: Round 5",
+            "teams_and_score": "Santa Clara 1 - 1 Nacional"
+          },
+          {
+            "date": "04/11/2023",
+            "competition": "Liga Portugal 2 23/24",
+            "teams_and_score": "Nacional 1 - 1 Santa Clara"
+          },
+          {
+            "date": "31/07/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Nacional 1 - 2 Santa Clara"
+          },
+          {
+            "date": "11/04/2021",
+            "competition": "Primeira Liga 20/21",
+            "teams_and_score": "Santa Clara 5 - 1 Nacional"
+          }
+        ],
+        "home_team_form": {
+          "team": "Santa Clara",
+          "form": [
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/08/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "Santa Clara 2 - 2 Nacional",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Santa Clara 3 - 0 Arouca",
+              "result": "W"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "FC Porto 1 - 0 Santa Clara",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Nacional",
+          "form": [
+            "D",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/08/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "Santa Clara 2 - 2 Nacional",
+              "result": "D"
+            },
+            {
+              "date": "23/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "CF Estrela da Amadora 2 - 0 Nacional",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "Nacional 2 - 0 Vitoria de Guimaraes",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Santa Clara": "7",
+          "Nacional": "4"
+        },
+        "shots_off_target": {
+          "Santa Clara": "5",
+          "Nacional": "6"
+        },
+        "shots_blocked": {
+          "Santa Clara": "6",
+          "Nacional": "1"
+        },
+        "corners": {
+          "Santa Clara": "4",
+          "Nacional": "4"
+        },
+        "fouls": {
+          "Santa Clara": "15",
+          "Nacional": "14"
+        },
+        "offsides": {
+          "Santa Clara": "0",
+          "Nacional": "1"
+        },
+        "yellow_cards": {
+          "Santa Clara": "2",
+          "Nacional": "2"
+        },
+        "goalkeeper_saves": {
+          "Santa Clara": "2",
+          "Nacional": "5"
+        },
+        "crosses": {
+          "Santa Clara": "17",
+          "Nacional": "25"
+        },
+        "ball_possession": {
+          "Santa Clara": "51%",
+          "Nacional": "49%"
+        }
+      },
+      "description": "Watch Santa Clara vs Nacional highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on August 10, 2026. The atmosphere was electric on August 10, 2026, as Santa Clara hosted Nacional in a highly anticipated Primeira Liga encounter. Both teams entered the pitch with clear tactical intentions, setting the stage for a compelling battle of wits and skill. Early Dominance for Santa Clara The match ignited early as Santa Clara looked to capitalize on their home-field advantage. In the 17th minute, Daniel Borges nearly produced a contender for goal of the season with a spectacular bicycle kick, only to be denied by a brilliant save from Renato Marin . However, the pressure finally told in the 19th minute. Capitalizing on a defensive lapse by Joel da Silva , Gonçalo Paciência clinical finished to give the hosts the lead. Just two minutes later, Paciência was at it again, doubling the advantage with a powerful header following a pinpoint corner from Diogo Calila . Nacional’s Resilient Response Just as Santa Clara seemed to be cruising, the momentum shifted dramatically in favor of Nacional . In the 35th minute, Guilherme Romão conceded a penalty for a trip on Markus Gustav Jensen . Liziero stepped up and coolly converted the spot-kick with his left foot to bring the visitors back into the game. The drama intensified just before the halftime whistle when Miguel Baeza found space to fire home an equalizer. A tense VAR review followed, but the goal was ultimately confirmed, leaving the scores level at the break after a breathless opening 45 minutes. A Tactical Second Half The second half proved to be a tighter affair as both managers adjusted their setups. The game became increasingly physical, leading to a yellow card for Filipe Soares in the 70th minute for unsportsmanlike conduct. A flurry of tactical substitutions followed, with Santa Clara introducing Lucas Soares and Nacional bringing on Tiago Ribeiro to find a late winner. Despite the fresh legs, clear-cut chances were hard to come by. Santa Clara pushed for a winner in stoppage time, but a blocked shot from Lucas Soares ensured that both sides walked away with a hard-earned point in a game of two halves."
+    },
     {
       "title": "Nacional vs Estoril Praia",
       "thumbnail_url": "https://img.refooty.com/thumbnail/nacional-vs-estoril-praia-2026-08-16-0bqc.webp",
@@ -230,230 +454,6 @@
         }
       },
       "description": "Watch Nacional vs Estoril Praia highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on August 16, 2026. The stage was set for an intense Primeira Liga showdown as Nacional and Estoril Praia looked to assert their dominance from the opening whistle. In a match played on August 16, 2026, both sides entered the pitch fully aware of the high stakes involved in their domestic campaign. Tactical Battle and the Turning Point The first half was characterized by a gritty physical contest in the midfield. Estoril Praia 's game plan suffered a major setback in the 32nd minute when Xeka was dismissed after receiving his second yellow card of the game. Even with ten men, the visitors attempted to maintain their defensive structure, while Nacional looked to exploit the gaps, relying heavily on set-pieces delivered by Filipe Soares . Breakthrough and Clinical Finishing Following the halftime break, the pressure from the hosts became overwhelming. In the 68th minute, Ze Vitor broke the deadlock, unleashing a clinical left-footed strike from outside the box following an assist from Leonardo Santos . The lead was doubled in the 77th minute when Leonardo Santos powered home a header from a Filipe Soares corner. Despite a late surge from Estoril Praia that saw Daniel de la Cruz strike the woodwork, Nacional successfully protected their lead to secure a hard-fought victory."
-    },
-    {
-      "title": "Santa Clara vs Nacional",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/santa-clara-vs-nacional-2026-08-10-eVon.webp",
-      "competition": "Primeira Liga",
-      "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
-      "date": "Aug 10, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/225.webp",
-          "name": "Nacional",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/227.webp",
-          "name": "Santa Clara",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/santa-clara-vs-nacional-2026-08-10_zikyl.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Santa Clara",
-          "player": "G. Paciencia",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Santa Clara",
-          "player": "G. Paciencia",
-          "event_type": "Goal",
-          "assist": "D. Calila",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Santa Clara",
-          "player": "Vinicius",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Nacional",
-          "player": "Liziero",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Santa Clara",
-          "player": "D. Borges",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Nacional",
-          "player": "Wesley",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Nacional",
-          "player": "M. Baeza",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "46'",
-          "team": "Nacional",
-          "player": "F. Soares",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Santa Clara_wins": "4",
-          "draws": "2",
-          "Nacional_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "11/05/2026",
-            "competition": "Primeira Liga",
-            "teams_and_score": "Santa Clara 2 - 0 Nacional"
-          },
-          {
-            "date": "30/03/2025",
-            "competition": "Primeira Liga",
-            "teams_and_score": "Santa Clara 1 - 0 Nacional"
-          },
-          {
-            "date": "17/03/2024",
-            "competition": "Liga Portugal 2 23/24",
-            "teams_and_score": "Santa Clara 0 - 1 Nacional"
-          },
-          {
-            "date": "11/01/2024",
-            "competition": "Portugal Cup: Round 5",
-            "teams_and_score": "Santa Clara 1 - 1 Nacional"
-          },
-          {
-            "date": "04/11/2023",
-            "competition": "Liga Portugal 2 23/24",
-            "teams_and_score": "Nacional 1 - 1 Santa Clara"
-          },
-          {
-            "date": "31/07/2022",
-            "competition": "Club Friendlies 2022",
-            "teams_and_score": "Nacional 1 - 2 Santa Clara"
-          },
-          {
-            "date": "11/04/2021",
-            "competition": "Primeira Liga 20/21",
-            "teams_and_score": "Santa Clara 5 - 1 Nacional"
-          }
-        ],
-        "home_team_form": {
-          "team": "Santa Clara",
-          "form": [
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "10/08/2026",
-              "competition": "Primeira Liga",
-              "teams_and_score": "Santa Clara 2 - 2 Nacional",
-              "result": "D"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Santa Clara 3 - 0 Arouca",
-              "result": "W"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "Primeira Liga",
-              "teams_and_score": "FC Porto 1 - 0 Santa Clara",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Nacional",
-          "form": [
-            "D",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "10/08/2026",
-              "competition": "Primeira Liga",
-              "teams_and_score": "Santa Clara 2 - 2 Nacional",
-              "result": "D"
-            },
-            {
-              "date": "23/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "CF Estrela da Amadora 2 - 0 Nacional",
-              "result": "L"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "Primeira Liga",
-              "teams_and_score": "Nacional 2 - 0 Vitoria de Guimaraes",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Santa Clara": "7",
-          "Nacional": "4"
-        },
-        "shots_off_target": {
-          "Santa Clara": "5",
-          "Nacional": "6"
-        },
-        "shots_blocked": {
-          "Santa Clara": "6",
-          "Nacional": "1"
-        },
-        "corners": {
-          "Santa Clara": "4",
-          "Nacional": "4"
-        },
-        "fouls": {
-          "Santa Clara": "15",
-          "Nacional": "14"
-        },
-        "offsides": {
-          "Santa Clara": "0",
-          "Nacional": "1"
-        },
-        "yellow_cards": {
-          "Santa Clara": "2",
-          "Nacional": "2"
-        },
-        "goalkeeper_saves": {
-          "Santa Clara": "2",
-          "Nacional": "5"
-        },
-        "crosses": {
-          "Santa Clara": "17",
-          "Nacional": "25"
-        },
-        "ball_possession": {
-          "Santa Clara": "51%",
-          "Nacional": "49%"
-        }
-      },
-      "description": "Watch Santa Clara vs Nacional highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on August 10, 2026. The atmosphere was electric on August 10, 2026, as Santa Clara hosted Nacional in a highly anticipated Primeira Liga encounter. Both teams entered the pitch with clear tactical intentions, setting the stage for a compelling battle of wits and skill. Early Dominance for Santa Clara The match ignited early as Santa Clara looked to capitalize on their home-field advantage. In the 17th minute, Daniel Borges nearly produced a contender for goal of the season with a spectacular bicycle kick, only to be denied by a brilliant save from Renato Marin . However, the pressure finally told in the 19th minute. Capitalizing on a defensive lapse by Joel da Silva , Gonçalo Paciência clinical finished to give the hosts the lead. Just two minutes later, Paciência was at it again, doubling the advantage with a powerful header following a pinpoint corner from Diogo Calila . Nacional’s Resilient Response Just as Santa Clara seemed to be cruising, the momentum shifted dramatically in favor of Nacional . In the 35th minute, Guilherme Romão conceded a penalty for a trip on Markus Gustav Jensen . Liziero stepped up and coolly converted the spot-kick with his left foot to bring the visitors back into the game. The drama intensified just before the halftime whistle when Miguel Baeza found space to fire home an equalizer. A tense VAR review followed, but the goal was ultimately confirmed, leaving the scores level at the break after a breathless opening 45 minutes. A Tactical Second Half The second half proved to be a tighter affair as both managers adjusted their setups. The game became increasingly physical, leading to a yellow card for Filipe Soares in the 70th minute for unsportsmanlike conduct. A flurry of tactical substitutions followed, with Santa Clara introducing Lucas Soares and Nacional bringing on Tiago Ribeiro to find a late winner. Despite the fresh legs, clear-cut chances were hard to come by. Santa Clara pushed for a winner in stoppage time, but a blocked shot from Lucas Soares ensured that both sides walked away with a hard-earned point in a game of two halves."
     }
   ]
 }
