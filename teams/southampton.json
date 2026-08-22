@@ -1,9 +1,551 @@
 {
   "team": "Southampton",
   "team_logo": "https://img.refooty.com/logo/teams/41.webp",
-  "total_matches": 4,
-  "Last update time": "11:10:38 PM 22-08-2026",
+  "total_matches": 5,
+  "Last update time": "11:50:19 PM 22-08-2026",
   "matches": [
+    {
+      "title": "Southampton vs Stoke City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/southampton-vs-stoke-city-2026-08-22-QHGk.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/75.webp",
+          "name": "Stoke City",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/41.webp",
+          "name": "Southampton",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/southampton-vs-stoke-city-2026-08-22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Southampton",
+          "player": "C. Larin",
+          "event_type": "Goal",
+          "assist": "F. Downes",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Southampton",
+          "player": "J. Bree",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Stoke City",
+          "player": "E. Galbraith",
+          "event_type": "Goal",
+          "assist": "S. Gallagher",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Stoke City",
+          "player": "S. Gallagher",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "50'",
+          "team": "Southampton",
+          "player": "F. Downes",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "53'",
+          "team": "Southampton",
+          "player": "R. Manning",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "62'",
+          "team": "Stoke City",
+          "player": "E. Galbraith",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "82'",
+          "team": "Stoke City",
+          "player": "M. Talovierov",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "86'",
+          "team": "Stoke City",
+          "player": "S. Ingelsson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "89'",
+          "team": "Southampton",
+          "player": "D. Mubama",
+          "event_type": "Goal",
+          "assist": "F. Azaz",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "90+3'",
+          "team": "Stoke City",
+          "player": "S. Ingelsson",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Southampton",
+          "player": "R. Manning",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Southampton_wins": "2",
+          "draws": "1",
+          "Stoke City_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "31/01/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Stoke City 0 - 2 Southampton"
+          },
+          {
+            "date": "29/10/2024",
+            "competition": "EFL Cup: Round 4 24/25",
+            "teams_and_score": "Southampton 3 - 2 Stoke City"
+          },
+          {
+            "date": "27/04/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Southampton 0 - 1 Stoke City"
+          },
+          {
+            "date": "03/03/2018",
+            "competition": "Premier League",
+            "teams_and_score": "Southampton 0 - 0 Stoke City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Southampton",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Stoke City",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Colchester United 0 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "12/05/2026",
+              "competition": "Championship: Play-offs 25/26",
+              "teams_and_score": "Southampton 2 - 1 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Preston North End 1 - 3 Southampton",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Stoke City",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Stoke City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Stoke City 2 - 0 Oldham Athletic",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Stoke City 1 - 1 Valencia",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stoke City 4 - 0 Sheffield Wednesday",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Bristol City 2 - 0 Stoke City",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Southampton": "5",
+          "Stoke City": "2"
+        },
+        "shots_off_target": {
+          "Southampton": "7",
+          "Stoke City": "5"
+        },
+        "shots_blocked": {
+          "Southampton": "5",
+          "Stoke City": "7"
+        },
+        "corners": {
+          "Southampton": "4",
+          "Stoke City": "2"
+        },
+        "fouls": {
+          "Southampton": "10",
+          "Stoke City": "21"
+        },
+        "offsides": {
+          "Southampton": "2",
+          "Stoke City": "2"
+        },
+        "yellow_cards": {
+          "Southampton": "3",
+          "Stoke City": "3"
+        },
+        "red_cards": {
+          "Southampton": "0",
+          "Stoke City": "1"
+        },
+        "goalkeeper_saves": {
+          "Southampton": "1",
+          "Stoke City": "2"
+        },
+        "crosses": {
+          "Southampton": "2",
+          "Stoke City": "7"
+        },
+        "ball_possession": {
+          "Southampton": "58%",
+          "Stoke City": "42%"
+        }
+      },
+      "description": "Watch Southampton vs Stoke City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 22, 2026."
+    },
+    {
+      "title": "Watford vs Southampton",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-v-southampton-2026-08-16-90Bt.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Aug 16, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/41.webp",
+          "name": "Southampton",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/38.webp",
+          "name": "Watford",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Watford_v_Southampton_2026_08_16.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Watford",
+          "player": "H. Kyprianou",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Watford",
+          "player": "I. Bravo",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Watford",
+          "player": "M. Pollock",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Southampton",
+          "player": "C. Larin",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Southampton",
+          "player": "J. Bree",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Watford",
+          "player": "A. Nabizada",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "91'",
+          "team": "Watford",
+          "player": "A. Nabizada",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Southampton",
+          "player": "C. Larin",
+          "event_type": "Goal",
+          "assist": "C. Bragg",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Watford",
+          "player": "M. Doumbia",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Watford",
+          "player": "O. Maamma",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Southampton",
+          "player": "F. Downes",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Watford",
+          "player": "M. Payero",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Watford_wins": "1",
+          "draws": "2",
+          "Southampton_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "07/02/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Southampton 1 - 0 Watford"
+          },
+          {
+            "date": "13/04/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Southampton 3 - 2 Watford"
+          },
+          {
+            "date": "06/02/2024",
+            "competition": "FA Cup: Round 4 23/24",
+            "teams_and_score": "Southampton 3 - 0 Watford"
+          },
+          {
+            "date": "09/12/2023",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Watford 1 - 1 Southampton"
+          },
+          {
+            "date": "23/07/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Watford 0 - 0 Southampton"
+          },
+          {
+            "date": "13/03/2022",
+            "competition": "Premier League 21/22",
+            "teams_and_score": "Southampton 1 - 2 Watford"
+          },
+          {
+            "date": "28/06/2020",
+            "competition": "Premier League 19/20",
+            "teams_and_score": "Watford 1 - 3 Southampton"
+          }
+        ],
+        "home_team_form": {
+          "team": "Watford",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Watford 2 - 1 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Watford 1 - 0 Crawley Town",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Watford 0 - 1 Fiorentina",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Watford 3 - 0 Hansa Rostock",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Watford 0 - 4 Coventry City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Southampton",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Watford 2 - 1 Southampton",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Colchester United 0 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "12/05/2026",
+              "competition": "Championship: Play-offs 25/26",
+              "teams_and_score": "Southampton 2 - 1 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Preston North End 1 - 3 Southampton",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Watford": "4",
+          "Southampton": "3"
+        },
+        "shots_off_target": {
+          "Watford": "5",
+          "Southampton": "8"
+        },
+        "shots_blocked": {
+          "Watford": "7",
+          "Southampton": "6"
+        },
+        "corners": {
+          "Watford": "4",
+          "Southampton": "8"
+        },
+        "fouls": {
+          "Watford": "12",
+          "Southampton": "9"
+        },
+        "offsides": {
+          "Watford": "0",
+          "Southampton": "3"
+        },
+        "yellow_cards": {
+          "Watford": "6",
+          "Southampton": "3"
+        },
+        "goalkeeper_saves": {
+          "Watford": "2",
+          "Southampton": "2"
+        },
+        "crosses": {
+          "Watford": "3",
+          "Southampton": "5"
+        },
+        "ball_possession": {
+          "Watford": "34%",
+          "Southampton": "66%"
+        }
+      },
+      "description": "Watch Watford vs Southampton highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 16, 2026. A high-stakes encounter unfolded as Watford and Southampton faced off in the ASEAN Championship Cup . Both sides brought immense energy to the pitch, knowing that every moment could define their trajectory in the competition. Early Dominance by the Hornets On August 16, 2026 , the match ignited quickly with a physical edge that saw Hector Kyprianou cautioned early on. Watford capitalized on their early momentum in the 12th minute when Iker Bravo clinical finish broke the deadlock. The opening goal sparked a series of disciplinary actions, as Matthew Pollock , Cyle Larin , and James Bree all found themselves in the referee's book within the first twenty minutes. Watford continued to press their advantage, and their persistence paid off again in the 29th minute. Amin Nabizada doubled the lead with a well-taken goal, putting the Hornets in a commanding position. However, the intensity of the match remained high, leading to Nabizada receiving a yellow card himself just before the half-time whistle blew. Southampton's Fightback and Defensive Resilience The second half saw a tactical shift as Southampton sought a way back into the game. Their efforts were rewarded in the 56th minute when Cameron Bragg set up Cyle Larin for a crucial goal, narrowing the gap to 2-1. This prompted a wave of substitutions from both managers, with Finn Azaz and Edo Kayembe entering the fray to provide fresh energy for the final half-hour. As the clock ticked down, the match became increasingly fractured with several yellow cards issued to Mamadou Doumbia , Othmane Maamma , and Flynn Downes . Despite late pressure and the introduction of Ben Brereton Diaz for the Saints, Watford held their nerve. The final whistle confirmed a hard-fought victory for the Hornets, who survived a late onslaught to claim the points."
+    },
     {
       "title": "Colchester vs Southampton",
       "thumbnail_url": "https://img.refooty.com/thumbnail/colchester-vs-southampton-2026-08-08-1Fle.webp",
@@ -416,281 +958,6 @@
       },
       "statistics": {},
       "description": "Watch Preußen Münster vs Southampton highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
-    },
-    {
-      "title": "Watford vs Southampton",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-v-southampton-2026-08-16-90Bt.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Aug 16, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/41.webp",
-          "name": "Southampton",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/38.webp",
-          "name": "Watford",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Watford_v_Southampton_2026_08_16.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Watford",
-          "player": "H. Kyprianou",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Watford",
-          "player": "I. Bravo",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Watford",
-          "player": "M. Pollock",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Southampton",
-          "player": "C. Larin",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Southampton",
-          "player": "J. Bree",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Watford",
-          "player": "A. Nabizada",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "91'",
-          "team": "Watford",
-          "player": "A. Nabizada",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Southampton",
-          "player": "C. Larin",
-          "event_type": "Goal",
-          "assist": "C. Bragg",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Watford",
-          "player": "M. Doumbia",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Watford",
-          "player": "O. Maamma",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Southampton",
-          "player": "F. Downes",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Watford",
-          "player": "M. Payero",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Watford_wins": "1",
-          "draws": "2",
-          "Southampton_wins": "4"
-        },
-        "previous_matches": [
-          {
-            "date": "07/02/2026",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Southampton 1 - 0 Watford"
-          },
-          {
-            "date": "13/04/2024",
-            "competition": "Championship 23/24",
-            "teams_and_score": "Southampton 3 - 2 Watford"
-          },
-          {
-            "date": "06/02/2024",
-            "competition": "FA Cup: Round 4 23/24",
-            "teams_and_score": "Southampton 3 - 0 Watford"
-          },
-          {
-            "date": "09/12/2023",
-            "competition": "Championship 23/24",
-            "teams_and_score": "Watford 1 - 1 Southampton"
-          },
-          {
-            "date": "23/07/2022",
-            "competition": "Club Friendlies 2022",
-            "teams_and_score": "Watford 0 - 0 Southampton"
-          },
-          {
-            "date": "13/03/2022",
-            "competition": "Premier League 21/22",
-            "teams_and_score": "Southampton 1 - 2 Watford"
-          },
-          {
-            "date": "28/06/2020",
-            "competition": "Premier League 19/20",
-            "teams_and_score": "Watford 1 - 3 Southampton"
-          }
-        ],
-        "home_team_form": {
-          "team": "Watford",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "16/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Watford 2 - 1 Southampton",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Watford 1 - 0 Crawley Town",
-              "result": "W"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Watford 0 - 1 Fiorentina",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Watford 3 - 0 Hansa Rostock",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Watford 0 - 4 Coventry City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Southampton",
-          "form": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "16/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Watford 2 - 1 Southampton",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Colchester United 0 - 2 Southampton",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
-              "result": "W"
-            },
-            {
-              "date": "12/05/2026",
-              "competition": "Championship: Play-offs 25/26",
-              "teams_and_score": "Southampton 2 - 1 Middlesbrough",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Preston North End 1 - 3 Southampton",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Watford": "4",
-          "Southampton": "3"
-        },
-        "shots_off_target": {
-          "Watford": "5",
-          "Southampton": "8"
-        },
-        "shots_blocked": {
-          "Watford": "7",
-          "Southampton": "6"
-        },
-        "corners": {
-          "Watford": "4",
-          "Southampton": "8"
-        },
-        "fouls": {
-          "Watford": "12",
-          "Southampton": "9"
-        },
-        "offsides": {
-          "Watford": "0",
-          "Southampton": "3"
-        },
-        "yellow_cards": {
-          "Watford": "6",
-          "Southampton": "3"
-        },
-        "goalkeeper_saves": {
-          "Watford": "2",
-          "Southampton": "2"
-        },
-        "crosses": {
-          "Watford": "3",
-          "Southampton": "5"
-        },
-        "ball_possession": {
-          "Watford": "34%",
-          "Southampton": "66%"
-        }
-      },
-      "description": "Watch Watford vs Southampton highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 16, 2026. A high-stakes encounter unfolded as Watford and Southampton faced off in the ASEAN Championship Cup . Both sides brought immense energy to the pitch, knowing that every moment could define their trajectory in the competition. Early Dominance by the Hornets On August 16, 2026 , the match ignited quickly with a physical edge that saw Hector Kyprianou cautioned early on. Watford capitalized on their early momentum in the 12th minute when Iker Bravo clinical finish broke the deadlock. The opening goal sparked a series of disciplinary actions, as Matthew Pollock , Cyle Larin , and James Bree all found themselves in the referee's book within the first twenty minutes. Watford continued to press their advantage, and their persistence paid off again in the 29th minute. Amin Nabizada doubled the lead with a well-taken goal, putting the Hornets in a commanding position. However, the intensity of the match remained high, leading to Nabizada receiving a yellow card himself just before the half-time whistle blew. Southampton's Fightback and Defensive Resilience The second half saw a tactical shift as Southampton sought a way back into the game. Their efforts were rewarded in the 56th minute when Cameron Bragg set up Cyle Larin for a crucial goal, narrowing the gap to 2-1. This prompted a wave of substitutions from both managers, with Finn Azaz and Edo Kayembe entering the fray to provide fresh energy for the final half-hour. As the clock ticked down, the match became increasingly fractured with several yellow cards issued to Mamadou Doumbia , Othmane Maamma , and Flynn Downes . Despite late pressure and the introduction of Ben Brereton Diaz for the Saints, Watford held their nerve. The final whistle confirmed a hard-fought victory for the Hornets, who survived a late onslaught to claim the points."
     }
   ]
 }
