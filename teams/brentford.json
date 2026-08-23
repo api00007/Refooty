@@ -1,9 +1,211 @@
 {
   "team": "Brentford",
   "team_logo": "https://img.refooty.com/logo/teams/55.webp",
-  "total_matches": 1,
-  "Last update time": "11:50:20 PM 22-08-2026",
+  "total_matches": 2,
+  "Last update time": "09:30:48 PM 23-08-2026",
   "matches": [
+    {
+      "title": "Brentford vs Tottenham Hotspur",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/brentford-v-tottenham-2026-08-22-UA6g.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15638.webp",
+          "name": "Tottenham",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/55.webp",
+          "name": "Brentford",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Brentford_v_Tottenham_2026_08_22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Brentford",
+          "player": "K. Lewis-Potter",
+          "event_type": "Goal",
+          "assist": "M. Sangare",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Brentford",
+          "player": "V. Janelt",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Tottenham",
+          "player": "C. Gallagher",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Brentford",
+          "player": "M. Kayode",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Brentford",
+          "player": "I. Thiago",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "76'",
+          "team": "Brentford",
+          "player": "V. Janelt",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Brentford_wins": "1",
+          "draws": "2",
+          "Tottenham_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "01/01/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Brentford 0 - 0 Tottenham Hotspur"
+          },
+          {
+            "date": "02/02/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Brentford 0 - 2 Tottenham Hotspur"
+          },
+          {
+            "date": "31/01/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "Tottenham Hotspur 3 - 2 Brentford"
+          },
+          {
+            "date": "20/05/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Tottenham Hotspur 1 - 3 Brentford"
+          },
+          {
+            "date": "23/04/2022",
+            "competition": "Premier League 21/22",
+            "teams_and_score": "Brentford 0 - 0 Tottenham Hotspur"
+          }
+        ],
+        "home_team_form": {
+          "team": "Brentford",
+          "form": [
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brentford 7 - 0 Eintracht Frankfurt",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Tottenham",
+          "form": [
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Tottenham Hotspur 2 - 2 Hoffenheim",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Tottenham Hotspur 1 - 0 Everton",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Brentford": "8",
+          "Tottenham": "4"
+        },
+        "shots_off_target": {
+          "Brentford": "11",
+          "Tottenham": "3"
+        },
+        "shots_blocked": {
+          "Brentford": "7",
+          "Tottenham": "2"
+        },
+        "corners": {
+          "Brentford": "7",
+          "Tottenham": "3"
+        },
+        "fouls": {
+          "Brentford": "17",
+          "Tottenham": "14"
+        },
+        "offsides": {
+          "Brentford": "3",
+          "Tottenham": "2"
+        },
+        "yellow_cards": {
+          "Brentford": "1",
+          "Tottenham": "1"
+        },
+        "goalkeeper_saves": {
+          "Brentford": "4",
+          "Tottenham": "5"
+        },
+        "crosses": {
+          "Brentford": "11",
+          "Tottenham": "4"
+        },
+        "ball_possession": {
+          "Brentford": "41%",
+          "Tottenham": "59%"
+        }
+      },
+      "description": "Watch Brentford vs Tottenham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The Premier League International Cup brought together two London rivals on a high-stakes evening. On August 22, 2026, the atmosphere was electric as Brentford and Tottenham Hotspur locked horns in a clash of styles and ambitions. Brentford Assert Early Authority Brentford started the match with an intensity that Tottenham Hotspur struggled to match. In the 12th minute, the deadlock was broken through a clinical team move. Dango Ouattara released Mamadou Sangare , who provided the perfectly weighted assist for Keane Lewis-Potter to slot home with his right foot. Tottenham attempted to find an immediate equalizer, but Conor Gallagher saw his long-range effort sail wide of the target. The Bees doubled their advantage in the 33rd minute, capitalizing on a moment of defensive hesitation. Following a miscue from goalkeeper Antonin Kinsky , Vitaly Janelt reacted first to the loose ball, firing it into the net to make it 2-0. Frustrations began to boil over for the visitors shortly after, as Gallagher was shown a yellow card for a robust challenge. Second-Half Dominance and Tactical Control Any hopes of a Tottenham comeback were effectively extinguished shortly after the restart. In the 49th minute, Michael Kayode found himself in the right place at the right time to tap the ball into an open goal, extending the lead to 3-0. Despite tactical substitutions from the Spurs bench, including the introduction of James Maddison and Dominic Solanke , the home side remained disciplined and compact. Brentford had a golden opportunity to add a fourth in the 55th minute when Rodrigo Bentancur conceded a penalty for a foul on Kevin Schade . However, Igor Thiago ’s strike rattled the post and stayed out. While Tottenham enjoyed 59% of the possession, they failed to register a breakthrough against a resolute defense. In front of a crowd of 17,180, Brentford secured a deserved and emphatic victory."
+    },
     {
       "title": "Brentford vs Eintracht Frankfurt",
       "thumbnail_url": "https://img.refooty.com/thumbnail/brentford-vs-eintracht-frankfurt-2026-08-15-j0ma.webp",

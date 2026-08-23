@@ -1,9 +1,213 @@
 {
   "team": "Charlotte",
   "team_logo": "https://img.refooty.com/logo/teams/18310.webp",
-  "total_matches": 5,
-  "Last update time": "11:50:20 PM 22-08-2026",
+  "total_matches": 6,
+  "Last update time": "09:30:48 PM 23-08-2026",
   "matches": [
+    {
+      "title": "Charlotte FC - D.C. United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/charlotte-fc-dc-united-2026-08-23-8vwP.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 23, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1615.webp",
+          "name": "DC United",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/18310.webp",
+          "name": "Charlotte",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/charlotte-fc-dc-united-2026-08-23.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "DC United",
+          "player": "K. Kurokawa",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "DC United",
+          "player": "S. Hefti",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "55'",
+          "team": "DC United",
+          "player": "L. Munteanu",
+          "event_type": "Goal",
+          "assist": "Peglow",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "64'",
+          "team": "Charlotte",
+          "player": "D. Schnegg",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "66'",
+          "team": "Charlotte",
+          "player": "W. Cleary",
+          "event_type": "Goal",
+          "assist": "P. Biel",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "68'",
+          "team": "DC United",
+          "player": "Peglow",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "77'",
+          "team": "Charlotte",
+          "player": "P. Biel",
+          "event_type": "Goal",
+          "assist": "L. Abada",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "85'",
+          "team": "Charlotte",
+          "player": "T. Smalls",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Charlotte",
+          "player": "P. Biel",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Charlotte_wins": "3",
+          "draws": "2",
+          "DC United_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "04/10/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "DC United 0 - 1 Charlotte"
+          },
+          {
+            "date": "21/05/2025",
+            "competition": "US Open Cup",
+            "teams_and_score": "DC United 3 - 3 Charlotte"
+          },
+          {
+            "date": "19/10/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "DC United 0 - 3 Charlotte"
+          },
+          {
+            "date": "16/09/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Charlotte 0 - 0 DC United"
+          },
+          {
+            "date": "03/08/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Charlotte 3 - 0 DC United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Charlotte",
+          "form": [
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Charlotte 3 - 1 DC United",
+              "result": "W"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Charlotte 0 - 1 Pachuca",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Chicago Fire 2 - 1 Charlotte",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "DC United",
+          "form": [
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Charlotte 3 - 1 DC United",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Charlotte": "5",
+          "DC United": "5"
+        },
+        "shots_off_target": {
+          "Charlotte": "3",
+          "DC United": "7"
+        },
+        "shots_blocked": {
+          "Charlotte": "3",
+          "DC United": "5"
+        },
+        "corners": {
+          "Charlotte": "4",
+          "DC United": "9"
+        },
+        "fouls": {
+          "Charlotte": "15",
+          "DC United": "11"
+        },
+        "offsides": {
+          "Charlotte": "4",
+          "DC United": "1"
+        },
+        "yellow_cards": {
+          "Charlotte": "2",
+          "DC United": "3"
+        },
+        "goalkeeper_saves": {
+          "Charlotte": "4",
+          "DC United": "2"
+        },
+        "ball_possession": {
+          "Charlotte": "61%",
+          "DC United": "39%"
+        }
+      },
+      "description": "Watch Charlotte vs DC United highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 23, 2026. The stage was set for a high-stakes encounter on American soil, with both sides desperate for points to bolster their campaign. Held on August 23, 2026, the match promised to be a rigorous test of strategy and determination for both clubs in the Major League Soccer . A tactical standoff The first half was defined by a cautious approach and an aggressive battle for territory in the midfield. With yellow cards issued to Silvan Hefti and Keisuke Kurokawa before the break, the high intensity of the fixture was clear, leaving everything to play for in the second period. A second-half surge The momentum shifted dramatically after the restart. In the 55th minute, Louis Munteanu fired the visitors ahead with a clinical finish set up by Peglow . However, Charlotte FC responded with lethal efficiency. David Schnegg leveled the scores in the 64th minute, igniting a flurry of action. Barely two minutes later, Will Cleary surged forward to complete the turnaround following an assist from Pep Biel . The comeback was solidified in the 77th minute when Pep Biel added his name to the scoresheet thanks to a precise ball from Liel Abada , securing a decisive 3-1 victory for the home side."
+    },
     {
       "title": "Toronto FC vs Charlotte",
       "thumbnail_url": "https://img.refooty.com/thumbnail/toronto-fc-vs-charlotte-2026-08-20-Beoy.webp",
@@ -216,6 +420,200 @@
         }
       },
       "description": "Watch Toronto FC vs Charlotte highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 20, 2026. The MLS clash between Toronto FC and Charlotte delivered a masterclass in offensive football and dramatic twists that kept fans breathless until the final whistle. In a match defined by crucial officiating decisions and a flurry of goals, both sides fought relentlessly for every inch of the pitch. An Explosive Opening Half On August 20, 2026, the match ignited from the very first whistle. Charlotte wasted no time establishing dominance, as Rodolfo Aloko found the net in just the 8th minute following a brilliant setup by Ashley Westwood . The hosts responded almost instantly; by the 14th minute, Markus Cimermancic had restored parity for Toronto FC with an assist from Joshua Sargent . However, the see-saw nature of the contest continued when Idan Toklomati reclaimed the lead for the visitors in the 20th minute, capping off a frantic opening twenty minutes of pure entertainment. Red Card and a Ten-Man Defiance The second half took a dramatic turn in the 56th minute when Walker Zimmerman was shown a straight red card. The decision sparked heavy protests from the Charlotte players, who felt aggrieved by the dismissal. Despite the numerical disadvantage, the visitors pulled off the improbable just two minutes later. Henry Kessler rose to the occasion, converting another Ashley Westwood assist to extend the lead to 3-1. This left Toronto FC facing a daunting mountain to climb despite having an extra man on the field. Toronto’s Late Resurgence With time running out, Toronto FC threw everything forward to salvage the game. Their persistence paid off in the 77th minute when Daniel Salloi pulled one back after being played in by Theodor Corbeanu . The tension reached a breaking point as the match entered its final stages. In the 90th minute, the comeback was completed; Niklas Dorsch struck home following an assist from Derrick Etienne , ensuring the points were shared. After twelve minutes of stoppage time and a flurry of tactical substitutions, the referee finally ended a 3-3 thriller that will be remembered for its incredible emotional swings."
+    },
+    {
+      "title": "Chicago Fire FC - Charlotte FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/chicago-fire-fc-charlotte-fc-2026-08-02-fmYM.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 2, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/18310.webp",
+          "name": "Charlotte",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1607.webp",
+          "name": "Chicago Fire",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/chicago-fire-fc-charlotte-fc-2026-08-02_ch2TB.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Chicago Fire",
+          "player": "A. J. Saletros",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Charlotte",
+          "player": "P. Biel",
+          "event_type": "Goal",
+          "assist": "I. Gorno",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Chicago Fire",
+          "player": "R. Lewandowski",
+          "event_type": "Goal",
+          "assist": "P. Zinckernagel",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "59'",
+          "team": "Chicago Fire",
+          "player": "J. Waterman",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "68'",
+          "team": "Chicago Fire",
+          "player": "R. Lewandowski",
+          "event_type": "Goal",
+          "assist": "R. Lod",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "90+5'",
+          "team": "Chicago Fire",
+          "player": "R. Lewandowski",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Chicago Fire_wins": "1",
+          "draws": "0",
+          "Charlotte_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "29/06/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Chicago Fire 3 - 2 Charlotte"
+          },
+          {
+            "date": "02/10/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Charlotte 4 - 3 Chicago Fire"
+          },
+          {
+            "date": "08/10/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Chicago Fire 0 - 2 Charlotte"
+          },
+          {
+            "date": "18/09/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Chicago Fire 2 - 3 Charlotte"
+          }
+        ],
+        "home_team_form": {
+          "team": "Chicago Fire",
+          "form": [
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Chicago Fire 2 - 1 Charlotte",
+              "result": "W"
+            },
+            {
+              "date": "30/04/2026",
+              "competition": "US Open Cup",
+              "teams_and_score": "Chicago Fire 1 - 2 St. Louis City",
+              "result": "L"
+            },
+            {
+              "date": "26/04/2026",
+              "competition": "MLS",
+              "teams_and_score": "Chicago Fire 5 - 0 Sporting Kansas City",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Charlotte",
+          "form": [
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Chicago Fire 2 - 1 Charlotte",
+              "result": "L"
+            },
+            {
+              "date": "28/04/2026",
+              "competition": "US Open Cup",
+              "teams_and_score": "Charlotte 0 - 2 Atlanta United",
+              "result": "L"
+            },
+            {
+              "date": "26/04/2026",
+              "competition": "MLS",
+              "teams_and_score": "Nashville SC 4 - 2 Charlotte",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Chicago Fire": "5",
+          "Charlotte": "1"
+        },
+        "shots_off_target": {
+          "Chicago Fire": "4",
+          "Charlotte": "4"
+        },
+        "shots_blocked": {
+          "Chicago Fire": "5",
+          "Charlotte": "9"
+        },
+        "corners": {
+          "Chicago Fire": "8",
+          "Charlotte": "6"
+        },
+        "fouls": {
+          "Chicago Fire": "8",
+          "Charlotte": "7"
+        },
+        "offsides": {
+          "Chicago Fire": "3",
+          "Charlotte": "3"
+        },
+        "yellow_cards": {
+          "Chicago Fire": "3",
+          "Charlotte": "0"
+        },
+        "goalkeeper_saves": {
+          "Chicago Fire": "0",
+          "Charlotte": "3"
+        },
+        "ball_possession": {
+          "Chicago Fire": "46%",
+          "Charlotte": "54%"
+        }
+      },
+      "description": "Watch Chicago Fire vs Charlotte highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 2, 2026. The MLS match between Chicago Fire FC and Charlotte FC delivered a captivating display of tactical maneuvering and individual skill on August 2, 2026 . Both sides sought to impose their rhythm early on in a contest that kept the spectators on the edge of their seats throughout the evening. An Explosive Start The game ignited early with high physical stakes, evidenced by Anton Saletros picking up a yellow card in the 10th minute. Charlotte FC drew first blood in the 18th minute when Pep Biel clinicaly finished a chance created by Idan Toklomati . However, the lead was short-lived. Just two minutes later, Robert Lewandowski reminded everyone of his world-class caliber, equalizing for Chicago Fire FC after being set up by Philip Zinckernagel . The rapid exchange of goals set the tone for a fiercely competitive encounter. Lewandowski’s Second-Half Heroics As the second half progressed, the tactical battle intensified. Joel Waterman was cautioned with a yellow card in the 59th minute as Chicago Fire FC began to mount more consistent pressure. That pressure told in the 68th minute when Robin Lod provided a brilliant assist for Robert Lewandowski , who struck again to put the home side ahead. The match concluded in dramatic fashion with an extraordinary amount of stoppage time, eventually ending in the 90+26th minute. Despite a late yellow card for Lewandowski in the 90+5th minute, the veteran forward's contributions were the defining factor of the match."
     },
     {
       "title": "Charlotte FC - Columbus",
@@ -584,200 +982,6 @@
       },
       "statistics": {},
       "description": "Watch Charlotte vs Atlas highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The atmosphere was electric as Charlotte FC hosted Seattle Sounders FC on August 8, 2026, in a matchup that promised high-intensity MLS action. Both sides entered the pitch looking to assert dominance in a critical mid-season encounter. Helinho Increases the Advantage Following a tightly contested opening half where both teams struggled to find the final ball, Charlotte FC emerged after the break with renewed vigor. The home side’s persistence paid off in the 64th minute when Helinho stepped up to deliver a moment of clinical brilliance. His goal doubled the lead to 2-0, shifting the momentum firmly in favor of the hosts and forcing Seattle Sounders FC into a more desperate attacking stance. The goal reflected Charlotte's superior ball movement and tactical discipline throughout the second period. Viñas Puts the Game to Bed As the match entered its final stages, Seattle pushed forward in hopes of a late comeback, but the Charlotte defense remained resolute. The home side managed the clock expertly, absorbing pressure before launching a devastating counter-attack in stoppage time. In the 90+3 minute, F. Viñas found the back of the net to make it 3-0, effectively ending any hope for the visitors. The final whistle confirmed a comprehensive performance from Charlotte FC , highlighting their efficiency in front of goal and their ability to close out games under pressure."
-    },
-    {
-      "title": "Chicago Fire FC - Charlotte FC",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/chicago-fire-fc-charlotte-fc-2026-08-02-fmYM.webp",
-      "competition": "Major League Soccer",
-      "competition_cover": "https://refooty.com/covers/mls.webp",
-      "date": "Aug 2, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/18310.webp",
-          "name": "Charlotte",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1607.webp",
-          "name": "Chicago Fire",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/chicago-fire-fc-charlotte-fc-2026-08-02_ch2TB.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Chicago Fire",
-          "player": "A. J. Saletros",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Charlotte",
-          "player": "P. Biel",
-          "event_type": "Goal",
-          "assist": "I. Gorno",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Chicago Fire",
-          "player": "R. Lewandowski",
-          "event_type": "Goal",
-          "assist": "P. Zinckernagel",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "59'",
-          "team": "Chicago Fire",
-          "player": "J. Waterman",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "68'",
-          "team": "Chicago Fire",
-          "player": "R. Lewandowski",
-          "event_type": "Goal",
-          "assist": "R. Lod",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "90+5'",
-          "team": "Chicago Fire",
-          "player": "R. Lewandowski",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Chicago Fire_wins": "1",
-          "draws": "0",
-          "Charlotte_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "29/06/2025",
-            "competition": "MLS 2025",
-            "teams_and_score": "Chicago Fire 3 - 2 Charlotte"
-          },
-          {
-            "date": "02/10/2024",
-            "competition": "MLS 2024",
-            "teams_and_score": "Charlotte 4 - 3 Chicago Fire"
-          },
-          {
-            "date": "08/10/2023",
-            "competition": "MLS 2023",
-            "teams_and_score": "Chicago Fire 0 - 2 Charlotte"
-          },
-          {
-            "date": "18/09/2022",
-            "competition": "Major League Soccer 2022",
-            "teams_and_score": "Chicago Fire 2 - 3 Charlotte"
-          }
-        ],
-        "home_team_form": {
-          "team": "Chicago Fire",
-          "form": [
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Chicago Fire 2 - 1 Charlotte",
-              "result": "W"
-            },
-            {
-              "date": "30/04/2026",
-              "competition": "US Open Cup",
-              "teams_and_score": "Chicago Fire 1 - 2 St. Louis City",
-              "result": "L"
-            },
-            {
-              "date": "26/04/2026",
-              "competition": "MLS",
-              "teams_and_score": "Chicago Fire 5 - 0 Sporting Kansas City",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Charlotte",
-          "form": [
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Chicago Fire 2 - 1 Charlotte",
-              "result": "L"
-            },
-            {
-              "date": "28/04/2026",
-              "competition": "US Open Cup",
-              "teams_and_score": "Charlotte 0 - 2 Atlanta United",
-              "result": "L"
-            },
-            {
-              "date": "26/04/2026",
-              "competition": "MLS",
-              "teams_and_score": "Nashville SC 4 - 2 Charlotte",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Chicago Fire": "5",
-          "Charlotte": "1"
-        },
-        "shots_off_target": {
-          "Chicago Fire": "4",
-          "Charlotte": "4"
-        },
-        "shots_blocked": {
-          "Chicago Fire": "5",
-          "Charlotte": "9"
-        },
-        "corners": {
-          "Chicago Fire": "8",
-          "Charlotte": "6"
-        },
-        "fouls": {
-          "Chicago Fire": "8",
-          "Charlotte": "7"
-        },
-        "offsides": {
-          "Chicago Fire": "3",
-          "Charlotte": "3"
-        },
-        "yellow_cards": {
-          "Chicago Fire": "3",
-          "Charlotte": "0"
-        },
-        "goalkeeper_saves": {
-          "Chicago Fire": "0",
-          "Charlotte": "3"
-        },
-        "ball_possession": {
-          "Chicago Fire": "46%",
-          "Charlotte": "54%"
-        }
-      },
-      "description": "Watch Chicago Fire vs Charlotte highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 2, 2026. The MLS match between Chicago Fire FC and Charlotte FC delivered a captivating display of tactical maneuvering and individual skill on August 2, 2026 . Both sides sought to impose their rhythm early on in a contest that kept the spectators on the edge of their seats throughout the evening. An Explosive Start The game ignited early with high physical stakes, evidenced by Anton Saletros picking up a yellow card in the 10th minute. Charlotte FC drew first blood in the 18th minute when Pep Biel clinicaly finished a chance created by Idan Toklomati . However, the lead was short-lived. Just two minutes later, Robert Lewandowski reminded everyone of his world-class caliber, equalizing for Chicago Fire FC after being set up by Philip Zinckernagel . The rapid exchange of goals set the tone for a fiercely competitive encounter. Lewandowski’s Second-Half Heroics As the second half progressed, the tactical battle intensified. Joel Waterman was cautioned with a yellow card in the 59th minute as Chicago Fire FC began to mount more consistent pressure. That pressure told in the 68th minute when Robin Lod provided a brilliant assist for Robert Lewandowski , who struck again to put the home side ahead. The match concluded in dramatic fashion with an extraordinary amount of stoppage time, eventually ending in the 90+26th minute. Despite a late yellow card for Lewandowski in the 90+5th minute, the veteran forward's contributions were the defining factor of the match."
     }
   ]
 }
