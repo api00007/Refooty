@@ -1,9 +1,223 @@
 {
   "team": "Le Havre",
   "team_logo": "https://img.refooty.com/logo/teams/111.webp",
-  "total_matches": 1,
-  "Last update time": "09:30:49 PM 23-08-2026",
+  "total_matches": 2,
+  "Last update time": "07:20:20 PM 24-08-2026",
   "matches": [
+    {
+      "title": "Le Havre vs AS Monaco",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/le-havre-v-as-monaco-2026-08-23-CQqm.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Aug 23, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/91.webp",
+          "name": "Monaco",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/111.webp",
+          "name": "Le Havre",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Le_Havre_v_AS_Monaco_2026_08_23.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Monaco",
+          "player": "E. Dier",
+          "event_type": "Goal",
+          "assist": "F. Nazinho",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Le Havre",
+          "player": "A. Richardson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Le Havre",
+          "player": "A. Richardson",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "46'",
+          "team": "Le Havre",
+          "player": "F. Doucoure",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Le Havre",
+          "player": "V. Sasso",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Monaco",
+          "player": "A. Golovin",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Monaco",
+          "player": "Vanderson",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Le Havre_wins": "0",
+          "draws": "3",
+          "Monaco_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "24/01/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "Le Havre 0 - 0 AS Monaco"
+          },
+          {
+            "date": "26/04/2025",
+            "competition": "Ligue 1 24/25",
+            "teams_and_score": "Le Havre 1 - 1 AS Monaco"
+          },
+          {
+            "date": "04/02/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "AS Monaco 1 - 1 Le Havre"
+          },
+          {
+            "date": "08/02/2013",
+            "competition": "Ligue 2",
+            "teams_and_score": "AS Monaco 2 - 1 Le Havre"
+          }
+        ],
+        "home_team_form": {
+          "team": "Le Havre",
+          "form": [
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Le Havre 0 - 1 AS Monaco",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Le Mans 0 - 1 Le Havre",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Lorient 0 - 2 Le Havre",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Monaco",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Le Havre 0 - 1 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "20/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Gornik Zabrze 2 - 3 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Coventry City 2 - 0 AS Monaco",
+              "result": "L"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AS Monaco 1 - 0 Getafe",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Le Havre": "4",
+          "Monaco": "7"
+        },
+        "shots_off_target": {
+          "Le Havre": "5",
+          "Monaco": "3"
+        },
+        "shots_blocked": {
+          "Le Havre": "5",
+          "Monaco": "5"
+        },
+        "corners": {
+          "Le Havre": "7",
+          "Monaco": "4"
+        },
+        "fouls": {
+          "Le Havre": "13",
+          "Monaco": "12"
+        },
+        "offsides": {
+          "Le Havre": "3",
+          "Monaco": "3"
+        },
+        "yellow_cards": {
+          "Le Havre": "3",
+          "Monaco": "2"
+        },
+        "goalkeeper_saves": {
+          "Le Havre": "6",
+          "Monaco": "3"
+        },
+        "crosses": {
+          "Le Havre": "4",
+          "Monaco": "3"
+        },
+        "ball_possession": {
+          "Le Havre": "50%",
+          "Monaco": "50%"
+        }
+      },
+      "description": "Watch Le Havre vs Monaco highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on August 23, 2026. The Ligue 1 clash between Le Havre and AS Monaco delivered a gripping narrative defined by defensive resilience and a single clinical moment. Both sides pushed their physical limits in a match where tactical discipline proved to be the deciding factor. Dier Breaks the Deadlock On August 23, 2026, the atmosphere was electric as AS Monaco sought to assert their dominance early on. The breakthrough arrived in the 14th minute following a corner from the right wing. Flavio Nazinho delivered a pinpoint cross into the heart of the box, where Eric Dier rose highest to power a header into the back of the net. The goal provided the visitors with a crucial cushion and forced the hosts to rethink their strategy. Le Havre thought they had clawed their way back into the game just before the half-hour mark. In the 28th minute, the ball ended up in the net, sparking celebrations among the home fans. However, a lengthy VAR review followed, leading the referee to disallow the goal for an offside infringement. This decision heightened the tension, with several Le Havre players, including Amir Richardson and Vincent Sasso , receiving yellow cards as the first half drew to a close. Second Half Drama and Goal-Line Heroics As the second half progressed, Le Havre turned to their bench, introducing Sota Nakamura and Josh Maja to spark an equalizer. The drama peaked in the 79th minute when Nakamura managed to get a shot away that looked destined for the goal. In a stunning defensive effort, the ball was hacked off the goal line at the last possible second, preserving Monaco's slim lead. In the final stages, Monaco reinforced their defense with the introduction of Thilo Kehrer . Despite Le Havre's persistent pressure and a late long-range effort from Kaito Mizuta that missed the target, the visitors held firm. Denis Zakaria orchestrated the defensive effort until the final whistle, securing a hard-fought victory for the Principality club."
+    },
     {
       "title": "Ipswich vs Le Havre",
       "thumbnail_url": "https://img.refooty.com/thumbnail/ipswich-vs-le-havre-2026-08-04-r7xp.webp",

@@ -1,9 +1,236 @@
 {
   "team": "Venezia",
   "team_logo": "https://img.refooty.com/logo/teams/517.webp",
-  "total_matches": 1,
-  "Last update time": "09:30:49 PM 23-08-2026",
+  "total_matches": 2,
+  "Last update time": "07:20:20 PM 24-08-2026",
   "matches": [
+    {
+      "title": "Venezia vs Lecce",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/venezia-v-lecce-2026-08-23-l8rH.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 23, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/867.webp",
+          "name": "Lecce",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/517.webp",
+          "name": "Venezia",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Venezia_v_Lecce_2026_08_23.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Lecce",
+          "player": "K. Gaspar",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Venezia",
+          "player": "T. Correia",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "46'",
+          "team": "Lecce",
+          "player": "O. Gorter",
+          "event_type": "Goal",
+          "assist": "L. Coulibaly",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Lecce",
+          "player": "O. Ngom",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Lecce",
+          "player": "D. F. M. Veiga",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Venezia",
+          "player": "T. Bašić",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "106'",
+          "team": "Venezia",
+          "player": "M. Dagasso",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Lecce",
+          "player": "T. Gabriel",
+          "event_type": "Goal",
+          "assist": "D. F. M. Veiga",
+          "score_update": "0 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Venezia_wins": "0",
+          "draws": "4",
+          "Lecce_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "06/04/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Lecce 1 - 1 Venezia"
+          },
+          {
+            "date": "20/05/2021",
+            "competition": "Serie B: Promotion: Play-off",
+            "teams_and_score": "Lecce 1 - 1 Venezia"
+          },
+          {
+            "date": "16/03/2021",
+            "competition": "Serie B 20/21",
+            "teams_and_score": "Venezia 2 - 3 Lecce"
+          },
+          {
+            "date": "11/02/2019",
+            "competition": "Serie B",
+            "teams_and_score": "Venezia 1 - 1 Lecce"
+          },
+          {
+            "date": "09/03/2003",
+            "competition": "Serie Bwin",
+            "teams_and_score": "Venezia 2 - 2 Lecce"
+          }
+        ],
+        "home_team_form": {
+          "team": "Venezia",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Venezia 0 - 2 Lecce",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Venezia 3 - 2 Modena",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brest 2 - 2 Venezia",
+              "result": "D"
+            },
+            {
+              "date": "08/05/2026",
+              "competition": "Serie B",
+              "teams_and_score": "Venezia 2 - 0 Palermo",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lecce",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Venezia 0 - 2 Lecce",
+              "result": "W"
+            },
+            {
+              "date": "17/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Palermo 2 - 0 Lecce",
+              "result": "L"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lecce 5 - 2 NK Bistrica",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Lecce 1 - 0 Genoa",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Venezia": "7",
+          "Lecce": "5"
+        },
+        "shots_off_target": {
+          "Venezia": "10",
+          "Lecce": "6"
+        },
+        "shots_blocked": {
+          "Venezia": "2",
+          "Lecce": "1"
+        },
+        "corners": {
+          "Venezia": "5",
+          "Lecce": "3"
+        },
+        "fouls": {
+          "Venezia": "8",
+          "Lecce": "12"
+        },
+        "offsides": {
+          "Venezia": "2",
+          "Lecce": "2"
+        },
+        "yellow_cards": {
+          "Venezia": "1",
+          "Lecce": "3"
+        },
+        "goalkeeper_saves": {
+          "Venezia": "2",
+          "Lecce": "6"
+        },
+        "crosses": {
+          "Venezia": "5",
+          "Lecce": "2"
+        },
+        "ball_possession": {
+          "Venezia": "71%",
+          "Lecce": "29%"
+        }
+      },
+      "description": "Watch Venezia vs Lecce highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 23, 2026. On August 23, 2026, Venezia hosted Lecce in a Serie A fixture that promised tactical intrigue and high stakes. Both teams sought to assert dominance early, creating an atmosphere charged with anticipation as the match unfolded under the lights. VAR Interventions and Woodwork Rattled The first half was defined by near misses and technical drama. Venezia thought they had taken the lead in the 18th minute, only for the referee to revoke the goal after a VAR review identified a foul in the buildup. The scare served as a wake-up call for both sides. Gianluca Busio came agonizingly close for the hosts when his shot struck the post, and minutes later, Lecce 's Lassana Coulibaly saw his own effort bounce off the woodwork. Despite the high energy, the deadlock remained unbroken as the teams headed into the tunnel. Early Second-Half Breakthrough The game shifted immediately after the restart. In the 46th minute, a defensive lapse by Armel Bella-Kotchap proved costly. Lassana Coulibaly capitalized on the error to set up Olaf Gorter , whose right-footed strike took a significant deflection to find the back of the net. The goal forced Venezia to push higher up the pitch, and while they dominated the ball—maintaining 71% possession throughout the game—they struggled to break down a resilient Lecce defense led by goalkeeper Wladimiro Falcone . Clinical Lecce Secure the Points History repeated itself for the hosts in the 76th minute when another potential equalizer was ruled out by VAR , this time for an offside against Akor Adams . Lecce made them pay for their lack of clinical finishing just four minutes later. From a corner delivered by Youssef Maleh , Tiago Gabriel rose highest to power a header home, effectively sealing the result. Venezia had one final golden opportunity in stoppage time, but Ridgeciano Haps missed a sitter from close range, leaving the home fans in disbelief as the final whistle blew."
+    },
     {
       "title": "Galatasaray vs Venezia",
       "thumbnail_url": "https://img.refooty.com/thumbnail/galatasaray-vs-venezia-2026-07-27-2gcq.webp",

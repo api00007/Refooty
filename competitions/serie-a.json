@@ -1,9 +1,875 @@
 {
   "competition": "Serie A",
   "competition_cover": "https://refooty.com/covers/serie-a.webp",
-  "total_matches": 1,
-  "Last update time": "09:30:48 PM 23-08-2026",
+  "total_matches": 5,
+  "Last update time": "07:20:19 PM 24-08-2026",
   "matches": [
+    {
+      "title": "Frosinone vs Juventus",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/frosinone-v-juventus-2026-08-23-cFfG.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 23, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/496.webp",
+          "name": "Juventus",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/512.webp",
+          "name": "Frosinone",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Frosinone_v_Juventus_2026_08_23.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Juventus",
+          "player": "Bremer",
+          "event_type": "Goal",
+          "assist": "F. Conceição",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Frosinone",
+          "player": "R. Schmid",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "50'",
+          "team": "Juventus",
+          "player": "Z. Çelik",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "81'",
+          "team": "Juventus",
+          "player": "A. Cambiaso",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Frosinone",
+          "player": "G. Calvani",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Frosinone_wins": "0",
+          "draws": "0",
+          "Juventus_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "25/02/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Juventus 3 - 2 Frosinone"
+          },
+          {
+            "date": "11/01/2024",
+            "competition": "Coppa Italia: Quarter-Finals 23/24",
+            "teams_and_score": "Juventus 4 - 0 Frosinone"
+          },
+          {
+            "date": "23/12/2023",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Frosinone 1 - 2 Juventus"
+          },
+          {
+            "date": "15/02/2019",
+            "competition": "Serie A",
+            "teams_and_score": "Juventus 3 - 0 Frosinone"
+          },
+          {
+            "date": "01/05/2007",
+            "competition": "Serie Bwin",
+            "teams_and_score": "Frosinone 0 - 2 Juventus"
+          }
+        ],
+        "home_team_form": {
+          "team": "Frosinone",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Frosinone 0 - 1 Juventus",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Frosinone 4 - 1 Juve Stabia",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Frosinone 1 - 2 Lazio",
+              "result": "L"
+            },
+            {
+              "date": "08/05/2026",
+              "competition": "Serie B",
+              "teams_and_score": "Frosinone 5 - 0 Mantova",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Juventus",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Frosinone 0 - 1 Juventus",
+              "result": "W"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Juventus 2 - 0 Palermo",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Juventus 2 - 0 Nice",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Basel 0 - 0 Juventus",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Torino 2 - 2 Juventus",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Frosinone": "2",
+          "Juventus": "5"
+        },
+        "shots_off_target": {
+          "Frosinone": "7",
+          "Juventus": "9"
+        },
+        "shots_blocked": {
+          "Frosinone": "2",
+          "Juventus": "6"
+        },
+        "corners": {
+          "Frosinone": "3",
+          "Juventus": "12"
+        },
+        "fouls": {
+          "Frosinone": "15",
+          "Juventus": "18"
+        },
+        "offsides": {
+          "Frosinone": "4",
+          "Juventus": "1"
+        },
+        "yellow_cards": {
+          "Frosinone": "2",
+          "Juventus": "2"
+        },
+        "goalkeeper_saves": {
+          "Frosinone": "4",
+          "Juventus": "2"
+        },
+        "crosses": {
+          "Frosinone": "4",
+          "Juventus": "6"
+        },
+        "ball_possession": {
+          "Frosinone": "37%",
+          "Juventus": "63%"
+        }
+      },
+      "description": "Watch Frosinone vs Juventus highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 23, 2026. The Serie A clash between Frosinone and Juventus promised to be a rigorous test of tactical discipline for both sides. On August 23, 2026 , the atmosphere was charged as the hosts sought to disrupt the rhythm of the Italian giants in a tightly contested encounter. Bremer’s Header Breaks the Deadlock Juventus established their dominance early, controlling the tempo and searching for openings in the Frosinone backline. The breakthrough arrived in the 22nd minute through a brilliantly executed set-piece routine. Douglas Luiz provided the vision with a key pass to Chico Conceição , who delivered an inviting cross from the right. Gleison Bremer rose highest in the box, powering a header home to give the visitors a deserved lead. The goal was a testament to the clinical nature of the Turin side, who effectively silenced the home crowd. As the first half progressed, Frosinone struggled to create clear-cut chances. A rare moment of controversy occurred in the 31st minute when goalkeeper Lorenzo Palmisani was penalized for an 8-second rule violation, gifting Juventus an indirect set-piece opportunity. The half ended with rising tensions, as Romano Schmid received a yellow card for a robust challenge, underlining the physical battle unfolding on the pitch. Late Drama and Woodwork Rescue The second half saw Juventus maintain a lion's share of possession, peaking at 61%, as they looked to manage the game. Tactical substitutions followed, with Edon Zhegrova and Teun Koopmeiners introduced to provide fresh energy. However, the visitors' defensive resolve was tested, leading to bookings for Zeki Çelik and Andrea Cambiaso as they halted dangerous counter-attacks from the home side. Drama reached fever pitch in stoppage time. In the 93rd minute, Frosinone came agonizingly close to an equalizer when Gabriele Calvani connected with a cross, only to see his powerful header crash against the crossbar. Despite the late onslaught and several last-ditch clearances from Pierre Kalulu and Bremer , Juventus held firm. The final whistle blew after nine minutes of added time, confirming a narrow but vital victory for the visitors."
+    },
+    {
+      "title": "Torino vs AC Milan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-ac-milan-2026-08-23-VcbN.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 23, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/489.webp",
+          "name": "AC Milan",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/503.webp",
+          "name": "Torino",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_AC_Milan_2026_08_23.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "53'",
+          "team": "AC Milan",
+          "player": "R. Loftus-Cheek",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "64'",
+          "team": "AC Milan",
+          "player": "A. Cisse",
+          "event_type": "Goal",
+          "assist": "A. Rabiot",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "67'",
+          "team": "AC Milan",
+          "player": "A. Rabiot",
+          "event_type": "Goal",
+          "assist": "S. Chukwueze",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "90+3'",
+          "team": "Torino",
+          "player": "C. Adams",
+          "event_type": "Goal",
+          "assist": "G. Gineitis",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Torino_wins": "4",
+          "draws": "1",
+          "AC Milan_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "21/03/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "AC Milan 3 - 2 Torino"
+          },
+          {
+            "date": "22/02/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Torino 2 - 1 AC Milan"
+          },
+          {
+            "date": "18/05/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Torino 3 - 1 AC Milan"
+          },
+          {
+            "date": "10/02/2023",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "AC Milan 1 - 0 Torino"
+          },
+          {
+            "date": "11/01/2023",
+            "competition": "Coppa Italia: Round of 16 22/23",
+            "teams_and_score": "AC Milan 0 - 1 Torino"
+          },
+          {
+            "date": "30/10/2022",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "Torino 2 - 1 AC Milan"
+          },
+          {
+            "date": "10/04/2022",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Torino 0 - 0 AC Milan"
+          }
+        ],
+        "home_team_form": {
+          "team": "Torino",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Torino 1 - 2 AC Milan",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Torino 1 - 0 Carrarese",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Avellino 1 - 1 Torino",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2025",
+              "teams_and_score": "Burnley 0 - 1 Torino",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Torino 0 - 1 Cittadella",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "AC Milan",
+          "form": [
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Torino 1 - 2 AC Milan",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester United 2 - 4 AC Milan",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "AC Milan 1 - 2 Cagliari",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Torino": "1",
+          "AC Milan": "4"
+        },
+        "shots_off_target": {
+          "Torino": "5",
+          "AC Milan": "9"
+        },
+        "shots_blocked": {
+          "Torino": "2",
+          "AC Milan": "6"
+        },
+        "corners": {
+          "Torino": "2",
+          "AC Milan": "4"
+        },
+        "fouls": {
+          "Torino": "10",
+          "AC Milan": "9"
+        },
+        "offsides": {
+          "Torino": "2",
+          "AC Milan": "0"
+        },
+        "yellow_cards": {
+          "Torino": "0",
+          "AC Milan": "1"
+        },
+        "goalkeeper_saves": {
+          "Torino": "2",
+          "AC Milan": "0"
+        },
+        "crosses": {
+          "Torino": "2",
+          "AC Milan": "11"
+        },
+        "ball_possession": {
+          "Torino": "41%",
+          "AC Milan": "59%"
+        }
+      },
+      "description": "Watch Torino vs AC Milan highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 23, 2026. The Stadio Olimpico Grande Torino set the stage for a compelling Serie A encounter as Torino welcomed AC Milan for a high-stakes clash. With both teams looking to establish early-season momentum, the match promised a tactical battle between two of Italy's historic sides. A Tactical Stalemate in the Opening Half On August 23, 2026 , the match kicked off with both sides showing significant defensive discipline. Torino looked to catch the visitors off guard early, with Giovanni Simeone frequently testing the offside trap, while AC Milan struggled to find their rhythm in the final third. Pervis Estupiñán saw a header blocked during a rare foray forward, but clear-cut chances remained at a premium. Despite defensive blunders from Saul Coco and Gvidas Gineitis that briefly threatened the hosts' stability, the first half concluded without a breakthrough, leaving everything to play for in the second period. Milan’s Quickfire Double Shakes Turin The game sparked into life after the interval, particularly following the introduction of Luka Modrić in the 57th minute. Shortly after a VAR check denied AC Milan a potential penalty, the visitors seized control. In the 64th minute, Adrien Rabiot turned provider, setting up Alphadjo Cissé for a clinical right-footed finish. The lead was doubled just three minutes later; a key pass from Modrić found Samuel Chukwueze , who crossed for Rabiot to fire home a superb left-footed volley. Suddenly, the visitors held a commanding 2-0 lead and seemed to be cruising toward victory. Late Drama as Torino Fight Back Refusing to capitulate, Torino threw everything forward in the closing stages. Alieu Njie came agonisingly close to scoring in the 75th minute, but his effort rattled the post. As the clock ticked into stoppage time, the home fans were given a glimmer of hope. In the 93rd minute, Che Adams produced a stunning volley from a Gvidas Gineitis cross to make it 1-2. Despite the frantic final moments and a desperate push for an equalizer, AC Milan maintained their composure to secure a hard-fought away win."
+    },
+    {
+      "title": "Atalanta vs Sassuolo",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/atalanta-v-sassuolo-2026-08-23-jLD2.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 23, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/488.webp",
+          "name": "Sassuolo",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/499.webp",
+          "name": "Atalanta",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Atalanta_v_Sassuolo_2026_08_23.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Atalanta",
+          "player": "G. Raspadori",
+          "event_type": "Goal",
+          "assist": "G. Gaetano",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Sassuolo",
+          "player": "C. Odenthal",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Atalanta",
+          "player": "N. Krstovic",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Atalanta_wins": "3",
+          "draws": "1",
+          "Sassuolo_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "01/03/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Sassuolo 2 - 1 Atalanta"
+          },
+          {
+            "date": "17/02/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Atalanta 3 - 0 Sassuolo"
+          },
+          {
+            "date": "03/01/2024",
+            "competition": "Coppa Italia: Round of 16 23/24",
+            "teams_and_score": "Atalanta 3 - 1 Sassuolo"
+          },
+          {
+            "date": "20/08/2023",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Sassuolo 0 - 2 Atalanta"
+          },
+          {
+            "date": "04/02/2023",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "Sassuolo 1 - 0 Atalanta"
+          },
+          {
+            "date": "10/04/2022",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Sassuolo 2 - 1 Atalanta"
+          },
+          {
+            "date": "02/05/2021",
+            "competition": "Serie A 20/21",
+            "teams_and_score": "Sassuolo 1 - 1 Atalanta"
+          }
+        ],
+        "home_team_form": {
+          "team": "Atalanta",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Atalanta 2 - 1 Sassuolo",
+              "result": "W"
+            },
+            {
+              "date": "20/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Atalanta 0 - 0 Hapoel Tel Aviv",
+              "result": "D"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Atalanta 1 - 0 Athletic Club",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Feyenoord 2 - 1 Atalanta",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Atalanta 3 - 2 S.S. Arezzo",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sassuolo",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Atalanta 2 - 1 Sassuolo",
+              "result": "L"
+            },
+            {
+              "date": "17/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Sassuolo 3 - 0 Cesena FC",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Augsburg 3 - 2 Sassuolo",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Parma 1 - 0 Sassuolo",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Atalanta": "7",
+          "Sassuolo": "8"
+        },
+        "shots_off_target": {
+          "Atalanta": "4",
+          "Sassuolo": "9"
+        },
+        "shots_blocked": {
+          "Atalanta": "3",
+          "Sassuolo": "5"
+        },
+        "corners": {
+          "Atalanta": "4",
+          "Sassuolo": "4"
+        },
+        "fouls": {
+          "Atalanta": "9",
+          "Sassuolo": "10"
+        },
+        "offsides": {
+          "Atalanta": "0",
+          "Sassuolo": "1"
+        },
+        "goalkeeper_saves": {
+          "Atalanta": "7",
+          "Sassuolo": "5"
+        },
+        "crosses": {
+          "Atalanta": "2",
+          "Sassuolo": "4"
+        },
+        "ball_possession": {
+          "Atalanta": "56%",
+          "Sassuolo": "44%"
+        }
+      },
+      "description": "Watch Atalanta vs Sassuolo highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 23, 2026. The stage was set for a classic encounter as two determined sides faced off in a match where tactical discipline and individual errors would dictate the outcome. Both teams displayed high energy from the kickoff, signaling a contest that would be decided by the narrowest of margins. Atalanta Strike Early On August 23, 2026 , Atalanta asserted their dominance early in this Serie A fixture. It took only six minutes for the deadlock to be broken when Gianluca Gaetano provided a brilliant assist for Giacomo Raspadori . The forward made no mistake, firing a clinical left-footed shot into the net to give the home side a 1-0 lead. This early breakthrough allowed Atalanta to control the tempo for much of the first half, retaining 56% of the ball. Sassuolo struggled to find their rhythm in the opening 45 minutes. Despite several set-piece opportunities delivered by Armand Lauriente , the visitors could not test the goalkeeper effectively. Atalanta headed into the halftime break with a slender but well-deserved lead, looking comfortable in their defensive shape. A Seesaw Second Half The momentum shifted ten minutes into the second half. Following a defensive lapse by Odilon Kossounou , Sassuolo found a lifeline. Cas Odenthal rose highest to meet the ball from close range, powering a header into the net in the 55th minute to equalize. The goal breathed new life into the visitors, but their joy would be short-lived as Atalanta responded with a triple substitution to regain control. In the 65th minute, another defensive blunder, this time by Sassuolo’s Tommaso Macchioni , proved fatal. Substitute Nikola Krstovic seized the opportunity, striking the ball with his right foot. A lucky deflection took the ball past the goalkeeper and into the net, restoring Atalanta's lead and punishing the visitors' inconsistency at the back. Late Scares and Final Whistle The closing stages were frantic as Sassuolo pushed for a second equalizer. Simone Cinquegrano had a glorious chance in the 94th minute, but he failed to connect cleanly with a volley, sending the ball wide. At the other end, Giorgio Scalvini saw a header go agonizingly wide as Atalanta searched for a cushion. Ultimately, the brilliance of Marco Carnesecchi in goal ensured that Atalanta walked away with the 2-1 victory, surviving a late onslaught to secure all three points."
+    },
+    {
+      "title": "Venezia vs Lecce",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/venezia-v-lecce-2026-08-23-l8rH.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 23, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/867.webp",
+          "name": "Lecce",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/517.webp",
+          "name": "Venezia",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Venezia_v_Lecce_2026_08_23.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Lecce",
+          "player": "K. Gaspar",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Venezia",
+          "player": "T. Correia",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "46'",
+          "team": "Lecce",
+          "player": "O. Gorter",
+          "event_type": "Goal",
+          "assist": "L. Coulibaly",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Lecce",
+          "player": "O. Ngom",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Lecce",
+          "player": "D. F. M. Veiga",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Venezia",
+          "player": "T. Bašić",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "106'",
+          "team": "Venezia",
+          "player": "M. Dagasso",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Lecce",
+          "player": "T. Gabriel",
+          "event_type": "Goal",
+          "assist": "D. F. M. Veiga",
+          "score_update": "0 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Venezia_wins": "0",
+          "draws": "4",
+          "Lecce_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "06/04/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Lecce 1 - 1 Venezia"
+          },
+          {
+            "date": "20/05/2021",
+            "competition": "Serie B: Promotion: Play-off",
+            "teams_and_score": "Lecce 1 - 1 Venezia"
+          },
+          {
+            "date": "16/03/2021",
+            "competition": "Serie B 20/21",
+            "teams_and_score": "Venezia 2 - 3 Lecce"
+          },
+          {
+            "date": "11/02/2019",
+            "competition": "Serie B",
+            "teams_and_score": "Venezia 1 - 1 Lecce"
+          },
+          {
+            "date": "09/03/2003",
+            "competition": "Serie Bwin",
+            "teams_and_score": "Venezia 2 - 2 Lecce"
+          }
+        ],
+        "home_team_form": {
+          "team": "Venezia",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Venezia 0 - 2 Lecce",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Venezia 3 - 2 Modena",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brest 2 - 2 Venezia",
+              "result": "D"
+            },
+            {
+              "date": "08/05/2026",
+              "competition": "Serie B",
+              "teams_and_score": "Venezia 2 - 0 Palermo",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lecce",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Venezia 0 - 2 Lecce",
+              "result": "W"
+            },
+            {
+              "date": "17/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Palermo 2 - 0 Lecce",
+              "result": "L"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lecce 5 - 2 NK Bistrica",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Lecce 1 - 0 Genoa",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Venezia": "7",
+          "Lecce": "5"
+        },
+        "shots_off_target": {
+          "Venezia": "10",
+          "Lecce": "6"
+        },
+        "shots_blocked": {
+          "Venezia": "2",
+          "Lecce": "1"
+        },
+        "corners": {
+          "Venezia": "5",
+          "Lecce": "3"
+        },
+        "fouls": {
+          "Venezia": "8",
+          "Lecce": "12"
+        },
+        "offsides": {
+          "Venezia": "2",
+          "Lecce": "2"
+        },
+        "yellow_cards": {
+          "Venezia": "1",
+          "Lecce": "3"
+        },
+        "goalkeeper_saves": {
+          "Venezia": "2",
+          "Lecce": "6"
+        },
+        "crosses": {
+          "Venezia": "5",
+          "Lecce": "2"
+        },
+        "ball_possession": {
+          "Venezia": "71%",
+          "Lecce": "29%"
+        }
+      },
+      "description": "Watch Venezia vs Lecce highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 23, 2026. On August 23, 2026, Venezia hosted Lecce in a Serie A fixture that promised tactical intrigue and high stakes. Both teams sought to assert dominance early, creating an atmosphere charged with anticipation as the match unfolded under the lights. VAR Interventions and Woodwork Rattled The first half was defined by near misses and technical drama. Venezia thought they had taken the lead in the 18th minute, only for the referee to revoke the goal after a VAR review identified a foul in the buildup. The scare served as a wake-up call for both sides. Gianluca Busio came agonizingly close for the hosts when his shot struck the post, and minutes later, Lecce 's Lassana Coulibaly saw his own effort bounce off the woodwork. Despite the high energy, the deadlock remained unbroken as the teams headed into the tunnel. Early Second-Half Breakthrough The game shifted immediately after the restart. In the 46th minute, a defensive lapse by Armel Bella-Kotchap proved costly. Lassana Coulibaly capitalized on the error to set up Olaf Gorter , whose right-footed strike took a significant deflection to find the back of the net. The goal forced Venezia to push higher up the pitch, and while they dominated the ball—maintaining 71% possession throughout the game—they struggled to break down a resilient Lecce defense led by goalkeeper Wladimiro Falcone . Clinical Lecce Secure the Points History repeated itself for the hosts in the 76th minute when another potential equalizer was ruled out by VAR , this time for an offside against Akor Adams . Lecce made them pay for their lack of clinical finishing just four minutes later. From a corner delivered by Youssef Maleh , Tiago Gabriel rose highest to power a header home, effectively sealing the result. Venezia had one final golden opportunity in stoppage time, but Ridgeciano Haps missed a sitter from close range, leaving the home fans in disbelief as the final whistle blew."
+    },
     {
       "title": "Inter Milan vs Monza",
       "thumbnail_url": "https://img.refooty.com/thumbnail/inter-milan-v-monza-2026-08-22-h7v9.webp",
