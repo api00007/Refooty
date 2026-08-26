@@ -2,8 +2,216 @@
   "team": "Heerenveen",
   "team_logo": "https://img.refooty.com/logo/teams/210.webp",
   "total_matches": 2,
-  "Last update time": "06:40:20 AM 26-08-2026",
+  "Last update time": "03:30:36 AM 27-08-2026",
   "matches": [
+    {
+      "title": "Heerenveen vs Twente",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/heerenveen-vs-twente-2026-08-09-nsQS.webp",
+      "competition": "Eredivisie",
+      "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/415.webp",
+          "name": "Twente",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/210.webp",
+          "name": "Heerenveen",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/heerenveen-vs-twente-2026-08-09_hYhnV.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "52'",
+          "team": "Heerenveen",
+          "player": "L. Oyen",
+          "event_type": "Goal",
+          "assist": "J. Trenskow",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "75'",
+          "team": "Heerenveen",
+          "player": "D. W. Proper",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Heerenveen",
+          "player": "L. Oyen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Twente",
+          "player": "D. Rots",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Heerenveen_wins": "0",
+          "draws": "3",
+          "Twente_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "07/02/2026",
+            "competition": "Eredivisie",
+            "teams_and_score": "FC Twente 5 - 0 SC Heerenveen"
+          },
+          {
+            "date": "09/02/2025",
+            "competition": "Eredivisie",
+            "teams_and_score": "SC Heerenveen 3 - 3 FC Twente"
+          },
+          {
+            "date": "03/04/2024",
+            "competition": "Eredivisie 23/24",
+            "teams_and_score": "SC Heerenveen 3 - 3 FC Twente"
+          },
+          {
+            "date": "04/06/2023",
+            "competition": "Eredivisie: UECL Play-off",
+            "teams_and_score": "FC Twente 4 - 0 SC Heerenveen"
+          },
+          {
+            "date": "04/03/2023",
+            "competition": "Eredivisie 22/23",
+            "teams_and_score": "FC Twente 3 - 3 SC Heerenveen"
+          }
+        ],
+        "home_team_form": {
+          "team": "Heerenveen",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "SC Heerenveen 1 - 0 FC Twente",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "SC Heerenveen 3 - 2 NFC Volos",
+              "result": "W"
+            },
+            {
+              "date": "21/05/2026",
+              "competition": "Eredivisie: UECL Play-off",
+              "teams_and_score": "FC Utrecht 3 - 2 SC Heerenveen",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "SC Heerenveen 0 - 0 Ajax",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Twente",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "SC Heerenveen 1 - 0 FC Twente",
+              "result": "L"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "FC Twente 6 - 0 DAC 1904 Dunajska Streda",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Genk 2 - 1 FC Twente",
+              "result": "L"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Ferencvaros 2 - 2 FC Twente",
+              "result": "D"
+            },
+            {
+              "date": "24/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Emmen 0 - 3 FC Twente",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Heerenveen": "4",
+          "Twente": "3"
+        },
+        "shots_off_target": {
+          "Heerenveen": "1",
+          "Twente": "11"
+        },
+        "shots_blocked": {
+          "Heerenveen": "2",
+          "Twente": "4"
+        },
+        "corners": {
+          "Heerenveen": "4",
+          "Twente": "8"
+        },
+        "fouls": {
+          "Heerenveen": "7",
+          "Twente": "7"
+        },
+        "offsides": {
+          "Heerenveen": "2",
+          "Twente": "2"
+        },
+        "yellow_cards": {
+          "Heerenveen": "2",
+          "Twente": "1"
+        },
+        "goalkeeper_saves": {
+          "Heerenveen": "3",
+          "Twente": "3"
+        },
+        "crosses": {
+          "Heerenveen": "2",
+          "Twente": "10"
+        },
+        "ball_possession": {
+          "Heerenveen": "46%",
+          "Twente": "54%"
+        }
+      },
+      "description": "Watch Heerenveen vs Twente highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on August 9, 2026. SC Heerenveen and Twente faced off in a highly anticipated Eredivisie encounter, where tactical discipline and individual moments of brilliance were expected to define the afternoon. The match on 2026-08-09 brought together two sides eager to establish their dominance early in the campaign in front of a 21,022-strong crowd. A Cagey Opening Period The first half was a battle of attrition, with both sides struggling to find a clear opening. Twente looked the more threatening early on, as Sondre Oerjasaeter unleashed a powerful drive from distance in the 11th minute that whistled just wide of the post. Marko Pjaca kept the home defense on their toes with a series of dangerous corner deliveries, but SC Heerenveen remained organized. Bernt Klaverboer was called into action for routine collections, ensuring the game remained deadlocked as the teams headed into the tunnel for the break. Oyen Breaks the Deadlock The introduction of Luca Oyen at the start of the second half proved to be a masterstroke. Replacing Lanroy Machine , the substitute needed just six minutes to make his mark. In the 52nd minute, Jacob Trenskow found space to provide a perfectly weighted assist for Luca Oyen , who calmly slotted the ball home with his left foot. The goal shifted the momentum, forcing Twente to abandon their cautious approach and commit more players forward in search of an equalizer. Twente’s Late Surge and Defensive Resilience As the clock ticked down, Twente launched a relentless aerial assault. Younes Taha delivered a barrage of corners, testing the resolve of the SC Heerenveen backline. Headers from Max Bruns and Robin Propper forced saves from Bernt Klaverboer , who remained composed under immense pressure. The tension boiled over in stoppage time as Daan Rots received a yellow card for a reckless challenge, and Luca Oyen was booked for time-wasting. Despite a late chance for Wout Weghorst that flashed wide, the home side held firm to secure all three points."
+    },
     {
       "title": "Ajax vs Heerenveen",
       "thumbnail_url": "https://img.refooty.com/thumbnail/ajax-vs-heerenveen-2026-08-16-Erv8.webp",
@@ -238,214 +446,6 @@
         }
       },
       "description": "Watch Ajax vs Heerenveen highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on August 16, 2026. A battle of nerves in the Eredivisie On August 16, 2026, Ajax faced off against SC Heerenveen in a high-stakes Eredivisie encounter. With a crowd of 54,239 spectators watching, the match developed into a compelling tactical struggle as both sides fought for supremacy on the pitch. First half momentum Ajax set the tone early, taking the lead in the 7th minute courtesy of an own goal by Bernt Klaverboer . The momentum continued to favor the hosts when Abdellah Ouazane unleashed a powerful strike from outside the box in the 33rd minute, assisted by Caio Henrique , to double the advantage. Just as the game seemed to be slipping away from the visitors, SC Heerenveen mounted a response before the break; Jacob Trenskow found the net with his left foot in the 45th minute, set up by Sam Kersten , ensuring the match remained delicately poised going into the tunnel. Second half tactical struggle Following the restart, the match became an intense physical battle with both managers utilizing tactical substitutions to gain an edge. SC Heerenveen showed great character, culminating in an 82nd-minute equalizer from Maxence Rivera , who slotted home with his right foot. The dying minutes saw Ajax throw everything forward in pursuit of a winner, including late attempts from Marcos Leonardo and Caio Henrique , but the visiting defense held firm until the final whistle, concluding the match with a hard-fought draw."
-    },
-    {
-      "title": "Heerenveen vs Twente",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/heerenveen-vs-twente-2026-08-09-nsQS.webp",
-      "competition": "Eredivisie",
-      "competition_cover": "https://refooty.com/covers/eredivisie.webp",
-      "date": "Aug 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/415.webp",
-          "name": "Twente",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/210.webp",
-          "name": "Heerenveen",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/heerenveen-vs-twente-2026-08-09_hYhnV.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "52'",
-          "team": "Heerenveen",
-          "player": "L. Oyen",
-          "event_type": "Goal",
-          "assist": "J. Trenskow",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "75'",
-          "team": "Heerenveen",
-          "player": "D. W. Proper",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Heerenveen",
-          "player": "L. Oyen",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Twente",
-          "player": "D. Rots",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Heerenveen_wins": "0",
-          "draws": "3",
-          "Twente_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "07/02/2026",
-            "competition": "Eredivisie",
-            "teams_and_score": "FC Twente 5 - 0 SC Heerenveen"
-          },
-          {
-            "date": "09/02/2025",
-            "competition": "Eredivisie",
-            "teams_and_score": "SC Heerenveen 3 - 3 FC Twente"
-          },
-          {
-            "date": "03/04/2024",
-            "competition": "Eredivisie 23/24",
-            "teams_and_score": "SC Heerenveen 3 - 3 FC Twente"
-          },
-          {
-            "date": "04/06/2023",
-            "competition": "Eredivisie: UECL Play-off",
-            "teams_and_score": "FC Twente 4 - 0 SC Heerenveen"
-          },
-          {
-            "date": "04/03/2023",
-            "competition": "Eredivisie 22/23",
-            "teams_and_score": "FC Twente 3 - 3 SC Heerenveen"
-          }
-        ],
-        "home_team_form": {
-          "team": "Heerenveen",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "SC Heerenveen 1 - 0 FC Twente",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "SC Heerenveen 3 - 2 NFC Volos",
-              "result": "W"
-            },
-            {
-              "date": "21/05/2026",
-              "competition": "Eredivisie: UECL Play-off",
-              "teams_and_score": "FC Utrecht 3 - 2 SC Heerenveen",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "SC Heerenveen 0 - 0 Ajax",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Twente",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "SC Heerenveen 1 - 0 FC Twente",
-              "result": "L"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "FC Twente 6 - 0 DAC 1904 Dunajska Streda",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Genk 2 - 1 FC Twente",
-              "result": "L"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Ferencvaros 2 - 2 FC Twente",
-              "result": "D"
-            },
-            {
-              "date": "24/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Emmen 0 - 3 FC Twente",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Heerenveen": "4",
-          "Twente": "3"
-        },
-        "shots_off_target": {
-          "Heerenveen": "1",
-          "Twente": "11"
-        },
-        "shots_blocked": {
-          "Heerenveen": "2",
-          "Twente": "4"
-        },
-        "corners": {
-          "Heerenveen": "4",
-          "Twente": "8"
-        },
-        "fouls": {
-          "Heerenveen": "7",
-          "Twente": "7"
-        },
-        "offsides": {
-          "Heerenveen": "2",
-          "Twente": "2"
-        },
-        "yellow_cards": {
-          "Heerenveen": "2",
-          "Twente": "1"
-        },
-        "goalkeeper_saves": {
-          "Heerenveen": "3",
-          "Twente": "3"
-        },
-        "crosses": {
-          "Heerenveen": "2",
-          "Twente": "10"
-        },
-        "ball_possession": {
-          "Heerenveen": "46%",
-          "Twente": "54%"
-        }
-      },
-      "description": "Watch Heerenveen vs Twente highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on August 9, 2026. SC Heerenveen and Twente faced off in a highly anticipated Eredivisie encounter, where tactical discipline and individual moments of brilliance were expected to define the afternoon. The match on 2026-08-09 brought together two sides eager to establish their dominance early in the campaign in front of a 21,022-strong crowd. A Cagey Opening Period The first half was a battle of attrition, with both sides struggling to find a clear opening. Twente looked the more threatening early on, as Sondre Oerjasaeter unleashed a powerful drive from distance in the 11th minute that whistled just wide of the post. Marko Pjaca kept the home defense on their toes with a series of dangerous corner deliveries, but SC Heerenveen remained organized. Bernt Klaverboer was called into action for routine collections, ensuring the game remained deadlocked as the teams headed into the tunnel for the break. Oyen Breaks the Deadlock The introduction of Luca Oyen at the start of the second half proved to be a masterstroke. Replacing Lanroy Machine , the substitute needed just six minutes to make his mark. In the 52nd minute, Jacob Trenskow found space to provide a perfectly weighted assist for Luca Oyen , who calmly slotted the ball home with his left foot. The goal shifted the momentum, forcing Twente to abandon their cautious approach and commit more players forward in search of an equalizer. Twente’s Late Surge and Defensive Resilience As the clock ticked down, Twente launched a relentless aerial assault. Younes Taha delivered a barrage of corners, testing the resolve of the SC Heerenveen backline. Headers from Max Bruns and Robin Propper forced saves from Bernt Klaverboer , who remained composed under immense pressure. The tension boiled over in stoppage time as Daan Rots received a yellow card for a reckless challenge, and Luca Oyen was booked for time-wasting. Despite a late chance for Wout Weghorst that flashed wide, the home side held firm to secure all three points."
     }
   ]
 }

@@ -2,8 +2,223 @@
   "team": "Aberdeen",
   "team_logo": "https://img.refooty.com/logo/teams/252.webp",
   "total_matches": 2,
-  "Last update time": "06:40:20 AM 26-08-2026",
+  "Last update time": "03:30:36 AM 27-08-2026",
   "matches": [
+    {
+      "title": "Dundee - Aberdeen",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-aberdeen-2026-08-08-mhwX.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/252.webp",
+          "name": "Aberdeen",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/253.webp",
+          "name": "Dundee FC",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/dundee-aberdeen-2026-08-08_gCkXX.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Dundee FC",
+          "player": "J. Westley",
+          "event_type": "Goal",
+          "assist": "J. Bevan",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Aberdeen",
+          "player": "A. Briedl",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Aberdeen",
+          "player": "L. Mayo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Aberdeen",
+          "player": "S. Robinson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Dundee FC",
+          "player": "J. Westley",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Dundee FC",
+          "player": "J. Bevan",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Aberdeen",
+          "player": "J. Milne",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Dundee FC_wins": "2",
+          "draws": "1",
+          "Aberdeen_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "17/05/2026",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Dundee FC 3 - 2 Aberdeen"
+          },
+          {
+            "date": "21/02/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Aberdeen 2 - 3 Dundee FC"
+          },
+          {
+            "date": "15/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee FC 1 - 2 Aberdeen"
+          },
+          {
+            "date": "13/04/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Aberdeen 0 - 0 Dundee FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Dundee FC",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Dundee FC 4 - 0 Clyde",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Dundee FC 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Annan Athletic 0 - 5 Dundee FC",
+              "result": "W"
+            },
+            {
+              "date": "08/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brechin City 1 - 1 Dundee FC",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Aberdeen",
+          "form": [
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group A",
+              "teams_and_score": "Aberdeen 3 - 0 Kelty Hearts",
+              "result": "W"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Linfield 0 - 2 Aberdeen",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Dundee FC": "7",
+          "Aberdeen": "3"
+        },
+        "shots_off_target": {
+          "Dundee FC": "7",
+          "Aberdeen": "4"
+        },
+        "shots_blocked": {
+          "Dundee FC": "4",
+          "Aberdeen": "2"
+        },
+        "corners": {
+          "Dundee FC": "5",
+          "Aberdeen": "4"
+        },
+        "fouls": {
+          "Dundee FC": "9",
+          "Aberdeen": "12"
+        },
+        "offsides": {
+          "Dundee FC": "0",
+          "Aberdeen": "2"
+        },
+        "yellow_cards": {
+          "Dundee FC": "1",
+          "Aberdeen": "3"
+        },
+        "goalkeeper_saves": {
+          "Dundee FC": "3",
+          "Aberdeen": "5"
+        },
+        "crosses": {
+          "Dundee FC": "3",
+          "Aberdeen": "6"
+        },
+        "ball_possession": {
+          "Dundee FC": "47%",
+          "Aberdeen": "53%"
+        }
+      },
+      "description": "Watch Dundee FC vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Scottish Premiership season continued with a high-stakes encounter as Dundee FC faced off against Aberdeen . Fans gathered in anticipation of a contest that promised both tactical discipline and offensive ambition from the opening whistle. Early Breakthrough and First Half Discipline On August 8, 2026 , the match ignited early with a showcase of clinical attacking play. In the 9th minute, the deadlock was broken when Joe Bevan turned provider, delivering a precise ball to Joe Westley , who made no mistake in finding the back of the net. This early advantage for Aberdeen set the tone for a physical contest, as Dundee FC struggled to find an immediate rhythm. The intensity of the match was reflected in the referee's notebook, starting with a yellow card for Alexander Briedl in the 12th minute. As the first half progressed, the battle in midfield grew more contested. Lewis Mayo received a booking in the 38th minute for a mistimed challenge, and goalscorer Joe Westley joined him in the book just before the interval in the 44th minute. Despite the cautions, the visitors remained composed, maintaining their lead as both sides retreated to the dressing rooms for half-time adjustments. Bevan Doubles the Lead as Substitutions Flow The second half began with a tactical reshuffle, as Dundee FC introduced Lewis Smith and Ayoub Mouloua to inject energy into their lineup. However, it was Aberdeen who struck again to tighten their grip on the match. In the 56th minute, the roles shifted for Joe Bevan ; after assisting the opener, he found the net himself to double the lead. This second goal provided a significant cushion and forced the hosts into further defensive vulnerability as they chased the game. The final half-hour saw a flurry of activity on the benches, with both managers utilizing their full squads. Players like Finlay Robertson , Ashley Hay , and Jack Milne were introduced to manage the closing stages. Although Jack Milne picked up a late yellow card in the 90th minute, the result was never in doubt. The referee blew the final whistle at 90+4 minutes, confirming a disciplined and effective performance by the visitors on the road."
+    },
     {
       "title": "Aberdeen - Heart of Midlothian",
       "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-heart-of-midlothian-2026-08-01-0QkG.webp",
@@ -229,221 +444,6 @@
         }
       },
       "description": "Watch Aberdeen vs Heart Of Midlothian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 1, 2026. The stage was set for a classic Scottish Premiership encounter on August 1, 2026 , as Aberdeen welcomed Heart of Midlothian . Both sides brought a high level of intensity to the pitch, knowing that every point in this early-season clash would be vital. Hearts Take the Initiative Heart of Midlothian started the match with a clear tactical plan, looking to disrupt Aberdeen ’s rhythm with a physical approach. The competitive nature of the game was evident early on when Brad Lyons received a yellow card in the 34th minute. The visitors capitalized on their momentum just a minute later, as Oisin McEntee found the back of the net to give the visitors a deserved lead. Aberdeen struggled to find an immediate response, and despite Jordi Altena picking up a caution for the visitors shortly before the break, Hearts headed into the interval with their noses in front. Tactical Adjustments and Rising Tension As the second half got underway, the match evolved into a game of chess between the two managers. A flurry of substitutions followed after the hour mark, with players like Stuart Armstrong , Gavin Molloy , and Jamie McCart introduced to alter the dynamic. Aberdeen gradually began to dominate possession, piling pressure on the visitors' backline. The tension reached a boiling point as the match entered its final phase, with Harry Milne receiving a yellow card in the 89th minute as Hearts fought desperately to protect their slender advantage. The Ultimate Stoppage-Time Turnaround Just as the clock hit the 90-minute mark, the match exploded into life. Kevin Nisbet leveled the scores after being set up by Lewis Mayo , sending the home crowd into a frenzy. The drama intensified in the 93rd minute when Stuart Findlay was shown a straight red card, leading to furious protests from the visiting side. Capitalizing on the chaos, Aberdeen were awarded a penalty in the 95th minute. Kevin Nisbet stepped up to calmly slot home his second of the game, completing a stunning turnaround. Despite a late yellow card for Nisbet during the celebrations, Aberdeen held firm through eleven minutes of stoppage time to claim all three points."
-    },
-    {
-      "title": "Dundee - Aberdeen",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-aberdeen-2026-08-08-mhwX.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/252.webp",
-          "name": "Aberdeen",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/253.webp",
-          "name": "Dundee FC",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/dundee-aberdeen-2026-08-08_gCkXX.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Dundee FC",
-          "player": "J. Westley",
-          "event_type": "Goal",
-          "assist": "J. Bevan",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Aberdeen",
-          "player": "A. Briedl",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Aberdeen",
-          "player": "L. Mayo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Aberdeen",
-          "player": "S. Robinson",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Dundee FC",
-          "player": "J. Westley",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Dundee FC",
-          "player": "J. Bevan",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Aberdeen",
-          "player": "J. Milne",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Dundee FC_wins": "2",
-          "draws": "1",
-          "Aberdeen_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "17/05/2026",
-            "competition": "Premiership: Relegation Group",
-            "teams_and_score": "Dundee FC 3 - 2 Aberdeen"
-          },
-          {
-            "date": "21/02/2026",
-            "competition": "Premiership",
-            "teams_and_score": "Aberdeen 2 - 3 Dundee FC"
-          },
-          {
-            "date": "15/02/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Dundee FC 1 - 2 Aberdeen"
-          },
-          {
-            "date": "13/04/2024",
-            "competition": "Premiership 23/24",
-            "teams_and_score": "Aberdeen 0 - 0 Dundee FC"
-          }
-        ],
-        "home_team_form": {
-          "team": "Dundee FC",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group D",
-              "teams_and_score": "Dundee FC 4 - 0 Clyde",
-              "result": "W"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Dundee FC 0 - 4 Everton",
-              "result": "L"
-            },
-            {
-              "date": "14/07/2026",
-              "competition": "Scottish League Cup: Group D",
-              "teams_and_score": "Annan Athletic 0 - 5 Dundee FC",
-              "result": "W"
-            },
-            {
-              "date": "08/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Brechin City 1 - 1 Dundee FC",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Aberdeen",
-          "form": [
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group A",
-              "teams_and_score": "Aberdeen 3 - 0 Kelty Hearts",
-              "result": "W"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Linfield 0 - 2 Aberdeen",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Dundee FC": "7",
-          "Aberdeen": "3"
-        },
-        "shots_off_target": {
-          "Dundee FC": "7",
-          "Aberdeen": "4"
-        },
-        "shots_blocked": {
-          "Dundee FC": "4",
-          "Aberdeen": "2"
-        },
-        "corners": {
-          "Dundee FC": "5",
-          "Aberdeen": "4"
-        },
-        "fouls": {
-          "Dundee FC": "9",
-          "Aberdeen": "12"
-        },
-        "offsides": {
-          "Dundee FC": "0",
-          "Aberdeen": "2"
-        },
-        "yellow_cards": {
-          "Dundee FC": "1",
-          "Aberdeen": "3"
-        },
-        "goalkeeper_saves": {
-          "Dundee FC": "3",
-          "Aberdeen": "5"
-        },
-        "crosses": {
-          "Dundee FC": "3",
-          "Aberdeen": "6"
-        },
-        "ball_possession": {
-          "Dundee FC": "47%",
-          "Aberdeen": "53%"
-        }
-      },
-      "description": "Watch Dundee FC vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Scottish Premiership season continued with a high-stakes encounter as Dundee FC faced off against Aberdeen . Fans gathered in anticipation of a contest that promised both tactical discipline and offensive ambition from the opening whistle. Early Breakthrough and First Half Discipline On August 8, 2026 , the match ignited early with a showcase of clinical attacking play. In the 9th minute, the deadlock was broken when Joe Bevan turned provider, delivering a precise ball to Joe Westley , who made no mistake in finding the back of the net. This early advantage for Aberdeen set the tone for a physical contest, as Dundee FC struggled to find an immediate rhythm. The intensity of the match was reflected in the referee's notebook, starting with a yellow card for Alexander Briedl in the 12th minute. As the first half progressed, the battle in midfield grew more contested. Lewis Mayo received a booking in the 38th minute for a mistimed challenge, and goalscorer Joe Westley joined him in the book just before the interval in the 44th minute. Despite the cautions, the visitors remained composed, maintaining their lead as both sides retreated to the dressing rooms for half-time adjustments. Bevan Doubles the Lead as Substitutions Flow The second half began with a tactical reshuffle, as Dundee FC introduced Lewis Smith and Ayoub Mouloua to inject energy into their lineup. However, it was Aberdeen who struck again to tighten their grip on the match. In the 56th minute, the roles shifted for Joe Bevan ; after assisting the opener, he found the net himself to double the lead. This second goal provided a significant cushion and forced the hosts into further defensive vulnerability as they chased the game. The final half-hour saw a flurry of activity on the benches, with both managers utilizing their full squads. Players like Finlay Robertson , Ashley Hay , and Jack Milne were introduced to manage the closing stages. Although Jack Milne picked up a late yellow card in the 90th minute, the result was never in doubt. The referee blew the final whistle at 90+4 minutes, confirming a disciplined and effective performance by the visitors on the road."
     }
   ]
 }
