@@ -1,9 +1,463 @@
 {
   "team": "West Ham",
   "team_logo": "https://img.refooty.com/logo/teams/48.webp",
-  "total_matches": 4,
-  "Last update time": "01:50:24 AM 26-08-2026",
+  "total_matches": 5,
+  "Last update time": "06:40:19 AM 26-08-2026",
   "matches": [
+    {
+      "title": "Southampton vs West Ham",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/southampton-vs-west-ham-2026-08-25-NSCk.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 25, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/48.webp",
+          "name": "West Ham",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/41.webp",
+          "name": "Southampton",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/southampton-vs-west-ham-2026-08-25.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Southampton",
+          "player": "L. Scienza",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Southampton",
+          "player": "C. Bragg",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Southampton",
+          "player": "L. Scienza",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "West Ham",
+          "player": "J. Ajala",
+          "event_type": "Goal",
+          "assist": "L. Orford",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "West Ham",
+          "player": "J. Ajala",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "West Ham",
+          "player": "V. Castellanos",
+          "event_type": "Goal",
+          "assist": "J. Veltman",
+          "score_update": "1 - 3"
+        },
+        {
+          "time": "76'",
+          "team": "West Ham",
+          "player": "J. Bowen",
+          "event_type": "Goal",
+          "assist": "L. Orford",
+          "score_update": "1 - 4"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Southampton_wins": "2",
+          "draws": "1",
+          "West Ham_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "19/04/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "West Ham United 1 - 1 Southampton"
+          },
+          {
+            "date": "02/04/2023",
+            "competition": "English Premier League 2022/2023",
+            "teams_and_score": "West Ham United 1 - 0 Southampton"
+          },
+          {
+            "date": "02/03/2022",
+            "competition": "English FA Cup 2021/2022",
+            "teams_and_score": "Southampton 3 - 1 West Ham United"
+          },
+          {
+            "date": "26/12/2021",
+            "competition": "English Premier League 2021/2022",
+            "teams_and_score": "West Ham United 2 - 3 Southampton"
+          },
+          {
+            "date": "23/05/2021",
+            "competition": "English Premier League 2020/2021",
+            "teams_and_score": "West Ham United 3 - 0 Southampton"
+          },
+          {
+            "date": "29/02/2020",
+            "competition": "English Premier League 2019/2020",
+            "teams_and_score": "West Ham United 3 - 1 Southampton"
+          }
+        ],
+        "home_team_form": {
+          "team": "Southampton",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Southampton 1 - 4 West Ham United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Stoke City",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Colchester United 0 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "12/05/2026",
+              "competition": "Championship: Play-offs 25/26",
+              "teams_and_score": "Southampton 2 - 1 Middlesbrough",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "West Ham",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Southampton 1 - 4 West Ham United",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "West Ham United 1 - 2 Charlton Athletic",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "West Ham United 3 - 1 Portsmouth",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Magdeburg 1 - 1 West Ham United",
+              "result": "D"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Rangers 0 - 0 West Ham United",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Southampton": "5",
+          "West Ham": "8"
+        },
+        "shots_off_target": {
+          "Southampton": "4",
+          "West Ham": "2"
+        },
+        "shots_blocked": {
+          "Southampton": "3",
+          "West Ham": "8"
+        },
+        "corners": {
+          "Southampton": "2",
+          "West Ham": "5"
+        },
+        "fouls": {
+          "Southampton": "7",
+          "West Ham": "8"
+        },
+        "yellow_cards": {
+          "Southampton": "2",
+          "West Ham": "0"
+        },
+        "goalkeeper_saves": {
+          "Southampton": "4",
+          "West Ham": "3"
+        },
+        "crosses": {
+          "Southampton": "1",
+          "West Ham": "2"
+        },
+        "ball_possession": {
+          "Southampton": "58%",
+          "West Ham": "42%"
+        }
+      },
+      "description": "Watch Southampton vs West Ham highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 25, 2026. On a night filled with cup drama at St Mary's Stadium, Southampton and West Ham United clashed on August 25, 2026, with both sides eager to secure their progress in the Carabao Cup . The match promised a high-octane battle as both managers looked to balance rotation with the competitive edge needed for knockout football. Early Breakthrough for the Saints Southampton enjoyed the perfect start, taking the lead just 10 minutes into the contest. Léo Scienza found space in the centre of the box and clinicaly placed a right-footed shot into the bottom left corner to ignite the home crowd. The lead energized the hosts, but West Ham soon found their footing. Joël Piroe was a constant threat, forcing two sharp saves from Daniel Peretz as the Hammers searched for a way back. Their persistence eventually paid off in the 41st minute when Lewis Orford delivered a pinpoint cross from a corner, allowing Joshua Ajala to power a header into the high centre of the goal to level the score before halftime. Ajala Turns the Tide The second half saw the momentum shift firmly in favor of the visitors. In the 53rd minute, Joshua Ajala struck again, finding the net with a composed right-footed finish from the centre of the box to give the Hammers their first lead of the night. Southampton attempted to regain control with a flurry of tactical substitutions, introducing Flynn Downes , Samuel Edozie , and Kuryu Matsuki to inject fresh energy into their midfield and attack. However, the visitors remained disciplined and continued to absorb pressure while looking dangerous on the break. Clinical Finish from the Hammers As the clock ticked down, the quality of West Ham’s substitutes proved decisive. Valentín Castellanos , who had come off the bench, extended the lead in the 75th minute with a close-range finish following an assist from Joël Veltman . The Saints pushed forward in a desperate attempt to stay in the competition, with Finn Azaz seeing his long-range effort saved. However, Jarrod Bowen put the result beyond doubt in the 84th minute, slotting home a left-footed shot after a clever pass from Lewis Orford . Despite a late save by Daniel Peretz to deny Manor Solomon , the match ended 1-4, confirming a dominant away victory for the London side."
+    },
+    {
+      "title": "Rangers vs West Ham",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/rangers-vs-west-ham-2026-07-26-foBv.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Jul 26, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/48.webp",
+          "name": "West Ham",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/257.webp",
+          "name": "Rangers",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/rangers-vs-west-ham-2026-07-26_RjqGA.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {
+          "Rangers_wins": "1",
+          "draws": "0",
+          "West Ham_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "19/07/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Rangers 3 - 1 West Ham United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Rangers",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "26/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Rangers 0 - 0 West Ham United",
+              "result": "D"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Rangers 2 - 1 Saint-Etienne",
+              "result": "W"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Premiership: Championship Group",
+              "teams_and_score": "Falkirk 2 - 5 Rangers",
+              "result": "W"
+            },
+            {
+              "date": "12/04/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Falkirk 3 - 6 Rangers",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "West Ham",
+          "form": [
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "26/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Rangers 0 - 0 West Ham United",
+              "result": "D"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stevenage 0 - 5 West Ham United",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "West Ham United 3 - 0 Leeds United",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Rangers vs West Ham highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 26, 2026."
+    },
+    {
+      "title": "1. FC Magdeburg vs West Ham",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/1-fc-magdeburg-vs-west-ham-2026-08-01-H7kk.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/48.webp",
+          "name": "West Ham",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/179.webp",
+          "name": "1. FC Magdeburg",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/1-fc-magdeburg-vs-west-ham-2026-08-01_9CWku.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "West Ham",
+          "player": "M. Kilman",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "1. FC Magdeburg",
+          "player": "F. Michel",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "1. FC Magdeburg_wins": "0",
+          "draws": "0",
+          "West Ham_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "1. FC Magdeburg",
+          "form": [
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Magdeburg 1 - 1 West Ham United",
+              "result": "D"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Magdeburg 0 - 1 Kaiserslautern",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "West Ham",
+          "form": [
+            "D",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Magdeburg 1 - 1 West Ham United",
+              "result": "D"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Rangers 0 - 0 West Ham United",
+              "result": "D"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stevenage 0 - 5 West Ham United",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "West Ham United 3 - 0 Leeds United",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch 1. FC Magdeburg vs West Ham highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
+    },
     {
       "title": "burnley - west ham",
       "thumbnail_url": "https://img.refooty.com/thumbnail/burnley-west-ham-2026-08-16-oUfP.webp",
@@ -475,220 +929,6 @@
         }
       },
       "description": "Watch West Ham vs Portsmouth highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The stage was set for a compelling night of football on August 8, 2026, as West Ham United hosted Portsmouth in a highly anticipated Carabao Cup fixture. Fans gathered in anticipation of a classic cup tie, with both teams eager to prove their worth and secure a place in the next round of the competition. Early Pressure and the Opening Blow Portsmouth entered the contest with no fear, immediately testing the Hammers' resolve. After an early flurry of corners and a blocked attempt from Colby Bishop , the visitors found their breakthrough in the 33rd minute. Following a corner, Adrian Segecic pounced on a loose ball outside the box and unleashed a precise left-footed strike into the bottom left corner, leaving Mads Hermansen with no chance and giving the underdog supporters a reason to dream. However, the lead acted as a wake-up call for West Ham United , who responded with a devastating scoring burst late in the first half. In the 43rd minute, Mohamadou Kanté found Valentín Castellanos in the center of the box, and the striker made no mistake, firing into the top right corner. The momentum shifted entirely when, in stoppage time, Jarrod Bowen took center stage. Assisted by Pablo , Bowen struck a powerful left-footed effort from distance to flip the game on its head and send the hosts into the break with a 2-1 lead. Castellanos Seals the Deal The second half began with the Hammers looking to put the game out of reach, and they did exactly that in the 50th minute. Jarrod Bowen turned provider, delivering a pinpoint cross that Valentín Castellanos met with a powerful header into the center of the goal. The brace for Castellanos gave West Ham United a comfortable two-goal cushion and forced Portsmouth into a series of tactical changes, including a triple substitution that saw Odin Bailey and Marezi enter the fray. Despite the deficit, Portsmouth continued to fight, with Adrian Segecic forcing another save from Hermansen and Eoin Kenny missing a narrow chance from the center of the box. As the clock wound down, West Ham managed the game professionally, with James Ward-Prowse and Joël Veltman adding fresh legs to the midfield and defense. Pablo nearly added a fourth in the final minute, hitting the post, but the 3-1 scoreline remained intact, confirming a professional and well-earned victory for the London side."
-    },
-    {
-      "title": "Rangers vs West Ham",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/rangers-vs-west-ham-2026-07-26-foBv.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Jul 26, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/48.webp",
-          "name": "West Ham",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/257.webp",
-          "name": "Rangers",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/rangers-vs-west-ham-2026-07-26_RjqGA.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {
-          "Rangers_wins": "1",
-          "draws": "0",
-          "West Ham_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "19/07/2022",
-            "competition": "Club Friendlies 2022",
-            "teams_and_score": "Rangers 3 - 1 West Ham United"
-          }
-        ],
-        "home_team_form": {
-          "team": "Rangers",
-          "form": [
-            "D",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "26/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Rangers 0 - 0 West Ham United",
-              "result": "D"
-            },
-            {
-              "date": "22/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Rangers 2 - 1 Saint-Etienne",
-              "result": "W"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "Premiership: Championship Group",
-              "teams_and_score": "Falkirk 2 - 5 Rangers",
-              "result": "W"
-            },
-            {
-              "date": "12/04/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Falkirk 3 - 6 Rangers",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "West Ham",
-          "form": [
-            "D",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "26/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Rangers 0 - 0 West Ham United",
-              "result": "D"
-            },
-            {
-              "date": "22/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Stevenage 0 - 5 West Ham United",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "West Ham United 3 - 0 Leeds United",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Rangers vs West Ham highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 26, 2026."
-    },
-    {
-      "title": "1. FC Magdeburg vs West Ham",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/1-fc-magdeburg-vs-west-ham-2026-08-01-H7kk.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 1, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/48.webp",
-          "name": "West Ham",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/179.webp",
-          "name": "1. FC Magdeburg",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/1-fc-magdeburg-vs-west-ham-2026-08-01_9CWku.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "West Ham",
-          "player": "M. Kilman",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "1. FC Magdeburg",
-          "player": "F. Michel",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "1. FC Magdeburg_wins": "0",
-          "draws": "0",
-          "West Ham_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "1. FC Magdeburg",
-          "form": [
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Magdeburg 1 - 1 West Ham United",
-              "result": "D"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "2. Bundesliga",
-              "teams_and_score": "Magdeburg 0 - 1 Kaiserslautern",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "West Ham",
-          "form": [
-            "D",
-            "D",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Magdeburg 1 - 1 West Ham United",
-              "result": "D"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Rangers 0 - 0 West Ham United",
-              "result": "D"
-            },
-            {
-              "date": "22/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Stevenage 0 - 5 West Ham United",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "West Ham United 3 - 0 Leeds United",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch 1. FC Magdeburg vs West Ham highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
     }
   ]
 }
