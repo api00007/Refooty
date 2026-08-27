@@ -1,9 +1,223 @@
 {
   "competition": "Carabao",
   "competition_cover": "https://refooty.com/covers/carabao.webp",
-  "total_matches": 44,
-  "Last update time": "01:30:11 AM 28-08-2026",
+  "total_matches": 45,
+  "Last update time": "03:30:17 AM 28-08-2026",
   "matches": [
+    {
+      "title": "Chelsea FC vs Luton",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-v-luton-2026-08-27-5jDs.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 27, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1359.webp",
+          "name": "Luton",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/49.webp",
+          "name": "Chelsea",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Chelsea_v_Luton_2026_08_27.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Chelsea",
+          "player": "D. Welbeck",
+          "event_type": "Goal",
+          "assist": "M. Gusto",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Luton",
+          "player": "J. Johnson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Chelsea",
+          "player": "H. Odoffin",
+          "event_type": "Goal"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Chelsea_wins": "4",
+          "draws": "1",
+          "Luton_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "30/12/2023",
+            "competition": "English Premier League 2023/2024",
+            "teams_and_score": "Luton Town 2 - 3 Chelsea"
+          },
+          {
+            "date": "02/03/2022",
+            "competition": "English FA Cup 2021/2022",
+            "teams_and_score": "Luton Town 2 - 3 Chelsea"
+          },
+          {
+            "date": "24/01/2021",
+            "competition": "English FA Cup 2020/2021",
+            "teams_and_score": "Chelsea 3 - 1 Luton Town"
+          },
+          {
+            "date": "28/12/1991",
+            "competition": "English Premier League 1991/1992",
+            "teams_and_score": "Luton Town 2 - 0 Chelsea"
+          },
+          {
+            "date": "06/04/1991",
+            "competition": "English Premier League 1990/1991",
+            "teams_and_score": "Chelsea 3 - 3 Luton Town"
+          },
+          {
+            "date": "07/04/1990",
+            "competition": "English Premier League 1989/1990",
+            "teams_and_score": "Chelsea 1 - 0 Luton Town"
+          }
+        ],
+        "home_team_form": {
+          "team": "Chelsea",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Chelsea 2 - 0 Luton Town",
+              "result": "W"
+            },
+            {
+              "date": "24/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Fulham 2 - 3 Chelsea",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Johor Darul Ta'zim FC 3 - 3 Chelsea",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Sunderland 2 - 1 Chelsea",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Luton",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Chelsea 2 - 0 Luton Town",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Luton Town 2 - 2 Notts County",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Gillingham 0 - 3 Luton Town",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Luton Town 0 - 1 Go Ahead Eagles",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Bolton Wanderers 2 - 3 Luton Town",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Chelsea": "7",
+          "Luton": "1"
+        },
+        "shots_off_target": {
+          "Chelsea": "11",
+          "Luton": "5"
+        },
+        "shots_blocked": {
+          "Chelsea": "8",
+          "Luton": "1"
+        },
+        "corners": {
+          "Chelsea": "9",
+          "Luton": "3"
+        },
+        "fouls": {
+          "Chelsea": "11",
+          "Luton": "6"
+        },
+        "offsides": {
+          "Chelsea": "2",
+          "Luton": "0"
+        },
+        "yellow_cards": {
+          "Chelsea": "0",
+          "Luton": "1"
+        },
+        "goalkeeper_saves": {
+          "Chelsea": "1",
+          "Luton": "6"
+        },
+        "crosses": {
+          "Chelsea": "6",
+          "Luton": "5"
+        },
+        "ball_possession": {
+          "Chelsea": "66%",
+          "Luton": "34%"
+        }
+      },
+      "description": "Watch Chelsea vs Luton highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 27, 2026. Under the lights at Stamford Bridge , Chelsea faced a determined Luton Town side in a cup tie that tested the patience and precision of the home favorites. Both sides sought a path to the next round, with the atmosphere buzzing as the first whistle blew. Frustration for the Blues in the Opening Half On August 27, 2026 , Chelsea looked to impose their will early on, dominating possession and carving out several high-quality openings. Cole Palmer was at the heart of everything, testing Luton Town goalkeeper Josh Keeley with multiple efforts in the first 15 minutes. Despite the creative spark from Estêvão and the constant pressure, the visitors held firm, relying on Keeley's sharp reflexes to keep the scores level. The woodwork proved to be the enemy for the hosts as the first half drew to a close. Morgan Rogers saw his powerful strike rattle the bar in the 44th minute after excellent work from Estêvão . While Luton had a rare chance through Hakeem Odoffin , whose header was saved by Mike Penders , the match remained goalless at the interval despite Chelsea's relentless offensive display. Welbeck Breaks the Deadlock as Chelsea Advance The breakthrough finally arrived five minutes into the second half. Malo Gusto delivered a pinpoint cross into the box, and Danny Welbeck rose highest to guide a header into the bottom left corner. The goal shifted the momentum further in Chelsea's favor, though they were denied a second shortly after when Cole Palmer's long-range effort struck the crossbar in the 64th minute. Chelsea eventually doubled their lead in the 79th minute under fortuitous circumstances when Hakeem Odoffin inadvertently turned the ball into his own net following a period of sustained pressure. Late drama saw Jamie Gittens hit the post and Luton's George Johnston miss a close-range header in stoppage time, but the damage was done. Chelsea secured their victory and safe passage to the next round of the Carabao Cup ."
+    },
     {
       "title": "Newcastle United vs West Bromwich Albion",
       "thumbnail_url": "https://img.refooty.com/thumbnail/newcastle-v-west-brom-2026-08-26-fFiP.webp",
@@ -4632,6 +4846,1684 @@
       "description": "Watch Southampton vs West Ham highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 25, 2026. On a night filled with cup drama at St Mary's Stadium, Southampton and West Ham United clashed on August 25, 2026, with both sides eager to secure their progress in the Carabao Cup . The match promised a high-octane battle as both managers looked to balance rotation with the competitive edge needed for knockout football. Early Breakthrough for the Saints Southampton enjoyed the perfect start, taking the lead just 10 minutes into the contest. Léo Scienza found space in the centre of the box and clinicaly placed a right-footed shot into the bottom left corner to ignite the home crowd. The lead energized the hosts, but West Ham soon found their footing. Joël Piroe was a constant threat, forcing two sharp saves from Daniel Peretz as the Hammers searched for a way back. Their persistence eventually paid off in the 41st minute when Lewis Orford delivered a pinpoint cross from a corner, allowing Joshua Ajala to power a header into the high centre of the goal to level the score before halftime. Ajala Turns the Tide The second half saw the momentum shift firmly in favor of the visitors. In the 53rd minute, Joshua Ajala struck again, finding the net with a composed right-footed finish from the centre of the box to give the Hammers their first lead of the night. Southampton attempted to regain control with a flurry of tactical substitutions, introducing Flynn Downes , Samuel Edozie , and Kuryu Matsuki to inject fresh energy into their midfield and attack. However, the visitors remained disciplined and continued to absorb pressure while looking dangerous on the break. Clinical Finish from the Hammers As the clock ticked down, the quality of West Ham’s substitutes proved decisive. Valentín Castellanos , who had come off the bench, extended the lead in the 75th minute with a close-range finish following an assist from Joël Veltman . The Saints pushed forward in a desperate attempt to stay in the competition, with Finn Azaz seeing his long-range effort saved. However, Jarrod Bowen put the result beyond doubt in the 84th minute, slotting home a left-footed shot after a clever pass from Lewis Orford . Despite a late save by Daniel Peretz to deny Manor Solomon , the match ended 1-4, confirming a dominant away victory for the London side."
     },
     {
+      "title": "Plymouth vs Exeter City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/plymouth-vs-exeter-city-2026-08-10-ZDiQ.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 10, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1364.webp",
+          "name": "Exeter City",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1357.webp",
+          "name": "Plymouth",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/plymouth-vs-exeter-city-2026-08-10_lcHhl.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Exeter City",
+          "player": "C. Cummins",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "78'",
+          "team": "Exeter City",
+          "player": "E. Sutherland",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "87'",
+          "team": "Exeter City",
+          "player": "E. Sutherland",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Plymouth",
+          "player": "A. Hartridge",
+          "event_type": "Goal",
+          "assist": "H. White",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "90+4'",
+          "team": "Plymouth",
+          "player": "A. Pepple",
+          "event_type": "Goal",
+          "assist": "F. Issaka",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Plymouth_wins": "2",
+          "draws": "2",
+          "Exeter City_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "11/04/2026",
+            "competition": "League 1 25/26",
+            "teams_and_score": "Plymouth Argyle 2 - 2 Exeter City"
+          },
+          {
+            "date": "15/04/2023",
+            "competition": "English Football League - League One 2022/2023",
+            "teams_and_score": "Exeter City 0 - 1 Plymouth Argyle"
+          },
+          {
+            "date": "26/10/2019",
+            "competition": "English Football League - League Two 2019/2020",
+            "teams_and_score": "Exeter City 4 - 0 Plymouth Argyle"
+          },
+          {
+            "date": "03/10/2017",
+            "competition": "English Football League Trophy 2017/2018",
+            "teams_and_score": "Plymouth Argyle 2 - 2 Exeter City"
+          },
+          {
+            "date": "11/02/2017",
+            "competition": "English Football League - League Two 2016/2017",
+            "teams_and_score": "Plymouth Argyle 3 - 0 Exeter City"
+          },
+          {
+            "date": "02/04/2016",
+            "competition": "English Football League - League Two 2015/2016",
+            "teams_and_score": "Exeter City 2 - 1 Plymouth Argyle"
+          }
+        ],
+        "home_team_form": {
+          "team": "Plymouth",
+          "form": [
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Plymouth Argyle 2 - 0 Exeter City",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Plymouth Argyle 0 - 0 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Northampton Town 2 - 3 Plymouth Argyle",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Exeter City",
+          "form": [
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Plymouth Argyle 2 - 0 Exeter City",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Exeter City 1 - 1 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Exeter City 1 - 2 Bradford City",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Plymouth": "6",
+          "Exeter City": "1"
+        },
+        "shots_off_target": {
+          "Plymouth": "9",
+          "Exeter City": "6"
+        },
+        "shots_blocked": {
+          "Plymouth": "6",
+          "Exeter City": "1"
+        },
+        "corners": {
+          "Plymouth": "9",
+          "Exeter City": "3"
+        },
+        "fouls": {
+          "Plymouth": "9",
+          "Exeter City": "14"
+        },
+        "offsides": {
+          "Plymouth": "2",
+          "Exeter City": "0"
+        },
+        "yellow_cards": {
+          "Plymouth": "0",
+          "Exeter City": "1"
+        },
+        "red_cards": {
+          "Plymouth": "0",
+          "Exeter City": "1"
+        },
+        "goalkeeper_saves": {
+          "Plymouth": "1",
+          "Exeter City": "4"
+        },
+        "crosses": {
+          "Plymouth": "9",
+          "Exeter City": "6"
+        },
+        "ball_possession": {
+          "Plymouth": "63%",
+          "Exeter City": "37%"
+        }
+      },
+      "description": "Watch Plymouth vs Exeter City highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 10, 2026. The Devon Derby returned to the Carabao Cup stage on August 10, 2026 , as Plymouth Argyle hosted Exeter City in a high-stakes encounter. Both teams sought to assert local dominance in a match that remained balanced and unpredictable until the very final moments of play. A Tense Exchange of Chances From the opening whistle, Plymouth Argyle looked to dictate the tempo, with Harvey White testing the waters early with a long-range effort. The home side continued to pile on the pressure as Ronan Curtis and Aribim Pepple forced Exeter City goalkeeper Jack Bycroft into several crucial saves. Despite the territorial advantage for the Pilgrims, Exeter remained dangerous on the break, with Charlie Cummins nearly finding the target from a set-piece situation that flew just over the bar. As the first half progressed, the physical nature of the derby became evident. Charlie Cummins received an early booking for a heavy challenge, signaling the intensity of the midfield battle. While Mathias Ross and Pepple continued to search for the breakthrough before the interval, the visitors’ defense held firm, ensuring the scoreline remained level at the break after a series of blocked attempts and narrow misses. Momentum Shifts and a Costly Red Card The second half saw Exeter City grow in confidence, creating a flurry of opportunities. Taylor Perry and Andrew Oluwabori both came close to silencing the home crowd, with the latter seeing a headed effort rise just too high. Plymouth's manager responded by introducing fresh legs, bringing on Matthew Sorinola and Julio Pleguezuelo to regain control of the flanks and revitalize an attack that was struggling to find a clinical edge. The game reached a turning point in the 87th minute when Ethan Sutherland , who had been cautioned only nine minutes earlier, committed a tactical foul that resulted in a second yellow card. His dismissal left Exeter City a man down for the closing stages, forcing them into a defensive shell as Plymouth Argyle launched a final, desperate assault on the Grecians' goal. Stoppage Time Fireworks Just as the match seemed destined for a penalty shootout, the deadlock was finally broken in the 92nd minute. A pinpoint corner from Harvey White found the head of Alex Hartridge , who powered his effort into the top left corner from close range. The breakthrough sent the home supporters into a frenzy, but the drama was far from over as the clock ticked deep into added time. With Exeter pushing everyone forward in search of an equalizer, Plymouth Argyle struck again in the 94th minute. Freddie Issaka spearheaded a lightning-fast counter-attack, squaring the ball to Aribim Pepple in the center of the box. Pepple made no mistake, slotting the ball home to secure a 2-0 victory. Although Josh Gordon forced one final save from Murphy Cooper in the dying seconds, the result was already sealed, sending Plymouth through to the next round."
+    },
+    {
+      "title": "Cardiff vs Swindon Town",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/cardiff-vs-swindon-town-2026-08-09-l16i.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1353.webp",
+          "name": "Swindon Town",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/43.webp",
+          "name": "Cardiff",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/cardiff-vs-swindon-town-2026-08-09_0R0cw.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Swindon Town",
+          "player": "G. Osho",
+          "event_type": "Goal"
+        },
+        {
+          "time": "16'",
+          "team": "Cardiff",
+          "player": "Y. Salech",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Cardiff",
+          "player": "Y. Salech",
+          "event_type": "Goal",
+          "assist": "C. Ashford",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Swindon Town",
+          "player": "P. Glatzel",
+          "event_type": "Goal",
+          "assist": "J. Hungbo",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Cardiff",
+          "player": "J. Moylan",
+          "event_type": "Goal",
+          "assist": "Y. Salech",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Cardiff",
+          "player": "J. Colwill",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Swindon Town",
+          "player": "J. Debayo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Swindon Town",
+          "player": "J. Debayo",
+          "event_type": "Red Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Cardiff_wins": "3",
+          "draws": "1",
+          "Swindon Town_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "12/08/2025",
+            "competition": "EFL Cup: Round 1 25/26",
+            "teams_and_score": "Cardiff City 2 - 1 Swindon Town"
+          },
+          {
+            "date": "23/07/2022",
+            "competition": "Friendly 2022",
+            "teams_and_score": "Swindon Town 2 - 4 Cardiff City"
+          },
+          {
+            "date": "01/01/2003",
+            "competition": "English Football League - League One 2002/2003",
+            "teams_and_score": "Cardiff City 1 - 1 Swindon Town"
+          },
+          {
+            "date": "09/02/2002",
+            "competition": "English Football League - League One 2001/2002",
+            "teams_and_score": "Cardiff City 3 - 0 Swindon Town"
+          }
+        ],
+        "home_team_form": {
+          "team": "Cardiff",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Cardiff City 3 - 2 Swindon Town",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Cardiff City 4 - 1 AS Roma",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Forest Green Rovers 1 - 5 Cardiff City",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Mansfield Town 5 - 4 Cardiff City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Swindon Town",
+          "form": [
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Cardiff City 3 - 2 Swindon Town",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Swindon Town 1 - 3 Bristol City",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Swindon Town 1 - 2 Chesterfield",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Cardiff": "4",
+          "Swindon Town": "1"
+        },
+        "shots_off_target": {
+          "Cardiff": "4",
+          "Swindon Town": "5"
+        },
+        "shots_blocked": {
+          "Cardiff": "7",
+          "Swindon Town": "7"
+        },
+        "corners": {
+          "Cardiff": "6",
+          "Swindon Town": "3"
+        },
+        "fouls": {
+          "Cardiff": "8",
+          "Swindon Town": "17"
+        },
+        "offsides": {
+          "Cardiff": "3",
+          "Swindon Town": "3"
+        },
+        "yellow_cards": {
+          "Cardiff": "1",
+          "Swindon Town": "0"
+        },
+        "red_cards": {
+          "Cardiff": "0",
+          "Swindon Town": "1"
+        },
+        "goalkeeper_saves": {
+          "Cardiff": "0",
+          "Swindon Town": "2"
+        },
+        "crosses": {
+          "Cardiff": "4",
+          "Swindon Town": "5"
+        },
+        "ball_possession": {
+          "Cardiff": "61%",
+          "Swindon Town": "39%"
+        }
+      },
+      "description": "Watch Cardiff vs Swindon Town highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The atmosphere at the stadium crackled with anticipation as two determined sides faced off in a high-stakes knockout fixture. On August 9, 2026, the crowd settled in for a gripping Carabao Cup clash that demanded everything from the players on the pitch. A First Half of Resilient Responses The encounter began with a shock as Swindon Town took an early lead through a Gabriel Osho own goal in the 9th minute. Cardiff City , however, showed immediate character. They clawed their way back when Yousef Salech coolly converted a penalty in the 29th minute. Just before the interval, the momentum shifted fully toward the hosts as Salech found the net again, heading into the break with a 2-1 advantage following an excellent delivery from Cian Ashford . Securing the Victory The second half proved equally chaotic. Swindon Town fought back to level the match at 2-2 in the 62nd minute, with Paul Glatzel capitalizing on a Joseph Hungbo cross. As both teams hunted for the winner, the breakthrough finally arrived in the 77th minute. Jack Moylan rifled a clinical right-footed shot into the top corner following a swift Cardiff City counter-attack. The closing stages saw Swindon push hard despite James Debayo being sent off for a second yellow card, but the home side stood firm to secure their place in the next round."
+    },
+    {
+      "title": "Swansea City vs Birmingham",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/swansea-city-vs-birmingham-2026-08-09-Ljcf.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/54.webp",
+          "name": "Birmingham",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/23192.webp",
+          "name": "Swansea City",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/swansea-city-vs-birmingham-2026-08-09_m1OlD.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Swansea City",
+          "player": "M. Widell",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Birmingham",
+          "player": "A. Priske",
+          "event_type": "Goal",
+          "assist": "C. Vicente",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Swansea City",
+          "player": "C. Burgess",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Swansea City_wins": "0",
+          "draws": "3",
+          "Birmingham_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "17/01/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Swansea City 1 - 1 Birmingham City"
+          },
+          {
+            "date": "13/01/2024",
+            "competition": "English Football League - Championship 2023/2024",
+            "teams_and_score": "Birmingham City 2 - 2 Swansea City"
+          },
+          {
+            "date": "04/02/2023",
+            "competition": "English Football League - Championship 2022/2023",
+            "teams_and_score": "Swansea City 3 - 4 Birmingham City"
+          },
+          {
+            "date": "19/03/2022",
+            "competition": "English Football League - Championship 2021/2022",
+            "teams_and_score": "Swansea City 0 - 0 Birmingham City"
+          },
+          {
+            "date": "02/04/2021",
+            "competition": "English Football League - Championship 2020/2021",
+            "teams_and_score": "Birmingham City 1 - 0 Swansea City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Swansea City",
+          "form": [
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Swansea City 1 - 0 Leganes",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Swansea City 3 - 1 Charlton Athletic",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Birmingham",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Crewe Alexandra 1 - 2 Birmingham City",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Portsmouth 1 - 1 Birmingham City",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Swansea City": "2",
+          "Birmingham": "1"
+        },
+        "shots_off_target": {
+          "Swansea City": "8",
+          "Birmingham": "4"
+        },
+        "shots_blocked": {
+          "Swansea City": "3",
+          "Birmingham": "1"
+        },
+        "corners": {
+          "Swansea City": "6",
+          "Birmingham": "4"
+        },
+        "fouls": {
+          "Swansea City": "12",
+          "Birmingham": "19"
+        },
+        "offsides": {
+          "Swansea City": "1",
+          "Birmingham": "2"
+        },
+        "yellow_cards": {
+          "Swansea City": "2",
+          "Birmingham": "0"
+        },
+        "goalkeeper_saves": {
+          "Swansea City": "0",
+          "Birmingham": "2"
+        },
+        "crosses": {
+          "Swansea City": "3",
+          "Birmingham": "0"
+        },
+        "ball_possession": {
+          "Swansea City": "61%",
+          "Birmingham": "39%"
+        }
+      },
+      "description": "Watch Swansea City vs Birmingham highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. A hard-fought encounter in the Carabao Cup On August 9, 2026, the Swansea City and Birmingham City squads met in a high-stakes Carabao Cup clash, with both sides eager to make their mark on the tournament. The matchday air was thick with tension as both teams looked to establish control from the very first minute. The breakthrough moment Throughout the first half, the game was characterized by end-to-end action. Adam Idah came close for the hosts, testing the goalkeeper, but the deadlock remained broken until the 44th minute. August Priske struck the decisive blow, converting a clinical right-footed shot into the bottom left corner following a clever set-piece delivery from Carlos Vicente . This late first-half goal shifted the momentum firmly in favor of the visitors as they headed into the tunnel. Second-half defensive stand Following the restart, Swansea City pushed hard for an equalizer, introducing fresh legs to break down the resilient Birmingham City defense. James Beadle proved vital in goal, making key saves, including a sharp stop against Jay Fulton in the 70th minute. Despite a late flurry of pressure and a lengthy injury delay for Cameron Burgess , the visitors held their ground. The final whistle confirmed a disciplined victory that saw the away side successfully navigate the final minutes of the match."
+    },
+    {
+      "title": "Crewe vs Accrington Stanley",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/crewe-vs-accrington-stanley-2026-08-09-h6YX.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/25134.webp",
+          "name": "Accrington Stanley",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1363.webp",
+          "name": "Crewe",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/crewe-vs-accrington-stanley-2026-08-09_wjyPB.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "7'",
+          "team": "Crewe",
+          "player": "J. Lankester",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "45+5'",
+          "team": "Accrington Stanley",
+          "player": "F. Rawson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "65'",
+          "team": "Accrington Stanley",
+          "player": "F. Rawson",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "74'",
+          "team": "Accrington Stanley",
+          "player": "J. Anderson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "85'",
+          "team": "Crewe",
+          "player": "L. Moore",
+          "event_type": "Goal",
+          "assist": "L. Billington",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "90+2'",
+          "team": "Accrington Stanley",
+          "player": "D. Love",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Crewe_wins": "1",
+          "draws": "1",
+          "Accrington Stanley_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "03/04/2026",
+            "competition": "League 2 25/26",
+            "teams_and_score": "Accrington Stanley 2 - 0 Crewe Alexandra"
+          },
+          {
+            "date": "25/01/2025",
+            "competition": "League 2 24/25",
+            "teams_and_score": "Crewe Alexandra 0 - 1 Accrington Stanley"
+          },
+          {
+            "date": "06/04/2024",
+            "competition": "English Football League - League Two 2023/2024",
+            "teams_and_score": "Accrington Stanley 0 - 0 Crewe Alexandra"
+          },
+          {
+            "date": "12/02/2022",
+            "competition": "English Football League - League One 2021/2022",
+            "teams_and_score": "Accrington Stanley 4 - 1 Crewe Alexandra"
+          },
+          {
+            "date": "23/02/2021",
+            "competition": "English Football League - League One 2020/2021",
+            "teams_and_score": "Crewe Alexandra 2 - 0 Accrington Stanley"
+          }
+        ],
+        "home_team_form": {
+          "team": "Crewe",
+          "form": [
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Crewe Alexandra 2 - 1 Accrington Stanley",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Crewe Alexandra 1 - 2 Birmingham City",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Crewe Alexandra 0 - 0 Cambridge United",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Accrington Stanley",
+          "form": [
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Crewe Alexandra 2 - 1 Accrington Stanley",
+              "result": "L"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Accrington Stanley 0 - 0 Blackburn Rovers",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Oldham Athletic 3 - 0 Accrington Stanley",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Crewe": "3",
+          "Accrington Stanley": "3"
+        },
+        "shots_off_target": {
+          "Crewe": "9",
+          "Accrington Stanley": "9"
+        },
+        "shots_blocked": {
+          "Crewe": "3",
+          "Accrington Stanley": "4"
+        },
+        "corners": {
+          "Crewe": "1",
+          "Accrington Stanley": "6"
+        },
+        "fouls": {
+          "Crewe": "15",
+          "Accrington Stanley": "13"
+        },
+        "offsides": {
+          "Crewe": "1",
+          "Accrington Stanley": "2"
+        },
+        "yellow_cards": {
+          "Crewe": "0",
+          "Accrington Stanley": "3"
+        },
+        "goalkeeper_saves": {
+          "Crewe": "2",
+          "Accrington Stanley": "1"
+        },
+        "crosses": {
+          "Crewe": "3",
+          "Accrington Stanley": "10"
+        },
+        "ball_possession": {
+          "Crewe": "50%",
+          "Accrington Stanley": "50%"
+        }
+      },
+      "description": "Watch Crewe vs Accrington Stanley highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The atmosphere in the stadium was buzzing as both sides took to the pitch, ready to battle for their survival in the prestigious tournament. Every challenge was contested with the intensity of cup football, keeping fans on the edge of their seats from the opening whistle. A determined start The fixture, played on August 9, 2026 , saw Crewe Alexandra seize the initiative early. Just six minutes in, Josh March was brought down in the penalty area, allowing Jack Lankester to step up and coolly convert a spot-kick into the bottom right corner. Crewe continued to press, with Josh March nearly doubling the lead when his strike rattled the crossbar, while Accrington Stanley struggled to penetrate the organized home defense. Second half comeback and late drama After the break, Accrington Stanley returned with renewed vigor. Their persistence paid off in the 65th minute when Farrend Rawson fired home from close range following a corner to level the score. The match evolved into a high-stakes tactical battle as both teams pushed for a winner. Just when it seemed the game was heading for extra time, Crewe Alexandra found the decisive breakthrough: in the 85th minute, Luca Moore rose to meet a Lewis Billington cross, heading home to secure the win and seal a dramatic victory in the Carabao Cup ."
+    },
+    {
+      "title": "Rotherham United vs West Bromwich Albion",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/rotherham-united-vs-west-bromwich-albion-2026-08-09-P11n.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15432.webp",
+          "name": "West Bromwich Albion",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/22642.webp",
+          "name": "Rotherham United",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/rotherham-united-vs-west-bromwich-albion-2026-08-09_w6BjK.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "West Bromwich Albion",
+          "player": "J. Morgan",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "West Bromwich Albion",
+          "player": "H. Whitwell",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "55'",
+          "team": "West Bromwich Albion",
+          "player": "F. H. Myhre",
+          "event_type": "Goal",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "61'",
+          "team": "West Bromwich Albion",
+          "player": "J. Morgan",
+          "event_type": "Goal",
+          "assist": "C. Styles",
+          "score_update": "0 - 4"
+        },
+        {
+          "time": "78'",
+          "team": "Rotherham United",
+          "player": "B. Cover",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "87'",
+          "team": "Rotherham United",
+          "player": "F. Tavares",
+          "event_type": "Goal",
+          "assist": "A. Martha",
+          "score_update": "1 - 4"
+        },
+        {
+          "time": "90+2'",
+          "team": "Rotherham United",
+          "player": "F. Tavares",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Rotherham United_wins": "2",
+          "draws": "1",
+          "West Bromwich Albion_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "10/04/2024",
+            "competition": "English Football League - Championship 2023/2024",
+            "teams_and_score": "West Bromwich Albion 2 - 0 Rotherham United"
+          },
+          {
+            "date": "07/04/2023",
+            "competition": "English Football League - Championship 2022/2023",
+            "teams_and_score": "Rotherham United 3 - 1 West Bromwich Albion"
+          },
+          {
+            "date": "23/07/2019",
+            "competition": "Friendly 2019",
+            "teams_and_score": "Rotherham United 1 - 1 West Bromwich Albion"
+          },
+          {
+            "date": "27/04/2019",
+            "competition": "English Football League - Championship 2018/2019",
+            "teams_and_score": "West Bromwich Albion 2 - 1 Rotherham United"
+          },
+          {
+            "date": "26/08/2009",
+            "competition": "English League Cup 2009/2010",
+            "teams_and_score": "West Bromwich Albion 4 - 3 Rotherham United"
+          },
+          {
+            "date": "28/02/2004",
+            "competition": "English Football League - Championship 2003/2004",
+            "teams_and_score": "West Bromwich Albion 0 - 1 Rotherham United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Rotherham United",
+          "form": [
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Rotherham United 1 - 4 West Bromwich Albion",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Rotherham United 1 - 1 Derby County",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Wycombe Wanderers 3 - 2 Rotherham United",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "West Bromwich Albion",
+          "form": [
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Rotherham United 1 - 4 West Bromwich Albion",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Peterborough United 0 - 2 West Bromwich Albion",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Sheffield Wednesday 2 - 1 West Bromwich Albion",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Rotherham United": "2",
+          "West Bromwich Albion": "10"
+        },
+        "shots_off_target": {
+          "Rotherham United": "4",
+          "West Bromwich Albion": "4"
+        },
+        "shots_blocked": {
+          "Rotherham United": "2",
+          "West Bromwich Albion": "4"
+        },
+        "corners": {
+          "Rotherham United": "1",
+          "West Bromwich Albion": "2"
+        },
+        "fouls": {
+          "Rotherham United": "9",
+          "West Bromwich Albion": "7"
+        },
+        "offsides": {
+          "Rotherham United": "5",
+          "West Bromwich Albion": "4"
+        },
+        "yellow_cards": {
+          "Rotherham United": "2",
+          "West Bromwich Albion": "0"
+        },
+        "goalkeeper_saves": {
+          "Rotherham United": "6",
+          "West Bromwich Albion": "1"
+        },
+        "crosses": {
+          "Rotherham United": "4",
+          "West Bromwich Albion": "5"
+        },
+        "ball_possession": {
+          "Rotherham United": "29%",
+          "West Bromwich Albion": "71%"
+        }
+      },
+      "description": "Watch Rotherham United vs West Bromwich Albion highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. Carabao Cup action at the stadium Rotherham United and West Bromwich Albion met on August 9, 2026, for a high-stakes encounter in the Carabao Cup , with both sides eager to establish early momentum. A clinical first half West Bromwich Albion hit their stride early, with Jimmy-Jay Morgan opening the scoring in the 8th minute following a setup from Harry Whitwell . The visitors doubled their lead in the 24th minute when Harry Whitwell finished from close range. Despite the deficit, Rotherham United looked dangerous on the break, particularly through Paul Mullin , but found themselves thwarted by the opposing goalkeeper throughout the first period. Securing the result After the interval, the game opened up further. Felix Myhre struck in the 55th minute to make it 3-0, and Jimmy-Jay Morgan added his second of the night just six minutes later, assisted by Callum Styles . Rotherham United fought back towards the final whistle, with Fábio Tavares finding the back of the net in the 87th minute to give the home fans a moment of relief. However, the match concluded with a commanding 4-1 victory for West Bromwich Albion ."
+    },
+    {
+      "title": "Mansfield Town vs Sheffield United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/mansfield-town-vs-sheffield-united-2026-08-09-SY9Q.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15407.webp",
+          "name": "Sheffield United",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1374.webp",
+          "name": "Mansfield Town",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/mansfield-town-vs-sheffield-united-2026-08-09_ltTQU.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Sheffield United",
+          "player": "P. Bamford",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Sheffield United",
+          "player": "F. Seriki",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Mansfield Town",
+          "player": "L. Reed",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Sheffield United",
+          "player": "M. McGuinness",
+          "event_type": "Goal",
+          "assist": "S. Peck",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Mansfield Town",
+          "player": "L. Thompson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Sheffield United",
+          "player": "C. O'Hare",
+          "event_type": "Goal",
+          "score_update": "0 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Mansfield Town_wins": "2",
+          "draws": "1",
+          "Sheffield United_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "11/01/2026",
+            "competition": "FA Cup: Round 3",
+            "teams_and_score": "Sheffield United 3 - 4 Mansfield Town"
+          },
+          {
+            "date": "19/07/2022",
+            "competition": "Friendly 2022",
+            "teams_and_score": "Mansfield Town 3 - 0 Sheffield United"
+          },
+          {
+            "date": "21/07/2018",
+            "competition": "Friendly 2018",
+            "teams_and_score": "Mansfield Town 0 - 0 Sheffield United"
+          },
+          {
+            "date": "13/08/2014",
+            "competition": "English League Cup 2014/2015",
+            "teams_and_score": "Sheffield United 2 - 1 Mansfield Town"
+          }
+        ],
+        "home_team_form": {
+          "team": "Mansfield Town",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
+              "result": "L"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Mansfield Town 1 - 3 Derby County",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Mansfield Town 5 - 4 Cardiff City",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sheffield United",
+          "form": [
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Derby County 1 - 2 Sheffield United",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Mansfield Town": "2",
+          "Sheffield United": "4"
+        },
+        "shots_off_target": {
+          "Mansfield Town": "4",
+          "Sheffield United": "9"
+        },
+        "shots_blocked": {
+          "Mansfield Town": "1",
+          "Sheffield United": "7"
+        },
+        "corners": {
+          "Mansfield Town": "5",
+          "Sheffield United": "3"
+        },
+        "fouls": {
+          "Mansfield Town": "15",
+          "Sheffield United": "13"
+        },
+        "offsides": {
+          "Mansfield Town": "2",
+          "Sheffield United": "0"
+        },
+        "yellow_cards": {
+          "Mansfield Town": "2",
+          "Sheffield United": "1"
+        },
+        "goalkeeper_saves": {
+          "Mansfield Town": "1",
+          "Sheffield United": "2"
+        },
+        "crosses": {
+          "Mansfield Town": "2",
+          "Sheffield United": "5"
+        },
+        "ball_possession": {
+          "Mansfield Town": "50%",
+          "Sheffield United": "50%"
+        }
+      },
+      "description": "Watch Mansfield Town vs Sheffield United highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. A Carabao Cup Clash at Field Mill On August 9, 2026 , Mansfield Town welcomed Sheffield United for a high-stakes encounter in the Carabao Cup . The stage was set for a classic cup battle, with both sides eager to make their mark on the tournament early in the campaign. An Early Breakthrough Sheffield United signaled their intent almost immediately, striking in the fourth minute. Patrick Bamford clinically finished a Joe Rothwell pass, sending the ball into the center of the goal to give the visitors the lead. Mansfield Town did not retreat, however, creating several chances as Frazer Blake-Tracy forced a smart save from Michael Cooper , but the home side struggled to break through the organized defensive structure of the visitors. Sealing the Progression The second half saw Sheffield United assert further dominance. In the 71st minute, Mark McGuinness rose highest to meet a Sydie Peck corner, heading home to double the lead. As the game wore on, the visitors remained disciplined, eventually putting the result beyond doubt in the 89th minute. Callum O'Hare capped off a swift counter-attack assisted by Ryan Oné , firing home from close range to secure a 3-0 victory and a convincing spot in the next round of the competition."
+    },
+    {
+      "title": "Norwich City vs Milton Keynes Dons",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-city-vs-milton-keynes-dons-2026-08-08-TcUX.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1348.webp",
+          "name": "Milton Keynes Dons",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/18210.webp",
+          "name": "Norwich City",
+          "score": "4"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/norwich-city-vs-milton-keynes-dons-2026-08-08_7bfKj.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Norwich City",
+          "player": "M. Toure",
+          "event_type": "Goal",
+          "assist": "K. McLean",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Norwich City",
+          "player": "A. B. Slimane",
+          "event_type": "Goal",
+          "assist": "M. Toure",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Norwich City",
+          "player": "J. Córdoba",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Norwich City",
+          "player": "J. Stacey",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Norwich City",
+          "player": "K. McLean",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Norwich City",
+          "player": "B. Chrisene",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Milton Keynes Dons",
+          "player": "N. Mendez-Laing",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Milton Keynes Dons",
+          "player": "R. Wintle",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Norwich City",
+          "player": "A. Brooks",
+          "event_type": "Goal",
+          "score_update": "4 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Norwich City",
+          "player": "A. Brooks",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Milton Keynes Dons",
+          "player": "C. Goode",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Norwich City_wins": "2",
+          "draws": "2",
+          "Milton Keynes Dons_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "21/08/2020",
+            "competition": "Friendly 2020",
+            "teams_and_score": "Norwich City 6 - 0 MK Dons"
+          },
+          {
+            "date": "03/08/2012",
+            "competition": "Friendly 2012",
+            "teams_and_score": "MK Dons 0 - 0 Norwich City"
+          },
+          {
+            "date": "23/08/2011",
+            "competition": "English League Cup 2011/2012",
+            "teams_and_score": "Norwich City 0 - 4 MK Dons"
+          },
+          {
+            "date": "10/04/2010",
+            "competition": "English Football League - League One 2009/2010",
+            "teams_and_score": "Norwich City 1 - 1 MK Dons"
+          },
+          {
+            "date": "12/08/2008",
+            "competition": "English League Cup 2008/2009",
+            "teams_and_score": "MK Dons 1 - 0 Norwich City"
+          },
+          {
+            "date": "23/08/2005",
+            "competition": "English League Cup 2005/2006",
+            "teams_and_score": "MK Dons 0 - 1 Norwich City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Norwich City",
+          "form": [
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Norwich City 4 - 1 MK Dons",
+              "result": "W"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Norwich City 0 - 0 Cambridge United",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Hull City 2 - 1 Norwich City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Milton Keynes Dons",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Norwich City 4 - 1 MK Dons",
+              "result": "L"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Tottenham Hotspur 1 - 0 MK Dons",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Fleetwood Town 1 - 1 MK Dons",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Norwich City": "7",
+          "Milton Keynes Dons": "5"
+        },
+        "shots_off_target": {
+          "Norwich City": "9",
+          "Milton Keynes Dons": "3"
+        },
+        "shots_blocked": {
+          "Norwich City": "9",
+          "Milton Keynes Dons": "0"
+        },
+        "corners": {
+          "Norwich City": "7",
+          "Milton Keynes Dons": "3"
+        },
+        "fouls": {
+          "Norwich City": "11",
+          "Milton Keynes Dons": "13"
+        },
+        "offsides": {
+          "Norwich City": "2",
+          "Milton Keynes Dons": "1"
+        },
+        "yellow_cards": {
+          "Norwich City": "4",
+          "Milton Keynes Dons": "1"
+        },
+        "goalkeeper_saves": {
+          "Norwich City": "3",
+          "Milton Keynes Dons": "2"
+        },
+        "crosses": {
+          "Norwich City": "4",
+          "Milton Keynes Dons": "3"
+        },
+        "ball_possession": {
+          "Norwich City": "65%",
+          "Milton Keynes Dons": "35%"
+        }
+      },
+      "description": "Watch Norwich City vs Milton Keynes Dons highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. On August 8, 2026, football fans gathered for a high-stakes Carabao Cup encounter that promised plenty of action from the opening whistle. The knockout nature of the competition set the stage for an intense battle between two sides eager to progress to the next round. A Fast Start for the Canaries Norwich City wasted no time establishing their dominance at home, striking within the first minute of play. Mohamed Touré found the top right corner with a clinical right-footed shot following a clever setup by Kenny McLean . The momentum stayed firmly with the hosts, and by the 7th minute, they doubled their lead. Anis Ben Slimane capitalized on another Touré involvement, slotting a right-footed effort into the bottom right corner to stun the visitors early on. The pressure from the home side remained relentless throughout the first half. Just before the break, in the 43rd minute, Ben Chrisene added a third goal for Norwich , firing high into the center of the net after being played in by Andre Brooks . The MK Dons struggled to find a foothold as the first period ended with the hosts firmly in command. Second Half Drama and Final Flourish The second half introduced a wave of drama when MK Dons were awarded a penalty in the 54th minute after Pelle Mattsson fouled Callum Paterson . However, Norwich goalkeeper Vladan Kovacevic produced a brilliant save to deny Nathaniel Méndez-Laing from the spot. The visitors did find a way back momentarily in the 56th minute, as Ryan Wintle converted from close range following a corner to make it 3-1. Any hopes of a comeback were swiftly extinguished just three minutes later. Andre Brooks got on the scoresheet himself in the 59th minute, finding the bottom corner to restore the three-goal cushion. Despite late efforts from MK Dons and several saves by Kovacevic in stoppage time, Norwich City maintained their composure to secure a convincing 4-1 victory and advance in the tournament."
+    },
+    {
+      "title": "Bradford City vs Rochdale",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bradford-city-vs-rochdale-2026-08-08-yaWs.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1339.webp",
+          "name": "Rochdale",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/18193.webp",
+          "name": "Bradford City",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/bradford-city-vs-rochdale-2026-08-08_BhtzP.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "22'",
+          "team": "Rochdale",
+          "player": "D. Rodney",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+1'",
+          "team": "Bradford City",
+          "player": "W. Swan",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Bradford City",
+          "player": "A. Baldwin",
+          "event_type": "Goal",
+          "assist": "C. Connolly",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Rochdale",
+          "player": "D. Brown",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bradford City_wins": "3",
+          "draws": "2",
+          "Rochdale_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "29/07/2023",
+            "competition": "Friendly 2023",
+            "teams_and_score": "Rochdale 1 - 0 Bradford City"
+          },
+          {
+            "date": "15/04/2023",
+            "competition": "English Football League - League Two 2022/2023",
+            "teams_and_score": "Rochdale 0 - 3 Bradford City"
+          },
+          {
+            "date": "22/01/2022",
+            "competition": "English Football League - League Two 2021/2022",
+            "teams_and_score": "Rochdale 0 - 0 Bradford City"
+          },
+          {
+            "date": "12/11/2019",
+            "competition": "English Football League Trophy 2019/2020",
+            "teams_and_score": "Bradford City 1 - 2 Rochdale"
+          },
+          {
+            "date": "27/07/2019",
+            "competition": "Friendly 2019",
+            "teams_and_score": "Rochdale 0 - 1 Bradford City"
+          },
+          {
+            "date": "29/12/2018",
+            "competition": "English Football League - League One 2018/2019",
+            "teams_and_score": "Rochdale 0 - 4 Bradford City"
+          },
+          {
+            "date": "21/04/2018",
+            "competition": "English Football League - League One 2017/2018",
+            "teams_and_score": "Rochdale 1 - 1 Bradford City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Bradford City",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bradford City 2 - 0 Rochdale",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bradford City 3 - 2 Preston North End",
+              "result": "W"
+            },
+            {
+              "date": "14/05/2026",
+              "competition": "League 1: Play-offs",
+              "teams_and_score": "Bradford City 0 - 1 Bolton Wanderers",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Exeter City 1 - 2 Bradford City",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Rochdale",
+          "form": [
+            "L",
+            "D",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bradford City 2 - 0 Rochdale",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "EFL Cup: Qualification Round",
+              "teams_and_score": "Tranmere Rovers 2 - 2 Rochdale",
+              "result": "D"
+            },
+            {
+              "date": "10/05/2026",
+              "competition": "National League: Play-offs 25/26",
+              "teams_and_score": "Boreham Wood 2 - 2 Rochdale",
+              "result": "D"
+            },
+            {
+              "date": "25/04/2026",
+              "competition": "National League 25/26",
+              "teams_and_score": "Rochdale 1 - 1 York City",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bradford City": "11",
+          "Rochdale": "2"
+        },
+        "shots_off_target": {
+          "Bradford City": "7",
+          "Rochdale": "4"
+        },
+        "shots_blocked": {
+          "Bradford City": "5",
+          "Rochdale": "3"
+        },
+        "corners": {
+          "Bradford City": "10",
+          "Rochdale": "2"
+        },
+        "fouls": {
+          "Bradford City": "10",
+          "Rochdale": "6"
+        },
+        "offsides": {
+          "Bradford City": "1",
+          "Rochdale": "0"
+        },
+        "yellow_cards": {
+          "Bradford City": "0",
+          "Rochdale": "2"
+        },
+        "goalkeeper_saves": {
+          "Bradford City": "2",
+          "Rochdale": "9"
+        },
+        "crosses": {
+          "Bradford City": "10",
+          "Rochdale": "3"
+        },
+        "ball_possession": {
+          "Bradford City": "52%",
+          "Rochdale": "48%"
+        }
+      },
+      "description": "Watch Bradford City vs Rochdale highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Carabao Cup returned to the spotlight on August 8, 2026, as Bradford City hosted Rochdale in an encounter filled with tactical battles and high-stakes intensity. Both sides looked to assert their dominance early in the competition, setting the stage for a compelling night of football. First Half Pressure and the Breakthrough The match began with Rochdale attempting to catch the hosts off guard, as Zain Silcott-Duberry saw an early effort blocked. However, Bradford City soon grew into the game, dictated the tempo, and created several openings through dangerous deliveries from Josh Neufville and Kayden Jackson . Rochdale goalkeeper Nils Ramming was kept busy throughout the opening period, producing fine saves to deny Matthew Pennington and Kayden Jackson as the pressure mounted. The visitors' resistance was finally broken in first-half stoppage time. In the 45th minute (+1), Will Swan demonstrated his clinical edge, pouncing on an opportunity in the centre of the box to fire a right-footed shot into the heart of the goal, giving the Bantams a crucial lead heading into the break. Baldwin Doubles the Advantage In the second half, Rochdale searched for a way back into the contest, with Emmanuel Dieseruvwe threatening from set-pieces, but his headed efforts failed to hit the target. Bradford City remained composed and continued to exploit their superiority in the air. The decisive moment arrived in the 67th minute when Aden Baldwin rose highest to meet a Callum Connolly cross following a corner, heading home from point-blank range to make it 2-0. Closing Stages and Woodwork Denials Despite the two-goal cushion, Bradford City did not sit back. Substitutes Nick Powell and Bobby Pointon injected fresh energy into the attack, with Powell agonisingly hitting the right post in the 76th minute. Ramming continued to be the standout performer for the visitors, making a string of late saves to prevent a heavier scoreline. Rochdale had a late chance through Dajaune Brown , but Jon McCracken stood firm to ensure a clean sheet and a professional victory for the home side."
+    },
+    {
       "title": "Derby County vs Lincoln",
       "thumbnail_url": "https://img.refooty.com/thumbnail/derby-county-vs-lincoln-2026-08-08-kqNM.webp",
       "competition": "Carabao",
@@ -8433,1684 +10325,6 @@
         }
       },
       "description": "Watch Manchester City vs Newcastle highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on February 5, 2026. On February 5, 2026 , two heavyweights of English football collided in a high-stakes Carabao Cup encounter. The atmosphere at the stadium was electric as both sides looked to secure their progression in a competition that has become a vital battlefield for silverware. A Dream Start and VAR Drama The match ignited within the opening sixty seconds. Arsenal wasted no time establishing dominance as Riccardo Calafiori found the back of the net with a clinical left-footed finish, following a sharp assist from Myles Lewis-Skelly . The goal was briefly held in the balance during a tense VAR review, but the referee eventually pointed to the center spot, confirming the lead. Manchester City struggled to find their rhythm early on, evidenced by Phil Foden receiving a yellow card for unsportsmanlike conduct as frustrations began to simmer. As the first half progressed, the visitors' tactical discipline kept the hosts at bay. The City midfield, usually so dominant in possession, found itself crowded out by a hungry Arsenal press that refused to let the game settle into a predictable pattern. Clinical Execution and Goal-Line Clearances The Gunners doubled their advantage in the 28th minute through a beautifully orchestrated team move. Martin Ødegaard provided the vision with a key pass to Christos Tzolis , who delivered a perfect cross for Kai Havertz to head home. The drama intensified ten minutes later when Riccardo Calafiori was booked for diving in the penalty box—a controversial decision that denied Arsenal a chance for a third from the spot. Late in the first half, both ends of the pitch saw incredible defensive heroics. Martin Ødegaard saw a certain goal hacked off the line, only for Jeremy Doku to experience the same frustration at the other end moments later. These narrow escapes kept the scoreline at 2-0 heading into the interval, leaving the door slightly ajar for a potential comeback. Ødegaard Seals the Deal Any hopes of a Manchester City recovery were effectively extinguished just three minutes after the restart. Martin Ødegaard , who had been the architect of so much of his team's success, turned scorer by finishing with his left foot after excellent work from Tzolis and Lewis-Skelly . The 3-0 deficit prompted Pep Guardiola to make sweeping changes, including replacing Erling Haaland with Omar Marmoush , but the momentum remained firmly with the North Londoners. Despite late pressure from Antoine Semenyo and creative sparks from Rayan Cherki , the Arsenal defense remained resolute. Gabriel and Piero Hincapie made crucial interventions to protect the clean sheet. In front of a crowd of 58,056 , the final whistle confirmed a comprehensive and deserved victory for the Gunners, as they marched into the next round with a performance of genuine authority."
-    },
-    {
-      "title": "Plymouth vs Exeter City",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/plymouth-vs-exeter-city-2026-08-10-ZDiQ.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 10, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1364.webp",
-          "name": "Exeter City",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1357.webp",
-          "name": "Plymouth",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/plymouth-vs-exeter-city-2026-08-10_lcHhl.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Exeter City",
-          "player": "C. Cummins",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "78'",
-          "team": "Exeter City",
-          "player": "E. Sutherland",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "87'",
-          "team": "Exeter City",
-          "player": "E. Sutherland",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "Plymouth",
-          "player": "A. Hartridge",
-          "event_type": "Goal",
-          "assist": "H. White",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "90+4'",
-          "team": "Plymouth",
-          "player": "A. Pepple",
-          "event_type": "Goal",
-          "assist": "F. Issaka",
-          "score_update": "2 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Plymouth_wins": "2",
-          "draws": "2",
-          "Exeter City_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "11/04/2026",
-            "competition": "League 1 25/26",
-            "teams_and_score": "Plymouth Argyle 2 - 2 Exeter City"
-          },
-          {
-            "date": "15/04/2023",
-            "competition": "English Football League - League One 2022/2023",
-            "teams_and_score": "Exeter City 0 - 1 Plymouth Argyle"
-          },
-          {
-            "date": "26/10/2019",
-            "competition": "English Football League - League Two 2019/2020",
-            "teams_and_score": "Exeter City 4 - 0 Plymouth Argyle"
-          },
-          {
-            "date": "03/10/2017",
-            "competition": "English Football League Trophy 2017/2018",
-            "teams_and_score": "Plymouth Argyle 2 - 2 Exeter City"
-          },
-          {
-            "date": "11/02/2017",
-            "competition": "English Football League - League Two 2016/2017",
-            "teams_and_score": "Plymouth Argyle 3 - 0 Exeter City"
-          },
-          {
-            "date": "02/04/2016",
-            "competition": "English Football League - League Two 2015/2016",
-            "teams_and_score": "Exeter City 2 - 1 Plymouth Argyle"
-          }
-        ],
-        "home_team_form": {
-          "team": "Plymouth",
-          "form": [
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "10/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Plymouth Argyle 2 - 0 Exeter City",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Plymouth Argyle 0 - 0 Bristol City",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Northampton Town 2 - 3 Plymouth Argyle",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Exeter City",
-          "form": [
-            "L",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "10/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Plymouth Argyle 2 - 0 Exeter City",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Exeter City 1 - 1 Bristol City",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Exeter City 1 - 2 Bradford City",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Plymouth": "6",
-          "Exeter City": "1"
-        },
-        "shots_off_target": {
-          "Plymouth": "9",
-          "Exeter City": "6"
-        },
-        "shots_blocked": {
-          "Plymouth": "6",
-          "Exeter City": "1"
-        },
-        "corners": {
-          "Plymouth": "9",
-          "Exeter City": "3"
-        },
-        "fouls": {
-          "Plymouth": "9",
-          "Exeter City": "14"
-        },
-        "offsides": {
-          "Plymouth": "2",
-          "Exeter City": "0"
-        },
-        "yellow_cards": {
-          "Plymouth": "0",
-          "Exeter City": "1"
-        },
-        "red_cards": {
-          "Plymouth": "0",
-          "Exeter City": "1"
-        },
-        "goalkeeper_saves": {
-          "Plymouth": "1",
-          "Exeter City": "4"
-        },
-        "crosses": {
-          "Plymouth": "9",
-          "Exeter City": "6"
-        },
-        "ball_possession": {
-          "Plymouth": "63%",
-          "Exeter City": "37%"
-        }
-      },
-      "description": "Watch Plymouth vs Exeter City highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 10, 2026. The Devon Derby returned to the Carabao Cup stage on August 10, 2026 , as Plymouth Argyle hosted Exeter City in a high-stakes encounter. Both teams sought to assert local dominance in a match that remained balanced and unpredictable until the very final moments of play. A Tense Exchange of Chances From the opening whistle, Plymouth Argyle looked to dictate the tempo, with Harvey White testing the waters early with a long-range effort. The home side continued to pile on the pressure as Ronan Curtis and Aribim Pepple forced Exeter City goalkeeper Jack Bycroft into several crucial saves. Despite the territorial advantage for the Pilgrims, Exeter remained dangerous on the break, with Charlie Cummins nearly finding the target from a set-piece situation that flew just over the bar. As the first half progressed, the physical nature of the derby became evident. Charlie Cummins received an early booking for a heavy challenge, signaling the intensity of the midfield battle. While Mathias Ross and Pepple continued to search for the breakthrough before the interval, the visitors’ defense held firm, ensuring the scoreline remained level at the break after a series of blocked attempts and narrow misses. Momentum Shifts and a Costly Red Card The second half saw Exeter City grow in confidence, creating a flurry of opportunities. Taylor Perry and Andrew Oluwabori both came close to silencing the home crowd, with the latter seeing a headed effort rise just too high. Plymouth's manager responded by introducing fresh legs, bringing on Matthew Sorinola and Julio Pleguezuelo to regain control of the flanks and revitalize an attack that was struggling to find a clinical edge. The game reached a turning point in the 87th minute when Ethan Sutherland , who had been cautioned only nine minutes earlier, committed a tactical foul that resulted in a second yellow card. His dismissal left Exeter City a man down for the closing stages, forcing them into a defensive shell as Plymouth Argyle launched a final, desperate assault on the Grecians' goal. Stoppage Time Fireworks Just as the match seemed destined for a penalty shootout, the deadlock was finally broken in the 92nd minute. A pinpoint corner from Harvey White found the head of Alex Hartridge , who powered his effort into the top left corner from close range. The breakthrough sent the home supporters into a frenzy, but the drama was far from over as the clock ticked deep into added time. With Exeter pushing everyone forward in search of an equalizer, Plymouth Argyle struck again in the 94th minute. Freddie Issaka spearheaded a lightning-fast counter-attack, squaring the ball to Aribim Pepple in the center of the box. Pepple made no mistake, slotting the ball home to secure a 2-0 victory. Although Josh Gordon forced one final save from Murphy Cooper in the dying seconds, the result was already sealed, sending Plymouth through to the next round."
-    },
-    {
-      "title": "Cardiff vs Swindon Town",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/cardiff-vs-swindon-town-2026-08-09-l16i.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1353.webp",
-          "name": "Swindon Town",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/43.webp",
-          "name": "Cardiff",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/cardiff-vs-swindon-town-2026-08-09_0R0cw.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Swindon Town",
-          "player": "G. Osho",
-          "event_type": "Goal"
-        },
-        {
-          "time": "16'",
-          "team": "Cardiff",
-          "player": "Y. Salech",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Cardiff",
-          "player": "Y. Salech",
-          "event_type": "Goal",
-          "assist": "C. Ashford",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Swindon Town",
-          "player": "P. Glatzel",
-          "event_type": "Goal",
-          "assist": "J. Hungbo",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "61'",
-          "team": "Cardiff",
-          "player": "J. Moylan",
-          "event_type": "Goal",
-          "assist": "Y. Salech",
-          "score_update": "3 - 2"
-        },
-        {
-          "time": "76'",
-          "team": "Cardiff",
-          "player": "J. Colwill",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Swindon Town",
-          "player": "J. Debayo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Swindon Town",
-          "player": "J. Debayo",
-          "event_type": "Red Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Cardiff_wins": "3",
-          "draws": "1",
-          "Swindon Town_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "12/08/2025",
-            "competition": "EFL Cup: Round 1 25/26",
-            "teams_and_score": "Cardiff City 2 - 1 Swindon Town"
-          },
-          {
-            "date": "23/07/2022",
-            "competition": "Friendly 2022",
-            "teams_and_score": "Swindon Town 2 - 4 Cardiff City"
-          },
-          {
-            "date": "01/01/2003",
-            "competition": "English Football League - League One 2002/2003",
-            "teams_and_score": "Cardiff City 1 - 1 Swindon Town"
-          },
-          {
-            "date": "09/02/2002",
-            "competition": "English Football League - League One 2001/2002",
-            "teams_and_score": "Cardiff City 3 - 0 Swindon Town"
-          }
-        ],
-        "home_team_form": {
-          "team": "Cardiff",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Cardiff City 3 - 2 Swindon Town",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Cardiff City 4 - 1 AS Roma",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Forest Green Rovers 1 - 5 Cardiff City",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Mansfield Town 5 - 4 Cardiff City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Swindon Town",
-          "form": [
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Cardiff City 3 - 2 Swindon Town",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Swindon Town 1 - 3 Bristol City",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Swindon Town 1 - 2 Chesterfield",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Cardiff": "4",
-          "Swindon Town": "1"
-        },
-        "shots_off_target": {
-          "Cardiff": "4",
-          "Swindon Town": "5"
-        },
-        "shots_blocked": {
-          "Cardiff": "7",
-          "Swindon Town": "7"
-        },
-        "corners": {
-          "Cardiff": "6",
-          "Swindon Town": "3"
-        },
-        "fouls": {
-          "Cardiff": "8",
-          "Swindon Town": "17"
-        },
-        "offsides": {
-          "Cardiff": "3",
-          "Swindon Town": "3"
-        },
-        "yellow_cards": {
-          "Cardiff": "1",
-          "Swindon Town": "0"
-        },
-        "red_cards": {
-          "Cardiff": "0",
-          "Swindon Town": "1"
-        },
-        "goalkeeper_saves": {
-          "Cardiff": "0",
-          "Swindon Town": "2"
-        },
-        "crosses": {
-          "Cardiff": "4",
-          "Swindon Town": "5"
-        },
-        "ball_possession": {
-          "Cardiff": "61%",
-          "Swindon Town": "39%"
-        }
-      },
-      "description": "Watch Cardiff vs Swindon Town highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The atmosphere at the stadium crackled with anticipation as two determined sides faced off in a high-stakes knockout fixture. On August 9, 2026, the crowd settled in for a gripping Carabao Cup clash that demanded everything from the players on the pitch. A First Half of Resilient Responses The encounter began with a shock as Swindon Town took an early lead through a Gabriel Osho own goal in the 9th minute. Cardiff City , however, showed immediate character. They clawed their way back when Yousef Salech coolly converted a penalty in the 29th minute. Just before the interval, the momentum shifted fully toward the hosts as Salech found the net again, heading into the break with a 2-1 advantage following an excellent delivery from Cian Ashford . Securing the Victory The second half proved equally chaotic. Swindon Town fought back to level the match at 2-2 in the 62nd minute, with Paul Glatzel capitalizing on a Joseph Hungbo cross. As both teams hunted for the winner, the breakthrough finally arrived in the 77th minute. Jack Moylan rifled a clinical right-footed shot into the top corner following a swift Cardiff City counter-attack. The closing stages saw Swindon push hard despite James Debayo being sent off for a second yellow card, but the home side stood firm to secure their place in the next round."
-    },
-    {
-      "title": "Swansea City vs Birmingham",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/swansea-city-vs-birmingham-2026-08-09-Ljcf.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/54.webp",
-          "name": "Birmingham",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/23192.webp",
-          "name": "Swansea City",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/swansea-city-vs-birmingham-2026-08-09_m1OlD.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Swansea City",
-          "player": "M. Widell",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Birmingham",
-          "player": "A. Priske",
-          "event_type": "Goal",
-          "assist": "C. Vicente",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Swansea City",
-          "player": "C. Burgess",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Swansea City_wins": "0",
-          "draws": "3",
-          "Birmingham_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "17/01/2026",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Swansea City 1 - 1 Birmingham City"
-          },
-          {
-            "date": "13/01/2024",
-            "competition": "English Football League - Championship 2023/2024",
-            "teams_and_score": "Birmingham City 2 - 2 Swansea City"
-          },
-          {
-            "date": "04/02/2023",
-            "competition": "English Football League - Championship 2022/2023",
-            "teams_and_score": "Swansea City 3 - 4 Birmingham City"
-          },
-          {
-            "date": "19/03/2022",
-            "competition": "English Football League - Championship 2021/2022",
-            "teams_and_score": "Swansea City 0 - 0 Birmingham City"
-          },
-          {
-            "date": "02/04/2021",
-            "competition": "English Football League - Championship 2020/2021",
-            "teams_and_score": "Birmingham City 1 - 0 Swansea City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Swansea City",
-          "form": [
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Swansea City 1 - 0 Leganes",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Swansea City 3 - 1 Charlton Athletic",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Birmingham",
-          "form": [
-            "W",
-            "D",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
-              "result": "W"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
-              "result": "D"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Crewe Alexandra 1 - 2 Birmingham City",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Portsmouth 1 - 1 Birmingham City",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Swansea City": "2",
-          "Birmingham": "1"
-        },
-        "shots_off_target": {
-          "Swansea City": "8",
-          "Birmingham": "4"
-        },
-        "shots_blocked": {
-          "Swansea City": "3",
-          "Birmingham": "1"
-        },
-        "corners": {
-          "Swansea City": "6",
-          "Birmingham": "4"
-        },
-        "fouls": {
-          "Swansea City": "12",
-          "Birmingham": "19"
-        },
-        "offsides": {
-          "Swansea City": "1",
-          "Birmingham": "2"
-        },
-        "yellow_cards": {
-          "Swansea City": "2",
-          "Birmingham": "0"
-        },
-        "goalkeeper_saves": {
-          "Swansea City": "0",
-          "Birmingham": "2"
-        },
-        "crosses": {
-          "Swansea City": "3",
-          "Birmingham": "0"
-        },
-        "ball_possession": {
-          "Swansea City": "61%",
-          "Birmingham": "39%"
-        }
-      },
-      "description": "Watch Swansea City vs Birmingham highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. A hard-fought encounter in the Carabao Cup On August 9, 2026, the Swansea City and Birmingham City squads met in a high-stakes Carabao Cup clash, with both sides eager to make their mark on the tournament. The matchday air was thick with tension as both teams looked to establish control from the very first minute. The breakthrough moment Throughout the first half, the game was characterized by end-to-end action. Adam Idah came close for the hosts, testing the goalkeeper, but the deadlock remained broken until the 44th minute. August Priske struck the decisive blow, converting a clinical right-footed shot into the bottom left corner following a clever set-piece delivery from Carlos Vicente . This late first-half goal shifted the momentum firmly in favor of the visitors as they headed into the tunnel. Second-half defensive stand Following the restart, Swansea City pushed hard for an equalizer, introducing fresh legs to break down the resilient Birmingham City defense. James Beadle proved vital in goal, making key saves, including a sharp stop against Jay Fulton in the 70th minute. Despite a late flurry of pressure and a lengthy injury delay for Cameron Burgess , the visitors held their ground. The final whistle confirmed a disciplined victory that saw the away side successfully navigate the final minutes of the match."
-    },
-    {
-      "title": "Crewe vs Accrington Stanley",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/crewe-vs-accrington-stanley-2026-08-09-h6YX.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/25134.webp",
-          "name": "Accrington Stanley",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1363.webp",
-          "name": "Crewe",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/crewe-vs-accrington-stanley-2026-08-09_wjyPB.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "7'",
-          "team": "Crewe",
-          "player": "J. Lankester",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "45+5'",
-          "team": "Accrington Stanley",
-          "player": "F. Rawson",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "65'",
-          "team": "Accrington Stanley",
-          "player": "F. Rawson",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "74'",
-          "team": "Accrington Stanley",
-          "player": "J. Anderson",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "85'",
-          "team": "Crewe",
-          "player": "L. Moore",
-          "event_type": "Goal",
-          "assist": "L. Billington",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "90+2'",
-          "team": "Accrington Stanley",
-          "player": "D. Love",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Crewe_wins": "1",
-          "draws": "1",
-          "Accrington Stanley_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "03/04/2026",
-            "competition": "League 2 25/26",
-            "teams_and_score": "Accrington Stanley 2 - 0 Crewe Alexandra"
-          },
-          {
-            "date": "25/01/2025",
-            "competition": "League 2 24/25",
-            "teams_and_score": "Crewe Alexandra 0 - 1 Accrington Stanley"
-          },
-          {
-            "date": "06/04/2024",
-            "competition": "English Football League - League Two 2023/2024",
-            "teams_and_score": "Accrington Stanley 0 - 0 Crewe Alexandra"
-          },
-          {
-            "date": "12/02/2022",
-            "competition": "English Football League - League One 2021/2022",
-            "teams_and_score": "Accrington Stanley 4 - 1 Crewe Alexandra"
-          },
-          {
-            "date": "23/02/2021",
-            "competition": "English Football League - League One 2020/2021",
-            "teams_and_score": "Crewe Alexandra 2 - 0 Accrington Stanley"
-          }
-        ],
-        "home_team_form": {
-          "team": "Crewe",
-          "form": [
-            "W",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Crewe Alexandra 2 - 1 Accrington Stanley",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Crewe Alexandra 1 - 2 Birmingham City",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Crewe Alexandra 0 - 0 Cambridge United",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Accrington Stanley",
-          "form": [
-            "L",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Crewe Alexandra 2 - 1 Accrington Stanley",
-              "result": "L"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Accrington Stanley 0 - 0 Blackburn Rovers",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Oldham Athletic 3 - 0 Accrington Stanley",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Crewe": "3",
-          "Accrington Stanley": "3"
-        },
-        "shots_off_target": {
-          "Crewe": "9",
-          "Accrington Stanley": "9"
-        },
-        "shots_blocked": {
-          "Crewe": "3",
-          "Accrington Stanley": "4"
-        },
-        "corners": {
-          "Crewe": "1",
-          "Accrington Stanley": "6"
-        },
-        "fouls": {
-          "Crewe": "15",
-          "Accrington Stanley": "13"
-        },
-        "offsides": {
-          "Crewe": "1",
-          "Accrington Stanley": "2"
-        },
-        "yellow_cards": {
-          "Crewe": "0",
-          "Accrington Stanley": "3"
-        },
-        "goalkeeper_saves": {
-          "Crewe": "2",
-          "Accrington Stanley": "1"
-        },
-        "crosses": {
-          "Crewe": "3",
-          "Accrington Stanley": "10"
-        },
-        "ball_possession": {
-          "Crewe": "50%",
-          "Accrington Stanley": "50%"
-        }
-      },
-      "description": "Watch Crewe vs Accrington Stanley highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The atmosphere in the stadium was buzzing as both sides took to the pitch, ready to battle for their survival in the prestigious tournament. Every challenge was contested with the intensity of cup football, keeping fans on the edge of their seats from the opening whistle. A determined start The fixture, played on August 9, 2026 , saw Crewe Alexandra seize the initiative early. Just six minutes in, Josh March was brought down in the penalty area, allowing Jack Lankester to step up and coolly convert a spot-kick into the bottom right corner. Crewe continued to press, with Josh March nearly doubling the lead when his strike rattled the crossbar, while Accrington Stanley struggled to penetrate the organized home defense. Second half comeback and late drama After the break, Accrington Stanley returned with renewed vigor. Their persistence paid off in the 65th minute when Farrend Rawson fired home from close range following a corner to level the score. The match evolved into a high-stakes tactical battle as both teams pushed for a winner. Just when it seemed the game was heading for extra time, Crewe Alexandra found the decisive breakthrough: in the 85th minute, Luca Moore rose to meet a Lewis Billington cross, heading home to secure the win and seal a dramatic victory in the Carabao Cup ."
-    },
-    {
-      "title": "Rotherham United vs West Bromwich Albion",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/rotherham-united-vs-west-bromwich-albion-2026-08-09-P11n.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/15432.webp",
-          "name": "West Bromwich Albion",
-          "score": "4"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/22642.webp",
-          "name": "Rotherham United",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/rotherham-united-vs-west-bromwich-albion-2026-08-09_w6BjK.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "West Bromwich Albion",
-          "player": "J. Morgan",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "West Bromwich Albion",
-          "player": "H. Whitwell",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "55'",
-          "team": "West Bromwich Albion",
-          "player": "F. H. Myhre",
-          "event_type": "Goal",
-          "score_update": "0 - 3"
-        },
-        {
-          "time": "61'",
-          "team": "West Bromwich Albion",
-          "player": "J. Morgan",
-          "event_type": "Goal",
-          "assist": "C. Styles",
-          "score_update": "0 - 4"
-        },
-        {
-          "time": "78'",
-          "team": "Rotherham United",
-          "player": "B. Cover",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "87'",
-          "team": "Rotherham United",
-          "player": "F. Tavares",
-          "event_type": "Goal",
-          "assist": "A. Martha",
-          "score_update": "1 - 4"
-        },
-        {
-          "time": "90+2'",
-          "team": "Rotherham United",
-          "player": "F. Tavares",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Rotherham United_wins": "2",
-          "draws": "1",
-          "West Bromwich Albion_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "10/04/2024",
-            "competition": "English Football League - Championship 2023/2024",
-            "teams_and_score": "West Bromwich Albion 2 - 0 Rotherham United"
-          },
-          {
-            "date": "07/04/2023",
-            "competition": "English Football League - Championship 2022/2023",
-            "teams_and_score": "Rotherham United 3 - 1 West Bromwich Albion"
-          },
-          {
-            "date": "23/07/2019",
-            "competition": "Friendly 2019",
-            "teams_and_score": "Rotherham United 1 - 1 West Bromwich Albion"
-          },
-          {
-            "date": "27/04/2019",
-            "competition": "English Football League - Championship 2018/2019",
-            "teams_and_score": "West Bromwich Albion 2 - 1 Rotherham United"
-          },
-          {
-            "date": "26/08/2009",
-            "competition": "English League Cup 2009/2010",
-            "teams_and_score": "West Bromwich Albion 4 - 3 Rotherham United"
-          },
-          {
-            "date": "28/02/2004",
-            "competition": "English Football League - Championship 2003/2004",
-            "teams_and_score": "West Bromwich Albion 0 - 1 Rotherham United"
-          }
-        ],
-        "home_team_form": {
-          "team": "Rotherham United",
-          "form": [
-            "L",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Rotherham United 1 - 4 West Bromwich Albion",
-              "result": "L"
-            },
-            {
-              "date": "04/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Rotherham United 1 - 1 Derby County",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Wycombe Wanderers 3 - 2 Rotherham United",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "West Bromwich Albion",
-          "form": [
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Rotherham United 1 - 4 West Bromwich Albion",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Peterborough United 0 - 2 West Bromwich Albion",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Sheffield Wednesday 2 - 1 West Bromwich Albion",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Rotherham United": "2",
-          "West Bromwich Albion": "10"
-        },
-        "shots_off_target": {
-          "Rotherham United": "4",
-          "West Bromwich Albion": "4"
-        },
-        "shots_blocked": {
-          "Rotherham United": "2",
-          "West Bromwich Albion": "4"
-        },
-        "corners": {
-          "Rotherham United": "1",
-          "West Bromwich Albion": "2"
-        },
-        "fouls": {
-          "Rotherham United": "9",
-          "West Bromwich Albion": "7"
-        },
-        "offsides": {
-          "Rotherham United": "5",
-          "West Bromwich Albion": "4"
-        },
-        "yellow_cards": {
-          "Rotherham United": "2",
-          "West Bromwich Albion": "0"
-        },
-        "goalkeeper_saves": {
-          "Rotherham United": "6",
-          "West Bromwich Albion": "1"
-        },
-        "crosses": {
-          "Rotherham United": "4",
-          "West Bromwich Albion": "5"
-        },
-        "ball_possession": {
-          "Rotherham United": "29%",
-          "West Bromwich Albion": "71%"
-        }
-      },
-      "description": "Watch Rotherham United vs West Bromwich Albion highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. Carabao Cup action at the stadium Rotherham United and West Bromwich Albion met on August 9, 2026, for a high-stakes encounter in the Carabao Cup , with both sides eager to establish early momentum. A clinical first half West Bromwich Albion hit their stride early, with Jimmy-Jay Morgan opening the scoring in the 8th minute following a setup from Harry Whitwell . The visitors doubled their lead in the 24th minute when Harry Whitwell finished from close range. Despite the deficit, Rotherham United looked dangerous on the break, particularly through Paul Mullin , but found themselves thwarted by the opposing goalkeeper throughout the first period. Securing the result After the interval, the game opened up further. Felix Myhre struck in the 55th minute to make it 3-0, and Jimmy-Jay Morgan added his second of the night just six minutes later, assisted by Callum Styles . Rotherham United fought back towards the final whistle, with Fábio Tavares finding the back of the net in the 87th minute to give the home fans a moment of relief. However, the match concluded with a commanding 4-1 victory for West Bromwich Albion ."
-    },
-    {
-      "title": "Mansfield Town vs Sheffield United",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/mansfield-town-vs-sheffield-united-2026-08-09-SY9Q.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/15407.webp",
-          "name": "Sheffield United",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1374.webp",
-          "name": "Mansfield Town",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/mansfield-town-vs-sheffield-united-2026-08-09_ltTQU.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Sheffield United",
-          "player": "P. Bamford",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "Sheffield United",
-          "player": "F. Seriki",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Mansfield Town",
-          "player": "L. Reed",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Sheffield United",
-          "player": "M. McGuinness",
-          "event_type": "Goal",
-          "assist": "S. Peck",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "76'",
-          "team": "Mansfield Town",
-          "player": "L. Thompson",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Sheffield United",
-          "player": "C. O'Hare",
-          "event_type": "Goal",
-          "score_update": "0 - 3"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Mansfield Town_wins": "2",
-          "draws": "1",
-          "Sheffield United_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "11/01/2026",
-            "competition": "FA Cup: Round 3",
-            "teams_and_score": "Sheffield United 3 - 4 Mansfield Town"
-          },
-          {
-            "date": "19/07/2022",
-            "competition": "Friendly 2022",
-            "teams_and_score": "Mansfield Town 3 - 0 Sheffield United"
-          },
-          {
-            "date": "21/07/2018",
-            "competition": "Friendly 2018",
-            "teams_and_score": "Mansfield Town 0 - 0 Sheffield United"
-          },
-          {
-            "date": "13/08/2014",
-            "competition": "English League Cup 2014/2015",
-            "teams_and_score": "Sheffield United 2 - 1 Mansfield Town"
-          }
-        ],
-        "home_team_form": {
-          "team": "Mansfield Town",
-          "form": [
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
-              "result": "L"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Mansfield Town 1 - 3 Derby County",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Mansfield Town 5 - 4 Cardiff City",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Sheffield United",
-          "form": [
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Derby County 1 - 2 Sheffield United",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Mansfield Town": "2",
-          "Sheffield United": "4"
-        },
-        "shots_off_target": {
-          "Mansfield Town": "4",
-          "Sheffield United": "9"
-        },
-        "shots_blocked": {
-          "Mansfield Town": "1",
-          "Sheffield United": "7"
-        },
-        "corners": {
-          "Mansfield Town": "5",
-          "Sheffield United": "3"
-        },
-        "fouls": {
-          "Mansfield Town": "15",
-          "Sheffield United": "13"
-        },
-        "offsides": {
-          "Mansfield Town": "2",
-          "Sheffield United": "0"
-        },
-        "yellow_cards": {
-          "Mansfield Town": "2",
-          "Sheffield United": "1"
-        },
-        "goalkeeper_saves": {
-          "Mansfield Town": "1",
-          "Sheffield United": "2"
-        },
-        "crosses": {
-          "Mansfield Town": "2",
-          "Sheffield United": "5"
-        },
-        "ball_possession": {
-          "Mansfield Town": "50%",
-          "Sheffield United": "50%"
-        }
-      },
-      "description": "Watch Mansfield Town vs Sheffield United highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. A Carabao Cup Clash at Field Mill On August 9, 2026 , Mansfield Town welcomed Sheffield United for a high-stakes encounter in the Carabao Cup . The stage was set for a classic cup battle, with both sides eager to make their mark on the tournament early in the campaign. An Early Breakthrough Sheffield United signaled their intent almost immediately, striking in the fourth minute. Patrick Bamford clinically finished a Joe Rothwell pass, sending the ball into the center of the goal to give the visitors the lead. Mansfield Town did not retreat, however, creating several chances as Frazer Blake-Tracy forced a smart save from Michael Cooper , but the home side struggled to break through the organized defensive structure of the visitors. Sealing the Progression The second half saw Sheffield United assert further dominance. In the 71st minute, Mark McGuinness rose highest to meet a Sydie Peck corner, heading home to double the lead. As the game wore on, the visitors remained disciplined, eventually putting the result beyond doubt in the 89th minute. Callum O'Hare capped off a swift counter-attack assisted by Ryan Oné , firing home from close range to secure a 3-0 victory and a convincing spot in the next round of the competition."
-    },
-    {
-      "title": "Norwich City vs Milton Keynes Dons",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-city-vs-milton-keynes-dons-2026-08-08-TcUX.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1348.webp",
-          "name": "Milton Keynes Dons",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/18210.webp",
-          "name": "Norwich City",
-          "score": "4"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/norwich-city-vs-milton-keynes-dons-2026-08-08_7bfKj.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Norwich City",
-          "player": "M. Toure",
-          "event_type": "Goal",
-          "assist": "K. McLean",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Norwich City",
-          "player": "A. B. Slimane",
-          "event_type": "Goal",
-          "assist": "M. Toure",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Norwich City",
-          "player": "J. Córdoba",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Norwich City",
-          "player": "J. Stacey",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Norwich City",
-          "player": "K. McLean",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Norwich City",
-          "player": "B. Chrisene",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Milton Keynes Dons",
-          "player": "N. Mendez-Laing",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Milton Keynes Dons",
-          "player": "R. Wintle",
-          "event_type": "Goal",
-          "score_update": "3 - 1"
-        },
-        {
-          "time": "76'",
-          "team": "Norwich City",
-          "player": "A. Brooks",
-          "event_type": "Goal",
-          "score_update": "4 - 1"
-        },
-        {
-          "time": "91'",
-          "team": "Norwich City",
-          "player": "A. Brooks",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Milton Keynes Dons",
-          "player": "C. Goode",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Norwich City_wins": "2",
-          "draws": "2",
-          "Milton Keynes Dons_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "21/08/2020",
-            "competition": "Friendly 2020",
-            "teams_and_score": "Norwich City 6 - 0 MK Dons"
-          },
-          {
-            "date": "03/08/2012",
-            "competition": "Friendly 2012",
-            "teams_and_score": "MK Dons 0 - 0 Norwich City"
-          },
-          {
-            "date": "23/08/2011",
-            "competition": "English League Cup 2011/2012",
-            "teams_and_score": "Norwich City 0 - 4 MK Dons"
-          },
-          {
-            "date": "10/04/2010",
-            "competition": "English Football League - League One 2009/2010",
-            "teams_and_score": "Norwich City 1 - 1 MK Dons"
-          },
-          {
-            "date": "12/08/2008",
-            "competition": "English League Cup 2008/2009",
-            "teams_and_score": "MK Dons 1 - 0 Norwich City"
-          },
-          {
-            "date": "23/08/2005",
-            "competition": "English League Cup 2005/2006",
-            "teams_and_score": "MK Dons 0 - 1 Norwich City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Norwich City",
-          "form": [
-            "W",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Norwich City 4 - 1 MK Dons",
-              "result": "W"
-            },
-            {
-              "date": "04/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Norwich City 0 - 0 Cambridge United",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Hull City 2 - 1 Norwich City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Milton Keynes Dons",
-          "form": [
-            "L",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Norwich City 4 - 1 MK Dons",
-              "result": "L"
-            },
-            {
-              "date": "22/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Tottenham Hotspur 1 - 0 MK Dons",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Fleetwood Town 1 - 1 MK Dons",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Norwich City": "7",
-          "Milton Keynes Dons": "5"
-        },
-        "shots_off_target": {
-          "Norwich City": "9",
-          "Milton Keynes Dons": "3"
-        },
-        "shots_blocked": {
-          "Norwich City": "9",
-          "Milton Keynes Dons": "0"
-        },
-        "corners": {
-          "Norwich City": "7",
-          "Milton Keynes Dons": "3"
-        },
-        "fouls": {
-          "Norwich City": "11",
-          "Milton Keynes Dons": "13"
-        },
-        "offsides": {
-          "Norwich City": "2",
-          "Milton Keynes Dons": "1"
-        },
-        "yellow_cards": {
-          "Norwich City": "4",
-          "Milton Keynes Dons": "1"
-        },
-        "goalkeeper_saves": {
-          "Norwich City": "3",
-          "Milton Keynes Dons": "2"
-        },
-        "crosses": {
-          "Norwich City": "4",
-          "Milton Keynes Dons": "3"
-        },
-        "ball_possession": {
-          "Norwich City": "65%",
-          "Milton Keynes Dons": "35%"
-        }
-      },
-      "description": "Watch Norwich City vs Milton Keynes Dons highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. On August 8, 2026, football fans gathered for a high-stakes Carabao Cup encounter that promised plenty of action from the opening whistle. The knockout nature of the competition set the stage for an intense battle between two sides eager to progress to the next round. A Fast Start for the Canaries Norwich City wasted no time establishing their dominance at home, striking within the first minute of play. Mohamed Touré found the top right corner with a clinical right-footed shot following a clever setup by Kenny McLean . The momentum stayed firmly with the hosts, and by the 7th minute, they doubled their lead. Anis Ben Slimane capitalized on another Touré involvement, slotting a right-footed effort into the bottom right corner to stun the visitors early on. The pressure from the home side remained relentless throughout the first half. Just before the break, in the 43rd minute, Ben Chrisene added a third goal for Norwich , firing high into the center of the net after being played in by Andre Brooks . The MK Dons struggled to find a foothold as the first period ended with the hosts firmly in command. Second Half Drama and Final Flourish The second half introduced a wave of drama when MK Dons were awarded a penalty in the 54th minute after Pelle Mattsson fouled Callum Paterson . However, Norwich goalkeeper Vladan Kovacevic produced a brilliant save to deny Nathaniel Méndez-Laing from the spot. The visitors did find a way back momentarily in the 56th minute, as Ryan Wintle converted from close range following a corner to make it 3-1. Any hopes of a comeback were swiftly extinguished just three minutes later. Andre Brooks got on the scoresheet himself in the 59th minute, finding the bottom corner to restore the three-goal cushion. Despite late efforts from MK Dons and several saves by Kovacevic in stoppage time, Norwich City maintained their composure to secure a convincing 4-1 victory and advance in the tournament."
-    },
-    {
-      "title": "Bradford City vs Rochdale",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/bradford-city-vs-rochdale-2026-08-08-yaWs.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1339.webp",
-          "name": "Rochdale",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/18193.webp",
-          "name": "Bradford City",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/bradford-city-vs-rochdale-2026-08-08_BhtzP.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "22'",
-          "team": "Rochdale",
-          "player": "D. Rodney",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+1'",
-          "team": "Bradford City",
-          "player": "W. Swan",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Bradford City",
-          "player": "A. Baldwin",
-          "event_type": "Goal",
-          "assist": "C. Connolly",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Rochdale",
-          "player": "D. Brown",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Bradford City_wins": "3",
-          "draws": "2",
-          "Rochdale_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "29/07/2023",
-            "competition": "Friendly 2023",
-            "teams_and_score": "Rochdale 1 - 0 Bradford City"
-          },
-          {
-            "date": "15/04/2023",
-            "competition": "English Football League - League Two 2022/2023",
-            "teams_and_score": "Rochdale 0 - 3 Bradford City"
-          },
-          {
-            "date": "22/01/2022",
-            "competition": "English Football League - League Two 2021/2022",
-            "teams_and_score": "Rochdale 0 - 0 Bradford City"
-          },
-          {
-            "date": "12/11/2019",
-            "competition": "English Football League Trophy 2019/2020",
-            "teams_and_score": "Bradford City 1 - 2 Rochdale"
-          },
-          {
-            "date": "27/07/2019",
-            "competition": "Friendly 2019",
-            "teams_and_score": "Rochdale 0 - 1 Bradford City"
-          },
-          {
-            "date": "29/12/2018",
-            "competition": "English Football League - League One 2018/2019",
-            "teams_and_score": "Rochdale 0 - 4 Bradford City"
-          },
-          {
-            "date": "21/04/2018",
-            "competition": "English Football League - League One 2017/2018",
-            "teams_and_score": "Rochdale 1 - 1 Bradford City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Bradford City",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Bradford City 2 - 0 Rochdale",
-              "result": "W"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Bradford City 3 - 2 Preston North End",
-              "result": "W"
-            },
-            {
-              "date": "14/05/2026",
-              "competition": "League 1: Play-offs",
-              "teams_and_score": "Bradford City 0 - 1 Bolton Wanderers",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Exeter City 1 - 2 Bradford City",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Rochdale",
-          "form": [
-            "L",
-            "D",
-            "D",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Bradford City 2 - 0 Rochdale",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "EFL Cup: Qualification Round",
-              "teams_and_score": "Tranmere Rovers 2 - 2 Rochdale",
-              "result": "D"
-            },
-            {
-              "date": "10/05/2026",
-              "competition": "National League: Play-offs 25/26",
-              "teams_and_score": "Boreham Wood 2 - 2 Rochdale",
-              "result": "D"
-            },
-            {
-              "date": "25/04/2026",
-              "competition": "National League 25/26",
-              "teams_and_score": "Rochdale 1 - 1 York City",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Bradford City": "11",
-          "Rochdale": "2"
-        },
-        "shots_off_target": {
-          "Bradford City": "7",
-          "Rochdale": "4"
-        },
-        "shots_blocked": {
-          "Bradford City": "5",
-          "Rochdale": "3"
-        },
-        "corners": {
-          "Bradford City": "10",
-          "Rochdale": "2"
-        },
-        "fouls": {
-          "Bradford City": "10",
-          "Rochdale": "6"
-        },
-        "offsides": {
-          "Bradford City": "1",
-          "Rochdale": "0"
-        },
-        "yellow_cards": {
-          "Bradford City": "0",
-          "Rochdale": "2"
-        },
-        "goalkeeper_saves": {
-          "Bradford City": "2",
-          "Rochdale": "9"
-        },
-        "crosses": {
-          "Bradford City": "10",
-          "Rochdale": "3"
-        },
-        "ball_possession": {
-          "Bradford City": "52%",
-          "Rochdale": "48%"
-        }
-      },
-      "description": "Watch Bradford City vs Rochdale highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Carabao Cup returned to the spotlight on August 8, 2026, as Bradford City hosted Rochdale in an encounter filled with tactical battles and high-stakes intensity. Both sides looked to assert their dominance early in the competition, setting the stage for a compelling night of football. First Half Pressure and the Breakthrough The match began with Rochdale attempting to catch the hosts off guard, as Zain Silcott-Duberry saw an early effort blocked. However, Bradford City soon grew into the game, dictated the tempo, and created several openings through dangerous deliveries from Josh Neufville and Kayden Jackson . Rochdale goalkeeper Nils Ramming was kept busy throughout the opening period, producing fine saves to deny Matthew Pennington and Kayden Jackson as the pressure mounted. The visitors' resistance was finally broken in first-half stoppage time. In the 45th minute (+1), Will Swan demonstrated his clinical edge, pouncing on an opportunity in the centre of the box to fire a right-footed shot into the heart of the goal, giving the Bantams a crucial lead heading into the break. Baldwin Doubles the Advantage In the second half, Rochdale searched for a way back into the contest, with Emmanuel Dieseruvwe threatening from set-pieces, but his headed efforts failed to hit the target. Bradford City remained composed and continued to exploit their superiority in the air. The decisive moment arrived in the 67th minute when Aden Baldwin rose highest to meet a Callum Connolly cross following a corner, heading home from point-blank range to make it 2-0. Closing Stages and Woodwork Denials Despite the two-goal cushion, Bradford City did not sit back. Substitutes Nick Powell and Bobby Pointon injected fresh energy into the attack, with Powell agonisingly hitting the right post in the 76th minute. Ramming continued to be the standout performer for the visitors, making a string of late saves to prevent a heavier scoreline. Rochdale had a late chance through Dajaune Brown , but Jon McCracken stood firm to ensure a clean sheet and a professional victory for the home side."
     }
   ]
 }

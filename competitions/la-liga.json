@@ -1,9 +1,213 @@
 {
   "competition": "La Liga",
   "competition_cover": "https://refooty.com/covers/la-liga.webp",
-  "total_matches": 11,
-  "Last update time": "01:30:12 AM 28-08-2026",
+  "total_matches": 12,
+  "Last update time": "03:30:17 AM 28-08-2026",
   "matches": [
+    {
+      "title": "Barcelona vs Athletic Bilbao",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/barcelona-v-athletic-bilbao-2026-08-27-t49h.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Aug 27, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/531.webp",
+          "name": "Athletic Club",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/529.webp",
+          "name": "Barcelona",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Barcelona_v_Athletic_Bilbao_2026_08_27.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Barcelona",
+          "player": "X. Espart",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Barcelona",
+          "player": "Raphinha",
+          "event_type": "Goal",
+          "assist": "Pedri",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Athletic Club",
+          "player": "G. Guruzeta",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Athletic Club",
+          "player": "J. Louis-Jean",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Barcelona",
+          "player": "F. López",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Barcelona_wins": "8",
+          "draws": "1",
+          "Athletic Club_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "07/03/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Athletic Club 0 - 1 Barcelona"
+          },
+          {
+            "date": "07/01/2026",
+            "competition": "Super Cup",
+            "teams_and_score": "Barcelona 5 - 0 Athletic Club"
+          },
+          {
+            "date": "22/11/2025",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Barcelona 4 - 0 Athletic Club"
+          },
+          {
+            "date": "25/05/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Athletic Club 0 - 3 Barcelona"
+          },
+          {
+            "date": "08/01/2025",
+            "competition": "Super Cup",
+            "teams_and_score": "Athletic Club 0 - 2 Barcelona"
+          },
+          {
+            "date": "24/08/2024",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Barcelona 2 - 1 Athletic Club"
+          },
+          {
+            "date": "03/03/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Athletic Club 0 - 0 Barcelona"
+          }
+        ],
+        "home_team_form": {
+          "team": "Barcelona",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Barcelona 2 - 0 Athletic Club",
+              "result": "W"
+            },
+            {
+              "date": "19/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Barcelona 2 - 1 Al Ahly",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Valencia 3 - 1 Barcelona",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Athletic Club",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Barcelona 2 - 0 Athletic Club",
+              "result": "L"
+            },
+            {
+              "date": "21/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Zaragoza 3 - 1 Athletic Club",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Barcelona": "10",
+          "Athletic Club": "0"
+        },
+        "shots_off_target": {
+          "Barcelona": "7",
+          "Athletic Club": "5"
+        },
+        "shots_blocked": {
+          "Barcelona": "5",
+          "Athletic Club": "0"
+        },
+        "corners": {
+          "Barcelona": "12",
+          "Athletic Club": "5"
+        },
+        "fouls": {
+          "Barcelona": "13",
+          "Athletic Club": "6"
+        },
+        "offsides": {
+          "Barcelona": "8",
+          "Athletic Club": "5"
+        },
+        "yellow_cards": {
+          "Barcelona": "1",
+          "Athletic Club": "2"
+        },
+        "goalkeeper_saves": {
+          "Barcelona": "0",
+          "Athletic Club": "8"
+        },
+        "crosses": {
+          "Barcelona": "8",
+          "Athletic Club": "2"
+        },
+        "ball_possession": {
+          "Barcelona": "70%",
+          "Athletic Club": "30%"
+        }
+      },
+      "description": "Watch Barcelona vs Athletic Club highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 27, 2026. On August 27, 2026 , Barcelona hosted Athletic Club in a highly anticipated La Liga fixture. Both teams entered the pitch with clear tactical identities, setting the stage for a compelling battle between Catalan flair and Basque resilience. Early Dominance and VAR Tension The opening stages were characterized by Barcelona ’s high line and aggressive pressing. Despite multiple offside calls against Raphinha and Anthony Gordon , the hosts remained patient. The first sign of disciplinary trouble arrived in the 27th minute when Xavi Espart received a yellow card for a tactical foul to halt a counter-attack. The atmosphere shifted in the 30th minute when a VAR check was initiated for a potential Barcelona goal. Although the play was eventually cleared, it signaled that the breakthrough was imminent as the home side began to suffocate the Athletic Club defense with relentless passing. Raphinha Finds the Breakthrough The deadlock was finally broken in the 37th minute. Pedri provided a sublime assist, finding Raphinha in a pocket of space. The Brazilian winger clinical finished with his left foot, tapping the ball home to give Barcelona a deserved lead. The goal reflected the statistical dominance of the hosts, who maintained a staggering 70% of the possession throughout the contest. In the second half, Athletic Club attempted to fight back, with Gorka Guruzeta receiving a booking for a dangerous challenge as the visitors tried to disrupt the flow. Substitutions followed, with Dani Olmo coming on to add more creative spark for the Catalans. Fermin Lopez Seals the Victory As the match entered its final ten minutes, a defensive lapse from the visitors put the result beyond doubt. A poor execution by Aymeric Laporte in the 82nd minute allowed Fermin Lopez to pounce on a loose ball. With an open goal at his mercy, Fermin calmly slotted the ball home with his right foot. Despite a late header from Yeray Alvarez that went wide in stoppage time, Barcelona never looked like relinquishing their control. The final whistle confirmed a 2-0 victory, highlighting a performance defined by tactical discipline and clinical finishing."
+    },
     {
       "title": "Real Madrid vs Real Sociedad",
       "thumbnail_url": "https://img.refooty.com/thumbnail/real-madrid-v-real-sociedad-2026-08-26-u3I4.webp",
@@ -1412,495 +1616,6 @@
       "description": "Watch Espanyol vs Real Madrid highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 22, 2026. A hard-fought battle in La Liga On August 22, 2026, Espanyol and Real Madrid met in a gripping La Liga encounter that tested the resolve of both sides. The atmosphere at the stadium was electric from the start, as the visitors looked to assert their dominance while the home side remained compact and dangerous on the counter-attack. Real Madrid drew first blood in the 9th minute when Jude Bellingham rose high to head home an Arda Guler delivery. Espanyol refused to be intimidated, however, and clawed their way back into the contest in the 30th minute. Alex Calatrava found the back of the net after a clever assist from Javi Hernandez , leveling the playing field and turning the match into a tactical stalemate for much of the following hour. Late drama secures the points As the game entered the final minutes, the intensity reached a boiling point. The deadlock was finally broken in the 90th minute when Carlos Espi capitalized on a golden opportunity set up by Kylian Mbappe , firing past the keeper to put the visitors back in front. Despite the late attempts by Espanyol to salvage a point—which saw Pere Milla and Pol Lozano booked for dissent—the clock ran out on the hosts. Real Madrid finished the match with 63% possession, successfully navigating the pressure to secure a hard-fought victory."
     },
     {
-      "title": "Athletic Bilbao vs Sevilla",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/athletic-bilbao-v-sevilla-2026-08-22-ne16.webp",
-      "competition": "La Liga",
-      "competition_cover": "https://refooty.com/covers/la-liga.webp",
-      "date": "Aug 22, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/536.webp",
-          "name": "Sevilla",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/531.webp",
-          "name": "Athletic Club",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Athletic_Bilbao_v_Sevilla_2026_08_22.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Athletic Club",
-          "player": "Y. Berchiche",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "16'",
-          "team": "Sevilla",
-          "player": "Oso",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Sevilla",
-          "player": "G. Peque",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Athletic Club",
-          "player": "G. Guruzeta",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Sevilla",
-          "player": "M. A. Sierra",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Sevilla",
-          "player": "J. Guridi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "50'",
-          "team": "Sevilla",
-          "player": "C. Ejuke",
-          "event_type": "Goal",
-          "assist": "I. Romero",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "57'",
-          "team": "Sevilla",
-          "player": "I. Romero",
-          "event_type": "Goal",
-          "assist": "Oso",
-          "score_update": "0 - 3"
-        },
-        {
-          "time": "70'",
-          "team": "Athletic Club",
-          "player": "A. Paredes",
-          "event_type": "Goal",
-          "assist": "Y. Álvarez",
-          "score_update": "1 - 3"
-        },
-        {
-          "time": "86'",
-          "team": "Athletic Club",
-          "player": "I. R. d. Galarreta",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Sevilla",
-          "player": "I. Romero",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Sevilla",
-          "player": "N. Guillen",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Athletic Club_wins": "2",
-          "draws": "0",
-          "Sevilla_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "24/01/2026",
-            "competition": "LaLiga 25/26",
-            "teams_and_score": "Sevilla 2 - 1 Athletic Club"
-          },
-          {
-            "date": "16/03/2025",
-            "competition": "LaLiga 24/25",
-            "teams_and_score": "Sevilla 0 - 1 Athletic Club"
-          },
-          {
-            "date": "19/05/2024",
-            "competition": "LaLiga 23/24",
-            "teams_and_score": "Athletic Club 2 - 0 Sevilla"
-          },
-          {
-            "date": "27/04/2023",
-            "competition": "LaLiga 22/23",
-            "teams_and_score": "Athletic Club 0 - 1 Sevilla"
-          },
-          {
-            "date": "22/05/2022",
-            "competition": "LaLiga 21/22",
-            "teams_and_score": "Sevilla 1 - 0 Athletic Club"
-          }
-        ],
-        "home_team_form": {
-          "team": "Athletic Club",
-          "form": [
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Athletic Club 1 - 3 Sevilla",
-              "result": "L"
-            },
-            {
-              "date": "21/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Zaragoza 3 - 1 Athletic Club",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Sevilla",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Athletic Club 1 - 3 Sevilla",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Bayer Leverkusen 2 - 1 Sevilla",
-              "result": "L"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Sevilla 2 - 1 AD Ceuta FC",
-              "result": "W"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Sevilla 1 - 0 Juventud Torremolinos CF",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Celta Vigo 1 - 0 Sevilla",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Athletic Club": "8",
-          "Sevilla": "4"
-        },
-        "shots_off_target": {
-          "Athletic Club": "7",
-          "Sevilla": "2"
-        },
-        "shots_blocked": {
-          "Athletic Club": "3",
-          "Sevilla": "1"
-        },
-        "corners": {
-          "Athletic Club": "10",
-          "Sevilla": "3"
-        },
-        "fouls": {
-          "Athletic Club": "11",
-          "Sevilla": "16"
-        },
-        "offsides": {
-          "Athletic Club": "0",
-          "Sevilla": "3"
-        },
-        "yellow_cards": {
-          "Athletic Club": "2",
-          "Sevilla": "5"
-        },
-        "red_cards": {
-          "Athletic Club": "1",
-          "Sevilla": "0"
-        },
-        "goalkeeper_saves": {
-          "Athletic Club": "2",
-          "Sevilla": "6"
-        },
-        "crosses": {
-          "Athletic Club": "7",
-          "Sevilla": "0"
-        },
-        "ball_possession": {
-          "Athletic Club": "65%",
-          "Sevilla": "35%"
-        }
-      },
-      "description": "Watch Athletic Club vs Sevilla highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The atmosphere was thick with anticipation as two of Spanish football's heavyweights squared off in a clash that promised tactical intrigue. Both sides looked to establish dominance early, but an unforeseen incident in the opening minutes would dictate the entire narrative of the evening. Early Dismissal Changes the Landscape The match, held on August 22, 2026 , saw its defining moment arrive as early as the 11th minute. Athletic Club defender Yuri Berchiche was shown a straight red card for a professional foul as the last man, leaving the hosts to battle with ten men for the vast majority of the contest. Sevilla wasted little time in exploiting their numerical advantage. In the 15th minute, following a defensive lapse by goalkeeper Unai Simon , Oso pounced to strike with his left foot and put the visitors ahead. Athletic attempted to rally through Gorka Guruzeta , but the first half ended with the visitors firmly in control despite the home side's spirited attempts to find an equalizer. Sevilla Surge and Athletic's Response The second half saw Sevilla turn their dominance into a commanding lead through clinical finishing. Just five minutes after the restart, substitute Chidera Ejuke produced a moment of magic with a delicate lob over the keeper, assisted by Isaac Romero . The roles nearly reversed in the 57th minute when Isaac Romero himself found the net, capitalizing on a blunder by Jesus Areso to make it 3-0. Facing a steep hill to climb, Athletic Club managed to pull one back in the 70th minute when Aitor Paredes reacted quickest to a loose ball in the box, firing home after a setup by Yeray Alvarez . Tense Finish at San Mamés As the clock ticked down, the match became increasingly physical, resulting in a flurry of yellow cards for players including Iñigo Ruiz de Galarreta , Isaac Romero , and Nico Guillén . Despite Athletic Club maintaining a surprising 65% of the ball possession while shorthanded, they struggled to create clear-cut opportunities against a disciplined Sevilla backline. The visitors managed the final stages professionally, clearing their lines through Juan Iglesias and ensuring no further drama unfolded. When the final whistle blew, the scoreboard reflected a clinical performance by the Andalusian side, who made the most of their early break to secure all three points."
-    },
-    {
-      "title": "Real Betis vs Real Sociedad",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/betis-v-real-sociedad-2026-08-21-WgPc.webp",
-      "competition": "La Liga",
-      "competition_cover": "https://refooty.com/covers/la-liga.webp",
-      "date": "Aug 21, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/548.webp",
-          "name": "Real Sociedad",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/543.webp",
-          "name": "Real Betis",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Betis_v_Real_Sociedad_2026_08_21.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "46'",
-          "team": "Real Sociedad",
-          "player": "S. Gómez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "49'",
-          "team": "Real Sociedad",
-          "player": "J. Aramburu",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Real Sociedad",
-          "player": "I. Zubeldia",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "63'",
-          "team": "Real Betis",
-          "player": "R. Riquelme",
-          "event_type": "Goal",
-          "assist": "C. Hernandez",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "80'",
-          "team": "Real Betis",
-          "player": "Natan",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90'",
-          "team": "Real Betis",
-          "player": "F. García",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Real Betis",
-          "player": "H. Bellerín",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Real Betis_wins": "1",
-          "draws": "3",
-          "Real Sociedad_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "09/05/2026",
-            "competition": "LaLiga 25/26",
-            "teams_and_score": "Real Sociedad 2 - 2 Real Betis"
-          },
-          {
-            "date": "16/02/2025",
-            "competition": "LaLiga 24/25",
-            "teams_and_score": "Real Betis 3 - 0 Real Sociedad"
-          },
-          {
-            "date": "19/05/2024",
-            "competition": "LaLiga 23/24",
-            "teams_and_score": "Real Betis 0 - 2 Real Sociedad"
-          },
-          {
-            "date": "05/08/2023",
-            "competition": "Club Friendlies 2023",
-            "teams_and_score": "Real Betis 0 - 1 Real Sociedad"
-          },
-          {
-            "date": "25/04/2023",
-            "competition": "LaLiga 22/23",
-            "teams_and_score": "Real Betis 0 - 0 Real Sociedad"
-          },
-          {
-            "date": "15/04/2022",
-            "competition": "LaLiga 21/22",
-            "teams_and_score": "Real Sociedad 0 - 0 Real Betis"
-          }
-        ],
-        "home_team_form": {
-          "team": "Real Betis",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "21/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Real Betis 1 - 0 Real Sociedad",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Inter 1 - 0 Real Betis",
-              "result": "L"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Arsenal 1 - 3 Real Betis",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Betis 1 - 0 Almeria",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Real Betis 2 - 1 Levante",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Real Sociedad",
-          "form": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "21/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Real Betis 1 - 0 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "FC Cologne 2 - 1 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "07/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Cologne 2 - 0 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "28/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Aston Villa 2 - 4 Real Sociedad",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Real Betis": "7",
-          "Real Sociedad": "3"
-        },
-        "shots_off_target": {
-          "Real Betis": "7",
-          "Real Sociedad": "3"
-        },
-        "shots_blocked": {
-          "Real Betis": "4",
-          "Real Sociedad": "3"
-        },
-        "corners": {
-          "Real Betis": "4",
-          "Real Sociedad": "5"
-        },
-        "fouls": {
-          "Real Betis": "9",
-          "Real Sociedad": "12"
-        },
-        "offsides": {
-          "Real Betis": "1",
-          "Real Sociedad": "3"
-        },
-        "yellow_cards": {
-          "Real Betis": "3",
-          "Real Sociedad": "3"
-        },
-        "goalkeeper_saves": {
-          "Real Betis": "3",
-          "Real Sociedad": "6"
-        },
-        "crosses": {
-          "Real Betis": "4",
-          "Real Sociedad": "1"
-        },
-        "ball_possession": {
-          "Real Betis": "48%",
-          "Real Sociedad": "52%"
-        }
-      },
-      "description": "Watch Real Betis vs Real Sociedad highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 21, 2026. A Tactical Standoff On August 21, 2026, Real Betis and Real Sociedad locked horns in a La Liga fixture defined by tactical discipline and persistent midfield battles. Throughout the match, both sides fought for every inch of grass, creating an atmosphere of high tension that persisted until the very final whistle. The Breakthrough After a stalemate in the first half, the game’s defining moment arrived in the 63rd minute. Juan Hernandez delivered a precise ball to Rodrigo Riquelme , who hammered a clinical left-footed volley into the goal. This strike tilted the momentum in favor of the hosts, forcing the visitors to chase the game. Real Sociedad came agonizingly close to equalizing when Luka Sucic struck the post, but the woodwork denied them, keeping Real Betis in the lead. Defending the Lead As the clock ticked toward the end, the match grew increasingly physical, leading the referee to issue a flurry of yellow cards to both sides. Real Betis demonstrated excellent game management, repelling late pressure and ensuring that the crucial first-half defensive efforts were not in vain. The hosts held firm to secure a hard-fought victory, showcasing both clinical finishing and gritty determination."
-    },
-    {
       "title": "Atletico Madrid vs Malaga",
       "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-madrid-v-malaga-2026-08-19-r1ow.webp",
       "competition": "La Liga",
@@ -2614,6 +2329,495 @@
         }
       },
       "description": "Watch Alaves vs Getafe highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The clash between Deportivo Alaves and Getafe on August 15, 2026 , promised to be a gritty La Liga encounter. Both teams started with high defensive discipline, making every inch of the pitch a battleground as they looked to establish dominance in the early stages of the season. The Turning Point before the Break The game’s complexion shifted dramatically in the 42nd minute. After a heavy challenge, Getafe player Kiko was sent off; the referee initially brandished a yellow card but upgraded it to red after a VAR review. The dismissal sparked frustration on the visitors' bench, leading to a yellow card for manager Pepe Bordalas as his side were forced to play the remainder of the match with ten men. Alaves Break the Resistance With a man advantage, Deportivo Alaves introduced Mariano Diaz and Mikel Rodriguez in the 57th minute to sharpen their attack. The breakthrough finally arrived in the 73rd minute when Nahuel Tenaglia powered a header into the net following a well-placed cross from Mariano Diaz . The goal rewarded the home side's persistent pressure and forced the visitors to chase the game under difficult circumstances. A Late Flourish of Goals The final minutes saw Alaves clinical in front of goal to secure the result. In the 91st minute, Mariano Diaz doubled the lead with a spectacular strike from outside the box, earning a yellow card for his shirt-removing celebration. The scoring wasn't finished there, as Mikel Rodriguez added a third in the 94th minute with a left-footed finish, once again assisted by Mariano Diaz , to cap off a professional performance."
+    },
+    {
+      "title": "Athletic Bilbao vs Sevilla",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/athletic-bilbao-v-sevilla-2026-08-22-ne16.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/536.webp",
+          "name": "Sevilla",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/531.webp",
+          "name": "Athletic Club",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Athletic_Bilbao_v_Sevilla_2026_08_22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Athletic Club",
+          "player": "Y. Berchiche",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "16'",
+          "team": "Sevilla",
+          "player": "Oso",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Sevilla",
+          "player": "G. Peque",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Athletic Club",
+          "player": "G. Guruzeta",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Sevilla",
+          "player": "M. A. Sierra",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Sevilla",
+          "player": "J. Guridi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "50'",
+          "team": "Sevilla",
+          "player": "C. Ejuke",
+          "event_type": "Goal",
+          "assist": "I. Romero",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "57'",
+          "team": "Sevilla",
+          "player": "I. Romero",
+          "event_type": "Goal",
+          "assist": "Oso",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "70'",
+          "team": "Athletic Club",
+          "player": "A. Paredes",
+          "event_type": "Goal",
+          "assist": "Y. Álvarez",
+          "score_update": "1 - 3"
+        },
+        {
+          "time": "86'",
+          "team": "Athletic Club",
+          "player": "I. R. d. Galarreta",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Sevilla",
+          "player": "I. Romero",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Sevilla",
+          "player": "N. Guillen",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Athletic Club_wins": "2",
+          "draws": "0",
+          "Sevilla_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "24/01/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Sevilla 2 - 1 Athletic Club"
+          },
+          {
+            "date": "16/03/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Sevilla 0 - 1 Athletic Club"
+          },
+          {
+            "date": "19/05/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Athletic Club 2 - 0 Sevilla"
+          },
+          {
+            "date": "27/04/2023",
+            "competition": "LaLiga 22/23",
+            "teams_and_score": "Athletic Club 0 - 1 Sevilla"
+          },
+          {
+            "date": "22/05/2022",
+            "competition": "LaLiga 21/22",
+            "teams_and_score": "Sevilla 1 - 0 Athletic Club"
+          }
+        ],
+        "home_team_form": {
+          "team": "Athletic Club",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Athletic Club 1 - 3 Sevilla",
+              "result": "L"
+            },
+            {
+              "date": "21/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Zaragoza 3 - 1 Athletic Club",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sevilla",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Athletic Club 1 - 3 Sevilla",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bayer Leverkusen 2 - 1 Sevilla",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sevilla 2 - 1 AD Ceuta FC",
+              "result": "W"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sevilla 1 - 0 Juventud Torremolinos CF",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Celta Vigo 1 - 0 Sevilla",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Athletic Club": "8",
+          "Sevilla": "4"
+        },
+        "shots_off_target": {
+          "Athletic Club": "7",
+          "Sevilla": "2"
+        },
+        "shots_blocked": {
+          "Athletic Club": "3",
+          "Sevilla": "1"
+        },
+        "corners": {
+          "Athletic Club": "10",
+          "Sevilla": "3"
+        },
+        "fouls": {
+          "Athletic Club": "11",
+          "Sevilla": "16"
+        },
+        "offsides": {
+          "Athletic Club": "0",
+          "Sevilla": "3"
+        },
+        "yellow_cards": {
+          "Athletic Club": "2",
+          "Sevilla": "5"
+        },
+        "red_cards": {
+          "Athletic Club": "1",
+          "Sevilla": "0"
+        },
+        "goalkeeper_saves": {
+          "Athletic Club": "2",
+          "Sevilla": "6"
+        },
+        "crosses": {
+          "Athletic Club": "7",
+          "Sevilla": "0"
+        },
+        "ball_possession": {
+          "Athletic Club": "65%",
+          "Sevilla": "35%"
+        }
+      },
+      "description": "Watch Athletic Club vs Sevilla highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The atmosphere was thick with anticipation as two of Spanish football's heavyweights squared off in a clash that promised tactical intrigue. Both sides looked to establish dominance early, but an unforeseen incident in the opening minutes would dictate the entire narrative of the evening. Early Dismissal Changes the Landscape The match, held on August 22, 2026 , saw its defining moment arrive as early as the 11th minute. Athletic Club defender Yuri Berchiche was shown a straight red card for a professional foul as the last man, leaving the hosts to battle with ten men for the vast majority of the contest. Sevilla wasted little time in exploiting their numerical advantage. In the 15th minute, following a defensive lapse by goalkeeper Unai Simon , Oso pounced to strike with his left foot and put the visitors ahead. Athletic attempted to rally through Gorka Guruzeta , but the first half ended with the visitors firmly in control despite the home side's spirited attempts to find an equalizer. Sevilla Surge and Athletic's Response The second half saw Sevilla turn their dominance into a commanding lead through clinical finishing. Just five minutes after the restart, substitute Chidera Ejuke produced a moment of magic with a delicate lob over the keeper, assisted by Isaac Romero . The roles nearly reversed in the 57th minute when Isaac Romero himself found the net, capitalizing on a blunder by Jesus Areso to make it 3-0. Facing a steep hill to climb, Athletic Club managed to pull one back in the 70th minute when Aitor Paredes reacted quickest to a loose ball in the box, firing home after a setup by Yeray Alvarez . Tense Finish at San Mamés As the clock ticked down, the match became increasingly physical, resulting in a flurry of yellow cards for players including Iñigo Ruiz de Galarreta , Isaac Romero , and Nico Guillén . Despite Athletic Club maintaining a surprising 65% of the ball possession while shorthanded, they struggled to create clear-cut opportunities against a disciplined Sevilla backline. The visitors managed the final stages professionally, clearing their lines through Juan Iglesias and ensuring no further drama unfolded. When the final whistle blew, the scoreboard reflected a clinical performance by the Andalusian side, who made the most of their early break to secure all three points."
+    },
+    {
+      "title": "Real Betis vs Real Sociedad",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/betis-v-real-sociedad-2026-08-21-WgPc.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Aug 21, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/548.webp",
+          "name": "Real Sociedad",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/543.webp",
+          "name": "Real Betis",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Betis_v_Real_Sociedad_2026_08_21.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Real Sociedad",
+          "player": "S. Gómez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "49'",
+          "team": "Real Sociedad",
+          "player": "J. Aramburu",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Real Sociedad",
+          "player": "I. Zubeldia",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "63'",
+          "team": "Real Betis",
+          "player": "R. Riquelme",
+          "event_type": "Goal",
+          "assist": "C. Hernandez",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "80'",
+          "team": "Real Betis",
+          "player": "Natan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90'",
+          "team": "Real Betis",
+          "player": "F. García",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Real Betis",
+          "player": "H. Bellerín",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Real Betis_wins": "1",
+          "draws": "3",
+          "Real Sociedad_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "09/05/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Real Sociedad 2 - 2 Real Betis"
+          },
+          {
+            "date": "16/02/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Real Betis 3 - 0 Real Sociedad"
+          },
+          {
+            "date": "19/05/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Real Betis 0 - 2 Real Sociedad"
+          },
+          {
+            "date": "05/08/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Real Betis 0 - 1 Real Sociedad"
+          },
+          {
+            "date": "25/04/2023",
+            "competition": "LaLiga 22/23",
+            "teams_and_score": "Real Betis 0 - 0 Real Sociedad"
+          },
+          {
+            "date": "15/04/2022",
+            "competition": "LaLiga 21/22",
+            "teams_and_score": "Real Sociedad 0 - 0 Real Betis"
+          }
+        ],
+        "home_team_form": {
+          "team": "Real Betis",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "21/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Betis 1 - 0 Real Sociedad",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Inter 1 - 0 Real Betis",
+              "result": "L"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 3 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Betis 1 - 0 Almeria",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Real Betis 2 - 1 Levante",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Real Sociedad",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "21/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Betis 1 - 0 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "FC Cologne 2 - 1 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Cologne 2 - 0 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Aston Villa 2 - 4 Real Sociedad",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Real Betis": "7",
+          "Real Sociedad": "3"
+        },
+        "shots_off_target": {
+          "Real Betis": "7",
+          "Real Sociedad": "3"
+        },
+        "shots_blocked": {
+          "Real Betis": "4",
+          "Real Sociedad": "3"
+        },
+        "corners": {
+          "Real Betis": "4",
+          "Real Sociedad": "5"
+        },
+        "fouls": {
+          "Real Betis": "9",
+          "Real Sociedad": "12"
+        },
+        "offsides": {
+          "Real Betis": "1",
+          "Real Sociedad": "3"
+        },
+        "yellow_cards": {
+          "Real Betis": "3",
+          "Real Sociedad": "3"
+        },
+        "goalkeeper_saves": {
+          "Real Betis": "3",
+          "Real Sociedad": "6"
+        },
+        "crosses": {
+          "Real Betis": "4",
+          "Real Sociedad": "1"
+        },
+        "ball_possession": {
+          "Real Betis": "48%",
+          "Real Sociedad": "52%"
+        }
+      },
+      "description": "Watch Real Betis vs Real Sociedad highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 21, 2026. A Tactical Standoff On August 21, 2026, Real Betis and Real Sociedad locked horns in a La Liga fixture defined by tactical discipline and persistent midfield battles. Throughout the match, both sides fought for every inch of grass, creating an atmosphere of high tension that persisted until the very final whistle. The Breakthrough After a stalemate in the first half, the game’s defining moment arrived in the 63rd minute. Juan Hernandez delivered a precise ball to Rodrigo Riquelme , who hammered a clinical left-footed volley into the goal. This strike tilted the momentum in favor of the hosts, forcing the visitors to chase the game. Real Sociedad came agonizingly close to equalizing when Luka Sucic struck the post, but the woodwork denied them, keeping Real Betis in the lead. Defending the Lead As the clock ticked toward the end, the match grew increasingly physical, leading the referee to issue a flurry of yellow cards to both sides. Real Betis demonstrated excellent game management, repelling late pressure and ensuring that the crucial first-half defensive efforts were not in vain. The hosts held firm to secure a hard-fought victory, showcasing both clinical finishing and gritty determination."
     }
   ]
 }

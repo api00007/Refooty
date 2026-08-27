@@ -3,8 +3,426 @@
   "AUTHOR": "iVan_FluX",
   "CONTACT (OWNER)": "https://t.me/iVan_flux",
   "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-  "Last update time": "01:30:11 AM 28-08-2026",
+  "Last update time": "03:30:16 AM 28-08-2026",
   "matches": [
+    {
+      "title": "Barcelona vs Athletic Bilbao",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/barcelona-v-athletic-bilbao-2026-08-27-t49h.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Aug 27, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/531.webp",
+          "name": "Athletic Club",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/529.webp",
+          "name": "Barcelona",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Barcelona_v_Athletic_Bilbao_2026_08_27.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Barcelona",
+          "player": "X. Espart",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Barcelona",
+          "player": "Raphinha",
+          "event_type": "Goal",
+          "assist": "Pedri",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Athletic Club",
+          "player": "G. Guruzeta",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Athletic Club",
+          "player": "J. Louis-Jean",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Barcelona",
+          "player": "F. López",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Barcelona_wins": "8",
+          "draws": "1",
+          "Athletic Club_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "07/03/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Athletic Club 0 - 1 Barcelona"
+          },
+          {
+            "date": "07/01/2026",
+            "competition": "Super Cup",
+            "teams_and_score": "Barcelona 5 - 0 Athletic Club"
+          },
+          {
+            "date": "22/11/2025",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Barcelona 4 - 0 Athletic Club"
+          },
+          {
+            "date": "25/05/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Athletic Club 0 - 3 Barcelona"
+          },
+          {
+            "date": "08/01/2025",
+            "competition": "Super Cup",
+            "teams_and_score": "Athletic Club 0 - 2 Barcelona"
+          },
+          {
+            "date": "24/08/2024",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Barcelona 2 - 1 Athletic Club"
+          },
+          {
+            "date": "03/03/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Athletic Club 0 - 0 Barcelona"
+          }
+        ],
+        "home_team_form": {
+          "team": "Barcelona",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Barcelona 2 - 0 Athletic Club",
+              "result": "W"
+            },
+            {
+              "date": "19/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Barcelona 2 - 1 Al Ahly",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Valencia 3 - 1 Barcelona",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Athletic Club",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Barcelona 2 - 0 Athletic Club",
+              "result": "L"
+            },
+            {
+              "date": "21/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Zaragoza 3 - 1 Athletic Club",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Barcelona": "10",
+          "Athletic Club": "0"
+        },
+        "shots_off_target": {
+          "Barcelona": "7",
+          "Athletic Club": "5"
+        },
+        "shots_blocked": {
+          "Barcelona": "5",
+          "Athletic Club": "0"
+        },
+        "corners": {
+          "Barcelona": "12",
+          "Athletic Club": "5"
+        },
+        "fouls": {
+          "Barcelona": "13",
+          "Athletic Club": "6"
+        },
+        "offsides": {
+          "Barcelona": "8",
+          "Athletic Club": "5"
+        },
+        "yellow_cards": {
+          "Barcelona": "1",
+          "Athletic Club": "2"
+        },
+        "goalkeeper_saves": {
+          "Barcelona": "0",
+          "Athletic Club": "8"
+        },
+        "crosses": {
+          "Barcelona": "8",
+          "Athletic Club": "2"
+        },
+        "ball_possession": {
+          "Barcelona": "70%",
+          "Athletic Club": "30%"
+        }
+      },
+      "description": "Watch Barcelona vs Athletic Club highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 27, 2026. On August 27, 2026 , Barcelona hosted Athletic Club in a highly anticipated La Liga fixture. Both teams entered the pitch with clear tactical identities, setting the stage for a compelling battle between Catalan flair and Basque resilience. Early Dominance and VAR Tension The opening stages were characterized by Barcelona ’s high line and aggressive pressing. Despite multiple offside calls against Raphinha and Anthony Gordon , the hosts remained patient. The first sign of disciplinary trouble arrived in the 27th minute when Xavi Espart received a yellow card for a tactical foul to halt a counter-attack. The atmosphere shifted in the 30th minute when a VAR check was initiated for a potential Barcelona goal. Although the play was eventually cleared, it signaled that the breakthrough was imminent as the home side began to suffocate the Athletic Club defense with relentless passing. Raphinha Finds the Breakthrough The deadlock was finally broken in the 37th minute. Pedri provided a sublime assist, finding Raphinha in a pocket of space. The Brazilian winger clinical finished with his left foot, tapping the ball home to give Barcelona a deserved lead. The goal reflected the statistical dominance of the hosts, who maintained a staggering 70% of the possession throughout the contest. In the second half, Athletic Club attempted to fight back, with Gorka Guruzeta receiving a booking for a dangerous challenge as the visitors tried to disrupt the flow. Substitutions followed, with Dani Olmo coming on to add more creative spark for the Catalans. Fermin Lopez Seals the Victory As the match entered its final ten minutes, a defensive lapse from the visitors put the result beyond doubt. A poor execution by Aymeric Laporte in the 82nd minute allowed Fermin Lopez to pounce on a loose ball. With an open goal at his mercy, Fermin calmly slotted the ball home with his right foot. Despite a late header from Yeray Alvarez that went wide in stoppage time, Barcelona never looked like relinquishing their control. The final whistle confirmed a 2-0 victory, highlighting a performance defined by tactical discipline and clinical finishing."
+    },
+    {
+      "title": "Chelsea FC vs Luton",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-v-luton-2026-08-27-5jDs.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 27, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1359.webp",
+          "name": "Luton",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/49.webp",
+          "name": "Chelsea",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Chelsea_v_Luton_2026_08_27.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Chelsea",
+          "player": "D. Welbeck",
+          "event_type": "Goal",
+          "assist": "M. Gusto",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Luton",
+          "player": "J. Johnson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Chelsea",
+          "player": "H. Odoffin",
+          "event_type": "Goal"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Chelsea_wins": "4",
+          "draws": "1",
+          "Luton_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "30/12/2023",
+            "competition": "English Premier League 2023/2024",
+            "teams_and_score": "Luton Town 2 - 3 Chelsea"
+          },
+          {
+            "date": "02/03/2022",
+            "competition": "English FA Cup 2021/2022",
+            "teams_and_score": "Luton Town 2 - 3 Chelsea"
+          },
+          {
+            "date": "24/01/2021",
+            "competition": "English FA Cup 2020/2021",
+            "teams_and_score": "Chelsea 3 - 1 Luton Town"
+          },
+          {
+            "date": "28/12/1991",
+            "competition": "English Premier League 1991/1992",
+            "teams_and_score": "Luton Town 2 - 0 Chelsea"
+          },
+          {
+            "date": "06/04/1991",
+            "competition": "English Premier League 1990/1991",
+            "teams_and_score": "Chelsea 3 - 3 Luton Town"
+          },
+          {
+            "date": "07/04/1990",
+            "competition": "English Premier League 1989/1990",
+            "teams_and_score": "Chelsea 1 - 0 Luton Town"
+          }
+        ],
+        "home_team_form": {
+          "team": "Chelsea",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Chelsea 2 - 0 Luton Town",
+              "result": "W"
+            },
+            {
+              "date": "24/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Fulham 2 - 3 Chelsea",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Johor Darul Ta'zim FC 3 - 3 Chelsea",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Sunderland 2 - 1 Chelsea",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Luton",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Chelsea 2 - 0 Luton Town",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Luton Town 2 - 2 Notts County",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Gillingham 0 - 3 Luton Town",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Luton Town 0 - 1 Go Ahead Eagles",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Bolton Wanderers 2 - 3 Luton Town",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Chelsea": "7",
+          "Luton": "1"
+        },
+        "shots_off_target": {
+          "Chelsea": "11",
+          "Luton": "5"
+        },
+        "shots_blocked": {
+          "Chelsea": "8",
+          "Luton": "1"
+        },
+        "corners": {
+          "Chelsea": "9",
+          "Luton": "3"
+        },
+        "fouls": {
+          "Chelsea": "11",
+          "Luton": "6"
+        },
+        "offsides": {
+          "Chelsea": "2",
+          "Luton": "0"
+        },
+        "yellow_cards": {
+          "Chelsea": "0",
+          "Luton": "1"
+        },
+        "goalkeeper_saves": {
+          "Chelsea": "1",
+          "Luton": "6"
+        },
+        "crosses": {
+          "Chelsea": "6",
+          "Luton": "5"
+        },
+        "ball_possession": {
+          "Chelsea": "66%",
+          "Luton": "34%"
+        }
+      },
+      "description": "Watch Chelsea vs Luton highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 27, 2026. Under the lights at Stamford Bridge , Chelsea faced a determined Luton Town side in a cup tie that tested the patience and precision of the home favorites. Both sides sought a path to the next round, with the atmosphere buzzing as the first whistle blew. Frustration for the Blues in the Opening Half On August 27, 2026 , Chelsea looked to impose their will early on, dominating possession and carving out several high-quality openings. Cole Palmer was at the heart of everything, testing Luton Town goalkeeper Josh Keeley with multiple efforts in the first 15 minutes. Despite the creative spark from Estêvão and the constant pressure, the visitors held firm, relying on Keeley's sharp reflexes to keep the scores level. The woodwork proved to be the enemy for the hosts as the first half drew to a close. Morgan Rogers saw his powerful strike rattle the bar in the 44th minute after excellent work from Estêvão . While Luton had a rare chance through Hakeem Odoffin , whose header was saved by Mike Penders , the match remained goalless at the interval despite Chelsea's relentless offensive display. Welbeck Breaks the Deadlock as Chelsea Advance The breakthrough finally arrived five minutes into the second half. Malo Gusto delivered a pinpoint cross into the box, and Danny Welbeck rose highest to guide a header into the bottom left corner. The goal shifted the momentum further in Chelsea's favor, though they were denied a second shortly after when Cole Palmer's long-range effort struck the crossbar in the 64th minute. Chelsea eventually doubled their lead in the 79th minute under fortuitous circumstances when Hakeem Odoffin inadvertently turned the ball into his own net following a period of sustained pressure. Late drama saw Jamie Gittens hit the post and Luton's George Johnston miss a close-range header in stoppage time, but the damage was done. Chelsea secured their victory and safe passage to the next round of the Carabao Cup ."
+    },
     {
       "title": "Newcastle United vs West Bromwich Albion",
       "thumbnail_url": "https://img.refooty.com/thumbnail/newcastle-v-west-brom-2026-08-26-fFiP.webp",
@@ -10911,473 +11329,11 @@
         }
       },
       "description": "Watch Angers vs Lille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on August 23, 2026. The Ligue 1 clash between Angers and LOSC Lille on August 23, 2026 , delivered a fascinating contest of tactical discipline and late-game drama. Both sides entered the pitch with high ambitions, resulting in a match where clinical finishing met a resilient defensive stand. Lille's First-Half Blitz Lille asserted their dominance early in the match, finding the breakthrough in the 11th minute. After a precise key pass from Nabil Bentaleb , the legendary Olivier Giroud showcased his enduring class by striking a powerful left-footed shot from outside the box that left the keeper helpless. Angers attempted to respond through Jacques Ekomie , but his long-range effort failed to test the goal. The visitors doubled their lead in the 31st minute when Tiago Santos reacted quickest to a loose ball in the penalty area, smashing it home with his right foot. Angers didn't sit back, however; Jim Allevinah nearly pulled one back with an audacious bicycle kick that went just wide, while Anthony Bermont saw a dangerous header blocked by a compact Lille defense as the first half drew to a close. VAR Drama and Late Pressure The second half saw a series of tactical changes as both managers looked to freshen up their ranks. Lille thought they had put the game beyond reach in the 79th minute when Felix Correia found the net, but a lengthy VAR check ruled the goal out for offside. This reprieve energized Angers , who dominated possession (57%) and pushed forward relentlessly in the closing stages, led by the set-piece delivery of Branco van den Boomen . In a frantic five minutes of stoppage time, Angers created multiple opportunities to change the narrative. Prosper Peter and Usman Simbakoli both saw headers fly agonisingly wide, while Amine Sbai had two efforts heroically blocked by Nathan Ngoy and Felix Correia . Despite the late siege, Lille held firm to secure all three points, relying on their early efficiency to weather the storm."
-    },
-    {
-      "title": "Atalanta vs Sassuolo",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/atalanta-v-sassuolo-2026-08-23-jLD2.webp",
-      "competition": "Serie A",
-      "competition_cover": "https://refooty.com/covers/serie-a.webp",
-      "date": "Aug 23, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/488.webp",
-          "name": "Sassuolo",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/499.webp",
-          "name": "Atalanta",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Atalanta_v_Sassuolo_2026_08_23.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Atalanta",
-          "player": "G. Raspadori",
-          "event_type": "Goal",
-          "assist": "G. Gaetano",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Sassuolo",
-          "player": "C. Odenthal",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Atalanta",
-          "player": "N. Krstovic",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Atalanta_wins": "3",
-          "draws": "1",
-          "Sassuolo_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "01/03/2026",
-            "competition": "Serie A 25/26",
-            "teams_and_score": "Sassuolo 2 - 1 Atalanta"
-          },
-          {
-            "date": "17/02/2024",
-            "competition": "Serie A 23/24",
-            "teams_and_score": "Atalanta 3 - 0 Sassuolo"
-          },
-          {
-            "date": "03/01/2024",
-            "competition": "Coppa Italia: Round of 16 23/24",
-            "teams_and_score": "Atalanta 3 - 1 Sassuolo"
-          },
-          {
-            "date": "20/08/2023",
-            "competition": "Serie A 23/24",
-            "teams_and_score": "Sassuolo 0 - 2 Atalanta"
-          },
-          {
-            "date": "04/02/2023",
-            "competition": "Serie A 22/23",
-            "teams_and_score": "Sassuolo 1 - 0 Atalanta"
-          },
-          {
-            "date": "10/04/2022",
-            "competition": "Serie A 21/22",
-            "teams_and_score": "Sassuolo 2 - 1 Atalanta"
-          },
-          {
-            "date": "02/05/2021",
-            "competition": "Serie A 20/21",
-            "teams_and_score": "Sassuolo 1 - 1 Atalanta"
-          }
-        ],
-        "home_team_form": {
-          "team": "Atalanta",
-          "form": [
-            "W",
-            "D",
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Atalanta 2 - 1 Sassuolo",
-              "result": "W"
-            },
-            {
-              "date": "20/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Atalanta 0 - 0 Hapoel Tel Aviv",
-              "result": "D"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Atalanta 1 - 0 Athletic Club",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Feyenoord 2 - 1 Atalanta",
-              "result": "L"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Atalanta 3 - 2 S.S. Arezzo",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Sassuolo",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Atalanta 2 - 1 Sassuolo",
-              "result": "L"
-            },
-            {
-              "date": "17/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Sassuolo 3 - 0 Cesena FC",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Augsburg 3 - 2 Sassuolo",
-              "result": "L"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Parma 1 - 0 Sassuolo",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Atalanta": "7",
-          "Sassuolo": "8"
-        },
-        "shots_off_target": {
-          "Atalanta": "4",
-          "Sassuolo": "9"
-        },
-        "shots_blocked": {
-          "Atalanta": "3",
-          "Sassuolo": "5"
-        },
-        "corners": {
-          "Atalanta": "4",
-          "Sassuolo": "4"
-        },
-        "fouls": {
-          "Atalanta": "9",
-          "Sassuolo": "10"
-        },
-        "offsides": {
-          "Atalanta": "0",
-          "Sassuolo": "1"
-        },
-        "goalkeeper_saves": {
-          "Atalanta": "7",
-          "Sassuolo": "5"
-        },
-        "crosses": {
-          "Atalanta": "2",
-          "Sassuolo": "4"
-        },
-        "ball_possession": {
-          "Atalanta": "56%",
-          "Sassuolo": "44%"
-        }
-      },
-      "description": "Watch Atalanta vs Sassuolo highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 23, 2026. The stage was set for a classic encounter as two determined sides faced off in a match where tactical discipline and individual errors would dictate the outcome. Both teams displayed high energy from the kickoff, signaling a contest that would be decided by the narrowest of margins. Atalanta Strike Early On August 23, 2026 , Atalanta asserted their dominance early in this Serie A fixture. It took only six minutes for the deadlock to be broken when Gianluca Gaetano provided a brilliant assist for Giacomo Raspadori . The forward made no mistake, firing a clinical left-footed shot into the net to give the home side a 1-0 lead. This early breakthrough allowed Atalanta to control the tempo for much of the first half, retaining 56% of the ball. Sassuolo struggled to find their rhythm in the opening 45 minutes. Despite several set-piece opportunities delivered by Armand Lauriente , the visitors could not test the goalkeeper effectively. Atalanta headed into the halftime break with a slender but well-deserved lead, looking comfortable in their defensive shape. A Seesaw Second Half The momentum shifted ten minutes into the second half. Following a defensive lapse by Odilon Kossounou , Sassuolo found a lifeline. Cas Odenthal rose highest to meet the ball from close range, powering a header into the net in the 55th minute to equalize. The goal breathed new life into the visitors, but their joy would be short-lived as Atalanta responded with a triple substitution to regain control. In the 65th minute, another defensive blunder, this time by Sassuolo’s Tommaso Macchioni , proved fatal. Substitute Nikola Krstovic seized the opportunity, striking the ball with his right foot. A lucky deflection took the ball past the goalkeeper and into the net, restoring Atalanta's lead and punishing the visitors' inconsistency at the back. Late Scares and Final Whistle The closing stages were frantic as Sassuolo pushed for a second equalizer. Simone Cinquegrano had a glorious chance in the 94th minute, but he failed to connect cleanly with a volley, sending the ball wide. At the other end, Giorgio Scalvini saw a header go agonizingly wide as Atalanta searched for a cushion. Ultimately, the brilliance of Marco Carnesecchi in goal ensured that Atalanta walked away with the 2-1 victory, surviving a late onslaught to secure all three points."
-    },
-    {
-      "title": "Trabzonspor vs Istanbul Basaksehir",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/trabzonspor-vs-istanbul-basaksehir-2026-08-23-CoJS.webp",
-      "competition": "Süper Lig",
-      "competition_cover": "https://refooty.com/covers/super-lig.webp",
-      "date": "Aug 23, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/564.webp",
-          "name": "Istanbul Basaksehir",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/998.webp",
-          "name": "Trabzonspor",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/trabzonspor-vs-istanbul-basaksehir-2026-08-23.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Trabzonspor",
-          "player": "M. Salah",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Istanbul Basaksehir",
-          "player": "E. Shomurodov",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Istanbul Basaksehir",
-          "player": "O. Kemen",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Istanbul Basaksehir",
-          "player": "B. Yıldırım",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Trabzonspor",
-          "player": "M. Salah",
-          "event_type": "Goal",
-          "assist": "E. Muçi",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Istanbul Basaksehir",
-          "player": "D. Selke",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Trabzonspor",
-          "player": "M. Salah",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Trabzonspor",
-          "player": "C. G. Nwaiwu",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Trabzonspor",
-          "player": "S. Savic",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Istanbul Basaksehir",
-          "player": "O. Ergun",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Trabzonspor_wins": "5",
-          "draws": "2",
-          "Istanbul Basaksehir_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "19/04/2026",
-            "competition": "Süper Lig",
-            "teams_and_score": "Trabzonspor 1 - 1 İstanbul Başakşehir"
-          },
-          {
-            "date": "03/03/2026",
-            "competition": "Turkiye Cup: Group A",
-            "teams_and_score": "İstanbul Başakşehir 2 - 4 Trabzonspor"
-          },
-          {
-            "date": "24/11/2025",
-            "competition": "Süper Lig",
-            "teams_and_score": "İstanbul Başakşehir 3 - 4 Trabzonspor"
-          },
-          {
-            "date": "15/03/2025",
-            "competition": "Süper Lig",
-            "teams_and_score": "İstanbul Başakşehir 0 - 3 Trabzonspor"
-          },
-          {
-            "date": "18/05/2024",
-            "competition": "Süper Lig 23/24",
-            "teams_and_score": "İstanbul Başakşehir 0 - 1 Trabzonspor"
-          },
-          {
-            "date": "28/02/2024",
-            "competition": "Turkiye Cup: Quarter-Finals 23/24",
-            "teams_and_score": "Trabzonspor 1 - 0 İstanbul Başakşehir"
-          },
-          {
-            "date": "23/12/2023",
-            "competition": "Süper Lig 23/24",
-            "teams_and_score": "Trabzonspor 1 - 1 İstanbul Başakşehir"
-          }
-        ],
-        "home_team_form": {
-          "team": "Trabzonspor",
-          "form": [
-            "W",
-            "L",
-            "D",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/08/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Trabzonspor 2 - 1 İstanbul Başakşehir",
-              "result": "W"
-            },
-            {
-              "date": "20/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Trabzonspor 0 - 1 Ferencvaros",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Kasımpaşa 1 - 1 Trabzonspor",
-              "result": "D"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Goztepe 2 - 1 Trabzonspor",
-              "result": "L"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Trabzonspor 1 - 0 Udinese",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Istanbul Basaksehir",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/08/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Trabzonspor 2 - 1 İstanbul Başakşehir",
-              "result": "L"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "FC Inter Turku 2 - 0 İstanbul Başakşehir",
-              "result": "L"
-            },
-            {
-              "date": "15/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Salzburg 1 - 2 İstanbul Başakşehir",
-              "result": "W"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Gaziantep FK 1 - 2 İstanbul Başakşehir",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Trabzonspor": "8",
-          "Istanbul Basaksehir": "4"
-        },
-        "shots_off_target": {
-          "Trabzonspor": "7",
-          "Istanbul Basaksehir": "4"
-        },
-        "shots_blocked": {
-          "Trabzonspor": "4",
-          "Istanbul Basaksehir": "3"
-        },
-        "corners": {
-          "Trabzonspor": "5",
-          "Istanbul Basaksehir": "1"
-        },
-        "fouls": {
-          "Trabzonspor": "10",
-          "Istanbul Basaksehir": "0"
-        },
-        "offsides": {
-          "Trabzonspor": "3",
-          "Istanbul Basaksehir": "0"
-        },
-        "yellow_cards": {
-          "Trabzonspor": "3",
-          "Istanbul Basaksehir": "4"
-        },
-        "goalkeeper_saves": {
-          "Trabzonspor": "3",
-          "Istanbul Basaksehir": "6"
-        },
-        "ball_possession": {
-          "Trabzonspor": "53%",
-          "Istanbul Basaksehir": "0%"
-        }
-      },
-      "description": "Watch Trabzonspor vs Istanbul Basaksehir highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on August 23, 2026. The Süper Lig landscape shifted on August 23, 2026 , as Trabzonspor and Istanbul Basaksehir locked horns in a clash of titans. Both teams entered the pitch with high ambitions, setting the stage for a dramatic encounter where every tackle and pass carried immense weight. Explosive Opening and Quick Response The match ignited with frantic intensity, and it didn't take long for the deadlock to be broken. In the 10th minute, superstar Mohamed Salah showcased his clinical finishing by putting Trabzonspor ahead, sending the home crowd into a frenzy. However, the celebrations were short-lived as Istanbul Basaksehir responded with grit. By the 19th minute, a penalty was awarded to the visitors, and Eldor Shomurodov stepped up to calmly slot the ball home, restoring parity. The remainder of the first half transformed into a physical battle in the middle of the park. Yellow cards were issued to Olivier Kemen and Bertug Yildirim , reflecting the high stakes and tactical friction of the contest. Both sides looked to seize control before the interval, but defenses remained resolute as the referee blew for half-time following several minutes of stoppage time. Salah's Brilliance and a Tense Finish Trabzonspor emerged for the second half with renewed aggression and found immediate success in the 48th minute. Ernest Muci provided a pinpoint assist for Mohamed Salah , who netted his second goal of the match to restore the lead for the hosts. This decisive blow forced Istanbul Basaksehir into a series of tactical changes, introducing players like Davie Selke and Michal Karbownik to chase an equalizer. As the clock ticked down, the match grew increasingly feisty with a flurry of bookings. Mohamed Salah , Chibuike Nwaiwu , Onur Ergun , and Stefan Savic all saw yellow as the pressure mounted. Despite late surges from the away side and strategic substitutions by both managers, Trabzonspor held firm. After six minutes of injury time, the final whistle confirmed a hard-earned victory in a pulsating encounter that lived up to its billing."
     }
   ],
   "hasMore": true,
   "currentCount": 50,
-  "totalCount": 941,
+  "totalCount": 943,
   "currentPage": 1,
   "lastPage": 19
 }
