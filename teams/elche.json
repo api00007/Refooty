@@ -1,9 +1,221 @@
 {
   "team": "Elche",
   "team_logo": "https://img.refooty.com/logo/teams/797.webp",
-  "total_matches": 1,
-  "Last update time": "03:20:38 AM 29-08-2026",
+  "total_matches": 2,
+  "Last update time": "11:00:26 PM 29-08-2026",
   "matches": [
+    {
+      "title": "Racing vs Elche",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/racing-v-elche-2026-08-28-tyue.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Aug 28, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/797.webp",
+          "name": "Elche",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/9799.webp",
+          "name": "Marino",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Racing_v_Elche_2026_08_28.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Marino",
+          "player": "Y. Zabiri",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Marino",
+          "player": "Y. Zabiri",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Marino",
+          "player": "Y. Zabiri",
+          "event_type": "Goal",
+          "assist": "I. Vicente",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Marino",
+          "player": "F. Gonzalez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Marino",
+          "player": "A. M. Perez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Elche",
+          "player": "F. Buonanotte",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Elche",
+          "player": "B. Sangaré",
+          "event_type": "Goal",
+          "assist": "L. Cepeda",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Elche",
+          "player": "F. Nino",
+          "event_type": "Goal",
+          "assist": "T. Morente",
+          "score_update": "3 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Marino_wins": "1",
+          "draws": "1",
+          "Elche_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "02/03/2025",
+            "competition": "LaLiga 2",
+            "teams_and_score": "Racing Santander 2 - 0 Elche"
+          },
+          {
+            "date": "04/05/2024",
+            "competition": "LaLiga 2 23/24",
+            "teams_and_score": "Racing Santander 3 - 1 Elche"
+          },
+          {
+            "date": "04/07/2020",
+            "competition": "LaLiga2",
+            "teams_and_score": "Racing Santander 1 - 2 Elche"
+          },
+          {
+            "date": "31/03/2013",
+            "competition": "Segunda Division",
+            "teams_and_score": "Racing Santander 0 - 0 Elche"
+          }
+        ],
+        "home_team_form": {
+          "team": "Marino",
+          "form": [
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "28/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Racing Santander 3 - 2 Elche",
+              "result": "L"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Racing Santander 1 - 1 Deportivo Alaves",
+              "result": "D"
+            },
+            {
+              "date": "31/05/2026",
+              "competition": "LaLiga 2",
+              "teams_and_score": "Racing Santander 4 - 1 Cadiz",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Elche",
+          "form": [
+            "L",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "28/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Racing Santander 3 - 2 Elche",
+              "result": "L"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Elche 2 - 2 Cordoba",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Girona 1 - 1 Elche",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Marino": "6",
+          "Elche": "7"
+        },
+        "shots_off_target": {
+          "Marino": "4",
+          "Elche": "5"
+        },
+        "shots_blocked": {
+          "Marino": "3",
+          "Elche": "6"
+        },
+        "corners": {
+          "Marino": "5",
+          "Elche": "10"
+        },
+        "fouls": {
+          "Marino": "17",
+          "Elche": "19"
+        },
+        "offsides": {
+          "Marino": "3",
+          "Elche": "1"
+        },
+        "yellow_cards": {
+          "Marino": "2",
+          "Elche": "1"
+        },
+        "goalkeeper_saves": {
+          "Marino": "5",
+          "Elche": "3"
+        },
+        "crosses": {
+          "Marino": "2",
+          "Elche": "9"
+        },
+        "ball_possession": {
+          "Marino": "40%",
+          "Elche": "60%"
+        }
+      },
+      "description": "Watch Marino vs Elche highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 28, 2026. Tension hung in the air as both sides took to the pitch, fully aware of the stakes in this competitive La Liga fixture played on August 28, 2026. Zabiri Leads the Charge Racing Santander seized control of the game early, fueled by the clinical performance of Yassir Zabiri . After a defensive lapse by goalkeeper Matias Dituro in the 15th minute, Zabiri pounced to net the opener with a sharp left-footed strike. He doubled the tally just six minutes later, finding the net again from outside the box to put his side firmly in the driver's seat. Elche struggled to settle, often finding themselves pinned back as the hosts dictated the tempo of the first half. A Late Surge of Drama Following a series of tactical changes, Elche found their rhythm in the second half. The match turned into a thriller within a two-minute window as Buba Sangare fired in a strike in the 78th minute, followed immediately by a Fer Nino header in the 79th minute. With the scoreline suddenly tight, the final ten minutes became a frantic battle. Despite Elche dominating possession at 60% and pushing relentlessly through Gonzalo Villar , the Racing Santander defense, anchored by Alvaro Mantilla , stood tall to secure a hard-fought victory in front of 22,496 cheering fans."
+    },
     {
       "title": "Elche vs Barcelona",
       "thumbnail_url": "https://img.refooty.com/thumbnail/elche-v-barcelona-2026-08-23-A5rK.webp",

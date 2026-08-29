@@ -1,9 +1,271 @@
 {
   "team": "Liverpool",
   "team_logo": "https://img.refooty.com/logo/teams/40.webp",
-  "total_matches": 6,
-  "Last update time": "03:20:38 AM 29-08-2026",
+  "total_matches": 7,
+  "Last update time": "11:00:26 PM 29-08-2026",
   "matches": [
+    {
+      "title": "Liverpool vs Nottingham Forest",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-v-nottingham-2026-08-29-A2hj.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/65.webp",
+          "name": "Nottingham Forest",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/40.webp",
+          "name": "Liverpool",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Liverpool_v_Nottingham_2026_08_29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Nottingham Forest",
+          "player": "D. Ndoye",
+          "event_type": "Goal",
+          "assist": "M. Gibbs-White",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Liverpool",
+          "player": "F. Wirtz",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "31'",
+          "team": "Nottingham Forest",
+          "player": "I. Jesus",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Nottingham Forest",
+          "player": "O. Aina",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Liverpool",
+          "player": "V. Munoz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Liverpool",
+          "player": "F. Wirtz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Goal",
+          "assist": "C. Gakpo",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "Liverpool",
+          "player": "Alisson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Nottingham Forest",
+          "player": "M. Gibbs-White",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "136'",
+          "team": "Liverpool",
+          "player": "R. Araújo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "151'",
+          "team": "Liverpool",
+          "player": "V. Munoz",
+          "event_type": "Goal",
+          "assist": "F. Wirtz",
+          "score_update": "2 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Liverpool_wins": "4",
+          "draws": "1",
+          "Nottingham Forest_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "22/02/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Nottingham Forest 0 - 1 Liverpool"
+          },
+          {
+            "date": "14/01/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Nottingham Forest 1 - 1 Liverpool"
+          },
+          {
+            "date": "02/03/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "Nottingham Forest 0 - 1 Liverpool"
+          },
+          {
+            "date": "22/04/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Liverpool 3 - 2 Nottingham Forest"
+          },
+          {
+            "date": "20/03/2022",
+            "competition": "FA Cup 21/22",
+            "teams_and_score": "Nottingham Forest 0 - 1 Liverpool"
+          }
+        ],
+        "home_team_form": {
+          "team": "Liverpool",
+          "form": [
+            "D",
+            "W",
+            "D",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Liverpool 2 - 2 Nottingham Forest",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Nottingham Forest",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Liverpool 2 - 2 Nottingham Forest",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Nottingham Forest 0 - 2 Leeds United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Nottingham Forest 0 - 1 Leeds United",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Nottingham Forest 2 - 0 Brest",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Nottingham Forest 0 - 1 Barcelona",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Liverpool": "4",
+          "Nottingham Forest": "3"
+        },
+        "shots_off_target": {
+          "Liverpool": "5",
+          "Nottingham Forest": "3"
+        },
+        "shots_blocked": {
+          "Liverpool": "4",
+          "Nottingham Forest": "6"
+        },
+        "corners": {
+          "Liverpool": "3",
+          "Nottingham Forest": "5"
+        },
+        "fouls": {
+          "Liverpool": "13",
+          "Nottingham Forest": "10"
+        },
+        "offsides": {
+          "Liverpool": "3",
+          "Nottingham Forest": "0"
+        },
+        "yellow_cards": {
+          "Liverpool": "4",
+          "Nottingham Forest": "2"
+        },
+        "goalkeeper_saves": {
+          "Liverpool": "1",
+          "Nottingham Forest": "2"
+        },
+        "crosses": {
+          "Liverpool": "5",
+          "Nottingham Forest": "2"
+        },
+        "ball_possession": {
+          "Liverpool": "70%",
+          "Nottingham Forest": "30%"
+        }
+      },
+      "description": "Watch Liverpool vs Nottingham Forest highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 29, 2026. Anfield played host to a captivating Premier League clash where tactical discipline met individual brilliance. Both Liverpool and Nottingham Forest displayed immense character in a game defined by shifting momentum and high-stakes decision-making. VAR Drama and the Opening Exchange On August 29, 2026, the visiting Nottingham Forest struck first in the 24th minute when Dan Ndoye clinical finish found the net, courtesy of a Morgan Gibbs-White assist. The goal stood after a tense VAR review. Liverpool thought they had clawed their way back into the game just eight minutes later when Jeremie Frimpong scored, but their celebrations were cut short as the referee, guided by VAR, ruled the effort out for offside. The first half ended with the visitors holding a slender and hard-fought lead. Second Half Surges and Penalty Woes The intensity reached a boiling point after the interval. Liverpool finally found their equalizer in the 60th minute through Alexander Isak , who finished with his left foot after excellent work from Cody Gakpo and Florian Wirtz . However, the drama took another turn in the 68th minute. Alisson Becker tripped Neco Williams inside the box, leading to a penalty and a yellow card for the Brazilian goalkeeper for dissent. Morgan Gibbs-White stepped up and coolly converted from the spot to restore Forest's lead. Munoz Rescues a Point for the Reds Refusing to back down, Liverpool dominated possession, controlling 69% of the ball as they searched for a way back. Their persistence paid off in the 83rd minute when Victor Munoz latched onto a Florian Wirtz assist to fire home the equalizer. Despite late tactical substitutions and a flurry of corners, including a direct free kick from Dominik Szoboszlai that sailed wide, neither side could find a winner. The final whistle blew after six minutes of added time, concluding a fiercely contested 2-2 draw."
+    },
     {
       "title": "Newcastle United vs Liverpool",
       "thumbnail_url": "https://img.refooty.com/thumbnail/newcastle-united-v-liverpool-2026-08-23-2djU.webp",
@@ -262,6 +524,307 @@
         }
       },
       "description": "Watch Newcastle vs Liverpool highlights and goals from Premier League International Cup on ReFooty: Football Highlights Hub. Match played on August 23, 2026. Intense Showdown at the Premier League International Cup Anticipation filled the air for this Premier League International Cup fixture held on August 23, 2026 . As the two sides locked horns, the stage was set for a classic football match defined by high stakes and tactical maneuvering. The home side drew first blood when Anthony Elanga found the net just 5 minutes into the game, set up beautifully by Amar Dedic and William Osula . The early breakthrough injected energy into the game, leading to a gritty first half characterized by physical challenges and several yellow cards for both teams. A Dramatic Conclusion The tempo remained high into the second half , where Cody Gakpo leveled the score for Liverpool in the 55th minute following a setup from Ryan Gravenberch . The parity lasted only briefly as Joseph Willock regained the lead for Newcastle with a clinical finish in the 57th minute. The game turned into a tactical chess match, with substitutions shaping the closing stages as Liverpool chased an elusive equalizer. The decisive turning point arrived deep into stoppage time. Lewis Hall tripped Victor Munoz in the box, gifting the visitors a penalty. Dominik Szoboszlai stepped up and calmly slotted home in the 90+9 minute, ensuring that the points were shared in a thrilling end to a competitive day of sports ."
+    },
+    {
+      "title": "Liverpool vs Monaco",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-vs-monaco-2026-08-09-7u6Y.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/91.webp",
+          "name": "Monaco",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/40.webp",
+          "name": "Liverpool",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/liverpool-vs-monaco-2026-08-09_AtfON.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Liverpool",
+          "player": "F. Wirtz",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Monaco",
+          "player": "A. Golovin",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Monaco",
+          "player": "M. Biereth",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Monaco",
+          "player": "P. Brunner",
+          "event_type": "Goal",
+          "score_update": "2 - 3"
+        },
+        {
+          "time": "76'",
+          "team": "Monaco",
+          "player": "O. Konate",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Liverpool_wins": "0",
+          "draws": "0",
+          "Monaco_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "23/11/2004",
+            "competition": "Champions League grp. A",
+            "teams_and_score": "AS Monaco 1 - 0 Liverpool"
+          }
+        ],
+        "home_team_form": {
+          "team": "Liverpool",
+          "form": [
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Monaco",
+          "form": [
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AS Monaco 1 - 0 Getafe",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Strasbourg 5 - 4 AS Monaco",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Liverpool vs Monaco highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
+      "title": "Liverpool vs Sunderland",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-vs-sunderland-2026-07-25-39Xz.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Jul 25, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/746.webp",
+          "name": "Sunderland",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/40.webp",
+          "name": "Liverpool",
+          "score": "4"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/liverpool-vs-sunderland-2026-07-25_GTurE.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Liverpool",
+          "player": "K. Morrison",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Sunderland",
+          "player": "D. Ballard",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Sunderland",
+          "player": "E. L. Fée",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Sunderland",
+          "player": "T. Tuterov",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Liverpool",
+          "player": "D. Szoboszlai",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Liverpool",
+          "player": "F. Chiesa",
+          "event_type": "Goal",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "91'",
+          "team": "Liverpool",
+          "player": "L. Koumas",
+          "event_type": "Goal",
+          "score_update": "4 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Liverpool_wins": "1",
+          "draws": "1",
+          "Sunderland_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "11/02/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Sunderland 0 - 1 Liverpool"
+          },
+          {
+            "date": "02/01/2017",
+            "competition": "Premier League",
+            "teams_and_score": "Sunderland 2 - 2 Liverpool"
+          }
+        ],
+        "home_team_form": {
+          "team": "Liverpool",
+          "form": [
+            "W",
+            "D",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 4 - 2 Sunderland",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
+            },
+            {
+              "date": "14/04/2026",
+              "competition": "Quarter-Finals",
+              "teams_and_score": "Liverpool 0 - 2 Paris Saint-Germain",
+              "result": "L"
+            },
+            {
+              "date": "11/04/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 2 - 0 Fulham",
+              "result": "W"
+            },
+            {
+              "date": "08/04/2026",
+              "competition": "Quarter-Finals",
+              "teams_and_score": "Paris Saint-Germain 2 - 0 Liverpool",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sunderland",
+          "form": [
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 4 - 2 Sunderland",
+              "result": "L"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "York City 1 - 5 Sunderland",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Sunderland 2 - 1 Chelsea",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Liverpool vs Sunderland highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 25, 2026."
     },
     {
       "title": "Liverpool vs Leeds",
@@ -736,307 +1299,6 @@
       },
       "statistics": {},
       "description": "Watch Liverpool vs Como highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 16, 2026."
-    },
-    {
-      "title": "Liverpool vs Monaco",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-vs-monaco-2026-08-09-7u6Y.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/91.webp",
-          "name": "Monaco",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/40.webp",
-          "name": "Liverpool",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/liverpool-vs-monaco-2026-08-09_AtfON.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Liverpool",
-          "player": "A. Isak",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Liverpool",
-          "player": "F. Wirtz",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Monaco",
-          "player": "A. Golovin",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Monaco",
-          "player": "M. Biereth",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "61'",
-          "team": "Monaco",
-          "player": "P. Brunner",
-          "event_type": "Goal",
-          "score_update": "2 - 3"
-        },
-        {
-          "time": "76'",
-          "team": "Monaco",
-          "player": "O. Konate",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Liverpool_wins": "0",
-          "draws": "0",
-          "Monaco_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "23/11/2004",
-            "competition": "Champions League grp. A",
-            "teams_and_score": "AS Monaco 1 - 0 Liverpool"
-          }
-        ],
-        "home_team_form": {
-          "team": "Liverpool",
-          "form": [
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
-              "result": "L"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Liverpool 1 - 1 Brentford",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Monaco",
-          "form": [
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
-              "result": "W"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "AS Monaco 1 - 0 Getafe",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Strasbourg 5 - 4 AS Monaco",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Liverpool vs Monaco highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
-    },
-    {
-      "title": "Liverpool vs Sunderland",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-vs-sunderland-2026-07-25-39Xz.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Jul 25, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/746.webp",
-          "name": "Sunderland",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/40.webp",
-          "name": "Liverpool",
-          "score": "4"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/liverpool-vs-sunderland-2026-07-25_GTurE.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Liverpool",
-          "player": "K. Morrison",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Sunderland",
-          "player": "D. Ballard",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Sunderland",
-          "player": "E. L. Fée",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Sunderland",
-          "player": "T. Tuterov",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "61'",
-          "team": "Liverpool",
-          "player": "D. Szoboszlai",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "76'",
-          "team": "Liverpool",
-          "player": "F. Chiesa",
-          "event_type": "Goal",
-          "score_update": "3 - 2"
-        },
-        {
-          "time": "91'",
-          "team": "Liverpool",
-          "player": "L. Koumas",
-          "event_type": "Goal",
-          "score_update": "4 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Liverpool_wins": "1",
-          "draws": "1",
-          "Sunderland_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "11/02/2026",
-            "competition": "Premier League 25/26",
-            "teams_and_score": "Sunderland 0 - 1 Liverpool"
-          },
-          {
-            "date": "02/01/2017",
-            "competition": "Premier League",
-            "teams_and_score": "Sunderland 2 - 2 Liverpool"
-          }
-        ],
-        "home_team_form": {
-          "team": "Liverpool",
-          "form": [
-            "W",
-            "D",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Liverpool 4 - 2 Sunderland",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Liverpool 1 - 1 Brentford",
-              "result": "D"
-            },
-            {
-              "date": "14/04/2026",
-              "competition": "Quarter-Finals",
-              "teams_and_score": "Liverpool 0 - 2 Paris Saint-Germain",
-              "result": "L"
-            },
-            {
-              "date": "11/04/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Liverpool 2 - 0 Fulham",
-              "result": "W"
-            },
-            {
-              "date": "08/04/2026",
-              "competition": "Quarter-Finals",
-              "teams_and_score": "Paris Saint-Germain 2 - 0 Liverpool",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Sunderland",
-          "form": [
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Liverpool 4 - 2 Sunderland",
-              "result": "L"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "York City 1 - 5 Sunderland",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Sunderland 2 - 1 Chelsea",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Liverpool vs Sunderland highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 25, 2026."
     }
   ]
 }

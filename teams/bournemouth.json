@@ -1,94 +1,135 @@
 {
   "team": "Bournemouth",
   "team_logo": "https://img.refooty.com/logo/teams/35.webp",
-  "total_matches": 5,
-  "Last update time": "03:20:39 AM 29-08-2026",
+  "total_matches": 6,
+  "Last update time": "11:00:26 PM 29-08-2026",
   "matches": [
     {
-      "title": "Mainz 05 vs Bournemouth",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/mainz-05-vs-bournemouth-2026-08-15-9Nbs.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 15, 2026",
+      "title": "Bournemouth vs Everton",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bournemouth-v-everton-2026-08-29-cl6R.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 29, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/35.webp",
-          "name": "Bournemouth",
+          "logo": "https://img.refooty.com/logo/teams/45.webp",
+          "name": "Everton",
           "score": "1"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/21564.webp",
-          "name": "Mainz 05",
-          "score": "2"
+          "logo": "https://img.refooty.com/logo/teams/35.webp",
+          "name": "Bournemouth",
+          "score": "1"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/mainz-05-vs-bournemouth-2026-08-15_6bY9M.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/Bournemouth_v_Everton_2026_08_29.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Mainz 05",
-          "player": "S. Becker",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
+          "team": "Bournemouth",
+          "player": "A. Scott",
+          "event_type": "Yellow Card"
         },
         {
           "time": "16'",
           "team": "Bournemouth",
-          "player": "Evanilson",
+          "player": "A. Smith",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Bournemouth",
+          "player": "A. Scott",
+          "event_type": "Goal",
+          "assist": "Evanilson",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "53'",
+          "team": "Bournemouth",
+          "player": "M. Tavernier",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "59'",
+          "team": "Everton",
+          "player": "J. Garner",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Everton",
+          "player": "J. Tarkowski",
           "event_type": "Goal",
           "score_update": "1 - 1"
         },
         {
-          "time": "46'",
-          "team": "Mainz 05",
-          "player": "W. Bøving",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
+          "time": "90+5'",
+          "team": "Everton",
+          "player": "C. Alcaraz",
+          "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Mainz 05_wins": "0",
+          "Bournemouth_wins": "5",
           "draws": "0",
-          "Bournemouth_wins": "0"
+          "Everton_wins": "1"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "10/02/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Everton 1 - 2 AFC Bournemouth"
+          },
+          {
+            "date": "26/07/2025",
+            "competition": "Premier League Summer Series 2025",
+            "teams_and_score": "Everton 0 - 3 AFC Bournemouth"
+          },
+          {
+            "date": "08/02/2025",
+            "competition": "FA Cup: Round 4",
+            "teams_and_score": "Everton 0 - 2 AFC Bournemouth"
+          },
+          {
+            "date": "04/01/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "AFC Bournemouth 1 - 0 Everton"
+          },
+          {
+            "date": "30/03/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "AFC Bournemouth 2 - 1 Everton"
+          },
+          {
+            "date": "28/05/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Everton 1 - 0 AFC Bournemouth"
+          }
+        ],
         "home_team_form": {
-          "team": "Mainz 05",
-          "form": [
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Mainz 05 2 - 1 AFC Bournemouth",
-              "result": "W"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "Bundesliga 25/26",
-              "teams_and_score": "FC Heidenheim 0 - 2 Mainz 05",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
           "team": "Bournemouth",
           "form": [
+            "D",
             "L",
             "W",
             "W",
             "D"
           ],
           "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "AFC Bournemouth 1 - 1 Everton",
+              "result": "D"
+            },
             {
               "date": "15/08/2026",
               "competition": "Club Friendlies 2026",
@@ -114,10 +155,93 @@
               "result": "D"
             }
           ]
+        },
+        "away_team_form": {
+          "team": "Everton",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "AFC Bournemouth 1 - 1 Everton",
+              "result": "D"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Everton 2 - 0 Crystal Palace",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Everton 1 - 1 Lille",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Everton 3 - 1 Newcastle United",
+              "result": "W"
+            }
+          ]
         }
       },
-      "statistics": {},
-      "description": "Watch Mainz 05 vs Bournemouth highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 15, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Bournemouth": "5",
+          "Everton": "7"
+        },
+        "shots_off_target": {
+          "Bournemouth": "5",
+          "Everton": "6"
+        },
+        "shots_blocked": {
+          "Bournemouth": "7",
+          "Everton": "0"
+        },
+        "corners": {
+          "Bournemouth": "10",
+          "Everton": "7"
+        },
+        "fouls": {
+          "Bournemouth": "11",
+          "Everton": "14"
+        },
+        "offsides": {
+          "Bournemouth": "0",
+          "Everton": "1"
+        },
+        "yellow_cards": {
+          "Bournemouth": "3",
+          "Everton": "2"
+        },
+        "goalkeeper_saves": {
+          "Bournemouth": "5",
+          "Everton": "4"
+        },
+        "crosses": {
+          "Bournemouth": "6",
+          "Everton": "2"
+        },
+        "ball_possession": {
+          "Bournemouth": "59%",
+          "Everton": "41%"
+        }
+      },
+      "description": "Watch Bournemouth vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The Premier League encounter between Bournemouth and Everton proved to be a gripping tactical battle where momentum shifted with every passing phase. Both sides displayed immense physical commitment, ensuring that the outcome remained uncertain until the final moments of play. Scott Finds the Breakthrough On August 29, 2026, the match opened with both teams struggling to find their rhythm amidst a flurry of early corners and goal kicks. However, the deadlock was finally broken in the 41st minute. Following a key pass from Rayan , Evanilson provided the assist for Alex Scott , whose right-footed shot took a deflection before finding the back of the net. The goal gave Bournemouth a well-deserved lead heading into the break, rewarding their superior ball possession and patience in the final third. VAR Controversy and Sustained Pressure Everton emerged for the second half with renewed intent, pushing higher up the pitch to unsettle the hosts. The game reached a boiling point in the 55th minute when a VAR check for a potential Everton penalty halted play. To the frustration of the visiting fans, the referee decided to stick with the original call, denying the Toffees a chance from the spot. As the clock ticked down, both managers turned to their benches, with Bournemouth introducing Tyler Adams and Everton bringing on Beto to inject more physicality into the contest. Tarkowski Strikes Late to Deny the Cherries Just as Bournemouth seemed destined to secure all three points, the narrative took a dramatic turn in stoppage time. In the 91st minute, James Tarkowski showcased his predatory instincts by finding the net with a precise right-footed finish to level the score at 1-1. The closing stages were frantic, marked by a tactical foul from Carlos Alcaraz that earned him a yellow card as he stopped a dangerous counter-attack. Despite late efforts from both sides, the referee’s final whistle confirmed a hard-fought draw in a match defined by late drama."
     },
     {
       "title": "Man City vs Bournemouth",
@@ -751,6 +875,121 @@
       },
       "statistics": {},
       "description": "Watch Bournemouth vs St. Pauli highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 24, 2026."
+    },
+    {
+      "title": "Mainz 05 vs Bournemouth",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/mainz-05-vs-bournemouth-2026-08-15-9Nbs.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/35.webp",
+          "name": "Bournemouth",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/21564.webp",
+          "name": "Mainz 05",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/mainz-05-vs-bournemouth-2026-08-15_6bY9M.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Mainz 05",
+          "player": "S. Becker",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Bournemouth",
+          "player": "Evanilson",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Mainz 05",
+          "player": "W. Bøving",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Mainz 05_wins": "0",
+          "draws": "0",
+          "Bournemouth_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Mainz 05",
+          "form": [
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Mainz 05 2 - 1 AFC Bournemouth",
+              "result": "W"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Bundesliga 25/26",
+              "teams_and_score": "FC Heidenheim 0 - 2 Mainz 05",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bournemouth",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Mainz 05 2 - 1 AFC Bournemouth",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "AFC Bournemouth 10 - 1 Genoa",
+              "result": "W"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Augsburg 2 - 5 AFC Bournemouth",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Nottingham Forest 1 - 1 AFC Bournemouth",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Mainz 05 vs Bournemouth highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 15, 2026."
     }
   ]
 }

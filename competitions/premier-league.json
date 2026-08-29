@@ -1,9 +1,737 @@
 {
   "competition": "Premier League",
   "competition_cover": "https://refooty.com/covers/premier-league.webp",
-  "total_matches": 5,
-  "Last update time": "03:20:37 AM 29-08-2026",
+  "total_matches": 8,
+  "Last update time": "11:00:25 PM 29-08-2026",
   "matches": [
+    {
+      "title": "Liverpool vs Nottingham Forest",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-v-nottingham-2026-08-29-A2hj.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/65.webp",
+          "name": "Nottingham Forest",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/40.webp",
+          "name": "Liverpool",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Liverpool_v_Nottingham_2026_08_29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Nottingham Forest",
+          "player": "D. Ndoye",
+          "event_type": "Goal",
+          "assist": "M. Gibbs-White",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Liverpool",
+          "player": "F. Wirtz",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "31'",
+          "team": "Nottingham Forest",
+          "player": "I. Jesus",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Nottingham Forest",
+          "player": "O. Aina",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Liverpool",
+          "player": "V. Munoz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Liverpool",
+          "player": "F. Wirtz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Goal",
+          "assist": "C. Gakpo",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "Liverpool",
+          "player": "Alisson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Nottingham Forest",
+          "player": "M. Gibbs-White",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "136'",
+          "team": "Liverpool",
+          "player": "R. Araújo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "151'",
+          "team": "Liverpool",
+          "player": "V. Munoz",
+          "event_type": "Goal",
+          "assist": "F. Wirtz",
+          "score_update": "2 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Liverpool_wins": "4",
+          "draws": "1",
+          "Nottingham Forest_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "22/02/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Nottingham Forest 0 - 1 Liverpool"
+          },
+          {
+            "date": "14/01/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Nottingham Forest 1 - 1 Liverpool"
+          },
+          {
+            "date": "02/03/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "Nottingham Forest 0 - 1 Liverpool"
+          },
+          {
+            "date": "22/04/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Liverpool 3 - 2 Nottingham Forest"
+          },
+          {
+            "date": "20/03/2022",
+            "competition": "FA Cup 21/22",
+            "teams_and_score": "Nottingham Forest 0 - 1 Liverpool"
+          }
+        ],
+        "home_team_form": {
+          "team": "Liverpool",
+          "form": [
+            "D",
+            "W",
+            "D",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Liverpool 2 - 2 Nottingham Forest",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Nottingham Forest",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Liverpool 2 - 2 Nottingham Forest",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Nottingham Forest 0 - 2 Leeds United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Nottingham Forest 0 - 1 Leeds United",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Nottingham Forest 2 - 0 Brest",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Nottingham Forest 0 - 1 Barcelona",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Liverpool": "4",
+          "Nottingham Forest": "3"
+        },
+        "shots_off_target": {
+          "Liverpool": "5",
+          "Nottingham Forest": "3"
+        },
+        "shots_blocked": {
+          "Liverpool": "4",
+          "Nottingham Forest": "6"
+        },
+        "corners": {
+          "Liverpool": "3",
+          "Nottingham Forest": "5"
+        },
+        "fouls": {
+          "Liverpool": "13",
+          "Nottingham Forest": "10"
+        },
+        "offsides": {
+          "Liverpool": "3",
+          "Nottingham Forest": "0"
+        },
+        "yellow_cards": {
+          "Liverpool": "4",
+          "Nottingham Forest": "2"
+        },
+        "goalkeeper_saves": {
+          "Liverpool": "1",
+          "Nottingham Forest": "2"
+        },
+        "crosses": {
+          "Liverpool": "5",
+          "Nottingham Forest": "2"
+        },
+        "ball_possession": {
+          "Liverpool": "70%",
+          "Nottingham Forest": "30%"
+        }
+      },
+      "description": "Watch Liverpool vs Nottingham Forest highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 29, 2026. Anfield played host to a captivating Premier League clash where tactical discipline met individual brilliance. Both Liverpool and Nottingham Forest displayed immense character in a game defined by shifting momentum and high-stakes decision-making. VAR Drama and the Opening Exchange On August 29, 2026, the visiting Nottingham Forest struck first in the 24th minute when Dan Ndoye clinical finish found the net, courtesy of a Morgan Gibbs-White assist. The goal stood after a tense VAR review. Liverpool thought they had clawed their way back into the game just eight minutes later when Jeremie Frimpong scored, but their celebrations were cut short as the referee, guided by VAR, ruled the effort out for offside. The first half ended with the visitors holding a slender and hard-fought lead. Second Half Surges and Penalty Woes The intensity reached a boiling point after the interval. Liverpool finally found their equalizer in the 60th minute through Alexander Isak , who finished with his left foot after excellent work from Cody Gakpo and Florian Wirtz . However, the drama took another turn in the 68th minute. Alisson Becker tripped Neco Williams inside the box, leading to a penalty and a yellow card for the Brazilian goalkeeper for dissent. Morgan Gibbs-White stepped up and coolly converted from the spot to restore Forest's lead. Munoz Rescues a Point for the Reds Refusing to back down, Liverpool dominated possession, controlling 69% of the ball as they searched for a way back. Their persistence paid off in the 83rd minute when Victor Munoz latched onto a Florian Wirtz assist to fire home the equalizer. Despite late tactical substitutions and a flurry of corners, including a direct free kick from Dominik Szoboszlai that sailed wide, neither side could find a winner. The final whistle blew after six minutes of added time, concluding a fiercely contested 2-2 draw."
+    },
+    {
+      "title": "Bournemouth vs Everton",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bournemouth-v-everton-2026-08-29-cl6R.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/45.webp",
+          "name": "Everton",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/35.webp",
+          "name": "Bournemouth",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Bournemouth_v_Everton_2026_08_29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Bournemouth",
+          "player": "A. Scott",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Bournemouth",
+          "player": "A. Smith",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Bournemouth",
+          "player": "A. Scott",
+          "event_type": "Goal",
+          "assist": "Evanilson",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "53'",
+          "team": "Bournemouth",
+          "player": "M. Tavernier",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "59'",
+          "team": "Everton",
+          "player": "J. Garner",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Everton",
+          "player": "J. Tarkowski",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "90+5'",
+          "team": "Everton",
+          "player": "C. Alcaraz",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bournemouth_wins": "5",
+          "draws": "0",
+          "Everton_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "10/02/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Everton 1 - 2 AFC Bournemouth"
+          },
+          {
+            "date": "26/07/2025",
+            "competition": "Premier League Summer Series 2025",
+            "teams_and_score": "Everton 0 - 3 AFC Bournemouth"
+          },
+          {
+            "date": "08/02/2025",
+            "competition": "FA Cup: Round 4",
+            "teams_and_score": "Everton 0 - 2 AFC Bournemouth"
+          },
+          {
+            "date": "04/01/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "AFC Bournemouth 1 - 0 Everton"
+          },
+          {
+            "date": "30/03/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "AFC Bournemouth 2 - 1 Everton"
+          },
+          {
+            "date": "28/05/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Everton 1 - 0 AFC Bournemouth"
+          }
+        ],
+        "home_team_form": {
+          "team": "Bournemouth",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "AFC Bournemouth 1 - 1 Everton",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Mainz 05 2 - 1 AFC Bournemouth",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "AFC Bournemouth 10 - 1 Genoa",
+              "result": "W"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Augsburg 2 - 5 AFC Bournemouth",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Nottingham Forest 1 - 1 AFC Bournemouth",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Everton",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "AFC Bournemouth 1 - 1 Everton",
+              "result": "D"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Everton 2 - 0 Crystal Palace",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Everton 1 - 1 Lille",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Everton 3 - 1 Newcastle United",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bournemouth": "5",
+          "Everton": "7"
+        },
+        "shots_off_target": {
+          "Bournemouth": "5",
+          "Everton": "6"
+        },
+        "shots_blocked": {
+          "Bournemouth": "7",
+          "Everton": "0"
+        },
+        "corners": {
+          "Bournemouth": "10",
+          "Everton": "7"
+        },
+        "fouls": {
+          "Bournemouth": "11",
+          "Everton": "14"
+        },
+        "offsides": {
+          "Bournemouth": "0",
+          "Everton": "1"
+        },
+        "yellow_cards": {
+          "Bournemouth": "3",
+          "Everton": "2"
+        },
+        "goalkeeper_saves": {
+          "Bournemouth": "5",
+          "Everton": "4"
+        },
+        "crosses": {
+          "Bournemouth": "6",
+          "Everton": "2"
+        },
+        "ball_possession": {
+          "Bournemouth": "59%",
+          "Everton": "41%"
+        }
+      },
+      "description": "Watch Bournemouth vs Everton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The Premier League encounter between Bournemouth and Everton proved to be a gripping tactical battle where momentum shifted with every passing phase. Both sides displayed immense physical commitment, ensuring that the outcome remained uncertain until the final moments of play. Scott Finds the Breakthrough On August 29, 2026, the match opened with both teams struggling to find their rhythm amidst a flurry of early corners and goal kicks. However, the deadlock was finally broken in the 41st minute. Following a key pass from Rayan , Evanilson provided the assist for Alex Scott , whose right-footed shot took a deflection before finding the back of the net. The goal gave Bournemouth a well-deserved lead heading into the break, rewarding their superior ball possession and patience in the final third. VAR Controversy and Sustained Pressure Everton emerged for the second half with renewed intent, pushing higher up the pitch to unsettle the hosts. The game reached a boiling point in the 55th minute when a VAR check for a potential Everton penalty halted play. To the frustration of the visiting fans, the referee decided to stick with the original call, denying the Toffees a chance from the spot. As the clock ticked down, both managers turned to their benches, with Bournemouth introducing Tyler Adams and Everton bringing on Beto to inject more physicality into the contest. Tarkowski Strikes Late to Deny the Cherries Just as Bournemouth seemed destined to secure all three points, the narrative took a dramatic turn in stoppage time. In the 91st minute, James Tarkowski showcased his predatory instincts by finding the net with a precise right-footed finish to level the score at 1-1. The closing stages were frantic, marked by a tactical foul from Carlos Alcaraz that earned him a yellow card as he stopped a dangerous counter-attack. Despite late efforts from both sides, the referee’s final whistle confirmed a hard-fought draw in a match defined by late drama."
+    },
+    {
+      "title": "Coventry City vs Hull City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/coventry-city-v-hull-city-2026-08-29-yALx.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/64.webp",
+          "name": "Hull City",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1346.webp",
+          "name": "Coventry",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Coventry_City_v_Hull_City_2026_08_29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Hull City",
+          "player": "L. Coyle",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Hull City",
+          "player": "R. Slater",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Hull City",
+          "player": "E. Stroud",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Hull City",
+          "player": "O. McBurnie",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Hull City",
+          "player": "L. Millar",
+          "event_type": "Goal",
+          "assist": "M. Belloumi",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "Coventry",
+          "player": "A. Amenda",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Coventry_wins": "0",
+          "draws": "3",
+          "Hull City_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "06/04/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Hull City 0 - 0 Coventry City"
+          },
+          {
+            "date": "14/04/2025",
+            "competition": "Championship",
+            "teams_and_score": "Hull City 1 - 1 Coventry City"
+          },
+          {
+            "date": "24/04/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Coventry City 2 - 3 Hull City"
+          },
+          {
+            "date": "11/03/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Coventry City 1 - 1 Hull City"
+          },
+          {
+            "date": "16/03/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Coventry City 0 - 2 Hull City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Coventry",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Coventry City 0 - 1 Hull City",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Plymouth Argyle 2 - 4 Coventry City",
+              "result": "W"
+            },
+            {
+              "date": "21/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Arsenal 3 - 0 Coventry City",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Coventry City 2 - 0 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Coventry City 3 - 1 Espanyol",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Hull City",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Coventry City 0 - 1 Hull City",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Stoke City 1 - 1 Hull City",
+              "result": "D"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Hull City 2 - 0 Manchester United",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hull City 0 - 0 Nice",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Championship: Play-offs 25/26",
+              "teams_and_score": "Hull City 1 - 0 Middlesbrough",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Coventry": "3",
+          "Hull City": "2"
+        },
+        "shots_off_target": {
+          "Coventry": "3",
+          "Hull City": "4"
+        },
+        "shots_blocked": {
+          "Coventry": "5",
+          "Hull City": "0"
+        },
+        "corners": {
+          "Coventry": "6",
+          "Hull City": "2"
+        },
+        "fouls": {
+          "Coventry": "11",
+          "Hull City": "8"
+        },
+        "offsides": {
+          "Coventry": "3",
+          "Hull City": "0"
+        },
+        "yellow_cards": {
+          "Coventry": "1",
+          "Hull City": "4"
+        },
+        "goalkeeper_saves": {
+          "Coventry": "1",
+          "Hull City": "3"
+        },
+        "crosses": {
+          "Coventry": "7",
+          "Hull City": "1"
+        },
+        "ball_possession": {
+          "Coventry": "69%",
+          "Hull City": "31%"
+        }
+      },
+      "description": "Watch Coventry vs Hull City highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The atmosphere was electric as Coventry City hosted Hull City in a Premier League clash that promised plenty of tactical intrigue. With 31,239 fans in attendance, the stage was set for a high-stakes encounter where every decision could prove decisive. Tactical Stalemate in the Opening Period On August 29, 2026 , the match began with Coventry looking to establish early dominance. Taiwo Awoniyi and Ephron Mason-Clark were active in the final third, though their efforts were frequently thwarted by the assistant referee’s flag. Hull City remained disciplined, though Lewie Coyle was forced into an early yellow card in the 10th minute to halt a dangerous counter-attack. As the first half progressed, both sides struggled to find their rhythm in front of goal. Defensive lapses from Matt Grimes and Loum Tchaouna briefly threatened to break the deadlock, but neither side could capitalize. Despite Coventry controlling much of the territory, the teams headed into the tunnel with the scoreline still level, setting the scene for a tense second half. Millar Breaks the Deadlock The second half saw a flurry of tactical adjustments and a rising count of cautions as Regan Slater and Elliot Stroud entered the book. Coventry continued to boss the possession, eventually reaching 69%, but they lacked the clinical edge required to beat Konstantinos Tzolakis . The game turned in the 82nd minute when substitute Liam Millar made his mark. Following an assist from Mohamed Belloumi , Liam Millar found space to strike with his right foot, sending the ball into the back of the net. It was a clinical finish that rewarded Hull City ’s patience and defensive resilience, leaving the home side shell-shocked after controlling so much of the play. Late Pressure and Hull’s Resilience In a frantic finish, Coventry City threw everything forward. During five minutes of added time, Jay Dasilva saw a goal-bound header brilliantly saved by Tzolakis , while Taiwo Awoniyi was again denied by an offside call. Despite the late aerial dominance of Aurele Amenda and Brandon Thomas-Asante , Hull City held firm to secure a narrow victory, snatching all three points in a display of gritty defensive organization."
+    },
     {
       "title": "Crystal Palace vs Manchester City",
       "thumbnail_url": "https://img.refooty.com/thumbnail/crystal-palace-v-man-city-2026-08-28-HNG0.webp",
@@ -516,208 +1244,6 @@
       "description": "Watch Brighton vs Aston Villa highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 23, 2026. The Premier League International Cup delivered a captivating encounter on August 23, 2026 , as Brighton hosted Aston Villa in a match defined by tactical shifts and high-intensity football. Fans at the stadium witnessed a game where early momentum collided with unexpected disciplinary drama. Early Dominance and Clinical Finishing From the opening whistle, Brighton looked every bit the dominant force. The deadlock was broken in dramatic fashion in the 8th minute when Maxim De Cuyper saw his effort strike the post, only for the rebound to be turned into the net by Victor Lindelof for an own goal. This early breakthrough set the tone for a one-sided first half. By the 18th minute, the lead was doubled; a fluid move involving Lewis Dunk and Georginio Rutter allowed Maxim De Cuyper to slot home a comfortable left-footed finish. The Seagulls continued to press their advantage, effectively ending the contest as a spectacle by the 31st minute. Jack Hinshelwood rose highest to meet a delivery from Diego Gomez , heading home from close range to make it 3-0. Aston Villa struggled to cope with the pace of the game, with defensive lapses from Pau Torres and Ross Barkley frequently inviting pressure from the relentless Brighton attack. Resilience Amid Disciplinary Drama However, the match took an unexpected turn in the 40th minute when Joao Gomes was shown a direct red card following a serious foul. Despite being reduced to ten men, Brighton did not retreat. Instead, they displayed remarkable composure and tactical discipline. Aston Villa introduced Alejandro Garnacho and Matteo Ruggeri in an attempt to spark a comeback, but they found themselves frustrated by a resolute defensive line and a lack of clinical edge in the final third. The second half was punctuated by VAR reviews and tactical substitutions as both managers looked to influence the closing stages. Brighton thought they had added a fourth through Charalampos Kostoulas , but the goal was ruled out for offside. Even with a numerical disadvantage, the hosts controlled 73% of the possession, leaving the visitors chasing shadows. The match concluded with a deserved victory for Brighton , who managed the game expertly until the final whistle."
     },
     {
-      "title": "Brentford vs Tottenham Hotspur",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/brentford-v-tottenham-2026-08-22-UA6g.webp",
-      "competition": "Premier League",
-      "competition_cover": "https://refooty.com/covers/premier-league.webp",
-      "date": "Aug 22, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/15638.webp",
-          "name": "Tottenham",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/55.webp",
-          "name": "Brentford",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Brentford_v_Tottenham_2026_08_22.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Brentford",
-          "player": "K. Lewis-Potter",
-          "event_type": "Goal",
-          "assist": "M. Sangare",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Brentford",
-          "player": "V. Janelt",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Tottenham",
-          "player": "C. Gallagher",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Brentford",
-          "player": "M. Kayode",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Brentford",
-          "player": "I. Thiago",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "76'",
-          "team": "Brentford",
-          "player": "V. Janelt",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Brentford_wins": "1",
-          "draws": "2",
-          "Tottenham_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "01/01/2026",
-            "competition": "Premier League 25/26",
-            "teams_and_score": "Brentford 0 - 0 Tottenham Hotspur"
-          },
-          {
-            "date": "02/02/2025",
-            "competition": "Premier League 24/25",
-            "teams_and_score": "Brentford 0 - 2 Tottenham Hotspur"
-          },
-          {
-            "date": "31/01/2024",
-            "competition": "Premier League 23/24",
-            "teams_and_score": "Tottenham Hotspur 3 - 2 Brentford"
-          },
-          {
-            "date": "20/05/2023",
-            "competition": "Premier League 22/23",
-            "teams_and_score": "Tottenham Hotspur 1 - 3 Brentford"
-          },
-          {
-            "date": "23/04/2022",
-            "competition": "Premier League 21/22",
-            "teams_and_score": "Brentford 0 - 0 Tottenham Hotspur"
-          }
-        ],
-        "home_team_form": {
-          "team": "Brentford",
-          "form": [
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Brentford 7 - 0 Eintracht Frankfurt",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Liverpool 1 - 1 Brentford",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Tottenham",
-          "form": [
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Tottenham Hotspur 2 - 2 Hoffenheim",
-              "result": "D"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Tottenham Hotspur 1 - 0 Everton",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Brentford": "8",
-          "Tottenham": "4"
-        },
-        "shots_off_target": {
-          "Brentford": "11",
-          "Tottenham": "3"
-        },
-        "shots_blocked": {
-          "Brentford": "7",
-          "Tottenham": "2"
-        },
-        "corners": {
-          "Brentford": "7",
-          "Tottenham": "3"
-        },
-        "fouls": {
-          "Brentford": "17",
-          "Tottenham": "14"
-        },
-        "offsides": {
-          "Brentford": "3",
-          "Tottenham": "2"
-        },
-        "yellow_cards": {
-          "Brentford": "1",
-          "Tottenham": "1"
-        },
-        "goalkeeper_saves": {
-          "Brentford": "4",
-          "Tottenham": "5"
-        },
-        "crosses": {
-          "Brentford": "11",
-          "Tottenham": "4"
-        },
-        "ball_possession": {
-          "Brentford": "41%",
-          "Tottenham": "59%"
-        }
-      },
-      "description": "Watch Brentford vs Tottenham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The Premier League International Cup brought together two London rivals on a high-stakes evening. On August 22, 2026, the atmosphere was electric as Brentford and Tottenham Hotspur locked horns in a clash of styles and ambitions. Brentford Assert Early Authority Brentford started the match with an intensity that Tottenham Hotspur struggled to match. In the 12th minute, the deadlock was broken through a clinical team move. Dango Ouattara released Mamadou Sangare , who provided the perfectly weighted assist for Keane Lewis-Potter to slot home with his right foot. Tottenham attempted to find an immediate equalizer, but Conor Gallagher saw his long-range effort sail wide of the target. The Bees doubled their advantage in the 33rd minute, capitalizing on a moment of defensive hesitation. Following a miscue from goalkeeper Antonin Kinsky , Vitaly Janelt reacted first to the loose ball, firing it into the net to make it 2-0. Frustrations began to boil over for the visitors shortly after, as Gallagher was shown a yellow card for a robust challenge. Second-Half Dominance and Tactical Control Any hopes of a Tottenham comeback were effectively extinguished shortly after the restart. In the 49th minute, Michael Kayode found himself in the right place at the right time to tap the ball into an open goal, extending the lead to 3-0. Despite tactical substitutions from the Spurs bench, including the introduction of James Maddison and Dominic Solanke , the home side remained disciplined and compact. Brentford had a golden opportunity to add a fourth in the 55th minute when Rodrigo Bentancur conceded a penalty for a foul on Kevin Schade . However, Igor Thiago ’s strike rattled the post and stayed out. While Tottenham enjoyed 59% of the possession, they failed to register a breakthrough against a resolute defense. In front of a crowd of 17,180, Brentford secured a deserved and emphatic victory."
-    },
-    {
       "title": "Hull City vs Manchester United",
       "thumbnail_url": "https://img.refooty.com/thumbnail/hull-city-vs-manchester-united-2026-08-22-9KIS.webp",
       "competition": "Premier League",
@@ -1121,6 +1647,208 @@
         }
       },
       "description": "Watch Arsenal vs Coventry highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 21, 2026. The Premier League International Cup delivered a captivating spectacle as Arsenal faced off against Coventry City in a high-stakes encounter. On August 21, 2026 , over 60,000 fans gathered to witness a tactical battle where every movement on the pitch felt decisive from the opening whistle. Clinical First Half Performance Arsenal established their dominance early on, utilizing a high press that forced the visitors into critical errors. The breakthrough arrived in the 15th minute when a defensive lapse by Milan van Ewijk allowed Riccardo Calafiori to find Kai Havertz . The German forward made no mistake, slotting home with his left foot following a key pass from Christos Tzolis . The momentum stayed firmly with the Gunners, and by the 23rd minute, they doubled their lead. A misplay by goalkeeper Carl Rushworth left the ball loose in the area, and Bukayo Saka reacted quickest to fire it home. Despite the deficit, Coventry City showed flashes of brilliance. Loum Tchaouna nearly pulled one back with an audacious bicycle kick that sailed just wide of the post. The physical nature of the game was evident as both Caleb Yirenkyi and Gabriel received yellow cards for tactical fouls aimed at halting dangerous counter-attacks, keeping the tension high as the teams headed into the break. Securing the Result Any hopes of a Coventry City comeback were dampened shortly after the restart. In the 49th minute, Martin Oedegaard showcased his finishing ability, scoring with his right foot after being teed up by Ben White . The goal was the culmination of a smooth attacking move involving Bukayo Saka , further highlighting the fluid chemistry within the Arsenal ranks. As the half progressed, tactical substitutions saw the introduction of Mikel Merino and Noni Madueke , allowing the hosts to maintain control and a 65% possession rate. In the closing stages, Coventry pushed for a consolation goal. Jack Rudoni saw a goalbound header comfortably saved by David Raya , and deep into stoppage time, Eberechi Eze sent a direct free kick wide of the target. Ultimately, the Gunners' clinical finishing and superior ball retention ensured a deserved victory, leaving the home crowd satisfied with a professional and energetic display."
+    },
+    {
+      "title": "Brentford vs Tottenham Hotspur",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/brentford-v-tottenham-2026-08-22-UA6g.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15638.webp",
+          "name": "Tottenham",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/55.webp",
+          "name": "Brentford",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Brentford_v_Tottenham_2026_08_22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Brentford",
+          "player": "K. Lewis-Potter",
+          "event_type": "Goal",
+          "assist": "M. Sangare",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Brentford",
+          "player": "V. Janelt",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Tottenham",
+          "player": "C. Gallagher",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Brentford",
+          "player": "M. Kayode",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Brentford",
+          "player": "I. Thiago",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "76'",
+          "team": "Brentford",
+          "player": "V. Janelt",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Brentford_wins": "1",
+          "draws": "2",
+          "Tottenham_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "01/01/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Brentford 0 - 0 Tottenham Hotspur"
+          },
+          {
+            "date": "02/02/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Brentford 0 - 2 Tottenham Hotspur"
+          },
+          {
+            "date": "31/01/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "Tottenham Hotspur 3 - 2 Brentford"
+          },
+          {
+            "date": "20/05/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Tottenham Hotspur 1 - 3 Brentford"
+          },
+          {
+            "date": "23/04/2022",
+            "competition": "Premier League 21/22",
+            "teams_and_score": "Brentford 0 - 0 Tottenham Hotspur"
+          }
+        ],
+        "home_team_form": {
+          "team": "Brentford",
+          "form": [
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brentford 7 - 0 Eintracht Frankfurt",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Tottenham",
+          "form": [
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Tottenham Hotspur 2 - 2 Hoffenheim",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Tottenham Hotspur 1 - 0 Everton",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Brentford": "8",
+          "Tottenham": "4"
+        },
+        "shots_off_target": {
+          "Brentford": "11",
+          "Tottenham": "3"
+        },
+        "shots_blocked": {
+          "Brentford": "7",
+          "Tottenham": "2"
+        },
+        "corners": {
+          "Brentford": "7",
+          "Tottenham": "3"
+        },
+        "fouls": {
+          "Brentford": "17",
+          "Tottenham": "14"
+        },
+        "offsides": {
+          "Brentford": "3",
+          "Tottenham": "2"
+        },
+        "yellow_cards": {
+          "Brentford": "1",
+          "Tottenham": "1"
+        },
+        "goalkeeper_saves": {
+          "Brentford": "4",
+          "Tottenham": "5"
+        },
+        "crosses": {
+          "Brentford": "11",
+          "Tottenham": "4"
+        },
+        "ball_possession": {
+          "Brentford": "41%",
+          "Tottenham": "59%"
+        }
+      },
+      "description": "Watch Brentford vs Tottenham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The Premier League International Cup brought together two London rivals on a high-stakes evening. On August 22, 2026, the atmosphere was electric as Brentford and Tottenham Hotspur locked horns in a clash of styles and ambitions. Brentford Assert Early Authority Brentford started the match with an intensity that Tottenham Hotspur struggled to match. In the 12th minute, the deadlock was broken through a clinical team move. Dango Ouattara released Mamadou Sangare , who provided the perfectly weighted assist for Keane Lewis-Potter to slot home with his right foot. Tottenham attempted to find an immediate equalizer, but Conor Gallagher saw his long-range effort sail wide of the target. The Bees doubled their advantage in the 33rd minute, capitalizing on a moment of defensive hesitation. Following a miscue from goalkeeper Antonin Kinsky , Vitaly Janelt reacted first to the loose ball, firing it into the net to make it 2-0. Frustrations began to boil over for the visitors shortly after, as Gallagher was shown a yellow card for a robust challenge. Second-Half Dominance and Tactical Control Any hopes of a Tottenham comeback were effectively extinguished shortly after the restart. In the 49th minute, Michael Kayode found himself in the right place at the right time to tap the ball into an open goal, extending the lead to 3-0. Despite tactical substitutions from the Spurs bench, including the introduction of James Maddison and Dominic Solanke , the home side remained disciplined and compact. Brentford had a golden opportunity to add a fourth in the 55th minute when Rodrigo Bentancur conceded a penalty for a foul on Kevin Schade . However, Igor Thiago ’s strike rattled the post and stayed out. While Tottenham enjoyed 59% of the possession, they failed to register a breakthrough against a resolute defense. In front of a crowd of 17,180, Brentford secured a deserved and emphatic victory."
     }
   ]
 }
