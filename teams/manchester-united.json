@@ -1,9 +1,630 @@
 {
   "team": "Manchester United",
   "team_logo": "https://img.refooty.com/logo/teams/33.webp",
-  "total_matches": 6,
-  "Last update time": "09:50:17 PM 30-08-2026",
+  "total_matches": 7,
+  "Last update time": "12:50:19 AM 31-08-2026",
   "matches": [
+    {
+      "title": "Manchester United vs Ipswich",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-united-v-ipswich-2026-08-30-vEaS.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/57.webp",
+          "name": "Ipswich",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/33.webp",
+          "name": "Manchester United",
+          "score": "5"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Manchester_United_v_Ipswich_2026_08_30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Ipswich",
+          "player": "L. Davis",
+          "event_type": "Goal",
+          "assist": "A. Fatawu",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Ipswich",
+          "player": "S. Lukić",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Ipswich",
+          "player": "A. Fatawu",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Manchester United",
+          "player": "B. Fernandes",
+          "event_type": "Goal",
+          "assist": "M. Cunha",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "56'",
+          "team": "Manchester United",
+          "player": "J. Greaves",
+          "event_type": "Goal"
+        },
+        {
+          "time": "60'",
+          "team": "Ipswich",
+          "player": "J. Greaves",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Manchester United",
+          "player": "B. Fernandes",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "68'",
+          "team": "Manchester United",
+          "player": "B. Fernandes",
+          "event_type": "Goal",
+          "score_update": "4 - 1"
+        },
+        {
+          "time": "82'",
+          "team": "Manchester United",
+          "player": "B. Mbeumo",
+          "event_type": "Goal",
+          "assist": "B. Fernandes",
+          "score_update": "5 - 1"
+        },
+        {
+          "time": "90+1'",
+          "team": "Ipswich",
+          "player": "C. Akpom",
+          "event_type": "Goal",
+          "assist": "J. Enciso",
+          "score_update": "5 - 2"
+        },
+        {
+          "time": "90+3'",
+          "team": "Manchester United",
+          "player": "B. Mbeumo",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Manchester United_wins": "3",
+          "draws": "0",
+          "Ipswich_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "26/02/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Manchester United 3 - 2 Ipswich Town"
+          },
+          {
+            "date": "23/09/2015",
+            "competition": "League Cup",
+            "teams_and_score": "Manchester United 3 - 0 Ipswich Town"
+          },
+          {
+            "date": "27/04/2002",
+            "competition": "Premier League",
+            "teams_and_score": "Ipswich Town 0 - 1 Manchester United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Manchester United",
+          "form": [
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Manchester United 5 - 2 Ipswich Town",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester United 2 - 4 AC Milan",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Brighton 0 - 3 Manchester United",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Ipswich",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Manchester United 5 - 2 Ipswich Town",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Ipswich Town 3 - 1 Leicester City",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Ipswich Town 2 - 1 Sunderland",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Union Berlin 2 - 4 Ipswich Town",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Ipswich Town 3 - 0 QPR",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Manchester United": "11",
+          "Ipswich": "5"
+        },
+        "shots_off_target": {
+          "Manchester United": "10",
+          "Ipswich": "3"
+        },
+        "shots_blocked": {
+          "Manchester United": "12",
+          "Ipswich": "1"
+        },
+        "corners": {
+          "Manchester United": "8",
+          "Ipswich": "4"
+        },
+        "fouls": {
+          "Manchester United": "7",
+          "Ipswich": "12"
+        },
+        "offsides": {
+          "Manchester United": "0",
+          "Ipswich": "1"
+        },
+        "yellow_cards": {
+          "Manchester United": "1",
+          "Ipswich": "3"
+        },
+        "goalkeeper_saves": {
+          "Manchester United": "3",
+          "Ipswich": "6"
+        },
+        "crosses": {
+          "Manchester United": "8",
+          "Ipswich": "2"
+        },
+        "ball_possession": {
+          "Manchester United": "60%",
+          "Ipswich": "40%"
+        }
+      },
+      "description": "Watch Manchester United vs Ipswich highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 30, 2026. On August 30, 2026, Manchester United hosted Ipswich in a Premier League fixture that showcased the unpredictable nature of English football. A massive crowd of 74,148 filled the stadium, witnessing a match where momentum shifted dramatically between two sides desperate for points. A Tale of Two Halves Begins Ipswich stunned the home supporters in the 29th minute when Leif Davis found the back of the net with a clinical left-footed finish, assisted by Abdul Fatawu . The goal served as a wake-up call for Manchester United , who began to dominate possession and press higher up the pitch. Their persistence paid off in the 40th minute; Matheus Cunha turned provider for Bruno Fernandes , who leveled the score with a sharp strike, ensuring the sides went into the break on equal terms. The Fernandes Show Takes Over The second half belonged entirely to the hosts, specifically to their talismanic captain. The deadlock was broken in the 56th minute via a Jacob Greaves own goal, a moment of misfortune that shifted the game's energy. Things went from bad to worse for Jacob Greaves just minutes later when he conceded a penalty for a foul on Matheus Cunha . Bruno Fernandes stepped up in the 61st minute, coolly converting from the spot. Not satisfied with two, Bruno Fernandes completed his hat-trick in the 68th minute, pouncing on a loose ball to make it 4-1. Late Drama and Final Whistle The scoring wasn't over yet, as Bryan Mbeumo added a fifth for Manchester United in the 82nd minute with a brilliant lobbed effort, again assisted by the indomitable Bruno Fernandes . As the match entered stoppage time, Ipswich managed to pull one back through Chuba Akpom , who capitalized on a rare defensive blunder by Lisandro Martinez . Despite the late consolation, the final whistle marked a dominant performance for the Red Devils, who secured all three points in emphatic fashion."
+    },
+    {
+      "title": "Manchester United vs AC Milan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-united-vs-ac-milan-2026-08-15-JN48.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/489.webp",
+          "name": "AC Milan",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/33.webp",
+          "name": "Manchester United",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/manchester-united-vs-ac-milan-2026-08-15_A54ET.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Manchester United",
+          "player": "H. Maguire",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "AC Milan",
+          "player": "P. Estupiñán",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "AC Milan",
+          "player": "S. Chukwueze",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Manchester United",
+          "player": "P. Dorgu",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Manchester United",
+          "player": "P. Dorgu",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "AC Milan",
+          "player": "A. Cisse",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "91'",
+          "team": "AC Milan",
+          "player": "G. Ramos",
+          "event_type": "Goal",
+          "score_update": "2 - 3"
+        },
+        {
+          "time": "106'",
+          "team": "AC Milan",
+          "player": "R. Loftus-Cheek",
+          "event_type": "Goal",
+          "score_update": "2 - 4"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Manchester United_wins": "2",
+          "draws": "0",
+          "AC Milan_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "18/03/2021",
+            "competition": "Round of 16 20/21",
+            "teams_and_score": "AC Milan 0 - 1 Manchester United"
+          },
+          {
+            "date": "10/03/2010",
+            "competition": "Champions League Final Stages",
+            "teams_and_score": "Manchester United 4 - 0 AC Milan"
+          },
+          {
+            "date": "08/03/2005",
+            "competition": "Champions League Final Stage",
+            "teams_and_score": "AC Milan 1 - 0 Manchester United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Manchester United",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester United 2 - 4 AC Milan",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Brighton 0 - 3 Manchester United",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "AC Milan",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester United 2 - 4 AC Milan",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "AC Milan 1 - 2 Cagliari",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Manchester United vs AC Milan highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 15, 2026."
+    },
+    {
+      "title": "Manchester United vs Leeds",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-united-v-leeds-2026-08-12-40yx.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 12, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/63.webp",
+          "name": "Leeds",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/33.webp",
+          "name": "Manchester United",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Manchester_United_v_Leeds_2026_08_12.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Manchester United",
+          "player": "J. Zirkzee",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Leeds",
+          "player": "B. Aaronson",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "PEN 1",
+          "team": "Manchester United",
+          "player": "L. Shaw",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "PEN 1",
+          "team": "Leeds",
+          "player": "D. Calvert-Lewin",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "PEN 2",
+          "team": "Manchester United",
+          "player": "M. Cunha",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "PEN 2",
+          "team": "Leeds",
+          "player": "H. Wilson",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "PEN 3",
+          "team": "Manchester United",
+          "player": "J. Fletcher",
+          "event_type": "Goal",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "PEN 3",
+          "team": "Leeds",
+          "player": "A. Stach",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "PEN 4",
+          "team": "Manchester United",
+          "player": "B. Fernandes",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "PEN 4",
+          "team": "Leeds",
+          "player": "W. Gnonto",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "PEN 5",
+          "team": "Manchester United",
+          "player": "Y. Tielemans",
+          "event_type": "Goal",
+          "score_update": "4 - 4"
+        },
+        {
+          "time": "PEN 5",
+          "team": "Leeds",
+          "player": "N. Okafor",
+          "event_type": "Goal",
+          "score_update": "3 - 4"
+        },
+        {
+          "time": "PEN 6",
+          "team": "Manchester United",
+          "player": "N. Mazraoui",
+          "event_type": "Goal",
+          "score_update": "5 - 4"
+        },
+        {
+          "time": "PEN 6",
+          "team": "Leeds",
+          "player": "J. Justin",
+          "event_type": "Goal",
+          "score_update": "4 - 4"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Manchester United_wins": "3",
+          "draws": "2",
+          "Leeds_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "13/04/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Manchester United 1 - 2 Leeds United"
+          },
+          {
+            "date": "19/07/2025",
+            "competition": "Club Friendlies 2025",
+            "teams_and_score": "Manchester United 0 - 0 Leeds United"
+          },
+          {
+            "date": "12/07/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Manchester United 2 - 0 Leeds United"
+          },
+          {
+            "date": "12/02/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Leeds United 0 - 2 Manchester United"
+          },
+          {
+            "date": "20/02/2022",
+            "competition": "Premier League 21/22",
+            "teams_and_score": "Leeds United 2 - 4 Manchester United"
+          },
+          {
+            "date": "25/04/2021",
+            "competition": "Premier League 20/21",
+            "teams_and_score": "Leeds United 0 - 0 Manchester United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Manchester United",
+          "form": [
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester United 1 - 1 Leeds United",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Brighton 0 - 3 Manchester United",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Leeds",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester United 1 - 1 Leeds United",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leeds United 2 - 0 RB Leipzig",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 4 Leeds United",
+              "result": "W"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leeds United 1 - 0 Sunderland",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "West Ham United 3 - 0 Leeds United",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Manchester United vs Leeds highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 12, 2026."
+    },
     {
       "title": "Paris Saint Germain vs Manchester United",
       "thumbnail_url": "https://img.refooty.com/thumbnail/paris-saint-germain-vs-manchester-united-2026-08-08-lLpv.webp",
@@ -606,386 +1227,6 @@
       },
       "statistics": {},
       "description": "Watch Manchester United vs Atletico Madrid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
-    },
-    {
-      "title": "Manchester United vs AC Milan",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-united-vs-ac-milan-2026-08-15-JN48.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 15, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/489.webp",
-          "name": "AC Milan",
-          "score": "4"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/33.webp",
-          "name": "Manchester United",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/manchester-united-vs-ac-milan-2026-08-15_A54ET.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Manchester United",
-          "player": "H. Maguire",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "AC Milan",
-          "player": "P. Estupiñán",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "AC Milan",
-          "player": "S. Chukwueze",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Manchester United",
-          "player": "P. Dorgu",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Manchester United",
-          "player": "P. Dorgu",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "76'",
-          "team": "AC Milan",
-          "player": "A. Cisse",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "91'",
-          "team": "AC Milan",
-          "player": "G. Ramos",
-          "event_type": "Goal",
-          "score_update": "2 - 3"
-        },
-        {
-          "time": "106'",
-          "team": "AC Milan",
-          "player": "R. Loftus-Cheek",
-          "event_type": "Goal",
-          "score_update": "2 - 4"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Manchester United_wins": "2",
-          "draws": "0",
-          "AC Milan_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "18/03/2021",
-            "competition": "Round of 16 20/21",
-            "teams_and_score": "AC Milan 0 - 1 Manchester United"
-          },
-          {
-            "date": "10/03/2010",
-            "competition": "Champions League Final Stages",
-            "teams_and_score": "Manchester United 4 - 0 AC Milan"
-          },
-          {
-            "date": "08/03/2005",
-            "competition": "Champions League Final Stage",
-            "teams_and_score": "AC Milan 1 - 0 Manchester United"
-          }
-        ],
-        "home_team_form": {
-          "team": "Manchester United",
-          "form": [
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester United 2 - 4 AC Milan",
-              "result": "L"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Brighton 0 - 3 Manchester United",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "AC Milan",
-          "form": [
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester United 2 - 4 AC Milan",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "AC Milan 1 - 2 Cagliari",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Manchester United vs AC Milan highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 15, 2026."
-    },
-    {
-      "title": "Manchester United vs Leeds",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-united-v-leeds-2026-08-12-40yx.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 12, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/63.webp",
-          "name": "Leeds",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/33.webp",
-          "name": "Manchester United",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Manchester_United_v_Leeds_2026_08_12.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Manchester United",
-          "player": "J. Zirkzee",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Leeds",
-          "player": "B. Aaronson",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "PEN 1",
-          "team": "Manchester United",
-          "player": "L. Shaw",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "PEN 1",
-          "team": "Leeds",
-          "player": "D. Calvert-Lewin",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "PEN 2",
-          "team": "Manchester United",
-          "player": "M. Cunha",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "PEN 2",
-          "team": "Leeds",
-          "player": "H. Wilson",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "PEN 3",
-          "team": "Manchester United",
-          "player": "J. Fletcher",
-          "event_type": "Goal",
-          "score_update": "3 - 2"
-        },
-        {
-          "time": "PEN 3",
-          "team": "Leeds",
-          "player": "A. Stach",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "PEN 4",
-          "team": "Manchester United",
-          "player": "B. Fernandes",
-          "event_type": "Goal",
-          "score_update": "3 - 3"
-        },
-        {
-          "time": "PEN 4",
-          "team": "Leeds",
-          "player": "W. Gnonto",
-          "event_type": "Goal",
-          "score_update": "3 - 3"
-        },
-        {
-          "time": "PEN 5",
-          "team": "Manchester United",
-          "player": "Y. Tielemans",
-          "event_type": "Goal",
-          "score_update": "4 - 4"
-        },
-        {
-          "time": "PEN 5",
-          "team": "Leeds",
-          "player": "N. Okafor",
-          "event_type": "Goal",
-          "score_update": "3 - 4"
-        },
-        {
-          "time": "PEN 6",
-          "team": "Manchester United",
-          "player": "N. Mazraoui",
-          "event_type": "Goal",
-          "score_update": "5 - 4"
-        },
-        {
-          "time": "PEN 6",
-          "team": "Leeds",
-          "player": "J. Justin",
-          "event_type": "Goal",
-          "score_update": "4 - 4"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Manchester United_wins": "3",
-          "draws": "2",
-          "Leeds_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "13/04/2026",
-            "competition": "Premier League 25/26",
-            "teams_and_score": "Manchester United 1 - 2 Leeds United"
-          },
-          {
-            "date": "19/07/2025",
-            "competition": "Club Friendlies 2025",
-            "teams_and_score": "Manchester United 0 - 0 Leeds United"
-          },
-          {
-            "date": "12/07/2023",
-            "competition": "Club Friendlies 2023",
-            "teams_and_score": "Manchester United 2 - 0 Leeds United"
-          },
-          {
-            "date": "12/02/2023",
-            "competition": "Premier League 22/23",
-            "teams_and_score": "Leeds United 0 - 2 Manchester United"
-          },
-          {
-            "date": "20/02/2022",
-            "competition": "Premier League 21/22",
-            "teams_and_score": "Leeds United 2 - 4 Manchester United"
-          },
-          {
-            "date": "25/04/2021",
-            "competition": "Premier League 20/21",
-            "teams_and_score": "Leeds United 0 - 0 Manchester United"
-          }
-        ],
-        "home_team_form": {
-          "team": "Manchester United",
-          "form": [
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "12/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester United 1 - 1 Leeds United",
-              "result": "D"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Brighton 0 - 3 Manchester United",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Leeds",
-          "form": [
-            "D",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "12/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester United 1 - 1 Leeds United",
-              "result": "D"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Leeds United 2 - 0 RB Leipzig",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Liverpool 2 - 4 Leeds United",
-              "result": "W"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Leeds United 1 - 0 Sunderland",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "West Ham United 3 - 0 Leeds United",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Manchester United vs Leeds highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 12, 2026."
     }
   ]
 }
