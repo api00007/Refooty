@@ -1,9 +1,436 @@
 {
   "competition": "League One",
   "competition_cover": "https://refooty.com/covers/league-one.webp",
-  "total_matches": 13,
-  "Last update time": "06:10:34 AM 30-08-2026",
+  "total_matches": 15,
+  "Last update time": "08:30:59 PM 30-08-2026",
   "matches": [
+    {
+      "title": "Plymouth vs Bradford",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/plymouth-vs-bradford-2026-08-29-fLLX.webp",
+      "competition": "League One",
+      "competition_cover": "https://refooty.com/covers/league-one.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1343.webp",
+          "name": "Bradford",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1357.webp",
+          "name": "Plymouth",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/plymouth-vs-bradford-2026-08-29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Bradford",
+          "player": "J. Beesley",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Plymouth",
+          "player": "W. Harding",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Plymouth",
+          "player": "J. Pleguezuelo",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Plymouth",
+          "player": "H. White",
+          "event_type": "Goal",
+          "assist": "T. Bakinson",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Bradford",
+          "player": "C. Connolly",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Plymouth_wins": "1",
+          "draws": "3",
+          "Bradford_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "21/04/2026",
+            "competition": "League 1 25/26",
+            "teams_and_score": "Bradford City 1 - 1 Plymouth Argyle"
+          },
+          {
+            "date": "29/02/2020",
+            "competition": "League Two",
+            "teams_and_score": "Bradford City 2 - 1 Plymouth Argyle"
+          },
+          {
+            "date": "16/02/2019",
+            "competition": "League One",
+            "teams_and_score": "Bradford City 0 - 0 Plymouth Argyle"
+          },
+          {
+            "date": "02/12/2017",
+            "competition": "FA Cup",
+            "teams_and_score": "Bradford City 3 - 1 Plymouth Argyle"
+          },
+          {
+            "date": "11/11/2017",
+            "competition": "League One",
+            "teams_and_score": "Bradford City 0 - 1 Plymouth Argyle"
+          },
+          {
+            "date": "12/03/2013",
+            "competition": "League Two",
+            "teams_and_score": "Plymouth Argyle 0 - 0 Bradford City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Plymouth",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Plymouth Argyle 2 - 0 Bradford City",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Plymouth Argyle 2 - 4 Coventry City",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Wycombe Wanderers 1 - 1 Plymouth Argyle",
+              "result": "D"
+            },
+            {
+              "date": "10/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Plymouth Argyle 2 - 0 Exeter City",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Plymouth Argyle 0 - 0 Bristol City",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bradford",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Plymouth Argyle 2 - 0 Bradford City",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Bradford City 0 - 0 Burnley",
+              "result": "D"
+            },
+            {
+              "date": "20/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Sheffield Wednesday 0 - 1 Bradford City",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bradford City 2 - 0 Rochdale",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bradford City 3 - 2 Preston North End",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Plymouth": "3",
+          "Bradford": "0"
+        },
+        "shots_off_target": {
+          "Plymouth": "7",
+          "Bradford": "3"
+        },
+        "shots_blocked": {
+          "Plymouth": "4",
+          "Bradford": "1"
+        },
+        "corners": {
+          "Plymouth": "8",
+          "Bradford": "6"
+        },
+        "fouls": {
+          "Plymouth": "14",
+          "Bradford": "15"
+        },
+        "offsides": {
+          "Plymouth": "2",
+          "Bradford": "1"
+        },
+        "yellow_cards": {
+          "Plymouth": "1",
+          "Bradford": "2"
+        },
+        "goalkeeper_saves": {
+          "Plymouth": "0",
+          "Bradford": "1"
+        },
+        "crosses": {
+          "Plymouth": "8",
+          "Bradford": "5"
+        },
+        "ball_possession": {
+          "Plymouth": "42%",
+          "Bradford": "58%"
+        }
+      },
+      "description": "Watch Plymouth vs Bradford highlights and goals from League One on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The stage was set for a compelling League One clash as Plymouth faced off against Bradford in a contest that demanded grit and clinical execution from both sides. The encounter took place on August 29, 2026, with both teams eager to leave their mark on the league standings. Breaking the deadlock The intensity was evident from the start, with Jake Beesley picking up an early yellow card in just the 2nd minute. The physical nature of the game continued as Wes Harding was also cautioned in the 33rd minute. As the first half drew to a close, Julio Pleguezuelo proved to be the difference-maker, finding the back of the net in the 44th minute to give Plymouth a crucial lead heading into the break. Maintaining the momentum The second half saw Bradford attempt to spark a comeback with a double substitution, bringing on Adam Phillips and Bobby Pointon . However, the momentum stayed with the hosts. Just five minutes after the restart, Tyreeq Bakinson provided a precise assist for Harvey White , who slotted home to double the lead. The closing stages were defined by tactical shuffling, as both managers utilized their benches. Despite a late yellow card for Callum Connolly in the 88th minute, Plymouth managed the game effectively to secure the win."
+    },
+    {
+      "title": "Milton Keynes Dons vs Leicester",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/milton-keynes-dons-vs-leicester-2026-08-29-E0Ez.webp",
+      "competition": "League One",
+      "competition_cover": "https://refooty.com/covers/league-one.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/46.webp",
+          "name": "Leicester",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1348.webp",
+          "name": "Milton Keynes Dons",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/milton-keynes-dons-vs-leicester-2026-08-29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "47'",
+          "team": "Leicester",
+          "player": "L. Thomas",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "80'",
+          "team": "Leicester",
+          "player": "H. Souttar",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Leicester",
+          "player": "L. Cullen",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Milton Keynes Dons_wins": "1",
+          "draws": "2",
+          "Leicester_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "20/12/2022",
+            "competition": "EFL Cup 22/23",
+            "teams_and_score": "MK Dons 0 - 3 Leicester City"
+          },
+          {
+            "date": "28/07/2017",
+            "competition": "Club Friendlies",
+            "teams_and_score": "MK Dons 0 - 0 Leicester City"
+          },
+          {
+            "date": "28/02/2009",
+            "competition": "League One",
+            "teams_and_score": "MK Dons 2 - 2 Leicester City"
+          },
+          {
+            "date": "22/02/2003",
+            "competition": "Championship",
+            "teams_and_score": "Leicester City 4 - 0 MK Dons"
+          },
+          {
+            "date": "11/03/2000",
+            "competition": "Premier League",
+            "teams_and_score": "MK Dons 2 - 1 Leicester City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Milton Keynes Dons",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "MK Dons 0 - 0 Leicester City",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Norwich City 4 - 1 MK Dons",
+              "result": "L"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Tottenham Hotspur 1 - 0 MK Dons",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Fleetwood Town 1 - 1 MK Dons",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Leicester",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "MK Dons 0 - 0 Leicester City",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Ipswich Town 3 - 1 Leicester City",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Leicester City 1 - 2 Burton Albion",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Leicester City 1 - 0 Northampton Town",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leicester City 0 - 1 Genoa",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Milton Keynes Dons": "1",
+          "Leicester": "7"
+        },
+        "shots_off_target": {
+          "Milton Keynes Dons": "5",
+          "Leicester": "9"
+        },
+        "shots_blocked": {
+          "Milton Keynes Dons": "1",
+          "Leicester": "8"
+        },
+        "corners": {
+          "Milton Keynes Dons": "4",
+          "Leicester": "9"
+        },
+        "fouls": {
+          "Milton Keynes Dons": "9",
+          "Leicester": "6"
+        },
+        "offsides": {
+          "Milton Keynes Dons": "1",
+          "Leicester": "1"
+        },
+        "yellow_cards": {
+          "Milton Keynes Dons": "0",
+          "Leicester": "3"
+        },
+        "goalkeeper_saves": {
+          "Milton Keynes Dons": "7",
+          "Leicester": "1"
+        },
+        "crosses": {
+          "Milton Keynes Dons": "3",
+          "Leicester": "7"
+        },
+        "ball_possession": {
+          "Milton Keynes Dons": "24%",
+          "Leicester": "76%"
+        }
+      },
+      "description": "Watch Milton Keynes Dons vs Leicester highlights and goals from League One on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The atmosphere was charged with expectation as the teams took to the pitch for this crucial encounter. Played on August 29, 2026, the match promised to be a test of physical endurance and tactical organization for both sides. Intensity and Tactical Rigor From the opening whistle, it was clear that Milton Keynes Dons and Leicester were focused on conceding no space. The game unfolded with intense midfield battles and a heightened focus on defensive details. Leicester attempted to dictate the tempo, but they were met with a disciplined opposition, resulting in limited clear-cut chances as both teams struggled to break the deadlock. Discipline Under Pressure As the clock ticked on, the physical demands increased, manifesting in disciplinary actions. The referee was forced to step in to curb the intensity, starting with a yellow card for Luke Thomas early in the second half. Later, Harry Souttar and Liam Cullen were also cautioned, reflecting the frustration of both sides as they labored to find a breakthrough before the final whistle brought the contest to a close."
+    },
     {
       "title": "sheffield wednesday - bromley",
       "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-wednesday-bromley-2026-08-29-g2BF.webp",
@@ -476,208 +903,6 @@
         }
       },
       "description": "Watch Stockport County vs Wycombe Wanderers highlights and goals from League One on ReFooty: Football Highlights Hub. Match played on August 29, 2026. Stockport County and Wycombe Wanderers faced off in a highly anticipated League One fixture on August 29, 2026. Both sides took to the pitch with high intensity, promising a contest filled with tactical shifts and attacking intent. Early Surge at Edgeley Park The home side wasted no time establishing their dominance. In the 16th minute, Lewis Bate turned provider for Harry Wood , who clinicaly finished to give Stockport County the lead. The pressure remained relentless, and by the 23rd minute, the advantage was doubled. Kyle Wootton teed up Harry Wood for his second of the afternoon, leaving the visitors struggling to contain the wave of attacks. Wycombe Wanderers did find a lifeline just before the interval. In the 43rd minute, Cauley Woodrow struck back to reduce the deficit, ensuring the game remained competitive as the teams headed into the tunnel for half-time. Second Half Dominance Any hopes of a Wycombe comeback were swiftly dampened after the restart. In the 56th minute, Kyle Wootton turned from provider to scorer, converting a chance created by Oliver Norwood . The momentum was firmly with the hosts, and only five minutes later, Jack Diamond found the net to further extend the lead to 4-1. A series of tactical changes followed as both managers looked to manage the final stages of the match. Stockport's depth was on full display when substitute Mikael Mandron added a fifth goal in the 90th minute, assisted by Benony Andresson . The final whistle at 90+5' confirmed a comprehensive performance from the home side in front of their jubilant supporters."
-    },
-    {
-      "title": "Sheffield Wednesday vs Bradford",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-wednesday-vs-bradford-2026-08-20-uRvx.webp",
-      "competition": "League One",
-      "competition_cover": "https://refooty.com/covers/league-one.webp",
-      "date": "Aug 20, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1343.webp",
-          "name": "Bradford",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/74.webp",
-          "name": "Sheffield Wednesday",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/sheffield-wednesday-vs-bradford-2026-08-20.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "46'",
-          "team": "Bradford",
-          "player": "A. Baldwin",
-          "event_type": "Goal",
-          "assist": "M. Pennington",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Sheffield Wednesday",
-          "player": "B. Mitchell",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Bradford",
-          "player": "M. Pennington",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Sheffield Wednesday_wins": "1",
-          "draws": "2",
-          "Bradford_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "30/08/2022",
-            "competition": "EFL Trophy North: Group H",
-            "teams_and_score": "Bradford City 3 - 1 Sheffield Wednesday"
-          },
-          {
-            "date": "30/08/2011",
-            "competition": "Johnstones Paint Trophy",
-            "teams_and_score": "Bradford City 0 - 0 Sheffield Wednesday"
-          },
-          {
-            "date": "12/02/2005",
-            "competition": "League One",
-            "teams_and_score": "Sheffield Wednesday 1 - 2 Bradford City"
-          },
-          {
-            "date": "18/03/2003",
-            "competition": "Championship",
-            "teams_and_score": "Bradford City 1 - 1 Sheffield Wednesday"
-          },
-          {
-            "date": "15/01/2000",
-            "competition": "Premier League",
-            "teams_and_score": "Sheffield Wednesday 2 - 0 Bradford City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Sheffield Wednesday",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "20/08/2026",
-              "competition": "League 1",
-              "teams_and_score": "Sheffield Wednesday 0 - 1 Bradford City",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Sheffield Wednesday 1 - 0 Bolton Wanderers",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Stoke City 4 - 0 Sheffield Wednesday",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Sheffield Wednesday 2 - 1 West Bromwich Albion",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Bradford",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "20/08/2026",
-              "competition": "League 1",
-              "teams_and_score": "Sheffield Wednesday 0 - 1 Bradford City",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Bradford City 2 - 0 Rochdale",
-              "result": "W"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Bradford City 3 - 2 Preston North End",
-              "result": "W"
-            },
-            {
-              "date": "14/05/2026",
-              "competition": "League 1: Play-offs",
-              "teams_and_score": "Bradford City 0 - 1 Bolton Wanderers",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Exeter City 1 - 2 Bradford City",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Sheffield Wednesday": "3",
-          "Bradford": "4"
-        },
-        "shots_off_target": {
-          "Sheffield Wednesday": "6",
-          "Bradford": "3"
-        },
-        "shots_blocked": {
-          "Sheffield Wednesday": "4",
-          "Bradford": "3"
-        },
-        "corners": {
-          "Sheffield Wednesday": "8",
-          "Bradford": "9"
-        },
-        "fouls": {
-          "Sheffield Wednesday": "13",
-          "Bradford": "10"
-        },
-        "offsides": {
-          "Sheffield Wednesday": "3",
-          "Bradford": "1"
-        },
-        "yellow_cards": {
-          "Sheffield Wednesday": "1",
-          "Bradford": "1"
-        },
-        "goalkeeper_saves": {
-          "Sheffield Wednesday": "4",
-          "Bradford": "3"
-        },
-        "crosses": {
-          "Sheffield Wednesday": "5",
-          "Bradford": "2"
-        },
-        "ball_possession": {
-          "Sheffield Wednesday": "60%",
-          "Bradford": "40%"
-        }
-      },
-      "description": "Watch Sheffield Wednesday vs Bradford highlights and goals from League One on ReFooty: Football Highlights Hub. Match played on August 20, 2026. The stage was set for a high-stakes League One encounter as two determined sides faced off in a match that promised tactical discipline and moments of individual brilliance. Fans gathered expecting a contest where every decision would carry significant weight in the season's ambitions. A Cautious Opening Period On August 20, 2026 , the match kicked off with both Sheffield Wednesday and Bradford showing deep respect for each other's defensive shapes. The first half was characterized by midfield battles and a lack of clear-cut opportunities as both backlines remained resolute. Despite several attempts to break through the lines, neither side could find the decisive pass, leading to a goalless stalemate as the referee blew for half-time after one minute of added time. Baldwin Strikes Early in the Second Half The dynamic of the game shifted instantly after the restart. In the 47th minute, the deadlock was finally broken when Matthew Pennington turned provider, delivering a pinpoint ball to Aden Baldwin , who finished clinically to put the hosts ahead. This breakthrough forced a change in tempo, with the game becoming more physical. Billy Mitchell saw yellow for a mistimed challenge shortly after the hour mark, followed by a booking for Pennington as the intensity reached its peak. Tactical Adjustments and Final Whistle As the clock ticked down, both managers utilized their benches to influence the outcome. Bradford introduced Will Swan and Adam Phillips to bolster their attack, while the home side brought on experienced heads like Nick Powell and Ricardo Santos to secure the lead. The closing stages were a flurry of substitutions and tactical fouls, but the defensive line held firm through four minutes of stoppage time. When the final whistle eventually sounded, it confirmed a hard-fought victory built on a single moment of quality."
     },
     {
       "title": "Leyton Orient vs Sheffield Wednesday",
@@ -2931,6 +3156,208 @@
         }
       },
       "description": "Watch Luton vs Notts County highlights and goals from League One on ReFooty: Football Highlights Hub. Match played on August 22, 2026. Luton Town and Notts County faced off in a League One encounter that promised to test the tactical discipline of both sides. Supporters arrived expecting a closely contested match as both teams aimed to establish their rhythm early in the season. First Half Drama and Deadlock Broken The match on August 22, 2026 , began with a high level of physicality, as the referee was forced into his pocket early for Luka Smyth and George Johnston . The competitive nature of the midfield battle saw further cautions for Scott Robertson and Kal Naismith . In the 41st minute, the deadlock was finally broken. Luton earned a penalty, and Nahki Wells stepped up to calmly slot the ball home, giving the hosts the lead. However, the momentum shifted just before the break. In the first minute of stoppage time, Notts County struck back. Callum Roberts found space in the box to fire past the goalkeeper, ensuring the teams went into the interval on level terms at 1-1. The late strike breathed new life into the visitors ahead of a crucial second half. Second Half Sees Momentum Swings The intensity remained high following the restart, with Kasey Palmer and goalscorer Nahki Wells both receiving yellow cards. In the 60th minute, Notts County completed the turnaround. Nicholas Tsaroulla provided a perfectly weighted assist for Oliver Cooper , who finished clinically to put the away side 2-1 ahead. The goal sparked a series of substitutions as both managers looked to freshen up their lineups. Luton responded almost immediately. Substitute Callum Marshall made an instant impact, finding the back of the net in the 68th minute after being set up by Kasey Palmer . With the score tied at 2-2, the final twenty minutes were a frantic affair. Despite late bookings for Liam Walsh and Hindolo Mustapha in the 93rd minute, neither side could find a winning goal before the final whistle blew after five minutes of added time."
+    },
+    {
+      "title": "Sheffield Wednesday vs Bradford",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-wednesday-vs-bradford-2026-08-20-uRvx.webp",
+      "competition": "League One",
+      "competition_cover": "https://refooty.com/covers/league-one.webp",
+      "date": "Aug 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1343.webp",
+          "name": "Bradford",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/74.webp",
+          "name": "Sheffield Wednesday",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/sheffield-wednesday-vs-bradford-2026-08-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Bradford",
+          "player": "A. Baldwin",
+          "event_type": "Goal",
+          "assist": "M. Pennington",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Sheffield Wednesday",
+          "player": "B. Mitchell",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Bradford",
+          "player": "M. Pennington",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Sheffield Wednesday_wins": "1",
+          "draws": "2",
+          "Bradford_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "30/08/2022",
+            "competition": "EFL Trophy North: Group H",
+            "teams_and_score": "Bradford City 3 - 1 Sheffield Wednesday"
+          },
+          {
+            "date": "30/08/2011",
+            "competition": "Johnstones Paint Trophy",
+            "teams_and_score": "Bradford City 0 - 0 Sheffield Wednesday"
+          },
+          {
+            "date": "12/02/2005",
+            "competition": "League One",
+            "teams_and_score": "Sheffield Wednesday 1 - 2 Bradford City"
+          },
+          {
+            "date": "18/03/2003",
+            "competition": "Championship",
+            "teams_and_score": "Bradford City 1 - 1 Sheffield Wednesday"
+          },
+          {
+            "date": "15/01/2000",
+            "competition": "Premier League",
+            "teams_and_score": "Sheffield Wednesday 2 - 0 Bradford City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Sheffield Wednesday",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Sheffield Wednesday 0 - 1 Bradford City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Sheffield Wednesday 1 - 0 Bolton Wanderers",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stoke City 4 - 0 Sheffield Wednesday",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Sheffield Wednesday 2 - 1 West Bromwich Albion",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bradford",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Sheffield Wednesday 0 - 1 Bradford City",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bradford City 2 - 0 Rochdale",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bradford City 3 - 2 Preston North End",
+              "result": "W"
+            },
+            {
+              "date": "14/05/2026",
+              "competition": "League 1: Play-offs",
+              "teams_and_score": "Bradford City 0 - 1 Bolton Wanderers",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Exeter City 1 - 2 Bradford City",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sheffield Wednesday": "3",
+          "Bradford": "4"
+        },
+        "shots_off_target": {
+          "Sheffield Wednesday": "6",
+          "Bradford": "3"
+        },
+        "shots_blocked": {
+          "Sheffield Wednesday": "4",
+          "Bradford": "3"
+        },
+        "corners": {
+          "Sheffield Wednesday": "8",
+          "Bradford": "9"
+        },
+        "fouls": {
+          "Sheffield Wednesday": "13",
+          "Bradford": "10"
+        },
+        "offsides": {
+          "Sheffield Wednesday": "3",
+          "Bradford": "1"
+        },
+        "yellow_cards": {
+          "Sheffield Wednesday": "1",
+          "Bradford": "1"
+        },
+        "goalkeeper_saves": {
+          "Sheffield Wednesday": "4",
+          "Bradford": "3"
+        },
+        "crosses": {
+          "Sheffield Wednesday": "5",
+          "Bradford": "2"
+        },
+        "ball_possession": {
+          "Sheffield Wednesday": "60%",
+          "Bradford": "40%"
+        }
+      },
+      "description": "Watch Sheffield Wednesday vs Bradford highlights and goals from League One on ReFooty: Football Highlights Hub. Match played on August 20, 2026. The stage was set for a high-stakes League One encounter as two determined sides faced off in a match that promised tactical discipline and moments of individual brilliance. Fans gathered expecting a contest where every decision would carry significant weight in the season's ambitions. A Cautious Opening Period On August 20, 2026 , the match kicked off with both Sheffield Wednesday and Bradford showing deep respect for each other's defensive shapes. The first half was characterized by midfield battles and a lack of clear-cut opportunities as both backlines remained resolute. Despite several attempts to break through the lines, neither side could find the decisive pass, leading to a goalless stalemate as the referee blew for half-time after one minute of added time. Baldwin Strikes Early in the Second Half The dynamic of the game shifted instantly after the restart. In the 47th minute, the deadlock was finally broken when Matthew Pennington turned provider, delivering a pinpoint ball to Aden Baldwin , who finished clinically to put the hosts ahead. This breakthrough forced a change in tempo, with the game becoming more physical. Billy Mitchell saw yellow for a mistimed challenge shortly after the hour mark, followed by a booking for Pennington as the intensity reached its peak. Tactical Adjustments and Final Whistle As the clock ticked down, both managers utilized their benches to influence the outcome. Bradford introduced Will Swan and Adam Phillips to bolster their attack, while the home side brought on experienced heads like Nick Powell and Ricardo Santos to secure the lead. The closing stages were a flurry of substitutions and tactical fouls, but the defensive line held firm through four minutes of stoppage time. When the final whistle eventually sounded, it confirmed a hard-fought victory built on a single moment of quality."
     }
   ]
 }
