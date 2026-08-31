@@ -1,9 +1,213 @@
 {
   "team": "Valencia",
   "team_logo": "https://img.refooty.com/logo/teams/532.webp",
-  "total_matches": 4,
-  "Last update time": "12:50:20 AM 31-08-2026",
+  "total_matches": 5,
+  "Last update time": "10:30:38 PM 31-08-2026",
   "matches": [
+    {
+      "title": "Deportivo vs Valencia",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-v-valencia-2026-08-30-k40w.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/532.webp",
+          "name": "Valencia",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/529.webp",
+          "name": "Barcelona",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Deportivo_v_Valencia_2026_08_30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Barcelona",
+          "player": "X. Espart",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Barcelona",
+          "player": "Raphinha",
+          "event_type": "Goal",
+          "assist": "Pedri",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Valencia",
+          "player": "G. Guruzeta",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Valencia",
+          "player": "J. Louis-Jean",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Barcelona",
+          "player": "F. López",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Barcelona_wins": "8",
+          "draws": "1",
+          "Valencia_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "07/03/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Athletic Club 0 - 1 Barcelona"
+          },
+          {
+            "date": "07/01/2026",
+            "competition": "Super Cup",
+            "teams_and_score": "Barcelona 5 - 0 Athletic Club"
+          },
+          {
+            "date": "22/11/2025",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Barcelona 4 - 0 Athletic Club"
+          },
+          {
+            "date": "25/05/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Athletic Club 0 - 3 Barcelona"
+          },
+          {
+            "date": "08/01/2025",
+            "competition": "Super Cup",
+            "teams_and_score": "Athletic Club 0 - 2 Barcelona"
+          },
+          {
+            "date": "24/08/2024",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Barcelona 2 - 1 Athletic Club"
+          },
+          {
+            "date": "03/03/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Athletic Club 0 - 0 Barcelona"
+          }
+        ],
+        "home_team_form": {
+          "team": "Barcelona",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Barcelona 2 - 0 Athletic Club",
+              "result": "W"
+            },
+            {
+              "date": "19/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Barcelona 2 - 1 Al Ahly",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Valencia 3 - 1 Barcelona",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Valencia",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Celta Vigo 0 - 2 Athletic Club",
+              "result": "W"
+            },
+            {
+              "date": "21/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Zaragoza 3 - 1 Athletic Club",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Barcelona": "10",
+          "Valencia": "0"
+        },
+        "shots_off_target": {
+          "Barcelona": "7",
+          "Valencia": "5"
+        },
+        "shots_blocked": {
+          "Barcelona": "5",
+          "Valencia": "0"
+        },
+        "corners": {
+          "Barcelona": "12",
+          "Valencia": "5"
+        },
+        "fouls": {
+          "Barcelona": "13",
+          "Valencia": "6"
+        },
+        "offsides": {
+          "Barcelona": "8",
+          "Valencia": "5"
+        },
+        "yellow_cards": {
+          "Barcelona": "1",
+          "Valencia": "2"
+        },
+        "goalkeeper_saves": {
+          "Barcelona": "0",
+          "Valencia": "8"
+        },
+        "crosses": {
+          "Barcelona": "7",
+          "Valencia": "2"
+        },
+        "ball_possession": {
+          "Barcelona": "70%",
+          "Valencia": "30%"
+        }
+      },
+      "description": "Watch Barcelona vs Valencia highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The stage was set for a classic La Liga encounter as two historic rivals faced off in a clash of tactical ideologies. Fans gathered in anticipation of a match that promised high-octane action and a display of elite footballing quality. Barcelona's Early Dominance and Breakthrough On August 30, 2026 , Barcelona established their rhythm from the outset, commanding a massive 70% of possession. After a tense opening period marked by several offside calls against Lamine Yamal and Anthony Gordon , the deadlock was finally broken. Following a VAR check in the 30th minute that kept the stadium on edge, Pedri turned architect in the 37th minute, providing a perfect assist for Raphinha . The Brazilian made no mistake, tapping the ball home with his left foot to give the hosts a deserved lead. Athletic Club struggled to find their footing in the first half, with Inaki Williams frequently caught offside as they tried to counter-attack. The visitors' defensive discipline was tested repeatedly by the movement of Fermin Lopez and the creative spark of the Barcelona midfield, leading into a halftime break with the hosts firmly in control. Sealing the Points in the Second Half As the second half progressed, both managers turned to their benches to influence the outcome. Dani Olmo and Rodri were introduced for Barcelona , while Athletic Club brought on Robert Navarro and Alvaro Djalo . Despite the changes, the momentum remained with the home side. In the 82nd minute, a defensive lapse involving Aymeric Laporte allowed Fermin Lopez to capitalize. The young midfielder found himself with an open goal, calmly slotting the ball home with his right foot to double the lead. In the dying moments, Athletic Club searched for a consolation goal, but a header from Yeray Alvarez flew wide of the target. Barcelona remained composed, with Jules Kounde and Fermin Lopez making key interceptions to thwart any late pressure. The final whistle confirmed a -0 victory for Barcelona , a result that underscored their dominance and clinical edge on a memorable night of football."
+    },
     {
       "title": "Valencia vs Real Betis",
       "thumbnail_url": "https://img.refooty.com/thumbnail/valencia-v-betis-2026-08-25-QSTz.webp",
@@ -209,105 +413,6 @@
         }
       },
       "description": "Watch Valencia vs Real Betis highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 25, 2026. This La Liga encounter, held on August 25, 2026, set the stage for a tactical showdown between two sides eager to stamp their authority on the game. The atmosphere remained charged throughout, with both teams locked in a gritty battle that demanded unwavering focus from start to finish. A Hard-Fought Tactical Battle Throughout the match, Real Betis controlled the tempo with 58% of the possession, while Valencia remained dangerous through set-pieces and determined forays forward. Efforts from players like Cesar Tarrega were met with resilient defensive blocks, as neither side was willing to give an inch. The first half was defined by defensive structure, with both teams carefully testing the opposition's resolve without committing to overly risky plays. The Decisive Breakthrough As the second half progressed, tactical adjustments from both benches aimed to break the stalemate. The deadlock was finally shattered in the 83rd minute when substitute Pablo Garcia stepped up. Meeting a cross from Francisco Garcia , he unleashed a clinical volley that found the back of the net, handing the visitors a crucial lead. Valencia threw everything forward in the dying moments of stoppage time, searching for an equalizer through a barrage of corner kicks. However, the Real Betis defense held firm against the pressure, securing a hard-earned three points in a match that showcased the fine margins of top-level football ."
-    },
-    {
-      "title": "Valencia vs Hércules",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/valencia-vs-hercules-2026-08-13-JVgC.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/4666.webp",
-          "name": "Hércules",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/532.webp",
-          "name": "Valencia",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/valencia-vs-hercules-2026-08-13_LLuvi.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {
-          "Valencia_wins": "1",
-          "draws": "0",
-          "Hércules_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "06/02/2011",
-            "competition": "Primera Division",
-            "teams_and_score": "Valencia 2 - 0 Hercules"
-          }
-        ],
-        "home_team_form": {
-          "team": "Valencia",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Valencia 2 - 0 Hercules",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Valencia 1 - 2 Newcastle United",
-              "result": "L"
-            },
-            {
-              "date": "28/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Derby County 1 - 2 Valencia",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Valencia 3 - 1 Barcelona",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Hércules",
-          "form": [
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Valencia 2 - 0 Hercules",
-              "result": "L"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "Primera Division RFEF: Group 2",
-              "teams_and_score": "Hercules 1 - 1 Gimnastic",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Valencia vs Hércules highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 13, 2026."
     },
     {
       "title": "Valencia vs Newcastle",
@@ -547,6 +652,105 @@
       },
       "statistics": {},
       "description": "Watch Stoke City vs Valencia highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
+    },
+    {
+      "title": "Valencia vs Hércules",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/valencia-vs-hercules-2026-08-13-JVgC.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 13, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/4666.webp",
+          "name": "Hércules",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/532.webp",
+          "name": "Valencia",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/valencia-vs-hercules-2026-08-13_LLuvi.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {
+          "Valencia_wins": "1",
+          "draws": "0",
+          "Hércules_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "06/02/2011",
+            "competition": "Primera Division",
+            "teams_and_score": "Valencia 2 - 0 Hercules"
+          }
+        ],
+        "home_team_form": {
+          "team": "Valencia",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Valencia 2 - 0 Hercules",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Valencia 1 - 2 Newcastle United",
+              "result": "L"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Derby County 1 - 2 Valencia",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Valencia 3 - 1 Barcelona",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Hércules",
+          "form": [
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Valencia 2 - 0 Hercules",
+              "result": "L"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Primera Division RFEF: Group 2",
+              "teams_and_score": "Hercules 1 - 1 Gimnastic",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Valencia vs Hércules highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 13, 2026."
     }
   ]
 }

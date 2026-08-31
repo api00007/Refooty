@@ -1,9 +1,237 @@
 {
   "team": "Gremio",
   "team_logo": "https://img.refooty.com/logo/teams/130.webp",
-  "total_matches": 3,
-  "Last update time": "12:50:20 AM 31-08-2026",
+  "total_matches": 4,
+  "Last update time": "10:30:38 PM 31-08-2026",
   "matches": [
+    {
+      "title": "Gremio - Chapecoense",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/gremio-chapecoense-2026-08-30-mfaG.webp",
+      "competition": "Brasileirão",
+      "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/22722.webp",
+          "name": "Chapecoense AF",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/130.webp",
+          "name": "Gremio",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/gremio-chapecoense-2026-08-30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Chapecoense AF",
+          "player": "M. Garcez",
+          "event_type": "Goal",
+          "assist": "G. Augusto",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Gremio",
+          "player": "G. Martins",
+          "event_type": "Goal",
+          "assist": "J. Enamorado",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Gremio",
+          "player": "C. Pavon",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Gremio",
+          "player": "Marlon",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Gremio",
+          "player": "W. Kannemann",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "55'",
+          "team": "Chapecoense AF",
+          "player": "E. V. Doma",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "56'",
+          "team": "Gremio",
+          "player": "G. Martins",
+          "event_type": "Goal",
+          "assist": "C. Pavon",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "71'",
+          "team": "Chapecoense AF",
+          "player": "B. Pacheco",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Gremio",
+          "player": "Tete",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Gremio_wins": "3",
+          "draws": "2",
+          "Chapecoense AF_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "16/03/2026",
+            "competition": "Serie A",
+            "teams_and_score": "Chapecoense AF 1 - 1 Gremio"
+          },
+          {
+            "date": "26/07/2022",
+            "competition": "Serie B",
+            "teams_and_score": "Chapecoense AF 0 - 0 Gremio"
+          },
+          {
+            "date": "20/11/2021",
+            "competition": "Serie A 2021",
+            "teams_and_score": "Chapecoense AF 1 - 3 Gremio"
+          },
+          {
+            "date": "10/11/2019",
+            "competition": "Serie A",
+            "teams_and_score": "Chapecoense AF 0 - 1 Gremio"
+          },
+          {
+            "date": "18/11/2018",
+            "competition": "Serie A",
+            "teams_and_score": "Gremio 2 - 0 Chapecoense AF"
+          }
+        ],
+        "home_team_form": {
+          "team": "Gremio",
+          "form": [
+            "W",
+            "D",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Gremio 3 - 1 Chapecoense AF",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Internacional 0 - 0 Gremio",
+              "result": "D"
+            },
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "RB Bragantino 1 - 0 Gremio",
+              "result": "L"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Gremio 1 - 0 Mirassol",
+              "result": "W"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Knockout Round Playoffs",
+              "teams_and_score": "Gremio 0 - 1 Bolivar",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Chapecoense AF",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Gremio 3 - 1 Chapecoense AF",
+              "result": "L"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Cruzeiro 2 - 0 Chapecoense AF",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Santos FC 2 - 2 Chapecoense AF",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Gremio": "5",
+          "Chapecoense AF": "9"
+        },
+        "shots_off_target": {
+          "Gremio": "2",
+          "Chapecoense AF": "18"
+        },
+        "shots_blocked": {
+          "Gremio": "5",
+          "Chapecoense AF": "5"
+        },
+        "corners": {
+          "Gremio": "5",
+          "Chapecoense AF": "7"
+        },
+        "fouls": {
+          "Gremio": "11",
+          "Chapecoense AF": "10"
+        },
+        "yellow_cards": {
+          "Gremio": "3",
+          "Chapecoense AF": "2"
+        },
+        "goalkeeper_saves": {
+          "Gremio": "8",
+          "Chapecoense AF": "2"
+        },
+        "ball_possession": {
+          "Gremio": "53%",
+          "Chapecoense AF": "47%"
+        }
+      },
+      "description": "Watch Gremio vs Chapecoense AF highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on August 30, 2026. High stakes in the Brazilian Serie A On August 30, 2026, Grêmio and Chapecoense AF faced off in a compelling Serie A fixture that promised a tactical masterclass for the fans. The atmosphere was electric from the start, as both sides looked to establish their authority in a match defined by tactical shifts and individual brilliance. A tactical battle at the Arena The first half was a whirlwind of action. Chapecoense drew first blood in the 15th minute when Mauricio Garcez found the back of the net following a pinpoint delivery from Giovanni Augusto . Grêmio responded with incredible urgency; just three minutes later, Gustavo Martins leveled the score, assisted by Jose Enamorado . The momentum firmly shifted to the hosts, and in the 28th minute, Cristian Pavon scored, turning the tide completely in favor of the home side. Following the halftime break, the physicality of the match increased, leading to several yellow cards as both teams fought for every inch of grass. In the 56th minute, Gustavo Martins struck again, netting his second of the night after an assist from Cristian Pavon . Despite a flurry of substitutions, including the introduction of Dylan Borrero and Enio , the scoreline remained unchanged through the final whistle, marking a significant victory for Grêmio ."
+    },
     {
       "title": "Gremio - Fluminense",
       "thumbnail_url": "https://img.refooty.com/thumbnail/gremio-fluminense-2026-07-27-Dcrp.webp",

@@ -1,9 +1,218 @@
 {
   "team": "Sunderland",
   "team_logo": "https://img.refooty.com/logo/teams/746.webp",
-  "total_matches": 5,
-  "Last update time": "12:50:21 AM 31-08-2026",
+  "total_matches": 6,
+  "Last update time": "10:30:38 PM 31-08-2026",
   "matches": [
+    {
+      "title": "Sunderland vs Fulham",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sunderland-v-fulham-2026-08-30-ZmCm.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/36.webp",
+          "name": "Fulham",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/746.webp",
+          "name": "Sunderland",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Sunderland_v_Fulham_2026_08_30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Fulham",
+          "player": "J. Andersen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Fulham",
+          "player": "C. Palacios",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Sunderland",
+          "player": "W. Isidor",
+          "event_type": "Goal",
+          "assist": "H. Diarra",
+          "score_update": "1 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Sunderland_wins": "2",
+          "draws": "0",
+          "Fulham_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "22/02/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Sunderland 1 - 3 Fulham"
+          },
+          {
+            "date": "08/02/2023",
+            "competition": "FA Cup: Round 4 22/23",
+            "teams_and_score": "Sunderland 2 - 3 Fulham"
+          },
+          {
+            "date": "27/04/2018",
+            "competition": "Championship",
+            "teams_and_score": "Fulham 2 - 1 Sunderland"
+          },
+          {
+            "date": "03/02/2015",
+            "competition": "FA Cup",
+            "teams_and_score": "Fulham 1 - 3 Sunderland"
+          },
+          {
+            "date": "11/01/2014",
+            "competition": "Premier League",
+            "teams_and_score": "Fulham 1 - 4 Sunderland"
+          }
+        ],
+        "home_team_form": {
+          "team": "Sunderland",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Sunderland 1 - 0 Fulham",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sunderland 2 - 1 Rennes",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sunderland 1 - 0 Wrexham",
+              "result": "W"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leeds United 1 - 0 Sunderland",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 4 - 2 Sunderland",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Fulham",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Sunderland 1 - 0 Fulham",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Fulham 3 - 0 AFC Wimbledon",
+              "result": "W"
+            },
+            {
+              "date": "24/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Fulham 2 - 3 Chelsea",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Fulham 1 - 0 VfB Stuttgart",
+              "result": "W"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Fulham 1 - 2 Crystal Palace",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sunderland": "4",
+          "Fulham": "0"
+        },
+        "shots_off_target": {
+          "Sunderland": "6",
+          "Fulham": "3"
+        },
+        "shots_blocked": {
+          "Sunderland": "2",
+          "Fulham": "8"
+        },
+        "corners": {
+          "Sunderland": "3",
+          "Fulham": "4"
+        },
+        "fouls": {
+          "Sunderland": "10",
+          "Fulham": "15"
+        },
+        "offsides": {
+          "Sunderland": "1",
+          "Fulham": "1"
+        },
+        "yellow_cards": {
+          "Sunderland": "0",
+          "Fulham": "2"
+        },
+        "goalkeeper_saves": {
+          "Sunderland": "0",
+          "Fulham": "3"
+        },
+        "crosses": {
+          "Sunderland": "8",
+          "Fulham": "4"
+        },
+        "ball_possession": {
+          "Sunderland": "42%",
+          "Fulham": "58%"
+        }
+      },
+      "description": "Watch Sunderland vs Fulham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 30, 2026. Sunderland and Fulham faced off in a fascinating Premier League encounter where patience and strategy were put to the test. The match on August 30, 2026 , promised to be an intense tactical battle, with both teams looking to assert themselves in the early stages of the season. A Cagey Opening at the Stadium of Light The first half was characterized by a search for rhythm, as both sides struggled to break down well-organized defensive lines. Sunderland looked to exploit set-piece opportunities, with Granit Xhaka and Oscar Bobb delivering several corners, though the Fulham defense remained resolute. The physical nature of the contest was evident when Joachim Andersen received a yellow card in the 35th minute for a tactical foul, halting a dangerous counter-attack. Despite Alex Iwobi ’s attempts to spark creativity for the visitors, clear-cut chances were few and far between. The game went into the interval goalless, leaving the 46,781 fans in attendance hoping for more goalmouth action in the second period. Substitutes Make the Difference The momentum shifted significantly in the 65th minute when Sunderland introduced Habib Diarra and Wilson Isidor from the bench. Isidor nearly made an immediate impact, striking the post in the 71st minute after a brilliant move. However, his persistence paid off just four minutes later. Following an uncharacteristic error in distribution from Bernd Leno , Habib Diarra pounced and set up Wilson Isidor , who slotted a left-footed finish into the net to give the hosts the lead. Fulham searched for an equalizer, bringing on Emile Smith Rowe , but Sunderland 's defense, anchored by a Man of the Match performance from Nordi Mukiele , held firm. In stoppage time, Romaine Mundle missed a golden opportunity to double the lead, seeing his shot saved by Leno . Nevertheless, the final whistle signaled a deserved victory for Sunderland , who capitalized on their crucial moments to secure all three points."
+    },
     {
       "title": "Lens vs Sunderland",
       "thumbnail_url": "https://img.refooty.com/thumbnail/lens-vs-sunderland-2026-08-08-sPQU.webp",

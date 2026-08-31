@@ -1,9 +1,674 @@
 {
   "competition": "Serie A",
   "competition_cover": "https://refooty.com/covers/serie-a.webp",
-  "total_matches": 12,
-  "Last update time": "12:50:19 AM 31-08-2026",
+  "total_matches": 15,
+  "Last update time": "10:30:37 PM 31-08-2026",
   "matches": [
+    {
+      "title": "Cagliari vs Inter Milan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/cagliari-v-inter-milan-2026-08-30-bbb1.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/505.webp",
+          "name": "Inter",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/490.webp",
+          "name": "Cagliari",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Cagliari_v_Inter_Milan_2026_08_30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Inter",
+          "player": "H. Çalhanoğlu",
+          "event_type": "Goal",
+          "assist": "N. Barella",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Inter",
+          "player": "M. Akanji",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Cagliari",
+          "player": "A. Deiola",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Cagliari",
+          "player": "K. Carlos",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Cagliari_wins": "0",
+          "draws": "1",
+          "Inter_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "17/04/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Inter 3 - 0 Cagliari"
+          },
+          {
+            "date": "12/04/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Inter 3 - 1 Cagliari"
+          },
+          {
+            "date": "14/04/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Inter 2 - 2 Cagliari"
+          },
+          {
+            "date": "15/05/2022",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Cagliari 1 - 3 Inter"
+          },
+          {
+            "date": "11/04/2021",
+            "competition": "Serie A 20/21",
+            "teams_and_score": "Inter 1 - 0 Cagliari"
+          }
+        ],
+        "home_team_form": {
+          "team": "Cagliari",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Cagliari 0 - 1 Inter",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Cagliari 1 - 0 S.S. Arezzo",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cagliari 0 - 0 Nice",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Union Berlin 2 - 2 Cagliari",
+              "result": "D"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cagliari 1 - 0 Modena",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Inter",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Cagliari 0 - 1 Inter",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Inter 1 - 0 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Juventus 1 - 2 Inter",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Bologna 3 - 3 Inter",
+              "result": "D"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Coppa Italia: Final",
+              "teams_and_score": "Lazio 0 - 2 Inter",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Cagliari": "0",
+          "Inter": "7"
+        },
+        "shots_off_target": {
+          "Cagliari": "8",
+          "Inter": "17"
+        },
+        "shots_blocked": {
+          "Cagliari": "2",
+          "Inter": "7"
+        },
+        "corners": {
+          "Cagliari": "8",
+          "Inter": "6"
+        },
+        "fouls": {
+          "Cagliari": "6",
+          "Inter": "5"
+        },
+        "offsides": {
+          "Cagliari": "4",
+          "Inter": "1"
+        },
+        "yellow_cards": {
+          "Cagliari": "2",
+          "Inter": "1"
+        },
+        "goalkeeper_saves": {
+          "Cagliari": "5",
+          "Inter": "0"
+        },
+        "crosses": {
+          "Cagliari": "3",
+          "Inter": "11"
+        },
+        "ball_possession": {
+          "Cagliari": "35%",
+          "Inter": "65%"
+        }
+      },
+      "description": "Watch Cagliari vs Inter highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The Unipol Domus set the stage for a high-stakes Serie A encounter as Cagliari hosted the reigning giants Inter Milan . Both sides looked to assert dominance early on in a contest where every inch of the pitch was fiercely contested under the Sardinian lights. Calhanoglu’s Moment of Magic On August 30, 2026 , the match ignited early thanks to the individual brilliance of Hakan Calhanoglu . In the 9th minute, the Turkish playmaker received a ball following a sequence involving Petar Sucic and Nicolo Barella . From well outside the penalty area, Calhanoglu unleashed a powerful right-footed strike that flew past the keeper, giving Inter Milan an early lead and silencing the home crowd. Inter continued to control the tempo, though the game turned physical as Cagliari attempted to break. Manuel Akanji received a yellow card in the 14th minute for a tactical foul to halt a counter-attack. The Nerazzurri nearly doubled their lead in the 33rd minute when Nicolo Barella saw his goal-bound effort heroically hacked off the line by a Cagliari defender, keeping the hosts within touching distance before the break. Tactical Shifts and Defensive Grind The second half saw Cagliari push for an equalizer, with Jacopo Fazzini firing a long-range effort wide in the 50th minute. However, Inter’s defensive structure remained difficult to breach. Frustrations boiled over for the hosts as Alessandro Deiola was booked in the 56th minute for a cynical challenge on the break. Both managers looked to their benches to influence the final half-hour. Simone Inzaghi introduced Marcus Thuram , Piotr Zielinski , and John Stones to solidify the midfield and maintain their 65% possession. Cagliari responded with offensive changes, bringing on Kevin Carlos and Alieu Fadera , but they struggled to find a clear path to goal against a disciplined Inter backline. Late Drama at the Unipol Domus As the clock ticked into stoppage time, Cagliari threw everything forward. A flurry of corners from Alessandro Romano and Adam Obert tested the Inter resolve, but Benjamin Pavard and John Stones were dominant in the air, clearing multiple dangerous crosses. Despite a late long-range attempt from Juan Rodriguez that missed the target, Inter Milan held firm through five minutes of added time to secure a gritty away win and all three points."
+    },
+    {
+      "title": "Napoli vs Como",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-como-2026-08-30-uGWo.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/895.webp",
+          "name": "Como",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/492.webp",
+          "name": "Napoli",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Como_2026_08_30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Como",
+          "player": "M. Baturina",
+          "event_type": "Goal",
+          "assist": "A. Diao",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Napoli",
+          "player": "R. Højlund",
+          "event_type": "Goal",
+          "assist": "A. Rrahmani",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Como",
+          "player": "A. Douvikas",
+          "event_type": "Goal",
+          "assist": "M. Baturina",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Napoli",
+          "player": "G. D. Lorenzo",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Napoli_wins": "0",
+          "draws": "3",
+          "Como_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "02/05/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Como 1907 0 - 0 Napoli"
+          },
+          {
+            "date": "10/02/2026",
+            "competition": "Coppa Italia: Quarter-Finals",
+            "teams_and_score": "Napoli 1 - 1 Como 1907"
+          },
+          {
+            "date": "01/11/2025",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Napoli 0 - 0 Como 1907"
+          },
+          {
+            "date": "23/02/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Como 1907 2 - 1 Napoli"
+          },
+          {
+            "date": "01/02/2004",
+            "competition": "Serie Bwin",
+            "teams_and_score": "Como 1907 2 - 0 Napoli"
+          }
+        ],
+        "home_team_form": {
+          "team": "Napoli",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Napoli 1 - 2 Como 1907",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 6 - 2 Aris",
+              "result": "W"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Napoli 2 - 1 Osasuna",
+              "result": "W"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 2 - 0 Carrarese",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Napoli 1 - 0 Udinese",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Como",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Napoli 1 - 2 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 1 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Como 1907 3 - 2 Famalicao",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Napoli": "2",
+          "Como": "6"
+        },
+        "shots_off_target": {
+          "Napoli": "7",
+          "Como": "10"
+        },
+        "shots_blocked": {
+          "Napoli": "4",
+          "Como": "5"
+        },
+        "corners": {
+          "Napoli": "2",
+          "Como": "7"
+        },
+        "fouls": {
+          "Napoli": "9",
+          "Como": "5"
+        },
+        "offsides": {
+          "Napoli": "9",
+          "Como": "0"
+        },
+        "yellow_cards": {
+          "Napoli": "1",
+          "Como": "0"
+        },
+        "goalkeeper_saves": {
+          "Napoli": "4",
+          "Como": "1"
+        },
+        "crosses": {
+          "Napoli": "5",
+          "Como": "6"
+        },
+        "ball_possession": {
+          "Napoli": "42%",
+          "Como": "58%"
+        }
+      },
+      "description": "Watch Napoli vs Como highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The Serie A clash between SSC Napoli and Como delivered a masterclass in tactical discipline and clinical finishing. Both sides entered the fray with high ambitions, creating an atmosphere of anticipation that persisted throughout the encounter. First Half Fireworks The game erupted into life in the 17th minute when Como took a shock lead. Martin Baturina found the back of the net with a precise left-footed strike, set up by Assane Diao following a clever build-up involving Lucas Da Cunha . SSC Napoli responded with determination, and on August 30, 2026, they found their equalizer. Rasmus Hoejlund unleashed a spectacular effort from outside the box, beating the keeper with his left foot after being fed by Amir Rrahmani and Stanislav Lobotka . However, the parity lasted only four minutes. A defensive lapse from Amir Rrahmani in the 34th minute proved costly, as Anastasios Douvikas capitalized on the error. Assisted by the influential Baturina , Douvikas restored Como's lead with a clinical right-footed finish, leaving the home side trailing at the break. Second Half Pressure and VAR Drama As the second half progressed, Napoli ramped up the pressure, introducing Kevin De Bruyne and David Neres to spark a comeback. Despite waves of attacks, the Como defense, marshaled by Jean Butez , remained resolute. Butez made a vital save in the 90th minute to deny a header from Lorenzo Lucca , while Alex Meret at the other end had to stay alert to stop a late attempt from Douvikas . The defining moment arrived deep in stoppage time. In the 95th minute, play was halted for a VAR check regarding a potential Napoli goal. After an agonizing wait, the officials ruled the goal out due to an offside against Lorenzo Lucca . Despite holding 42% possession and throwing everything forward, Napoli couldn't find the breakthrough, as Como held on for a famous victory."
+    },
+    {
+      "title": "Lazio vs Genoa",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/lazio-v-genoa-2026-08-30-z9pH.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/495.webp",
+          "name": "Genoa",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/487.webp",
+          "name": "Lazio",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Lazio_v_Genoa_2026_08_30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Genoa",
+          "player": "L. Østigård",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Lazio",
+          "player": "D. Frattesi",
+          "event_type": "Goal",
+          "assist": "N. Tavares",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Genoa",
+          "player": "D. D. Rossi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Lazio",
+          "player": "M. Zaccagni",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Genoa",
+          "player": "A. Amorim",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Lazio_wins": "5",
+          "draws": "0",
+          "Genoa_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "30/01/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Lazio 3 - 2 Genoa"
+          },
+          {
+            "date": "23/04/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Genoa 0 - 2 Lazio"
+          },
+          {
+            "date": "19/04/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Genoa 0 - 1 Lazio"
+          },
+          {
+            "date": "05/12/2023",
+            "competition": "Coppa Italia: Round of 16 23/24",
+            "teams_and_score": "Lazio 1 - 0 Genoa"
+          },
+          {
+            "date": "27/08/2023",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Lazio 0 - 1 Genoa"
+          },
+          {
+            "date": "27/07/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Lazio 1 - 4 Genoa"
+          },
+          {
+            "date": "10/04/2022",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Genoa 1 - 4 Lazio"
+          }
+        ],
+        "home_team_form": {
+          "team": "Lazio",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Lazio 1 - 0 Genoa",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Lazio 0 - 2 Mantova",
+              "result": "L"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Frosinone 1 - 2 Lazio",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Ascoli 1 - 2 Lazio",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lazio 6 - 3 Avellino",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Genoa",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Lazio 1 - 0 Genoa",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Genoa 4 - 1 Ascoli",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Genoa 0 - 1 Deportivo A Coruna",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "AFC Bournemouth 10 - 1 Genoa",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leicester City 0 - 1 Genoa",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Lazio": "2",
+          "Genoa": "1"
+        },
+        "shots_off_target": {
+          "Lazio": "8",
+          "Genoa": "4"
+        },
+        "shots_blocked": {
+          "Lazio": "5",
+          "Genoa": "3"
+        },
+        "corners": {
+          "Lazio": "4",
+          "Genoa": "2"
+        },
+        "fouls": {
+          "Lazio": "18",
+          "Genoa": "6"
+        },
+        "offsides": {
+          "Lazio": "0",
+          "Genoa": "2"
+        },
+        "yellow_cards": {
+          "Lazio": "1",
+          "Genoa": "2"
+        },
+        "goalkeeper_saves": {
+          "Lazio": "1",
+          "Genoa": "1"
+        },
+        "crosses": {
+          "Lazio": "1",
+          "Genoa": "4"
+        },
+        "ball_possession": {
+          "Lazio": "46%",
+          "Genoa": "54%"
+        }
+      },
+      "description": "Watch Lazio vs Genoa highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 30, 2026. A high-stakes Serie A encounter unfolded on August 30, 2026, as Lazio welcomed Genoa to the capital. Both teams displayed immense tactical discipline in a match that kept the spectators on the edge of their seats until the final whistle. Frattesi Breaks the Deadlock The contest began with a cagey atmosphere, but it didn't take long for the hosts to find their rhythm. In the 25th minute, a moment of quality decided the direction of the half. Nuno Tavares delivered a precise assist to Davide Frattesi , who unleashed a clinical left-footed strike to put Lazio ahead. The goal injected energy into the home side, while Genoa struggled to find an immediate answer to the setback. As the first half progressed, tensions began to simmer. Genoa 's Leo Oestigard was shown a yellow card for a robust challenge, and the intensity spread to the touchline. The referee had little patience for dissent, eventually showing a yellow card to Daniele De Rossi as he vocally expressed his frustration. Despite some defensive blunders late in the half, the scoreline remained unchanged heading into the interval. Late Drama and Mandas' Heroics The second half saw a shift in momentum as Genoa pushed hard for an equalizer, controlling 54% of the possession. A series of tactical substitutions followed, with Junior Messias and Milutin Osmajic coming on to bolster the visitors' attack. Lazio retreated into a defensive shell, looking to protect their slender lead while inviting significant pressure from the genovese side. In a frantic finish, the visitors threw everything forward. Osmajic missed a golden opportunity with a header that sailed wide, but the defining moment came in the 94th minute. Christos Mandas produced a stunning save to deny Morten Frendrup 's goal-bound header, ensuring the hosts stayed in front. The match ended with a heated exchange between Mattia Zaccagni and Amorim , resulting in bookings for both, as Lazio held on for a gritty victory."
+    },
     {
       "title": "Sassuolo vs Torino",
       "thumbnail_url": "https://img.refooty.com/thumbnail/sassuolo-vs-torino-2026-08-29-4EEa.webp",
@@ -1122,6 +1787,246 @@
         }
       },
       "description": "Watch AC Milan vs Venezia highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 28, 2026. A tactical stalemate at San Siro On August 28, 2026, AC Milan and Venezia collided at the iconic San Siro in a Serie A fixture that promised a compelling display of tactical awareness. Both sides approached the match with caution, making it clear from the opening whistle that space would be at a premium throughout the ninety minutes. The flow of the game Throughout the first half, the battle was largely fought in the middle of the park. AC Milan sought to unlock the defense through the creative passing of Luka Modric , while the Venezia backline remained disciplined, albeit aggressive, picking up early cautions for tactical fouls. The defensive nature of the encounter meant that chances were rare, forcing both teams to rely on set-pieces and moments of individual brilliance to spark a goal . Breaking the deadlock momentum shifted significantly in the second half following a flurry of substitutions. The breakthrough finally arrived in the 69th minute when Goncalo Ramos capitalized on a clever assist from Alexis Saelemaekers , firing a left-footed strike into the net to give the home side the advantage. The goal forced Venezia to push forward, but the intensity of the match only increased as the visitors searched for an equalizer. Late drama concludes the tie Just as the game seemed to be settling into a predictable rhythm, disaster struck for the visitors. In the 89th minute, an unfortunate defensive blunder led to an own goal by Redouane Halhal , shifting the outcome of the contest. Despite a late push by Venezia during the four minutes of stoppage time, featuring corner kicks from Gianluca Busio , the AC Milan defense stood tall to secure a hard-fought result in this sports encounter."
+    },
+    {
+      "title": "Inter Milan vs Monza",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/inter-milan-v-monza-2026-08-22-h7v9.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1579.webp",
+          "name": "Monza",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/505.webp",
+          "name": "Inter",
+          "score": "4"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Inter_Milan_v_Monza_2026_08_22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "6'",
+          "team": "Inter",
+          "player": "H. Çalhanoğlu",
+          "event_type": "Goal",
+          "assist": "A. Diouf",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "29'",
+          "team": "Monza",
+          "player": "G. Varela",
+          "event_type": "Goal",
+          "assist": "M. Mout",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "34'",
+          "team": "Inter",
+          "player": "L. Martínez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+1'",
+          "team": "Inter",
+          "player": "H. Çalhanoğlu",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Inter",
+          "player": "P. Zieliński",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Inter",
+          "player": "F. P. Esposito",
+          "event_type": "Goal",
+          "assist": "A. Diouf",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Inter",
+          "player": "Y. Bisseck",
+          "event_type": "Goal",
+          "assist": "F. P. Esposito",
+          "score_update": "4 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Monza",
+          "player": "E. Kouadio",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Monza",
+          "player": "L. Lucchesi",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Inter_wins": "2",
+          "draws": "1",
+          "Monza_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "12/08/2025",
+            "competition": "Club Friendlies 2025",
+            "teams_and_score": "Monza 2 - 2 Inter"
+          },
+          {
+            "date": "08/03/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Inter 3 - 2 Monza"
+          },
+          {
+            "date": "13/01/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Monza 1 - 5 Inter"
+          },
+          {
+            "date": "15/04/2023",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "Inter 0 - 1 Monza"
+          }
+        ],
+        "home_team_form": {
+          "team": "Inter",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Inter 4 - 1 Monza",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Inter 1 - 0 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Juventus 1 - 2 Inter",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Bologna 3 - 3 Inter",
+              "result": "D"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Coppa Italia: Final",
+              "teams_and_score": "Lazio 0 - 2 Inter",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Monza",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Inter 4 - 1 Monza",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Monza 3 - 0 Avellino",
+              "result": "W"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Monza 3 - 3 Calcio Padova",
+              "result": "D"
+            },
+            {
+              "date": "29/05/2026",
+              "competition": "Serie B: Promotion: Play-off",
+              "teams_and_score": "Monza 0 - 2 Catanzaro",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Inter": "5",
+          "Monza": "3"
+        },
+        "shots_off_target": {
+          "Inter": "5",
+          "Monza": "3"
+        },
+        "shots_blocked": {
+          "Inter": "3",
+          "Monza": "1"
+        },
+        "corners": {
+          "Inter": "3",
+          "Monza": "3"
+        },
+        "fouls": {
+          "Inter": "5",
+          "Monza": "14"
+        },
+        "offsides": {
+          "Inter": "0",
+          "Monza": "8"
+        },
+        "yellow_cards": {
+          "Inter": "2",
+          "Monza": "2"
+        },
+        "goalkeeper_saves": {
+          "Inter": "2",
+          "Monza": "1"
+        },
+        "crosses": {
+          "Inter": "3",
+          "Monza": "3"
+        },
+        "ball_possession": {
+          "Inter": "71%",
+          "Monza": "29%"
+        }
+      },
+      "description": "Watch Inter vs Monza highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 22, 2026. Inter Milan and Monza locked horns at the San Siro in a clash that promised tactical intrigue and high-intensity football from the opening whistle. The encounter on August 22, 2026, saw both teams testing each other's resolve in a classic Italian top-flight atmosphere. Early Fireworks and a Quick Response The match ignited early for the home side. In just the 6th minute, Inter took the lead when Hakan Calhanoglu unleashed a powerful strike from outside the box, finding the net after being set up by Andy Diouf . A VAR check followed, but the goal stood, sending the home crowd into raptures. However, Monza refused to be intimidated by the early deficit. They grew into the game and found an equalizer in the 29th minute. Gustavo Varela clinical finish with his right foot, assisted by Mathis Mout , restored parity and set the stage for a competitive battle through the remainder of the first half. Inter Take Charge in the Second Half The second half saw Inter shift into a higher gear, asserting their dominance almost immediately after the restart. In the 48th minute, Piotr Zielinski reacted quickest to a loose ball in the area, firing home to put the Nerazzurri back in front. The momentum stayed firmly with the hosts, and in the 55th minute, Francesco Pio Esposito produced a moment of individual brilliance, scoring with a fantastic back-heel following a cross from Andy Diouf . The clinical nature of the performance continued as Yann Aurel Bisseck added a fourth in the 63rd minute, finishing with his left foot after a key pass from Esposito . Dominance and Closing Stages With a comfortable lead established, Inter controlled the tempo, finishing the match with an overwhelming 71% possession. Tactical substitutions followed, with John Stones and Aleksandar Stankovic coming on to see out the result. Monza struggled to find a way back into the contest, hindered by several offside calls and a yellow card for Lorenzo Lucchesi late in the game for a tactical foul. Despite a few late attempts at goal from the home side, the scoreline remained unchanged until the final whistle, confirming a comprehensive victory for the Milan giants in front of their home supporters."
     },
     {
       "title": "AS Roma vs Fiorentina",
@@ -2473,246 +3378,6 @@
         }
       },
       "description": "Watch Venezia vs Lecce highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 23, 2026. On August 23, 2026, Venezia hosted Lecce in a Serie A fixture that promised tactical intrigue and high stakes. Both teams sought to assert dominance early, creating an atmosphere charged with anticipation as the match unfolded under the lights. VAR Interventions and Woodwork Rattled The first half was defined by near misses and technical drama. Venezia thought they had taken the lead in the 18th minute, only for the referee to revoke the goal after a VAR review identified a foul in the buildup. The scare served as a wake-up call for both sides. Gianluca Busio came agonizingly close for the hosts when his shot struck the post, and minutes later, Lecce 's Lassana Coulibaly saw his own effort bounce off the woodwork. Despite the high energy, the deadlock remained unbroken as the teams headed into the tunnel. Early Second-Half Breakthrough The game shifted immediately after the restart. In the 46th minute, a defensive lapse by Armel Bella-Kotchap proved costly. Lassana Coulibaly capitalized on the error to set up Olaf Gorter , whose right-footed strike took a significant deflection to find the back of the net. The goal forced Venezia to push higher up the pitch, and while they dominated the ball—maintaining 71% possession throughout the game—they struggled to break down a resilient Lecce defense led by goalkeeper Wladimiro Falcone . Clinical Lecce Secure the Points History repeated itself for the hosts in the 76th minute when another potential equalizer was ruled out by VAR , this time for an offside against Akor Adams . Lecce made them pay for their lack of clinical finishing just four minutes later. From a corner delivered by Youssef Maleh , Tiago Gabriel rose highest to power a header home, effectively sealing the result. Venezia had one final golden opportunity in stoppage time, but Ridgeciano Haps missed a sitter from close range, leaving the home fans in disbelief as the final whistle blew."
-    },
-    {
-      "title": "Inter Milan vs Monza",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/inter-milan-v-monza-2026-08-22-h7v9.webp",
-      "competition": "Serie A",
-      "competition_cover": "https://refooty.com/covers/serie-a.webp",
-      "date": "Aug 22, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1579.webp",
-          "name": "Monza",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/505.webp",
-          "name": "Inter",
-          "score": "4"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Inter_Milan_v_Monza_2026_08_22.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "6'",
-          "team": "Inter",
-          "player": "H. Çalhanoğlu",
-          "event_type": "Goal",
-          "assist": "A. Diouf",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "29'",
-          "team": "Monza",
-          "player": "G. Varela",
-          "event_type": "Goal",
-          "assist": "M. Mout",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "34'",
-          "team": "Inter",
-          "player": "L. Martínez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+1'",
-          "team": "Inter",
-          "player": "H. Çalhanoğlu",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Inter",
-          "player": "P. Zieliński",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Inter",
-          "player": "F. P. Esposito",
-          "event_type": "Goal",
-          "assist": "A. Diouf",
-          "score_update": "3 - 1"
-        },
-        {
-          "time": "76'",
-          "team": "Inter",
-          "player": "Y. Bisseck",
-          "event_type": "Goal",
-          "assist": "F. P. Esposito",
-          "score_update": "4 - 1"
-        },
-        {
-          "time": "91'",
-          "team": "Monza",
-          "player": "E. Kouadio",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Monza",
-          "player": "L. Lucchesi",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Inter_wins": "2",
-          "draws": "1",
-          "Monza_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "12/08/2025",
-            "competition": "Club Friendlies 2025",
-            "teams_and_score": "Monza 2 - 2 Inter"
-          },
-          {
-            "date": "08/03/2025",
-            "competition": "Serie A 24/25",
-            "teams_and_score": "Inter 3 - 2 Monza"
-          },
-          {
-            "date": "13/01/2024",
-            "competition": "Serie A 23/24",
-            "teams_and_score": "Monza 1 - 5 Inter"
-          },
-          {
-            "date": "15/04/2023",
-            "competition": "Serie A 22/23",
-            "teams_and_score": "Inter 0 - 1 Monza"
-          }
-        ],
-        "home_team_form": {
-          "team": "Inter",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Inter 4 - 1 Monza",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Inter 1 - 0 Real Betis",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Juventus 1 - 2 Inter",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Bologna 3 - 3 Inter",
-              "result": "D"
-            },
-            {
-              "date": "13/05/2026",
-              "competition": "Coppa Italia: Final",
-              "teams_and_score": "Lazio 0 - 2 Inter",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Monza",
-          "form": [
-            "L",
-            "W",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Inter 4 - 1 Monza",
-              "result": "L"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Monza 3 - 0 Avellino",
-              "result": "W"
-            },
-            {
-              "date": "07/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Monza 3 - 3 Calcio Padova",
-              "result": "D"
-            },
-            {
-              "date": "29/05/2026",
-              "competition": "Serie B: Promotion: Play-off",
-              "teams_and_score": "Monza 0 - 2 Catanzaro",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Inter": "5",
-          "Monza": "3"
-        },
-        "shots_off_target": {
-          "Inter": "5",
-          "Monza": "3"
-        },
-        "shots_blocked": {
-          "Inter": "3",
-          "Monza": "1"
-        },
-        "corners": {
-          "Inter": "3",
-          "Monza": "3"
-        },
-        "fouls": {
-          "Inter": "5",
-          "Monza": "14"
-        },
-        "offsides": {
-          "Inter": "0",
-          "Monza": "8"
-        },
-        "yellow_cards": {
-          "Inter": "2",
-          "Monza": "2"
-        },
-        "goalkeeper_saves": {
-          "Inter": "2",
-          "Monza": "1"
-        },
-        "crosses": {
-          "Inter": "3",
-          "Monza": "3"
-        },
-        "ball_possession": {
-          "Inter": "71%",
-          "Monza": "29%"
-        }
-      },
-      "description": "Watch Inter vs Monza highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 22, 2026. Inter Milan and Monza locked horns at the San Siro in a clash that promised tactical intrigue and high-intensity football from the opening whistle. The encounter on August 22, 2026, saw both teams testing each other's resolve in a classic Italian top-flight atmosphere. Early Fireworks and a Quick Response The match ignited early for the home side. In just the 6th minute, Inter took the lead when Hakan Calhanoglu unleashed a powerful strike from outside the box, finding the net after being set up by Andy Diouf . A VAR check followed, but the goal stood, sending the home crowd into raptures. However, Monza refused to be intimidated by the early deficit. They grew into the game and found an equalizer in the 29th minute. Gustavo Varela clinical finish with his right foot, assisted by Mathis Mout , restored parity and set the stage for a competitive battle through the remainder of the first half. Inter Take Charge in the Second Half The second half saw Inter shift into a higher gear, asserting their dominance almost immediately after the restart. In the 48th minute, Piotr Zielinski reacted quickest to a loose ball in the area, firing home to put the Nerazzurri back in front. The momentum stayed firmly with the hosts, and in the 55th minute, Francesco Pio Esposito produced a moment of individual brilliance, scoring with a fantastic back-heel following a cross from Andy Diouf . The clinical nature of the performance continued as Yann Aurel Bisseck added a fourth in the 63rd minute, finishing with his left foot after a key pass from Esposito . Dominance and Closing Stages With a comfortable lead established, Inter controlled the tempo, finishing the match with an overwhelming 71% possession. Tactical substitutions followed, with John Stones and Aleksandar Stankovic coming on to see out the result. Monza struggled to find a way back into the contest, hindered by several offside calls and a yellow card for Lorenzo Lucchesi late in the game for a tactical foul. Despite a few late attempts at goal from the home side, the scoreline remained unchanged until the final whistle, confirming a comprehensive victory for the Milan giants in front of their home supporters."
     }
   ]
 }

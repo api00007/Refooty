@@ -1,83 +1,153 @@
 {
   "team": "Inter",
   "team_logo": "https://img.refooty.com/logo/teams/505.webp",
-  "total_matches": 6,
-  "Last update time": "12:50:20 AM 31-08-2026",
+  "total_matches": 7,
+  "Last update time": "10:30:38 PM 31-08-2026",
   "matches": [
     {
-      "title": "Inter vs Real Betis",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/inter-vs-real-betis-2026-08-15-Jrmz.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 15, 2026",
+      "title": "Cagliari vs Inter Milan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/cagliari-v-inter-milan-2026-08-30-bbb1.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 30, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/543.webp",
-          "name": "Real Betis",
-          "score": "0"
-        },
-        "home_team": {
           "logo": "https://img.refooty.com/logo/teams/505.webp",
           "name": "Inter",
           "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/490.webp",
+          "name": "Cagliari",
+          "score": "0"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/inter-vs-real-betis-2026-08-15_8Rmol.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/Cagliari_v_Inter_Milan_2026_08_30.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "65'",
+          "time": "1'",
           "team": "Inter",
-          "player": "F. P. Esposito",
+          "player": "H. Çalhanoğlu",
+          "event_type": "Goal",
+          "assist": "N. Barella",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Inter",
+          "player": "M. Akanji",
           "event_type": "Yellow Card"
         },
         {
-          "time": "82'",
-          "team": "Inter",
-          "player": "J. Stones",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
+          "time": "46'",
+          "team": "Cagliari",
+          "player": "A. Deiola",
+          "event_type": "Yellow Card"
         },
         {
-          "time": "90+4'",
-          "team": "Real Betis",
-          "player": "Natan",
+          "time": "61'",
+          "team": "Cagliari",
+          "player": "K. Carlos",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Inter_wins": "1",
+          "Cagliari_wins": "0",
           "draws": "1",
-          "Real Betis_wins": "0"
+          "Inter_wins": "4"
         },
         "previous_matches": [
           {
-            "date": "17/12/2022",
-            "competition": "Club Friendlies 2022",
-            "teams_and_score": "Real Betis 1 - 1 Inter"
+            "date": "17/04/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Inter 3 - 0 Cagliari"
           },
           {
-            "date": "12/08/2017",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Inter 1 - 0 Real Betis"
+            "date": "12/04/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Inter 3 - 1 Cagliari"
+          },
+          {
+            "date": "14/04/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Inter 2 - 2 Cagliari"
+          },
+          {
+            "date": "15/05/2022",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Cagliari 1 - 3 Inter"
+          },
+          {
+            "date": "11/04/2021",
+            "competition": "Serie A 20/21",
+            "teams_and_score": "Inter 1 - 0 Cagliari"
           }
         ],
         "home_team_form": {
+          "team": "Cagliari",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Cagliari 0 - 1 Inter",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Cagliari 1 - 0 S.S. Arezzo",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cagliari 0 - 0 Nice",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Union Berlin 2 - 2 Cagliari",
+              "result": "D"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cagliari 1 - 0 Modena",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
           "team": "Inter",
           "form": [
             "W",
             "W",
-            "D",
             "W",
+            "D",
             "W"
           ],
           "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Cagliari 0 - 1 Inter",
+              "result": "W"
+            },
             {
               "date": "15/08/2026",
               "competition": "Club Friendlies 2026",
@@ -101,53 +171,53 @@
               "competition": "Coppa Italia: Final",
               "teams_and_score": "Lazio 0 - 2 Inter",
               "result": "W"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Lazio 0 - 3 Inter",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Real Betis",
-          "form": [
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Inter 1 - 0 Real Betis",
-              "result": "L"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Arsenal 1 - 3 Real Betis",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Betis 1 - 0 Almeria",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Real Betis 2 - 1 Levante",
-              "result": "W"
             }
           ]
         }
       },
-      "statistics": {},
-      "description": "Watch Inter vs Real Betis highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 15, 2026. Inter and Real Betis faced off in a pre-season friendly that served as a crucial test for both squads' fitness and tactical cohesion. The match offered a glimpse into the preparations of both sides as they gear up for their respective domestic campaigns. Tactical Battle in the Summer Heat On August 15, 2026 , Inter hosted Real Betis in a high-profile Friendly encounter. Both teams looked to find their rhythm early on, resulting in a cautious first half that focused heavily on defensive structure and midfield duels. While both sides showed glimpses of quality, the final ball often lacked the necessary precision to break the deadlock during the opening 45 minutes. Stones Secures the Breakthrough The intensity rose in the second half as substitutions altered the flow of the game. In the 65th minute, F. P. Esposito was shown a yellow card as the physical nature of the contest intensified. Just as a stalemate seemed the most likely outcome, the breakthrough arrived in the 82nd minute. John Stones found the back of the net to give Inter a 1-0 lead, capitalising on a late surge of pressure. Real Betis pushed hard for a late equalizer, but their efforts were met by a resolute Italian defense. The frustration of the Spanish side became evident in stoppage time when Natan received a yellow card in the 90+4th minute, effectively ending their hopes of a comeback in this tightly contested match."
+      "statistics": {
+        "shots_on_target": {
+          "Cagliari": "0",
+          "Inter": "7"
+        },
+        "shots_off_target": {
+          "Cagliari": "8",
+          "Inter": "17"
+        },
+        "shots_blocked": {
+          "Cagliari": "2",
+          "Inter": "7"
+        },
+        "corners": {
+          "Cagliari": "8",
+          "Inter": "6"
+        },
+        "fouls": {
+          "Cagliari": "6",
+          "Inter": "5"
+        },
+        "offsides": {
+          "Cagliari": "4",
+          "Inter": "1"
+        },
+        "yellow_cards": {
+          "Cagliari": "2",
+          "Inter": "1"
+        },
+        "goalkeeper_saves": {
+          "Cagliari": "5",
+          "Inter": "0"
+        },
+        "crosses": {
+          "Cagliari": "3",
+          "Inter": "11"
+        },
+        "ball_possession": {
+          "Cagliari": "35%",
+          "Inter": "65%"
+        }
+      },
+      "description": "Watch Cagliari vs Inter highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The Unipol Domus set the stage for a high-stakes Serie A encounter as Cagliari hosted the reigning giants Inter Milan . Both sides looked to assert dominance early on in a contest where every inch of the pitch was fiercely contested under the Sardinian lights. Calhanoglu’s Moment of Magic On August 30, 2026 , the match ignited early thanks to the individual brilliance of Hakan Calhanoglu . In the 9th minute, the Turkish playmaker received a ball following a sequence involving Petar Sucic and Nicolo Barella . From well outside the penalty area, Calhanoglu unleashed a powerful right-footed strike that flew past the keeper, giving Inter Milan an early lead and silencing the home crowd. Inter continued to control the tempo, though the game turned physical as Cagliari attempted to break. Manuel Akanji received a yellow card in the 14th minute for a tactical foul to halt a counter-attack. The Nerazzurri nearly doubled their lead in the 33rd minute when Nicolo Barella saw his goal-bound effort heroically hacked off the line by a Cagliari defender, keeping the hosts within touching distance before the break. Tactical Shifts and Defensive Grind The second half saw Cagliari push for an equalizer, with Jacopo Fazzini firing a long-range effort wide in the 50th minute. However, Inter’s defensive structure remained difficult to breach. Frustrations boiled over for the hosts as Alessandro Deiola was booked in the 56th minute for a cynical challenge on the break. Both managers looked to their benches to influence the final half-hour. Simone Inzaghi introduced Marcus Thuram , Piotr Zielinski , and John Stones to solidify the midfield and maintain their 65% possession. Cagliari responded with offensive changes, bringing on Kevin Carlos and Alieu Fadera , but they struggled to find a clear path to goal against a disciplined Inter backline. Late Drama at the Unipol Domus As the clock ticked into stoppage time, Cagliari threw everything forward. A flurry of corners from Alessandro Romano and Adam Obert tested the Inter resolve, but Benjamin Pavard and John Stones were dominant in the air, clearing multiple dangerous crosses. Despite a late long-range attempt from Juan Rodriguez that missed the target, Inter Milan held firm through five minutes of added time to secure a gritty away win and all three points."
     },
     {
       "title": "Juventus vs Inter Milan",
@@ -1066,6 +1136,151 @@
       },
       "statistics": {},
       "description": "Watch Manchester City vs Inter highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
+    },
+    {
+      "title": "Inter vs Real Betis",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/inter-vs-real-betis-2026-08-15-Jrmz.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/543.webp",
+          "name": "Real Betis",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/505.webp",
+          "name": "Inter",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/inter-vs-real-betis-2026-08-15_8Rmol.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "65'",
+          "team": "Inter",
+          "player": "F. P. Esposito",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "82'",
+          "team": "Inter",
+          "player": "J. Stones",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "90+4'",
+          "team": "Real Betis",
+          "player": "Natan",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Inter_wins": "1",
+          "draws": "1",
+          "Real Betis_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "17/12/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Real Betis 1 - 1 Inter"
+          },
+          {
+            "date": "12/08/2017",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Inter 1 - 0 Real Betis"
+          }
+        ],
+        "home_team_form": {
+          "team": "Inter",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Inter 1 - 0 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Juventus 1 - 2 Inter",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Bologna 3 - 3 Inter",
+              "result": "D"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Coppa Italia: Final",
+              "teams_and_score": "Lazio 0 - 2 Inter",
+              "result": "W"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Lazio 0 - 3 Inter",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Real Betis",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Inter 1 - 0 Real Betis",
+              "result": "L"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 3 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Betis 1 - 0 Almeria",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Real Betis 2 - 1 Levante",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Inter vs Real Betis highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 15, 2026. Inter and Real Betis faced off in a pre-season friendly that served as a crucial test for both squads' fitness and tactical cohesion. The match offered a glimpse into the preparations of both sides as they gear up for their respective domestic campaigns. Tactical Battle in the Summer Heat On August 15, 2026 , Inter hosted Real Betis in a high-profile Friendly encounter. Both teams looked to find their rhythm early on, resulting in a cautious first half that focused heavily on defensive structure and midfield duels. While both sides showed glimpses of quality, the final ball often lacked the necessary precision to break the deadlock during the opening 45 minutes. Stones Secures the Breakthrough The intensity rose in the second half as substitutions altered the flow of the game. In the 65th minute, F. P. Esposito was shown a yellow card as the physical nature of the contest intensified. Just as a stalemate seemed the most likely outcome, the breakthrough arrived in the 82nd minute. John Stones found the back of the net to give Inter a 1-0 lead, capitalising on a late surge of pressure. Real Betis pushed hard for a late equalizer, but their efforts were met by a resolute Italian defense. The frustration of the Spanish side became evident in stoppage time when Natan received a yellow card in the 90+4th minute, effectively ending their hopes of a comeback in this tightly contested match."
     }
   ]
 }

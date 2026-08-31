@@ -1,9 +1,206 @@
 {
   "team": "Telstar",
   "team_logo": "https://img.refooty.com/logo/teams/427.webp",
-  "total_matches": 1,
-  "Last update time": "12:50:21 AM 31-08-2026",
+  "total_matches": 2,
+  "Last update time": "10:30:38 PM 31-08-2026",
   "matches": [
+    {
+      "title": "Telstar vs Ajax Amsterdam",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/telstar-vs-ajax-amsterdam-2026-08-30-4kZ0.webp",
+      "competition": "Eredivisie",
+      "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/194.webp",
+          "name": "Ajax Amsterdam",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/427.webp",
+          "name": "Telstar",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/telstar-vs-ajax-amsterdam-2026-08-30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Ajax Amsterdam",
+          "player": "D. Klaassen",
+          "event_type": "Goal",
+          "assist": "S. Berghuis",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Ajax Amsterdam",
+          "player": "S. Berghuis",
+          "event_type": "Goal",
+          "assist": "O. Gloukh",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Ajax Amsterdam",
+          "player": "T. Arokodare",
+          "event_type": "Goal",
+          "assist": "S. Berghuis",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "76'",
+          "team": "Ajax Amsterdam",
+          "player": "M. Leonardo",
+          "event_type": "Goal",
+          "score_update": "0 - 4"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Telstar_wins": "0",
+          "draws": "0",
+          "Ajax Amsterdam_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "11/01/2026",
+            "competition": "Eredivisie",
+            "teams_and_score": "Telstar 2 - 3 Ajax"
+          },
+          {
+            "date": "19/12/2024",
+            "competition": "KNVB Beker: Round 2",
+            "teams_and_score": "Ajax 2 - 0 Telstar"
+          },
+          {
+            "date": "30/12/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Ajax 5 - 1 Telstar"
+          },
+          {
+            "date": "18/12/2019",
+            "competition": "KNVB Beker 19/20",
+            "teams_and_score": "Telstar 3 - 4 Ajax"
+          }
+        ],
+        "home_team_form": {
+          "team": "Telstar",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "Telstar 0 - 4 Ajax",
+              "result": "L"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Wolfsburg 3 - 1 Telstar",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "FC Volendam 1 - 2 Telstar",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Ajax Amsterdam",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "Telstar 0 - 4 Ajax",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Ajax 5 - 3 Sion",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "Ajax 2 - 2 SC Heerenveen",
+              "result": "D"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Shelbourne 2 - 2 Ajax",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "PEC Zwolle 0 - 2 Ajax",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Telstar": "4",
+          "Ajax Amsterdam": "9"
+        },
+        "shots_off_target": {
+          "Telstar": "5",
+          "Ajax Amsterdam": "2"
+        },
+        "shots_blocked": {
+          "Telstar": "2",
+          "Ajax Amsterdam": "1"
+        },
+        "corners": {
+          "Telstar": "5",
+          "Ajax Amsterdam": "4"
+        },
+        "fouls": {
+          "Telstar": "11",
+          "Ajax Amsterdam": "13"
+        },
+        "offsides": {
+          "Telstar": "2",
+          "Ajax Amsterdam": "2"
+        },
+        "goalkeeper_saves": {
+          "Telstar": "5",
+          "Ajax Amsterdam": "5"
+        },
+        "crosses": {
+          "Telstar": "3",
+          "Ajax Amsterdam": "5"
+        },
+        "ball_possession": {
+          "Telstar": "42%",
+          "Ajax Amsterdam": "58%"
+        }
+      },
+      "description": "Watch Telstar vs Ajax Amsterdam highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on August 30, 2026. Tension and tactical anticipation filled the air as two sides prepared to battle for supremacy in a high-stakes Eredivisie encounter. With a focused crowd watching on, the stage was set on August 30, 2026, for a match that promised to test the defensive organization and attacking fluidity of both teams. Opening the Account As the game progressed, Ajax began to dictate the flow of play, maintaining higher possession and pressing high up the pitch. Their persistence paid dividends in the 37th minute when Steven Berghuis whipped in a dangerous delivery, finding Davy Klaassen , who tapped home with ease. Despite the setback, Telstar continued to fight, creating opportunities through set pieces, though they struggled to find the clinical touch needed to challenge the visitor's backline. A Clinical Second Half Ajax returned from the interval with renewed intensity, eager to put the game to bed. Steven Berghuis turned from provider to goalscorer in the 56th minute, firing home after a clever setup from Oscar Gloukh . Just four minutes later, Tolu Arokodare doubled his side's efforts with a brilliant strike from distance. The dominance continued throughout the second half, with Marcos Leonardo rounding off the scoring in the 78th minute. A final attendance of 5146 witnessed a controlled performance that underscored the visitors' dominance on the day."
+    },
     {
       "title": "NEC Nijmegen vs Telstar",
       "thumbnail_url": "https://img.refooty.com/thumbnail/nec-nijmegen-vs-telstar-2026-08-08-Fwnp.webp",
