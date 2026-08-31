@@ -1,9 +1,230 @@
 {
   "competition": "Premier League",
   "competition_cover": "https://refooty.com/covers/premier-league.webp",
-  "total_matches": 13,
-  "Last update time": "01:30:24 AM 01-09-2026",
+  "total_matches": 14,
+  "Last update time": "03:00:07 AM 01-09-2026",
   "matches": [
+    {
+      "title": "Aston Villa vs Arsenal",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/aston-villa-v-arsenal-2026-08-31-IDYf.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 31, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/42.webp",
+          "name": "Arsenal",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/66.webp",
+          "name": "Aston Villa",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Aston_Villa_v_Arsenal_2026_08_31.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Arsenal",
+          "player": "C. Tzolis",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "59'",
+          "team": "Arsenal",
+          "player": "B. Saka",
+          "event_type": "Goal",
+          "assist": "R. Calafiori",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "80'",
+          "team": "Aston Villa",
+          "player": "A. Edward",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "81'",
+          "team": "Aston Villa",
+          "player": "J. McGinn",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+6'",
+          "team": "Aston Villa",
+          "player": "I. Maatsen",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Aston Villa_wins": "1",
+          "draws": "1",
+          "Arsenal_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "30/12/2025",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Arsenal 4 - 1 Aston Villa"
+          },
+          {
+            "date": "18/01/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Arsenal 2 - 2 Aston Villa"
+          },
+          {
+            "date": "14/04/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "Arsenal 0 - 2 Aston Villa"
+          },
+          {
+            "date": "18/02/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Aston Villa 2 - 4 Arsenal"
+          },
+          {
+            "date": "19/03/2022",
+            "competition": "Premier League 21/22",
+            "teams_and_score": "Aston Villa 0 - 1 Arsenal"
+          }
+        ],
+        "home_team_form": {
+          "team": "Aston Villa",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "31/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Aston Villa 0 - 1 Arsenal",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Borussia M'gladbach 2 - 1 Aston Villa",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "UEFA Super Cup",
+              "teams_and_score": "Paris Saint-Germain 2 - 1 Aston Villa",
+              "result": "L"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bayern Munich 2 - 1 Aston Villa",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Manchester City 1 - 2 Aston Villa",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Arsenal",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "31/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Aston Villa 0 - 1 Arsenal",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Community Shield",
+              "teams_and_score": "Arsenal 3 - 0 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 1 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Final",
+              "teams_and_score": "Paris Saint-Germain 1 - 1 Arsenal",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Crystal Palace 1 - 2 Arsenal",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Aston Villa": "0",
+          "Arsenal": "2"
+        },
+        "shots_off_target": {
+          "Aston Villa": "5",
+          "Arsenal": "4"
+        },
+        "shots_blocked": {
+          "Aston Villa": "2",
+          "Arsenal": "1"
+        },
+        "corners": {
+          "Aston Villa": "2",
+          "Arsenal": "4"
+        },
+        "fouls": {
+          "Aston Villa": "17",
+          "Arsenal": "6"
+        },
+        "offsides": {
+          "Aston Villa": "0",
+          "Arsenal": "8"
+        },
+        "yellow_cards": {
+          "Aston Villa": "3",
+          "Arsenal": "1"
+        },
+        "goalkeeper_saves": {
+          "Aston Villa": "1",
+          "Arsenal": "0"
+        },
+        "crosses": {
+          "Aston Villa": "1",
+          "Arsenal": "3"
+        },
+        "ball_possession": {
+          "Aston Villa": "39%",
+          "Arsenal": "61%"
+        }
+      },
+      "description": "Watch Aston Villa vs Arsenal highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 31, 2026."
+    },
     {
       "title": "Sunderland vs Fulham",
       "thumbnail_url": "https://img.refooty.com/thumbnail/sunderland-v-fulham-2026-08-30-ZmCm.webp",
@@ -2151,208 +2372,6 @@
       "description": "Watch Crystal Palace vs Manchester City highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 28, 2026. The Premier League stage was set at Selhurst Park on August 28, 2026, as Crystal Palace hosted Manchester City . Both teams entered the fray looking to secure vital points in what promised to be an intense tactical battle. City Take Charge Early Manchester City established their dominance from the opening whistle, controlling the tempo and pinning Crystal Palace back. An early scare for the hosts came in the 7th minute when Erling Haaland saw his goal-bound effort hacked off the line. The pressure finally told in the 17th minute; Josko Gvardiol initiated a move that saw Antoine Semenyo provide a pinpoint cross for Erling Haaland to head home. Despite several more attempts and a yellow card for Rayan Cherki , the visitors headed into the break with a slender but deserved lead. A Frenetic Second Half The match exploded into life after the interval. In the 54th minute, Rayan Cherki doubled the lead with a sharp left-footed finish, assisted by Phil Foden . However, the home side were gifted a lifeline just two minutes later when an unfortunate own goal by Gianluigi Donnarumma reduced the deficit. The comeback hopes were short-lived, as Rayan Cherki struck again in the 59th minute, finding the net with a deflected right-footed shot after a clever pass from Josko Gvardiol . Clinical Finishing Secures the Points As the game entered its final stages, both managers turned to their benches to refresh their lineups. Despite the changes, the momentum remained firmly with the visitors. In the 84th minute, Erling Haaland capitalized on a defensive lapse involving Marc Guehi to score his second of the match with a clinical left-footed strike, following another assist from Phil Foden . With 73% possession and a total command of the pitch, Manchester City cruised through the final minutes to claim a comprehensive victory."
     },
     {
-      "title": "Brentford vs Tottenham Hotspur",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/brentford-v-tottenham-2026-08-22-UA6g.webp",
-      "competition": "Premier League",
-      "competition_cover": "https://refooty.com/covers/premier-league.webp",
-      "date": "Aug 22, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/15638.webp",
-          "name": "Tottenham",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/55.webp",
-          "name": "Brentford",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Brentford_v_Tottenham_2026_08_22.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Brentford",
-          "player": "K. Lewis-Potter",
-          "event_type": "Goal",
-          "assist": "M. Sangare",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Brentford",
-          "player": "V. Janelt",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Tottenham",
-          "player": "C. Gallagher",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Brentford",
-          "player": "M. Kayode",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Brentford",
-          "player": "I. Thiago",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "76'",
-          "team": "Brentford",
-          "player": "V. Janelt",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Brentford_wins": "1",
-          "draws": "2",
-          "Tottenham_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "01/01/2026",
-            "competition": "Premier League 25/26",
-            "teams_and_score": "Brentford 0 - 0 Tottenham Hotspur"
-          },
-          {
-            "date": "02/02/2025",
-            "competition": "Premier League 24/25",
-            "teams_and_score": "Brentford 0 - 2 Tottenham Hotspur"
-          },
-          {
-            "date": "31/01/2024",
-            "competition": "Premier League 23/24",
-            "teams_and_score": "Tottenham Hotspur 3 - 2 Brentford"
-          },
-          {
-            "date": "20/05/2023",
-            "competition": "Premier League 22/23",
-            "teams_and_score": "Tottenham Hotspur 1 - 3 Brentford"
-          },
-          {
-            "date": "23/04/2022",
-            "competition": "Premier League 21/22",
-            "teams_and_score": "Brentford 0 - 0 Tottenham Hotspur"
-          }
-        ],
-        "home_team_form": {
-          "team": "Brentford",
-          "form": [
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Brentford 7 - 0 Eintracht Frankfurt",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Liverpool 1 - 1 Brentford",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Tottenham",
-          "form": [
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Tottenham Hotspur 2 - 2 Hoffenheim",
-              "result": "D"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Tottenham Hotspur 1 - 0 Everton",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Brentford": "8",
-          "Tottenham": "4"
-        },
-        "shots_off_target": {
-          "Brentford": "11",
-          "Tottenham": "3"
-        },
-        "shots_blocked": {
-          "Brentford": "7",
-          "Tottenham": "2"
-        },
-        "corners": {
-          "Brentford": "7",
-          "Tottenham": "3"
-        },
-        "fouls": {
-          "Brentford": "17",
-          "Tottenham": "14"
-        },
-        "offsides": {
-          "Brentford": "3",
-          "Tottenham": "2"
-        },
-        "yellow_cards": {
-          "Brentford": "1",
-          "Tottenham": "1"
-        },
-        "goalkeeper_saves": {
-          "Brentford": "4",
-          "Tottenham": "5"
-        },
-        "crosses": {
-          "Brentford": "11",
-          "Tottenham": "4"
-        },
-        "ball_possession": {
-          "Brentford": "41%",
-          "Tottenham": "59%"
-        }
-      },
-      "description": "Watch Brentford vs Tottenham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The Premier League International Cup brought together two London rivals on a high-stakes evening. On August 22, 2026, the atmosphere was electric as Brentford and Tottenham Hotspur locked horns in a clash of styles and ambitions. Brentford Assert Early Authority Brentford started the match with an intensity that Tottenham Hotspur struggled to match. In the 12th minute, the deadlock was broken through a clinical team move. Dango Ouattara released Mamadou Sangare , who provided the perfectly weighted assist for Keane Lewis-Potter to slot home with his right foot. Tottenham attempted to find an immediate equalizer, but Conor Gallagher saw his long-range effort sail wide of the target. The Bees doubled their advantage in the 33rd minute, capitalizing on a moment of defensive hesitation. Following a miscue from goalkeeper Antonin Kinsky , Vitaly Janelt reacted first to the loose ball, firing it into the net to make it 2-0. Frustrations began to boil over for the visitors shortly after, as Gallagher was shown a yellow card for a robust challenge. Second-Half Dominance and Tactical Control Any hopes of a Tottenham comeback were effectively extinguished shortly after the restart. In the 49th minute, Michael Kayode found himself in the right place at the right time to tap the ball into an open goal, extending the lead to 3-0. Despite tactical substitutions from the Spurs bench, including the introduction of James Maddison and Dominic Solanke , the home side remained disciplined and compact. Brentford had a golden opportunity to add a fourth in the 55th minute when Rodrigo Bentancur conceded a penalty for a foul on Kevin Schade . However, Igor Thiago ’s strike rattled the post and stayed out. While Tottenham enjoyed 59% of the possession, they failed to register a breakthrough against a resolute defense. In front of a crowd of 17,180, Brentford secured a deserved and emphatic victory."
-    },
-    {
       "title": "Brighton vs Aston Villa",
       "thumbnail_url": "https://img.refooty.com/thumbnail/brighton-v-aston-villa-2026-08-23-Zb0D.webp",
       "competition": "Premier League",
@@ -3017,6 +3036,208 @@
         }
       },
       "description": "Watch Arsenal vs Coventry highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 21, 2026. The Premier League International Cup delivered a captivating spectacle as Arsenal faced off against Coventry City in a high-stakes encounter. On August 21, 2026 , over 60,000 fans gathered to witness a tactical battle where every movement on the pitch felt decisive from the opening whistle. Clinical First Half Performance Arsenal established their dominance early on, utilizing a high press that forced the visitors into critical errors. The breakthrough arrived in the 15th minute when a defensive lapse by Milan van Ewijk allowed Riccardo Calafiori to find Kai Havertz . The German forward made no mistake, slotting home with his left foot following a key pass from Christos Tzolis . The momentum stayed firmly with the Gunners, and by the 23rd minute, they doubled their lead. A misplay by goalkeeper Carl Rushworth left the ball loose in the area, and Bukayo Saka reacted quickest to fire it home. Despite the deficit, Coventry City showed flashes of brilliance. Loum Tchaouna nearly pulled one back with an audacious bicycle kick that sailed just wide of the post. The physical nature of the game was evident as both Caleb Yirenkyi and Gabriel received yellow cards for tactical fouls aimed at halting dangerous counter-attacks, keeping the tension high as the teams headed into the break. Securing the Result Any hopes of a Coventry City comeback were dampened shortly after the restart. In the 49th minute, Martin Oedegaard showcased his finishing ability, scoring with his right foot after being teed up by Ben White . The goal was the culmination of a smooth attacking move involving Bukayo Saka , further highlighting the fluid chemistry within the Arsenal ranks. As the half progressed, tactical substitutions saw the introduction of Mikel Merino and Noni Madueke , allowing the hosts to maintain control and a 65% possession rate. In the closing stages, Coventry pushed for a consolation goal. Jack Rudoni saw a goalbound header comfortably saved by David Raya , and deep into stoppage time, Eberechi Eze sent a direct free kick wide of the target. Ultimately, the Gunners' clinical finishing and superior ball retention ensured a deserved victory, leaving the home crowd satisfied with a professional and energetic display."
+    },
+    {
+      "title": "Brentford vs Tottenham Hotspur",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/brentford-v-tottenham-2026-08-22-UA6g.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15638.webp",
+          "name": "Tottenham",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/55.webp",
+          "name": "Brentford",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Brentford_v_Tottenham_2026_08_22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Brentford",
+          "player": "K. Lewis-Potter",
+          "event_type": "Goal",
+          "assist": "M. Sangare",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Brentford",
+          "player": "V. Janelt",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Tottenham",
+          "player": "C. Gallagher",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Brentford",
+          "player": "M. Kayode",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Brentford",
+          "player": "I. Thiago",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "76'",
+          "team": "Brentford",
+          "player": "V. Janelt",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Brentford_wins": "1",
+          "draws": "2",
+          "Tottenham_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "01/01/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Brentford 0 - 0 Tottenham Hotspur"
+          },
+          {
+            "date": "02/02/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Brentford 0 - 2 Tottenham Hotspur"
+          },
+          {
+            "date": "31/01/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "Tottenham Hotspur 3 - 2 Brentford"
+          },
+          {
+            "date": "20/05/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Tottenham Hotspur 1 - 3 Brentford"
+          },
+          {
+            "date": "23/04/2022",
+            "competition": "Premier League 21/22",
+            "teams_and_score": "Brentford 0 - 0 Tottenham Hotspur"
+          }
+        ],
+        "home_team_form": {
+          "team": "Brentford",
+          "form": [
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brentford 7 - 0 Eintracht Frankfurt",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Tottenham",
+          "form": [
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Tottenham Hotspur 2 - 2 Hoffenheim",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Tottenham Hotspur 1 - 0 Everton",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Brentford": "8",
+          "Tottenham": "4"
+        },
+        "shots_off_target": {
+          "Brentford": "11",
+          "Tottenham": "3"
+        },
+        "shots_blocked": {
+          "Brentford": "7",
+          "Tottenham": "2"
+        },
+        "corners": {
+          "Brentford": "7",
+          "Tottenham": "3"
+        },
+        "fouls": {
+          "Brentford": "17",
+          "Tottenham": "14"
+        },
+        "offsides": {
+          "Brentford": "3",
+          "Tottenham": "2"
+        },
+        "yellow_cards": {
+          "Brentford": "1",
+          "Tottenham": "1"
+        },
+        "goalkeeper_saves": {
+          "Brentford": "4",
+          "Tottenham": "5"
+        },
+        "crosses": {
+          "Brentford": "11",
+          "Tottenham": "4"
+        },
+        "ball_possession": {
+          "Brentford": "41%",
+          "Tottenham": "59%"
+        }
+      },
+      "description": "Watch Brentford vs Tottenham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The Premier League International Cup brought together two London rivals on a high-stakes evening. On August 22, 2026, the atmosphere was electric as Brentford and Tottenham Hotspur locked horns in a clash of styles and ambitions. Brentford Assert Early Authority Brentford started the match with an intensity that Tottenham Hotspur struggled to match. In the 12th minute, the deadlock was broken through a clinical team move. Dango Ouattara released Mamadou Sangare , who provided the perfectly weighted assist for Keane Lewis-Potter to slot home with his right foot. Tottenham attempted to find an immediate equalizer, but Conor Gallagher saw his long-range effort sail wide of the target. The Bees doubled their advantage in the 33rd minute, capitalizing on a moment of defensive hesitation. Following a miscue from goalkeeper Antonin Kinsky , Vitaly Janelt reacted first to the loose ball, firing it into the net to make it 2-0. Frustrations began to boil over for the visitors shortly after, as Gallagher was shown a yellow card for a robust challenge. Second-Half Dominance and Tactical Control Any hopes of a Tottenham comeback were effectively extinguished shortly after the restart. In the 49th minute, Michael Kayode found himself in the right place at the right time to tap the ball into an open goal, extending the lead to 3-0. Despite tactical substitutions from the Spurs bench, including the introduction of James Maddison and Dominic Solanke , the home side remained disciplined and compact. Brentford had a golden opportunity to add a fourth in the 55th minute when Rodrigo Bentancur conceded a penalty for a foul on Kevin Schade . However, Igor Thiago ’s strike rattled the post and stayed out. While Tottenham enjoyed 59% of the possession, they failed to register a breakthrough against a resolute defense. In front of a crowd of 17,180, Brentford secured a deserved and emphatic victory."
     }
   ]
 }
