@@ -1,9 +1,216 @@
 {
   "team": "Bradford",
   "team_logo": "https://img.refooty.com/logo/teams/1343.webp",
-  "total_matches": 2,
-  "Last update time": "06:40:09 AM 03-09-2026",
+  "total_matches": 3,
+  "Last update time": "04:50:26 AM 04-09-2026",
   "matches": [
+    {
+      "title": "Bradford vs Cambridge United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bradford-vs-cambridge-united-2026-09-02-1F3l.webp",
+      "competition": "League One",
+      "competition_cover": "https://refooty.com/covers/league-one.webp",
+      "date": "Sep 2, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1370.webp",
+          "name": "Cambridge United",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1343.webp",
+          "name": "Bradford",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/bradford-vs-cambridge-united-2026-09-02.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Cambridge United",
+          "player": "S. Kaikai",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Bradford",
+          "player": "B. Pointon",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Bradford",
+          "player": "C. Connolly",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Cambridge United",
+          "player": "B. Knight",
+          "event_type": "Goal",
+          "assist": "L. Appéré",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bradford_wins": "1",
+          "draws": "1",
+          "Cambridge United_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "23/01/2021",
+            "competition": "League 2 20/21",
+            "teams_and_score": "Cambridge United 0 - 0 Bradford City"
+          },
+          {
+            "date": "15/02/2020",
+            "competition": "League Two",
+            "teams_and_score": "Cambridge United 2 - 1 Bradford City"
+          },
+          {
+            "date": "07/12/2016",
+            "competition": "EFL Trophy Final Stage",
+            "teams_and_score": "Bradford City 1 - 0 Cambridge United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Bradford",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "League 1",
+              "teams_and_score": "Bradford City 1 - 2 Cambridge United",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Bradford City 0 - 0 Burnley",
+              "result": "D"
+            },
+            {
+              "date": "20/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Sheffield Wednesday 0 - 1 Bradford City",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bradford City 2 - 0 Rochdale",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bradford City 3 - 2 Preston North End",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Cambridge United",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "League 1",
+              "teams_and_score": "Bradford City 1 - 2 Cambridge United",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Cambridge United 0 - 1 Millwall",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "Bromley 1 - 1 Cambridge United",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Cambridge United 2 - 1 Barnet",
+              "result": "W"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Norwich City 0 - 0 Cambridge United",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bradford": "5",
+          "Cambridge United": "2"
+        },
+        "shots_off_target": {
+          "Bradford": "9",
+          "Cambridge United": "1"
+        },
+        "shots_blocked": {
+          "Bradford": "6",
+          "Cambridge United": "3"
+        },
+        "corners": {
+          "Bradford": "12",
+          "Cambridge United": "3"
+        },
+        "fouls": {
+          "Bradford": "10",
+          "Cambridge United": "8"
+        },
+        "offsides": {
+          "Bradford": "1",
+          "Cambridge United": "2"
+        },
+        "yellow_cards": {
+          "Bradford": "1",
+          "Cambridge United": "0"
+        },
+        "goalkeeper_saves": {
+          "Bradford": "0",
+          "Cambridge United": "4"
+        },
+        "crosses": {
+          "Bradford": "11",
+          "Cambridge United": "0"
+        },
+        "ball_possession": {
+          "Bradford": "65%",
+          "Cambridge United": "35%"
+        }
+      },
+      "description": "Watch Bradford vs Cambridge United highlights and goals from League One on ReFooty: Football Highlights Hub. Match played on September 2, 2026. The League One clash between Bradford and Cambridge United promised to be a tightly contested affair, with both sides desperate to secure a statement victory. Played on September 2, 2026 , the match delivered a tactical battle that eventually exploded into a dramatic second-half spectacle. A Cautious Opening Exchange The first half was characterized by a disciplined approach from both managers, as neither side wanted to commit too many men forward early on. Bradford attempted to dictate the tempo through midfield possession, but the Cambridge United defensive block remained resolute. Goal-scoring opportunities were at a premium, with both goalkeepers largely untested during the opening 45 minutes. As the referee blew for half-time, the stalemate reflected the balanced nature of the contest. The Deadlock Breaks in the Second Half Everything changed after the interval as the game opened up significantly. In the 58th minute, the visitors found the breakthrough when Sullay Kaikai showcased his clinical edge to put Cambridge United in front. The goal sparked a series of substitutions, with both sides looking to inject fresh energy into their lineups. Bradford 's persistence finally paid off in the 76th minute when Bobby Pointon found the back of the net to level the scores, setting up a frantic final quarter of an hour. Late Drama at Valley Parade With the match hanging in the balance and tension rising—evidenced by a yellow card for Callum Connolly —it was the visitors who found the decisive blow. In the 88th minute, Louis Appere turned provider, delivering a precise ball for Ben Knight to slot home. Despite five minutes of added time and intense pressure from the home side, Cambridge United held firm to secure a hard-fought 2-1 win, leaving the home fans disappointed after a spirited comeback effort."
+    },
     {
       "title": "Plymouth vs Bradford",
       "thumbnail_url": "https://img.refooty.com/thumbnail/plymouth-vs-bradford-2026-08-29-fLLX.webp",

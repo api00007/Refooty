@@ -2,8 +2,549 @@
   "team": "Atletico Madrid",
   "team_logo": "https://img.refooty.com/logo/teams/530.webp",
   "total_matches": 6,
-  "Last update time": "06:40:09 AM 03-09-2026",
+  "Last update time": "04:50:27 AM 04-09-2026",
   "matches": [
+    {
+      "title": "Atletico Madrid vs Malaga",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-madrid-v-malaga-2026-08-19-r1ow.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Aug 19, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/535.webp",
+          "name": "Malaga",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/530.webp",
+          "name": "Atletico Madrid",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Atletico_Madrid_v_Malaga_2026_08_19.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "15'",
+          "team": "Atletico Madrid",
+          "player": "D. Hancko",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "37'",
+          "team": "Atletico Madrid",
+          "player": "J. Dominguez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+4'",
+          "team": "Malaga",
+          "player": "C. Puga",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Atletico Madrid",
+          "player": "L. Kang-in",
+          "event_type": "Goal",
+          "assist": "D. Hancko",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Malaga",
+          "player": "J. Cruz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Atletico Madrid",
+          "player": "Á. Baena",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "91'",
+          "team": "Malaga",
+          "player": "R. Enriquez",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Atletico Madrid_wins": "2",
+          "draws": "0",
+          "Malaga_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "10/02/2018",
+            "competition": "LaLiga",
+            "teams_and_score": "Malaga 0 - 1 Atletico Madrid"
+          },
+          {
+            "date": "23/04/2016",
+            "competition": "Primera Division",
+            "teams_and_score": "Atletico Madrid 1 - 0 Malaga"
+          }
+        ],
+        "home_team_form": {
+          "team": "Atletico Madrid",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Atletico Madrid 2 - 0 Malaga",
+              "result": "W"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Atletico Madrid 4 - 1 Getafe",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Villarreal 5 - 1 Atletico Madrid",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Malaga",
+          "form": [
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Atletico Madrid 2 - 0 Malaga",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Malaga 2 - 2 Fulham",
+              "result": "D"
+            },
+            {
+              "date": "20/06/2026",
+              "competition": "LaLiga 2: Play-off",
+              "teams_and_score": "Almeria 1 - 2 Malaga",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Atletico Madrid": "6",
+          "Malaga": "1"
+        },
+        "shots_off_target": {
+          "Atletico Madrid": "5",
+          "Malaga": "2"
+        },
+        "shots_blocked": {
+          "Atletico Madrid": "4",
+          "Malaga": "2"
+        },
+        "corners": {
+          "Atletico Madrid": "6",
+          "Malaga": "1"
+        },
+        "fouls": {
+          "Atletico Madrid": "17",
+          "Malaga": "11"
+        },
+        "offsides": {
+          "Atletico Madrid": "2",
+          "Malaga": "2"
+        },
+        "yellow_cards": {
+          "Atletico Madrid": "2",
+          "Malaga": "3"
+        },
+        "goalkeeper_saves": {
+          "Atletico Madrid": "1",
+          "Malaga": "4"
+        },
+        "crosses": {
+          "Atletico Madrid": "5",
+          "Malaga": "0"
+        },
+        "ball_possession": {
+          "Atletico Madrid": "53%",
+          "Malaga": "47%"
+        }
+      },
+      "description": "Watch Atletico Madrid vs Malaga highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 19, 2026. The La Liga clash between Atletico Madrid and Malaga on August 19, 2026, promised a fascinating tactical battle. With both sides eager to secure early-season momentum, the match unfolded as a test of patience and clinical finishing under the bright lights of the stadium. A Gritty Opening Period The first half was characterized by intense physical duels and a high level of defensive organization. Atletico Madrid dominated possession but struggled to break through a disciplined Malaga backline. The referee was kept busy throughout the opening 45 minutes, issuing yellow cards to David Hancko and Jorge Dominguez as they attempted to stifle the visitors' counter-attacking threats. Malaga 's Carlos Puga also found his way into the book just before the interval after a robust challenge. Despite the lack of goals in the first half, the tactical setup from both managers was clear. Malaga looked to frustrate the hosts, while Atletico relied on the playmaking abilities of Koke to find an opening. However, with several corners failing to find their mark and offside calls disrupting the flow, the teams headed into the locker rooms with the deadlock still intact. Tactical Shifts and the Breakthrough The momentum shifted significantly in the 57th minute when Atletico Madrid introduced a triple substitution, bringing on Kang-In Lee , Giuliano Simeone , and Alejandro Baena . The fresh energy revitalized the home side's attack. The breakthrough finally arrived in the 70th minute. David Hancko turned provider, setting up Kang-In Lee , who unleashed a magnificent left-footed strike from outside the box that flew past the goalkeeper into the net. Malaga attempted to respond with their own tactical changes, introducing Jose Salinas and Juan Cruz , but they struggled to maintain possession against a confident Atletico side. The visitors' frustration grew as the clock ticked down, leading to unsportsmanlike conduct warnings and further yellow cards for Juan Cruz and Ramon Enriquez . Baena's Brilliant Finish The victory was well and truly secured in the 85th minute through a moment of individual brilliance. Alejandro Baena stepped up to take a direct free kick and curled a right-footed shot beautifully into the back of the net. The two-goal cushion allowed Atletico Madrid to manage the final minutes with composure, even as Malaga 's David Larrubia forced a late save from Jan Oblak . As the final whistle blew, the scoreboard reflected a hard-earned victory for the hosts. Atletico Madrid 's ability to utilize their bench effectively proved to be the difference-maker, ensuring they walked away with all three points in this competitive La Liga fixture."
+    },
+    {
+      "title": "Marseille vs Atletico Madrid",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-vs-atletico-madrid-2026-08-14-oNYN.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 14, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/530.webp",
+          "name": "Atletico Madrid",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/81.webp",
+          "name": "Marseille",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/marseille-vs-atletico-madrid-2026-08-14_PqYg8.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Atletico Madrid",
+          "player": "G. Simeone",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Atletico Madrid",
+          "player": "R. L. Normand",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Marseille",
+          "player": "I. Paixão",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Atletico Madrid",
+          "player": "R. Mendoza",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Marseille",
+          "player": "I. Paixão",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Marseille",
+          "player": "L. Balerdi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Marseille",
+          "player": "G. Kondogbia",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Atletico Madrid",
+          "player": "C. Martín",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Marseille_wins": "0",
+          "draws": "1",
+          "Atletico Madrid_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "16/05/2018",
+            "competition": "Europa League Final Stage",
+            "teams_and_score": "Marseille 0 - 3 Atletico Madrid"
+          },
+          {
+            "date": "09/12/2008",
+            "competition": "Champions League grp. D",
+            "teams_and_score": "Marseille 0 - 0 Atletico Madrid"
+          }
+        ],
+        "home_team_form": {
+          "team": "Marseille",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Marseille 3 - 1 Rennes",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Atletico Madrid",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Atletico Madrid 4 - 1 Getafe",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Villarreal 5 - 1 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Semi-Finals",
+              "teams_and_score": "Arsenal 1 - 0 Atletico Madrid",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Marseille vs Atletico Madrid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 14, 2026."
+    },
+    {
+      "title": "Manchester City vs Atletico Madrid",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-city-vs-atletico-madrid-2026-08-09-rAJH.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/530.webp",
+          "name": "Atletico Madrid",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/50.webp",
+          "name": "Manchester City",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/manchester-city-vs-atletico-madrid-2026-08-09_UeDcc.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Atletico Madrid",
+          "player": "J. Dominguez",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Atletico Madrid",
+          "player": "M. Hjulmand",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Manchester City",
+          "player": "O. Marmoush",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Manchester City",
+          "player": "O. Marmoush",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Manchester City",
+          "player": "J. Gvardiol",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Manchester City",
+          "player": "R. Aït-Nouri",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Manchester City_wins": "0",
+          "draws": "1",
+          "Atletico Madrid_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "30/07/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Manchester City 1 - 2 Atletico Madrid"
+          },
+          {
+            "date": "13/04/2022",
+            "competition": "Quarter-Finals 21/22",
+            "teams_and_score": "Atletico Madrid 0 - 0 Manchester City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Manchester City",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Manchester City 1 - 2 Aston Villa",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "FA Cup: Final",
+              "teams_and_score": "Chelsea 0 - 1 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Manchester City 3 - 0 Crystal Palace",
+              "result": "W"
+            },
+            {
+              "date": "25/04/2026",
+              "competition": "FA Cup: Semi-Finals",
+              "teams_and_score": "Manchester City 2 - 1 Southampton",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Atletico Madrid",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Atletico Madrid 4 - 1 Getafe",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Villarreal 5 - 1 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Semi-Finals",
+              "teams_and_score": "Arsenal 1 - 0 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Valencia 0 - 2 Atletico Madrid",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Manchester City vs Atletico Madrid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
     {
       "title": "Sevilla vs Atletico Madrid",
       "thumbnail_url": "https://img.refooty.com/thumbnail/sevilla-v-atletico-madrid-2026-08-29-1Yzr.webp",
@@ -654,547 +1195,6 @@
       },
       "statistics": {},
       "description": "Watch Manchester United vs Atletico Madrid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
-    },
-    {
-      "title": "Atletico Madrid vs Malaga",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-madrid-v-malaga-2026-08-19-r1ow.webp",
-      "competition": "La Liga",
-      "competition_cover": "https://refooty.com/covers/la-liga.webp",
-      "date": "Aug 19, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/535.webp",
-          "name": "Malaga",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/530.webp",
-          "name": "Atletico Madrid",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Atletico_Madrid_v_Malaga_2026_08_19.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "15'",
-          "team": "Atletico Madrid",
-          "player": "D. Hancko",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "37'",
-          "team": "Atletico Madrid",
-          "player": "J. Dominguez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+4'",
-          "team": "Malaga",
-          "player": "C. Puga",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Atletico Madrid",
-          "player": "L. Kang-in",
-          "event_type": "Goal",
-          "assist": "D. Hancko",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Malaga",
-          "player": "J. Cruz",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Atletico Madrid",
-          "player": "Á. Baena",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "91'",
-          "team": "Malaga",
-          "player": "R. Enriquez",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Atletico Madrid_wins": "2",
-          "draws": "0",
-          "Malaga_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "10/02/2018",
-            "competition": "LaLiga",
-            "teams_and_score": "Malaga 0 - 1 Atletico Madrid"
-          },
-          {
-            "date": "23/04/2016",
-            "competition": "Primera Division",
-            "teams_and_score": "Atletico Madrid 1 - 0 Malaga"
-          }
-        ],
-        "home_team_form": {
-          "team": "Atletico Madrid",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "19/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Atletico Madrid 2 - 0 Malaga",
-              "result": "W"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
-              "result": "L"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Atletico Madrid 4 - 1 Getafe",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Villarreal 5 - 1 Atletico Madrid",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Malaga",
-          "form": [
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "19/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Atletico Madrid 2 - 0 Malaga",
-              "result": "L"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Malaga 2 - 2 Fulham",
-              "result": "D"
-            },
-            {
-              "date": "20/06/2026",
-              "competition": "LaLiga 2: Play-off",
-              "teams_and_score": "Almeria 1 - 2 Malaga",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Atletico Madrid": "6",
-          "Malaga": "1"
-        },
-        "shots_off_target": {
-          "Atletico Madrid": "5",
-          "Malaga": "2"
-        },
-        "shots_blocked": {
-          "Atletico Madrid": "4",
-          "Malaga": "2"
-        },
-        "corners": {
-          "Atletico Madrid": "6",
-          "Malaga": "1"
-        },
-        "fouls": {
-          "Atletico Madrid": "17",
-          "Malaga": "11"
-        },
-        "offsides": {
-          "Atletico Madrid": "2",
-          "Malaga": "2"
-        },
-        "yellow_cards": {
-          "Atletico Madrid": "2",
-          "Malaga": "3"
-        },
-        "goalkeeper_saves": {
-          "Atletico Madrid": "1",
-          "Malaga": "4"
-        },
-        "crosses": {
-          "Atletico Madrid": "5",
-          "Malaga": "0"
-        },
-        "ball_possession": {
-          "Atletico Madrid": "53%",
-          "Malaga": "47%"
-        }
-      },
-      "description": "Watch Atletico Madrid vs Malaga highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 19, 2026. The La Liga clash between Atletico Madrid and Malaga on August 19, 2026, promised a fascinating tactical battle. With both sides eager to secure early-season momentum, the match unfolded as a test of patience and clinical finishing under the bright lights of the stadium. A Gritty Opening Period The first half was characterized by intense physical duels and a high level of defensive organization. Atletico Madrid dominated possession but struggled to break through a disciplined Malaga backline. The referee was kept busy throughout the opening 45 minutes, issuing yellow cards to David Hancko and Jorge Dominguez as they attempted to stifle the visitors' counter-attacking threats. Malaga 's Carlos Puga also found his way into the book just before the interval after a robust challenge. Despite the lack of goals in the first half, the tactical setup from both managers was clear. Malaga looked to frustrate the hosts, while Atletico relied on the playmaking abilities of Koke to find an opening. However, with several corners failing to find their mark and offside calls disrupting the flow, the teams headed into the locker rooms with the deadlock still intact. Tactical Shifts and the Breakthrough The momentum shifted significantly in the 57th minute when Atletico Madrid introduced a triple substitution, bringing on Kang-In Lee , Giuliano Simeone , and Alejandro Baena . The fresh energy revitalized the home side's attack. The breakthrough finally arrived in the 70th minute. David Hancko turned provider, setting up Kang-In Lee , who unleashed a magnificent left-footed strike from outside the box that flew past the goalkeeper into the net. Malaga attempted to respond with their own tactical changes, introducing Jose Salinas and Juan Cruz , but they struggled to maintain possession against a confident Atletico side. The visitors' frustration grew as the clock ticked down, leading to unsportsmanlike conduct warnings and further yellow cards for Juan Cruz and Ramon Enriquez . Baena's Brilliant Finish The victory was well and truly secured in the 85th minute through a moment of individual brilliance. Alejandro Baena stepped up to take a direct free kick and curled a right-footed shot beautifully into the back of the net. The two-goal cushion allowed Atletico Madrid to manage the final minutes with composure, even as Malaga 's David Larrubia forced a late save from Jan Oblak . As the final whistle blew, the scoreboard reflected a hard-earned victory for the hosts. Atletico Madrid 's ability to utilize their bench effectively proved to be the difference-maker, ensuring they walked away with all three points in this competitive La Liga fixture."
-    },
-    {
-      "title": "Marseille vs Atletico Madrid",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-vs-atletico-madrid-2026-08-14-oNYN.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 14, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/530.webp",
-          "name": "Atletico Madrid",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/81.webp",
-          "name": "Marseille",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/marseille-vs-atletico-madrid-2026-08-14_PqYg8.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Atletico Madrid",
-          "player": "G. Simeone",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Atletico Madrid",
-          "player": "R. L. Normand",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Marseille",
-          "player": "I. Paixão",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Atletico Madrid",
-          "player": "R. Mendoza",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Marseille",
-          "player": "I. Paixão",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Marseille",
-          "player": "L. Balerdi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Marseille",
-          "player": "G. Kondogbia",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Atletico Madrid",
-          "player": "C. Martín",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Marseille_wins": "0",
-          "draws": "1",
-          "Atletico Madrid_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "16/05/2018",
-            "competition": "Europa League Final Stage",
-            "teams_and_score": "Marseille 0 - 3 Atletico Madrid"
-          },
-          {
-            "date": "09/12/2008",
-            "competition": "Champions League grp. D",
-            "teams_and_score": "Marseille 0 - 0 Atletico Madrid"
-          }
-        ],
-        "home_team_form": {
-          "team": "Marseille",
-          "form": [
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "14/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Marseille 3 - 1 Rennes",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Atletico Madrid",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "14/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
-              "result": "L"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Atletico Madrid 4 - 1 Getafe",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Villarreal 5 - 1 Atletico Madrid",
-              "result": "L"
-            },
-            {
-              "date": "05/05/2026",
-              "competition": "Semi-Finals",
-              "teams_and_score": "Arsenal 1 - 0 Atletico Madrid",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Marseille vs Atletico Madrid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 14, 2026."
-    },
-    {
-      "title": "Manchester City vs Atletico Madrid",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-city-vs-atletico-madrid-2026-08-09-rAJH.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/530.webp",
-          "name": "Atletico Madrid",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/50.webp",
-          "name": "Manchester City",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/manchester-city-vs-atletico-madrid-2026-08-09_UeDcc.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Atletico Madrid",
-          "player": "J. Dominguez",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Atletico Madrid",
-          "player": "M. Hjulmand",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Manchester City",
-          "player": "O. Marmoush",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "76'",
-          "team": "Manchester City",
-          "player": "O. Marmoush",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "91'",
-          "team": "Manchester City",
-          "player": "J. Gvardiol",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Manchester City",
-          "player": "R. Aït-Nouri",
-          "event_type": "Goal",
-          "score_update": "3 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Manchester City_wins": "0",
-          "draws": "1",
-          "Atletico Madrid_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "30/07/2023",
-            "competition": "Club Friendlies 2023",
-            "teams_and_score": "Manchester City 1 - 2 Atletico Madrid"
-          },
-          {
-            "date": "13/04/2022",
-            "competition": "Quarter-Finals 21/22",
-            "teams_and_score": "Atletico Madrid 0 - 0 Manchester City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Manchester City",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Manchester City 1 - 2 Aston Villa",
-              "result": "L"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "FA Cup: Final",
-              "teams_and_score": "Chelsea 0 - 1 Manchester City",
-              "result": "W"
-            },
-            {
-              "date": "13/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Manchester City 3 - 0 Crystal Palace",
-              "result": "W"
-            },
-            {
-              "date": "25/04/2026",
-              "competition": "FA Cup: Semi-Finals",
-              "teams_and_score": "Manchester City 2 - 1 Southampton",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Atletico Madrid",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
-              "result": "L"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Atletico Madrid 4 - 1 Getafe",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Villarreal 5 - 1 Atletico Madrid",
-              "result": "L"
-            },
-            {
-              "date": "05/05/2026",
-              "competition": "Semi-Finals",
-              "teams_and_score": "Arsenal 1 - 0 Atletico Madrid",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Valencia 0 - 2 Atletico Madrid",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Manchester City vs Atletico Madrid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
     }
   ]
 }

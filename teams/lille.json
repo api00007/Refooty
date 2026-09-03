@@ -1,124 +1,107 @@
 {
   "team": "Lille",
   "team_logo": "https://img.refooty.com/logo/teams/79.webp",
-  "total_matches": 4,
-  "Last update time": "06:40:10 AM 03-09-2026",
+  "total_matches": 5,
+  "Last update time": "04:50:26 AM 04-09-2026",
   "matches": [
     {
-      "title": "OH Leuven vs Lille",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/oh-leuven-vs-lille-2026-08-01-3m1Y.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 1, 2026",
+      "title": "Toulouse vs LOSC Lille",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/toulouse-v-losc-lille-2026-09-03-PBfq.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Sep 3, 2026",
       "events_info": {
         "away_team": {
           "logo": "https://img.refooty.com/logo/teams/79.webp",
           "name": "Lille",
-          "score": "6"
+          "score": "1"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/260.webp",
-          "name": "OH Leuven",
-          "score": "3"
+          "logo": "https://img.refooty.com/logo/teams/96.webp",
+          "name": "Toulouse",
+          "score": "0"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/oh-leuven-vs-lille-2026-08-01_q6oi7.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/Toulouse_v_LOSC_Lille_2026_09_03.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "16'",
-          "team": "Lille",
-          "player": "T. Santos",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "OH Leuven",
-          "player": "C. Ikwuemesi",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "45+3'",
-          "team": "OH Leuven",
-          "player": "W. Balikwisha",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "45+5'",
-          "team": "Lille",
-          "player": "O. Giroud",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
+          "time": "1'",
+          "team": "Toulouse",
+          "player": "S. Hidalgo",
+          "event_type": "Yellow Card"
         },
         {
           "time": "46'",
-          "team": "OH Leuven",
-          "player": "C. Ikwuemesi",
-          "event_type": "Goal",
-          "score_update": "3 - 2"
-        },
-        {
-          "time": "61'",
           "team": "Lille",
-          "player": "B. Onal",
+          "player": "A. Ueda",
           "event_type": "Goal",
-          "score_update": "3 - 3"
-        },
-        {
-          "time": "76'",
-          "team": "Lille",
-          "player": "E. Mbappé",
-          "event_type": "Goal",
-          "score_update": "3 - 4"
-        },
-        {
-          "time": "91'",
-          "team": "Lille",
-          "player": "S. Diaoune",
-          "event_type": "Goal",
-          "score_update": "3 - 5"
-        },
-        {
-          "time": "106'",
-          "team": "Lille",
-          "player": "E. Mbappé",
-          "event_type": "Goal",
-          "score_update": "3 - 6"
+          "score_update": "0 - 1"
         }
       ],
       "head_to_head": {
         "summary": {
-          "OH Leuven_wins": "0",
+          "Toulouse_wins": "1",
           "draws": "0",
-          "Lille_wins": "0"
+          "Lille_wins": "4"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "12/04/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "Toulouse 0 - 4 Lille"
+          },
+          {
+            "date": "12/04/2025",
+            "competition": "Ligue 1 24/25",
+            "teams_and_score": "Toulouse 1 - 2 Lille"
+          },
+          {
+            "date": "25/02/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "Toulouse 3 - 1 Lille"
+          },
+          {
+            "date": "18/03/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Toulouse 0 - 2 Lille"
+          },
+          {
+            "date": "22/02/2020",
+            "competition": "Ligue 1 19/20",
+            "teams_and_score": "Lille 3 - 0 Toulouse"
+          }
+        ],
         "home_team_form": {
-          "team": "OH Leuven",
+          "team": "Toulouse",
           "form": [
-            "W",
-            "W"
+            "L",
+            "L",
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Oud-Heverlee Leuven 3 - 6 Lille",
-              "result": "W"
+              "date": "03/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Toulouse 0 - 1 Lille",
+              "result": "L"
             },
             {
-              "date": "23/05/2026",
-              "competition": "Belgian Pro League Playoff: Conference League Group",
-              "teams_and_score": "Oud-Heverlee Leuven 0 - 2 Genk",
-              "result": "W"
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Toulouse 1 - 2 Hamburger SV",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Nantes 0 - 0 Toulouse",
+              "result": "D"
             }
           ]
         },
@@ -126,14 +109,21 @@
           "team": "Lille",
           "form": [
             "W",
+            "D",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Oud-Heverlee Leuven 3 - 6 Lille",
+              "date": "03/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Toulouse 0 - 1 Lille",
               "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Everton 1 - 1 Lille",
+              "result": "D"
             },
             {
               "date": "17/05/2026",
@@ -144,8 +134,49 @@
           ]
         }
       },
-      "statistics": {},
-      "description": "Watch OH Leuven vs Lille highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Toulouse": "10",
+          "Lille": "6"
+        },
+        "shots_off_target": {
+          "Toulouse": "11",
+          "Lille": "2"
+        },
+        "shots_blocked": {
+          "Toulouse": "3",
+          "Lille": "2"
+        },
+        "corners": {
+          "Toulouse": "6",
+          "Lille": "2"
+        },
+        "fouls": {
+          "Toulouse": "16",
+          "Lille": "9"
+        },
+        "offsides": {
+          "Toulouse": "3",
+          "Lille": "0"
+        },
+        "yellow_cards": {
+          "Toulouse": "1",
+          "Lille": "0"
+        },
+        "goalkeeper_saves": {
+          "Toulouse": "5",
+          "Lille": "9"
+        },
+        "crosses": {
+          "Toulouse": "6",
+          "Lille": "1"
+        },
+        "ball_possession": {
+          "Toulouse": "53%",
+          "Lille": "47%"
+        }
+      },
+      "description": "Watch Toulouse vs Lille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 3, 2026."
     },
     {
       "title": "Angers vs LOSC Lille",
@@ -703,6 +734,149 @@
         }
       },
       "description": "Watch Lille vs Paris Saint Germain highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on August 28, 2026."
+    },
+    {
+      "title": "OH Leuven vs Lille",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/oh-leuven-vs-lille-2026-08-01-3m1Y.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/79.webp",
+          "name": "Lille",
+          "score": "6"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/260.webp",
+          "name": "OH Leuven",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/oh-leuven-vs-lille-2026-08-01_q6oi7.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "16'",
+          "team": "Lille",
+          "player": "T. Santos",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "OH Leuven",
+          "player": "C. Ikwuemesi",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "45+3'",
+          "team": "OH Leuven",
+          "player": "W. Balikwisha",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "45+5'",
+          "team": "Lille",
+          "player": "O. Giroud",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "OH Leuven",
+          "player": "C. Ikwuemesi",
+          "event_type": "Goal",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Lille",
+          "player": "B. Onal",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "76'",
+          "team": "Lille",
+          "player": "E. Mbappé",
+          "event_type": "Goal",
+          "score_update": "3 - 4"
+        },
+        {
+          "time": "91'",
+          "team": "Lille",
+          "player": "S. Diaoune",
+          "event_type": "Goal",
+          "score_update": "3 - 5"
+        },
+        {
+          "time": "106'",
+          "team": "Lille",
+          "player": "E. Mbappé",
+          "event_type": "Goal",
+          "score_update": "3 - 6"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "OH Leuven_wins": "0",
+          "draws": "0",
+          "Lille_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "OH Leuven",
+          "form": [
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Oud-Heverlee Leuven 3 - 6 Lille",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Belgian Pro League Playoff: Conference League Group",
+              "teams_and_score": "Oud-Heverlee Leuven 0 - 2 Genk",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lille",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Oud-Heverlee Leuven 3 - 6 Lille",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Lille 0 - 2 Auxerre",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch OH Leuven vs Lille highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
     }
   ]
 }
