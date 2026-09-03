@@ -1,9 +1,225 @@
 {
   "team": "Bristol Rovers",
   "team_logo": "https://img.refooty.com/logo/teams/1334.webp",
-  "total_matches": 2,
-  "Last update time": "05:30:16 AM 03-09-2026",
+  "total_matches": 3,
+  "Last update time": "06:40:09 AM 03-09-2026",
   "matches": [
+    {
+      "title": "Bristol Rovers vs Colchester",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-rovers-vs-colchester-2026-09-02-Wsn0.webp",
+      "competition": "League Two",
+      "competition_cover": "https://refooty.com/covers/league-two.webp",
+      "date": "Sep 2, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1361.webp",
+          "name": "Colchester",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1334.webp",
+          "name": "Bristol Rovers",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/bristol-rovers-vs-colchester-2026-09-02.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "22'",
+          "team": "Bristol Rovers",
+          "player": "T. James",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "27'",
+          "team": "Bristol Rovers",
+          "player": "T. James",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "35'",
+          "team": "Colchester",
+          "player": "J. Tucker",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+1'",
+          "team": "Bristol Rovers",
+          "player": "T. Leigh",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "79'",
+          "team": "Bristol Rovers",
+          "player": "R. Smallwood",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Bristol Rovers",
+          "player": "E. Harrison",
+          "event_type": "Goal",
+          "assist": "T. Leigh",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bristol Rovers_wins": "2",
+          "draws": "0",
+          "Colchester_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "17/01/2026",
+            "competition": "League 2 25/26",
+            "teams_and_score": "Bristol Rovers 0 - 1 Colchester United"
+          },
+          {
+            "date": "23/11/2022",
+            "competition": "EFL Trophy: Knockout Stage",
+            "teams_and_score": "Colchester United 1 - 2 Bristol Rovers"
+          },
+          {
+            "date": "15/03/2022",
+            "competition": "League 2 21/22",
+            "teams_and_score": "Bristol Rovers 1 - 0 Colchester United"
+          },
+          {
+            "date": "07/05/2011",
+            "competition": "League One",
+            "teams_and_score": "Colchester United 2 - 1 Bristol Rovers"
+          }
+        ],
+        "home_team_form": {
+          "team": "Bristol Rovers",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "League 2",
+              "teams_and_score": "Bristol Rovers 2 - 0 Colchester United",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Trophy South: Group C",
+              "teams_and_score": "Bristol Rovers 2 - 2 Chelsea U21",
+              "result": "D"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "League 2",
+              "teams_and_score": "Bristol Rovers 5 - 3 Newport County",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bristol Rovers 0 - 1 Peterborough United",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Notts County 1 - 1 Bristol Rovers",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Colchester",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "League 2",
+              "teams_and_score": "Bristol Rovers 2 - 0 Colchester United",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Colchester United 0 - 2 Southampton",
+              "result": "L"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Colchester United 0 - 2 Charlton Athletic",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Cheltenham Town 1 - 4 Colchester United",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bristol Rovers": "8",
+          "Colchester": "1"
+        },
+        "shots_off_target": {
+          "Bristol Rovers": "10",
+          "Colchester": "2"
+        },
+        "shots_blocked": {
+          "Bristol Rovers": "6",
+          "Colchester": "10"
+        },
+        "corners": {
+          "Bristol Rovers": "3",
+          "Colchester": "2"
+        },
+        "fouls": {
+          "Bristol Rovers": "17",
+          "Colchester": "9"
+        },
+        "offsides": {
+          "Bristol Rovers": "1",
+          "Colchester": "1"
+        },
+        "yellow_cards": {
+          "Bristol Rovers": "3",
+          "Colchester": "1"
+        },
+        "goalkeeper_saves": {
+          "Bristol Rovers": "1",
+          "Colchester": "6"
+        },
+        "crosses": {
+          "Bristol Rovers": "6",
+          "Colchester": "2"
+        },
+        "ball_possession": {
+          "Bristol Rovers": "50%",
+          "Colchester": "50%"
+        }
+      },
+      "description": "Watch Bristol Rovers vs Colchester highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on September 2, 2026. The stage was set for a compelling League Two encounter as two sides prepared to battle for vital points. Fans anticipated a high-octane match between Bristol Rovers and Colchester , with both managers looking to assert dominance from the opening whistle. James Breaks the Deadlock On September 2, 2026 , the match began with immediate physical intensity. The referee was forced to reach for his pocket early, cautioning Tom James in the 22nd minute. However, James quickly turned his focus back to the game, and just five minutes later, he found the back of the net to give Bristol Rovers a 1-0 lead. The goal sparked celebrations across the stadium, but the tension remained high as Jack Tucker also received a yellow card in the 35th minute for a heavy challenge. As the first half drew to a close, Tommy Leigh was booked in stoppage time, leaving the hosts with a lead but also a growing list of cautioned players. Despite the bookings, Bristol Rovers headed into the break with the momentum firmly on their side. Harrison Clinches the Points The second half saw a series of tactical changes as Colchester attempted to fight their way back. Moses Sesay and Kane Vincent-Young were introduced at the restart, providing fresh legs for the visitors. The battle in midfield intensified, leading to a yellow card for Richard Smallwood in the 79th minute as he looked to disrupt the opposition's flow. With the match entering its final stages, the home side looked to put the result beyond doubt. The breakthrough came in the third minute of stoppage time when Tommy Leigh turned provider, delivering a superb assist for Ellis Harrison . The substitute made no mistake, firing home to make it 2-0 and effectively ending the contest. The final whistle blew in the 90+7th minute, confirming a professional performance and a well-earned victory for Bristol Rovers ."
+    },
     {
       "title": "Bristol Rovers vs Chelsea U21",
       "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-rovers-vs-chelsea-u21-2026-08-25-3Mzy.webp",

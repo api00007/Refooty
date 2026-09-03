@@ -1,9 +1,233 @@
 {
   "team": "Cardiff City",
   "team_logo": "https://img.refooty.com/logo/teams/15412.webp",
-  "total_matches": 3,
-  "Last update time": "05:30:15 AM 03-09-2026",
+  "total_matches": 4,
+  "Last update time": "06:40:09 AM 03-09-2026",
   "matches": [
+    {
+      "title": "Queens Park Rangers vs Cardiff City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/queens-park-rangers-vs-cardiff-city-2026-09-02-NvSl.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 2, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15412.webp",
+          "name": "Cardiff City",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/18212.webp",
+          "name": "Queens Park Rangers",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/queens-park-rangers-vs-cardiff-city-2026-09-02.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Queens Park Rangers",
+          "player": "R. Burrell",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Cardiff City",
+          "player": "O. Tanner",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Queens Park Rangers",
+          "player": "R. Burrell",
+          "event_type": "Goal",
+          "assist": "R. Edwards",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "76'",
+          "team": "Cardiff City",
+          "player": "P. Ng",
+          "event_type": "Goal",
+          "assist": "O. Tanner",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Cardiff City",
+          "player": "P. Ng",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Queens Park Rangers_wins": "3",
+          "draws": "2",
+          "Cardiff City_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "05/04/2025",
+            "competition": "Championship",
+            "teams_and_score": "QPR 0 - 0 Cardiff City"
+          },
+          {
+            "date": "01/01/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "QPR 1 - 2 Cardiff City"
+          },
+          {
+            "date": "26/12/2022",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Cardiff City 0 - 0 QPR"
+          },
+          {
+            "date": "05/03/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "QPR 1 - 2 Cardiff City"
+          },
+          {
+            "date": "20/01/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Cardiff City 0 - 1 QPR"
+          }
+        ],
+        "home_team_form": {
+          "team": "Queens Park Rangers",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "QPR 2 - 1 Cardiff City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "QPR 1 - 1 Millwall",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AFC Wimbledon 2 - 3 QPR",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "QPR 3 - 2 Fiorentina",
+              "result": "L"
+            },
+            {
+              "date": "21/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "QPR 1 - 0 Wycombe Wanderers",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Cardiff City",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "QPR 2 - 1 Cardiff City",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Cardiff City 1 - 2 Norwich City",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Derby County 2 - 2 Cardiff City",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Cardiff City 3 - 2 Swindon Town",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Cardiff City 4 - 1 AS Roma",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Queens Park Rangers": "4",
+          "Cardiff City": "3"
+        },
+        "shots_off_target": {
+          "Queens Park Rangers": "9",
+          "Cardiff City": "4"
+        },
+        "shots_blocked": {
+          "Queens Park Rangers": "7",
+          "Cardiff City": "2"
+        },
+        "corners": {
+          "Queens Park Rangers": "3",
+          "Cardiff City": "4"
+        },
+        "fouls": {
+          "Queens Park Rangers": "10",
+          "Cardiff City": "12"
+        },
+        "offsides": {
+          "Queens Park Rangers": "2",
+          "Cardiff City": "0"
+        },
+        "yellow_cards": {
+          "Queens Park Rangers": "0",
+          "Cardiff City": "2"
+        },
+        "goalkeeper_saves": {
+          "Queens Park Rangers": "2",
+          "Cardiff City": "2"
+        },
+        "crosses": {
+          "Queens Park Rangers": "3",
+          "Cardiff City": "8"
+        },
+        "ball_possession": {
+          "Queens Park Rangers": "37%",
+          "Cardiff City": "63%"
+        }
+      },
+      "description": "Watch Queens Park Rangers vs Cardiff City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 2, 2026. Loftus Road played host to a captivating Championship clash as Queens Park Rangers and Cardiff City met on a cool September evening. The atmosphere was electric as both sides looked to establish their dominance in the early stages of the campaign on September 2, 2026. Burrell Breaks the Deadlock The contest began with high energy, as both teams vied for control in a physical opening period. It was Queens Park Rangers who eventually found the breakthrough in the 36th minute. Rumarn Burrell showed sharp instincts to find the back of the net, sending the home crowd into raptures. Cardiff attempted to respond before the break, but the Rangers' backline remained disciplined, ensuring they headed into the interval with a hard-earned lead. Double Delight for the Hosts The second half saw the intensity ramp up immediately. In the 53rd minute, the home side doubled their advantage. Ronnie Edwards turned provider, delivering a precise ball for Rumarn Burrell , who clinicaly finished to secure his second goal of the match. At 2-0, QPR appeared to be cruising, but the Championship is rarely so predictable. Cardiff City began to pile on the pressure, despite Ollie Tanner picking up a yellow card shortly after the restart. Cardiff’s Fightback and Grand Finale The momentum shifted in the 74th minute when Cardiff City found a lifeline. Ollie Tanner turned from villain to hero, providing the assist for Perry Ng to slot home and reduce the deficit. The closing stages were marked by a flurry of substitutions and rising tensions, with Perry Ng also entering the referee's book in the 77th minute. QPR manager introduced the likes of Ilias Chair and Dennis Cirkin to stabilize the ship, while Cardiff brought on Callum Robinson in a desperate search for an equalizer. Ultimately, the hosts held firm through five minutes of stoppage time to claim all three points."
+    },
     {
       "title": "Derby County vs Cardiff City",
       "thumbnail_url": "https://img.refooty.com/thumbnail/derby-county-vs-cardiff-city-2026-08-22-n37c.webp",
