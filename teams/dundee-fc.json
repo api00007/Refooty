@@ -1,24 +1,24 @@
 {
   "team": "Dundee Fc",
   "team_logo": "https://img.refooty.com/logo/teams/253.webp",
-  "total_matches": 3,
-  "Last update time": "04:50:18 AM 03-09-2026",
+  "total_matches": 4,
+  "Last update time": "05:30:14 AM 03-09-2026",
   "matches": [
     {
-      "title": "Celtic - Dundee",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-dundee-2026-08-03-HHkG.webp",
+      "title": "Dundee - St. Johnstone",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-st-johnstone-2026-09-02-8qib.webp",
       "competition": "Premiership - Scotland",
       "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 3, 2026",
+      "date": "Sep 2, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/253.webp",
-          "name": "Dundee FC",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/258.webp",
+          "name": "ST Johnstone",
+          "score": "1"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/247.webp",
-          "name": "Celtic",
+          "logo": "https://img.refooty.com/logo/teams/253.webp",
+          "name": "Dundee FC",
           "score": "1"
         },
         "status": "FT"
@@ -26,126 +26,98 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/celtic-dundee-2026-08-03_5N8jX.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/dundee-st-johnstone-2026-09-02.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "52'",
-          "team": "Celtic",
-          "player": "B. Nygren",
+          "time": "46'",
+          "team": "ST Johnstone",
+          "player": "Z. Mitchell",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "ST Johnstone",
+          "player": "S. Stanton",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Dundee FC",
+          "player": "C. Reilly",
           "event_type": "Goal",
-          "assist": "K. Tierney",
           "score_update": "1 - 0"
         },
         {
-          "time": "90'",
-          "team": "Dundee FC",
-          "player": "A. Hay",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Celtic",
-          "player": "A. Engels",
-          "event_type": "Yellow Card"
+          "time": "91'",
+          "team": "ST Johnstone",
+          "player": "J. Fowler",
+          "event_type": "Goal",
+          "assist": "M. Tait",
+          "score_update": "1 - 1"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Celtic_wins": "6",
-          "draws": "0",
-          "Dundee FC_wins": "0"
+          "Dundee FC_wins": "2",
+          "draws": "3",
+          "ST Johnstone_wins": "0"
         },
         "previous_matches": [
           {
-            "date": "05/04/2026",
+            "date": "18/05/2025",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "St. Johnstone 0 - 2 Dundee FC"
+          },
+          {
+            "date": "01/03/2025",
             "competition": "Premiership",
-            "teams_and_score": "Dundee FC 1 - 2 Celtic"
+            "teams_and_score": "Dundee FC 1 - 1 St. Johnstone"
           },
           {
-            "date": "07/02/2026",
-            "competition": "Scottish Cup: Round 5",
-            "teams_and_score": "Celtic 2 - 1 Dundee FC"
-          },
-          {
-            "date": "03/12/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Celtic 1 - 0 Dundee FC"
-          },
-          {
-            "date": "05/02/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Celtic 6 - 0 Dundee FC"
-          },
-          {
-            "date": "28/04/2024",
-            "competition": "Premiership: Championship Group",
-            "teams_and_score": "Dundee FC 1 - 2 Celtic"
-          },
-          {
-            "date": "28/02/2024",
+            "date": "30/03/2024",
             "competition": "Premiership 23/24",
-            "teams_and_score": "Celtic 7 - 1 Dundee FC"
+            "teams_and_score": "St. Johnstone 1 - 2 Dundee FC"
+          },
+          {
+            "date": "23/04/2022",
+            "competition": "Premiership: Relegation Group 21/22",
+            "teams_and_score": "Dundee FC 1 - 1 St. Johnstone"
+          },
+          {
+            "date": "26/01/2022",
+            "competition": "Premiership 21/22",
+            "teams_and_score": "St. Johnstone 0 - 0 Dundee FC"
           }
         ],
         "home_team_form": {
-          "team": "Celtic",
-          "form": [
-            "W",
-            "D",
-            "D",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "03/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Celtic 1 - 0 Dundee FC",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Celtic 2 - 2 AC Milan",
-              "result": "D"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Celtic 1 - 1 Middlesbrough",
-              "result": "D"
-            },
-            {
-              "date": "14/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Sporting CP 4 - 1 Celtic",
-              "result": "L"
-            },
-            {
-              "date": "07/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Shelbourne 1 - 1 Celtic",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
           "team": "Dundee FC",
           "form": [
+            "D",
             "L",
             "W",
-            "L",
             "W",
-            "D"
+            "L"
           ],
           "recent_matches": [
             {
-              "date": "03/08/2026",
+              "date": "02/09/2026",
               "competition": "Premiership",
-              "teams_and_score": "Celtic 1 - 0 Dundee FC",
+              "teams_and_score": "Dundee FC 1 - 1 St. Johnstone",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
               "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "W"
             },
             {
               "date": "25/07/2026",
@@ -158,65 +130,81 @@
               "competition": "Club Friendlies 2026",
               "teams_and_score": "Dundee FC 0 - 4 Everton",
               "result": "L"
-            },
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "ST Johnstone",
+          "form": [
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
             {
-              "date": "14/07/2026",
-              "competition": "Scottish League Cup: Group D",
-              "teams_and_score": "Annan Athletic 0 - 5 Dundee FC",
-              "result": "W"
-            },
-            {
-              "date": "08/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Brechin City 1 - 1 Dundee FC",
+              "date": "02/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 1 - 1 St. Johnstone",
               "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group F",
+              "teams_and_score": "St. Johnstone 1 - 1 East Fife",
+              "result": "D"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cove Rangers 2 - 4 St. Johnstone",
+              "result": "W"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Celtic": "4",
-          "Dundee FC": "3"
+          "Dundee FC": "2",
+          "ST Johnstone": "3"
         },
         "shots_off_target": {
-          "Celtic": "10",
-          "Dundee FC": "5"
+          "Dundee FC": "6",
+          "ST Johnstone": "7"
         },
         "shots_blocked": {
-          "Celtic": "4",
-          "Dundee FC": "3"
+          "Dundee FC": "2",
+          "ST Johnstone": "5"
         },
         "corners": {
-          "Celtic": "9",
-          "Dundee FC": "4"
+          "Dundee FC": "2",
+          "ST Johnstone": "5"
         },
         "fouls": {
-          "Celtic": "9",
-          "Dundee FC": "7"
+          "Dundee FC": "16",
+          "ST Johnstone": "14"
         },
         "offsides": {
-          "Celtic": "0",
-          "Dundee FC": "1"
+          "Dundee FC": "0",
+          "ST Johnstone": "3"
         },
         "yellow_cards": {
-          "Celtic": "1",
-          "Dundee FC": "1"
+          "Dundee FC": "0",
+          "ST Johnstone": "2"
         },
         "goalkeeper_saves": {
-          "Celtic": "3",
-          "Dundee FC": "3"
+          "Dundee FC": "4",
+          "ST Johnstone": "2"
         },
         "crosses": {
-          "Celtic": "3",
-          "Dundee FC": "4"
+          "Dundee FC": "4",
+          "ST Johnstone": "2"
         },
         "ball_possession": {
-          "Celtic": "66%",
-          "Dundee FC": "34%"
+          "Dundee FC": "41%",
+          "ST Johnstone": "59%"
         }
       },
-      "description": "Watch Celtic vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 3, 2026. Celtic and Dundee FC locked horns in a highly anticipated Premiership encounter that promised tactical intrigue from the start. Both sides took to the pitch on August 3, 2026 , looking to establish dominance in a match where every small margin would prove crucial. A Cagey Opening Period The first half was characterized by a tactical stalemate, with both teams struggling to find a decisive opening. Celtic attempted to control the tempo through sustained possession, but Dundee FC remained disciplined and compact at the back. As the referee blew for half-time, the deadlock remained unbroken, leaving the fans in anticipation of a spark to ignite the contest in the second period. Nygren Delivers the Breakthrough The momentum shifted significantly just seven minutes after the restart. In the 52nd minute, Kieran Tierney turned provider, delivering a precise ball that found Benjamin Nygren in a dangerous position. Nygren made no mistake, clinical finishing to put his side ahead. This goal forced Dundee to alter their game plan, leading to a series of substitutions around the hour mark, including the introduction of Ashley Hay and Finlay Robertson . Late Drama and Final Whistle As the clock ticked down, the match grew increasingly physical. Both managers looked to their benches to influence the closing stages, with Celtic introducing James Forrest and Luke McCowan to maintain their lead. The tension boiled over in stoppage time, as Ashley Hay and Arne Engels both received yellow cards in quick succession. Despite Dundee's late efforts to find an equalizer, Celtic held firm until the final whistle at 90+4 minutes to secure the points."
+      "description": "Watch Dundee FC vs ST Johnstone highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 2, 2026. The stage was set for a compelling Scottish Premiership encounter as Dundee FC hosted ST Johnstone . Both sides took to the field on 2026-09-02 , looking to claim crucial points in a match that promised to be a tactical chess match from the opening whistle. Tactical Stalemate in the First Half The first half was a tightly contested affair, with both teams prioritizing defensive solidity over all-out attack. While there was plenty of industry in the middle of the park, clear-cut chances remained at a premium. The organized backlines of both Dundee and ST Johnstone ensured that the goalkeepers were rarely tested, leading to a scoreless draw as the referee blew for half-time, leaving the fans in anticipation of a more open second period. Strategic Changes and Rising Tension As the second half got underway, the intensity shifted. Zach Mitchell picked up a yellow card in the 63rd minute, signaling a more aggressive approach from both camps. Managers soon turned to their benches to find a breakthrough, with a flurry of substitutions including the introductions of Bradley Fink , Drey Wright , and Josh Fowler . The tactical reshuffle added fresh energy to the pitch, though the deadlock persisted until the final ten minutes of the match . Late Drama at the Death The game finally ignited in the closing stages. In the 87th minute, substitute Charlie Reilly broke the resistance with a clinical strike to give his side the lead. Before the visitors could regroup, another substitute, Josh Fowler , doubled the advantage in the 90th minute following a well-placed assist from Macaulay Tait . These late goals secured the victory just before the final whistle at 90+3', proving that the impact from the bench was the deciding factor in this hard-fought contest."
     },
     {
       "title": "Dundee - Aberdeen",
@@ -682,6 +670,220 @@
         }
       },
       "description": "Watch Dundee Utd vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The Dundee derby on August 22, 2026, set the stage for a high-stakes showdown in the Scottish Premiership . With bragging rights and crucial points on the line, both Dundee United and Dundee FC entered the pitch prepared for a fierce encounter. First-half deadlock broken From the opening whistle, the match was defined by physical battles across the midfield. Neither side was willing to yield, making for a gritty and tight contest. However, the deadlock was finally broken in the 43rd minute when Drey Wright capitalized on a decisive moment to find the net, sending the supporters into raptures just before the halftime break. Tensions rise in the second half The second half opened with tactical adjustments from both benches as players looked to shift the momentum. The breakthrough came at the 57th minute when Alan Forrest provided a clinical assist for Owen Bevan , who effectively doubled the pressure on the opposition with a well-taken goal. As the game wore on, the intensity led to a series of yellow cards for players including Daniel Bennie , Abdoulaye Yoro , and Dylan Tait . Despite late attempts to influence the game through substitutes, the score held firm until the final whistle at 95 minutes, closing out a hard-fought derby."
+    },
+    {
+      "title": "Celtic - Dundee",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-dundee-2026-08-03-HHkG.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 3, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/253.webp",
+          "name": "Dundee FC",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/247.webp",
+          "name": "Celtic",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/celtic-dundee-2026-08-03_5N8jX.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "52'",
+          "team": "Celtic",
+          "player": "B. Nygren",
+          "event_type": "Goal",
+          "assist": "K. Tierney",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "90'",
+          "team": "Dundee FC",
+          "player": "A. Hay",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Celtic",
+          "player": "A. Engels",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Celtic_wins": "6",
+          "draws": "0",
+          "Dundee FC_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "05/04/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee FC 1 - 2 Celtic"
+          },
+          {
+            "date": "07/02/2026",
+            "competition": "Scottish Cup: Round 5",
+            "teams_and_score": "Celtic 2 - 1 Dundee FC"
+          },
+          {
+            "date": "03/12/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Celtic 1 - 0 Dundee FC"
+          },
+          {
+            "date": "05/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Celtic 6 - 0 Dundee FC"
+          },
+          {
+            "date": "28/04/2024",
+            "competition": "Premiership: Championship Group",
+            "teams_and_score": "Dundee FC 1 - 2 Celtic"
+          },
+          {
+            "date": "28/02/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Celtic 7 - 1 Dundee FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Celtic",
+          "form": [
+            "W",
+            "D",
+            "D",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Celtic 1 - 0 Dundee FC",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Celtic 2 - 2 AC Milan",
+              "result": "D"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Celtic 1 - 1 Middlesbrough",
+              "result": "D"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sporting CP 4 - 1 Celtic",
+              "result": "L"
+            },
+            {
+              "date": "07/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Shelbourne 1 - 1 Celtic",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Dundee FC",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Celtic 1 - 0 Dundee FC",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Dundee FC 4 - 0 Clyde",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Dundee FC 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Annan Athletic 0 - 5 Dundee FC",
+              "result": "W"
+            },
+            {
+              "date": "08/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brechin City 1 - 1 Dundee FC",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Celtic": "4",
+          "Dundee FC": "3"
+        },
+        "shots_off_target": {
+          "Celtic": "10",
+          "Dundee FC": "5"
+        },
+        "shots_blocked": {
+          "Celtic": "4",
+          "Dundee FC": "3"
+        },
+        "corners": {
+          "Celtic": "9",
+          "Dundee FC": "4"
+        },
+        "fouls": {
+          "Celtic": "9",
+          "Dundee FC": "7"
+        },
+        "offsides": {
+          "Celtic": "0",
+          "Dundee FC": "1"
+        },
+        "yellow_cards": {
+          "Celtic": "1",
+          "Dundee FC": "1"
+        },
+        "goalkeeper_saves": {
+          "Celtic": "3",
+          "Dundee FC": "3"
+        },
+        "crosses": {
+          "Celtic": "3",
+          "Dundee FC": "4"
+        },
+        "ball_possession": {
+          "Celtic": "66%",
+          "Dundee FC": "34%"
+        }
+      },
+      "description": "Watch Celtic vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 3, 2026. Celtic and Dundee FC locked horns in a highly anticipated Premiership encounter that promised tactical intrigue from the start. Both sides took to the pitch on August 3, 2026 , looking to establish dominance in a match where every small margin would prove crucial. A Cagey Opening Period The first half was characterized by a tactical stalemate, with both teams struggling to find a decisive opening. Celtic attempted to control the tempo through sustained possession, but Dundee FC remained disciplined and compact at the back. As the referee blew for half-time, the deadlock remained unbroken, leaving the fans in anticipation of a spark to ignite the contest in the second period. Nygren Delivers the Breakthrough The momentum shifted significantly just seven minutes after the restart. In the 52nd minute, Kieran Tierney turned provider, delivering a precise ball that found Benjamin Nygren in a dangerous position. Nygren made no mistake, clinical finishing to put his side ahead. This goal forced Dundee to alter their game plan, leading to a series of substitutions around the hour mark, including the introduction of Ashley Hay and Finlay Robertson . Late Drama and Final Whistle As the clock ticked down, the match grew increasingly physical. Both managers looked to their benches to influence the closing stages, with Celtic introducing James Forrest and Luke McCowan to maintain their lead. The tension boiled over in stoppage time, as Ashley Hay and Arne Engels both received yellow cards in quick succession. Despite Dundee's late efforts to find an equalizer, Celtic held firm until the final whistle at 90+4 minutes to secure the points."
     }
   ]
 }

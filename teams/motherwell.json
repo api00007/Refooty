@@ -1,229 +1,237 @@
 {
   "team": "Motherwell",
   "team_logo": "https://img.refooty.com/logo/teams/256.webp",
-  "total_matches": 4,
-  "Last update time": "04:50:18 AM 03-09-2026",
+  "total_matches": 5,
+  "Last update time": "05:30:14 AM 03-09-2026",
   "matches": [
     {
-      "title": "Hibernian - Motherwell",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-motherwell-2026-08-02-rUOo.webp",
+      "title": "Motherwell - Dundee United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/motherwell-dundee-united-2026-09-02-0Pz7.webp",
       "competition": "Premiership - Scotland",
       "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 2, 2026",
+      "date": "Sep 2, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/256.webp",
-          "name": "Motherwell",
-          "score": "2"
+          "logo": "https://img.refooty.com/logo/teams/1386.webp",
+          "name": "Dundee Utd",
+          "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/249.webp",
-          "name": "Hibernian",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/256.webp",
+          "name": "Motherwell",
+          "score": "3"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/hibernian-motherwell-2026-08-02_xh6Fn.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/motherwell-dundee-united-2026-09-02.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
+          "team": "Dundee Utd",
+          "player": "E. Agyei",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "16'",
           "team": "Motherwell",
-          "player": "L. Fadinger",
+          "player": "S. Palmer-Houlden",
           "event_type": "Goal",
-          "score_update": "0 - 1"
+          "assist": "T. Sparrow",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Motherwell",
+          "player": "S. Palmer-Houlden",
+          "event_type": "Yellow Card"
         },
         {
           "time": "46'",
-          "team": "Hibernian",
-          "player": "J. Mulligan",
-          "event_type": "Yellow Card"
+          "team": "Motherwell",
+          "player": "A. Lowry",
+          "event_type": "Goal",
+          "assist": "T. Maswanhise",
+          "score_update": "2 - 0"
         },
         {
           "time": "61'",
           "team": "Motherwell",
-          "player": "O. Priestman",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Hibernian",
-          "player": "M. Boyle",
+          "player": "D. Levitt",
           "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "91'",
-          "team": "Motherwell",
-          "player": "L. Fadinger",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Motherwell",
-          "player": "T. Sparrow",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "121'",
-          "team": "Motherwell",
-          "player": "I. Said",
-          "event_type": "Goal",
-          "assist": "D. Williams",
-          "score_update": "1 - 2"
+          "assist": "T. Maswanhise",
+          "score_update": "3 - 0"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Hibernian_wins": "2",
-          "draws": "2",
-          "Motherwell_wins": "1"
+          "Motherwell_wins": "3",
+          "draws": "0",
+          "Dundee Utd_wins": "2"
         },
         "previous_matches": [
           {
-            "date": "16/05/2026",
-            "competition": "Premiership: Championship Group",
-            "teams_and_score": "Hibernian 0 - 1 Motherwell"
-          },
-          {
-            "date": "21/03/2026",
+            "date": "28/02/2026",
             "competition": "Premiership",
-            "teams_and_score": "Motherwell 0 - 0 Hibernian"
+            "teams_and_score": "Motherwell 2 - 0 Dundee United"
           },
           {
-            "date": "11/01/2025",
+            "date": "22/02/2025",
             "competition": "Premiership",
-            "teams_and_score": "Hibernian 3 - 1 Motherwell"
+            "teams_and_score": "Dundee United 1 - 0 Motherwell"
           },
           {
-            "date": "15/05/2024",
-            "competition": "Premiership: Relegation Group",
-            "teams_and_score": "Hibernian 3 - 0 Motherwell"
+            "date": "20/09/2024",
+            "competition": "Scottish League Cup: Quarter-Finals",
+            "teams_and_score": "Motherwell 2 - 1 Dundee United"
           },
           {
-            "date": "13/04/2024",
-            "competition": "Premiership 23/24",
-            "teams_and_score": "Motherwell 1 - 1 Hibernian"
+            "date": "28/05/2023",
+            "competition": "Premiership: Relegation Group 22/23",
+            "teams_and_score": "Motherwell 3 - 2 Dundee United"
+          },
+          {
+            "date": "15/04/2023",
+            "competition": "Premiership 22/23",
+            "teams_and_score": "Motherwell 1 - 2 Dundee United"
           }
         ],
         "home_team_form": {
-          "team": "Hibernian",
+          "team": "Motherwell",
           "form": [
+            "W",
+            "L",
             "L",
             "W",
-            "W",
-            "L"
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "02/08/2026",
+              "date": "02/09/2026",
               "competition": "Premiership",
-              "teams_and_score": "Hibernian 1 - 2 Motherwell",
-              "result": "L"
+              "teams_and_score": "Motherwell 3 - 0 Dundee United",
+              "result": "W"
             },
             {
-              "date": "30/07/2026",
+              "date": "27/08/2026",
               "competition": "Qualification",
-              "teams_and_score": "Hibernian 4 - 1 Malisheva",
-              "result": "W"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Hibernian 2 - 1 Broendby IF",
-              "result": "W"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "Premiership: Championship Group",
-              "teams_and_score": "Hibernian 0 - 1 Motherwell",
+              "teams_and_score": "Freiburg 4 - 1 Motherwell",
               "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Stenhousemuir 1 - 0 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Motherwell 2 - 0 HJK Helsinki",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Motherwell 0 - 0 Falkirk",
+              "result": "D"
             }
           ]
         },
         "away_team_form": {
-          "team": "Motherwell",
+          "team": "Dundee Utd",
           "form": [
-            "W",
+            "L",
             "W",
             "L",
-            "W"
+            "L",
+            "L"
           ],
           "recent_matches": [
             {
-              "date": "02/08/2026",
+              "date": "02/09/2026",
               "competition": "Premiership",
-              "teams_and_score": "Hibernian 1 - 2 Motherwell",
-              "result": "W"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "HB Torshavn 0 - 3 Motherwell",
-              "result": "W"
-            },
-            {
-              "date": "17/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Motherwell 3 - 4 Genk",
+              "teams_and_score": "Motherwell 3 - 0 Dundee United",
               "result": "L"
             },
             {
-              "date": "16/05/2026",
-              "competition": "Premiership: Championship Group",
-              "teams_and_score": "Hibernian 0 - 1 Motherwell",
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Dundee United 0 - 4 Celtic",
               "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hearts 4 - 0 Dundee United",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Salford City 3 - 2 Dundee United",
+              "result": "L"
+            },
+            {
+              "date": "21/07/2026",
+              "competition": "Scottish League Cup: Group B",
+              "teams_and_score": "Dundee United 4 - 0 Spartans",
+              "result": "L"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Hibernian": "6",
-          "Motherwell": "5"
+          "Motherwell": "8",
+          "Dundee Utd": "1"
         },
         "shots_off_target": {
-          "Hibernian": "5",
-          "Motherwell": "2"
+          "Motherwell": "8",
+          "Dundee Utd": "2"
         },
         "shots_blocked": {
-          "Hibernian": "8",
-          "Motherwell": "2"
+          "Motherwell": "9",
+          "Dundee Utd": "2"
         },
         "corners": {
-          "Hibernian": "9",
-          "Motherwell": "2"
+          "Motherwell": "9",
+          "Dundee Utd": "3"
         },
         "fouls": {
-          "Hibernian": "14",
-          "Motherwell": "13"
+          "Motherwell": "8",
+          "Dundee Utd": "6"
         },
         "offsides": {
-          "Hibernian": "1",
-          "Motherwell": "2"
+          "Motherwell": "1",
+          "Dundee Utd": "1"
         },
         "yellow_cards": {
-          "Hibernian": "1",
-          "Motherwell": "3"
+          "Motherwell": "1",
+          "Dundee Utd": "0"
+        },
+        "red_cards": {
+          "Motherwell": "0",
+          "Dundee Utd": "1"
         },
         "goalkeeper_saves": {
-          "Hibernian": "3",
-          "Motherwell": "3"
+          "Motherwell": "1",
+          "Dundee Utd": "5"
         },
         "crosses": {
-          "Hibernian": "7",
-          "Motherwell": "0"
+          "Motherwell": "5",
+          "Dundee Utd": "1"
         },
         "ball_possession": {
-          "Hibernian": "48%",
-          "Motherwell": "52%"
+          "Motherwell": "71%",
+          "Dundee Utd": "29%"
         }
       },
-      "description": "Watch Hibernian vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 2, 2026. The stage was set for a compelling Scottish Premiership clash as two determined sides met on the pitch. Fans were eager to see how this tactical battle would unfold on August 2, 2026 , with both teams searching for a decisive edge. Motherwell Break the Deadlock The opening period was a tightly contested affair, with both defenses holding firm under pressure. However, the game changed shortly before the break when Motherwell were awarded a penalty in the 40th minute. Lukas Fadinger stepped up to the spot and calmly converted, giving his side a hard-fought lead heading into the interval. Hibernian Fight Back in the Second Half Hibernian emerged for the second half with renewed energy and a more direct attacking approach. Their persistence paid off in the 56th minute when they were awarded a penalty of their own. Martin Boyle clinical finish restored parity and ignited the home crowd. As the half progressed, the intensity boiled over, leading to yellow cards for Josh Mulligan , Oscar Priestman , and Lukas Fadinger as both sides vied for control. Said Secures the Victory As the match entered its closing stages, tactical substitutions from both managers aimed to break the stalemate. The breakthrough finally arrived in the 85th minute. Dylan Williams provided a brilliant assist for Ibrahim Said , who found the back of the net to complete the comeback for Hibernian . Despite late pressure, the hosts held on to secure a dramatic victory in a game defined by grit and determination."
+      "description": "Watch Motherwell vs Dundee Utd highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 2, 2026. The atmosphere was electric as Motherwell and Dundee United faced off in a highly anticipated Premiership encounter. Both sides looked to assert their dominance early in a match that would soon be defined by a series of high-impact moments. Early Drama and Red Card On September 2, 2026 , the trajectory of the game shifted dramatically within the opening quarter-hour. In the 14th minute, Emmanuel Agyei was shown a straight red card, sparking heavy protests from his teammates. This pivotal moment forced Dundee United into an early reshuffle, with Abdoulaye Yoro sacrificed for Dylan Tait to stabilize the defense. Motherwell wasted little time capitalizing on their numerical advantage. In the 19th minute, Tom Sparrow provided a clinical assist for Seb Palmer Houlden , who fired the hosts into the lead. While the first half saw Palmer Houlden pick up a yellow card for a robust challenge, Motherwell remained firmly in the driving seat as they headed into the interval. Maswanhise Orchestrates the Finish The second half began with a flurry of substitutions as both managers looked to influence the flow. However, it was the individual brilliance of Tawanda Maswanhise that ultimately put the game out of reach. Within a devastating two-minute spell, Maswanhise turned provider twice to dismantle the opposition defense. In the 65th minute, he set up Alex Lowry for a composed finish to double the lead. Just two minutes later, Maswanhise was at it again, this time assisting Dylan Levitt , who made no mistake in finding the back of the net for the third goal. With the result secured, Motherwell introduced fresh legs like Willy Vogt and Stephen O'Donnell to see out a professional performance and claim all three points."
     },
     {
       "title": "Motherwell vs HJK helsinki",
@@ -822,6 +830,227 @@
         }
       },
       "description": "Watch HJK vs Motherwell highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on August 6, 2026. Expectations were high at the UEFA Conference League clash between HJK and Motherwell , held on August 6, 2026. Both sides stepped onto the pitch knowing that every moment of this European encounter could prove vital for their campaign. Physical Battles and Tight Defenses The match started with high intensity, as both teams fought fiercely for control in the middle of the park. The referee was forced to show the first yellow card to Alex Lowry in the 25th minute, signaling a cagey and physical affair. Throughout the first half, neither side was able to break the deadlock, as defensive discipline overshadowed creative efforts on both ends of the pitch. The Penalty and the Comeback The momentum shifted in the second half as tactical changes were made to disrupt the deadlock. The breakthrough finally arrived in the 64th minute when Tawanda Maswanhise coolly converted a penalty to put Motherwell in front. The response from HJK was immediate and effective; following the introduction of Teemu Pukki , the hosts found their spark. In the 71st minute, Kaius Simojoki provided the decisive assist for Pukki to fire home the equalizer. Tactical Clashes and Final Whistle The closing stages saw frustrations boil over, resulting in yellow cards for Miska Ylitolva , Liam Moeller , and Jake Girdwood-Reich . Both managers turned to their benches to inject fresh energy, but despite the flurry of substitutions in the final ten minutes, neither team could find a winner. The final whistle confirmed a shared result in a hard-fought European evening."
+    },
+    {
+      "title": "Hibernian - Motherwell",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-motherwell-2026-08-02-rUOo.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 2, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/256.webp",
+          "name": "Motherwell",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/249.webp",
+          "name": "Hibernian",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/hibernian-motherwell-2026-08-02_xh6Fn.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Motherwell",
+          "player": "L. Fadinger",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Hibernian",
+          "player": "J. Mulligan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Motherwell",
+          "player": "O. Priestman",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Hibernian",
+          "player": "M. Boyle",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Motherwell",
+          "player": "L. Fadinger",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Motherwell",
+          "player": "T. Sparrow",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Motherwell",
+          "player": "I. Said",
+          "event_type": "Goal",
+          "assist": "D. Williams",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Hibernian_wins": "2",
+          "draws": "2",
+          "Motherwell_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "16/05/2026",
+            "competition": "Premiership: Championship Group",
+            "teams_and_score": "Hibernian 0 - 1 Motherwell"
+          },
+          {
+            "date": "21/03/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Motherwell 0 - 0 Hibernian"
+          },
+          {
+            "date": "11/01/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Hibernian 3 - 1 Motherwell"
+          },
+          {
+            "date": "15/05/2024",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Hibernian 3 - 0 Motherwell"
+          },
+          {
+            "date": "13/04/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Motherwell 1 - 1 Hibernian"
+          }
+        ],
+        "home_team_form": {
+          "team": "Hibernian",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hibernian 1 - 2 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hibernian 4 - 1 Malisheva",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hibernian 2 - 1 Broendby IF",
+              "result": "W"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Premiership: Championship Group",
+              "teams_and_score": "Hibernian 0 - 1 Motherwell",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Motherwell",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hibernian 1 - 2 Motherwell",
+              "result": "W"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "HB Torshavn 0 - 3 Motherwell",
+              "result": "W"
+            },
+            {
+              "date": "17/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Motherwell 3 - 4 Genk",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Premiership: Championship Group",
+              "teams_and_score": "Hibernian 0 - 1 Motherwell",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Hibernian": "6",
+          "Motherwell": "5"
+        },
+        "shots_off_target": {
+          "Hibernian": "5",
+          "Motherwell": "2"
+        },
+        "shots_blocked": {
+          "Hibernian": "8",
+          "Motherwell": "2"
+        },
+        "corners": {
+          "Hibernian": "9",
+          "Motherwell": "2"
+        },
+        "fouls": {
+          "Hibernian": "14",
+          "Motherwell": "13"
+        },
+        "offsides": {
+          "Hibernian": "1",
+          "Motherwell": "2"
+        },
+        "yellow_cards": {
+          "Hibernian": "1",
+          "Motherwell": "3"
+        },
+        "goalkeeper_saves": {
+          "Hibernian": "3",
+          "Motherwell": "3"
+        },
+        "crosses": {
+          "Hibernian": "7",
+          "Motherwell": "0"
+        },
+        "ball_possession": {
+          "Hibernian": "48%",
+          "Motherwell": "52%"
+        }
+      },
+      "description": "Watch Hibernian vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 2, 2026. The stage was set for a compelling Scottish Premiership clash as two determined sides met on the pitch. Fans were eager to see how this tactical battle would unfold on August 2, 2026 , with both teams searching for a decisive edge. Motherwell Break the Deadlock The opening period was a tightly contested affair, with both defenses holding firm under pressure. However, the game changed shortly before the break when Motherwell were awarded a penalty in the 40th minute. Lukas Fadinger stepped up to the spot and calmly converted, giving his side a hard-fought lead heading into the interval. Hibernian Fight Back in the Second Half Hibernian emerged for the second half with renewed energy and a more direct attacking approach. Their persistence paid off in the 56th minute when they were awarded a penalty of their own. Martin Boyle clinical finish restored parity and ignited the home crowd. As the half progressed, the intensity boiled over, leading to yellow cards for Josh Mulligan , Oscar Priestman , and Lukas Fadinger as both sides vied for control. Said Secures the Victory As the match entered its closing stages, tactical substitutions from both managers aimed to break the stalemate. The breakthrough finally arrived in the 85th minute. Dylan Williams provided a brilliant assist for Ibrahim Said , who found the back of the net to complete the comeback for Hibernian . Despite late pressure, the hosts held on to secure a dramatic victory in a game defined by grit and determination."
     }
   ]
 }
