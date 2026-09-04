@@ -1,9 +1,222 @@
 {
   "team": "Al Fayha",
   "team_logo": "https://img.refooty.com/logo/teams/2944.webp",
-  "total_matches": 4,
-  "Last update time": "05:30:33 AM 04-09-2026",
+  "total_matches": 5,
+  "Last update time": "06:10:40 AM 04-09-2026",
   "matches": [
+    {
+      "title": "Al Fayha vs Al Kholood",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/al-fayha-vs-al-kholood-2026-09-03-8M1k.webp",
+      "competition": "Pro League - Saudi Arabia",
+      "competition_cover": "https://refooty.com/covers/pro-league-saudi.webp",
+      "date": "Sep 3, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/10509.webp",
+          "name": "Al Kholood",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/2944.webp",
+          "name": "Al Fayha",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/al-fayha-vs-al-kholood-2026-09-03.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Al Fayha",
+          "player": "H. Moura",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Al Kholood",
+          "player": "I. Kortajarena",
+          "event_type": "Goal",
+          "assist": "J. Domingues",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Al Fayha",
+          "player": "F. Sakala",
+          "event_type": "Goal",
+          "assist": "Lázaro",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Al Kholood",
+          "player": "M. Camara",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Al Kholood",
+          "player": "J. Domingues",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Al Kholood",
+          "player": "J. Domingues",
+          "event_type": "Goal",
+          "assist": "M. Camara",
+          "score_update": "2 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Al Fayha_wins": "0",
+          "draws": "1",
+          "Al Kholood_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "30/04/2026",
+            "competition": "Saudi Professional League",
+            "teams_and_score": "Al Kholood 1 - 1 Al Feiha"
+          },
+          {
+            "date": "21/05/2025",
+            "competition": "Saudi Professional League",
+            "teams_and_score": "Al Kholood 2 - 0 Al Feiha"
+          }
+        ],
+        "home_team_form": {
+          "team": "Al Fayha",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/09/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Feiha 2 - 2 Al Kholood",
+              "result": "D"
+            },
+            {
+              "date": "17/08/2026",
+              "competition": "King's Cup",
+              "teams_and_score": "Al Adalh 0 - 2 Al Feiha",
+              "result": "W"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "NEOM SC 2 - 1 Al Feiha",
+              "result": "L"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Westerlo 0 - 0 Al Feiha",
+              "result": "D"
+            },
+            {
+              "date": "21/05/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Feiha 0 - 1 Al Hilal",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Al Kholood",
+          "form": [
+            "D",
+            "W",
+            "D",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/09/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Feiha 2 - 2 Al Kholood",
+              "result": "D"
+            },
+            {
+              "date": "19/08/2026",
+              "competition": "King's Cup",
+              "teams_and_score": "Jeddah 0 - 5 Al Kholood",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Ittihad 1 - 1 Al Kholood",
+              "result": "D"
+            },
+            {
+              "date": "21/05/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Kholood 0 - 0 Al Fateh",
+              "result": "D"
+            },
+            {
+              "date": "08/05/2026",
+              "competition": "King's Cup",
+              "teams_and_score": "Al Kholood 1 - 2 Al Hilal",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Al Fayha": "4",
+          "Al Kholood": "4"
+        },
+        "shots_off_target": {
+          "Al Fayha": "3",
+          "Al Kholood": "9"
+        },
+        "shots_blocked": {
+          "Al Fayha": "3",
+          "Al Kholood": "3"
+        },
+        "corners": {
+          "Al Fayha": "3",
+          "Al Kholood": "7"
+        },
+        "fouls": {
+          "Al Fayha": "12",
+          "Al Kholood": "5"
+        },
+        "offsides": {
+          "Al Fayha": "1",
+          "Al Kholood": "0"
+        },
+        "yellow_cards": {
+          "Al Fayha": "0",
+          "Al Kholood": "2"
+        },
+        "goalkeeper_saves": {
+          "Al Fayha": "2",
+          "Al Kholood": "2"
+        },
+        "ball_possession": {
+          "Al Fayha": "38%",
+          "Al Kholood": "62%"
+        }
+      },
+      "description": "Watch Al Fayha vs Al Kholood highlights and goals from Pro League - Saudi Arabia on ReFooty: Football Highlights Hub. Match played on September 3, 2026."
+    },
     {
       "title": "Al Fayha vs Al Hilal Saudi FC",
       "thumbnail_url": "https://img.refooty.com/thumbnail/al-fayha-vs-al-hilal-saudi-fc-2026-08-20-euHe.webp",
