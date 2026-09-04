@@ -1,81 +1,142 @@
 {
   "team": "St. Truiden",
   "team_logo": "https://img.refooty.com/logo/teams/735.webp",
-  "total_matches": 4,
-  "Last update time": "06:10:41 AM 04-09-2026",
+  "total_matches": 6,
+  "Last update time": "04:20:37 AM 05-09-2026",
   "matches": [
     {
-      "title": "St. Truiden vs Omonia Nicosia",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-omonia-nicosia-2026-08-20-hgqm.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 20, 2026",
+      "title": "STVV - Union SG - 2026-2027",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/stvv-union-sg-2026-2027-2026-09-04-fQSl.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Sep 4, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/3402.webp",
-          "name": "Omonia Nicosia",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/259.webp",
+          "name": "Lommel United",
+          "score": "3"
         },
         "home_team": {
           "logo": "https://img.refooty.com/logo/teams/735.webp",
           "name": "St. Truiden",
-          "score": "1"
+          "score": "0"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-omonia-nicosia-2026-08-20.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/stvv-union-sg-2026-2027-2026-09-04.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "50'",
+          "time": "1'",
+          "team": "Lommel United",
+          "player": "K. M. Allister",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Lommel United",
+          "player": "L. Patris",
+          "event_type": "Goal",
+          "assist": "M. Biondic",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "St. Truiden",
+          "player": "A. Sissako",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
           "team": "St. Truiden",
           "player": "R. Vanwesemael",
           "event_type": "Yellow Card"
         },
         {
-          "time": "51'",
-          "team": "Omonia Nicosia",
-          "player": "J. Duverne",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "85'",
-          "team": "Omonia Nicosia",
-          "player": "E. Costa",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+4'",
+          "time": "76'",
           "team": "St. Truiden",
-          "player": "S. Taniguchi",
+          "player": "N. Ishiwatari",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Lommel United",
+          "player": "K. M. Allister",
           "event_type": "Goal",
-          "assist": "R. Merlen",
-          "score_update": "1 - 0"
+          "assist": "B. Zeneli",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "106'",
+          "team": "Lommel United",
+          "player": "K. V. D. Perre",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Lommel United",
+          "player": "R. Ratomo",
+          "event_type": "Goal",
+          "assist": "M. Biondic",
+          "score_update": "0 - 3"
         }
       ],
       "head_to_head": {
         "summary": {
-          "St. Truiden_wins": "0",
+          "St. Truiden_wins": "1",
           "draws": "0",
-          "Omonia Nicosia_wins": "0"
+          "Lommel United_wins": "4"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "02/05/2026",
+            "competition": "Belgian Pro League Playoff: Championship Group",
+            "teams_and_score": "St.Truiden 2 - 1 Union St.Gilloise"
+          },
+          {
+            "date": "22/03/2026",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+          },
+          {
+            "date": "02/02/2025",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+          },
+          {
+            "date": "21/01/2024",
+            "competition": "Belgian Pro League 23/24",
+            "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+          },
+          {
+            "date": "02/04/2023",
+            "competition": "Belgian Pro League 22/23",
+            "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+          }
+        ],
         "home_team_form": {
           "team": "St. Truiden",
           "form": [
+            "W",
             "L",
             "D",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "20/08/2026",
+              "date": "02/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "St.Truiden 0 - 3 Union St.Gilloise",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
               "competition": "Qualification",
-              "teams_and_score": "St.Truiden 1 - 0 Omonia Nicosia",
+              "teams_and_score": "Omonia Nicosia 4 - 2 St.Truiden",
               "result": "L"
             },
             {
@@ -93,77 +154,319 @@
           ]
         },
         "away_team_form": {
-          "team": "Omonia Nicosia",
+          "team": "Lommel United",
           "form": [
+            "W",
             "L",
-            "L",
-            "W"
+            "W",
+            "D",
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "20/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "St.Truiden 1 - 0 Omonia Nicosia",
-              "result": "L"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Kairat Almaty 1 - 0 Omonia Nicosia",
-              "result": "L"
-            },
-            {
-              "date": "22/05/2026",
-              "competition": "1st Division: Championship",
-              "teams_and_score": "Omonia Nicosia 5 - 2 Apollon Limassol",
+              "date": "02/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "St.Truiden 0 - 3 Union St.Gilloise",
               "result": "W"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Bodoe/Glimt 3 - 2 Union St.Gilloise",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Westerlo 1 - 5 Union St.Gilloise",
+              "result": "W"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Union St.Gilloise 3 - 3 Bodoe/Glimt",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Super Cup",
+              "teams_and_score": "Club Brugge 1 - 1 Union St.Gilloise",
+              "result": "D"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "St. Truiden": "3",
-          "Omonia Nicosia": "2"
+          "St. Truiden": "2",
+          "Lommel United": "6"
         },
         "shots_off_target": {
-          "St. Truiden": "8",
-          "Omonia Nicosia": "5"
+          "St. Truiden": "2",
+          "Lommel United": "4"
         },
         "shots_blocked": {
-          "St. Truiden": "5",
-          "Omonia Nicosia": "1"
+          "St. Truiden": "2",
+          "Lommel United": "2"
         },
         "corners": {
-          "St. Truiden": "6",
-          "Omonia Nicosia": "1"
+          "St. Truiden": "3",
+          "Lommel United": "1"
         },
         "fouls": {
-          "St. Truiden": "13",
-          "Omonia Nicosia": "9"
+          "St. Truiden": "14",
+          "Lommel United": "10"
         },
         "offsides": {
-          "St. Truiden": "2",
-          "Omonia Nicosia": "0"
+          "St. Truiden": "1",
+          "Lommel United": "1"
         },
         "yellow_cards": {
-          "St. Truiden": "1",
-          "Omonia Nicosia": "2"
+          "St. Truiden": "3",
+          "Lommel United": "2"
         },
         "goalkeeper_saves": {
-          "St. Truiden": "2",
-          "Omonia Nicosia": "2"
-        },
-        "crosses": {
-          "St. Truiden": "9",
-          "Omonia Nicosia": "4"
+          "St. Truiden": "3",
+          "Lommel United": "2"
         },
         "ball_possession": {
-          "St. Truiden": "57%",
-          "Omonia Nicosia": "43%"
+          "St. Truiden": "50%",
+          "Lommel United": "50%"
         }
       },
-      "description": "Watch St. Truiden vs Omonia Nicosia highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 20, 2026. The UEFA Europa League returned with high stakes on August 20, 2026, as St. Truiden hosted Omonia Nicosia in a match where patience and discipline were tested until the final whistle. Both sides looked to establish their dominance early on, setting the stage for a tense European encounter. A Tactical Stalemate in the Opening Period The match began with both St. Truiden and Omonia Nicosia showing great defensive organization. Throughout the first half, neither side was willing to commit too many men forward, leading to a disciplined battle in the midfield. Frederic Soelle Soelle looked for openings for the home side, but the Omonia Nicosia backline remained firm. As the referee blew for halftime, the score remained level, reflecting a balanced opening 45 minutes where clear-cut chances were hard to come by. Second Half Adjustments and Mounting Tension The second half saw an immediate change as Samed Bazdar replaced Frederic Soelle Soelle for the hosts. The intensity began to rise, and with it, the referee's involvement. Robert-Jan Vanwesemael was the first to see yellow in the 50th minute, followed closely by Jean-Kevin Duverne of Omonia Nicosia . Both managers looked to their benches to break the deadlock; Ryotaro Araki and Arbnor Muja were introduced for the home side, while the visitors brought on Anastasios Chatzigiovanis and later Loic Nego . Despite the fresh legs, the game remained locked in a physical struggle, highlighted by a late booking for Ewandro . Stoppage Time Drama at the Death Just as the match seemed destined for a goalless draw, the home crowd was sent into a frenzy. In the 4th minute of stoppage time, Ryan Merlen found space and delivered a precise pass to Shogo Taniguchi . The defender made no mistake, firing the ball home to break the deadlock at the last possible moment. The goal proved to be the final action of significance, as St. Truiden secured all three points in dramatic fashion right before the final whistle blew, leaving Omonia Nicosia with no time to respond."
+      "description": "Watch St. Truiden vs Lommel United highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on September 4, 2026. The Jupiler Pro League provided a thrilling spectacle on September 4, 2026 , as St. Truiden hosted Union SG . Both teams entered the pitch with high ambitions, setting the stage for a tactical battle under the floodlights of a charged stadium. The Breakthrough in the First Half The match began with high physical intensity, as both sides vied for dominance in the middle of the park. The early tension boiled over in the 21st minute when Union SG defender Kevin Mac Allister received a yellow card. Exploiting the momentary lapse in the visitors' concentration, St. Truiden struck just two minutes later. In the 23rd minute, Mateo Biondic turned provider, delivering a precise pass to Louis Patris , who clinicaly found the back of the net to give the hosts the lead. The remainder of the first half was a disciplined affair, with St. Truiden heading into the tunnel with a narrow advantage. Second Half Drama and Quick Responses The second period started with a flurry of disciplinary actions, as Abdoulaye Sissako , Robert-Jan Vanwesemael , and Nelson Ishiwatari all entered the referee's book within ten minutes of the restart. Amidst the rising tension, Union SG found an equalizer in the 56th minute. Besfort Zeneli showcased his creative flair by assisting Kevin Mac Allister , who powered home a shot to level the score at 1-1. However, the celebrations for the visitors were short-lived. St. Truiden responded with immediate clinical efficiency. In the 63rd minute, the formidable Mateo Biondic recorded his second assist of the match, setting up Relebohile Mofokeng . The attacker made no mistake, restoring St. Truiden 's lead and sending the home fans into a frenzy. Closing Stages and Tactical Changes As the clock ticked down, both managers turned to their benches to influence the final outcome. St. Truiden introduced the likes of Darius Olaru and Rob Schoofs to stabilize the midfield and protect their slim lead. Union SG pushed forward, bringing on Raul Florucz in the 79th minute to spark a late comeback, but the home defense remained resolute. After three minutes of stoppage time, the final whistle blew, confirming a hard-fought victory for St. Truiden in a match defined by swift counter-attacks and individual brilliance."
+    },
+    {
+      "title": "St. Truiden vs Union St. Gilloise",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-union-st-gilloise-2026-09-03-avif.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Sep 3, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1393.webp",
+          "name": "Union St. Gilloise",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/735.webp",
+          "name": "St. Truiden",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-union-st-gilloise-2026-09-03.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Union St. Gilloise",
+          "player": "K. M. Allister",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Union St. Gilloise",
+          "player": "L. Patris",
+          "event_type": "Goal",
+          "assist": "M. Biondic",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "St. Truiden",
+          "player": "A. Sissako",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "St. Truiden",
+          "player": "R. Vanwesemael",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "St. Truiden",
+          "player": "N. Ishiwatari",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Union St. Gilloise",
+          "player": "K. M. Allister",
+          "event_type": "Goal",
+          "assist": "B. Zeneli",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "106'",
+          "team": "Union St. Gilloise",
+          "player": "K. V. D. Perre",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Union St. Gilloise",
+          "player": "R. Ratomo",
+          "event_type": "Goal",
+          "assist": "M. Biondic",
+          "score_update": "0 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "St. Truiden_wins": "1",
+          "draws": "0",
+          "Union St. Gilloise_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "02/05/2026",
+            "competition": "Belgian Pro League Playoff: Championship Group",
+            "teams_and_score": "St.Truiden 2 - 1 Union St.Gilloise"
+          },
+          {
+            "date": "22/03/2026",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "St.Truiden 1 - 3 Union St.Gilloise"
+          },
+          {
+            "date": "02/02/2025",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+          },
+          {
+            "date": "21/01/2024",
+            "competition": "Belgian Pro League 23/24",
+            "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+          },
+          {
+            "date": "02/04/2023",
+            "competition": "Belgian Pro League 22/23",
+            "teams_and_score": "Union St.Gilloise 2 - 1 St.Truiden"
+          }
+        ],
+        "home_team_form": {
+          "team": "St. Truiden",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "St.Truiden 0 - 3 Union St.Gilloise",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Omonia Nicosia 4 - 2 St.Truiden",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Cercle Brugge 3 - 3 St.Truiden",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AEK Athens 3 - 0 St.Truiden",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Union St. Gilloise",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "St.Truiden 0 - 3 Union St.Gilloise",
+              "result": "W"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Bodoe/Glimt 3 - 2 Union St.Gilloise",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Westerlo 1 - 5 Union St.Gilloise",
+              "result": "W"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Union St.Gilloise 3 - 3 Bodoe/Glimt",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Super Cup",
+              "teams_and_score": "Club Brugge 1 - 1 Union St.Gilloise",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "St. Truiden": "2",
+          "Union St. Gilloise": "6"
+        },
+        "shots_off_target": {
+          "St. Truiden": "2",
+          "Union St. Gilloise": "4"
+        },
+        "shots_blocked": {
+          "St. Truiden": "2",
+          "Union St. Gilloise": "2"
+        },
+        "corners": {
+          "St. Truiden": "3",
+          "Union St. Gilloise": "1"
+        },
+        "fouls": {
+          "St. Truiden": "14",
+          "Union St. Gilloise": "10"
+        },
+        "offsides": {
+          "St. Truiden": "1",
+          "Union St. Gilloise": "1"
+        },
+        "yellow_cards": {
+          "St. Truiden": "3",
+          "Union St. Gilloise": "2"
+        },
+        "goalkeeper_saves": {
+          "St. Truiden": "3",
+          "Union St. Gilloise": "2"
+        },
+        "ball_possession": {
+          "St. Truiden": "50%",
+          "Union St. Gilloise": "50%"
+        }
+      },
+      "description": "Watch St. Truiden vs Union St. Gilloise highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on September 3, 2026. St. Truiden faced off against Union St. Gilloise in a high-stakes Jupiler Pro League encounter on September 3, 2026 . The match began with both teams displaying tactical discipline as they looked to gain an early foothold in the contest. Union Strike Early The game's physical nature was evident early on when Kevin Mac Allister picked up a yellow card in the 21st minute. However, the visitors quickly turned their focus toward the goal. In the 23rd minute, Mateo Biondic delivered a brilliant assist to Louis Patris , who clinical finished to give Union St. Gilloise the lead. St. Truiden attempted to find an equalizer before the break, but the visitors' defense remained resolute under pressure. Second Half Surge The start of the second half saw a flurry of disciplinary issues for the home side, as Abdoulaye Sissako , Robert-Jan Vanwesemael , and Nelson Ishiwatari were all cautioned. Union St. Gilloise exploited this lack of composure efficiently. In the 56th minute, Besfort Zeneli set up Kevin Mac Allister for the second goal. The result was put beyond doubt in the 63rd minute when Relebohile Mofokeng found the net following another precise setup by Mateo Biondic . Closing Stages With a comfortable lead, Union St. Gilloise managed the remaining minutes with veteran composure. Substitutions played a key role in the final quarter, with Raul Florucz and Darius Olaru entering the fray to maintain the intensity. St. Truiden introduced Rob Schoofs and Taiga Hata in hopes of a late consolation, but the visitors stood firm until the final whistle, securing a comprehensive victory away from home."
     },
     {
       "title": "Omonia Nicosia vs St. Truiden",
@@ -793,6 +1096,167 @@
         }
       },
       "description": "Watch Cercle Brugge vs St. Truiden highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 17, 2026. The Jupiler Pro League clash between Cercle Brugge and Lommel United delivered a high-scoring spectacle defined by shifting momentums. Both sides contributed to a relentless attacking display that left the result hanging in the balance until the final moments. Lommel's First-Half Blitz On August 17, 2026 , the game exploded into life from the very first whistle. Within sixty seconds, Ryan Merlen put Lommel United ahead, converting a pass from Ilias Sebaoui . The visitors remained clinical throughout the opening period, exploiting gaps in the home defense. In the 28th minute, Steve Ngoura doubled the lead, showcasing the tactical discipline of the visiting side. Lommel's dominance was further underlined before the break. In the 37th minute, Ryan Merlen struck again to secure his brace, following an assist from Robert-Jan Vanwesemael . Heading into the interval with a significant advantage, the visitors appeared to be in total control of the narrative at the Jan Breydel Stadium . Second Half Drama and Fightback The restart saw Nelson Ishiwatari extend the lead in the 47th minute, once again set up by Ilias Sebaoui . However, the introduction of fresh legs sparked a late surge from Cercle Brugge . Erick Nunes , coming off the bench, managed to find the net in the 82nd minute to ignite hopes of a miracle comeback for the home supporters. As the match entered stoppage time, the atmosphere turned frantic. Following yellow cards for Joedrick Pupe and Loic Mbe Soh , the latter suffered a moment of misfortune. In the 90+3 minute, Loic Mbe Soh inadvertently turned the ball into his own net. While the late surge provided a dramatic conclusion, the early groundwork laid by Lommel United proved decisive in this pulsating encounter."
+    },
+    {
+      "title": "St. Truiden vs Omonia Nicosia",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/st-truiden-vs-omonia-nicosia-2026-08-20-hgqm.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Aug 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/3402.webp",
+          "name": "Omonia Nicosia",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/735.webp",
+          "name": "St. Truiden",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/st-truiden-vs-omonia-nicosia-2026-08-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "50'",
+          "team": "St. Truiden",
+          "player": "R. Vanwesemael",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "51'",
+          "team": "Omonia Nicosia",
+          "player": "J. Duverne",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "85'",
+          "team": "Omonia Nicosia",
+          "player": "E. Costa",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "St. Truiden",
+          "player": "S. Taniguchi",
+          "event_type": "Goal",
+          "assist": "R. Merlen",
+          "score_update": "1 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "St. Truiden_wins": "0",
+          "draws": "0",
+          "Omonia Nicosia_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "St. Truiden",
+          "form": [
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "St.Truiden 1 - 0 Omonia Nicosia",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Cercle Brugge 3 - 3 St.Truiden",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AEK Athens 3 - 0 St.Truiden",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Omonia Nicosia",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "St.Truiden 1 - 0 Omonia Nicosia",
+              "result": "L"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Kairat Almaty 1 - 0 Omonia Nicosia",
+              "result": "L"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "1st Division: Championship",
+              "teams_and_score": "Omonia Nicosia 5 - 2 Apollon Limassol",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "St. Truiden": "3",
+          "Omonia Nicosia": "2"
+        },
+        "shots_off_target": {
+          "St. Truiden": "8",
+          "Omonia Nicosia": "5"
+        },
+        "shots_blocked": {
+          "St. Truiden": "5",
+          "Omonia Nicosia": "1"
+        },
+        "corners": {
+          "St. Truiden": "6",
+          "Omonia Nicosia": "1"
+        },
+        "fouls": {
+          "St. Truiden": "13",
+          "Omonia Nicosia": "9"
+        },
+        "offsides": {
+          "St. Truiden": "2",
+          "Omonia Nicosia": "0"
+        },
+        "yellow_cards": {
+          "St. Truiden": "1",
+          "Omonia Nicosia": "2"
+        },
+        "goalkeeper_saves": {
+          "St. Truiden": "2",
+          "Omonia Nicosia": "2"
+        },
+        "crosses": {
+          "St. Truiden": "9",
+          "Omonia Nicosia": "4"
+        },
+        "ball_possession": {
+          "St. Truiden": "57%",
+          "Omonia Nicosia": "43%"
+        }
+      },
+      "description": "Watch St. Truiden vs Omonia Nicosia highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 20, 2026. The UEFA Europa League returned with high stakes on August 20, 2026, as St. Truiden hosted Omonia Nicosia in a match where patience and discipline were tested until the final whistle. Both sides looked to establish their dominance early on, setting the stage for a tense European encounter. A Tactical Stalemate in the Opening Period The match began with both St. Truiden and Omonia Nicosia showing great defensive organization. Throughout the first half, neither side was willing to commit too many men forward, leading to a disciplined battle in the midfield. Frederic Soelle Soelle looked for openings for the home side, but the Omonia Nicosia backline remained firm. As the referee blew for halftime, the score remained level, reflecting a balanced opening 45 minutes where clear-cut chances were hard to come by. Second Half Adjustments and Mounting Tension The second half saw an immediate change as Samed Bazdar replaced Frederic Soelle Soelle for the hosts. The intensity began to rise, and with it, the referee's involvement. Robert-Jan Vanwesemael was the first to see yellow in the 50th minute, followed closely by Jean-Kevin Duverne of Omonia Nicosia . Both managers looked to their benches to break the deadlock; Ryotaro Araki and Arbnor Muja were introduced for the home side, while the visitors brought on Anastasios Chatzigiovanis and later Loic Nego . Despite the fresh legs, the game remained locked in a physical struggle, highlighted by a late booking for Ewandro . Stoppage Time Drama at the Death Just as the match seemed destined for a goalless draw, the home crowd was sent into a frenzy. In the 4th minute of stoppage time, Ryan Merlen found space and delivered a precise pass to Shogo Taniguchi . The defender made no mistake, firing the ball home to break the deadlock at the last possible moment. The goal proved to be the final action of significance, as St. Truiden secured all three points in dramatic fashion right before the final whistle blew, leaving Omonia Nicosia with no time to respond."
     }
   ]
 }

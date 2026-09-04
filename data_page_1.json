@@ -3,8 +3,825 @@
   "AUTHOR": "iVan_FluX",
   "CONTACT (OWNER)": "https://t.me/iVan_flux",
   "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-  "Last update time": "06:10:39 AM 04-09-2026",
+  "Last update time": "04:20:37 AM 05-09-2026",
   "matches": [
+    {
+      "title": "KRC Genk - SK Beveren - 2026-2027",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/krc-genk-sk-beveren-2026-2027-2026-08-31-6kBW.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Aug 31, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/259.webp",
+          "name": "Lommel United",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/742.webp",
+          "name": "Genk",
+          "score": "4"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/krc-genk-sk-beveren-2026-2027-2026-08-31.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Genk",
+          "player": "R. Durosinmi",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Genk",
+          "player": "J. Ito",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Lommel United",
+          "player": "Y. Gomis",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Genk",
+          "player": "J. N. Kongolo",
+          "event_type": "Goal",
+          "assist": "J. Erenbjerg",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Genk",
+          "player": "J. Kayembe",
+          "event_type": "Goal",
+          "assist": "N. Adedeji-Sternberg",
+          "score_update": "4 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Genk_wins": "4",
+          "draws": "2",
+          "Lommel United_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "08/07/2026",
+            "competition": "Club Friendlies 2026",
+            "teams_and_score": "Genk 2 - 1 SK Beveren"
+          },
+          {
+            "date": "30/10/2024",
+            "competition": "Belgian Cup",
+            "teams_and_score": "SK Beveren 0 - 2 Genk"
+          },
+          {
+            "date": "27/12/2020",
+            "competition": "First Division A 20/21",
+            "teams_and_score": "Genk 1 - 1 SK Beveren"
+          },
+          {
+            "date": "14/12/2019",
+            "competition": "First Division A 19/20",
+            "teams_and_score": "Genk 4 - 1 SK Beveren"
+          },
+          {
+            "date": "02/02/2019",
+            "competition": "First Division A",
+            "teams_and_score": "SK Beveren 1 - 2 Genk"
+          },
+          {
+            "date": "13/12/2017",
+            "competition": "Cup",
+            "teams_and_score": "Genk 3 - 3 SK Beveren"
+          }
+        ],
+        "home_team_form": {
+          "team": "Genk",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "28/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Genk 4 - 0 SK Beveren",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Genk 2 - 1 FC Twente",
+              "result": "W"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "AZ Alkmaar 4 - 0 Genk",
+              "result": "L"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Falkirk 1 - 0 Genk",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lommel United",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "28/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Genk 4 - 0 SK Beveren",
+              "result": "L"
+            },
+            {
+              "date": "08/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Genk 2 - 1 SK Beveren",
+              "result": "L"
+            },
+            {
+              "date": "17/04/2026",
+              "competition": "Challenger Pro League",
+              "teams_and_score": "RFC Seraing 1 - 2 SK Beveren",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Genk": "7",
+          "Lommel United": "1"
+        },
+        "shots_off_target": {
+          "Genk": "3",
+          "Lommel United": "3"
+        },
+        "shots_blocked": {
+          "Genk": "2",
+          "Lommel United": "9"
+        },
+        "corners": {
+          "Genk": "3",
+          "Lommel United": "9"
+        },
+        "fouls": {
+          "Genk": "7",
+          "Lommel United": "4"
+        },
+        "offsides": {
+          "Genk": "0",
+          "Lommel United": "1"
+        },
+        "yellow_cards": {
+          "Genk": "0",
+          "Lommel United": "1"
+        },
+        "goalkeeper_saves": {
+          "Genk": "1",
+          "Lommel United": "3"
+        },
+        "ball_possession": {
+          "Genk": "49%",
+          "Lommel United": "51%"
+        }
+      },
+      "description": "Watch Genk vs Lommel United highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 31, 2026. The Jupiler Pro League action continued on August 31, 2026 , as Genk hosted Lommel United in a highly anticipated fixture. Both sides entered the match seeking to establish momentum in the early stages of the season. First Half Blitz Genk wasted no time establishing their authority on the pitch, and their aggressive start paid dividends as early as the 9th minute. After a foul in the area, the referee pointed to the spot, and Rafiu Durosinmi stepped up to calmly convert the penalty. The home side's dominance only grew from there, and in the 19th minute, Junya Ito found the back of the net with a clinical finish to double the lead. Lommel United struggled to cope with the high press of the hosts, leading to a yellow card for Yoni Gomis in the 29th minute as frustrations mounted. Just before the interval, Genk added a third goal to effectively kill off the contest. In the 43rd minute, Jeppe Erenbjerg turned provider, delivering a precise ball for Josue Kongolo to slot home, sending the home fans into raptures as the teams headed for the tunnels. Clinical Consolidation Despite a triple substitution from Lommel United at the start of the second half, the flow of the game remained firmly in Genk 's favor. The hosts managed the tempo with professional composure, preventing any significant comeback attempts. Tactical adjustments from the bench further strengthened their position as the clock ticked down. In the 74th minute, the substitutes combined to add gloss to the scoreline. Noah Adedeji-Sternberg , shortly after coming onto the field, provided a brilliant assist for Joris Kayembe Ditu , who made no mistake in making it 4-0. The final stages were marked by further rotations as Genk closed out the game with ease, securing a statement victory in front of their home supporters."
+    },
+    {
+      "title": "RAAL - KV Mechelen - 2026-2027",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/raal-kv-mechelen-2026-2027-2026-08-31-clRq.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Aug 31, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/259.webp",
+          "name": "Lommel United",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/5902.webp",
+          "name": "RAAL La Louvière",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/raal-kv-mechelen-2026-2027-2026-08-31.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "6'",
+          "team": "Lommel United",
+          "player": "M. v. Brederode",
+          "event_type": "Goal",
+          "assist": "K. Vanrafelghem",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "13'",
+          "team": "RAAL La Louvière",
+          "player": "E. Filet",
+          "event_type": "Goal",
+          "assist": "M. Courcoul",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "15'",
+          "team": "RAAL La Louvière",
+          "player": "M. Courcoul",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "17'",
+          "team": "RAAL La Louvière",
+          "player": "W. Faye",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Lommel United",
+          "player": "F. Hammar",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+5'",
+          "team": "RAAL La Louvière",
+          "player": "M. Isah",
+          "event_type": "Goal",
+          "assist": "Z. Gruber",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Lommel United",
+          "player": "A. Ayodele",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Lommel United",
+          "player": "A. Ayodele",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "RAAL La Louvière_wins": "1",
+          "draws": "0",
+          "Lommel United_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "22/02/2026",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Raal La Louviere 0 - 2 KV Mechelen"
+          },
+          {
+            "date": "05/07/2025",
+            "competition": "Club Friendlies 2025",
+            "teams_and_score": "KV Mechelen 1 - 0 Raal La Louviere"
+          },
+          {
+            "date": "30/10/2024",
+            "competition": "Belgian Cup",
+            "teams_and_score": "KV Mechelen 3 - 1 Raal La Louviere"
+          }
+        ],
+        "home_team_form": {
+          "team": "RAAL La Louvière",
+          "form": [
+            "D",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Raal La Louviere 2 - 2 KV Mechelen",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Eintracht Braunschweig 0 - 0 Raal La Louviere",
+              "result": "D"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Belgian Pro League: Relegation Group",
+              "teams_and_score": "Raal La Louviere 4 - 1 Cercle Brugge",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lommel United",
+          "form": [
+            "D",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Raal La Louviere 2 - 2 KV Mechelen",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Willem II 1 - 0 KV Mechelen",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Belgian Pro League Playoff: Championship Group",
+              "teams_and_score": "St.Truiden 3 - 0 KV Mechelen",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "RAAL La Louvière": "5",
+          "Lommel United": "7"
+        },
+        "shots_off_target": {
+          "RAAL La Louvière": "5",
+          "Lommel United": "7"
+        },
+        "shots_blocked": {
+          "RAAL La Louvière": "4",
+          "Lommel United": "2"
+        },
+        "corners": {
+          "RAAL La Louvière": "1",
+          "Lommel United": "6"
+        },
+        "fouls": {
+          "RAAL La Louvière": "10",
+          "Lommel United": "8"
+        },
+        "offsides": {
+          "RAAL La Louvière": "0",
+          "Lommel United": "5"
+        },
+        "yellow_cards": {
+          "RAAL La Louvière": "2",
+          "Lommel United": "2"
+        },
+        "goalkeeper_saves": {
+          "RAAL La Louvière": "5",
+          "Lommel United": "3"
+        },
+        "ball_possession": {
+          "RAAL La Louvière": "34%",
+          "Lommel United": "66%"
+        }
+      },
+      "description": "Watch RAAL La Louvière vs Lommel United highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 31, 2026. The Jupiler Pro League delivered a fixture full of intensity on August 31, 2026 , as RAAL La Louvière hosted Lommel United . The atmosphere was electric from the start as both teams looked to seize control of the narrative in a match that promised high-stakes football. Explosive Opening and Early Dominance The match ignited almost immediately, with RAAL La Louvière finding their rhythm within the opening minutes. In the 6th minute, Myron van Brederode clinical finish broke the deadlock following an incisive pass from Keano Vanrafelghem . The home side refused to take their foot off the gas and doubled their advantage in the 13th minute. Elias Filet was the man on target, expertly converting a chance provided by Marius Courcoul to leave Lommel United reeling. As the first half progressed, the physical nature of the contest became apparent. The referee was forced to reach for his pocket early, issuing yellow cards to Marius Courcoul and Wagane Faye within the first twenty minutes. Despite Lommel United's attempts to stabilize, the momentum remained firmly with the hosts, who continued to threaten in the final third. Psychological Blow and Second Half Impact Just as the first half seemed to be winding down, RAAL La Louvière struck a decisive blow in stoppage time. In the 45+5th minute, Mustapha Isah netted the third goal of the afternoon after being set up by Zsombor Gruber . This late strike sent the hosts into the break with a commanding lead and a significant psychological advantage. Strategic changes at the interval saw Adeshina Ayodele enter the fray, and the substitution paid dividends almost instantly. Only a minute after the restart, Ayodele found the back of the net in the 47th minute to make it 4-0. The goal effectively ended the match as a contest, allowing the home side to manage their resources and rotate the squad throughout the remainder of the second half. Clinical Management to the Final Whistle The final half-hour was characterized by a series of tactical substitutions from both managers. Players like Simion Michez , Anas Tajaouart , and Leandro Rousseau were introduced to see out the result. While the scoring pace slowed, the competitive edge remained, evidenced by a yellow card for Adeshina Ayodele in the 84th minute. When the final whistle blew after four minutes of stoppage time, the scoreboard reflected a night of total dominance for RAAL La Louvière . Their clinical finishing and ability to score at pivotal moments proved too much for Lommel United to handle, securing a memorable victory in front of their home supporters."
+    },
+    {
+      "title": "KV Kortrijk - Sporting Charleroi - 2026-2027",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/kv-kortrijk-sporting-charleroi-2026-2027-2026-08-31-7BBh.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Aug 31, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/259.webp",
+          "name": "Lommel United",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/734.webp",
+          "name": "Kortrijk",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/kv-kortrijk-sporting-charleroi-2026-2027-2026-08-31.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Lommel United",
+          "player": "A. Scheidler",
+          "event_type": "Goal",
+          "assist": "K. V. D. Kerkhof",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Lommel United",
+          "player": "A. Bernier",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Kortrijk",
+          "player": "S. Campbell",
+          "event_type": "Goal",
+          "assist": "T. Ambrose",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Kortrijk",
+          "player": "R. Kohon",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Lommel United",
+          "player": "C. Keita",
+          "event_type": "Goal",
+          "assist": "J. N. Romsaas",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Lommel United",
+          "player": "A. Colassin",
+          "event_type": "Goal",
+          "assist": "A. Bojang",
+          "score_update": "1 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Kortrijk_wins": "1",
+          "draws": "1",
+          "Lommel United_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "26/12/2024",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Kortrijk 0 - 1 Sporting Charleroi"
+          },
+          {
+            "date": "11/05/2024",
+            "competition": "Belgian Pro League: Relegation Group 23/24",
+            "teams_and_score": "Sporting Charleroi 3 - 1 Kortrijk"
+          },
+          {
+            "date": "03/02/2024",
+            "competition": "Belgian Pro League 23/24",
+            "teams_and_score": "Kortrijk 1 - 0 Sporting Charleroi"
+          },
+          {
+            "date": "04/03/2023",
+            "competition": "Belgian Pro League 22/23",
+            "teams_and_score": "Kortrijk 0 - 1 Sporting Charleroi"
+          },
+          {
+            "date": "25/01/2022",
+            "competition": "First Division A 21/22",
+            "teams_and_score": "Sporting Charleroi 1 - 1 Kortrijk"
+          }
+        ],
+        "home_team_form": {
+          "team": "Kortrijk",
+          "form": [
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Kortrijk 1 - 3 Sporting Charleroi",
+              "result": "L"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Kortrijk 1 - 0 Gent U23",
+              "result": "W"
+            },
+            {
+              "date": "17/04/2026",
+              "competition": "Challenger Pro League",
+              "teams_and_score": "Kortrijk 3 - 1 RWD Molenbeek",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lommel United",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Kortrijk 1 - 3 Sporting Charleroi",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sporting Charleroi 2 - 3 Rayo Vallecano",
+              "result": "W"
+            },
+            {
+              "date": "17/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Feyenoord 3 - 1 Sporting Charleroi",
+              "result": "L"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sporting Charleroi 2 - 2 Reims",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Belgian Pro League Playoff: Conference League Group",
+              "teams_and_score": "Standard Liege 0 - 2 Sporting Charleroi",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Kortrijk": "5",
+          "Lommel United": "5"
+        },
+        "shots_off_target": {
+          "Kortrijk": "5",
+          "Lommel United": "8"
+        },
+        "shots_blocked": {
+          "Kortrijk": "3",
+          "Lommel United": "3"
+        },
+        "corners": {
+          "Kortrijk": "6",
+          "Lommel United": "5"
+        },
+        "fouls": {
+          "Kortrijk": "13",
+          "Lommel United": "10"
+        },
+        "offsides": {
+          "Kortrijk": "4",
+          "Lommel United": "2"
+        },
+        "yellow_cards": {
+          "Kortrijk": "1",
+          "Lommel United": "1"
+        },
+        "goalkeeper_saves": {
+          "Kortrijk": "2",
+          "Lommel United": "4"
+        },
+        "ball_possession": {
+          "Kortrijk": "50%",
+          "Lommel United": "50%"
+        }
+      },
+      "description": "Watch Kortrijk vs Lommel United highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 31, 2026. The Jupiler Pro League provided another evening of high-stakes football on August 31, 2026, as Kortrijk and Lommel United squared off. Fans at the stadium were treated to a match where tactical discipline met moments of individual brilliance in a hard-fought encounter. First Half Breakthroughs The game started with high intensity, with both sides eager to establish dominance. In the 34th minute, Aurelien Scheidler found the net after a precise pass from Kevin Van Den Kerkhof . The atmosphere intensified shortly after when Antoine Bernier received a yellow card in the 38th minute, signaling the physical nature of the contest. Before the break, Shandre Campbell doubled the impact in the 41st minute, producing a clinical finish after being set up by Thierry Ambrose . Second Half Response and Tactical Shifts The second half saw both managers turning to their benches to influence the flow of the game. Freddy Mbemba and Jellert van Landschoot were introduced early to provide fresh energy. In the 65th minute, Rudy Kohon was cautioned with a yellow card, and the response on the pitch was immediate. Just a minute later, in the 66th minute, Cheick Keita scored a vital goal, thanks to an assist by Jakob Napoleon Romsaas , setting up a tense final period. The Late Decisive Moment As the clock ticked towards the 90-minute mark, the fresh legs of the substitutes made the ultimate difference. Adama Bojang , who had just entered the pitch in a late tactical move, provided a crucial assist for Antoine Colassin . Colassin made no mistake in front of goal at the 90th minute, sparking celebrations. The referee blew the final whistle after four minutes of stoppage time, ending a pulsating encounter that kept everyone on the edge of their seats."
+    },
+    {
+      "title": "Cercle - Lommel SK - 2026-2027",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/cercle-lommel-sk-2026-2027-2026-08-31-j94I.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Aug 31, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/259.webp",
+          "name": "Lommel United",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/741.webp",
+          "name": "Cercle Brugge",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/cercle-lommel-sk-2026-2027-2026-08-31.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Lommel United",
+          "player": "T. Eyoma",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Lommel United",
+          "player": "D. Wouters",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Cercle Brugge",
+          "player": "G. Kondo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Lommel United",
+          "player": "S. Adewoye",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Lommel United",
+          "player": "T. Reyners",
+          "event_type": "Goal",
+          "assist": "J. Talvitie",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Cercle Brugge",
+          "player": "K. Kouassi",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Cercle Brugge_wins": "4",
+          "draws": "1",
+          "Lommel United_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "11/07/2026",
+            "competition": "Club Friendlies 2026",
+            "teams_and_score": "Cercle Brugge 1 - 1 Lommel"
+          },
+          {
+            "date": "21/04/2017",
+            "competition": "First Division B Relegation Group",
+            "teams_and_score": "Lommel 0 - 1 Cercle Brugge"
+          },
+          {
+            "date": "03/02/2017",
+            "competition": "First Division B 2nd Stage",
+            "teams_and_score": "Lommel 0 - 1 Cercle Brugge"
+          },
+          {
+            "date": "14/10/2016",
+            "competition": "First Division B 1st Stage",
+            "teams_and_score": "Cercle Brugge 3 - 1 Lommel"
+          },
+          {
+            "date": "30/04/2016",
+            "competition": "2. Division",
+            "teams_and_score": "Lommel 0 - 2 Cercle Brugge"
+          }
+        ],
+        "home_team_form": {
+          "team": "Cercle Brugge",
+          "form": [
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Cercle Brugge 0 - 1 Lommel",
+              "result": "L"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AS Monaco 2 - 2 Cercle Brugge",
+              "result": "D"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Belgian Pro League: Relegation Group",
+              "teams_and_score": "Raal La Louviere 4 - 1 Cercle Brugge",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lommel United",
+          "form": [
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Cercle Brugge 0 - 1 Lommel",
+              "result": "W"
+            },
+            {
+              "date": "24/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lommel 0 - 4 ADO Den Haag",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Belgium Pro League: Qualification",
+              "teams_and_score": "FCV Dender EH 0 - 0 Lommel",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Cercle Brugge": "3",
+          "Lommel United": "3"
+        },
+        "shots_off_target": {
+          "Cercle Brugge": "8",
+          "Lommel United": "7"
+        },
+        "shots_blocked": {
+          "Cercle Brugge": "8",
+          "Lommel United": "3"
+        },
+        "corners": {
+          "Cercle Brugge": "9",
+          "Lommel United": "4"
+        },
+        "fouls": {
+          "Cercle Brugge": "10",
+          "Lommel United": "10"
+        },
+        "offsides": {
+          "Cercle Brugge": "3",
+          "Lommel United": "0"
+        },
+        "yellow_cards": {
+          "Cercle Brugge": "2",
+          "Lommel United": "3"
+        },
+        "goalkeeper_saves": {
+          "Cercle Brugge": "2",
+          "Lommel United": "3"
+        },
+        "ball_possession": {
+          "Cercle Brugge": "53%",
+          "Lommel United": "47%"
+        }
+      },
+      "description": "Watch Cercle Brugge vs Lommel United highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 31, 2026. The Jupiler Pro League schedule brought together Cercle Brugge and Lommel SK for a compelling encounter on August 31, 2026 . Both sides entered the arena with everything to play for, setting the stage for a match defined by tactical discipline and physical commitment. A Gritty Opening Half The contest began with high energy, though clear-cut chances remained at a premium as both defenses stood firm. The referee was called into action early to maintain order, issuing a yellow card to Timothy Eyoma in the 13th minute. As the half progressed, the intensity boiled over on several occasions, leading to a flurry of bookings. Dries Wouters , Geoffrey Kondo , and Shawn Adewoye all found their names in the referee's book before the halftime whistle, leaving the match finely balanced but searching for a clinical touch in the final third. Reyners Finds the Breakthrough The deadlock was finally broken in the 61st minute of the second half through a moment of clinical efficiency. Juho Talvitie turned provider, delivering a sharp assist that found Tom Reyners in a scoring position. Reyners made no mistake, firing his side into the lead and forcing the opposition to rethink their strategy. In the wake of the goal, both managers turned to their benches to inject fresh energy, with Lawrence Agyekum and Lucas Michal among the tactical changes aimed at swaying the momentum during the final half-hour. Resolute Defense in the Closing Stages As the clock ticked down, Cercle Brugge pushed forward in search of an equalizer, but the visitors remained disciplined at the back. A series of late substitutions followed in the 79th minute, as Erick Nunes , Lazare Amani , and Krys Kouassi were introduced to see out the game. The tension remained high until the very end, highlighted by a yellow card for Kouassi in the 87th minute. Despite the late pressure, the defensive line held firm through four minutes of stoppage time to secure a hard-fought result on the road."
+    },
     {
       "title": "St. Louis CITY - FC Dallas",
       "thumbnail_url": "https://img.refooty.com/thumbnail/st-louis-city-fc-dallas-2026-08-31-Qv1m.webp",
@@ -9954,982 +10771,11 @@
         }
       },
       "description": "Watch Sassuolo vs Torino highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The match between Sassuolo and Torino promised a tactical showdown in the Serie A , with both sides looking to impose their style of play. On August 29, 2026, the pitch at the stadium hosted a fierce contest that demanded patience and precision from every player involved. First Half Breakthroughs After a cagey opening period, the deadlock was broken in the 32nd minute by Cristian Volpato . With a clever left-footed strike from outside the box, he managed to beat the keeper, giving Sassuolo the lead. The hosts could not rest on their laurels, however, as Torino pushed for an equalizer before the halftime whistle. Their efforts were rewarded in the 45+2 minute when Pietro Comuzzo headed home from an Alessio Cacciamani assist, leveling the score and ensuring the second half would be a test of nerves. Defining the Result The second half saw an increase in tactical substitutions as both managers sought to gain an edge through fresh legs. The physicality grew, with several yellow cards issued as the game reached its boiling point. The pivotal moment arrived in the 78th minute: Fedde Leysen delivered a crucial assist to Domenico Berardi , who calmly found the back of the net with his left foot. Despite late pressure from the visitors, Sassuolo maintained their composure to protect the narrow advantage until the final whistle signaled the end of a hard-fought encounter."
-    },
-    {
-      "title": "PEC Zwolle vs NEC Nijmegen",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/pec-zwolle-vs-nec-nijmegen-2026-08-29-f6lt.webp",
-      "competition": "Eredivisie",
-      "competition_cover": "https://refooty.com/covers/eredivisie.webp",
-      "date": "Aug 29, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/413.webp",
-          "name": "NEC Nijmegen",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/193.webp",
-          "name": "PEC Zwolle",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/pec-zwolle-vs-nec-nijmegen-2026-08-29.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "5'",
-          "team": "NEC Nijmegen",
-          "player": "T. Chery",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "23'",
-          "team": "NEC Nijmegen",
-          "player": "T. Chery",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "38'",
-          "team": "PEC Zwolle",
-          "player": "S. Floranus",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "45+1'",
-          "team": "PEC Zwolle",
-          "player": "K. Kostons",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "59'",
-          "team": "PEC Zwolle",
-          "player": "K. Kostons",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "63'",
-          "team": "NEC Nijmegen",
-          "player": "A. Kabar",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "70'",
-          "team": "NEC Nijmegen",
-          "player": "D. Tadić",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "72'",
-          "team": "PEC Zwolle",
-          "player": "K. Kostons",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "73'",
-          "team": "NEC Nijmegen",
-          "player": "T. Storm",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "83'",
-          "team": "NEC Nijmegen",
-          "player": "P. Schuurs",
-          "event_type": "Goal",
-          "assist": "D. Tadić",
-          "score_update": "1 - 3"
-        },
-        {
-          "time": "90+3'",
-          "team": "PEC Zwolle",
-          "player": "O. Aertssen",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "PEC Zwolle_wins": "1",
-          "draws": "2",
-          "NEC Nijmegen_wins": "4"
-        },
-        "previous_matches": [
-          {
-            "date": "24/01/2026",
-            "competition": "Eredivisie",
-            "teams_and_score": "NEC Nijmegen 2 - 1 PEC Zwolle"
-          },
-          {
-            "date": "11/01/2025",
-            "competition": "Eredivisie",
-            "teams_and_score": "PEC Zwolle 0 - 1 NEC Nijmegen"
-          },
-          {
-            "date": "29/10/2024",
-            "competition": "KNVB Beker: Round 1",
-            "teams_and_score": "NEC Nijmegen 4 - 3 PEC Zwolle"
-          },
-          {
-            "date": "24/08/2024",
-            "competition": "Eredivisie",
-            "teams_and_score": "NEC Nijmegen 1 - 0 PEC Zwolle"
-          },
-          {
-            "date": "14/04/2024",
-            "competition": "Eredivisie 23/24",
-            "teams_and_score": "NEC Nijmegen 2 - 2 PEC Zwolle"
-          },
-          {
-            "date": "05/02/2022",
-            "competition": "Eredivisie 21/22",
-            "teams_and_score": "PEC Zwolle 1 - 1 NEC Nijmegen"
-          },
-          {
-            "date": "19/12/2017",
-            "competition": "KNVB Cup",
-            "teams_and_score": "PEC Zwolle 2 - 0 NEC Nijmegen"
-          }
-        ],
-        "home_team_form": {
-          "team": "PEC Zwolle",
-          "form": [
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "PEC Zwolle 1 - 3 NEC Nijmegen",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Hannover 96 3 - 0 PEC Zwolle",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "PEC Zwolle 0 - 2 Feyenoord",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "NEC Nijmegen",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "PEC Zwolle 1 - 3 NEC Nijmegen",
-              "result": "W"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Bodoe/Glimt 3 - 0 NEC Nijmegen",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "Willem II 1 - 4 NEC Nijmegen",
-              "result": "W"
-            },
-            {
-              "date": "11/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "NEC Nijmegen 2 - 1 Olympiacos",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "NEC Nijmegen 1 - 2 Telstar",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "PEC Zwolle": "2",
-          "NEC Nijmegen": "4"
-        },
-        "shots_off_target": {
-          "PEC Zwolle": "5",
-          "NEC Nijmegen": "2"
-        },
-        "shots_blocked": {
-          "PEC Zwolle": "2",
-          "NEC Nijmegen": "2"
-        },
-        "corners": {
-          "PEC Zwolle": "6",
-          "NEC Nijmegen": "7"
-        },
-        "fouls": {
-          "PEC Zwolle": "17",
-          "NEC Nijmegen": "12"
-        },
-        "offsides": {
-          "PEC Zwolle": "4",
-          "NEC Nijmegen": "0"
-        },
-        "yellow_cards": {
-          "PEC Zwolle": "1",
-          "NEC Nijmegen": "3"
-        },
-        "goalkeeper_saves": {
-          "PEC Zwolle": "1",
-          "NEC Nijmegen": "1"
-        },
-        "crosses": {
-          "PEC Zwolle": "2",
-          "NEC Nijmegen": "6"
-        },
-        "ball_possession": {
-          "PEC Zwolle": "52%",
-          "NEC Nijmegen": "48%"
-        }
-      },
-      "description": "Watch PEC Zwolle vs NEC Nijmegen highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The Eredivisie served up a high-stakes thriller on August 29, 2026 , as PEC Zwolle hosted NEC Nijmegen in a match defined by constant VAR intervention and an extraordinary sequence of penalties. Both sides fought through a chaotic narrative where momentum shifted with every whistle and every review. Early Penalty Double for Nijmegen The drama ignited almost immediately. In the 3rd minute, PEC Zwolle goalkeeper Jasper Schendelaar tripped Tjaronn Chery , leading to a VAR-confirmed penalty. Chery stepped up and confidently converted with his left foot to give the visitors an early lead. The pressure from NEC Nijmegen didn't stop there; by the 22nd minute, Sherel Floranus was penalized for a handball in the box. After another lengthy VAR check, Tjaronn Chery doubled his tally from the spot, coolly sending the keeper the wrong way to make it 0-2. PEC Zwolle thought they had clawed one back before the 40-minute mark through Elias Soerensen , but the goal was chalked off following a VAR review for offside. The hosts finally found their breakthrough just before halftime when Deveron Fonville fouled Dylan Mbayo in the area. Koen Kostons took responsibility for the penalty and clinicaly finished into the corner, giving the home fans hope as they headed into the break trailing 1-2. Missed Chances and the Final Blow The second half was a story of frustration for the hosts. Koen Kostons had a second goal of the night ruled out by VAR for offside in the 61st minute, maintaining the narrow lead for NEC Nijmegen . The tension reached a breaking point in the 72nd minute when Jamiro Monteiro conceded yet another penalty for a trip on Ibrahim Cissoko . However, Kostons went from hero to heartbreak as his powerful effort rattled off the crossbar and stayed out. With the hosts demoralized by the miss, NEC Nijmegen capitalized to secure the result. In the 83rd minute, veteran playmaker Dusan Tadic swung in a perfect corner, finding the head of substitute Perr Schuurs , who powered his effort home to seal a 1-3 victory. Despite a flurry of late yellow cards and frantic attacking play from Zwolle , the visitors held firm to take all three points in a match that will be remembered for its officiating drama."
-    },
-    {
-      "title": "Plymouth vs Bradford",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/plymouth-vs-bradford-2026-08-29-fLLX.webp",
-      "competition": "League One",
-      "competition_cover": "https://refooty.com/covers/league-one.webp",
-      "date": "Aug 29, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1343.webp",
-          "name": "Bradford",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1357.webp",
-          "name": "Plymouth",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/plymouth-vs-bradford-2026-08-29.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Bradford",
-          "player": "J. Beesley",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Plymouth",
-          "player": "W. Harding",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Plymouth",
-          "player": "J. Pleguezuelo",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Plymouth",
-          "player": "H. White",
-          "event_type": "Goal",
-          "assist": "T. Bakinson",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Bradford",
-          "player": "C. Connolly",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Plymouth_wins": "1",
-          "draws": "3",
-          "Bradford_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "21/04/2026",
-            "competition": "League 1 25/26",
-            "teams_and_score": "Bradford City 1 - 1 Plymouth Argyle"
-          },
-          {
-            "date": "29/02/2020",
-            "competition": "League Two",
-            "teams_and_score": "Bradford City 2 - 1 Plymouth Argyle"
-          },
-          {
-            "date": "16/02/2019",
-            "competition": "League One",
-            "teams_and_score": "Bradford City 0 - 0 Plymouth Argyle"
-          },
-          {
-            "date": "02/12/2017",
-            "competition": "FA Cup",
-            "teams_and_score": "Bradford City 3 - 1 Plymouth Argyle"
-          },
-          {
-            "date": "11/11/2017",
-            "competition": "League One",
-            "teams_and_score": "Bradford City 0 - 1 Plymouth Argyle"
-          },
-          {
-            "date": "12/03/2013",
-            "competition": "League Two",
-            "teams_and_score": "Plymouth Argyle 0 - 0 Bradford City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Plymouth",
-          "form": [
-            "W",
-            "L",
-            "D",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "League 1",
-              "teams_and_score": "Plymouth Argyle 2 - 0 Bradford City",
-              "result": "W"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Plymouth Argyle 2 - 4 Coventry City",
-              "result": "L"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "League 1",
-              "teams_and_score": "Wycombe Wanderers 1 - 1 Plymouth Argyle",
-              "result": "D"
-            },
-            {
-              "date": "10/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Plymouth Argyle 2 - 0 Exeter City",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Plymouth Argyle 0 - 0 Bristol City",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Bradford",
-          "form": [
-            "L",
-            "D",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "League 1",
-              "teams_and_score": "Plymouth Argyle 2 - 0 Bradford City",
-              "result": "L"
-            },
-            {
-              "date": "26/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Bradford City 0 - 0 Burnley",
-              "result": "D"
-            },
-            {
-              "date": "20/08/2026",
-              "competition": "League 1",
-              "teams_and_score": "Sheffield Wednesday 0 - 1 Bradford City",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Bradford City 2 - 0 Rochdale",
-              "result": "W"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Bradford City 3 - 2 Preston North End",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Plymouth": "3",
-          "Bradford": "0"
-        },
-        "shots_off_target": {
-          "Plymouth": "7",
-          "Bradford": "3"
-        },
-        "shots_blocked": {
-          "Plymouth": "4",
-          "Bradford": "1"
-        },
-        "corners": {
-          "Plymouth": "8",
-          "Bradford": "6"
-        },
-        "fouls": {
-          "Plymouth": "14",
-          "Bradford": "15"
-        },
-        "offsides": {
-          "Plymouth": "2",
-          "Bradford": "1"
-        },
-        "yellow_cards": {
-          "Plymouth": "1",
-          "Bradford": "2"
-        },
-        "goalkeeper_saves": {
-          "Plymouth": "0",
-          "Bradford": "1"
-        },
-        "crosses": {
-          "Plymouth": "8",
-          "Bradford": "5"
-        },
-        "ball_possession": {
-          "Plymouth": "42%",
-          "Bradford": "58%"
-        }
-      },
-      "description": "Watch Plymouth vs Bradford highlights and goals from League One on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The stage was set for a compelling League One clash as Plymouth faced off against Bradford in a contest that demanded grit and clinical execution from both sides. The encounter took place on August 29, 2026, with both teams eager to leave their mark on the league standings. Breaking the deadlock The intensity was evident from the start, with Jake Beesley picking up an early yellow card in just the 2nd minute. The physical nature of the game continued as Wes Harding was also cautioned in the 33rd minute. As the first half drew to a close, Julio Pleguezuelo proved to be the difference-maker, finding the back of the net in the 44th minute to give Plymouth a crucial lead heading into the break. Maintaining the momentum The second half saw Bradford attempt to spark a comeback with a double substitution, bringing on Adam Phillips and Bobby Pointon . However, the momentum stayed with the hosts. Just five minutes after the restart, Tyreeq Bakinson provided a precise assist for Harvey White , who slotted home to double the lead. The closing stages were defined by tactical shuffling, as both managers utilized their benches. Despite a late yellow card for Callum Connolly in the 88th minute, Plymouth managed the game effectively to secure the win."
-    },
-    {
-      "title": "Walsall vs Accrington Stanley",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/walsall-vs-accrington-stanley-2026-08-29-zhBk.webp",
-      "competition": "League Two",
-      "competition_cover": "https://refooty.com/covers/league-two.webp",
-      "date": "Aug 29, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/25134.webp",
-          "name": "Accrington Stanley",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1342.webp",
-          "name": "Walsall",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/walsall-vs-accrington-stanley-2026-08-29.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "8'",
-          "team": "Walsall",
-          "player": "R. Smith",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "12'",
-          "team": "Accrington Stanley",
-          "player": "J. Woods",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "45+6'",
-          "team": "Walsall",
-          "player": "H. Burke",
-          "event_type": "Goal",
-          "assist": "M. Hancock",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "49'",
-          "team": "Walsall",
-          "player": "S. Sprangler",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "53'",
-          "team": "Walsall",
-          "player": "A. Pressley",
-          "event_type": "Goal",
-          "assist": "R. Smith",
-          "score_update": "3 - 1"
-        },
-        {
-          "time": "59'",
-          "team": "Accrington Stanley",
-          "player": "S. E. Mols",
-          "event_type": "Goal",
-          "assist": "T. Walton",
-          "score_update": "3 - 2"
-        },
-        {
-          "time": "60'",
-          "team": "Accrington Stanley",
-          "player": "L. Coyle",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "75'",
-          "team": "Walsall",
-          "player": "I. Moore",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "75'",
-          "team": "Accrington Stanley",
-          "player": "T. Walton",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "79'",
-          "team": "Walsall",
-          "player": "D. Skura",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Walsall",
-          "player": "E. Ahui",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+9'",
-          "team": "Accrington Stanley",
-          "player": "S. Conneely",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Walsall_wins": "2",
-          "draws": "1",
-          "Accrington Stanley_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "24/01/2026",
-            "competition": "League 2 25/26",
-            "teams_and_score": "Walsall 0 - 0 Accrington Stanley"
-          },
-          {
-            "date": "26/04/2025",
-            "competition": "League 2 24/25",
-            "teams_and_score": "Walsall 0 - 1 Accrington Stanley"
-          },
-          {
-            "date": "27/02/2024",
-            "competition": "League 2 23/24",
-            "teams_and_score": "Walsall 2 - 1 Accrington Stanley"
-          },
-          {
-            "date": "13/04/2019",
-            "competition": "League One",
-            "teams_and_score": "Accrington Stanley 2 - 1 Walsall"
-          },
-          {
-            "date": "11/08/2009",
-            "competition": "League Cup",
-            "teams_and_score": "Accrington Stanley 2 - 1 Walsall"
-          },
-          {
-            "date": "31/03/2007",
-            "competition": "League Two",
-            "teams_and_score": "Walsall 3 - 2 Accrington Stanley"
-          }
-        ],
-        "home_team_form": {
-          "team": "Walsall",
-          "form": [
-            "W",
-            "D",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "League 2",
-              "teams_and_score": "Walsall 3 - 2 Accrington Stanley",
-              "result": "W"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Walsall 0 - 0 Leyton Orient",
-              "result": "D"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "League 2",
-              "teams_and_score": "Walsall 0 - 0 Grimsby Town",
-              "result": "D"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Bristol City 0 - 1 Walsall",
-              "result": "W"
-            },
-            {
-              "date": "21/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Walsall 0 - 5 Aston Villa",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Accrington Stanley",
-          "form": [
-            "L",
-            "L",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "League 2",
-              "teams_and_score": "Walsall 3 - 2 Accrington Stanley",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Crewe Alexandra 2 - 1 Accrington Stanley",
-              "result": "L"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Accrington Stanley 0 - 0 Blackburn Rovers",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Oldham Athletic 3 - 0 Accrington Stanley",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Walsall": "5",
-          "Accrington Stanley": "6"
-        },
-        "shots_off_target": {
-          "Walsall": "6",
-          "Accrington Stanley": "10"
-        },
-        "shots_blocked": {
-          "Walsall": "5",
-          "Accrington Stanley": "6"
-        },
-        "corners": {
-          "Walsall": "4",
-          "Accrington Stanley": "4"
-        },
-        "fouls": {
-          "Walsall": "8",
-          "Accrington Stanley": "18"
-        },
-        "offsides": {
-          "Walsall": "0",
-          "Accrington Stanley": "2"
-        },
-        "yellow_cards": {
-          "Walsall": "4",
-          "Accrington Stanley": "3"
-        },
-        "goalkeeper_saves": {
-          "Walsall": "3",
-          "Accrington Stanley": "2"
-        },
-        "crosses": {
-          "Walsall": "8",
-          "Accrington Stanley": "8"
-        },
-        "ball_possession": {
-          "Walsall": "62%",
-          "Accrington Stanley": "38%"
-        }
-      },
-      "description": "Watch Walsall vs Accrington Stanley highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on August 29, 2026. Expectations were high as both sides took to the pitch for this crucial League Two fixture. Played on August 29, 2026 , the match promised a display of tactical rigor and offensive ambition from the opening whistle. Dominance and early momentum Walsall asserted their authority early in the match, catching their opponents off guard with high pressure. Reece Smith drew first blood in the 8th minute, setting an energetic tone. Josh Woods doubled the lead just four minutes later, forcing Accrington Stanley to scramble for defensive stability. As the first half stretched into stoppage time, the home side found another breakthrough; Harrison Burke , assisted by Mason Hancock , found the back of the net in the 45+6 minute, putting the hosts in a dominant position heading into the tunnel. Second half tactical shift Accrington Stanley emerged from the break with a clear intention to fight back, introducing fresh legs to alter the midfield dynamic. The game opened up as Aaron Pressley scored for Walsall in the 53rd minute, but Stefan Mols quickly responded for the visitors in the 59th minute following a Tyler Walton assist. The remaining time was defined by a surge of physicality; a flurry of yellow cards was issued as both sides battled for every inch of grass. Despite the late attempts to bridge the gap, the scoreline remained steady until the referee signaled the end of the match at 90+9 minutes."
-    },
-    {
-      "title": "Atlético Mineiro - Vitória",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-mineiro-vitoria-2026-08-29-E5pD.webp",
-      "competition": "Brasileirão",
-      "competition_cover": "https://refooty.com/covers/brasileirao.webp",
-      "date": "Aug 29, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/136.webp",
-          "name": "Vitoria",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1062.webp",
-          "name": "Atletico MG",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/atletico-mineiro-vitoria-2026-08-29.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Atletico MG",
-          "player": "T. Borbas",
-          "event_type": "Goal",
-          "assist": "Reinier",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Vitoria",
-          "player": "D. Tarzia",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Atletico MG",
-          "player": "Á. Preciado",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Atletico MG",
-          "player": "M. Cisse",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Atletico MG",
-          "player": "Reinier",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "76'",
-          "team": "Vitoria",
-          "player": "Erick",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Atletico MG_wins": "0",
-          "draws": "1",
-          "Vitoria_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "14/03/2026",
-            "competition": "Serie A",
-            "teams_and_score": "Vitoria 2 - 0 Atletico MG"
-          },
-          {
-            "date": "31/08/2025",
-            "competition": "Serie A",
-            "teams_and_score": "Vitoria 1 - 0 Atletico MG"
-          },
-          {
-            "date": "05/10/2024",
-            "competition": "Serie A",
-            "teams_and_score": "Atletico MG 2 - 2 Vitoria"
-          },
-          {
-            "date": "26/08/2018",
-            "competition": "Serie A",
-            "teams_and_score": "Vitoria 1 - 0 Atletico MG"
-          }
-        ],
-        "home_team_form": {
-          "team": "Atletico MG",
-          "form": [
-            "W",
-            "D",
-            "D",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Atletico MG 2 - 1 Vitoria",
-              "result": "W"
-            },
-            {
-              "date": "26/08/2026",
-              "competition": "Copa do Brasil",
-              "teams_and_score": "Cruzeiro 1 - 1 Atletico MG",
-              "result": "D"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Internacional 0 - 0 Atletico MG",
-              "result": "D"
-            },
-            {
-              "date": "19/08/2026",
-              "competition": "Round of 16",
-              "teams_and_score": "Atletico MG 2 - 2 RB Bragantino",
-              "result": "D"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Atletico MG 3 - 0 Gremio",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Vitoria",
-          "form": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Atletico MG 2 - 1 Vitoria",
-              "result": "L"
-            },
-            {
-              "date": "27/08/2026",
-              "competition": "Copa do Brasil",
-              "teams_and_score": "Vasco da Gama 1 - 0 Vitoria",
-              "result": "L"
-            },
-            {
-              "date": "23/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Vitoria 0 - 2 Bahia",
-              "result": "L"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "Copa do Brasil",
-              "teams_and_score": "Vitoria 4 - 0 Athletico Paranaense",
-              "result": "W"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Vitoria 0 - 4 Palmeiras",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Atletico MG": "8",
-          "Vitoria": "3"
-        },
-        "shots_off_target": {
-          "Atletico MG": "6",
-          "Vitoria": "4"
-        },
-        "shots_blocked": {
-          "Atletico MG": "4",
-          "Vitoria": "7"
-        },
-        "corners": {
-          "Atletico MG": "4",
-          "Vitoria": "5"
-        },
-        "fouls": {
-          "Atletico MG": "12",
-          "Vitoria": "13"
-        },
-        "offsides": {
-          "Atletico MG": "2",
-          "Vitoria": "0"
-        },
-        "yellow_cards": {
-          "Atletico MG": "2",
-          "Vitoria": "1"
-        },
-        "goalkeeper_saves": {
-          "Atletico MG": "2",
-          "Vitoria": "6"
-        },
-        "ball_possession": {
-          "Atletico MG": "61%",
-          "Vitoria": "39%"
-        }
-      },
-      "description": "Watch Atletico MG vs Vitoria highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on August 29, 2026. Tactical Warfare at the Arena The encounter between Atlético Mineiro and Vitória on August 29, 2026, provided a gripping display of football, characterized by shifts in momentum and clinical finishing under pressure. Both sides approached the match with a focus on controlling the midfield, turning the contest into a tense chess match until the dying embers of the game. The Opening Act The first half was defined by defensive rigidity and rising tension, with referees forced to intervene early. Yellow cards for Diego Tarzia and Angelo Preciado highlighted the combative nature of the clash. The deadlock was broken in the 25th minute when Thiago Borbas fired home, capitalizing on a stellar assist from Reinier to give his team the early advantage heading into the interval. Defining Moments of the Second Half As the second half commenced, tactical adjustments became the order of the day. The Atlético Mineiro attack eventually bore fruit in the 63rd minute when Reinier found the back of the net, breathing new life into his side's efforts. The match remained finely balanced until the final stages, when Erick Serafim proved to be the match-winner. His strike in the 87th minute sent shockwaves through the stadium, providing the decisive turning point that allowed his team to walk away with the result as the final whistle sounded."
     }
   ],
   "hasMore": true,
   "currentCount": 50,
-  "totalCount": 1111,
+  "totalCount": 1115,
   "currentPage": 2,
   "lastPage": 23
 }
