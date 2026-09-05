@@ -1,9 +1,690 @@
 {
   "team": "Preston North End",
   "team_logo": "https://img.refooty.com/logo/teams/25148.webp",
-  "total_matches": 3,
-  "Last update time": "04:20:38 AM 05-09-2026",
+  "total_matches": 5,
+  "Last update time": "05:35:05 AM 05-09-2026",
   "matches": [
+    {
+      "title": "preston north end - bristol city",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-bristol-city-2026-09-01-xM8e.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/56.webp",
+          "name": "Bristol City",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/25148.webp",
+          "name": "Preston North End",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-bristol-city-2026-09-01.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Bristol City",
+          "player": "S. Twine",
+          "event_type": "Goal",
+          "assist": "L. Tolaj",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Preston North End",
+          "player": "J. Thompson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Preston North End",
+          "player": "C. Wiley",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Bristol City",
+          "player": "L. N. Eissat",
+          "event_type": "Goal",
+          "assist": "R. Cardines",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Preston North End",
+          "player": "L. Lindsay",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Bristol City",
+          "player": "D. Ballard",
+          "event_type": "Goal",
+          "score_update": "1 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Preston North End_wins": "2",
+          "draws": "2",
+          "Bristol City_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "04/01/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Bristol City 0 - 2 Preston North End"
+          },
+          {
+            "date": "03/05/2025",
+            "competition": "Championship",
+            "teams_and_score": "Bristol City 2 - 2 Preston North End"
+          },
+          {
+            "date": "13/01/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Preston North End 2 - 0 Bristol City"
+          },
+          {
+            "date": "04/02/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Preston North End 1 - 2 Bristol City"
+          },
+          {
+            "date": "29/01/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Preston North End 2 - 2 Bristol City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Preston North End",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Bristol City",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Wolves",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Preston North End 1 - 1 Huddersfield Town",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stockport County 1 - 0 Preston North End",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bristol City",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Bristol City",
+              "result": "W"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bristol City 0 - 1 Walsall",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Exeter City 1 - 1 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bristol City 4 - 1 Newcastle United",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Forest Green Rovers 3 - 2 Bristol City",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Preston North End": "4",
+          "Bristol City": "7"
+        },
+        "shots_off_target": {
+          "Preston North End": "9",
+          "Bristol City": "4"
+        },
+        "shots_blocked": {
+          "Preston North End": "5",
+          "Bristol City": "1"
+        },
+        "corners": {
+          "Preston North End": "5",
+          "Bristol City": "2"
+        },
+        "fouls": {
+          "Preston North End": "11",
+          "Bristol City": "14"
+        },
+        "offsides": {
+          "Preston North End": "2",
+          "Bristol City": "3"
+        },
+        "yellow_cards": {
+          "Preston North End": "2",
+          "Bristol City": "0"
+        },
+        "goalkeeper_saves": {
+          "Preston North End": "4",
+          "Bristol City": "3"
+        },
+        "crosses": {
+          "Preston North End": "11",
+          "Bristol City": "4"
+        },
+        "ball_possession": {
+          "Preston North End": "52%",
+          "Bristol City": "48%"
+        }
+      },
+      "description": "Watch Preston North End vs Bristol City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. High-Stakes Championship Showdown Ends in Thriller The clash between Preston North End and Bristol City on September 1, 2026, proved to be a tactical and physical test for both sides, with the match flow shifting unpredictably throughout the 90 minutes. Both teams entered the pitch with clear intentions of securing points, setting the stage for an engaging contest. Early Momentum and Second-Half Surge Preston North End signaled their intent early, as Scott Twine found the back of the net in the 4th minute following an assist from Lorent Tolaj . The visitors were forced to weather early pressure but emerged from the break with renewed vigor. In the 51st minute, Caleb Wiley leveled the scoring, changing the complexion of the match. The physical nature of the contest saw Jordan Thompson and Liam Lindsay receive yellow cards, reflecting the intense battle happening in the middle of the park. A Dramatic Conclusion As the clock ticked toward the final whistle, both managers utilized their benches to inject fresh energy into the game. The tactical shift paid off for Bristol City in the 79th minute when Lisav Naif Eissat capitalized on an assist from Rio Cardines to take the lead. However, the drama was not over. Dominic Ballard stepped up for Preston North End in the 86th minute to equalize. The match concluded at 90+5 minutes with neither side able to find a late winner, ending a high-energy encounter on level terms."
+    },
+    {
+      "title": "Preston North End vs Everton",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/preston-v-everton-2026-08-26-FKOm.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 26, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/45.webp",
+          "name": "Everton",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/25148.webp",
+          "name": "Preston North End",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Preston_v_Everton_2026_08_26.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Everton",
+          "player": "T. Barry",
+          "event_type": "Goal",
+          "assist": "V. Mykolenko",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Everton",
+          "player": "T. Barry",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Everton",
+          "player": "T. Barry",
+          "event_type": "Goal",
+          "assist": "B. Johnson",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "76'",
+          "team": "Everton",
+          "player": "B. Johnson",
+          "event_type": "Goal",
+          "assist": "T. Barry",
+          "score_update": "0 - 4"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Preston North End_wins": "0",
+          "draws": "0",
+          "Everton_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "03/08/2024",
+            "competition": "Featured Club Friendlies",
+            "teams_and_score": "Preston North End 0 - 3 Everton"
+          },
+          {
+            "date": "05/09/2020",
+            "competition": "Club Friendlies 2020",
+            "teams_and_score": "Everton 2 - 0 Preston North End"
+          },
+          {
+            "date": "24/07/2010",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Preston North End 0 - 3 Everton"
+          },
+          {
+            "date": "27/10/2004",
+            "competition": "League Cup",
+            "teams_and_score": "Everton 2 - 0 Preston North End"
+          }
+        ],
+        "home_team_form": {
+          "team": "Preston North End",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Wolves",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Preston North End 1 - 1 Huddersfield Town",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stockport County 1 - 0 Preston North End",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Preston North End 1 - 3 Southampton",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Everton",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Everton 2 - 0 Crystal Palace",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Everton 1 - 1 Lille",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Everton 3 - 1 Newcastle United",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "VfB Stuttgart 3 - 1 Everton",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Preston North End": "1",
+          "Everton": "10"
+        },
+        "shots_off_target": {
+          "Preston North End": "1",
+          "Everton": "9"
+        },
+        "shots_blocked": {
+          "Preston North End": "3",
+          "Everton": "10"
+        },
+        "corners": {
+          "Preston North End": "3",
+          "Everton": "5"
+        },
+        "fouls": {
+          "Preston North End": "3",
+          "Everton": "6"
+        },
+        "offsides": {
+          "Preston North End": "1",
+          "Everton": "4"
+        },
+        "goalkeeper_saves": {
+          "Preston North End": "6",
+          "Everton": "1"
+        },
+        "crosses": {
+          "Preston North End": "1",
+          "Everton": "4"
+        },
+        "ball_possession": {
+          "Preston North End": "32%",
+          "Everton": "68%"
+        }
+      },
+      "description": "Watch Preston North End vs Everton highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 26, 2026. The Carabao Cup journey continued as Preston North End hosted Everton on August 26, 2026. Fans gathered at the stadium expecting a competitive knockout encounter between the two historic clubs. Everton Break the Deadlock The match began with both sides testing each other's resolve, but it was Everton who struck the first blow. In the 25th minute, Vitaliy Mykolenko displayed excellent vision to find Thierno Barry with a precise assist. Barry made no mistake, finishing clinically to give the visitors the lead. Preston North End attempted to rally before the break, but the Toffees' backline remained organized, ensuring they headed into halftime with their advantage intact. The Thierno Barry Show The second half saw Everton shift into a higher gear, led by a sensational performance from Thierno Barry . In the 59th minute, Barry found the back of the net once again to double the lead. Preston manager responded with a flurry of substitutions, bringing on the likes of Harry Clarke and Alfie Devine to spark a comeback, but the momentum remained firmly with the Premier League side. The game was effectively put to rest during a devastating two-minute spell. In the 71st minute, Brennan Johnson set up Thierno Barry for his hat-trick. Just sixty seconds later, the duo combined again as Barry turned provider for Brennan Johnson to fire home the fourth goal. As the clock wound down, Everton introduced fresh legs including Carlos Alcaraz and Tyrique George , comfortably seeing out the final whistle to progress in the competition."
+    },
+    {
+      "title": "Preston North End vs Wolves",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-vs-wolves-2026-08-22-6UmH.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/39.webp",
+          "name": "Wolves",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/25148.webp",
+          "name": "Preston North End",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-vs-wolves-2026-08-22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Wolves",
+          "player": "F. Lopez",
+          "event_type": "Goal",
+          "assist": "André",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Preston North End",
+          "player": "A. Hughes",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Wolves",
+          "player": "M. Munetsi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "50'",
+          "team": "Preston North End",
+          "player": "A. McCann",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "55'",
+          "team": "Preston North End",
+          "player": "L. Leroy",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "72'",
+          "team": "Wolves",
+          "player": "A. Armstrong",
+          "event_type": "Goal",
+          "assist": "R. Jiménez",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "83'",
+          "team": "Wolves",
+          "player": "F. Lopez",
+          "event_type": "Goal",
+          "assist": "T. Doyle",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "90'",
+          "team": "Preston North End",
+          "player": "H. Clarke",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Preston North End",
+          "player": "J. Thompson",
+          "event_type": "Goal",
+          "assist": "D. Burgzorg",
+          "score_update": "1 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Preston North End_wins": "1",
+          "draws": "1",
+          "Wolves_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "23/08/2022",
+            "competition": "EFL Cup 22/23",
+            "teams_and_score": "Wolves 2 - 1 Preston North End"
+          },
+          {
+            "date": "17/02/2018",
+            "competition": "Championship",
+            "teams_and_score": "Preston North End 1 - 1 Wolves"
+          },
+          {
+            "date": "11/01/2014",
+            "competition": "League One",
+            "teams_and_score": "Wolves 2 - 0 Preston North End"
+          },
+          {
+            "date": "10/01/2009",
+            "competition": "Championship",
+            "teams_and_score": "Wolves 1 - 3 Preston North End"
+          }
+        ],
+        "home_team_form": {
+          "team": "Preston North End",
+          "form": [
+            "L",
+            "D",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Wolves",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Preston North End 1 - 1 Huddersfield Town",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stockport County 1 - 0 Preston North End",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Preston North End 1 - 3 Southampton",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Wolves",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Wolves",
+              "result": "W"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Wolves 3 - 0 Port Vale",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Wolves 3 - 0 Racing Santander",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Wolves 1 - 2 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Maidenhead United 0 - 1 Wolves",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Preston North End": "2",
+          "Wolves": "5"
+        },
+        "shots_off_target": {
+          "Preston North End": "5",
+          "Wolves": "8"
+        },
+        "shots_blocked": {
+          "Preston North End": "6",
+          "Wolves": "3"
+        },
+        "corners": {
+          "Preston North End": "5",
+          "Wolves": "4"
+        },
+        "fouls": {
+          "Preston North End": "11",
+          "Wolves": "10"
+        },
+        "offsides": {
+          "Preston North End": "2",
+          "Wolves": "3"
+        },
+        "yellow_cards": {
+          "Preston North End": "4",
+          "Wolves": "1"
+        },
+        "goalkeeper_saves": {
+          "Preston North End": "2",
+          "Wolves": "0"
+        },
+        "crosses": {
+          "Preston North End": "3",
+          "Wolves": "5"
+        },
+        "ball_possession": {
+          "Preston North End": "46%",
+          "Wolves": "54%"
+        }
+      },
+      "description": "Watch Preston North End vs Wolves highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The clash between Preston North End and Wolves on August 22, 2026, brought intense competitive energy to the Championship fixture. Early dominance sets the tone The match ignited quickly, with Wolves asserting their presence early on. Just 8 minutes into the game, Andre provided a sublime assist for Fer Lopez , who calmly fired home the opening goal. The Preston North End defense found themselves under immense pressure throughout the first half, resulting in disciplinary challenges for Andrew Hughes and Marshall Munetsi as the hosts struggled to regain their footing. Sealing the result in the second half As play resumed after the interval, the physicality of the game increased, leading to yellow cards for Alistair McCann and Leo Leroy . The Wolves continued to exploit gaps in the opposition's defensive setup, finding their second goal in the 72nd minute through Adam Armstrong , who was set up by Raul Jimenez . The visitors effectively sealed the match in the 83rd minute when Fer Lopez struck again, assisted by Tommy Doyle , to make it 3-0. While Jordan Thompson managed to claw one back for Preston North End deep into stoppage time thanks to Delano Burgzorg , the visitors had already done enough to secure the victory."
+    },
     {
       "title": "bolton wanderers - preston north end",
       "thumbnail_url": "https://img.refooty.com/thumbnail/bolton-wanderers-preston-north-end-2026-08-16-l4yL.webp",
@@ -483,217 +1164,6 @@
         }
       },
       "description": "Watch Bolton Wanderers vs Preston North End highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The Championship clash between Bolton Wanderers and Preston North End on August 15, 2026, delivered a tactical battle filled with intensity and late-game heroics. Fans at the Toughsheet Community Stadium witnessed a match defined by momentum shifts and a relentless pursuit of three points by both sides. Early Breakthrough and Rapid Response The match ignited early as the hosts looked to establish dominance. In the 14th minute, Sam Dalby found the back of the net to give Bolton Wanderers a 1-0 lead, capitalizing on a period of sustained pressure. This opening goal followed a cagey start where Preston North End 's Alistair McCann had already seen yellow for a heavy challenge. However, the lead proved short-lived. Preston regrouped quickly and began to find gaps in the Bolton defense. Their persistence paid off in the 25th minute when John McAtee turned provider, setting up Thierry Gale for a clinical finish that leveled the score. As the first half progressed, the game turned into a physical battle, with the referee busy issuing cautions to Jordan Thompson and Pol Valentin to keep emotions in check before the break. Erabi’s Late Impact Changes the Narrative The second half began with similar grit, as Bolton 's Josh Sheehan was booked shortly after the restart. Both managers turned to their benches to find a spark, with Thierry Gale making way for Kyliane Dong and Jusef Erabi replacing Callum Lang . These tactical adjustments shifted the balance of play as the match entered its closing stages. In the 86th minute, the decisive moment arrived. Super-sub Jusef Erabi silenced the home crowd, finishing a well-placed pass from Andrija Vukcevic to put Preston ahead. Despite a late yellow card for Bolton 's Chris Forino-Joseph and frantic attempts to equalize in stoppage time, Preston North End held their nerve to secure a vital victory on the road."
-    },
-    {
-      "title": "Preston North End vs Everton",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/preston-v-everton-2026-08-26-FKOm.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 26, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/45.webp",
-          "name": "Everton",
-          "score": "4"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/25148.webp",
-          "name": "Preston North End",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Preston_v_Everton_2026_08_26.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Everton",
-          "player": "T. Barry",
-          "event_type": "Goal",
-          "assist": "V. Mykolenko",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Everton",
-          "player": "T. Barry",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "61'",
-          "team": "Everton",
-          "player": "T. Barry",
-          "event_type": "Goal",
-          "assist": "B. Johnson",
-          "score_update": "0 - 3"
-        },
-        {
-          "time": "76'",
-          "team": "Everton",
-          "player": "B. Johnson",
-          "event_type": "Goal",
-          "assist": "T. Barry",
-          "score_update": "0 - 4"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Preston North End_wins": "0",
-          "draws": "0",
-          "Everton_wins": "4"
-        },
-        "previous_matches": [
-          {
-            "date": "03/08/2024",
-            "competition": "Featured Club Friendlies",
-            "teams_and_score": "Preston North End 0 - 3 Everton"
-          },
-          {
-            "date": "05/09/2020",
-            "competition": "Club Friendlies 2020",
-            "teams_and_score": "Everton 2 - 0 Preston North End"
-          },
-          {
-            "date": "24/07/2010",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Preston North End 0 - 3 Everton"
-          },
-          {
-            "date": "27/10/2004",
-            "competition": "League Cup",
-            "teams_and_score": "Everton 2 - 0 Preston North End"
-          }
-        ],
-        "home_team_form": {
-          "team": "Preston North End",
-          "form": [
-            "L",
-            "L",
-            "D",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "26/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Preston North End 0 - 4 Everton",
-              "result": "L"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Preston North End 1 - 3 Wolves",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Preston North End 1 - 1 Huddersfield Town",
-              "result": "D"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Stockport County 1 - 0 Preston North End",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Preston North End 1 - 3 Southampton",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Everton",
-          "form": [
-            "W",
-            "W",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "26/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Preston North End 0 - 4 Everton",
-              "result": "W"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Everton 2 - 0 Crystal Palace",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Everton 1 - 1 Lille",
-              "result": "D"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Everton 3 - 1 Newcastle United",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "VfB Stuttgart 3 - 1 Everton",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Preston North End": "1",
-          "Everton": "10"
-        },
-        "shots_off_target": {
-          "Preston North End": "1",
-          "Everton": "9"
-        },
-        "shots_blocked": {
-          "Preston North End": "3",
-          "Everton": "10"
-        },
-        "corners": {
-          "Preston North End": "3",
-          "Everton": "5"
-        },
-        "fouls": {
-          "Preston North End": "3",
-          "Everton": "6"
-        },
-        "offsides": {
-          "Preston North End": "1",
-          "Everton": "4"
-        },
-        "goalkeeper_saves": {
-          "Preston North End": "6",
-          "Everton": "1"
-        },
-        "crosses": {
-          "Preston North End": "1",
-          "Everton": "4"
-        },
-        "ball_possession": {
-          "Preston North End": "32%",
-          "Everton": "68%"
-        }
-      },
-      "description": "Watch Preston North End vs Everton highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 26, 2026. The Carabao Cup journey continued as Preston North End hosted Everton on August 26, 2026. Fans gathered at the stadium expecting a competitive knockout encounter between the two historic clubs. Everton Break the Deadlock The match began with both sides testing each other's resolve, but it was Everton who struck the first blow. In the 25th minute, Vitaliy Mykolenko displayed excellent vision to find Thierno Barry with a precise assist. Barry made no mistake, finishing clinically to give the visitors the lead. Preston North End attempted to rally before the break, but the Toffees' backline remained organized, ensuring they headed into halftime with their advantage intact. The Thierno Barry Show The second half saw Everton shift into a higher gear, led by a sensational performance from Thierno Barry . In the 59th minute, Barry found the back of the net once again to double the lead. Preston manager responded with a flurry of substitutions, bringing on the likes of Harry Clarke and Alfie Devine to spark a comeback, but the momentum remained firmly with the Premier League side. The game was effectively put to rest during a devastating two-minute spell. In the 71st minute, Brennan Johnson set up Thierno Barry for his hat-trick. Just sixty seconds later, the duo combined again as Barry turned provider for Brennan Johnson to fire home the fourth goal. As the clock wound down, Everton introduced fresh legs including Carlos Alcaraz and Tyrique George , comfortably seeing out the final whistle to progress in the competition."
     }
   ]
 }

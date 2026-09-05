@@ -1,85 +1,126 @@
 {
   "team": "Toronto Fc",
   "team_logo": "https://img.refooty.com/logo/teams/1601.webp",
-  "total_matches": 4,
-  "Last update time": "04:20:38 AM 05-09-2026",
+  "total_matches": 5,
+  "Last update time": "05:35:06 AM 05-09-2026",
   "matches": [
     {
-      "title": "Toronto FC - New England Revolution",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/toronto-fc-new-england-revolution-2026-08-16-M78r.webp",
+      "title": "Toronto FC - New York City FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/toronto-fc-new-york-city-fc-2026-08-30-buCn.webp",
       "competition": "Major League Soccer",
       "competition_cover": "https://refooty.com/covers/mls.webp",
-      "date": "Aug 16, 2026",
+      "date": "Aug 30, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1609.webp",
-          "name": "New England Revolution",
+          "logo": "https://img.refooty.com/logo/teams/1604.webp",
+          "name": "New York City FC",
           "score": "2"
         },
         "home_team": {
           "logo": "https://img.refooty.com/logo/teams/1601.webp",
           "name": "Toronto FC",
-          "score": "1"
+          "score": "2"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/toronto-fc-new-england-revolution-2026-08-16_4IEXS.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/toronto-fc-new-york-city-fc-2026-08-30.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
           "team": "Toronto FC",
-          "player": "G. Sandnes",
+          "player": "D. Joveljic",
           "event_type": "Goal",
-          "assist": "A. Lopez",
+          "assist": "S. Gomez",
           "score_update": "1 - 0"
         },
         {
           "time": "16'",
-          "team": "New England Revolution",
-          "player": "L. Rey",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "New England Revolution",
-          "player": "L. Rey",
+          "team": "New York City FC",
+          "player": "M. Haile-Selassie",
           "event_type": "Goal",
+          "assist": "R. Lewandowski",
           "score_update": "1 - 1"
         },
         {
-          "time": "61'",
-          "team": "New England Revolution",
-          "player": "S. S. Gonzalez",
+          "time": "46'",
+          "team": "Toronto FC",
+          "player": "D. Joveljic",
           "event_type": "Goal",
-          "assist": "L. Romo",
-          "score_update": "1 - 2"
+          "assist": "A. Rusnak",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Toronto FC",
+          "player": "S. Brunell",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "New York City FC",
+          "player": "R. Lewandowski",
+          "event_type": "Goal",
+          "assist": "P. Dithejane",
+          "score_update": "2 - 2"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Toronto FC_wins": "0",
+          "Toronto FC_wins": "1",
           "draws": "0",
-          "New England Revolution_wins": "1"
+          "New York City FC_wins": "5"
         },
         "previous_matches": [
           {
-            "date": "15/03/2018",
-            "competition": "CONCACAF Champions League",
-            "teams_and_score": "CD Guadalajara 3 - 0 Seattle Sounders FC"
+            "date": "30/06/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Seattle Sounders FC 2 - 1 Chicago Fire"
+          },
+          {
+            "date": "17/07/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Chicago Fire 1 - 0 Seattle Sounders FC"
+          },
+          {
+            "date": "14/07/2020",
+            "competition": "MLS is Back: Group B",
+            "teams_and_score": "Chicago Fire 2 - 1 Seattle Sounders FC"
+          },
+          {
+            "date": "01/03/2020",
+            "competition": "Major League Soccer",
+            "teams_and_score": "Seattle Sounders FC 2 - 1 Chicago Fire"
+          },
+          {
+            "date": "16/03/2019",
+            "competition": "Major League Soccer",
+            "teams_and_score": "Chicago Fire 2 - 4 Seattle Sounders FC"
+          },
+          {
+            "date": "14/08/2014",
+            "competition": "US Open Cup",
+            "teams_and_score": "Seattle Sounders FC 6 - 0 Chicago Fire"
           }
         ],
         "home_team_form": {
           "team": "Toronto FC",
           "form": [
+            "D",
             "W",
             "L"
           ],
           "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Seattle Sounders FC 2 - 2 Chicago Fire",
+              "result": "D"
+            },
             {
               "date": "13/08/2026",
               "competition": "Leagues Cup",
@@ -95,36 +136,87 @@
           ]
         },
         "away_team_form": {
-          "team": "New England Revolution",
+          "team": "New York City FC",
           "form": [
-            "W",
             "D",
-            "W"
+            "L",
+            "D",
+            "W",
+            "L"
           ],
           "recent_matches": [
             {
-              "date": "13/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Liga MX: Apertura",
-              "teams_and_score": "Puebla 1 - 1 CD Guadalajara",
+              "date": "29/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Seattle Sounders FC 2 - 2 Chicago Fire",
               "result": "D"
             },
             {
-              "date": "17/05/2026",
-              "competition": "Liga MX: Clausura: Play-off",
-              "teams_and_score": "CD Guadalajara 1 - 2 Cruz Azul",
+              "date": "26/08/2026",
+              "competition": "Leagues Cup: Final Stage",
+              "teams_and_score": "Monterrey 2 - 1 Chicago Fire",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "New York Red Bulls 1 - 1 Chicago Fire",
+              "result": "D"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Cruz Azul 1 - 2 Chicago Fire",
               "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Chicago Fire 2 - 1 Charlotte",
+              "result": "L"
             }
           ]
         }
       },
-      "statistics": {},
-      "description": "Watch Toronto FC vs New England Revolution highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 16, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Toronto FC": "3",
+          "New York City FC": "11"
+        },
+        "shots_off_target": {
+          "Toronto FC": "5",
+          "New York City FC": "3"
+        },
+        "shots_blocked": {
+          "Toronto FC": "3",
+          "New York City FC": "6"
+        },
+        "corners": {
+          "Toronto FC": "4",
+          "New York City FC": "7"
+        },
+        "fouls": {
+          "Toronto FC": "9",
+          "New York City FC": "9"
+        },
+        "offsides": {
+          "Toronto FC": "1",
+          "New York City FC": "0"
+        },
+        "yellow_cards": {
+          "Toronto FC": "1",
+          "New York City FC": "0"
+        },
+        "goalkeeper_saves": {
+          "Toronto FC": "9",
+          "New York City FC": "1"
+        },
+        "ball_possession": {
+          "Toronto FC": "44%",
+          "New York City FC": "56%"
+        }
+      },
+      "description": "Watch Toronto FC vs New York City FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The Seattle Sounders FC faced off against New York City FC in a highly anticipated encounter that drew significant attention from MLS supporters. Both sides aimed to assert their dominance early in a match characterized by tactical shifts and clinical finishing. A lively first half Played on August 30, 2026, the match got off to a blistering start as the home side looked to dictate the tempo. The breakthrough arrived at the 12-minute mark when Sebastian Gomez played a sublime ball to Dejan Joveljic , who coolly found the back of the net. Keeping the pressure on, the hosts capitalized again in the 39th minute; this time it was Robert Lewandowski providing the assist for Maren Haile-Selassie to double the lead, sending the teams into the break with a clear narrative unfolding. Momentum in the second half Coming out for the second half, the hosts showed no signs of slowing down. Just three minutes after the restart, Albert Rusnak set up Dejan Joveljic for his second goal of the evening, putting the result firmly in sight. While both managers utilized their benches extensively to change the game’s rhythm, the visitors finally found a response in the 82nd minute when Puso Dithejane teed up Robert Lewandowski to trim the deficit. Despite the late push, the final whistle at 90+6 minutes confirmed a disciplined performance from the home side in this exciting football contest."
     },
     {
       "title": "Toronto FC vs Charlotte",
@@ -338,6 +430,128 @@
         }
       },
       "description": "Watch Toronto FC vs Charlotte highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 20, 2026. The MLS clash between Toronto FC and Charlotte delivered a masterclass in offensive football and dramatic twists that kept fans breathless until the final whistle. In a match defined by crucial officiating decisions and a flurry of goals, both sides fought relentlessly for every inch of the pitch. An Explosive Opening Half On August 20, 2026, the match ignited from the very first whistle. Charlotte wasted no time establishing dominance, as Rodolfo Aloko found the net in just the 8th minute following a brilliant setup by Ashley Westwood . The hosts responded almost instantly; by the 14th minute, Markus Cimermancic had restored parity for Toronto FC with an assist from Joshua Sargent . However, the see-saw nature of the contest continued when Idan Toklomati reclaimed the lead for the visitors in the 20th minute, capping off a frantic opening twenty minutes of pure entertainment. Red Card and a Ten-Man Defiance The second half took a dramatic turn in the 56th minute when Walker Zimmerman was shown a straight red card. The decision sparked heavy protests from the Charlotte players, who felt aggrieved by the dismissal. Despite the numerical disadvantage, the visitors pulled off the improbable just two minutes later. Henry Kessler rose to the occasion, converting another Ashley Westwood assist to extend the lead to 3-1. This left Toronto FC facing a daunting mountain to climb despite having an extra man on the field. Toronto’s Late Resurgence With time running out, Toronto FC threw everything forward to salvage the game. Their persistence paid off in the 77th minute when Daniel Salloi pulled one back after being played in by Theodor Corbeanu . The tension reached a breaking point as the match entered its final stages. In the 90th minute, the comeback was completed; Niklas Dorsch struck home following an assist from Derrick Etienne , ensuring the points were shared. After twelve minutes of stoppage time and a flurry of tactical substitutions, the referee finally ended a 3-3 thriller that will be remembered for its incredible emotional swings."
+    },
+    {
+      "title": "Toronto FC - New England Revolution",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/toronto-fc-new-england-revolution-2026-08-16-M78r.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 16, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1609.webp",
+          "name": "New England Revolution",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1601.webp",
+          "name": "Toronto FC",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/toronto-fc-new-england-revolution-2026-08-16_4IEXS.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Toronto FC",
+          "player": "G. Sandnes",
+          "event_type": "Goal",
+          "assist": "A. Lopez",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "New England Revolution",
+          "player": "L. Rey",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "New England Revolution",
+          "player": "L. Rey",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "New England Revolution",
+          "player": "S. S. Gonzalez",
+          "event_type": "Goal",
+          "assist": "L. Romo",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Toronto FC_wins": "0",
+          "draws": "0",
+          "New England Revolution_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "15/03/2018",
+            "competition": "CONCACAF Champions League",
+            "teams_and_score": "CD Guadalajara 3 - 0 Seattle Sounders FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Toronto FC",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "New England Revolution",
+          "form": [
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Liga MX: Apertura",
+              "teams_and_score": "Puebla 1 - 1 CD Guadalajara",
+              "result": "D"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Liga MX: Clausura: Play-off",
+              "teams_and_score": "CD Guadalajara 1 - 2 Cruz Azul",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Toronto FC vs New England Revolution highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 16, 2026."
     },
     {
       "title": "D.C. United - Toronto FC",

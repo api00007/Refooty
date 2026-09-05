@@ -1,108 +1,182 @@
 {
   "team": "Austin Fc",
   "team_logo": "https://img.refooty.com/logo/teams/16489.webp",
-  "total_matches": 8,
-  "Last update time": "04:20:38 AM 05-09-2026",
+  "total_matches": 10,
+  "Last update time": "05:35:06 AM 05-09-2026",
   "matches": [
     {
-      "title": "Austin FC - Club Puebla | Leagues Cup | Full Match Highlights",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/austin-fc-club-puebla-leagues-cup-full-match-highlights-2026-08-10-DXSR.webp",
-      "competition": "Unknown Competition",
-      "competition_cover": "",
-      "date": "Aug 10, 2026",
+      "title": "Portland Timbers - Austin FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/portland-timbers-austin-fc-2026-08-30-CTlT.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 30, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/2291.webp",
-          "name": "Puebla",
-          "score": "0"
-        },
-        "home_team": {
           "logo": "https://img.refooty.com/logo/teams/16489.webp",
           "name": "Austin FC",
-          "score": "3"
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1617.webp",
+          "name": "Portland Timbers",
+          "score": "1"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/austin-fc-club-puebla-leagues-cup-full-match-highlights-2026-08-10_55Gjp.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/portland-timbers-austin-fc-2026-08-30.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
           "team": "Austin FC",
-          "player": "M. Uzuni",
+          "player": "F. Torres",
           "event_type": "Goal",
-          "score_update": "1 - 0"
+          "assist": "J. Rosales",
+          "score_update": "0 - 1"
         },
         {
           "time": "16'",
           "team": "Austin FC",
-          "player": "M. Uzuni",
+          "player": "G. Biro",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "47'",
+          "team": "Austin FC",
+          "player": "M. Desler",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "88'",
+          "team": "Portland Timbers",
+          "player": "J. Caicedo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "88'",
+          "team": "Austin FC",
+          "player": "O. Svatok",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "89'",
+          "team": "Portland Timbers",
+          "player": "Antony",
           "event_type": "Goal",
-          "assist": "C. Ramirez",
-          "score_update": "2 - 0"
+          "score_update": "1 - 1"
         },
         {
-          "time": "31'",
-          "team": "Puebla",
-          "player": "L. Hernandez",
-          "event_type": "Yellow Card"
+          "time": "90+3'",
+          "team": "Austin FC",
+          "player": "O. Svatok",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
         },
         {
-          "time": "46'",
-          "team": "Puebla",
-          "player": "S. Sanabria",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
+          "time": "90+7'",
           "team": "Austin FC",
           "player": "J. Rosales",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Austin FC",
-          "player": "M. Uzuni",
-          "event_type": "Goal",
-          "assist": "F. Torres",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "91'",
-          "team": "Puebla",
-          "player": "A. Herrera",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Puebla",
-          "player": "M. Tomas",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Austin FC_wins": "0",
-          "draws": "0",
-          "Puebla_wins": "0"
+          "Portland Timbers_wins": "3",
+          "draws": "1",
+          "Austin FC_wins": "1"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "05/04/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Austin FC 0 - 0 Portland Timbers"
+          },
+          {
+            "date": "03/10/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Portland Timbers 0 - 1 Austin FC"
+          },
+          {
+            "date": "18/09/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Austin FC 1 - 2 Portland Timbers"
+          },
+          {
+            "date": "01/09/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Austin FC 1 - 2 Portland Timbers"
+          },
+          {
+            "date": "07/11/2021",
+            "competition": "Major League Soccer 2021",
+            "teams_and_score": "Portland Timbers 3 - 0 Austin FC"
+          }
+        ],
         "home_team_form": {
+          "team": "Portland Timbers",
+          "form": [
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 1 - 2 Austin FC",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Portland Timbers 3 - 1 Tijuana",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
           "team": "Austin FC",
           "form": [
             "W",
+            "L",
+            "D",
+            "D",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "10/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Austin FC 3 - 0 Puebla",
+              "date": "30/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 1 - 2 Austin FC",
               "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Leagues Cup: Final Stage",
+              "teams_and_score": "Toluca 2 - 0 Austin FC",
+              "result": "L"
+            },
+            {
+              "date": "23/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Austin FC 1 - 1 Philadelphia Union",
+              "result": "D"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "CF America 1 - 1 Austin FC",
+              "result": "D"
             },
             {
               "date": "02/08/2026",
@@ -111,38 +185,234 @@
               "result": "L"
             }
           ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Portland Timbers": "5",
+          "Austin FC": "4"
         },
-        "away_team_form": {
-          "team": "Puebla",
+        "shots_off_target": {
+          "Portland Timbers": "4",
+          "Austin FC": "3"
+        },
+        "shots_blocked": {
+          "Portland Timbers": "5",
+          "Austin FC": "3"
+        },
+        "corners": {
+          "Portland Timbers": "6",
+          "Austin FC": "3"
+        },
+        "fouls": {
+          "Portland Timbers": "9",
+          "Austin FC": "14"
+        },
+        "offsides": {
+          "Portland Timbers": "3",
+          "Austin FC": "1"
+        },
+        "yellow_cards": {
+          "Portland Timbers": "1",
+          "Austin FC": "4"
+        },
+        "goalkeeper_saves": {
+          "Portland Timbers": "1",
+          "Austin FC": "4"
+        },
+        "ball_possession": {
+          "Portland Timbers": "50%",
+          "Austin FC": "50%"
+        }
+      },
+      "description": "Watch Portland Timbers vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The atmosphere at the stadium was electric as Portland Timbers and Austin FC faced off in a high-stakes MLS encounter. Both sides knew that every moment would count in this late-August clash where momentum shifted until the final whistle. Opening Exchange and Early Lead On August 30, 2026 , the match began with notable intensity from both sides. Austin FC managed to break the deadlock in the 25th minute when Facundo Torres found the back of the net after a precise setup by Joseph Rosales . This early advantage forced the Portland Timbers to push forward, but the first half remained physically demanding, evidenced by a yellow card for Guilherme Biro as both teams battled for control in the midfield. Second Half Tactical Battles The second half saw increased friction immediately after the restart, starting with a yellow card for Mikkel Desler in the 47th minute. Both managers turned to their benches to influence the game's flow. The Portland Timbers introduced Antony in the 62nd minute, a move designed to add clinical finishing to their attack. As the clock ticked down, the intensity reached a boiling point in the 88th minute when Jose Caicedo and Oleksandr Svatok were both booked during a heated exchange. Stoppage Time Chaos The final minutes delivered a rollercoaster of emotions for the fans. In the 89th minute, the Portland Timbers were awarded a penalty, which Antony coolly converted to level the score at 1-1. However, the celebrations were short-lived. Deep into stoppage time, in the 93rd minute, Oleksandr Svatok turned from villain to hero, scoring a dramatic late goal to restore the lead for Austin FC . Despite a late yellow card for Joseph Rosales and a desperate push from the home side, Austin FC held on for a crucial 2-1 victory."
+    },
+    {
+      "title": "Toluca FC - Austin FC | Leagues Cup | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/toluca-fc-austin-fc-leagues-cup-full-match-highlights-2026-08-27-6Dds.webp",
+      "competition": "Unknown Competition",
+      "competition_cover": "",
+      "date": "Aug 27, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/16489.webp",
+          "name": "Austin FC",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/2281.webp",
+          "name": "Toluca",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/toluca-fc-austin-fc-leagues-cup-full-match-highlights-2026-08-27.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Toluca",
+          "player": "Evander",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Austin FC",
+          "player": "R. Sailor",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Toluca",
+          "player": "B. Ramirez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Austin FC",
+          "player": "P. Kingston",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Austin FC",
+          "player": "K. Kossa-Rienzi",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "1 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Toluca_wins": "0",
+          "draws": "1",
+          "Austin FC_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "12/03/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "FC Cincinnati 1 - 0 Seattle Sounders FC"
+          },
+          {
+            "date": "28/09/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Seattle Sounders FC 1 - 1 FC Cincinnati"
+          },
+          {
+            "date": "03/03/2019",
+            "competition": "Major League Soccer",
+            "teams_and_score": "Seattle Sounders FC 4 - 1 FC Cincinnati"
+          }
+        ],
+        "home_team_form": {
+          "team": "Toluca",
           "form": [
-            "L",
             "D",
+            "W",
+            "L",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "10/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Austin FC 3 - 0 Puebla",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Liga MX: Apertura",
-              "teams_and_score": "Puebla 1 - 1 CD Guadalajara",
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "FC Cincinnati 1 - 1 Seattle Sounders FC",
               "result": "D"
             },
             {
-              "date": "25/04/2026",
-              "competition": "Liga MX: Clausura",
-              "teams_and_score": "Puebla 1 - 2 Queretaro FC",
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "FC Cincinnati 1 - 2 Atlas",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "FC Cincinnati 4 - 2 San Jose Earthquakes",
+              "result": "L"
+            },
+            {
+              "date": "10/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Cincinnati 3 - 1 Burnley",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Austin FC",
+          "form": [
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "FC Cincinnati 1 - 1 Seattle Sounders FC",
+              "result": "D"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
               "result": "L"
             }
           ]
         }
       },
-      "statistics": {},
-      "description": "Watch Austin FC vs Puebla highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 10, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Toluca": "9",
+          "Austin FC": "3"
+        },
+        "shots_off_target": {
+          "Toluca": "5",
+          "Austin FC": "4"
+        },
+        "shots_blocked": {
+          "Toluca": "3",
+          "Austin FC": "3"
+        },
+        "corners": {
+          "Toluca": "9",
+          "Austin FC": "4"
+        },
+        "fouls": {
+          "Toluca": "7",
+          "Austin FC": "14"
+        },
+        "offsides": {
+          "Toluca": "2",
+          "Austin FC": "1"
+        },
+        "yellow_cards": {
+          "Toluca": "1",
+          "Austin FC": "2"
+        },
+        "goalkeeper_saves": {
+          "Toluca": "2",
+          "Austin FC": "7"
+        },
+        "ball_possession": {
+          "Toluca": "70%",
+          "Austin FC": "30%"
+        }
+      },
+      "description": "Watch Toluca vs Austin FC highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 27, 2026. The pitch became the stage for a tactical chess match as both sides looked to establish their influence early on. On August 27, 2026, the intensity was palpable in what proved to be a pivotal fixture within the Major League Soccer season. Establishing the tempo Early exchanges saw both teams jockeying for control, but the deadlock was broken in the 24th minute when Evander Ferreira found the back of the net. The goal forced a tactical shift as the game grew increasingly physical. By the 38th minute, Ryan Sailor was cautioned, a clear sign of the defensive urgency required as the players headed into the break with the game finely balanced. Second half decisive moments As the second half unfolded, the tactical battle intensified with frequent substitutions aimed at freshening the attack and bolstering defenses. Frustration and high stakes saw Bryan Ramirez and Peter Kingston enter the referee’s book as the pressure mounted. The definitive turning point arrived in the 83rd minute, with Kalani Rienzi firing home following a precise assist from Albert Rusnak . Despite the late efforts to alter the flow, the final whistle at 90+5 minutes confirmed a hard-fought result in this MLS clash."
     },
     {
       "title": "Austin FC - Philadelphia Union | Full Match Highlights",
@@ -1369,6 +1639,146 @@
       },
       "statistics": {},
       "description": "Watch Club America vs Austin FC highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 14, 2026."
+    },
+    {
+      "title": "Austin FC - Club Puebla | Leagues Cup | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/austin-fc-club-puebla-leagues-cup-full-match-highlights-2026-08-10-DXSR.webp",
+      "competition": "Unknown Competition",
+      "competition_cover": "",
+      "date": "Aug 10, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/2291.webp",
+          "name": "Puebla",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/16489.webp",
+          "name": "Austin FC",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/austin-fc-club-puebla-leagues-cup-full-match-highlights-2026-08-10_55Gjp.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Austin FC",
+          "player": "M. Uzuni",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Austin FC",
+          "player": "M. Uzuni",
+          "event_type": "Goal",
+          "assist": "C. Ramirez",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Puebla",
+          "player": "L. Hernandez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Puebla",
+          "player": "S. Sanabria",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Austin FC",
+          "player": "J. Rosales",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Austin FC",
+          "player": "M. Uzuni",
+          "event_type": "Goal",
+          "assist": "F. Torres",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "91'",
+          "team": "Puebla",
+          "player": "A. Herrera",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Puebla",
+          "player": "M. Tomas",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Austin FC_wins": "0",
+          "draws": "0",
+          "Puebla_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Austin FC",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Austin FC 3 - 0 Puebla",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Colorado Rapids 1 - 0 Austin FC",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Puebla",
+          "form": [
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Austin FC 3 - 0 Puebla",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Liga MX: Apertura",
+              "teams_and_score": "Puebla 1 - 1 CD Guadalajara",
+              "result": "D"
+            },
+            {
+              "date": "25/04/2026",
+              "competition": "Liga MX: Clausura",
+              "teams_and_score": "Puebla 1 - 2 Queretaro FC",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Austin FC vs Puebla highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 10, 2026."
     }
   ]
 }

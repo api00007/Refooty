@@ -1,9 +1,449 @@
 {
   "team": "Monza",
   "team_logo": "https://img.refooty.com/logo/teams/1579.webp",
-  "total_matches": 5,
-  "Last update time": "04:20:38 AM 05-09-2026",
+  "total_matches": 6,
+  "Last update time": "05:35:05 AM 05-09-2026",
   "matches": [
+    {
+      "title": "Torino vs Monza",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/torino-v-monza-2026-09-01-HR6N.webp",
+      "competition": "Coppa Italia",
+      "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
+      "date": "Sep 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1579.webp",
+          "name": "Monza",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/503.webp",
+          "name": "Torino",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Torino_v_Monza_2026_09_01.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "38'",
+          "team": "Torino",
+          "player": "S. Kulenović",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+3'",
+          "team": "Monza",
+          "player": "D. Mota",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Monza",
+          "player": "M. Folorunsho",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Torino_wins": "6",
+          "draws": "1",
+          "Monza_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "02/03/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Monza 0 - 2 Torino"
+          },
+          {
+            "date": "30/03/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Torino 1 - 0 Monza"
+          },
+          {
+            "date": "07/05/2023",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "Torino 1 - 1 Monza"
+          },
+          {
+            "date": "28/12/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Monza 1 - 4 Torino"
+          },
+          {
+            "date": "13/08/2022",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "Monza 1 - 2 Torino"
+          },
+          {
+            "date": "04/01/2017",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Torino 1 - 0 Monza"
+          },
+          {
+            "date": "04/03/2001",
+            "competition": "Serie Bwin",
+            "teams_and_score": "Torino 2 - 1 Monza"
+          }
+        ],
+        "home_team_form": {
+          "team": "Torino",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Torino 0 - 1 Monza",
+              "result": "L"
+            },
+            {
+              "date": "29/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Sassuolo 2 - 1 Torino",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Torino 1 - 0 Carrarese",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Avellino 1 - 1 Torino",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2025",
+              "teams_and_score": "Burnley 0 - 1 Torino",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Monza",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Torino 0 - 1 Monza",
+              "result": "W"
+            },
+            {
+              "date": "29/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Monza 2 - 3 Udinese",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Monza 3 - 0 Avellino",
+              "result": "W"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Monza 3 - 3 Calcio Padova",
+              "result": "D"
+            },
+            {
+              "date": "29/05/2026",
+              "competition": "Serie B: Promotion: Play-off",
+              "teams_and_score": "Monza 0 - 2 Catanzaro",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Torino": "0",
+          "Monza": "8"
+        },
+        "shots_off_target": {
+          "Torino": "8",
+          "Monza": "7"
+        },
+        "shots_blocked": {
+          "Torino": "8",
+          "Monza": "4"
+        },
+        "corners": {
+          "Torino": "8",
+          "Monza": "8"
+        },
+        "fouls": {
+          "Torino": "18",
+          "Monza": "12"
+        },
+        "offsides": {
+          "Torino": "0",
+          "Monza": "3"
+        },
+        "yellow_cards": {
+          "Torino": "1",
+          "Monza": "1"
+        },
+        "goalkeeper_saves": {
+          "Torino": "7",
+          "Monza": "0"
+        },
+        "ball_possession": {
+          "Torino": "54%",
+          "Monza": "46%"
+        }
+      },
+      "description": "Watch Torino vs Monza highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on September 1, 2026. Torino and Monza faced off in a high-stakes Coppa Italia knockout match, where tactical discipline and clinical finishing were the order of the day. Both sides entered the pitch knowing that one mistake could end their cup journey prematurely. Mota Breaks the Deadlock On September 1, 2026, the match began as a cagey affair with both defenses standing firm. The physical nature of the contest became apparent in the 38th minute when Sandro Kulenovic was shown a yellow card for a mistimed challenge. Just as the first half seemed destined to end goalless, Monza struck a decisive blow. Deep into stoppage time at 45+3 minutes, Dany Mota showcased his predatory instincts to score the opening goal, shifting the momentum entirely in favor of the visitors before the whistle blew. Defensive Resilience and Tactical Battles The second half saw Torino search for an equalizer, introducing Duvan Zapata and Nikola Vlasic to bolster their attack. Monza countered with tactical substitutions of their own, bringing on Patrick Cutrone and Andrea Colpani to maintain their energy levels. The match remained heated, leading to a yellow card for Michael Folorunsho in the 80th minute. Despite a frantic closing period and nine minutes of added time, the Monza backline held their nerve to secure a hard-fought victory and progression in the competition."
+    },
+    {
+      "title": "Monza vs Udinese",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/monza-v-udinese-2026-08-29-zHky.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/494.webp",
+          "name": "Udinese",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1579.webp",
+          "name": "Monza",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Monza_v_Udinese_2026_08_29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "32'",
+          "team": "Udinese",
+          "player": "J. Piotrowski",
+          "event_type": "Goal",
+          "assist": "H. Kamara",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "37'",
+          "team": "Monza",
+          "player": "A. Colpani",
+          "event_type": "Goal",
+          "assist": "R. Mangas",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "45'",
+          "team": "Udinese",
+          "player": "H. Kamara",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "45+3'",
+          "team": "Udinese",
+          "player": "J. Ekkelenkamp",
+          "event_type": "Goal",
+          "score_update": "1 - 3"
+        },
+        {
+          "time": "46'",
+          "team": "Monza",
+          "player": "L. Lucchesi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Monza",
+          "player": "G. Varela",
+          "event_type": "Goal",
+          "assist": "E. Akinsanmiro",
+          "score_update": "2 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Monza_wins": "2",
+          "draws": "2",
+          "Udinese_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "11/05/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Udinese 1 - 2 Monza"
+          },
+          {
+            "date": "03/02/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Udinese 0 - 0 Monza"
+          },
+          {
+            "date": "08/04/2023",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "Udinese 2 - 2 Monza"
+          },
+          {
+            "date": "19/10/2022",
+            "competition": "Coppa Italia: Round of 32 22/23",
+            "teams_and_score": "Udinese 2 - 3 Monza"
+          },
+          {
+            "date": "26/08/2022",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "Monza 1 - 2 Udinese"
+          }
+        ],
+        "home_team_form": {
+          "team": "Monza",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Monza 2 - 3 Udinese",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Monza 3 - 0 Avellino",
+              "result": "W"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Monza 3 - 3 Calcio Padova",
+              "result": "D"
+            },
+            {
+              "date": "29/05/2026",
+              "competition": "Serie B: Promotion: Play-off",
+              "teams_and_score": "Monza 0 - 2 Catanzaro",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Udinese",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Monza 2 - 3 Udinese",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Udinese 1 - 0 Calcio Padova",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Udinese 1 - 0 Barcelona",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Trabzonspor 1 - 0 Udinese",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Udinese 3 - 3 Mainz 05",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Monza": "5",
+          "Udinese": "5"
+        },
+        "shots_off_target": {
+          "Monza": "6",
+          "Udinese": "3"
+        },
+        "shots_blocked": {
+          "Monza": "4",
+          "Udinese": "4"
+        },
+        "corners": {
+          "Monza": "3",
+          "Udinese": "3"
+        },
+        "fouls": {
+          "Monza": "10",
+          "Udinese": "12"
+        },
+        "offsides": {
+          "Monza": "4",
+          "Udinese": "1"
+        },
+        "yellow_cards": {
+          "Monza": "1",
+          "Udinese": "0"
+        },
+        "goalkeeper_saves": {
+          "Monza": "2",
+          "Udinese": "3"
+        },
+        "crosses": {
+          "Monza": "7",
+          "Udinese": "1"
+        },
+        "ball_possession": {
+          "Monza": "51%",
+          "Udinese": "49%"
+        }
+      },
+      "description": "Watch Monza vs Udinese highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 29, 2026. On August 29, 2026, Monza and Udinese locked horns in a Serie A clash that promised tactical intrigue and high-octane football. With both sides eager to climb the table, the stage was set for a confrontation where momentum would shift with every passing minute. A Chaotic Opening Period The match ignited in the 32nd minute when a defensive lapse by Mathis Mout gifted the visitors an opening. Jakub Piotrowski made no mistake, firing home with his left foot after being set up by Hassane Kamara . Monza ’s response was swift and clinical. Just five minutes later, Andrea Colpani leveled the scores with a well-placed right-footed finish, following a sequence involving Patrick Cutrone and a decisive pass from Ricardo Mangas . As the first half drew to a close, Udinese unleashed a devastating double blow that left the home crowd stunned. In the 45th minute, Hassane Kamara capitalized on a poor clearance from goalkeeper Demba Thiam to strike from distance. Deep into stoppage time (45+3'), Jurgen Ekkelenkamp extended the lead further, rifling a shot into the net from outside the box after a corner delivered by Unai Gomez . This rapid-fire sequence gave the visitors a commanding cushion heading into the interval. Monza’s Late Surge and Defensive Resilience The second half saw Monza emerge with renewed purpose, pushing high to salvage a result. Their persistence paid off in the 63rd minute when Gustavo Varela rose highest to head home an Ebenezer Akinsanmiro cross, cutting the deficit to a single goal. The atmosphere intensified as the home side threw everything forward, forcing the Udinese backline into a series of desperate clearances. In a frantic final ten minutes, Monza came agonizingly close to an equalizer. Andrea Carboni saw his header saved comfortably by Maduka Okoye , who remained a pillar of stability for the visitors. As the clock ticked into the 94th minute, Michael Folorunsho had one final chance to steal a point, but his effort whistled wide of the target. Udinese held firm under immense pressure to secure a hard-fought victory in a contest that defined the competitive spirit of Italian football."
+    },
     {
       "title": "Inter Milan vs Monza",
       "thumbnail_url": "https://img.refooty.com/thumbnail/inter-milan-v-monza-2026-08-22-h7v9.webp",
@@ -243,232 +683,6 @@
         }
       },
       "description": "Watch Inter vs Monza highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 22, 2026. Inter Milan and Monza locked horns at the San Siro in a clash that promised tactical intrigue and high-intensity football from the opening whistle. The encounter on August 22, 2026, saw both teams testing each other's resolve in a classic Italian top-flight atmosphere. Early Fireworks and a Quick Response The match ignited early for the home side. In just the 6th minute, Inter took the lead when Hakan Calhanoglu unleashed a powerful strike from outside the box, finding the net after being set up by Andy Diouf . A VAR check followed, but the goal stood, sending the home crowd into raptures. However, Monza refused to be intimidated by the early deficit. They grew into the game and found an equalizer in the 29th minute. Gustavo Varela clinical finish with his right foot, assisted by Mathis Mout , restored parity and set the stage for a competitive battle through the remainder of the first half. Inter Take Charge in the Second Half The second half saw Inter shift into a higher gear, asserting their dominance almost immediately after the restart. In the 48th minute, Piotr Zielinski reacted quickest to a loose ball in the area, firing home to put the Nerazzurri back in front. The momentum stayed firmly with the hosts, and in the 55th minute, Francesco Pio Esposito produced a moment of individual brilliance, scoring with a fantastic back-heel following a cross from Andy Diouf . The clinical nature of the performance continued as Yann Aurel Bisseck added a fourth in the 63rd minute, finishing with his left foot after a key pass from Esposito . Dominance and Closing Stages With a comfortable lead established, Inter controlled the tempo, finishing the match with an overwhelming 71% possession. Tactical substitutions followed, with John Stones and Aleksandar Stankovic coming on to see out the result. Monza struggled to find a way back into the contest, hindered by several offside calls and a yellow card for Lorenzo Lucchesi late in the game for a tactical foul. Despite a few late attempts at goal from the home side, the scoreline remained unchanged until the final whistle, confirming a comprehensive victory for the Milan giants in front of their home supporters."
-    },
-    {
-      "title": "Monza vs Udinese",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/monza-v-udinese-2026-08-29-zHky.webp",
-      "competition": "Serie A",
-      "competition_cover": "https://refooty.com/covers/serie-a.webp",
-      "date": "Aug 29, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/494.webp",
-          "name": "Udinese",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1579.webp",
-          "name": "Monza",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Monza_v_Udinese_2026_08_29.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "32'",
-          "team": "Udinese",
-          "player": "J. Piotrowski",
-          "event_type": "Goal",
-          "assist": "H. Kamara",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "37'",
-          "team": "Monza",
-          "player": "A. Colpani",
-          "event_type": "Goal",
-          "assist": "R. Mangas",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "45'",
-          "team": "Udinese",
-          "player": "H. Kamara",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "45+3'",
-          "team": "Udinese",
-          "player": "J. Ekkelenkamp",
-          "event_type": "Goal",
-          "score_update": "1 - 3"
-        },
-        {
-          "time": "46'",
-          "team": "Monza",
-          "player": "L. Lucchesi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Monza",
-          "player": "G. Varela",
-          "event_type": "Goal",
-          "assist": "E. Akinsanmiro",
-          "score_update": "2 - 3"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Monza_wins": "2",
-          "draws": "2",
-          "Udinese_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "11/05/2025",
-            "competition": "Serie A 24/25",
-            "teams_and_score": "Udinese 1 - 2 Monza"
-          },
-          {
-            "date": "03/02/2024",
-            "competition": "Serie A 23/24",
-            "teams_and_score": "Udinese 0 - 0 Monza"
-          },
-          {
-            "date": "08/04/2023",
-            "competition": "Serie A 22/23",
-            "teams_and_score": "Udinese 2 - 2 Monza"
-          },
-          {
-            "date": "19/10/2022",
-            "competition": "Coppa Italia: Round of 32 22/23",
-            "teams_and_score": "Udinese 2 - 3 Monza"
-          },
-          {
-            "date": "26/08/2022",
-            "competition": "Serie A 22/23",
-            "teams_and_score": "Monza 1 - 2 Udinese"
-          }
-        ],
-        "home_team_form": {
-          "team": "Monza",
-          "form": [
-            "L",
-            "W",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Monza 2 - 3 Udinese",
-              "result": "L"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Monza 3 - 0 Avellino",
-              "result": "W"
-            },
-            {
-              "date": "07/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Monza 3 - 3 Calcio Padova",
-              "result": "D"
-            },
-            {
-              "date": "29/05/2026",
-              "competition": "Serie B: Promotion: Play-off",
-              "teams_and_score": "Monza 0 - 2 Catanzaro",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Udinese",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Monza 2 - 3 Udinese",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Udinese 1 - 0 Calcio Padova",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Udinese 1 - 0 Barcelona",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Trabzonspor 1 - 0 Udinese",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Udinese 3 - 3 Mainz 05",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Monza": "5",
-          "Udinese": "5"
-        },
-        "shots_off_target": {
-          "Monza": "6",
-          "Udinese": "3"
-        },
-        "shots_blocked": {
-          "Monza": "4",
-          "Udinese": "4"
-        },
-        "corners": {
-          "Monza": "3",
-          "Udinese": "3"
-        },
-        "fouls": {
-          "Monza": "10",
-          "Udinese": "12"
-        },
-        "offsides": {
-          "Monza": "4",
-          "Udinese": "1"
-        },
-        "yellow_cards": {
-          "Monza": "1",
-          "Udinese": "0"
-        },
-        "goalkeeper_saves": {
-          "Monza": "2",
-          "Udinese": "3"
-        },
-        "crosses": {
-          "Monza": "7",
-          "Udinese": "1"
-        },
-        "ball_possession": {
-          "Monza": "51%",
-          "Udinese": "49%"
-        }
-      },
-      "description": "Watch Monza vs Udinese highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 29, 2026. On August 29, 2026, Monza and Udinese locked horns in a Serie A clash that promised tactical intrigue and high-octane football. With both sides eager to climb the table, the stage was set for a confrontation where momentum would shift with every passing minute. A Chaotic Opening Period The match ignited in the 32nd minute when a defensive lapse by Mathis Mout gifted the visitors an opening. Jakub Piotrowski made no mistake, firing home with his left foot after being set up by Hassane Kamara . Monza ’s response was swift and clinical. Just five minutes later, Andrea Colpani leveled the scores with a well-placed right-footed finish, following a sequence involving Patrick Cutrone and a decisive pass from Ricardo Mangas . As the first half drew to a close, Udinese unleashed a devastating double blow that left the home crowd stunned. In the 45th minute, Hassane Kamara capitalized on a poor clearance from goalkeeper Demba Thiam to strike from distance. Deep into stoppage time (45+3'), Jurgen Ekkelenkamp extended the lead further, rifling a shot into the net from outside the box after a corner delivered by Unai Gomez . This rapid-fire sequence gave the visitors a commanding cushion heading into the interval. Monza’s Late Surge and Defensive Resilience The second half saw Monza emerge with renewed purpose, pushing high to salvage a result. Their persistence paid off in the 63rd minute when Gustavo Varela rose highest to head home an Ebenezer Akinsanmiro cross, cutting the deficit to a single goal. The atmosphere intensified as the home side threw everything forward, forcing the Udinese backline into a series of desperate clearances. In a frantic final ten minutes, Monza came agonizingly close to an equalizer. Andrea Carboni saw his header saved comfortably by Maduka Okoye , who remained a pillar of stability for the visitors. As the clock ticked into the 94th minute, Michael Folorunsho had one final chance to steal a point, but his effort whistled wide of the target. Udinese held firm under immense pressure to secure a hard-fought victory in a contest that defined the competitive spirit of Italian football."
     },
     {
       "title": "Galatasaray vs Monza",

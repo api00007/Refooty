@@ -1,9 +1,473 @@
 {
   "team": "Bristol City",
   "team_logo": "https://img.refooty.com/logo/teams/56.webp",
-  "total_matches": 2,
-  "Last update time": "04:20:39 AM 05-09-2026",
+  "total_matches": 4,
+  "Last update time": "05:35:05 AM 05-09-2026",
   "matches": [
+    {
+      "title": "preston north end - bristol city",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-bristol-city-2026-09-01-xM8e.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/56.webp",
+          "name": "Bristol City",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/25148.webp",
+          "name": "Preston North End",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-bristol-city-2026-09-01.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Bristol City",
+          "player": "S. Twine",
+          "event_type": "Goal",
+          "assist": "L. Tolaj",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Preston North End",
+          "player": "J. Thompson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Preston North End",
+          "player": "C. Wiley",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Bristol City",
+          "player": "L. N. Eissat",
+          "event_type": "Goal",
+          "assist": "R. Cardines",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Preston North End",
+          "player": "L. Lindsay",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Bristol City",
+          "player": "D. Ballard",
+          "event_type": "Goal",
+          "score_update": "1 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Preston North End_wins": "2",
+          "draws": "2",
+          "Bristol City_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "04/01/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Bristol City 0 - 2 Preston North End"
+          },
+          {
+            "date": "03/05/2025",
+            "competition": "Championship",
+            "teams_and_score": "Bristol City 2 - 2 Preston North End"
+          },
+          {
+            "date": "13/01/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Preston North End 2 - 0 Bristol City"
+          },
+          {
+            "date": "04/02/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Preston North End 1 - 2 Bristol City"
+          },
+          {
+            "date": "29/01/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Preston North End 2 - 2 Bristol City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Preston North End",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Bristol City",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Wolves",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Preston North End 1 - 1 Huddersfield Town",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stockport County 1 - 0 Preston North End",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bristol City",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Bristol City",
+              "result": "W"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bristol City 0 - 1 Walsall",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Exeter City 1 - 1 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bristol City 4 - 1 Newcastle United",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Forest Green Rovers 3 - 2 Bristol City",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Preston North End": "4",
+          "Bristol City": "7"
+        },
+        "shots_off_target": {
+          "Preston North End": "9",
+          "Bristol City": "4"
+        },
+        "shots_blocked": {
+          "Preston North End": "5",
+          "Bristol City": "1"
+        },
+        "corners": {
+          "Preston North End": "5",
+          "Bristol City": "2"
+        },
+        "fouls": {
+          "Preston North End": "11",
+          "Bristol City": "14"
+        },
+        "offsides": {
+          "Preston North End": "2",
+          "Bristol City": "3"
+        },
+        "yellow_cards": {
+          "Preston North End": "2",
+          "Bristol City": "0"
+        },
+        "goalkeeper_saves": {
+          "Preston North End": "4",
+          "Bristol City": "3"
+        },
+        "crosses": {
+          "Preston North End": "11",
+          "Bristol City": "4"
+        },
+        "ball_possession": {
+          "Preston North End": "52%",
+          "Bristol City": "48%"
+        }
+      },
+      "description": "Watch Preston North End vs Bristol City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. High-Stakes Championship Showdown Ends in Thriller The clash between Preston North End and Bristol City on September 1, 2026, proved to be a tactical and physical test for both sides, with the match flow shifting unpredictably throughout the 90 minutes. Both teams entered the pitch with clear intentions of securing points, setting the stage for an engaging contest. Early Momentum and Second-Half Surge Preston North End signaled their intent early, as Scott Twine found the back of the net in the 4th minute following an assist from Lorent Tolaj . The visitors were forced to weather early pressure but emerged from the break with renewed vigor. In the 51st minute, Caleb Wiley leveled the scoring, changing the complexion of the match. The physical nature of the contest saw Jordan Thompson and Liam Lindsay receive yellow cards, reflecting the intense battle happening in the middle of the park. A Dramatic Conclusion As the clock ticked toward the final whistle, both managers utilized their benches to inject fresh energy into the game. The tactical shift paid off for Bristol City in the 79th minute when Lisav Naif Eissat capitalized on an assist from Rio Cardines to take the lead. However, the drama was not over. Dominic Ballard stepped up for Preston North End in the 86th minute to equalize. The match concluded at 90+5 minutes with neither side able to find a late winner, ending a high-energy encounter on level terms."
+    },
+    {
+      "title": "Bristol City vs Portsmouth",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-city-vs-portsmouth-2026-08-29-rdlv.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1355.webp",
+          "name": "Portsmouth",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/56.webp",
+          "name": "Bristol City",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/bristol-city-vs-portsmouth-2026-08-29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Bristol City",
+          "player": "L. Tolaj",
+          "event_type": "Goal",
+          "assist": "J. Wallace",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "49'",
+          "team": "Bristol City",
+          "player": "R. Cardines",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "56'",
+          "team": "Bristol City",
+          "player": "J. Knight",
+          "event_type": "Goal",
+          "assist": "R. Cardines",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "67'",
+          "team": "Bristol City",
+          "player": "J. Knight",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "77'",
+          "team": "Bristol City",
+          "player": "R. Dickie",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Portsmouth",
+          "player": "M. Milovanović",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bristol City_wins": "4",
+          "draws": "4",
+          "Portsmouth_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "01/01/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Bristol City 5 - 0 Portsmouth"
+          },
+          {
+            "date": "29/12/2024",
+            "competition": "Championship",
+            "teams_and_score": "Bristol City 3 - 0 Portsmouth"
+          },
+          {
+            "date": "29/07/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Portsmouth 0 - 1 Bristol City"
+          },
+          {
+            "date": "12/07/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Bristol City 0 - 0 Portsmouth"
+          },
+          {
+            "date": "20/07/2021",
+            "competition": "Club Friendlies 2021",
+            "teams_and_score": "Bristol City 3 - 3 Portsmouth"
+          },
+          {
+            "date": "10/01/2021",
+            "competition": "FA Cup 20/21",
+            "teams_and_score": "Bristol City 2 - 1 Portsmouth"
+          },
+          {
+            "date": "30/07/2016",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Bristol City 0 - 0 Portsmouth"
+          }
+        ],
+        "home_team_form": {
+          "team": "Bristol City",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Bristol City 2 - 1 Portsmouth",
+              "result": "W"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bristol City 0 - 1 Walsall",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Exeter City 1 - 1 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bristol City 4 - 1 Newcastle United",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Forest Green Rovers 3 - 2 Bristol City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Portsmouth",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Bristol City 2 - 1 Portsmouth",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "West Ham United 3 - 1 Portsmouth",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Darmstadt 0 - 0 Portsmouth",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Portsmouth 1 - 1 Birmingham City",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bristol City": "3",
+          "Portsmouth": "1"
+        },
+        "shots_off_target": {
+          "Bristol City": "3",
+          "Portsmouth": "9"
+        },
+        "shots_blocked": {
+          "Bristol City": "3",
+          "Portsmouth": "4"
+        },
+        "corners": {
+          "Bristol City": "3",
+          "Portsmouth": "10"
+        },
+        "fouls": {
+          "Bristol City": "15",
+          "Portsmouth": "6"
+        },
+        "offsides": {
+          "Bristol City": "1",
+          "Portsmouth": "0"
+        },
+        "yellow_cards": {
+          "Bristol City": "3",
+          "Portsmouth": "0"
+        },
+        "goalkeeper_saves": {
+          "Bristol City": "0",
+          "Portsmouth": "1"
+        },
+        "crosses": {
+          "Bristol City": "3",
+          "Portsmouth": "1"
+        },
+        "ball_possession": {
+          "Bristol City": "46%",
+          "Portsmouth": "54%"
+        }
+      },
+      "description": "Watch Bristol City vs Portsmouth highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 29, 2026. Tactical Duel at Ashton Gate Bristol City and Portsmouth faced off in a gripping Championship encounter that delivered high-stakes drama until the very last kick. On 2026-08-29 , the two sides contested a match defined by clinical finishing and a late resurgence that tested the nerves of the home supporters. Clinical Finishing Breaks the Deadlock The match began with both teams searching for an opening, but it was Bristol City who struck first in the 31st minute. Jed Wallace turned provider with a pinpoint pass to Lorent Tolaj , who calmly found the target to make it 1-0. The goal shifted the momentum in favor of the hosts, who managed to maintain their discipline and enter the half-time break with a hard-earned lead despite Portsmouth 's attempts to level the score. As the second half got underway, the intensity increased. In the 56th minute, following a brief period of pressure, Rio Cardines delivered a crucial assist for Jason Knight , who doubled the advantage for Bristol City . Now leading 2-0, the home side looked to control the game, though the match became increasingly physical. Yellow cards for Cardines , Knight , and Rob Dickie illustrated the defensive shift required to keep the visitors at bay. Late Penalty Sparks Dramatic Finish With the clock ticking towards full-time, Portsmouth threw everything forward, making several tactical substitutions including the introduction of Marko Milovanović . Their persistence paid off deep into stoppage time when they were awarded a penalty. In the 95th minute, Milovanović stepped up and converted from the spot, bringing the score to 2-1 and setting up a frantic final two minutes. Despite the late pressure, Bristol City held their nerve to secure the victory. The referee’s final whistle confirmed a 2-1 result, rewarding the hosts for their efficiency in front of goal while leaving Portsmouth to reflect on a spirited but ultimately unsuccessful comeback attempt in this exciting football match."
+    },
     {
       "title": "Bristol City vs Newcastle",
       "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-city-vs-newcastle-2026-07-29-V5PO.webp",

@@ -1,9 +1,380 @@
 {
   "team": "Kocaelispor",
   "team_logo": "https://img.refooty.com/logo/teams/7411.webp",
-  "total_matches": 2,
-  "Last update time": "04:20:39 AM 05-09-2026",
+  "total_matches": 3,
+  "Last update time": "05:35:06 AM 05-09-2026",
   "matches": [
+    {
+      "title": "Konyaspor - Kocaelispor",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/konyaspor-kocaelispor-2026-08-29-BvcS.webp",
+      "competition": "Süper Lig",
+      "competition_cover": "https://refooty.com/covers/super-lig.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/7411.webp",
+          "name": "Kocaelispor",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/607.webp",
+          "name": "Konyaspor",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/konyaspor-kocaelispor-2026-08-29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Kocaelispor",
+          "player": "M. Susoho",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Kocaelispor",
+          "player": "D. Agyei",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Kocaelispor",
+          "player": "M. Maglica",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Konyaspor",
+          "player": "T. B. Zoukrou",
+          "event_type": "Goal"
+        },
+        {
+          "time": "46'",
+          "team": "Konyaspor",
+          "player": "E. Bardhi",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "61'",
+          "team": "Kocaelispor",
+          "player": "M. Haïdara",
+          "event_type": "Goal",
+          "assist": "G. Santos",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Kocaelispor",
+          "player": "M. Altunbas",
+          "event_type": "Goal",
+          "assist": "Show",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "91'",
+          "team": "Konyaspor",
+          "player": "R. Toth",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Konyaspor_wins": "3",
+          "draws": "1",
+          "Kocaelispor_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "14/03/2026",
+            "competition": "Süper Lig",
+            "teams_and_score": "Kocaelispor 1 - 2 Konyaspor"
+          },
+          {
+            "date": "28/03/2010",
+            "competition": "Bank Asya 1. Lig",
+            "teams_and_score": "Kocaelispor 0 - 2 Konyaspor"
+          },
+          {
+            "date": "03/05/2009",
+            "competition": "Superlig",
+            "teams_and_score": "Konyaspor 2 - 0 Kocaelispor"
+          },
+          {
+            "date": "18/12/2002",
+            "competition": "Cup",
+            "teams_and_score": "Konyaspor 2 - 2 Kocaelispor"
+          }
+        ],
+        "home_team_form": {
+          "team": "Konyaspor",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Konyaspor 1 - 2 Kocaelispor",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Konyaspor 0 - 3 Hull City",
+              "result": "L"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "Turkiye Cup: Final Stage",
+              "teams_and_score": "Trabzonspor 2 - 1 Konyaspor",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Kayserispor 2 - 1 Konyaspor",
+              "result": "L"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Turkiye Cup: Final Stage",
+              "teams_and_score": "Beşiktaş 0 - 1 Konyaspor",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Kocaelispor",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Konyaspor 1 - 2 Kocaelispor",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Antalyaspor 1 - 0 Kocaelispor",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Konyaspor": "0",
+          "Kocaelispor": "7"
+        },
+        "shots_off_target": {
+          "Konyaspor": "9",
+          "Kocaelispor": "5"
+        },
+        "shots_blocked": {
+          "Konyaspor": "1",
+          "Kocaelispor": "3"
+        },
+        "corners": {
+          "Konyaspor": "1",
+          "Kocaelispor": "4"
+        },
+        "fouls": {
+          "Konyaspor": "16",
+          "Kocaelispor": "12"
+        },
+        "offsides": {
+          "Konyaspor": "0",
+          "Kocaelispor": "1"
+        },
+        "yellow_cards": {
+          "Konyaspor": "1",
+          "Kocaelispor": "3"
+        },
+        "red_cards": {
+          "Konyaspor": "1",
+          "Kocaelispor": "0"
+        },
+        "goalkeeper_saves": {
+          "Konyaspor": "5",
+          "Kocaelispor": "0"
+        },
+        "ball_possession": {
+          "Konyaspor": "44%",
+          "Kocaelispor": "56%"
+        }
+      },
+      "description": "Watch Konyaspor vs Kocaelispor highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The Süper Lig encounter between Konyaspor and Kocaelispor on August 29, 2026 , delivered a match full of unpredictable twists. Both sets of fans were kept on the edge of their seats as the tactical battle unfolded under the stadium lights. Early Friction and an Unfortunate Opener The game began with a high level of physicality, and the referee was called into action early when Mahamadou Susoho picked up a yellow card in the 10th minute. As the first half progressed, the tension boiled over, leading to further bookings for Daniel Agyei and Matej Maglica . The deadlock was eventually broken in the 40th minute, but in a fashion no defender desires: Tanguy Zoukrou inadvertently turned the ball into his own net, handing the opposition a lead heading into the break. Red Card Drama and Tactical Shifts The second half saw immediate changes as both managers looked to influence the flow of the match. However, Konyaspor suffered a massive blow in the 48th minute when substitute Enis Bardhi , who had only just replaced Ebrima Colley , was shown a straight red card. The dismissal sparked heavy protests from his teammates, leaving them to face the remainder of the contest with only ten men and a goal deficit to overcome. The Late Turnaround Despite the numerical disadvantage, the momentum shifted during the final twenty minutes. In the 72nd minute, Goncalo Sousa provided a perfectly weighted assist for Massadio Haidara , who clinical finished to level the score. The comeback was completed in the 86th minute when Show set up Metehan Altunbas for a dramatic winning goal. Late yellow cards and substitutions followed as the clock ran down, but the final whistle confirmed a remarkable victory for a side that refused to be beaten by circumstances."
+    },
+    {
+      "title": "Kocaelispor - Amed SF",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/kocaelispor-amed-sf-2026-08-24-buxv.webp",
+      "competition": "Süper Lig",
+      "competition_cover": "https://refooty.com/covers/super-lig.webp",
+      "date": "Aug 24, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/3579.webp",
+          "name": "Amed",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/7411.webp",
+          "name": "Kocaelispor",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/kocaelispor-amed-sf-2026-08-24.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Kocaelispor",
+          "player": "B. Kutlu",
+          "event_type": "Goal",
+          "assist": "A. Dijksteel",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Amed",
+          "player": "L. Dellova",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Amed",
+          "player": "A. Lafont",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Kocaelispor",
+          "player": "M. Maglica",
+          "event_type": "Goal",
+          "assist": "U. K. Yildiz",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Kocaelispor_wins": "1",
+          "draws": "0",
+          "Amed_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "08/02/2025",
+            "competition": "1st Lig",
+            "teams_and_score": "Kocaelispor 1 - 0 Amed Sportif"
+          },
+          {
+            "date": "24/03/2021",
+            "competition": "2nd Lig: White Group",
+            "teams_and_score": "Kocaelispor 1 - 2 Amed Sportif"
+          }
+        ],
+        "home_team_form": {
+          "team": "Kocaelispor",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "24/08/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Kocaelispor 2 - 0 Amed Sportif",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Antalyaspor 1 - 0 Kocaelispor",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Amed",
+          "form": [
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "24/08/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Kocaelispor 2 - 0 Amed Sportif",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "1st Lig",
+              "teams_and_score": "Igdir FK 3 - 3 Amed Sportif",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Kocaelispor": "3",
+          "Amed": "1"
+        },
+        "shots_off_target": {
+          "Kocaelispor": "5",
+          "Amed": "4"
+        },
+        "shots_blocked": {
+          "Kocaelispor": "3",
+          "Amed": "6"
+        },
+        "corners": {
+          "Kocaelispor": "3",
+          "Amed": "6"
+        },
+        "fouls": {
+          "Kocaelispor": "9",
+          "Amed": "16"
+        },
+        "offsides": {
+          "Kocaelispor": "1",
+          "Amed": "1"
+        },
+        "yellow_cards": {
+          "Kocaelispor": "0",
+          "Amed": "2"
+        },
+        "goalkeeper_saves": {
+          "Kocaelispor": "1",
+          "Amed": "1"
+        },
+        "ball_possession": {
+          "Kocaelispor": "44%",
+          "Amed": "56%"
+        }
+      },
+      "description": "Watch Kocaelispor vs Amed highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on August 24, 2026. The atmosphere was charged with anticipation for this Süper Lig encounter, a match defined by tactical discipline and persistent effort from both sides. Taking place on August 24, 2026 , the game evolved into a battle of nerves, with neither team willing to concede an inch until the final whistle. Early breakthrough The match opened with high intensity, as both sides looked to establish control. The Kocaelispor faithful found something to cheer about early in the first half when Anfernee Dijksteel delivered a pinpoint assist to Berkan Kutlu in the 16th minute. Kutlu made no mistake, firing his team into the lead and forcing the opposition to chase the game for the remainder of the afternoon. Late drama in the closing stages As the second half progressed, both managers looked to the bench to inject fresh energy into their squads. The intensity boiled over in the 86th minute, resulting in yellow cards for Alban Lafont and Lumbardh Dellova during a scrappy phase of play. However, just as the game appeared to be drifting away from them, Amed SF found their breakthrough. In the 87th minute, Ugur Yildiz set up Matej Maglica , who clinically found the target to level the playing field and salvage a crucial result in the dying moments."
+    },
     {
       "title": "Istanbul Basaksehir vs Kocaelispor",
       "thumbnail_url": "https://img.refooty.com/thumbnail/istanbul-basaksehir-vs-kocaelispor-2026-08-16-J3aC.webp",
@@ -200,162 +571,6 @@
         }
       },
       "description": "Watch Istanbul Basaksehir vs Kocaelispor highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on August 16, 2026. The stage was set for a high-stakes clash in the Süper Lig , with both sides eager to make their mark on the league table. On August 16, 2026, the atmosphere crackled with anticipation as the two teams took the pitch to determine who would dictate the tempo of this encounter. Early control and breakthrough Istanbul Basaksehir wasted little time asserting their authority. Just 14 minutes into the match, the deadlock was broken when Christopher Operi found the back of the net, clinical finish assisted by Abbosbek Fayzullayev . This early goal forced Kocaelispor into a more defensive posture, as they struggled to break through the disciplined lines of their hosts throughout the first half. Sealing the deal Returning from the tunnel for the second half, the game intensified as both sides traded tactical adjustments. The decisive moment came in the 72nd minute; Eldor Shomurodov doubled the lead for the hosts, courtesy of a well-timed assist from Andreas Skov Olsen . Despite a flurry of substitutions in the final stages, Istanbul Basaksehir managed the clock effectively to see out the result, maintaining their composure through a flurry of late yellow cards to secure the points."
-    },
-    {
-      "title": "Kocaelispor - Amed SF",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/kocaelispor-amed-sf-2026-08-24-buxv.webp",
-      "competition": "Süper Lig",
-      "competition_cover": "https://refooty.com/covers/super-lig.webp",
-      "date": "Aug 24, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/3579.webp",
-          "name": "Amed",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/7411.webp",
-          "name": "Kocaelispor",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/kocaelispor-amed-sf-2026-08-24.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Kocaelispor",
-          "player": "B. Kutlu",
-          "event_type": "Goal",
-          "assist": "A. Dijksteel",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Amed",
-          "player": "L. Dellova",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Amed",
-          "player": "A. Lafont",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Kocaelispor",
-          "player": "M. Maglica",
-          "event_type": "Goal",
-          "assist": "U. K. Yildiz",
-          "score_update": "2 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Kocaelispor_wins": "1",
-          "draws": "0",
-          "Amed_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "08/02/2025",
-            "competition": "1st Lig",
-            "teams_and_score": "Kocaelispor 1 - 0 Amed Sportif"
-          },
-          {
-            "date": "24/03/2021",
-            "competition": "2nd Lig: White Group",
-            "teams_and_score": "Kocaelispor 1 - 2 Amed Sportif"
-          }
-        ],
-        "home_team_form": {
-          "team": "Kocaelispor",
-          "form": [
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "24/08/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Kocaelispor 2 - 0 Amed Sportif",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Antalyaspor 1 - 0 Kocaelispor",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Amed",
-          "form": [
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "24/08/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Kocaelispor 2 - 0 Amed Sportif",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "1st Lig",
-              "teams_and_score": "Igdir FK 3 - 3 Amed Sportif",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Kocaelispor": "3",
-          "Amed": "1"
-        },
-        "shots_off_target": {
-          "Kocaelispor": "5",
-          "Amed": "4"
-        },
-        "shots_blocked": {
-          "Kocaelispor": "3",
-          "Amed": "6"
-        },
-        "corners": {
-          "Kocaelispor": "3",
-          "Amed": "6"
-        },
-        "fouls": {
-          "Kocaelispor": "9",
-          "Amed": "16"
-        },
-        "offsides": {
-          "Kocaelispor": "1",
-          "Amed": "1"
-        },
-        "yellow_cards": {
-          "Kocaelispor": "0",
-          "Amed": "2"
-        },
-        "goalkeeper_saves": {
-          "Kocaelispor": "1",
-          "Amed": "1"
-        },
-        "ball_possession": {
-          "Kocaelispor": "44%",
-          "Amed": "56%"
-        }
-      },
-      "description": "Watch Kocaelispor vs Amed highlights and goals from Süper Lig on ReFooty: Football Highlights Hub. Match played on August 24, 2026. The atmosphere was charged with anticipation for this Süper Lig encounter, a match defined by tactical discipline and persistent effort from both sides. Taking place on August 24, 2026 , the game evolved into a battle of nerves, with neither team willing to concede an inch until the final whistle. Early breakthrough The match opened with high intensity, as both sides looked to establish control. The Kocaelispor faithful found something to cheer about early in the first half when Anfernee Dijksteel delivered a pinpoint assist to Berkan Kutlu in the 16th minute. Kutlu made no mistake, firing his team into the lead and forcing the opposition to chase the game for the remainder of the afternoon. Late drama in the closing stages As the second half progressed, both managers looked to the bench to inject fresh energy into their squads. The intensity boiled over in the 86th minute, resulting in yellow cards for Alban Lafont and Lumbardh Dellova during a scrappy phase of play. However, just as the game appeared to be drifting away from them, Amed SF found their breakthrough. In the 87th minute, Ugur Yildiz set up Matej Maglica , who clinically found the target to level the playing field and salvage a crucial result in the dying moments."
     }
   ]
 }

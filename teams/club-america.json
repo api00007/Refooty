@@ -1,91 +1,146 @@
 {
   "team": "Club America",
   "team_logo": "https://img.refooty.com/logo/teams/2287.webp",
-  "total_matches": 3,
-  "Last update time": "04:20:38 AM 05-09-2026",
+  "total_matches": 4,
+  "Last update time": "05:35:06 AM 05-09-2026",
   "matches": [
     {
-      "title": "Club América - Portland Timbers | Leagues Cup | Full Match Highlights",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/club-america-portland-timbers-leagues-cup-full-match-highlights-2026-08-10-3fWn.webp",
+      "title": "Club América - Columbus Crew | Leagues Cup | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/club-america-columbus-crew-leagues-cup-full-match-highlights-2026-08-27-HXGO.webp",
       "competition": "Unknown Competition",
       "competition_cover": "",
-      "date": "Aug 10, 2026",
+      "date": "Aug 27, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1617.webp",
-          "name": "Portland Timbers",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/1613.webp",
+          "name": "Columbus Crew",
+          "score": "1"
         },
         "home_team": {
           "logo": "https://img.refooty.com/logo/teams/2287.webp",
           "name": "Club America",
-          "score": "3"
+          "score": "1"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/club-america-portland-timbers-leagues-cup-full-match-highlights-2026-08-10_VDCj3.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/club-america-columbus-crew-leagues-cup-full-match-highlights-2026-08-27.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
           "team": "Club America",
-          "player": "S. Gomez",
+          "player": "Evander",
           "event_type": "Goal",
-          "assist": "P. Rothrock",
           "score_update": "1 - 0"
         },
         {
           "time": "16'",
-          "team": "Club America",
-          "player": "D. Musovski",
-          "event_type": "Goal",
-          "assist": "P. Rothrock",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Club America",
-          "player": "M. Anchor",
+          "team": "Columbus Crew",
+          "player": "R. Sailor",
           "event_type": "Yellow Card"
         },
         {
           "time": "46'",
-          "team": "Portland Timbers",
-          "player": "S. Homenchenko",
+          "team": "Club America",
+          "player": "B. Ramirez",
           "event_type": "Yellow Card"
         },
         {
           "time": "61'",
-          "team": "Club America",
-          "player": "A. Rusnak",
+          "team": "Columbus Crew",
+          "player": "P. Kingston",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Columbus Crew",
+          "player": "K. Kossa-Rienzi",
           "event_type": "Goal",
-          "assist": "S. Gomez",
-          "score_update": "3 - 0"
+          "assist": "A. Rusnak",
+          "score_update": "1 - 1"
         }
       ],
       "head_to_head": {
         "summary": {
           "Club America_wins": "0",
-          "draws": "0",
-          "Portland Timbers_wins": "0"
+          "draws": "1",
+          "Columbus Crew_wins": "2"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "12/03/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "FC Cincinnati 1 - 0 Seattle Sounders FC"
+          },
+          {
+            "date": "28/09/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Seattle Sounders FC 1 - 1 FC Cincinnati"
+          },
+          {
+            "date": "03/03/2019",
+            "competition": "Major League Soccer",
+            "teams_and_score": "Seattle Sounders FC 4 - 1 FC Cincinnati"
+          }
+        ],
         "home_team_form": {
           "team": "Club America",
           "form": [
+            "D",
+            "W",
             "L",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "09/08/2026",
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "FC Cincinnati 1 - 1 Seattle Sounders FC",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
               "competition": "Leagues Cup",
-              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
+              "teams_and_score": "FC Cincinnati 1 - 2 Atlas",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "FC Cincinnati 4 - 2 San Jose Earthquakes",
               "result": "L"
+            },
+            {
+              "date": "10/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Cincinnati 3 - 1 Burnley",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Columbus Crew",
+          "form": [
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "FC Cincinnati 1 - 1 Seattle Sounders FC",
+              "result": "D"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
+              "result": "W"
             },
             {
               "date": "02/08/2026",
@@ -94,38 +149,47 @@
               "result": "L"
             }
           ]
-        },
-        "away_team_form": {
-          "team": "Portland Timbers",
-          "form": [
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Liga MX: Apertura",
-              "teams_and_score": "Queretaro FC 3 - 2 Tigres",
-              "result": "L"
-            },
-            {
-              "date": "25/04/2026",
-              "competition": "Liga MX: Clausura",
-              "teams_and_score": "Puebla 1 - 2 Queretaro FC",
-              "result": "W"
-            }
-          ]
         }
       },
-      "statistics": {},
-      "description": "Watch Club America vs Portland Timbers highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 10, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Club America": "9",
+          "Columbus Crew": "3"
+        },
+        "shots_off_target": {
+          "Club America": "5",
+          "Columbus Crew": "4"
+        },
+        "shots_blocked": {
+          "Club America": "3",
+          "Columbus Crew": "3"
+        },
+        "corners": {
+          "Club America": "9",
+          "Columbus Crew": "4"
+        },
+        "fouls": {
+          "Club America": "7",
+          "Columbus Crew": "14"
+        },
+        "offsides": {
+          "Club America": "2",
+          "Columbus Crew": "1"
+        },
+        "yellow_cards": {
+          "Club America": "1",
+          "Columbus Crew": "2"
+        },
+        "goalkeeper_saves": {
+          "Club America": "2",
+          "Columbus Crew": "7"
+        },
+        "ball_possession": {
+          "Club America": "70%",
+          "Columbus Crew": "30%"
+        }
+      },
+      "description": "Watch Club America vs Columbus Crew highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 27, 2026. The intensity of Major League Soccer was on full display this August 27, 2026, as Seattle Sounders FC featured in a gripping encounter. Fans at the stadium were treated to a tactical chess match that remained unpredictable until the very last whistle. Early Breakthrough and Physical Battle The match started with both sides testing each other's defensive lines, but the deadlock was broken in the 24th minute. Evander Ferreira found the back of the net with a clinical finish, shifting the momentum early in the game. As the contest grew more physical, the referee was forced to reach for his pocket, issuing a yellow card to Ryan Sailor in the 38th minute. The first half drew to a close with a narrow lead, setting the stage for a dramatic second period. Tactical Shifts and Rising Pressure As the second half got underway, managers looked to their benches to inject fresh energy. Notable changes included the introduction of Nouhou Tolo and Danny Musovski around the hour mark. The referee remained busy as the intensity spiked, booking both Bryan Ramirez and Peter Kingston for mistimed challenges. The entry of Albert Rusnak in the 77th minute proved to be an inspired substitution, as his creativity immediately began to trouble the opposition defense. Rienzi Grabs the Equalizer The persistence of the attacking efforts paid off in the 83rd minute. Albert Rusnak turned provider, delivering a precise ball to Kalani Rienzi , who made no mistake in slotting home the equalizer. The final minutes were a whirlwind of activity, with Kee-Hee Kim coming on during stoppage time to ensure defensive stability. After five minutes of added time, the referee blew for full-time, ending a hard-fought contest where both teams walked away with a share of the spoils."
     },
     {
       "title": "Club América - San Diego | Leagues Cup | Full Match Highlights",
@@ -371,6 +435,129 @@
       },
       "statistics": {},
       "description": "Watch Club America vs Austin FC highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 14, 2026."
+    },
+    {
+      "title": "Club América - Portland Timbers | Leagues Cup | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/club-america-portland-timbers-leagues-cup-full-match-highlights-2026-08-10-3fWn.webp",
+      "competition": "Unknown Competition",
+      "competition_cover": "",
+      "date": "Aug 10, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1617.webp",
+          "name": "Portland Timbers",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/2287.webp",
+          "name": "Club America",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/club-america-portland-timbers-leagues-cup-full-match-highlights-2026-08-10_VDCj3.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Club America",
+          "player": "S. Gomez",
+          "event_type": "Goal",
+          "assist": "P. Rothrock",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Club America",
+          "player": "D. Musovski",
+          "event_type": "Goal",
+          "assist": "P. Rothrock",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Club America",
+          "player": "M. Anchor",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Portland Timbers",
+          "player": "S. Homenchenko",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Club America",
+          "player": "A. Rusnak",
+          "event_type": "Goal",
+          "assist": "S. Gomez",
+          "score_update": "3 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Club America_wins": "0",
+          "draws": "0",
+          "Portland Timbers_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Club America",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Portland Timbers",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Liga MX: Apertura",
+              "teams_and_score": "Queretaro FC 3 - 2 Tigres",
+              "result": "L"
+            },
+            {
+              "date": "25/04/2026",
+              "competition": "Liga MX: Clausura",
+              "teams_and_score": "Puebla 1 - 2 Queretaro FC",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Club America vs Portland Timbers highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 10, 2026."
     }
   ]
 }

@@ -1,9 +1,218 @@
 {
   "team": "Sparta Rotterdam",
   "team_logo": "https://img.refooty.com/logo/teams/426.webp",
-  "total_matches": 1,
-  "Last update time": "04:20:38 AM 05-09-2026",
+  "total_matches": 2,
+  "Last update time": "05:35:06 AM 05-09-2026",
   "matches": [
+    {
+      "title": "Sparta Rotterdam vs Utrecht",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sparta-rotterdam-vs-utrecht-2026-08-22-MhM1.webp",
+      "competition": "Eredivisie",
+      "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/207.webp",
+          "name": "Utrecht",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/426.webp",
+          "name": "Sparta Rotterdam",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/sparta-rotterdam-vs-utrecht-2026-08-22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Utrecht",
+          "player": "M. Didden",
+          "event_type": "Goal",
+          "assist": "Y. Cathline",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Sparta Rotterdam",
+          "player": "M. Young",
+          "event_type": "Goal",
+          "assist": "B. Kuipers",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Utrecht",
+          "player": "A. Stepanov",
+          "event_type": "Goal",
+          "assist": "N. Vesterlund",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "67'",
+          "team": "Sparta Rotterdam",
+          "player": "M. Zonneveld",
+          "event_type": "Goal",
+          "assist": "S. Mito",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Utrecht",
+          "player": "A. Blake",
+          "event_type": "Goal",
+          "score_update": "2 - 3"
+        },
+        {
+          "time": "90+6'",
+          "team": "Sparta Rotterdam",
+          "player": "N. Verschuren",
+          "event_type": "Goal",
+          "assist": "J. Ideho",
+          "score_update": "3 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Sparta Rotterdam_wins": "2",
+          "draws": "1",
+          "Utrecht_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "25/01/2026",
+            "competition": "Eredivisie",
+            "teams_and_score": "FC Utrecht 0 - 1 Sparta Rotterdam"
+          },
+          {
+            "date": "14/05/2025",
+            "competition": "Eredivisie",
+            "teams_and_score": "FC Utrecht 1 - 1 Sparta Rotterdam"
+          },
+          {
+            "date": "23/05/2024",
+            "competition": "Eredivisie: UECL Play-off 23/24",
+            "teams_and_score": "FC Utrecht 3 - 1 Sparta Rotterdam"
+          },
+          {
+            "date": "12/05/2024",
+            "competition": "Eredivisie 23/24",
+            "teams_and_score": "FC Utrecht 0 - 1 Sparta Rotterdam"
+          },
+          {
+            "date": "04/06/2023",
+            "competition": "Eredivisie: UECL Play-off",
+            "teams_and_score": "Sparta Rotterdam 0 - 1 FC Utrecht"
+          },
+          {
+            "date": "24/02/2023",
+            "competition": "Eredivisie 22/23",
+            "teams_and_score": "Sparta Rotterdam 0 - 3 FC Utrecht"
+          }
+        ],
+        "home_team_form": {
+          "team": "Sparta Rotterdam",
+          "form": [
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "Sparta Rotterdam 3 - 3 FC Utrecht",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sparta Rotterdam 0 - 0 MSV Duisburg",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Utrecht",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "Sparta Rotterdam 3 - 3 FC Utrecht",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "FC Utrecht 0 - 1 Sevilla",
+              "result": "L"
+            },
+            {
+              "date": "24/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cambuur 0 - 1 FC Utrecht",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Eredivisie: UECL Play-off",
+              "teams_and_score": "Ajax 1 - 1 FC Utrecht",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sparta Rotterdam": "5",
+          "Utrecht": "4"
+        },
+        "shots_off_target": {
+          "Sparta Rotterdam": "6",
+          "Utrecht": "5"
+        },
+        "shots_blocked": {
+          "Sparta Rotterdam": "3",
+          "Utrecht": "7"
+        },
+        "corners": {
+          "Sparta Rotterdam": "5",
+          "Utrecht": "7"
+        },
+        "fouls": {
+          "Sparta Rotterdam": "10",
+          "Utrecht": "13"
+        },
+        "offsides": {
+          "Sparta Rotterdam": "1",
+          "Utrecht": "2"
+        },
+        "goalkeeper_saves": {
+          "Sparta Rotterdam": "1",
+          "Utrecht": "2"
+        },
+        "crosses": {
+          "Sparta Rotterdam": "8",
+          "Utrecht": "7"
+        },
+        "ball_possession": {
+          "Sparta Rotterdam": "56%",
+          "Utrecht": "44%"
+        }
+      },
+      "description": "Watch Sparta Rotterdam vs Utrecht highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on August 22, 2026. A Thrilling Contest in the Eredivisie The air was electric as both teams stepped onto the pitch for an Eredivisie fixture that promised to challenge their tactical discipline and attacking intent. On August 22, 2026, Sparta Rotterdam and FC Utrecht faced off in a match that would keep fans on the edge of their seats until the final whistle. A First-Half Exchange FC Utrecht drew first blood in the 16th minute when Matisse Didden rose high to power a header into the net. Sparta Rotterdam refused to be cowed by the early setback and worked their way back into the game. Just before the halftime whistle, Marvin Young found space to connect with a cross, sending a header home to restore parity and send both teams into the break on level terms. Momentum Swings in the Second Half The second period proved to be a whirlwind of activity. Barely a minute after the restart, Artem Stepanov capitalized on an assist from Niklas Vesterlund to put the visitors back in front with a sharp left-footed strike. The hosts responded in the 67th minute, with Milan Zonneveld showing clinical composure to score and level the proceedings once more. Yet, the drama deepened when Adrian Blake restored the lead for FC Utrecht in the 76th minute, leaving the hosts searching for a late answer. Last-Gasp Drama With 10,121 spectators watching on, Sparta Rotterdam pressed aggressively during the seven minutes of added time. Their persistence bore fruit in the 90+6 minute. Joel Ideho delivered a perfectly weighted ball to Nick Verschuren , who headed home the equalizer to secure a dramatic 3-3 draw, capping off an unforgettable evening of football ."
+    },
     {
       "title": "Sparta Rotterdam vs Feyenoord",
       "thumbnail_url": "https://img.refooty.com/thumbnail/sparta-rotterdam-vs-feyenoord-2026-08-09-wh4u.webp",

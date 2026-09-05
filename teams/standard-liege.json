@@ -1,20 +1,217 @@
 {
   "team": "Standard Liege",
   "team_logo": "https://img.refooty.com/logo/teams/733.webp",
-  "total_matches": 4,
-  "Last update time": "04:20:38 AM 05-09-2026",
+  "total_matches": 5,
+  "Last update time": "05:35:05 AM 05-09-2026",
   "matches": [
     {
-      "title": "Standard de Liège - Cercle Brugge",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/standard-de-liege-cercle-brugge-2026-08-10-q3bT.webp",
+      "title": "OH Leuven - St. Liège - 2026-2027",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/oh-leuven-st-liege-2026-2027-2026-08-31-Ge7t.webp",
       "competition": "Jupiler Pro League",
       "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
-      "date": "Aug 10, 2026",
+      "date": "Aug 31, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/741.webp",
-          "name": "Cercle Brugge",
+          "logo": "https://img.refooty.com/logo/teams/733.webp",
+          "name": "Standard Liege",
           "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/260.webp",
+          "name": "OH Leuven",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/oh-leuven-st-liege-2026-2027-2026-08-31.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Standard Liege",
+          "player": "C. Nielsen",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "52'",
+          "team": "OH Leuven",
+          "player": "R. Nyakossi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "66'",
+          "team": "OH Leuven",
+          "player": "W. George",
+          "event_type": "Goal",
+          "assist": "C. Ikwuemesi",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "68'",
+          "team": "Standard Liege",
+          "player": "D. E. Ayensa",
+          "event_type": "Goal",
+          "assist": "A. Abid",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Standard Liege",
+          "player": "C. Nielsen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "OH Leuven",
+          "player": "S. Schrijvers",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Standard Liege",
+          "player": "M. Epolo",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "OH Leuven_wins": "1",
+          "draws": "2",
+          "Standard Liege_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "08/05/2026",
+            "competition": "Belgian Pro League Playoff: Conference League Group",
+            "teams_and_score": "Standard Liege 2 - 1 Oud-Heverlee Leuven"
+          },
+          {
+            "date": "12/12/2025",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Standard Liege 0 - 1 Oud-Heverlee Leuven"
+          },
+          {
+            "date": "26/04/2025",
+            "competition": "Belgian Pro League: UECL Group",
+            "teams_and_score": "Oud-Heverlee Leuven 1 - 1 Standard Liege"
+          },
+          {
+            "date": "07/12/2024",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Standard Liege 1 - 1 Oud-Heverlee Leuven"
+          },
+          {
+            "date": "05/05/2024",
+            "competition": "Belgian Pro League: UECL Group 23/24",
+            "teams_and_score": "Oud-Heverlee Leuven 3 - 1 Standard Liege"
+          }
+        ],
+        "home_team_form": {
+          "team": "OH Leuven",
+          "form": [
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Oud-Heverlee Leuven 1 - 2 Standard Liege",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Oud-Heverlee Leuven 3 - 6 Lille",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Belgian Pro League Playoff: Conference League Group",
+              "teams_and_score": "Oud-Heverlee Leuven 0 - 2 Genk",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Standard Liege",
+          "form": [
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Oud-Heverlee Leuven 1 - 2 Standard Liege",
+              "result": "W"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Standard Liege 2 - 1 RFC Seraing",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "OH Leuven": "3",
+          "Standard Liege": "3"
+        },
+        "shots_off_target": {
+          "OH Leuven": "8",
+          "Standard Liege": "2"
+        },
+        "shots_blocked": {
+          "OH Leuven": "11",
+          "Standard Liege": "0"
+        },
+        "corners": {
+          "OH Leuven": "6",
+          "Standard Liege": "3"
+        },
+        "fouls": {
+          "OH Leuven": "7",
+          "Standard Liege": "8"
+        },
+        "offsides": {
+          "OH Leuven": "3",
+          "Standard Liege": "5"
+        },
+        "yellow_cards": {
+          "OH Leuven": "2",
+          "Standard Liege": "2"
+        },
+        "goalkeeper_saves": {
+          "OH Leuven": "1",
+          "Standard Liege": "2"
+        },
+        "ball_possession": {
+          "OH Leuven": "63%",
+          "Standard Liege": "37%"
+        }
+      },
+      "description": "Watch OH Leuven vs Standard Liege highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 31, 2026."
+    },
+    {
+      "title": "Standard de Liège - RAAL - 2026-2027",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/standard-de-liege-raal-2026-2027-2026-08-24-86Kd.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Aug 24, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/5902.webp",
+          "name": "RAAL La Louvière",
+          "score": "0"
         },
         "home_team": {
           "logo": "https://img.refooty.com/logo/teams/733.webp",
@@ -26,100 +223,76 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/standard-de-liege-cercle-brugge-2026-08-10_7TsuW.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/standard-de-liege-raal-2026-2027-2026-08-24.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "33'",
-          "team": "Standard Liege",
-          "player": "A. Abid",
+          "time": "1'",
+          "team": "RAAL La Louvière",
+          "player": "Y. Okou",
           "event_type": "Yellow Card"
-        },
-        {
-          "time": "38'",
-          "team": "Cercle Brugge",
-          "player": "V. Konate",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "41'",
-          "team": "Cercle Brugge",
-          "player": "L. Mondele",
-          "event_type": "Goal",
-          "assist": "D. Vanzeir",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "45+5'",
-          "team": "Standard Liege",
-          "player": "D. E. Ayensa",
-          "event_type": "Goal",
-          "assist": "A. Abid",
-          "score_update": "1 - 1"
         },
         {
           "time": "46'",
           "team": "Standard Liege",
-          "player": "D. E. Ayensa",
-          "event_type": "Goal",
-          "assist": "C. Nielsen",
-          "score_update": "2 - 1"
+          "player": "A. Trouillet",
+          "event_type": "Yellow Card"
         },
         {
-          "time": "61'",
-          "team": "Cercle Brugge",
-          "player": "C. Ravych",
+          "time": "68'",
+          "team": "Standard Liege",
+          "player": "S. Drammeh",
           "event_type": "Goal",
-          "score_update": "2 - 2"
+          "assist": "B. Nguene",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "71'",
+          "team": "RAAL La Louvière",
+          "player": "M. N. Wade",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "73'",
+          "team": "Standard Liege",
+          "player": "S. Drammeh",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "90+1'",
+          "team": "RAAL La Louvière",
+          "player": "Y. Okou",
+          "event_type": "Red Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Standard Liege_wins": "1",
-          "draws": "3",
-          "Cercle Brugge_wins": "1"
+          "Standard Liege_wins": "0",
+          "draws": "1",
+          "RAAL La Louvière_wins": "0"
         },
         "previous_matches": [
           {
-            "date": "06/12/2025",
+            "date": "27/02/2026",
             "competition": "Belgian Pro League",
-            "teams_and_score": "Cercle Brugge 1 - 2 Standard Liege"
-          },
-          {
-            "date": "01/02/2025",
-            "competition": "Belgian Pro League",
-            "teams_and_score": "Cercle Brugge 1 - 1 Standard Liege"
-          },
-          {
-            "date": "26/01/2024",
-            "competition": "Belgian Pro League 23/24",
-            "teams_and_score": "Cercle Brugge 1 - 1 Standard Liege"
-          },
-          {
-            "date": "27/05/2023",
-            "competition": "Belgian Pro League: UECL Group 22/23",
-            "teams_and_score": "Standard Liege 0 - 4 Cercle Brugge"
-          },
-          {
-            "date": "04/02/2023",
-            "competition": "Belgian Pro League 22/23",
-            "teams_and_score": "Cercle Brugge 1 - 1 Standard Liege"
+            "teams_and_score": "Standard Liege 1 - 1 Raal La Louviere"
           }
         ],
         "home_team_form": {
           "team": "Standard Liege",
           "form": [
-            "D",
+            "W",
             "W",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "08/08/2026",
+              "date": "21/08/2026",
               "competition": "Belgian Pro League",
-              "teams_and_score": "Standard Liege 2 - 2 Cercle Brugge",
-              "result": "D"
+              "teams_and_score": "Standard Liege 2 - 0 Raal La Louviere",
+              "result": "W"
             },
             {
               "date": "26/07/2026",
@@ -136,23 +309,23 @@
           ]
         },
         "away_team_form": {
-          "team": "Cercle Brugge",
+          "team": "RAAL La Louvière",
           "form": [
-            "D",
+            "L",
             "D",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "08/08/2026",
+              "date": "21/08/2026",
               "competition": "Belgian Pro League",
-              "teams_and_score": "Standard Liege 2 - 2 Cercle Brugge",
-              "result": "D"
+              "teams_and_score": "Standard Liege 2 - 0 Raal La Louviere",
+              "result": "L"
             },
             {
-              "date": "31/07/2026",
+              "date": "01/08/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "AS Monaco 2 - 2 Cercle Brugge",
+              "teams_and_score": "Eintracht Braunschweig 0 - 0 Raal La Louviere",
               "result": "D"
             },
             {
@@ -166,43 +339,47 @@
       },
       "statistics": {
         "shots_on_target": {
-          "Standard Liege": "6",
-          "Cercle Brugge": "2"
+          "Standard Liege": "4",
+          "RAAL La Louvière": "5"
         },
         "shots_off_target": {
-          "Standard Liege": "8",
-          "Cercle Brugge": "10"
+          "Standard Liege": "6",
+          "RAAL La Louvière": "6"
         },
         "shots_blocked": {
-          "Standard Liege": "6",
-          "Cercle Brugge": "5"
+          "Standard Liege": "1",
+          "RAAL La Louvière": "1"
         },
         "corners": {
-          "Standard Liege": "7",
-          "Cercle Brugge": "11"
+          "Standard Liege": "5",
+          "RAAL La Louvière": "1"
         },
         "fouls": {
-          "Standard Liege": "9",
-          "Cercle Brugge": "13"
+          "Standard Liege": "10",
+          "RAAL La Louvière": "13"
         },
         "offsides": {
-          "Standard Liege": "0",
-          "Cercle Brugge": "1"
+          "Standard Liege": "3",
+          "RAAL La Louvière": "5"
         },
         "yellow_cards": {
           "Standard Liege": "1",
-          "Cercle Brugge": "1"
+          "RAAL La Louvière": "2"
+        },
+        "red_cards": {
+          "Standard Liege": "0",
+          "RAAL La Louvière": "1"
         },
         "goalkeeper_saves": {
-          "Standard Liege": "0",
-          "Cercle Brugge": "2"
+          "Standard Liege": "5",
+          "RAAL La Louvière": "2"
         },
         "ball_possession": {
-          "Standard Liege": "56%",
-          "Cercle Brugge": "44%"
+          "Standard Liege": "64%",
+          "RAAL La Louvière": "36%"
         }
       },
-      "description": "Watch Standard Liege vs Cercle Brugge highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 10, 2026. The Jupiler Pro League delivered another captivating chapter on August 10, 2026, as Standard Liège and Cercle Brugge faced off in a high-stakes encounter. Both sets of supporters expected a tactical battle, and the players on the pitch certainly lived up to the billing. Early Intensity and the Breakthrough The match began with a physical edge, as the referee was called into action early to maintain control. Adnane Abid and Valy Konate both received yellow cards in the first 40 minutes as challenges flew in. The deadlock was finally broken in the 41st minute when Dante Vanzeir turned provider, setting up Lukas Mondele for a clinical finish that gave the home side the momentum. Eckert Takes Control Just as the first half drew to a close, the game shifted dramatically. In the fifth minute of added time, Adnane Abid found Dennis Eckert , who made no mistake in doubling the lead. The interval did little to slow the home side's rhythm, as Eckert struck again in the 48th minute. Assisted by Casper Nielsen , the forward secured his second goal of the match, effectively putting the contest out of reach for the visitors. Late Response and Final Whistle The closing stages saw a flurry of substitutions as both managers looked to adjust their tactics. Cercle Brugge continued to fight and managed to pull a goal back in the 88th minute through Christiaan Ravych , but it proved to be a mere consolation. The referee brought the proceedings to a halt in the 91st minute, confirming a dominant performance for the hosts in a match defined by clinical finishing and tactical discipline."
+      "description": "Watch Standard Liege vs RAAL La Louvière highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 24, 2026. The Jupiler Pro League season continued with a high-stakes encounter as Standard Liege hosted Lommel United . Both teams entered the pitch on August 24, 2026, determined to claim a vital victory in front of a passionate crowd. A Tactical Stalemate in the Opening Half The first half was characterized by defensive discipline and tactical awareness from both sides. Standard Liege sought to dictate the tempo, but Lommel United remained compact, closing down spaces effectively. The physical nature of the contest became apparent in the 34th minute when Yllan Okou received the game's first yellow card for a late challenge. Despite several promising build-ups, clear-cut chances were at a premium, and the referee blew for half-time with the scoreline still level. Drammeh’s Explosive Introduction The second half began with immediate intensity as Alexis Trouillet picked up a yellow card just a minute after the restart. The match reached its turning point in the 62nd minute when Salieu Drammeh was introduced as a substitute for Dennis Eckert . This proved to be a masterstroke by the coaching staff. In the 68th minute, Bernard Nguene delivered a perfectly weighted pass to Drammeh , who clinicaly finished to break the deadlock and make it 1-0. Sensing blood, Standard Liege struck again almost immediately. In the 73rd minute, the red-hot Salieu Drammeh found the back of the net for the second time in five minutes, doubling the lead and leaving the visitors stunned. His clinical finishing completely altered the momentum of the game, providing the hosts with a comfortable cushion heading into the final stages. Late Drama and the Final Whistle As the clock ticked down, Lommel United struggled to find a way back into the contest despite a flurry of tactical substitutions. Their frustrations boiled over in stoppage time when Yllan Okou received his second yellow card in the 91st minute, resulting in a red card. With a man advantage and a two-goal lead, Standard Liege comfortably saw out the remaining minutes to secure all three points, leaving their fans celebrating a dominant second-half performance."
     },
     {
       "title": "KV Mechelen - Standard de Liège - 2026-2027",
@@ -521,16 +698,16 @@
       "description": "Watch Standard Liege vs Juventus highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 26, 2026."
     },
     {
-      "title": "Standard de Liège - RAAL - 2026-2027",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/standard-de-liege-raal-2026-2027-2026-08-24-C0jn.webp",
+      "title": "Standard de Liège - Cercle Brugge",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/standard-de-liege-cercle-brugge-2026-08-10-q3bT.webp",
       "competition": "Jupiler Pro League",
       "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
-      "date": "Aug 24, 2026",
+      "date": "Aug 10, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/259.webp",
-          "name": "Lommel United",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/741.webp",
+          "name": "Cercle Brugge",
+          "score": "2"
         },
         "home_team": {
           "logo": "https://img.refooty.com/logo/teams/733.webp",
@@ -542,76 +719,100 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/standard-de-liege-raal-2026-2027-2026-08-24.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/standard-de-liege-cercle-brugge-2026-08-10_7TsuW.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "1'",
-          "team": "Lommel United",
-          "player": "Y. Okou",
+          "time": "33'",
+          "team": "Standard Liege",
+          "player": "A. Abid",
           "event_type": "Yellow Card"
+        },
+        {
+          "time": "38'",
+          "team": "Cercle Brugge",
+          "player": "V. Konate",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "41'",
+          "team": "Cercle Brugge",
+          "player": "L. Mondele",
+          "event_type": "Goal",
+          "assist": "D. Vanzeir",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "45+5'",
+          "team": "Standard Liege",
+          "player": "D. E. Ayensa",
+          "event_type": "Goal",
+          "assist": "A. Abid",
+          "score_update": "1 - 1"
         },
         {
           "time": "46'",
           "team": "Standard Liege",
-          "player": "A. Trouillet",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "68'",
-          "team": "Standard Liege",
-          "player": "S. Drammeh",
+          "player": "D. E. Ayensa",
           "event_type": "Goal",
-          "assist": "B. Nguene",
-          "score_update": "1 - 0"
+          "assist": "C. Nielsen",
+          "score_update": "2 - 1"
         },
         {
-          "time": "71'",
-          "team": "Lommel United",
-          "player": "M. N. Wade",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "73'",
-          "team": "Standard Liege",
-          "player": "S. Drammeh",
+          "time": "61'",
+          "team": "Cercle Brugge",
+          "player": "C. Ravych",
           "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "90+1'",
-          "team": "Lommel United",
-          "player": "Y. Okou",
-          "event_type": "Red Card"
+          "score_update": "2 - 2"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Standard Liege_wins": "0",
-          "draws": "1",
-          "Lommel United_wins": "0"
+          "Standard Liege_wins": "1",
+          "draws": "3",
+          "Cercle Brugge_wins": "1"
         },
         "previous_matches": [
           {
-            "date": "27/02/2026",
+            "date": "06/12/2025",
             "competition": "Belgian Pro League",
-            "teams_and_score": "Standard Liege 1 - 1 Raal La Louviere"
+            "teams_and_score": "Cercle Brugge 1 - 2 Standard Liege"
+          },
+          {
+            "date": "01/02/2025",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Cercle Brugge 1 - 1 Standard Liege"
+          },
+          {
+            "date": "26/01/2024",
+            "competition": "Belgian Pro League 23/24",
+            "teams_and_score": "Cercle Brugge 1 - 1 Standard Liege"
+          },
+          {
+            "date": "27/05/2023",
+            "competition": "Belgian Pro League: UECL Group 22/23",
+            "teams_and_score": "Standard Liege 0 - 4 Cercle Brugge"
+          },
+          {
+            "date": "04/02/2023",
+            "competition": "Belgian Pro League 22/23",
+            "teams_and_score": "Cercle Brugge 1 - 1 Standard Liege"
           }
         ],
         "home_team_form": {
           "team": "Standard Liege",
           "form": [
-            "W",
+            "D",
             "W",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "21/08/2026",
+              "date": "08/08/2026",
               "competition": "Belgian Pro League",
-              "teams_and_score": "Standard Liege 2 - 0 Raal La Louviere",
-              "result": "W"
+              "teams_and_score": "Standard Liege 2 - 2 Cercle Brugge",
+              "result": "D"
             },
             {
               "date": "26/07/2026",
@@ -628,23 +829,23 @@
           ]
         },
         "away_team_form": {
-          "team": "Lommel United",
+          "team": "Cercle Brugge",
           "form": [
-            "L",
+            "D",
             "D",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "21/08/2026",
+              "date": "08/08/2026",
               "competition": "Belgian Pro League",
-              "teams_and_score": "Standard Liege 2 - 0 Raal La Louviere",
-              "result": "L"
+              "teams_and_score": "Standard Liege 2 - 2 Cercle Brugge",
+              "result": "D"
             },
             {
-              "date": "01/08/2026",
+              "date": "31/07/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Eintracht Braunschweig 0 - 0 Raal La Louviere",
+              "teams_and_score": "AS Monaco 2 - 2 Cercle Brugge",
               "result": "D"
             },
             {
@@ -658,47 +859,43 @@
       },
       "statistics": {
         "shots_on_target": {
-          "Standard Liege": "4",
-          "Lommel United": "5"
+          "Standard Liege": "6",
+          "Cercle Brugge": "2"
         },
         "shots_off_target": {
-          "Standard Liege": "6",
-          "Lommel United": "6"
+          "Standard Liege": "8",
+          "Cercle Brugge": "10"
         },
         "shots_blocked": {
-          "Standard Liege": "1",
-          "Lommel United": "1"
+          "Standard Liege": "6",
+          "Cercle Brugge": "5"
         },
         "corners": {
-          "Standard Liege": "5",
-          "Lommel United": "1"
+          "Standard Liege": "7",
+          "Cercle Brugge": "11"
         },
         "fouls": {
-          "Standard Liege": "10",
-          "Lommel United": "13"
+          "Standard Liege": "9",
+          "Cercle Brugge": "13"
         },
         "offsides": {
-          "Standard Liege": "3",
-          "Lommel United": "5"
+          "Standard Liege": "0",
+          "Cercle Brugge": "1"
         },
         "yellow_cards": {
           "Standard Liege": "1",
-          "Lommel United": "2"
-        },
-        "red_cards": {
-          "Standard Liege": "0",
-          "Lommel United": "1"
+          "Cercle Brugge": "1"
         },
         "goalkeeper_saves": {
-          "Standard Liege": "5",
-          "Lommel United": "2"
+          "Standard Liege": "0",
+          "Cercle Brugge": "2"
         },
         "ball_possession": {
-          "Standard Liege": "64%",
-          "Lommel United": "36%"
+          "Standard Liege": "56%",
+          "Cercle Brugge": "44%"
         }
       },
-      "description": "Watch Standard Liege vs Lommel United highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 24, 2026. The Jupiler Pro League season continued with a high-stakes encounter as Standard Liege hosted Lommel United . Both teams entered the pitch on August 24, 2026, determined to claim a vital victory in front of a passionate crowd. A Tactical Stalemate in the Opening Half The first half was characterized by defensive discipline and tactical awareness from both sides. Standard Liege sought to dictate the tempo, but Lommel United remained compact, closing down spaces effectively. The physical nature of the contest became apparent in the 34th minute when Yllan Okou received the game's first yellow card for a late challenge. Despite several promising build-ups, clear-cut chances were at a premium, and the referee blew for half-time with the scoreline still level. Drammeh’s Explosive Introduction The second half began with immediate intensity as Alexis Trouillet picked up a yellow card just a minute after the restart. The match reached its turning point in the 62nd minute when Salieu Drammeh was introduced as a substitute for Dennis Eckert . This proved to be a masterstroke by the coaching staff. In the 68th minute, Bernard Nguene delivered a perfectly weighted pass to Drammeh , who clinicaly finished to break the deadlock and make it 1-0. Sensing blood, Standard Liege struck again almost immediately. In the 73rd minute, the red-hot Salieu Drammeh found the back of the net for the second time in five minutes, doubling the lead and leaving the visitors stunned. His clinical finishing completely altered the momentum of the game, providing the hosts with a comfortable cushion heading into the final stages. Late Drama and the Final Whistle As the clock ticked down, Lommel United struggled to find a way back into the contest despite a flurry of tactical substitutions. Their frustrations boiled over in stoppage time when Yllan Okou received his second yellow card in the 91st minute, resulting in a red card. With a man advantage and a two-goal lead, Standard Liege comfortably saw out the remaining minutes to secure all three points, leaving their fans celebrating a dominant second-half performance."
+      "description": "Watch Standard Liege vs Cercle Brugge highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 10, 2026. The Jupiler Pro League delivered another captivating chapter on August 10, 2026, as Standard Liège and Cercle Brugge faced off in a high-stakes encounter. Both sets of supporters expected a tactical battle, and the players on the pitch certainly lived up to the billing. Early Intensity and the Breakthrough The match began with a physical edge, as the referee was called into action early to maintain control. Adnane Abid and Valy Konate both received yellow cards in the first 40 minutes as challenges flew in. The deadlock was finally broken in the 41st minute when Dante Vanzeir turned provider, setting up Lukas Mondele for a clinical finish that gave the home side the momentum. Eckert Takes Control Just as the first half drew to a close, the game shifted dramatically. In the fifth minute of added time, Adnane Abid found Dennis Eckert , who made no mistake in doubling the lead. The interval did little to slow the home side's rhythm, as Eckert struck again in the 48th minute. Assisted by Casper Nielsen , the forward secured his second goal of the match, effectively putting the contest out of reach for the visitors. Late Response and Final Whistle The closing stages saw a flurry of substitutions as both managers looked to adjust their tactics. Cercle Brugge continued to fight and managed to pull a goal back in the 88th minute through Christiaan Ravych , but it proved to be a mere consolation. The referee brought the proceedings to a halt in the 91st minute, confirming a dominant performance for the hosts in a match defined by clinical finishing and tactical discipline."
     }
   ]
 }

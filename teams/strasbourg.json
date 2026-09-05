@@ -1,79 +1,150 @@
 {
   "team": "Strasbourg",
   "team_logo": "https://img.refooty.com/logo/teams/95.webp",
-  "total_matches": 2,
-  "Last update time": "04:20:39 AM 05-09-2026",
+  "total_matches": 3,
+  "Last update time": "05:35:06 AM 05-09-2026",
   "matches": [
     {
-      "title": "Brighton vs Strasbourg",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/brighton-vs-strasbourg-2026-08-01-f6ii.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 1, 2026",
+      "title": "Strasbourg vs Lens",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/strasbourg-v-lens-2026-08-29-o8el.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Aug 29, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/95.webp",
-          "name": "Strasbourg",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/116.webp",
+          "name": "Lens",
+          "score": "1"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/51.webp",
-          "name": "Brighton",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/95.webp",
+          "name": "Strasbourg",
+          "score": "2"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/brighton-vs-strasbourg-2026-08-01_SqqKy.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/Strasbourg_v_Lens_2026_08_29.m3u8"
         }
       ],
-      "events_timeline": [],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Strasbourg",
+          "player": "J. Mitchell",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Lens",
+          "player": "F. Thauvin",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Strasbourg",
+          "player": "G. Yassine",
+          "event_type": "Goal",
+          "assist": "S. Nanasi",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Strasbourg",
+          "player": "J. Ortega",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "76'",
+          "team": "Lens",
+          "player": "F. Ivanović",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Lens",
+          "player": "R. Aguilar",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Strasbourg",
+          "player": "G. Yassine",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Strasbourg",
+          "player": "G. Yassine",
+          "event_type": "Goal",
+          "assist": "S. Nanasi",
+          "score_update": "2 - 1"
+        }
+      ],
       "head_to_head": {
         "summary": {
-          "Brighton_wins": "1",
-          "draws": "0",
-          "Strasbourg_wins": "0"
+          "Strasbourg_wins": "2",
+          "draws": "1",
+          "Lens_wins": "2"
         },
         "previous_matches": [
           {
-            "date": "01/08/2026",
-            "competition": "Featured Club Friendlies",
-            "teams_and_score": "Brighton 4 - 3 Strasbourg"
+            "date": "27/02/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "Strasbourg 1 - 1 Lens"
+          },
+          {
+            "date": "16/02/2025",
+            "competition": "Ligue 1 24/25",
+            "teams_and_score": "Lens 0 - 2 Strasbourg"
+          },
+          {
+            "date": "10/02/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "Lens 3 - 1 Strasbourg"
+          },
+          {
+            "date": "07/04/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Lens 2 - 1 Strasbourg"
+          },
+          {
+            "date": "03/04/2022",
+            "competition": "Ligue 1 21/22",
+            "teams_and_score": "Strasbourg 1 - 0 Lens"
           }
         ],
         "home_team_form": {
-          "team": "Brighton",
+          "team": "Strasbourg",
           "form": [
             "W",
+            "D",
+            "L",
+            "L",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "01/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Brighton 4 - 3 Strasbourg",
+              "date": "29/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Strasbourg 2 - 1 Lens",
               "result": "W"
             },
             {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Brighton 0 - 3 Manchester United",
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Newcastle United 1 - 1 Strasbourg",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Freiburg 2 - 0 Strasbourg",
               "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Strasbourg",
-          "form": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
+            },
             {
               "date": "01/08/2026",
               "competition": "Featured Club Friendlies",
@@ -85,30 +156,88 @@
               "competition": "Club Friendlies 2026",
               "teams_and_score": "Blackburn Rovers 2 - 0 Strasbourg",
               "result": "L"
-            },
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lens",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
             {
-              "date": "20/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Sporting CP 7 - 0 Strasbourg",
+              "date": "29/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Strasbourg 2 - 1 Lens",
               "result": "L"
             },
             {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Strasbourg 5 - 4 AS Monaco",
+              "date": "16/08/2026",
+              "competition": "Trophee des Champions",
+              "teams_and_score": "Lens 1 - 0 Paris Saint-Germain",
               "result": "W"
             },
             {
-              "date": "07/05/2026",
-              "competition": "Semi-Finals",
-              "teams_and_score": "Strasbourg 0 - 1 Rayo Vallecano",
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lens 0 - 2 Sunderland",
               "result": "L"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "Coupe de France",
+              "teams_and_score": "Lens 3 - 1 Nice",
+              "result": "W"
             }
           ]
         }
       },
-      "statistics": {},
-      "description": "Watch Brighton vs Strasbourg highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Strasbourg": "7",
+          "Lens": "7"
+        },
+        "shots_off_target": {
+          "Strasbourg": "6",
+          "Lens": "6"
+        },
+        "shots_blocked": {
+          "Strasbourg": "3",
+          "Lens": "4"
+        },
+        "corners": {
+          "Strasbourg": "3",
+          "Lens": "6"
+        },
+        "fouls": {
+          "Strasbourg": "10",
+          "Lens": "11"
+        },
+        "offsides": {
+          "Strasbourg": "3",
+          "Lens": "3"
+        },
+        "yellow_cards": {
+          "Strasbourg": "2",
+          "Lens": "2"
+        },
+        "goalkeeper_saves": {
+          "Strasbourg": "6",
+          "Lens": "5"
+        },
+        "crosses": {
+          "Strasbourg": "8",
+          "Lens": "9"
+        },
+        "ball_possession": {
+          "Strasbourg": "52%",
+          "Lens": "48%"
+        }
+      },
+      "description": "Watch Strasbourg vs Lens highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on August 29, 2026. On August 29, 2026 , Strasbourg and Lens faced off in a high-stakes Ligue 1 encounter where the drama shifted with every whistle. This clash under the lights promised tension and tactical battles from the very start, as both sides sought to climb the early-season table. Thauvin Breaks the Deadlock The match began with Strasbourg trying to establish dominance, with Giovanni Reyna seeing an early effort blocked. However, the momentum swung toward the visitors in the 36th minute. Jeyland Mitchell was penalized for tripping Abdallah Sima inside the box, earning a yellow card and handing Lens a golden opportunity. Florian Thauvin stepped up to the spot and coolly converted with his left foot, sending Filip Joergensen the wrong way to give Lens a 1-0 lead at the 38-minute mark. Lens looked to consolidate their lead as the first half drew to a close, but Strasbourg remained a persistent threat. The home side struggled to find the final ball, with offside flags and resolute defending from the likes of Matthieu Udol keeping them at bay until the interval. The Yassine Show and VAR Drama The second half saw Strasbourg emerge with renewed energy, and they didn't have to wait long for an equalizer. In the 48th minute, Gessime Yassine found the back of the net with a clinical right-footed finish following an assist from Sebastian Nanasi . The home side thought they had taken the lead ten minutes later when Nanasi headed home, but a lengthy VAR review eventually revoked the goal for offside, keeping the scores level. The final ten minutes were filled with controversy and brilliance. In the 84th minute, Yassine was booked for simulation in the penalty area, but he responded perfectly just sixty seconds later. A brilliant pass from Samuel Amo-Ameyaw set up Yassine , who struck a superb volley into the net. After another tense VAR check, the goal was confirmed in the 86th minute, sparking wild celebrations among the home support. Lens Push for a Late Equalizer As the match entered eight minutes of stoppage time, Lens threw everything forward. Florian Thauvin continued to deliver dangerous corners, and Florian Sotoca nearly snatched a point in the 98th minute with a powerful header. However, Filip Joergensen was well-positioned to make a comfortable save, ensuring that Strasbourg held on for a hard-fought 2-1 victory in a game defined by clinical finishing and technology-driven drama."
     },
     {
       "title": "Olympique Marseille vs Strasbourg",
@@ -337,6 +466,112 @@
         }
       },
       "description": "Watch Marseille vs Strasbourg highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on August 21, 2026. The lights of Ligue 1 shone brightly on August 21, 2026, as Olympique Marseille welcomed Strasbourg for a clash defined by tactical patience and explosive moments. Both sides entered the pitch looking to establish dominance in a match that promised high-octane drama from the opening whistle. A Tense Tactical Opening The first half of this encounter was a story of missed opportunities and defensive resilience. Strasbourg showed early intent, with Samir El Mourabet and Sebastian Nanasi testing the Marseille backline through a series of corners. However, the hosts remained composed, as Emerson attempted to orchestrate play from the flanks. Despite the pressure from both sides, the final ball lacked the precision needed to break the deadlock, leaving the match finely poised as the teams headed into the interval. Gouiri Ignites the Flame The complexion of the game changed instantly at the start of the second half. Just seconds after the restart, Angel Gomes delivered a perfect pass to find Amine Gouiri , who clinically finished with his left foot to give Marseille the lead in the 46th minute. The momentum shifted heavily in favor of the home side, and the situation worsened for Strasbourg in the 59th minute when Samir El Mourabet was shown a straight red card for unsportsmanlike conduct, leaving the visitors to fight with ten men. Clinical Finish at the Velodrome With the numerical advantage, Marseille began to dismantle the opposition. In the 68th minute, a VAR review resulted in a penalty for a foul in the box. Amine Gouiri stepped up and coolly converted his second goal of the night, sending Filip Joergensen the wrong way. As the clock ticked down, the hosts introduced fresh legs, including Keyliane Abdallah , who made an immediate impact by finding the net in the 89th minute with a precise left-footed strike. Stoppage Time Fireworks The drama didn't end there. In the dying moments of stoppage time, Pierre-Emile Hoejbjerg produced a moment of magic, firing a right-footed shot from outside the box into the back of the net to make it 4-0 in the 96th minute. It was a statement performance from Marseille , who controlled 67% of the possession and efficiently exploited their man advantage to secure a comprehensive victory in front of their home supporters. Match Facts Scorers: Amine Gouiri (46', 68' PEN), Keyliane Abdallah (89'), Pierre-Emile Hoejbjerg (90+6'). Dismissals: Samir El Mourabet (Strasbourg) - 59th minute. Possession: Marseille 67% - 33% Strasbourg."
+    },
+    {
+      "title": "Brighton vs Strasbourg",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/brighton-vs-strasbourg-2026-08-01-f6ii.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/95.webp",
+          "name": "Strasbourg",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/51.webp",
+          "name": "Brighton",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/brighton-vs-strasbourg-2026-08-01_SqqKy.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {
+          "Brighton_wins": "1",
+          "draws": "0",
+          "Strasbourg_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "01/08/2026",
+            "competition": "Featured Club Friendlies",
+            "teams_and_score": "Brighton 4 - 3 Strasbourg"
+          }
+        ],
+        "home_team_form": {
+          "team": "Brighton",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Brighton 4 - 3 Strasbourg",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Brighton 0 - 3 Manchester United",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Strasbourg",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Brighton 4 - 3 Strasbourg",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Blackburn Rovers 2 - 0 Strasbourg",
+              "result": "L"
+            },
+            {
+              "date": "20/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sporting CP 7 - 0 Strasbourg",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Strasbourg 5 - 4 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "07/05/2026",
+              "competition": "Semi-Finals",
+              "teams_and_score": "Strasbourg 0 - 1 Rayo Vallecano",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Brighton vs Strasbourg highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
     }
   ]
 }

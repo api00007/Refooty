@@ -1,97 +1,124 @@
 {
   "team": "Swansea City",
   "team_logo": "https://img.refooty.com/logo/teams/23192.webp",
-  "total_matches": 2,
-  "Last update time": "04:20:38 AM 05-09-2026",
+  "total_matches": 5,
+  "Last update time": "05:35:05 AM 05-09-2026",
   "matches": [
     {
-      "title": "Swansea City vs Birmingham",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/swansea-city-vs-birmingham-2026-08-09-Ljcf.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 9, 2026",
+      "title": "swansea city - watford",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/swansea-city-watford-2026-09-01-NOQt.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 1, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/54.webp",
-          "name": "Birmingham",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/38.webp",
+          "name": "Watford",
+          "score": "0"
         },
         "home_team": {
           "logo": "https://img.refooty.com/logo/teams/23192.webp",
           "name": "Swansea City",
-          "score": "0"
+          "score": "2"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/swansea-city-vs-birmingham-2026-08-09_m1OlD.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/swansea-city-watford-2026-09-01.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
           "team": "Swansea City",
-          "player": "M. Widell",
-          "event_type": "Yellow Card"
+          "player": "E. Ji-sung",
+          "event_type": "Goal",
+          "assist": "A. Idah",
+          "score_update": "1 - 0"
         },
         {
           "time": "16'",
-          "team": "Birmingham",
-          "player": "A. Priske",
-          "event_type": "Goal",
-          "assist": "C. Vicente",
-          "score_update": "0 - 1"
+          "team": "Watford",
+          "player": "O. Traore",
+          "event_type": "Yellow Card"
         },
         {
-          "time": "46'",
+          "time": "31'",
           "team": "Swansea City",
-          "player": "C. Burgess",
+          "player": "A. Idah",
+          "event_type": "Goal",
+          "assist": "E. Ji-sung",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "68'",
+          "team": "Watford",
+          "player": "H. Kyprianou",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "80'",
+          "team": "Watford",
+          "player": "K. Keben",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Watford",
+          "player": "J. Zemura",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Swansea City_wins": "0",
-          "draws": "3",
-          "Birmingham_wins": "2"
+          "Swansea City_wins": "2",
+          "draws": "1",
+          "Watford_wins": "2"
         },
         "previous_matches": [
           {
-            "date": "17/01/2026",
+            "date": "31/01/2026",
             "competition": "Championship 25/26",
-            "teams_and_score": "Swansea City 1 - 1 Birmingham City"
+            "teams_and_score": "Watford 0 - 2 Swansea City"
           },
           {
-            "date": "13/01/2024",
-            "competition": "English Football League - Championship 2023/2024",
-            "teams_and_score": "Birmingham City 2 - 2 Swansea City"
+            "date": "12/03/2025",
+            "competition": "Championship",
+            "teams_and_score": "Watford 1 - 0 Swansea City"
           },
           {
-            "date": "04/02/2023",
-            "competition": "English Football League - Championship 2022/2023",
-            "teams_and_score": "Swansea City 3 - 4 Birmingham City"
+            "date": "06/03/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Watford 1 - 1 Swansea City"
           },
           {
-            "date": "19/03/2022",
-            "competition": "English Football League - Championship 2021/2022",
-            "teams_and_score": "Swansea City 0 - 0 Birmingham City"
+            "date": "30/12/2022",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Swansea City 4 - 0 Watford"
           },
           {
-            "date": "02/04/2021",
-            "competition": "English Football League - Championship 2020/2021",
-            "teams_and_score": "Birmingham City 1 - 0 Swansea City"
+            "date": "08/05/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Watford 2 - 0 Swansea City"
           }
         ],
         "home_team_form": {
           "team": "Swansea City",
           "form": [
+            "W",
             "L",
             "W",
             "W"
           ],
           "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Swansea City 2 - 0 Watford",
+              "result": "W"
+            },
             {
               "date": "08/08/2026",
               "competition": "EFL Cup: Round 1",
@@ -113,84 +140,511 @@
           ]
         },
         "away_team_form": {
-          "team": "Birmingham",
+          "team": "Watford",
           "form": [
-            "W",
+            "L",
+            "L",
             "D",
             "W",
-            "D"
+            "L"
           ],
           "recent_matches": [
             {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Swansea City 2 - 0 Watford",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Watford 1 - 5 Peterborough United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Wrexham 1 - 1 Watford",
+              "result": "D"
+            },
+            {
               "date": "08/08/2026",
               "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "teams_and_score": "Watford 1 - 0 Crawley Town",
               "result": "W"
             },
             {
-              "date": "31/07/2026",
+              "date": "29/07/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
-              "result": "D"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Crewe Alexandra 1 - 2 Birmingham City",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Portsmouth 1 - 1 Birmingham City",
-              "result": "D"
+              "teams_and_score": "Watford 0 - 1 Fiorentina",
+              "result": "L"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Swansea City": "2",
-          "Birmingham": "1"
+          "Swansea City": "8",
+          "Watford": "3"
         },
         "shots_off_target": {
-          "Swansea City": "8",
-          "Birmingham": "4"
+          "Swansea City": "4",
+          "Watford": "4"
         },
         "shots_blocked": {
-          "Swansea City": "3",
-          "Birmingham": "1"
+          "Swansea City": "6",
+          "Watford": "2"
         },
         "corners": {
-          "Swansea City": "6",
-          "Birmingham": "4"
+          "Swansea City": "5",
+          "Watford": "3"
         },
         "fouls": {
-          "Swansea City": "12",
-          "Birmingham": "19"
+          "Swansea City": "6",
+          "Watford": "14"
         },
         "offsides": {
           "Swansea City": "1",
-          "Birmingham": "2"
+          "Watford": "4"
+        },
+        "yellow_cards": {
+          "Swansea City": "0",
+          "Watford": "4"
+        },
+        "goalkeeper_saves": {
+          "Swansea City": "3",
+          "Watford": "6"
+        },
+        "crosses": {
+          "Swansea City": "6",
+          "Watford": "4"
+        },
+        "ball_possession": {
+          "Swansea City": "60%",
+          "Watford": "40%"
+        }
+      },
+      "description": "Watch Swansea City vs Watford highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. Championship Showdown at Swansea Swansea City and Watford faced off on 2026-09-01 in a highly anticipated Championship fixture. With both teams desperate for points to climb the table, the atmosphere was thick with tension as the first whistle blew. Clinical First Half Performance The match ignited early when the hosts found their rhythm within the opening ten minutes. In the 8th minute, a well-coordinated move saw Adam Idah turn provider, delivering a precise ball to Ji-Sung Eom , who made no mistake in finding the back of the net. The early breakthrough forced Watford onto the back foot, and their frustration began to show as Omar Traore picked up a yellow card in the 25th minute. The pressure from the Welsh side didn't relent, and they doubled their advantage just four minutes later. In a poetic reversal of the opening goal, it was Ji-Sung Eom who turned creator, setting up Adam Idah for a clinical finish in the 29th minute. The quick-fire double left the visitors reeling, prompting an immediate tactical change as Branimir Mlacic replaced Traore before the half-hour mark. Discipline and Game Management As the second half resumed on 2026-09-01 , Watford introduced Edoardo Bove to stabilize the midfield. However, they struggled to break down a resilient Swansea City defense. The game grew increasingly physical as the visitors tried to claw their way back into contention, leading to bookings for Hector Kyprianou , Kevin Keben , and Jordan Zemura . A flurry of late substitutions saw fresh legs like Zan Vipotnik and Jenson Seelt enter the fray, but the tactical discipline of the home side ensured there was no way back for the Hornets. When the final whistle sounded, it was the clinical efficiency shown in the first half that remained the story of the afternoon."
+    },
+    {
+      "title": "Derby County vs Swansea City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/derby-county-vs-swansea-city-2026-08-29-JDYT.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/23192.webp",
+          "name": "Swansea City",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/69.webp",
+          "name": "Derby County",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/derby-county-vs-swansea-city-2026-08-29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Swansea City",
+          "player": "J. Opoku",
+          "event_type": "Goal",
+          "assist": "E. Ji-sung",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Swansea City",
+          "player": "E. Ji-sung",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "69'",
+          "team": "Derby County",
+          "player": "S. Langås",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "73'",
+          "team": "Swansea City",
+          "player": "M. Stamenic",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "79'",
+          "team": "Derby County",
+          "player": "D. Sanderson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "81'",
+          "team": "Derby County",
+          "player": "L. Travis",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "84'",
+          "team": "Swansea City",
+          "player": "E. Just",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Swansea City",
+          "player": "Ronald",
+          "event_type": "Goal",
+          "assist": "S. Eustáquio",
+          "score_update": "0 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Derby County_wins": "2",
+          "draws": "0",
+          "Swansea City_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "14/02/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Derby County 2 - 0 Swansea City"
+          },
+          {
+            "date": "05/04/2025",
+            "competition": "Championship",
+            "teams_and_score": "Swansea City 1 - 0 Derby County"
+          },
+          {
+            "date": "09/04/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Swansea City 2 - 1 Derby County"
+          },
+          {
+            "date": "01/05/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Swansea City 2 - 1 Derby County"
+          },
+          {
+            "date": "08/02/2020",
+            "competition": "Championship 19/20",
+            "teams_and_score": "Swansea City 2 - 3 Derby County"
+          }
+        ],
+        "home_team_form": {
+          "team": "Derby County",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Derby County 0 - 3 Swansea City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Derby County 1 - 2 Lincoln City",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Rotherham United 1 - 1 Derby County",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Swansea City",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Derby County 0 - 3 Swansea City",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Swansea City 1 - 0 Leganes",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Swansea City 3 - 1 Charlton Athletic",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Derby County": "0",
+          "Swansea City": "12"
+        },
+        "shots_off_target": {
+          "Derby County": "2",
+          "Swansea City": "5"
+        },
+        "shots_blocked": {
+          "Derby County": "6",
+          "Swansea City": "6"
+        },
+        "corners": {
+          "Derby County": "5",
+          "Swansea City": "6"
+        },
+        "fouls": {
+          "Derby County": "16",
+          "Swansea City": "7"
+        },
+        "offsides": {
+          "Derby County": "5",
+          "Swansea City": "4"
+        },
+        "yellow_cards": {
+          "Derby County": "3",
+          "Swansea City": "2"
+        },
+        "goalkeeper_saves": {
+          "Derby County": "9",
+          "Swansea City": "0"
+        },
+        "crosses": {
+          "Derby County": "6",
+          "Swansea City": "3"
+        },
+        "ball_possession": {
+          "Derby County": "47%",
+          "Swansea City": "53%"
+        }
+      },
+      "description": "Watch Derby County vs Swansea City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 29, 2026. Derby County hosted Swansea City in a highly anticipated Championship clash on August 29, 2026. Both sets of fans filled the stadium, expecting a tight contest between two sides looking to climb the table early in the campaign. Explosive Start at Pride Park The match began with immediate intensity, and it took only two minutes for the deadlock to be broken. Joseph Opoku found the back of the net following a well-placed assist from Ji-Sung Eom , giving the visitors a dream start. However, the early momentum for Opoku was cut short when he was forced off the pitch in the 24th minute, replaced by Moussa Kounfolo Yeo as the tactical setup had to adapt early on. Clinical Finishing Before the Break As the first half drew to a close, Swansea City doubled their advantage through a moment of individual brilliance. In the 44th minute, Ji-Sung Eom turned from provider to scorer, clinical finishing ensuring the visitors went into the locker room with a significant cushion. Derby County struggled to find a creative spark to counter the organized defensive lines of their opponents. Second Half Adjustments and Discipline The second half saw a flurry of activity as Derby County introduced Joe Ward , Sammie Szmodics , and Rhian Brewster in an attempt to claw their way back into the game. The match became increasingly physical, leading to a series of bookings. Sondre Klingen Langaas , Marko Stamenic , Dion Sanderson , Lewis Travis , and Elijah Just all received yellow cards as the battle for midfield dominance intensified. Closing Out the Victory In the final stages, Swansea City put the game beyond doubt. Ronald Pereira , who had replaced Ji-Sung Eom in the 85th minute, made an immediate impact. In the first minute of stoppage time (90+1'), Ronald Pereira converted a pass from Stephen Eustáquio to seal the result, capping off a professional and efficient performance on the road."
+    },
+    {
+      "title": "Swansea City vs Sheffield United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/swansea-city-vs-sheffield-united-2026-08-22-UjUe.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15407.webp",
+          "name": "Sheffield United",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/23192.webp",
+          "name": "Swansea City",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/swansea-city-vs-sheffield-united-2026-08-22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Sheffield United",
+          "player": "H. Burrows",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "59'",
+          "team": "Swansea City",
+          "player": "J. Fulton",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "72'",
+          "team": "Sheffield United",
+          "player": "J. Tanganga",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Swansea City",
+          "player": "F. Lissah",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Swansea City_wins": "1",
+          "draws": "1",
+          "Sheffield United_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "03/04/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Sheffield United 3 - 3 Swansea City"
+          },
+          {
+            "date": "21/01/2025",
+            "competition": "Championship",
+            "teams_and_score": "Swansea City 1 - 2 Sheffield United"
+          },
+          {
+            "date": "11/02/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Sheffield United 3 - 0 Swansea City"
+          },
+          {
+            "date": "19/02/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Sheffield United 4 - 0 Swansea City"
+          },
+          {
+            "date": "19/01/2019",
+            "competition": "Championship",
+            "teams_and_score": "Swansea City 1 - 0 Sheffield United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Swansea City",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Swansea City 1 - 0 Leganes",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Swansea City 3 - 1 Charlton Athletic",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sheffield United",
+          "form": [
+            "D",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Derby County 1 - 2 Sheffield United",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Swansea City": "1",
+          "Sheffield United": "2"
+        },
+        "shots_off_target": {
+          "Swansea City": "3",
+          "Sheffield United": "6"
+        },
+        "shots_blocked": {
+          "Swansea City": "5",
+          "Sheffield United": "4"
+        },
+        "corners": {
+          "Swansea City": "6",
+          "Sheffield United": "3"
+        },
+        "fouls": {
+          "Swansea City": "14",
+          "Sheffield United": "10"
+        },
+        "offsides": {
+          "Swansea City": "2",
+          "Sheffield United": "6"
         },
         "yellow_cards": {
           "Swansea City": "2",
-          "Birmingham": "0"
+          "Sheffield United": "2"
         },
         "goalkeeper_saves": {
-          "Swansea City": "0",
-          "Birmingham": "2"
+          "Swansea City": "2",
+          "Sheffield United": "1"
         },
         "crosses": {
-          "Swansea City": "3",
-          "Birmingham": "0"
+          "Swansea City": "4",
+          "Sheffield United": "2"
         },
         "ball_possession": {
-          "Swansea City": "61%",
-          "Birmingham": "39%"
+          "Swansea City": "69%",
+          "Sheffield United": "31%"
         }
       },
-      "description": "Watch Swansea City vs Birmingham highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. A hard-fought encounter in the Carabao Cup On August 9, 2026, the Swansea City and Birmingham City squads met in a high-stakes Carabao Cup clash, with both sides eager to make their mark on the tournament. The matchday air was thick with tension as both teams looked to establish control from the very first minute. The breakthrough moment Throughout the first half, the game was characterized by end-to-end action. Adam Idah came close for the hosts, testing the goalkeeper, but the deadlock remained broken until the 44th minute. August Priske struck the decisive blow, converting a clinical right-footed shot into the bottom left corner following a clever set-piece delivery from Carlos Vicente . This late first-half goal shifted the momentum firmly in favor of the visitors as they headed into the tunnel. Second-half defensive stand Following the restart, Swansea City pushed hard for an equalizer, introducing fresh legs to break down the resilient Birmingham City defense. James Beadle proved vital in goal, making key saves, including a sharp stop against Jay Fulton in the 70th minute. Despite a late flurry of pressure and a lengthy injury delay for Cameron Burgess , the visitors held their ground. The final whistle confirmed a disciplined victory that saw the away side successfully navigate the final minutes of the match."
+      "description": "Watch Swansea City vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 22, 2026. Swansea City and Sheffield United locked horns in a high-stakes Championship clash that tested the tactical discipline of both managers. The encounter at the heart of the 2026 campaign promised intensity as two of the league's established sides met on a crucial afternoon. A Cagey Affair at the Liberty Staged on August 22, 2026 , the match began with both Swansea City and Sheffield United showing immense respect for each other's defensive structures. The early exchanges were characterized by tough tackling and a crowded midfield, leading to the game's first booking in the 24th minute when Harrison Burrows was shown a yellow card. Despite several attempts to break the lines, neither side could find the definitive final ball before the referee signaled for half-time, leaving the tactical puzzle unsolved at the break. Tactical Shifts and Midfield Battles The second half saw an increase in physical play as both teams pushed for an opening. Swansea City midfielder Jay Fulton received a yellow card in the 59th minute, prompting a wave of substitutions from both dugouts. The hosts introduced Ji-Sung Eom and Zan Vipotnik to inject pace into their attack, while Sheffield United looked to the bench for stability, bringing on Jairo Riedewald . The bookings continued to mount as the game grew more desperate, with Japhet Tanganga entering the referee's book in the 72nd minute during a period of sustained pressure. Late Drama and the Final Whistle As the clock ticked toward the 90-minute mark, both managers made their final strategic moves. Patrick Bamford made way for Tyrese Campbell , while the visitors introduced Rhys Norrington-Davies and Jamie Shackleton to see out the closing stages. In a frantic seven minutes of stoppage time, Filip Lissah was cautioned for a cynical foul to stop a potential counter-attack. Ultimately, the defenses remained impenetrable, and the referee's final whistle at 90+7' brought an end to a hard-fought contest where a draw felt like a fair reflection of the play."
     },
     {
       "title": "Stoke City vs Swansea City",
@@ -421,6 +875,194 @@
         }
       },
       "description": "Watch Stoke City vs Swansea City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The atmosphere at the Bet365 Stadium was expectant as Stoke City hosted Swansea City in a high-stakes Championship encounter. Both sides entered the pitch looking to establish their authority early in the season, setting the stage for a tactical battle defined by clinical finishing and bench depth. Early Exchanges and Instant Responses The match kicked off on August 15, 2026 , with the home side finding their rhythm almost immediately. In the 10th minute, Stoke City broke the deadlock when Tomas Rigo provided a clever assist for Eric Bocat , who made no mistake in slotting the ball home. The lead, however, was short-lived as Swansea City began to find gaps in the Potters' defense. Their persistence paid off in the 23rd minute; Zan Vipotnik turned provider for Joseph Opoku , who finished calmly to level the scores and silence the home crowd. As the first half progressed, the intensity grew, leading to a yellow card for Stoke's Luke Graham in the 36th minute. Despite several close chances for both teams, the sides remained deadlocked at 1-1 heading into the interval after a lengthy period of stoppage time. Substitute Heroics Turn the Tide The second half saw both managers turn to their benches to break the impasse. Swansea City made a decisive triple substitution in the 65th minute, introducing Adam Idah to lead the line. The move proved to be a masterstroke. Just a minute later, Josh Tymon delivered a pinpoint cross that Adam Idah expertly converted to put the visitors ahead for the first time in the match. Stoke City attempted to claw their way back, introducing Jun-Ho Bae and Robert Bozenik to bolster their attack, but the Swans' backline held firm. The closing stages were frantic, characterized by defensive resilience and a flurry of bookings for Swansea's Melker Widell and Josh Tymon . After six minutes of added time, the referee blew the final whistle, confirming a hard-earned victory for the visiting side."
+    },
+    {
+      "title": "Swansea City vs Birmingham",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/swansea-city-vs-birmingham-2026-08-09-Ljcf.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/54.webp",
+          "name": "Birmingham",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/23192.webp",
+          "name": "Swansea City",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/swansea-city-vs-birmingham-2026-08-09_m1OlD.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Swansea City",
+          "player": "M. Widell",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Birmingham",
+          "player": "A. Priske",
+          "event_type": "Goal",
+          "assist": "C. Vicente",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Swansea City",
+          "player": "C. Burgess",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Swansea City_wins": "0",
+          "draws": "3",
+          "Birmingham_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "17/01/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Swansea City 1 - 1 Birmingham City"
+          },
+          {
+            "date": "13/01/2024",
+            "competition": "English Football League - Championship 2023/2024",
+            "teams_and_score": "Birmingham City 2 - 2 Swansea City"
+          },
+          {
+            "date": "04/02/2023",
+            "competition": "English Football League - Championship 2022/2023",
+            "teams_and_score": "Swansea City 3 - 4 Birmingham City"
+          },
+          {
+            "date": "19/03/2022",
+            "competition": "English Football League - Championship 2021/2022",
+            "teams_and_score": "Swansea City 0 - 0 Birmingham City"
+          },
+          {
+            "date": "02/04/2021",
+            "competition": "English Football League - Championship 2020/2021",
+            "teams_and_score": "Birmingham City 1 - 0 Swansea City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Swansea City",
+          "form": [
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Swansea City 1 - 0 Leganes",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Swansea City 3 - 1 Charlton Athletic",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Birmingham",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Crewe Alexandra 1 - 2 Birmingham City",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Portsmouth 1 - 1 Birmingham City",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Swansea City": "2",
+          "Birmingham": "1"
+        },
+        "shots_off_target": {
+          "Swansea City": "8",
+          "Birmingham": "4"
+        },
+        "shots_blocked": {
+          "Swansea City": "3",
+          "Birmingham": "1"
+        },
+        "corners": {
+          "Swansea City": "6",
+          "Birmingham": "4"
+        },
+        "fouls": {
+          "Swansea City": "12",
+          "Birmingham": "19"
+        },
+        "offsides": {
+          "Swansea City": "1",
+          "Birmingham": "2"
+        },
+        "yellow_cards": {
+          "Swansea City": "2",
+          "Birmingham": "0"
+        },
+        "goalkeeper_saves": {
+          "Swansea City": "0",
+          "Birmingham": "2"
+        },
+        "crosses": {
+          "Swansea City": "3",
+          "Birmingham": "0"
+        },
+        "ball_possession": {
+          "Swansea City": "61%",
+          "Birmingham": "39%"
+        }
+      },
+      "description": "Watch Swansea City vs Birmingham highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. A hard-fought encounter in the Carabao Cup On August 9, 2026, the Swansea City and Birmingham City squads met in a high-stakes Carabao Cup clash, with both sides eager to make their mark on the tournament. The matchday air was thick with tension as both teams looked to establish control from the very first minute. The breakthrough moment Throughout the first half, the game was characterized by end-to-end action. Adam Idah came close for the hosts, testing the goalkeeper, but the deadlock remained broken until the 44th minute. August Priske struck the decisive blow, converting a clinical right-footed shot into the bottom left corner following a clever set-piece delivery from Carlos Vicente . This late first-half goal shifted the momentum firmly in favor of the visitors as they headed into the tunnel. Second-half defensive stand Following the restart, Swansea City pushed hard for an equalizer, introducing fresh legs to break down the resilient Birmingham City defense. James Beadle proved vital in goal, making key saves, including a sharp stop against Jay Fulton in the 70th minute. Despite a late flurry of pressure and a lengthy injury delay for Cameron Burgess , the visitors held their ground. The final whistle confirmed a disciplined victory that saw the away side successfully navigate the final minutes of the match."
     }
   ]
 }

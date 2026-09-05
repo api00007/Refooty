@@ -1,129 +1,628 @@
 {
   "team": "Sheffield United",
   "team_logo": "https://img.refooty.com/logo/teams/15407.webp",
-  "total_matches": 5,
-  "Last update time": "04:20:38 AM 05-09-2026",
+  "total_matches": 8,
+  "Last update time": "05:35:05 AM 05-09-2026",
   "matches": [
     {
-      "title": "Mansfield Town vs Sheffield United",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/mansfield-town-vs-sheffield-united-2026-08-09-SY9Q.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 9, 2026",
+      "title": "sheffield united - bolton wanderers",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-bolton-wanderers-2026-09-01-VOiy.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 1, 2026",
       "events_info": {
         "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/22614.webp",
+          "name": "Bolton Wanderers",
+          "score": "2"
+        },
+        "home_team": {
           "logo": "https://img.refooty.com/logo/teams/15407.webp",
           "name": "Sheffield United",
           "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1374.webp",
-          "name": "Mansfield Town",
-          "score": "0"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/mansfield-town-vs-sheffield-united-2026-08-09_ltTQU.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-bolton-wanderers-2026-09-01.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Sheffield United",
-          "player": "P. Bamford",
+          "team": "Bolton Wanderers",
+          "player": "X. Simons",
           "event_type": "Goal",
           "score_update": "0 - 1"
         },
         {
           "time": "16'",
           "team": "Sheffield United",
-          "player": "F. Seriki",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Mansfield Town",
-          "player": "L. Reed",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Sheffield United",
-          "player": "M. McGuinness",
+          "player": "J. Tanganga",
           "event_type": "Goal",
           "assist": "S. Peck",
-          "score_update": "0 - 2"
+          "score_update": "1 - 1"
         },
         {
-          "time": "76'",
-          "team": "Mansfield Town",
-          "player": "L. Thompson",
+          "time": "31'",
+          "team": "Bolton Wanderers",
+          "player": "G. Larrazabal",
           "event_type": "Yellow Card"
         },
         {
-          "time": "91'",
-          "team": "Sheffield United",
-          "player": "C. O'Hare",
+          "time": "49'",
+          "team": "Bolton Wanderers",
+          "player": "J. McAtee",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "67'",
+          "team": "Bolton Wanderers",
+          "player": "S. Dalby",
           "event_type": "Goal",
-          "score_update": "0 - 3"
+          "assist": "T. Gale",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "68'",
+          "team": "Sheffield United",
+          "player": "P. Bamford",
+          "event_type": "Goal",
+          "assist": "S. McCallum",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "90+3'",
+          "team": "Sheffield United",
+          "player": "R. Donovan",
+          "event_type": "Goal",
+          "assist": "K. Phillips",
+          "score_update": "3 - 2"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Mansfield Town_wins": "2",
-          "draws": "1",
-          "Sheffield United_wins": "1"
+          "Sheffield United_wins": "2",
+          "draws": "0",
+          "Bolton Wanderers_wins": "4"
         },
         "previous_matches": [
           {
-            "date": "11/01/2026",
-            "competition": "FA Cup: Round 3",
-            "teams_and_score": "Sheffield United 3 - 4 Mansfield Town"
+            "date": "02/02/2019",
+            "competition": "Championship",
+            "teams_and_score": "Sheffield United 2 - 0 Bolton Wanderers"
           },
           {
-            "date": "19/07/2022",
-            "competition": "Friendly 2022",
-            "teams_and_score": "Mansfield Town 3 - 0 Sheffield United"
+            "date": "25/02/2017",
+            "competition": "League One",
+            "teams_and_score": "Sheffield United 2 - 0 Bolton Wanderers"
           },
           {
-            "date": "21/07/2018",
-            "competition": "Friendly 2018",
-            "teams_and_score": "Mansfield Town 0 - 0 Sheffield United"
+            "date": "04/12/2016",
+            "competition": "FA Cup",
+            "teams_and_score": "Bolton Wanderers 3 - 2 Sheffield United"
           },
           {
-            "date": "13/08/2014",
-            "competition": "English League Cup 2014/2015",
-            "teams_and_score": "Sheffield United 2 - 1 Mansfield Town"
+            "date": "06/08/2016",
+            "competition": "League One",
+            "teams_and_score": "Bolton Wanderers 1 - 0 Sheffield United"
+          },
+          {
+            "date": "23/01/2010",
+            "competition": "FA Cup",
+            "teams_and_score": "Bolton Wanderers 2 - 0 Sheffield United"
+          },
+          {
+            "date": "31/03/2007",
+            "competition": "Premier League",
+            "teams_and_score": "Bolton Wanderers 1 - 0 Sheffield United"
           }
         ],
         "home_team_form": {
-          "team": "Mansfield Town",
+          "team": "Sheffield United",
           "form": [
-            "L",
-            "L",
-            "W"
+            "W",
+            "W",
+            "D",
+            "W",
+            "D"
           ],
           "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Sheffield United 3 - 2 Bolton Wanderers",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
+              "result": "D"
+            },
             {
               "date": "09/08/2026",
               "competition": "EFL Cup: Round 1",
               "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
-              "result": "L"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Mansfield Town 1 - 3 Derby County",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Mansfield Town 5 - 4 Cardiff City",
               "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bolton Wanderers",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Sheffield United 3 - 2 Bolton Wanderers",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Sheffield Wednesday 1 - 0 Bolton Wanderers",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bolton Wanderers 1 - 0 NAC Breda",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bolton Wanderers 0 - 0 Everton",
+              "result": "D"
+            },
+            {
+              "date": "21/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Oldham Athletic 1 - 3 Bolton Wanderers",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sheffield United": "5",
+          "Bolton Wanderers": "6"
+        },
+        "shots_off_target": {
+          "Sheffield United": "7",
+          "Bolton Wanderers": "8"
+        },
+        "shots_blocked": {
+          "Sheffield United": "1",
+          "Bolton Wanderers": "4"
+        },
+        "corners": {
+          "Sheffield United": "5",
+          "Bolton Wanderers": "5"
+        },
+        "fouls": {
+          "Sheffield United": "8",
+          "Bolton Wanderers": "13"
+        },
+        "offsides": {
+          "Sheffield United": "3",
+          "Bolton Wanderers": "2"
+        },
+        "yellow_cards": {
+          "Sheffield United": "0",
+          "Bolton Wanderers": "2"
+        },
+        "goalkeeper_saves": {
+          "Sheffield United": "4",
+          "Bolton Wanderers": "1"
+        },
+        "crosses": {
+          "Sheffield United": "4",
+          "Bolton Wanderers": "5"
+        },
+        "ball_possession": {
+          "Sheffield United": "53%",
+          "Bolton Wanderers": "47%"
+        }
+      },
+      "description": "Watch Sheffield United vs Bolton Wanderers highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. A Championship classic at Bramall Lane On September 1, 2026 , Sheffield United and Bolton Wanderers squared off in a highly anticipated Championship fixture. The atmosphere was palpable as both sides looked to make their mark on the league campaign through sheer physical and technical effort. Rapid fire start and a determined fightback The match ignited instantly as Xavier Simons found the net just one minute into the game. The home side doubled their lead only three minutes later when Japhet Tanganga headed home from a Sydie Peck delivery. Despite trailing, the visitors showed significant resolve after the interval. The tide began to turn in the 67th minute when Sam Dalby found the back of the net, set up by Thierry Gale . Barely a minute later, Patrick Bamford leveled the scores at 2-2 following a slick assist from Sam McCallum , sending the game into a tense final stretch. Late drama secures the points With both teams pushing for a winner in the dying embers of the contest, the tactical substitutions became decisive. Kalvin Phillips , introduced to inject creativity, proved instrumental in the final moments. In the 90+3rd minute, Phillips delivered a pinpoint pass to Romelle Donovan , who fired home the decisive goal. The whistle blew shortly after, confirming a pulsating victory for the home team in a match defined by its incredible momentum shifts."
+    },
+    {
+      "title": "Cardiff City vs Sheffield United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/cardiff-city-vs-sheffield-united-2026-08-29-IDl7.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15407.webp",
+          "name": "Sheffield United",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/15412.webp",
+          "name": "Cardiff City",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/cardiff-city-vs-sheffield-united-2026-08-29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Cardiff City",
+          "player": "J. Moylan",
+          "event_type": "Goal",
+          "assist": "C. Ashford",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Cardiff City",
+          "player": "A. Robertson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Sheffield United",
+          "player": "T. Cannon",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Sheffield United",
+          "player": "C. O'Hare",
+          "event_type": "Goal",
+          "assist": "P. Bamford",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Sheffield United",
+          "player": "M. McGuinness",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Cardiff City",
+          "player": "J. Moylan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Cardiff City",
+          "player": "C. Ashford",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Sheffield United",
+          "player": "S. Peck",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Cardiff City_wins": "1",
+          "draws": "1",
+          "Sheffield United_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "18/04/2025",
+            "competition": "Championship",
+            "teams_and_score": "Sheffield United 2 - 0 Cardiff City"
+          },
+          {
+            "date": "09/01/2025",
+            "competition": "FA Cup: Round 3",
+            "teams_and_score": "Sheffield United 0 - 1 Cardiff City"
+          },
+          {
+            "date": "21/12/2024",
+            "competition": "Championship",
+            "teams_and_score": "Cardiff City 0 - 2 Sheffield United"
+          },
+          {
+            "date": "15/04/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Sheffield United 4 - 1 Cardiff City"
+          },
+          {
+            "date": "23/04/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Sheffield United 1 - 0 Cardiff City"
+          },
+          {
+            "date": "02/04/2018",
+            "competition": "Championship",
+            "teams_and_score": "Sheffield United 1 - 1 Cardiff City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Cardiff City",
+          "form": [
+            "D",
+            "L",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Cardiff City 2 - 2 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Cardiff City 1 - 2 Norwich City",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Derby County 2 - 2 Cardiff City",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Cardiff City 3 - 2 Swindon Town",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Cardiff City 4 - 1 AS Roma",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sheffield United",
+          "form": [
+            "D",
+            "W",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Cardiff City 2 - 2 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Cardiff City": "10",
+          "Sheffield United": "4"
+        },
+        "shots_off_target": {
+          "Cardiff City": "9",
+          "Sheffield United": "1"
+        },
+        "shots_blocked": {
+          "Cardiff City": "9",
+          "Sheffield United": "1"
+        },
+        "corners": {
+          "Cardiff City": "13",
+          "Sheffield United": "2"
+        },
+        "fouls": {
+          "Cardiff City": "12",
+          "Sheffield United": "11"
+        },
+        "offsides": {
+          "Cardiff City": "2",
+          "Sheffield United": "1"
+        },
+        "yellow_cards": {
+          "Cardiff City": "2",
+          "Sheffield United": "2"
+        },
+        "goalkeeper_saves": {
+          "Cardiff City": "2",
+          "Sheffield United": "8"
+        },
+        "crosses": {
+          "Cardiff City": "8",
+          "Sheffield United": "1"
+        },
+        "ball_possession": {
+          "Cardiff City": "67%",
+          "Sheffield United": "33%"
+        }
+      },
+      "description": "Watch Cardiff City vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The stadium hummed with anticipation as fans settled in for a high-stakes encounter between two sides desperate to assert their dominance. What followed was a masterclass in early clinical finishing that left the crowd breathless from the opening whistle. A Blistering Start in the Championship This clash on August 29, 2026 , ignited immediately. Within just two minutes, Cardiff City took the lead as Cian Ashford turned provider for Jack Moylan , who finished with composure. However, the celebrations were short-lived. Following an Alex Robertson yellow card in the 4th minute, Sheffield United were awarded a penalty just sixty seconds later. Thomas Cannon stepped up and coolly dispatched the spot-kick to restore parity. The momentum swung violently in favor of the visitors. In the 8th minute, Patrick Bamford showcased his vision with an assist for Callum O'Hare , who fired the Blades into the lead. The physical nature of the game became apparent early on, with Mark McGuinness receiving a caution in the 10th minute as Cardiff scrambled to regain their footing. Cardiff Fight Back Before the Break Refusing to be overwhelmed, Cardiff City began to claw their way back into the contest. While Jack Moylan picked up a yellow card in the 33rd minute, the home side's persistence paid off shortly after. In the 38th minute, the architect of the first goal, Cian Ashford , became the scorer, finding the net to level the game at 2-2 in a frantic first half. The second half saw a tactical reshuffle, particularly from the visitors. Kalvin Phillips and Jamie Shackleton were introduced at the break for Patrick Bamford and Romelle Donovan . The game transitioned into a tighter tactical battle, marked by a yellow card for Sydie Peck in the 75th minute as both sides fought for control of the midfield. Late Substitutions and Shared Points As the match entered its final stages, a flurry of substitutions aimed to break the deadlock. Cardiff introduced Chris Willock , Callum Robinson , and Joel Colwill , while Sheffield United looked to Ben Brereton Diaz for a late spark. Despite the fresh legs and a final cameo from Calum Scanlon , neither side could find the decisive blow before the referee brought the pulsating encounter to an end after four minutes of stoppage time."
+    },
+    {
+      "title": "Blackburn Rovers vs Sheffield United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/blackburn-rovers-vs-sheffield-united-2026-08-25-KB7i.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 25, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15407.webp",
+          "name": "Sheffield United",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/15401.webp",
+          "name": "Blackburn Rovers",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/blackburn-rovers-vs-sheffield-united-2026-08-25.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Sheffield United",
+          "player": "T. Cannon",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Blackburn Rovers",
+          "player": "O. Afolayan",
+          "event_type": "Goal",
+          "assist": "R. Morishita",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Sheffield United",
+          "player": "R. Donovan",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Blackburn Rovers_wins": "2",
+          "draws": "1",
+          "Sheffield United_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "22/04/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Sheffield United 1 - 3 Blackburn Rovers"
+          },
+          {
+            "date": "03/05/2025",
+            "competition": "Championship",
+            "teams_and_score": "Sheffield United 1 - 1 Blackburn Rovers"
+          },
+          {
+            "date": "19/03/2023",
+            "competition": "English FA Cup 2022/2023",
+            "teams_and_score": "Sheffield United 3 - 2 Blackburn Rovers"
+          },
+          {
+            "date": "04/03/2023",
+            "competition": "English Football League - Championship 2022/2023",
+            "teams_and_score": "Blackburn Rovers 1 - 0 Sheffield United"
+          },
+          {
+            "date": "23/02/2022",
+            "competition": "English Football League - Championship 2021/2022",
+            "teams_and_score": "Sheffield United 1 - 0 Blackburn Rovers"
+          },
+          {
+            "date": "27/08/2019",
+            "competition": "English League Cup 2019/2020",
+            "teams_and_score": "Sheffield United 2 - 1 Blackburn Rovers"
+          }
+        ],
+        "home_team_form": {
+          "team": "Blackburn Rovers",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Blackburn Rovers 2 - 1 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Burton Albion 1 - 2 Blackburn Rovers",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Huddersfield Town 1 - 1 Blackburn Rovers",
+              "result": "D"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Nottingham Forest 3 - 0 Blackburn Rovers",
+              "result": "L"
             }
           ]
         },
@@ -132,9 +631,211 @@
           "form": [
             "W",
             "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Blackburn Rovers": "5",
+          "Sheffield United": "5"
+        },
+        "shots_off_target": {
+          "Blackburn Rovers": "3",
+          "Sheffield United": "7"
+        },
+        "shots_blocked": {
+          "Blackburn Rovers": "1",
+          "Sheffield United": "4"
+        },
+        "corners": {
+          "Blackburn Rovers": "6",
+          "Sheffield United": "4"
+        },
+        "fouls": {
+          "Blackburn Rovers": "12",
+          "Sheffield United": "9"
+        },
+        "offsides": {
+          "Blackburn Rovers": "2",
+          "Sheffield United": "0"
+        },
+        "goalkeeper_saves": {
+          "Blackburn Rovers": "3",
+          "Sheffield United": "4"
+        },
+        "crosses": {
+          "Blackburn Rovers": "3",
+          "Sheffield United": "5"
+        },
+        "ball_possession": {
+          "Blackburn Rovers": "49%",
+          "Sheffield United": "51%"
+        }
+      },
+      "description": "Watch Blackburn Rovers vs Sheffield United highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 25, 2026. The stage was set for a classic cup tie as two storied sides met in a high-stakes encounter that promised drama from the opening whistle. On August 25, 2026 , the Carabao Cup delivered a tactical battle that swung back and forth under the floodlights. Early Pressure and Quick Exchanges Blackburn Rovers began the contest with intent, as Dion De Neve found himself with two early opportunities within the first five minutes, only to be denied by the alert Adam Davies in the Sheffield United goal. However, the home side's rhythm was disrupted early on when Yuki Ohashi was forced off with an injury, leading to the introduction of Oladapo Afolayan . Sheffield United capitalized on the shifting momentum in the 20th minute. Following a swift fast break, Thomas Cannon clinically slotted a right-footed shot into the bottom right corner to give the visitors the lead. The \"Blades\" nearly doubled their advantage just before the break, but Cannon was denied by the woodwork as his effort struck the post in stoppage time. Afolayan’s Screamer and Tactical Shifts The second half saw Blackburn Rovers emerge with renewed energy after a series of tactical substitutions. Their persistence paid off in the 55th minute when Oladapo Afolayan produced a moment of magic. Picking up a pass from Ryoya Morishita , Afolayan unleashed a thunderous strike from outside the box that flew into the top right corner, leveling the score at 1-1. As the game intensified, Sheffield United manager responded by bringing on Kalvin Phillips and Callum O'Hare to stabilize the midfield. The match became a cagey affair with both sides searching for the decisive opening, and Todd Cantwell nearly found it for Blackburn, only for his angled drive to be parried by Davies . Donovan Finds the Winner The defining moment arrived in the 81st minute. After Tyrese Campbell saw his effort rebound off the post, Romelle Donovan was the quickest to react, poaching a goal from close range to restore Sheffield United 's lead. The visitors' resilience was tested in the closing stages as the fourth official indicated six minutes of added time. Blackburn pushed forward in a desperate search for an equalizer, but a late handball by Afolayan and an offside call against Frank Vare halted their momentum. Ultimately, Sheffield United held firm to secure their place in the next round, ending a pulsating night of football with a hard-fought victory."
+    },
+    {
+      "title": "Swansea City vs Sheffield United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/swansea-city-vs-sheffield-united-2026-08-22-UjUe.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15407.webp",
+          "name": "Sheffield United",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/23192.webp",
+          "name": "Swansea City",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/swansea-city-vs-sheffield-united-2026-08-22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Sheffield United",
+          "player": "H. Burrows",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "59'",
+          "team": "Swansea City",
+          "player": "J. Fulton",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "72'",
+          "team": "Sheffield United",
+          "player": "J. Tanganga",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Swansea City",
+          "player": "F. Lissah",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Swansea City_wins": "1",
+          "draws": "1",
+          "Sheffield United_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "03/04/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Sheffield United 3 - 3 Swansea City"
+          },
+          {
+            "date": "21/01/2025",
+            "competition": "Championship",
+            "teams_and_score": "Swansea City 1 - 2 Sheffield United"
+          },
+          {
+            "date": "11/02/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Sheffield United 3 - 0 Swansea City"
+          },
+          {
+            "date": "19/02/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Sheffield United 4 - 0 Swansea City"
+          },
+          {
+            "date": "19/01/2019",
+            "competition": "Championship",
+            "teams_and_score": "Swansea City 1 - 0 Sheffield United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Swansea City",
+          "form": [
+            "D",
+            "L",
+            "W",
             "W"
           ],
           "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Swansea City 1 - 0 Leganes",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Swansea City 3 - 1 Charlton Athletic",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sheffield United",
+          "form": [
+            "D",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
+              "result": "D"
+            },
             {
               "date": "09/08/2026",
               "competition": "EFL Cup: Round 1",
@@ -158,47 +859,47 @@
       },
       "statistics": {
         "shots_on_target": {
-          "Mansfield Town": "2",
-          "Sheffield United": "4"
+          "Swansea City": "1",
+          "Sheffield United": "2"
         },
         "shots_off_target": {
-          "Mansfield Town": "4",
-          "Sheffield United": "9"
+          "Swansea City": "3",
+          "Sheffield United": "6"
         },
         "shots_blocked": {
-          "Mansfield Town": "1",
-          "Sheffield United": "7"
+          "Swansea City": "5",
+          "Sheffield United": "4"
         },
         "corners": {
-          "Mansfield Town": "5",
+          "Swansea City": "6",
           "Sheffield United": "3"
         },
         "fouls": {
-          "Mansfield Town": "15",
-          "Sheffield United": "13"
+          "Swansea City": "14",
+          "Sheffield United": "10"
         },
         "offsides": {
-          "Mansfield Town": "2",
-          "Sheffield United": "0"
+          "Swansea City": "2",
+          "Sheffield United": "6"
         },
         "yellow_cards": {
-          "Mansfield Town": "2",
-          "Sheffield United": "1"
-        },
-        "goalkeeper_saves": {
-          "Mansfield Town": "1",
+          "Swansea City": "2",
           "Sheffield United": "2"
         },
+        "goalkeeper_saves": {
+          "Swansea City": "2",
+          "Sheffield United": "1"
+        },
         "crosses": {
-          "Mansfield Town": "2",
-          "Sheffield United": "5"
+          "Swansea City": "4",
+          "Sheffield United": "2"
         },
         "ball_possession": {
-          "Mansfield Town": "50%",
-          "Sheffield United": "50%"
+          "Swansea City": "69%",
+          "Sheffield United": "31%"
         }
       },
-      "description": "Watch Mansfield Town vs Sheffield United highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. A Carabao Cup Clash at Field Mill On August 9, 2026 , Mansfield Town welcomed Sheffield United for a high-stakes encounter in the Carabao Cup . The stage was set for a classic cup battle, with both sides eager to make their mark on the tournament early in the campaign. An Early Breakthrough Sheffield United signaled their intent almost immediately, striking in the fourth minute. Patrick Bamford clinically finished a Joe Rothwell pass, sending the ball into the center of the goal to give the visitors the lead. Mansfield Town did not retreat, however, creating several chances as Frazer Blake-Tracy forced a smart save from Michael Cooper , but the home side struggled to break through the organized defensive structure of the visitors. Sealing the Progression The second half saw Sheffield United assert further dominance. In the 71st minute, Mark McGuinness rose highest to meet a Sydie Peck corner, heading home to double the lead. As the game wore on, the visitors remained disciplined, eventually putting the result beyond doubt in the 89th minute. Callum O'Hare capped off a swift counter-attack assisted by Ryan Oné , firing home from close range to secure a 3-0 victory and a convincing spot in the next round of the competition."
+      "description": "Watch Swansea City vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 22, 2026. Swansea City and Sheffield United locked horns in a high-stakes Championship clash that tested the tactical discipline of both managers. The encounter at the heart of the 2026 campaign promised intensity as two of the league's established sides met on a crucial afternoon. A Cagey Affair at the Liberty Staged on August 22, 2026 , the match began with both Swansea City and Sheffield United showing immense respect for each other's defensive structures. The early exchanges were characterized by tough tackling and a crowded midfield, leading to the game's first booking in the 24th minute when Harrison Burrows was shown a yellow card. Despite several attempts to break the lines, neither side could find the definitive final ball before the referee signaled for half-time, leaving the tactical puzzle unsolved at the break. Tactical Shifts and Midfield Battles The second half saw an increase in physical play as both teams pushed for an opening. Swansea City midfielder Jay Fulton received a yellow card in the 59th minute, prompting a wave of substitutions from both dugouts. The hosts introduced Ji-Sung Eom and Zan Vipotnik to inject pace into their attack, while Sheffield United looked to the bench for stability, bringing on Jairo Riedewald . The bookings continued to mount as the game grew more desperate, with Japhet Tanganga entering the referee's book in the 72nd minute during a period of sustained pressure. Late Drama and the Final Whistle As the clock ticked toward the 90-minute mark, both managers made their final strategic moves. Patrick Bamford made way for Tyrese Campbell , while the visitors introduced Rhys Norrington-Davies and Jamie Shackleton to see out the closing stages. In a frantic seven minutes of stoppage time, Filip Lissah was cautioned for a cynical foul to stop a potential counter-attack. Ultimately, the defenses remained impenetrable, and the referee's final whistle at 90+7' brought an end to a hard-fought contest where a draw felt like a fair reflection of the play."
     },
     {
       "title": "Rotherham vs Sheffield United",
@@ -424,211 +1125,6 @@
       "description": "Watch VfL Bochum vs Sheffield United highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
     },
     {
-      "title": "Blackburn Rovers vs Sheffield United",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/blackburn-rovers-vs-sheffield-united-2026-08-25-KB7i.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 25, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/15407.webp",
-          "name": "Sheffield United",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/15401.webp",
-          "name": "Blackburn Rovers",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/blackburn-rovers-vs-sheffield-united-2026-08-25.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Sheffield United",
-          "player": "T. Cannon",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Blackburn Rovers",
-          "player": "O. Afolayan",
-          "event_type": "Goal",
-          "assist": "R. Morishita",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Sheffield United",
-          "player": "R. Donovan",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Blackburn Rovers_wins": "2",
-          "draws": "1",
-          "Sheffield United_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "22/04/2026",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Sheffield United 1 - 3 Blackburn Rovers"
-          },
-          {
-            "date": "03/05/2025",
-            "competition": "Championship",
-            "teams_and_score": "Sheffield United 1 - 1 Blackburn Rovers"
-          },
-          {
-            "date": "19/03/2023",
-            "competition": "English FA Cup 2022/2023",
-            "teams_and_score": "Sheffield United 3 - 2 Blackburn Rovers"
-          },
-          {
-            "date": "04/03/2023",
-            "competition": "English Football League - Championship 2022/2023",
-            "teams_and_score": "Blackburn Rovers 1 - 0 Sheffield United"
-          },
-          {
-            "date": "23/02/2022",
-            "competition": "English Football League - Championship 2021/2022",
-            "teams_and_score": "Sheffield United 1 - 0 Blackburn Rovers"
-          },
-          {
-            "date": "27/08/2019",
-            "competition": "English League Cup 2019/2020",
-            "teams_and_score": "Sheffield United 2 - 1 Blackburn Rovers"
-          }
-        ],
-        "home_team_form": {
-          "team": "Blackburn Rovers",
-          "form": [
-            "L",
-            "W",
-            "W",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
-              "result": "L"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Blackburn Rovers 2 - 1 Middlesbrough",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Burton Albion 1 - 2 Blackburn Rovers",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Huddersfield Town 1 - 1 Blackburn Rovers",
-              "result": "D"
-            },
-            {
-              "date": "22/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Nottingham Forest 3 - 0 Blackburn Rovers",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Sheffield United",
-          "form": [
-            "W",
-            "D",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
-              "result": "W"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Blackburn Rovers": "5",
-          "Sheffield United": "5"
-        },
-        "shots_off_target": {
-          "Blackburn Rovers": "3",
-          "Sheffield United": "7"
-        },
-        "shots_blocked": {
-          "Blackburn Rovers": "1",
-          "Sheffield United": "4"
-        },
-        "corners": {
-          "Blackburn Rovers": "6",
-          "Sheffield United": "4"
-        },
-        "fouls": {
-          "Blackburn Rovers": "12",
-          "Sheffield United": "9"
-        },
-        "offsides": {
-          "Blackburn Rovers": "2",
-          "Sheffield United": "0"
-        },
-        "goalkeeper_saves": {
-          "Blackburn Rovers": "3",
-          "Sheffield United": "4"
-        },
-        "crosses": {
-          "Blackburn Rovers": "3",
-          "Sheffield United": "5"
-        },
-        "ball_possession": {
-          "Blackburn Rovers": "49%",
-          "Sheffield United": "51%"
-        }
-      },
-      "description": "Watch Blackburn Rovers vs Sheffield United highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 25, 2026. The stage was set for a classic cup tie as two storied sides met in a high-stakes encounter that promised drama from the opening whistle. On August 25, 2026 , the Carabao Cup delivered a tactical battle that swung back and forth under the floodlights. Early Pressure and Quick Exchanges Blackburn Rovers began the contest with intent, as Dion De Neve found himself with two early opportunities within the first five minutes, only to be denied by the alert Adam Davies in the Sheffield United goal. However, the home side's rhythm was disrupted early on when Yuki Ohashi was forced off with an injury, leading to the introduction of Oladapo Afolayan . Sheffield United capitalized on the shifting momentum in the 20th minute. Following a swift fast break, Thomas Cannon clinically slotted a right-footed shot into the bottom right corner to give the visitors the lead. The \"Blades\" nearly doubled their advantage just before the break, but Cannon was denied by the woodwork as his effort struck the post in stoppage time. Afolayan’s Screamer and Tactical Shifts The second half saw Blackburn Rovers emerge with renewed energy after a series of tactical substitutions. Their persistence paid off in the 55th minute when Oladapo Afolayan produced a moment of magic. Picking up a pass from Ryoya Morishita , Afolayan unleashed a thunderous strike from outside the box that flew into the top right corner, leveling the score at 1-1. As the game intensified, Sheffield United manager responded by bringing on Kalvin Phillips and Callum O'Hare to stabilize the midfield. The match became a cagey affair with both sides searching for the decisive opening, and Todd Cantwell nearly found it for Blackburn, only for his angled drive to be parried by Davies . Donovan Finds the Winner The defining moment arrived in the 81st minute. After Tyrese Campbell saw his effort rebound off the post, Romelle Donovan was the quickest to react, poaching a goal from close range to restore Sheffield United 's lead. The visitors' resilience was tested in the closing stages as the fourth official indicated six minutes of added time. Blackburn pushed forward in a desperate search for an equalizer, but a late handball by Afolayan and an offside call against Frank Vare halted their momentum. Ultimately, Sheffield United held firm to secure their place in the next round, ending a pulsating night of football with a hard-fought victory."
-    },
-    {
       "title": "Sheffield United vs Birmingham",
       "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-birmingham-2026-08-15-zTwV.webp",
       "competition": "Championship",
@@ -804,6 +1300,202 @@
         }
       },
       "description": "Watch Sheffield United vs Birmingham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The atmosphere was thick with anticipation as two historic clubs locked horns in a clash of tactical discipline. Both sides looked to assert their dominance early on, setting the stage for a gritty encounter under the floodlights. Tactical Stalemate in the Opening Period On August 15, 2026 , Sheffield United hosted Birmingham in a Championship fixture defined by its physical intensity. The first half saw both teams struggle to find a decisive breakthrough, as defensive units remained compact and disciplined. Despite the high energy levels, clear-cut chances were at a premium, and the referee brought the first period to a close after two minutes of added time with the scores still level. Tactical Adjustments and Fresh Legs As the second half got underway, both managers turned to their benches to find a spark. In the 60th minute, Sheffield United introduced Tyrese Campbell for Thomas Cannon , while Birmingham brought on the creative Tahith Chong . The game began to open up slightly as Ollie Arblaster and Demarai Gray entered the fray for their respective sides. The introduction of Ryan One and Harrison Burrows late in the half further signaled the home side's intent to snatch a late winner, but the visitors' defense held firm under increasing pressure. A Final Push for Victory The closing stages were marked by a flurry of substitutions, including Ethan Laird and Luis Vazquez coming on for Birmingham in the 87th minute. Despite five minutes of stoppage time and several late set-piece opportunities, neither side could find the back of the net. The referee blew the final whistle at 90+5', concluding a match where defensive organization ultimately triumphed over offensive ambition, leaving both teams to take a hard-earned point home."
+    },
+    {
+      "title": "Mansfield Town vs Sheffield United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/mansfield-town-vs-sheffield-united-2026-08-09-SY9Q.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15407.webp",
+          "name": "Sheffield United",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1374.webp",
+          "name": "Mansfield Town",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/mansfield-town-vs-sheffield-united-2026-08-09_ltTQU.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Sheffield United",
+          "player": "P. Bamford",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Sheffield United",
+          "player": "F. Seriki",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Mansfield Town",
+          "player": "L. Reed",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Sheffield United",
+          "player": "M. McGuinness",
+          "event_type": "Goal",
+          "assist": "S. Peck",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Mansfield Town",
+          "player": "L. Thompson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Sheffield United",
+          "player": "C. O'Hare",
+          "event_type": "Goal",
+          "score_update": "0 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Mansfield Town_wins": "2",
+          "draws": "1",
+          "Sheffield United_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "11/01/2026",
+            "competition": "FA Cup: Round 3",
+            "teams_and_score": "Sheffield United 3 - 4 Mansfield Town"
+          },
+          {
+            "date": "19/07/2022",
+            "competition": "Friendly 2022",
+            "teams_and_score": "Mansfield Town 3 - 0 Sheffield United"
+          },
+          {
+            "date": "21/07/2018",
+            "competition": "Friendly 2018",
+            "teams_and_score": "Mansfield Town 0 - 0 Sheffield United"
+          },
+          {
+            "date": "13/08/2014",
+            "competition": "English League Cup 2014/2015",
+            "teams_and_score": "Sheffield United 2 - 1 Mansfield Town"
+          }
+        ],
+        "home_team_form": {
+          "team": "Mansfield Town",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
+              "result": "L"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Mansfield Town 1 - 3 Derby County",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Mansfield Town 5 - 4 Cardiff City",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sheffield United",
+          "form": [
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Derby County 1 - 2 Sheffield United",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Mansfield Town": "2",
+          "Sheffield United": "4"
+        },
+        "shots_off_target": {
+          "Mansfield Town": "4",
+          "Sheffield United": "9"
+        },
+        "shots_blocked": {
+          "Mansfield Town": "1",
+          "Sheffield United": "7"
+        },
+        "corners": {
+          "Mansfield Town": "5",
+          "Sheffield United": "3"
+        },
+        "fouls": {
+          "Mansfield Town": "15",
+          "Sheffield United": "13"
+        },
+        "offsides": {
+          "Mansfield Town": "2",
+          "Sheffield United": "0"
+        },
+        "yellow_cards": {
+          "Mansfield Town": "2",
+          "Sheffield United": "1"
+        },
+        "goalkeeper_saves": {
+          "Mansfield Town": "1",
+          "Sheffield United": "2"
+        },
+        "crosses": {
+          "Mansfield Town": "2",
+          "Sheffield United": "5"
+        },
+        "ball_possession": {
+          "Mansfield Town": "50%",
+          "Sheffield United": "50%"
+        }
+      },
+      "description": "Watch Mansfield Town vs Sheffield United highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 9, 2026. A Carabao Cup Clash at Field Mill On August 9, 2026 , Mansfield Town welcomed Sheffield United for a high-stakes encounter in the Carabao Cup . The stage was set for a classic cup battle, with both sides eager to make their mark on the tournament early in the campaign. An Early Breakthrough Sheffield United signaled their intent almost immediately, striking in the fourth minute. Patrick Bamford clinically finished a Joe Rothwell pass, sending the ball into the center of the goal to give the visitors the lead. Mansfield Town did not retreat, however, creating several chances as Frazer Blake-Tracy forced a smart save from Michael Cooper , but the home side struggled to break through the organized defensive structure of the visitors. Sealing the Progression The second half saw Sheffield United assert further dominance. In the 71st minute, Mark McGuinness rose highest to meet a Sydie Peck corner, heading home to double the lead. As the game wore on, the visitors remained disciplined, eventually putting the result beyond doubt in the 89th minute. Callum O'Hare capped off a swift counter-attack assisted by Ryan Oné , firing home from close range to secure a 3-0 victory and a convincing spot in the next round of the competition."
     }
   ]
 }

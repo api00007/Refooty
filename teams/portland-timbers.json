@@ -1,131 +1,231 @@
 {
   "team": "Portland Timbers",
   "team_logo": "https://img.refooty.com/logo/teams/1617.webp",
-  "total_matches": 8,
-  "Last update time": "04:20:38 AM 05-09-2026",
+  "total_matches": 9,
+  "Last update time": "05:35:06 AM 05-09-2026",
   "matches": [
     {
-      "title": "Club América - Portland Timbers | Leagues Cup | Full Match Highlights",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/club-america-portland-timbers-leagues-cup-full-match-highlights-2026-08-10-3fWn.webp",
-      "competition": "Unknown Competition",
-      "competition_cover": "",
-      "date": "Aug 10, 2026",
+      "title": "Portland Timbers - Austin FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/portland-timbers-austin-fc-2026-08-30-CTlT.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 30, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1617.webp",
-          "name": "Portland Timbers",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/16489.webp",
+          "name": "Austin FC",
+          "score": "2"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/2287.webp",
-          "name": "Club America",
-          "score": "3"
+          "logo": "https://img.refooty.com/logo/teams/1617.webp",
+          "name": "Portland Timbers",
+          "score": "1"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/club-america-portland-timbers-leagues-cup-full-match-highlights-2026-08-10_VDCj3.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/portland-timbers-austin-fc-2026-08-30.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Club America",
-          "player": "S. Gomez",
+          "team": "Austin FC",
+          "player": "F. Torres",
           "event_type": "Goal",
-          "assist": "P. Rothrock",
-          "score_update": "1 - 0"
+          "assist": "J. Rosales",
+          "score_update": "0 - 1"
         },
         {
           "time": "16'",
-          "team": "Club America",
-          "player": "D. Musovski",
-          "event_type": "Goal",
-          "assist": "P. Rothrock",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Club America",
-          "player": "M. Anchor",
+          "team": "Austin FC",
+          "player": "G. Biro",
           "event_type": "Yellow Card"
         },
         {
-          "time": "46'",
+          "time": "47'",
+          "team": "Austin FC",
+          "player": "M. Desler",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "88'",
           "team": "Portland Timbers",
-          "player": "S. Homenchenko",
+          "player": "J. Caicedo",
           "event_type": "Yellow Card"
         },
         {
-          "time": "61'",
-          "team": "Club America",
-          "player": "A. Rusnak",
+          "time": "88'",
+          "team": "Austin FC",
+          "player": "O. Svatok",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "89'",
+          "team": "Portland Timbers",
+          "player": "Antony",
           "event_type": "Goal",
-          "assist": "S. Gomez",
-          "score_update": "3 - 0"
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "90+3'",
+          "team": "Austin FC",
+          "player": "O. Svatok",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "90+7'",
+          "team": "Austin FC",
+          "player": "J. Rosales",
+          "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Club America_wins": "0",
-          "draws": "0",
-          "Portland Timbers_wins": "0"
+          "Portland Timbers_wins": "3",
+          "draws": "1",
+          "Austin FC_wins": "1"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "05/04/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Austin FC 0 - 0 Portland Timbers"
+          },
+          {
+            "date": "03/10/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Portland Timbers 0 - 1 Austin FC"
+          },
+          {
+            "date": "18/09/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Austin FC 1 - 2 Portland Timbers"
+          },
+          {
+            "date": "01/09/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Austin FC 1 - 2 Portland Timbers"
+          },
+          {
+            "date": "07/11/2021",
+            "competition": "Major League Soccer 2021",
+            "teams_and_score": "Portland Timbers 3 - 0 Austin FC"
+          }
+        ],
         "home_team_form": {
-          "team": "Club America",
+          "team": "Portland Timbers",
           "form": [
             "L",
-            "L"
+            "W",
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "09/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
+              "date": "30/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 1 - 2 Austin FC",
               "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Portland Timbers 3 - 1 Tijuana",
+              "result": "W"
             },
             {
               "date": "02/08/2026",
               "competition": "MLS",
               "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
-              "result": "L"
+              "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "Portland Timbers",
+          "team": "Austin FC",
           "form": [
+            "W",
             "L",
-            "L",
-            "W"
+            "D",
+            "D",
+            "L"
           ],
           "recent_matches": [
             {
-              "date": "09/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Liga MX: Apertura",
-              "teams_and_score": "Queretaro FC 3 - 2 Tigres",
-              "result": "L"
-            },
-            {
-              "date": "25/04/2026",
-              "competition": "Liga MX: Clausura",
-              "teams_and_score": "Puebla 1 - 2 Queretaro FC",
+              "date": "30/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 1 - 2 Austin FC",
               "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Leagues Cup: Final Stage",
+              "teams_and_score": "Toluca 2 - 0 Austin FC",
+              "result": "L"
+            },
+            {
+              "date": "23/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Austin FC 1 - 1 Philadelphia Union",
+              "result": "D"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "CF America 1 - 1 Austin FC",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Colorado Rapids 1 - 0 Austin FC",
+              "result": "L"
             }
           ]
         }
       },
-      "statistics": {},
-      "description": "Watch Club America vs Portland Timbers highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 10, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Portland Timbers": "5",
+          "Austin FC": "4"
+        },
+        "shots_off_target": {
+          "Portland Timbers": "4",
+          "Austin FC": "3"
+        },
+        "shots_blocked": {
+          "Portland Timbers": "5",
+          "Austin FC": "3"
+        },
+        "corners": {
+          "Portland Timbers": "6",
+          "Austin FC": "3"
+        },
+        "fouls": {
+          "Portland Timbers": "9",
+          "Austin FC": "14"
+        },
+        "offsides": {
+          "Portland Timbers": "3",
+          "Austin FC": "1"
+        },
+        "yellow_cards": {
+          "Portland Timbers": "1",
+          "Austin FC": "4"
+        },
+        "goalkeeper_saves": {
+          "Portland Timbers": "1",
+          "Austin FC": "4"
+        },
+        "ball_possession": {
+          "Portland Timbers": "50%",
+          "Austin FC": "50%"
+        }
+      },
+      "description": "Watch Portland Timbers vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The atmosphere at the stadium was electric as Portland Timbers and Austin FC faced off in a high-stakes MLS encounter. Both sides knew that every moment would count in this late-August clash where momentum shifted until the final whistle. Opening Exchange and Early Lead On August 30, 2026 , the match began with notable intensity from both sides. Austin FC managed to break the deadlock in the 25th minute when Facundo Torres found the back of the net after a precise setup by Joseph Rosales . This early advantage forced the Portland Timbers to push forward, but the first half remained physically demanding, evidenced by a yellow card for Guilherme Biro as both teams battled for control in the midfield. Second Half Tactical Battles The second half saw increased friction immediately after the restart, starting with a yellow card for Mikkel Desler in the 47th minute. Both managers turned to their benches to influence the game's flow. The Portland Timbers introduced Antony in the 62nd minute, a move designed to add clinical finishing to their attack. As the clock ticked down, the intensity reached a boiling point in the 88th minute when Jose Caicedo and Oleksandr Svatok were both booked during a heated exchange. Stoppage Time Chaos The final minutes delivered a rollercoaster of emotions for the fans. In the 89th minute, the Portland Timbers were awarded a penalty, which Antony coolly converted to level the score at 1-1. However, the celebrations were short-lived. Deep into stoppage time, in the 93rd minute, Oleksandr Svatok turned from villain to hero, scoring a dramatic late goal to restore the lead for Austin FC . Despite a late yellow card for Joseph Rosales and a desperate push from the home side, Austin FC held on for a crucial 2-1 victory."
     },
     {
       "title": "LAFC - Portland Timbers",
@@ -343,6 +443,203 @@
         }
       },
       "description": "Watch Los Angeles FC vs Portland Timbers highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 23, 2026. The atmosphere was electric for the MLS clash on August 23, 2026 , as Los Angeles FC hosted the Portland Timbers . Both teams took to the pitch seeking territorial dominance in a match that promised to be decided by tactical discipline and physical endurance. An Early Shock and Forced Adjustments The match ignited almost immediately in favor of the visitors. In just the 4th minute, the Portland Timbers silenced the home crowd when David Da Costa found the back of the net following a precise pass from Kristoffer Velde . This early goal forced LAFC into an immediate pursuit of an equalizer, but the game's rhythm was frequently disrupted by fouls. Mathieu Choiniere saw yellow in the 16th minute, and shortly after, the hosts faced a tactical setback when Timothy Tillman was replaced by Jacob Shaffelburg in the 20th minute due to an early change. Tactical Battle and the Equalizer The second half introduced a flurry of substitutions as both managers looked to tip the scales. While Portland sought to defend their narrow lead, LAFC ramped up the pressure. The home side's persistence finally paid off in the 79th minute. Assisted by Jude Terry , the talismanic Denis Bouanga clinical finish brought the score level at 1-1, re-energizing the stadium. The goal was a just reward for Los Angeles' offensive efforts as they refused to let the game slip away in front of their fans. Stoppage Time Drama and a Red Card The closing stages were defined by high tension and disciplinary issues. Denis Bouanga received a yellow card in the 87th minute, followed closely by Portland's Vincent Janssen in the 89th. However, Janssen's night ended prematurely in stoppage time; in the 90+3rd minute, he was shown a second yellow card and sent off. Despite the late man advantage for LAFC , the 1-1 scoreline held firm until the final whistle at 90+6, concluding a fiercely contested battle in the City of Angels."
+    },
+    {
+      "title": "Portland Timbers vs San Diego",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/portland-timbers-vs-san-diego-2026-08-20-162Z.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/25484.webp",
+          "name": "San Diego",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1617.webp",
+          "name": "Portland Timbers",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/portland-timbers-vs-san-diego-2026-08-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "17'",
+          "team": "Portland Timbers",
+          "player": "A. Lassister",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "29'",
+          "team": "Portland Timbers",
+          "player": "K. Velde",
+          "event_type": "Goal",
+          "assist": "C. Bassett",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "45+1'",
+          "team": "San Diego",
+          "player": "G. Pirani",
+          "event_type": "Goal",
+          "assist": "L. Morgan",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "51'",
+          "team": "Portland Timbers",
+          "player": "A. Lassister",
+          "event_type": "Goal",
+          "assist": "J. Fory",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "68'",
+          "team": "Portland Timbers",
+          "player": "D. P. d. Costa",
+          "event_type": "Goal",
+          "assist": "K. Velde",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "90+1'",
+          "team": "San Diego",
+          "player": "O. Verhoeven",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+6'",
+          "team": "Portland Timbers",
+          "player": "K. Kelsy",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Portland Timbers_wins": "1",
+          "draws": "0",
+          "San Diego_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "26/04/2026",
+            "competition": "MLS",
+            "teams_and_score": "San Diego 1 - 2 Portland Timbers"
+          },
+          {
+            "date": "10/11/2025",
+            "competition": "MLS: Play-off 2025",
+            "teams_and_score": "San Diego 4 - 0 Portland Timbers"
+          },
+          {
+            "date": "19/10/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Portland Timbers 0 - 4 San Diego"
+          }
+        ],
+        "home_team_form": {
+          "team": "Portland Timbers",
+          "form": [
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 3 - 1 San Diego",
+              "result": "W"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Portland Timbers 3 - 1 Tijuana",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "San Diego",
+          "form": [
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 3 - 1 San Diego",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "San Diego 3 - 2 Puebla",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Minnesota United 1 - 1 San Diego",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Portland Timbers": "5",
+          "San Diego": "6"
+        },
+        "shots_off_target": {
+          "Portland Timbers": "5",
+          "San Diego": "6"
+        },
+        "shots_blocked": {
+          "Portland Timbers": "1",
+          "San Diego": "9"
+        },
+        "corners": {
+          "Portland Timbers": "0",
+          "San Diego": "7"
+        },
+        "fouls": {
+          "Portland Timbers": "14",
+          "San Diego": "10"
+        },
+        "offsides": {
+          "Portland Timbers": "3",
+          "San Diego": "1"
+        },
+        "yellow_cards": {
+          "Portland Timbers": "2",
+          "San Diego": "1"
+        },
+        "goalkeeper_saves": {
+          "Portland Timbers": "5",
+          "San Diego": "2"
+        },
+        "ball_possession": {
+          "Portland Timbers": "30%",
+          "San Diego": "70%"
+        }
+      },
+      "description": "Watch Portland Timbers vs San Diego highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 20, 2026. The stage was set for a thrilling MLS encounter as Portland Timbers hosted San Diego in a clash of tactical wits and individual brilliance. On August 20, 2026 , fans packed the stands to witness a battle where every transition and set piece felt like a potential turning point in a high-stakes league match. A Seesaw Battle in the Opening Half The match ignited early with a high tempo, as both sides looked to establish dominance in the midfield. Ariel Lassiter was the first to enter the referee's book with a yellow card in the 17th minute, reflecting the physical nature of the contest. The deadlock was finally broken in the 29th minute when Kristoffer Velde found the back of the net following a sharp assist from Cole Bassett , giving the Portland Timbers a well-deserved lead. However, San Diego refused to go into the break trailing. In the first minute of stoppage time (45+1'), Lewis Morgan delivered a pinpoint pass to Gabriel Pirani , who clinicaly finished to level the score at 1-1. It was a crucial blow just before the whistle, reshaping the narrative for the second period as both teams retreated to the dressing rooms with everything to play for. Timbers Pull Away in the Second Act Whatever was said in the Portland Timbers locker room worked wonders, as they emerged with renewed vigor. In the 51st minute, Jimer Fory set up Ariel Lassiter , who made up for his earlier booking by restoring the home side's advantage. The momentum was firmly with the hosts, and they doubled down in the 68th minute. Kristoffer Velde turned provider this time, assisting David Da Costa for a strike that made it 3-1. A series of substitutions followed, with San Diego introducing Elias Achouri and Amahl Pellegrino in hopes of a late comeback. Despite the tactical shifts and a few late yellow cards for Oscar Verhoeven and Kevin Kelsy , the Timbers remained composed. The final whistle confirmed a decisive victory for the home side, showcasing their clinical efficiency in front of goal."
     },
     {
       "title": "Chicago Fire FC - Portland Timbers",
@@ -1069,203 +1366,6 @@
       "description": "Watch Portland Timbers vs Seattle Sounders FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 2, 2026. The storied rivalry between the Portland Timbers and Seattle Sounders FC added another thrilling chapter on August 2, 2026 . With both teams desperate for bragging rights in this MLS clash, the match delivered a high-octane performance that kept fans on the edge of their seats until the final whistle. Early Shifts and a Shock Opener The contest began with an early tactical curveball when Paul Arriola was forced off due to injury just seven minutes in, replaced by Kalani Rienzi . This sudden change didn’t dampen the visitors' spirits; in fact, it sparked them into life. In the 27th minute, it was the substitute Kalani Rienzi who broke the deadlock, firing home to give the Sounders an early lead. The physical nature of the derby soon became apparent, as Peter Kingston and Kamal Miller both went into the book before the half-hour mark as challenges flew in from both sides. Portland Strikes Back Before the Break As the first half drew to a close, the Timbers found their rhythm. Their persistence paid dividends in the 41st minute when Kristoffer Velde turned provider, delivering a pinpoint assist for Kevin Kelsy to slot home the equalizer. The goal energized the home crowd, though the intensity remained high, leading to a yellow card for Kelsy himself during a lengthy period of first-half stoppage time. The teams headed into the tunnels with the game perfectly poised at 1-1. Bye Seals the Comeback The second half saw a flurry of substitutions as both managers looked for a decisive edge. Sebastian Gomez and Antony were introduced to inject pace into the game, while the tension continued to simmer with a yellow card for Gomez in the 71st minute. The breakthrough finally arrived in the 82nd minute when David Da Costa set up Brandon Bye , who made no mistake with a clinical finish to put the Timbers ahead for the first time. Despite five minutes of added time and late pressure from Seattle, Portland held firm to secure a memorable victory in one of North America's most intense footballing environments."
     },
     {
-      "title": "Portland Timbers vs San Diego",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/portland-timbers-vs-san-diego-2026-08-20-162Z.webp",
-      "competition": "Major League Soccer",
-      "competition_cover": "https://refooty.com/covers/mls.webp",
-      "date": "Aug 20, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/25484.webp",
-          "name": "San Diego",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1617.webp",
-          "name": "Portland Timbers",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/portland-timbers-vs-san-diego-2026-08-20.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "17'",
-          "team": "Portland Timbers",
-          "player": "A. Lassister",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "29'",
-          "team": "Portland Timbers",
-          "player": "K. Velde",
-          "event_type": "Goal",
-          "assist": "C. Bassett",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "45+1'",
-          "team": "San Diego",
-          "player": "G. Pirani",
-          "event_type": "Goal",
-          "assist": "L. Morgan",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "51'",
-          "team": "Portland Timbers",
-          "player": "A. Lassister",
-          "event_type": "Goal",
-          "assist": "J. Fory",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "68'",
-          "team": "Portland Timbers",
-          "player": "D. P. d. Costa",
-          "event_type": "Goal",
-          "assist": "K. Velde",
-          "score_update": "3 - 1"
-        },
-        {
-          "time": "90+1'",
-          "team": "San Diego",
-          "player": "O. Verhoeven",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+6'",
-          "team": "Portland Timbers",
-          "player": "K. Kelsy",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Portland Timbers_wins": "1",
-          "draws": "0",
-          "San Diego_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "26/04/2026",
-            "competition": "MLS",
-            "teams_and_score": "San Diego 1 - 2 Portland Timbers"
-          },
-          {
-            "date": "10/11/2025",
-            "competition": "MLS: Play-off 2025",
-            "teams_and_score": "San Diego 4 - 0 Portland Timbers"
-          },
-          {
-            "date": "19/10/2025",
-            "competition": "MLS 2025",
-            "teams_and_score": "Portland Timbers 0 - 4 San Diego"
-          }
-        ],
-        "home_team_form": {
-          "team": "Portland Timbers",
-          "form": [
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "20/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Portland Timbers 3 - 1 San Diego",
-              "result": "W"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Portland Timbers 3 - 1 Tijuana",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "San Diego",
-          "form": [
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "20/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Portland Timbers 3 - 1 San Diego",
-              "result": "L"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "San Diego 3 - 2 Puebla",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Minnesota United 1 - 1 San Diego",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Portland Timbers": "5",
-          "San Diego": "6"
-        },
-        "shots_off_target": {
-          "Portland Timbers": "5",
-          "San Diego": "6"
-        },
-        "shots_blocked": {
-          "Portland Timbers": "1",
-          "San Diego": "9"
-        },
-        "corners": {
-          "Portland Timbers": "0",
-          "San Diego": "7"
-        },
-        "fouls": {
-          "Portland Timbers": "14",
-          "San Diego": "10"
-        },
-        "offsides": {
-          "Portland Timbers": "3",
-          "San Diego": "1"
-        },
-        "yellow_cards": {
-          "Portland Timbers": "2",
-          "San Diego": "1"
-        },
-        "goalkeeper_saves": {
-          "Portland Timbers": "5",
-          "San Diego": "2"
-        },
-        "ball_possession": {
-          "Portland Timbers": "30%",
-          "San Diego": "70%"
-        }
-      },
-      "description": "Watch Portland Timbers vs San Diego highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 20, 2026. The stage was set for a thrilling MLS encounter as Portland Timbers hosted San Diego in a clash of tactical wits and individual brilliance. On August 20, 2026 , fans packed the stands to witness a battle where every transition and set piece felt like a potential turning point in a high-stakes league match. A Seesaw Battle in the Opening Half The match ignited early with a high tempo, as both sides looked to establish dominance in the midfield. Ariel Lassiter was the first to enter the referee's book with a yellow card in the 17th minute, reflecting the physical nature of the contest. The deadlock was finally broken in the 29th minute when Kristoffer Velde found the back of the net following a sharp assist from Cole Bassett , giving the Portland Timbers a well-deserved lead. However, San Diego refused to go into the break trailing. In the first minute of stoppage time (45+1'), Lewis Morgan delivered a pinpoint pass to Gabriel Pirani , who clinicaly finished to level the score at 1-1. It was a crucial blow just before the whistle, reshaping the narrative for the second period as both teams retreated to the dressing rooms with everything to play for. Timbers Pull Away in the Second Act Whatever was said in the Portland Timbers locker room worked wonders, as they emerged with renewed vigor. In the 51st minute, Jimer Fory set up Ariel Lassiter , who made up for his earlier booking by restoring the home side's advantage. The momentum was firmly with the hosts, and they doubled down in the 68th minute. Kristoffer Velde turned provider this time, assisting David Da Costa for a strike that made it 3-1. A series of substitutions followed, with San Diego introducing Elias Achouri and Amahl Pellegrino in hopes of a late comeback. Despite the tactical shifts and a few late yellow cards for Oscar Verhoeven and Kevin Kelsy , the Timbers remained composed. The final whistle confirmed a decisive victory for the home side, showcasing their clinical efficiency in front of goal."
-    },
-    {
       "title": "Portland Timbers - Club Tijuana | Leagues Cup | Full Match Highlights",
       "thumbnail_url": "https://img.refooty.com/thumbnail/portland-timbers-club-tijuana-leagues-cup-full-match-highlights-2026-08-14-3BI3.webp",
       "competition": "Unknown Competition",
@@ -1407,6 +1507,129 @@
       },
       "statistics": {},
       "description": "Watch Portland Timbers vs Club Tijuana highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 14, 2026."
+    },
+    {
+      "title": "Club América - Portland Timbers | Leagues Cup | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/club-america-portland-timbers-leagues-cup-full-match-highlights-2026-08-10-3fWn.webp",
+      "competition": "Unknown Competition",
+      "competition_cover": "",
+      "date": "Aug 10, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1617.webp",
+          "name": "Portland Timbers",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/2287.webp",
+          "name": "Club America",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/club-america-portland-timbers-leagues-cup-full-match-highlights-2026-08-10_VDCj3.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Club America",
+          "player": "S. Gomez",
+          "event_type": "Goal",
+          "assist": "P. Rothrock",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Club America",
+          "player": "D. Musovski",
+          "event_type": "Goal",
+          "assist": "P. Rothrock",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Club America",
+          "player": "M. Anchor",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Portland Timbers",
+          "player": "S. Homenchenko",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Club America",
+          "player": "A. Rusnak",
+          "event_type": "Goal",
+          "assist": "S. Gomez",
+          "score_update": "3 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Club America_wins": "0",
+          "draws": "0",
+          "Portland Timbers_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Club America",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Portland Timbers",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Liga MX: Apertura",
+              "teams_and_score": "Queretaro FC 3 - 2 Tigres",
+              "result": "L"
+            },
+            {
+              "date": "25/04/2026",
+              "competition": "Liga MX: Clausura",
+              "teams_and_score": "Puebla 1 - 2 Queretaro FC",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Club America vs Portland Timbers highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 10, 2026."
     }
   ]
 }
