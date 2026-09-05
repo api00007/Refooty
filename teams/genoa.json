@@ -1,9 +1,250 @@
 {
   "team": "Genoa",
   "team_logo": "https://img.refooty.com/logo/teams/495.webp",
-  "total_matches": 4,
-  "Last update time": "05:35:06 AM 05-09-2026",
+  "total_matches": 5,
+  "Last update time": "06:20:40 AM 05-09-2026",
   "matches": [
+    {
+      "title": "Genoa vs Como",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/genoa-v-como-2026-09-04-BDmE.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Sep 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/895.webp",
+          "name": "Como",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/495.webp",
+          "name": "Genoa",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Genoa_v_Como_2026_09_04.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Genoa",
+          "player": "M. Osmajić",
+          "event_type": "Goal",
+          "assist": "L. Colombo",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Como",
+          "player": "M. Baturina",
+          "event_type": "Goal",
+          "assist": "A. Valle",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Como",
+          "player": "A. Diao",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Genoa",
+          "player": "D. Sow",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Como",
+          "player": "N. Paz",
+          "event_type": "Goal",
+          "assist": "Y. Couto",
+          "score_update": "1 - 3"
+        },
+        {
+          "time": "46'",
+          "team": "Como",
+          "player": "M. Baturina",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Genoa",
+          "player": "L. Østigård",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Como",
+          "player": "A. Diao",
+          "event_type": "Goal",
+          "assist": "M. Kean",
+          "score_update": "1 - 4"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Genoa_wins": "1",
+          "draws": "1",
+          "Como_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "26/04/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Genoa 0 - 2 Como 1907"
+          },
+          {
+            "date": "27/04/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Como 1907 1 - 0 Genoa"
+          },
+          {
+            "date": "10/04/2023",
+            "competition": "Serie B 22/23",
+            "teams_and_score": "Como 1907 2 - 2 Genoa"
+          },
+          {
+            "date": "29/05/2004",
+            "competition": "Serie Bwin",
+            "teams_and_score": "Como 1907 1 - 3 Genoa"
+          }
+        ],
+        "home_team_form": {
+          "team": "Genoa",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Genoa 1 - 4 Como 1907",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Genoa 4 - 1 Ascoli",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Genoa 0 - 1 Deportivo A Coruna",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "AFC Bournemouth 10 - 1 Genoa",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leicester City 0 - 1 Genoa",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Como",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Genoa 1 - 4 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 1 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Como 1907 3 - 2 Famalicao",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Genoa": "2",
+          "Como": "9"
+        },
+        "shots_off_target": {
+          "Genoa": "5",
+          "Como": "6"
+        },
+        "shots_blocked": {
+          "Genoa": "4",
+          "Como": "5"
+        },
+        "corners": {
+          "Genoa": "5",
+          "Como": "4"
+        },
+        "fouls": {
+          "Genoa": "8",
+          "Como": "7"
+        },
+        "offsides": {
+          "Genoa": "6",
+          "Como": "2"
+        },
+        "yellow_cards": {
+          "Genoa": "2",
+          "Como": "1"
+        },
+        "goalkeeper_saves": {
+          "Genoa": "5",
+          "Como": "1"
+        },
+        "crosses": {
+          "Genoa": "6",
+          "Como": "4"
+        },
+        "ball_possession": {
+          "Genoa": "38%",
+          "Como": "62%"
+        }
+      },
+      "description": "Watch Genoa vs Como highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 4, 2026. The Serie A clash on September 4, 2026 , brought a charged atmosphere to the stadium as Genoa hosted Como . Both sides entered the pitch looking to establish dominance in what promised to be a fascinating tactical battle. A First-Half Whirlwind Genoa ignited the home crowd early in the 19th minute. A fluid move initiated by Tommaso Baldanzi saw Lorenzo Colombo provide the decisive assist for Milutin Osmajic , who slotted home with a clinical left-footed finish. However, the celebrations were short-lived as Como responded with devastating efficiency. In the 25th minute, Martin Baturina unleashed a powerful strike from outside the box to level the scores, assisted by Alex Valle . The momentum swung entirely in favor of the visitors shortly after. In the 30th minute, Assane Diao showcased his technical prowess by volleying the ball into the net to give Como the lead. The pressure continued, and by the 40th minute, Nico Paz added a third for the away side, finishing a move involving Yan Couto to leave the hosts with a mountain to climb before the interval. Clinical Finish and Strategic Control The second half saw Genoa attempt a comeback through a series of substitutions, bringing on Vitinha and Junior Messias to inject pace into the attack. Despite their efforts and several corners delivered by Amorim , Como remained composed. The visitors maintained 62% possession, frustrating Genoa ’s attempts to find a way back into the game. Tensions rose as Martin Baturina and Leo Oestigard both saw yellow cards for rough challenges. Como finally put the result beyond doubt in the 78th minute. Moise Kean turned provider for Assane Diao , who found the back of the net for the second time with a precise right-footed strike. In the closing stages, Trevoh Chalobah anchored a solid defensive line that repelled every late charge from Genoa , securing a well-deserved victory for the visitors after a masterclass in clinical finishing."
+    },
     {
       "title": "Lazio vs Genoa",
       "thumbnail_url": "https://img.refooty.com/thumbnail/lazio-v-genoa-2026-08-30-z9pH.webp",

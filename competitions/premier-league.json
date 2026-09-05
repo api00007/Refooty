@@ -1,9 +1,437 @@
 {
   "competition": "Premier League",
   "competition_cover": "https://refooty.com/covers/premier-league.webp",
-  "total_matches": 19,
-  "Last update time": "05:35:05 AM 05-09-2026",
+  "total_matches": 21,
+  "Last update time": "06:20:40 AM 05-09-2026",
   "matches": [
+    {
+      "title": "Ipswich vs Liverpool",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/ipswich-v-liverpool-2026-09-04-lagV.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/40.webp",
+          "name": "Liverpool",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/57.webp",
+          "name": "Ipswich",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Ipswich_v_Liverpool_2026_09_04.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Goal",
+          "assist": "C. Gakpo",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Goal",
+          "assist": "C. Gakpo",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "31'",
+          "team": "Liverpool",
+          "player": "A. M. Allister",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Ipswich",
+          "player": "J. Enciso",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Liverpool",
+          "player": "J. Jacquet",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Liverpool",
+          "player": "M. Kerkez",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Ipswich_wins": "0",
+          "draws": "1",
+          "Liverpool_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "25/01/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Liverpool 4 - 1 Ipswich Town"
+          },
+          {
+            "date": "04/12/2002",
+            "competition": "League Cup",
+            "teams_and_score": "Liverpool 1 - 1 Ipswich Town"
+          },
+          {
+            "date": "11/05/2002",
+            "competition": "Premier League",
+            "teams_and_score": "Liverpool 5 - 0 Ipswich Town"
+          }
+        ],
+        "home_team_form": {
+          "team": "Ipswich",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Ipswich Town 0 - 2 Liverpool",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Ipswich Town 3 - 1 Leicester City",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Ipswich Town 2 - 1 Sunderland",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Union Berlin 2 - 4 Ipswich Town",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Liverpool",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Ipswich Town 0 - 2 Liverpool",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Ipswich": "5",
+          "Liverpool": "7"
+        },
+        "shots_off_target": {
+          "Ipswich": "5",
+          "Liverpool": "1"
+        },
+        "shots_blocked": {
+          "Ipswich": "4",
+          "Liverpool": "2"
+        },
+        "corners": {
+          "Ipswich": "4",
+          "Liverpool": "3"
+        },
+        "fouls": {
+          "Ipswich": "6",
+          "Liverpool": "13"
+        },
+        "offsides": {
+          "Ipswich": "5",
+          "Liverpool": "4"
+        },
+        "yellow_cards": {
+          "Ipswich": "1",
+          "Liverpool": "3"
+        },
+        "goalkeeper_saves": {
+          "Ipswich": "5",
+          "Liverpool": "5"
+        },
+        "crosses": {
+          "Ipswich": "4",
+          "Liverpool": "3"
+        },
+        "ball_possession": {
+          "Ipswich": "45%",
+          "Liverpool": "55%"
+        }
+      },
+      "description": "Watch Ipswich vs Liverpool highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 4, 2026."
+    },
+    {
+      "title": "Al Shabab vs Al Hilal Saudi FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/al-shabab-vs-al-hilal-saudi-fc-2026-09-04-KboK.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/2932.webp",
+          "name": "Al Hilal Saudi FC",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/2940.webp",
+          "name": "Al Shabab",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/al-shabab-vs-al-hilal-saudi-fc-2026-09-04.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "45+1'",
+          "team": "Al Shabab",
+          "player": "M. A. Thani",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Al Hilal Saudi FC",
+          "player": "S. Milinković-Savić",
+          "event_type": "Goal",
+          "assist": "M. Mahzari",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Al Hilal Saudi FC",
+          "player": "H. Al-Tombakti",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Al Hilal Saudi FC",
+          "player": "R. Neves",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "91'",
+          "team": "Al Shabab",
+          "player": "M. Barry",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Al Shabab_wins": "1",
+          "draws": "1",
+          "Al Hilal Saudi FC_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "27/02/2026",
+            "competition": "Saudi Professional League",
+            "teams_and_score": "Al Shabab 3 - 5 Al Hilal"
+          },
+          {
+            "date": "21/04/2025",
+            "competition": "Saudi Professional League",
+            "teams_and_score": "Al Hilal 2 - 2 Al Shabab"
+          },
+          {
+            "date": "30/03/2024",
+            "competition": "Saudi Professional League 23/24",
+            "teams_and_score": "Al Shabab 3 - 4 Al Hilal"
+          },
+          {
+            "date": "09/08/2023",
+            "competition": "Arab Club Champions Cup: Knockout Stage",
+            "teams_and_score": "Al Hilal 3 - 1 Al Shabab"
+          },
+          {
+            "date": "07/04/2023",
+            "competition": "Saudi Professional League",
+            "teams_and_score": "Al Shabab 3 - 0 Al Hilal"
+          },
+          {
+            "date": "03/04/2022",
+            "competition": "King's Cup",
+            "teams_and_score": "Al Hilal 2 - 1 Al Shabab"
+          }
+        ],
+        "home_team_form": {
+          "team": "Al Shabab",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Shabab 0 - 2 Al Hilal",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "King's Cup",
+              "teams_and_score": "Al Wehda 3 - 2 Al Shabab",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Shabab 1 - 3 Al Qadsiah",
+              "result": "L"
+            },
+            {
+              "date": "20/05/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Najma 1 - 0 Al Shabab",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Al Hilal Saudi FC",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Shabab 0 - 2 Al Hilal",
+              "result": "W"
+            },
+            {
+              "date": "17/08/2026",
+              "competition": "King's Cup",
+              "teams_and_score": "Al Raed 0 - 2 Al Hilal",
+              "result": "W"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Hilal 4 - 2 Al Faisaly",
+              "result": "L"
+            },
+            {
+              "date": "21/05/2026",
+              "competition": "Saudi Professional League",
+              "teams_and_score": "Al Feiha 0 - 1 Al Hilal",
+              "result": "W"
+            },
+            {
+              "date": "08/05/2026",
+              "competition": "King's Cup",
+              "teams_and_score": "Al Kholood 1 - 2 Al Hilal",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Al Shabab": "1",
+          "Al Hilal Saudi FC": "7"
+        },
+        "shots_off_target": {
+          "Al Shabab": "7",
+          "Al Hilal Saudi FC": "17"
+        },
+        "shots_blocked": {
+          "Al Shabab": "3",
+          "Al Hilal Saudi FC": "5"
+        },
+        "corners": {
+          "Al Shabab": "4",
+          "Al Hilal Saudi FC": "14"
+        },
+        "fouls": {
+          "Al Shabab": "11",
+          "Al Hilal Saudi FC": "6"
+        },
+        "offsides": {
+          "Al Shabab": "2",
+          "Al Hilal Saudi FC": "3"
+        },
+        "yellow_cards": {
+          "Al Shabab": "2",
+          "Al Hilal Saudi FC": "1"
+        },
+        "goalkeeper_saves": {
+          "Al Shabab": "4",
+          "Al Hilal Saudi FC": "1"
+        },
+        "ball_possession": {
+          "Al Shabab": "38%",
+          "Al Hilal Saudi FC": "62%"
+        }
+      },
+      "description": "Watch Al Shabab vs Al Hilal Saudi FC highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 4, 2026. The highly anticipated Premier League clash between Al Shabab and Al Hilal Saudi FC took place on September 4, 2026, drawing fans into a tactical battle for supremacy. Both squads entered the pitch with clear intentions, setting the stage for a match where patience and precision would be tested to the limit. A Cautious Opening Exchange The first half was characterized by disciplined defending and a shared reluctance to overcommit. Al Shabab looked to find rhythm in front of their home crowd, but the visitors remained compact and organized. As the half progressed, the physical nature of the contest intensified, leading to a yellow card for Mohammed Al-Thani in stoppage time. Despite several promising build-ups, neither side could find the decisive touch before the referee blew for the interval with the deadlock still intact. Breaking the Deadlock in the Second Half The momentum shifted significantly shortly after the restart. In the 53rd minute, Al Hilal Saudi FC produced a moment of genuine quality when Mohammed Mahzari teed up Sergej Milinkovic-Savic , who made no mistake in finding the target. The opening goal forced Al Shabab to alter their approach, leading to a series of tactical changes, including the introduction of Gabriel Martinelli to provide more attacking impetus. The game opened up as the hosts pushed for an equalizer, creating a more end-to-end spectacle for the spectators. Clinical Finishing Secures the Result As the clock ticked toward the final whistle, the pressure mounted on the home side. In the 87th minute, any hopes of a comeback were dashed when Al Hilal were awarded a penalty. Ruben Neves stepped up to the spot and calmly converted, effectively sealing the points for his side. A flurry of late substitutions and yellow cards for Hassan Al Tambakti and Mamadou Barry followed, but the visitors managed the eight minutes of stoppage time professionally to claim a hard-fought victory on the road."
+    },
     {
       "title": "Aston Villa vs Arsenal",
       "thumbnail_url": "https://img.refooty.com/thumbnail/aston-villa-v-arsenal-2026-08-31-IDYf.webp",

@@ -1,9 +1,308 @@
 {
   "team": "Ipswich",
   "team_logo": "https://img.refooty.com/logo/teams/57.webp",
-  "total_matches": 5,
-  "Last update time": "05:35:06 AM 05-09-2026",
+  "total_matches": 6,
+  "Last update time": "06:20:40 AM 05-09-2026",
   "matches": [
+    {
+      "title": "Ipswich vs Liverpool",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/ipswich-v-liverpool-2026-09-04-lagV.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/40.webp",
+          "name": "Liverpool",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/57.webp",
+          "name": "Ipswich",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Ipswich_v_Liverpool_2026_09_04.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Goal",
+          "assist": "C. Gakpo",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Goal",
+          "assist": "C. Gakpo",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "31'",
+          "team": "Liverpool",
+          "player": "A. M. Allister",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Ipswich",
+          "player": "J. Enciso",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Liverpool",
+          "player": "J. Jacquet",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Liverpool",
+          "player": "M. Kerkez",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Ipswich_wins": "0",
+          "draws": "1",
+          "Liverpool_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "25/01/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Liverpool 4 - 1 Ipswich Town"
+          },
+          {
+            "date": "04/12/2002",
+            "competition": "League Cup",
+            "teams_and_score": "Liverpool 1 - 1 Ipswich Town"
+          },
+          {
+            "date": "11/05/2002",
+            "competition": "Premier League",
+            "teams_and_score": "Liverpool 5 - 0 Ipswich Town"
+          }
+        ],
+        "home_team_form": {
+          "team": "Ipswich",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Ipswich Town 0 - 2 Liverpool",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Ipswich Town 3 - 1 Leicester City",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Ipswich Town 2 - 1 Sunderland",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Union Berlin 2 - 4 Ipswich Town",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Liverpool",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Ipswich Town 0 - 2 Liverpool",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Ipswich": "5",
+          "Liverpool": "7"
+        },
+        "shots_off_target": {
+          "Ipswich": "5",
+          "Liverpool": "1"
+        },
+        "shots_blocked": {
+          "Ipswich": "4",
+          "Liverpool": "2"
+        },
+        "corners": {
+          "Ipswich": "4",
+          "Liverpool": "3"
+        },
+        "fouls": {
+          "Ipswich": "6",
+          "Liverpool": "13"
+        },
+        "offsides": {
+          "Ipswich": "5",
+          "Liverpool": "4"
+        },
+        "yellow_cards": {
+          "Ipswich": "1",
+          "Liverpool": "3"
+        },
+        "goalkeeper_saves": {
+          "Ipswich": "5",
+          "Liverpool": "5"
+        },
+        "crosses": {
+          "Ipswich": "4",
+          "Liverpool": "3"
+        },
+        "ball_possession": {
+          "Ipswich": "45%",
+          "Liverpool": "55%"
+        }
+      },
+      "description": "Watch Ipswich vs Liverpool highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 4, 2026."
+    },
+    {
+      "title": "Ipswich vs Le Havre",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/ipswich-vs-le-havre-2026-08-04-r7xp.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/111.webp",
+          "name": "Le Havre",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/22895.webp",
+          "name": "Ipswich",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/ipswich-vs-le-havre-2026-08-04_xRLm8.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Ipswich",
+          "player": "C. Akpom",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Ipswich_wins": "0",
+          "draws": "0",
+          "Le Havre_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Ipswich",
+          "form": [
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Ipswich Town 1 - 0 Le Havre",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Ipswich Town 3 - 0 QPR",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Le Havre",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Ipswich Town 1 - 0 Le Havre",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Lorient 0 - 2 Le Havre",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Ipswich vs Le Havre highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 4, 2026."
+    },
     {
       "title": "Manchester United vs Ipswich",
       "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-united-v-ipswich-2026-08-30-vEaS.webp",
@@ -244,6 +543,121 @@
         }
       },
       "description": "Watch Manchester United vs Ipswich highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 30, 2026. On August 30, 2026, Manchester United hosted Ipswich in a Premier League fixture that showcased the unpredictable nature of English football. A massive crowd of 74,148 filled the stadium, witnessing a match where momentum shifted dramatically between two sides desperate for points. A Tale of Two Halves Begins Ipswich stunned the home supporters in the 29th minute when Leif Davis found the back of the net with a clinical left-footed finish, assisted by Abdul Fatawu . The goal served as a wake-up call for Manchester United , who began to dominate possession and press higher up the pitch. Their persistence paid off in the 40th minute; Matheus Cunha turned provider for Bruno Fernandes , who leveled the score with a sharp strike, ensuring the sides went into the break on equal terms. The Fernandes Show Takes Over The second half belonged entirely to the hosts, specifically to their talismanic captain. The deadlock was broken in the 56th minute via a Jacob Greaves own goal, a moment of misfortune that shifted the game's energy. Things went from bad to worse for Jacob Greaves just minutes later when he conceded a penalty for a foul on Matheus Cunha . Bruno Fernandes stepped up in the 61st minute, coolly converting from the spot. Not satisfied with two, Bruno Fernandes completed his hat-trick in the 68th minute, pouncing on a loose ball to make it 4-1. Late Drama and Final Whistle The scoring wasn't over yet, as Bryan Mbeumo added a fifth for Manchester United in the 82nd minute with a brilliant lobbed effort, again assisted by the indomitable Bruno Fernandes . As the match entered stoppage time, Ipswich managed to pull one back through Chuba Akpom , who capitalized on a rare defensive blunder by Lisandro Martinez . Despite the late consolation, the final whistle marked a dominant performance for the Red Devils, who secured all three points in emphatic fashion."
+    },
+    {
+      "title": "Ipswich vs Rayo Vallecano",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/ipswich-vs-rayo-vallecano-2026-08-08-Z2HX.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/728.webp",
+          "name": "Rayo Vallecano",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/22895.webp",
+          "name": "Ipswich",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/ipswich-vs-rayo-vallecano-2026-08-08_YVkiR.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Ipswich",
+          "player": "L. Davis",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Ipswich",
+          "player": "L. Davis",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Ipswich",
+          "player": "E. D. Silva",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Ipswich_wins": "0",
+          "draws": "0",
+          "Rayo Vallecano_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Ipswich",
+          "form": [
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Ipswich Town 3 - 0 Rayo Vallecano",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Ipswich Town 3 - 0 QPR",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Rayo Vallecano",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Ipswich Town 3 - 0 Rayo Vallecano",
+              "result": "L"
+            },
+            {
+              "date": "27/05/2026",
+              "competition": "Final",
+              "teams_and_score": "Crystal Palace 1 - 0 Rayo Vallecano",
+              "result": "L"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Deportivo Alaves 1 - 2 Rayo Vallecano",
+              "result": "W"
+            },
+            {
+              "date": "07/05/2026",
+              "competition": "Semi-Finals",
+              "teams_and_score": "Strasbourg 0 - 1 Rayo Vallecano",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Ipswich vs Rayo Vallecano highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
     },
     {
       "title": "Ipswich vs Leicester",
@@ -702,208 +1116,6 @@
         }
       },
       "description": "Watch Ipswich vs Sunderland highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 22, 2026. Ipswich and Sunderland faced off in a high-stakes Premier League International Cup encounter on 2026-08-22 . The atmosphere at the stadium promised a night of intense tactical battle, where clinical finishing would eventually clash with dominant possession. A Balanced Opening Act The match ignited in the 24th minute when Ipswich took advantage of a defensive lapse. A blunder by Luke O'Nien allowed Julio Enciso to slide a pass to Emersonn , who made no mistake with a right-footed finish to break the deadlock. Despite the setback, Sunderland maintained their composure and continued to dictate the tempo of the game. Their persistence was rewarded in the 39th minute through a moment of individual brilliance. Nilson Angulo stepped up to a direct free kick and curled a magnificent strike into the back of the net. The equalizer sent both teams into the halftime break level, with the game hanging perfectly in the balance after a high-energy first half. Tension Rises in the Second Half The second period saw a rise in physicality as the referee reached for his pocket multiple times. Daniel Ballard , Nilson Angulo , and Luke O'Nien were all booked as the battle for midfield supremacy intensified. Ipswich nearly regained the lead in spectacular fashion when Julio Enciso attempted an audacious bicycle kick that whistled just wide of the target. As the clock ticked toward the final ten minutes, both managers turned to their benches, introducing fresh energy for the closing stages. Sunderland continued to dominate the ball with 62% possession, but the Ipswich defense, anchored by Dara O'Shea and Jacob Greaves , remained resolute under pressure. Late Drama at the Death Just as the match seemed destined for a draw, the definitive moment arrived in the 90th minute. A defensive error by Omar Alderete proved costly as Sasa Lukic pounced, setting up Jack Clarke for a dramatic right-footed winner. The stadium erupted as the hosts snatched the lead in the final moments of regulation time. Four minutes of stoppage time saw Sunderland throw everything forward. Kjell Scherpen produced vital interventions, intercepting dangerous crosses and organizing his backline to withstand the late onslaught. Despite a late chance for Clarke to double his tally, Ipswich held firm to secure a hard-fought victory in front of nearly 30,000 fans."
-    },
-    {
-      "title": "Ipswich vs Le Havre",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/ipswich-vs-le-havre-2026-08-04-r7xp.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 4, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/111.webp",
-          "name": "Le Havre",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/22895.webp",
-          "name": "Ipswich",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/ipswich-vs-le-havre-2026-08-04_xRLm8.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "46'",
-          "team": "Ipswich",
-          "player": "C. Akpom",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Ipswich_wins": "0",
-          "draws": "0",
-          "Le Havre_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Ipswich",
-          "form": [
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Ipswich Town 1 - 0 Le Havre",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Ipswich Town 3 - 0 QPR",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Le Havre",
-          "form": [
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Ipswich Town 1 - 0 Le Havre",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Lorient 0 - 2 Le Havre",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Ipswich vs Le Havre highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 4, 2026."
-    },
-    {
-      "title": "Ipswich vs Rayo Vallecano",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/ipswich-vs-rayo-vallecano-2026-08-08-Z2HX.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/728.webp",
-          "name": "Rayo Vallecano",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/22895.webp",
-          "name": "Ipswich",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/ipswich-vs-rayo-vallecano-2026-08-08_YVkiR.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Ipswich",
-          "player": "L. Davis",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Ipswich",
-          "player": "L. Davis",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Ipswich",
-          "player": "E. D. Silva",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Ipswich_wins": "0",
-          "draws": "0",
-          "Rayo Vallecano_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Ipswich",
-          "form": [
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Ipswich Town 3 - 0 Rayo Vallecano",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Ipswich Town 3 - 0 QPR",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Rayo Vallecano",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Ipswich Town 3 - 0 Rayo Vallecano",
-              "result": "L"
-            },
-            {
-              "date": "27/05/2026",
-              "competition": "Final",
-              "teams_and_score": "Crystal Palace 1 - 0 Rayo Vallecano",
-              "result": "L"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Deportivo Alaves 1 - 2 Rayo Vallecano",
-              "result": "W"
-            },
-            {
-              "date": "07/05/2026",
-              "competition": "Semi-Finals",
-              "teams_and_score": "Strasbourg 0 - 1 Rayo Vallecano",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Ipswich vs Rayo Vallecano highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
     }
   ]
 }

@@ -1,9 +1,372 @@
 {
   "team": "Como",
   "team_logo": "https://img.refooty.com/logo/teams/895.webp",
-  "total_matches": 4,
-  "Last update time": "05:35:06 AM 05-09-2026",
+  "total_matches": 5,
+  "Last update time": "06:20:40 AM 05-09-2026",
   "matches": [
+    {
+      "title": "Genoa vs Como",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/genoa-v-como-2026-09-04-BDmE.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Sep 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/895.webp",
+          "name": "Como",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/495.webp",
+          "name": "Genoa",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Genoa_v_Como_2026_09_04.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Genoa",
+          "player": "M. Osmajić",
+          "event_type": "Goal",
+          "assist": "L. Colombo",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Como",
+          "player": "M. Baturina",
+          "event_type": "Goal",
+          "assist": "A. Valle",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Como",
+          "player": "A. Diao",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Genoa",
+          "player": "D. Sow",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Como",
+          "player": "N. Paz",
+          "event_type": "Goal",
+          "assist": "Y. Couto",
+          "score_update": "1 - 3"
+        },
+        {
+          "time": "46'",
+          "team": "Como",
+          "player": "M. Baturina",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Genoa",
+          "player": "L. Østigård",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Como",
+          "player": "A. Diao",
+          "event_type": "Goal",
+          "assist": "M. Kean",
+          "score_update": "1 - 4"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Genoa_wins": "1",
+          "draws": "1",
+          "Como_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "26/04/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Genoa 0 - 2 Como 1907"
+          },
+          {
+            "date": "27/04/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Como 1907 1 - 0 Genoa"
+          },
+          {
+            "date": "10/04/2023",
+            "competition": "Serie B 22/23",
+            "teams_and_score": "Como 1907 2 - 2 Genoa"
+          },
+          {
+            "date": "29/05/2004",
+            "competition": "Serie Bwin",
+            "teams_and_score": "Como 1907 1 - 3 Genoa"
+          }
+        ],
+        "home_team_form": {
+          "team": "Genoa",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Genoa 1 - 4 Como 1907",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Genoa 4 - 1 Ascoli",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Genoa 0 - 1 Deportivo A Coruna",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "AFC Bournemouth 10 - 1 Genoa",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leicester City 0 - 1 Genoa",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Como",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Genoa 1 - 4 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 1 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Como 1907 3 - 2 Famalicao",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Genoa": "2",
+          "Como": "9"
+        },
+        "shots_off_target": {
+          "Genoa": "5",
+          "Como": "6"
+        },
+        "shots_blocked": {
+          "Genoa": "4",
+          "Como": "5"
+        },
+        "corners": {
+          "Genoa": "5",
+          "Como": "4"
+        },
+        "fouls": {
+          "Genoa": "8",
+          "Como": "7"
+        },
+        "offsides": {
+          "Genoa": "6",
+          "Como": "2"
+        },
+        "yellow_cards": {
+          "Genoa": "2",
+          "Como": "1"
+        },
+        "goalkeeper_saves": {
+          "Genoa": "5",
+          "Como": "1"
+        },
+        "crosses": {
+          "Genoa": "6",
+          "Como": "4"
+        },
+        "ball_possession": {
+          "Genoa": "38%",
+          "Como": "62%"
+        }
+      },
+      "description": "Watch Genoa vs Como highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 4, 2026. The Serie A clash on September 4, 2026 , brought a charged atmosphere to the stadium as Genoa hosted Como . Both sides entered the pitch looking to establish dominance in what promised to be a fascinating tactical battle. A First-Half Whirlwind Genoa ignited the home crowd early in the 19th minute. A fluid move initiated by Tommaso Baldanzi saw Lorenzo Colombo provide the decisive assist for Milutin Osmajic , who slotted home with a clinical left-footed finish. However, the celebrations were short-lived as Como responded with devastating efficiency. In the 25th minute, Martin Baturina unleashed a powerful strike from outside the box to level the scores, assisted by Alex Valle . The momentum swung entirely in favor of the visitors shortly after. In the 30th minute, Assane Diao showcased his technical prowess by volleying the ball into the net to give Como the lead. The pressure continued, and by the 40th minute, Nico Paz added a third for the away side, finishing a move involving Yan Couto to leave the hosts with a mountain to climb before the interval. Clinical Finish and Strategic Control The second half saw Genoa attempt a comeback through a series of substitutions, bringing on Vitinha and Junior Messias to inject pace into the attack. Despite their efforts and several corners delivered by Amorim , Como remained composed. The visitors maintained 62% possession, frustrating Genoa ’s attempts to find a way back into the game. Tensions rose as Martin Baturina and Leo Oestigard both saw yellow cards for rough challenges. Como finally put the result beyond doubt in the 78th minute. Moise Kean turned provider for Assane Diao , who found the back of the net for the second time with a precise right-footed strike. In the closing stages, Trevoh Chalobah anchored a solid defensive line that repelled every late charge from Genoa , securing a well-deserved victory for the visitors after a masterclass in clinical finishing."
+    },
+    {
+      "title": "Como vs Villarreal",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/como-vs-villarreal-2026-07-29-rgBR.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Jul 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/533.webp",
+          "name": "Villarreal",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/895.webp",
+          "name": "Como",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/como-vs-villarreal-2026-07-29_AupSO.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Como",
+          "player": "A. Gabrielloni",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Villarreal",
+          "player": "P. Pagis",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Villarreal",
+          "player": "P. Pagis",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Como",
+          "player": "A. Douvikas",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Como_wins": "0",
+          "draws": "0",
+          "Villarreal_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Como",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "24/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Como 1907 2 - 2 Paris FC",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Cremonese 1 - 4 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "21/04/2026",
+              "competition": "Coppa Italia: Semi-Finals",
+              "teams_and_score": "Inter 3 - 2 Como 1907",
+              "result": "L"
+            },
+            {
+              "date": "17/04/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Sassuolo 2 - 1 Como 1907",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Villarreal",
+          "form": [
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "24/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Como 1907 2 - 2 Paris FC",
+              "result": "D"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Paris FC 2 - 1 Paris Saint-Germain",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Como vs Villarreal highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 29, 2026."
+    },
     {
       "title": "Napoli vs Como",
       "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-como-2026-08-30-uGWo.webp",
@@ -224,281 +587,6 @@
       "description": "Watch Napoli vs Como highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The Serie A clash between SSC Napoli and Como delivered a masterclass in tactical discipline and clinical finishing. Both sides entered the fray with high ambitions, creating an atmosphere of anticipation that persisted throughout the encounter. First Half Fireworks The game erupted into life in the 17th minute when Como took a shock lead. Martin Baturina found the back of the net with a precise left-footed strike, set up by Assane Diao following a clever build-up involving Lucas Da Cunha . SSC Napoli responded with determination, and on August 30, 2026, they found their equalizer. Rasmus Hoejlund unleashed a spectacular effort from outside the box, beating the keeper with his left foot after being fed by Amir Rrahmani and Stanislav Lobotka . However, the parity lasted only four minutes. A defensive lapse from Amir Rrahmani in the 34th minute proved costly, as Anastasios Douvikas capitalized on the error. Assisted by the influential Baturina , Douvikas restored Como's lead with a clinical right-footed finish, leaving the home side trailing at the break. Second Half Pressure and VAR Drama As the second half progressed, Napoli ramped up the pressure, introducing Kevin De Bruyne and David Neres to spark a comeback. Despite waves of attacks, the Como defense, marshaled by Jean Butez , remained resolute. Butez made a vital save in the 90th minute to deny a header from Lorenzo Lucca , while Alex Meret at the other end had to stay alert to stop a late attempt from Douvikas . The defining moment arrived deep in stoppage time. In the 95th minute, play was halted for a VAR check regarding a potential Napoli goal. After an agonizing wait, the officials ruled the goal out due to an offside against Lorenzo Lucca . Despite holding 42% possession and throwing everything forward, Napoli couldn't find the breakthrough, as Como held on for a famous victory."
     },
     {
-      "title": "Liverpool vs Como",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-v-como-2026-08-16-Hif8.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 16, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/895.webp",
-          "name": "Como",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/40.webp",
-          "name": "Liverpool",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Liverpool_v_Como_2026_08_16.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Liverpool",
-          "player": "C. Gakpo",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Liverpool",
-          "player": "J. Jacquet",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Liverpool",
-          "player": "L. Koumas",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Liverpool",
-          "player": "D. Szoboszlai",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Como",
-          "player": "Y. Couto",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Liverpool_wins": "0",
-          "draws": "1",
-          "Como_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "16/08/2026",
-            "competition": "Club Friendlies 2026",
-            "teams_and_score": "Liverpool 0 - 0 Como 1907"
-          }
-        ],
-        "home_team_form": {
-          "team": "Liverpool",
-          "form": [
-            "W",
-            "D",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "16/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Liverpool 2 - 0 Como 1907",
-              "result": "W"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Liverpool 0 - 0 Como 1907",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
-              "result": "L"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Liverpool 1 - 1 Brentford",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Como",
-          "form": [
-            "L",
-            "D",
-            "D",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "16/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Liverpool 2 - 0 Como 1907",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Liverpool 0 - 0 Como 1907",
-              "result": "D"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Arsenal 1 - 1 Como 1907",
-              "result": "D"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Como 1907 3 - 2 Famalicao",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Cremonese 1 - 4 Como 1907",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Liverpool vs Como highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 16, 2026."
-    },
-    {
-      "title": "Como vs Villarreal",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/como-vs-villarreal-2026-07-29-rgBR.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Jul 29, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/533.webp",
-          "name": "Villarreal",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/895.webp",
-          "name": "Como",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/como-vs-villarreal-2026-07-29_AupSO.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Como",
-          "player": "A. Gabrielloni",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Villarreal",
-          "player": "P. Pagis",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Villarreal",
-          "player": "P. Pagis",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "46'",
-          "team": "Como",
-          "player": "A. Douvikas",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Como_wins": "0",
-          "draws": "0",
-          "Villarreal_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Como",
-          "form": [
-            "D",
-            "W",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "24/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Como 1907 2 - 2 Paris FC",
-              "result": "D"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Cremonese 1 - 4 Como 1907",
-              "result": "W"
-            },
-            {
-              "date": "21/04/2026",
-              "competition": "Coppa Italia: Semi-Finals",
-              "teams_and_score": "Inter 3 - 2 Como 1907",
-              "result": "L"
-            },
-            {
-              "date": "17/04/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Sassuolo 2 - 1 Como 1907",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Villarreal",
-          "form": [
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "24/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Como 1907 2 - 2 Paris FC",
-              "result": "D"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Paris FC 2 - 1 Paris Saint-Germain",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Como vs Villarreal highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 29, 2026."
-    },
-    {
       "title": "Arsenal vs Como",
       "thumbnail_url": "https://img.refooty.com/thumbnail/arsenal-vs-como-2026-08-12-rhdq.webp",
       "competition": "Friendly",
@@ -703,6 +791,159 @@
       },
       "statistics": {},
       "description": "Watch Arsenal vs Como highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 12, 2026."
+    },
+    {
+      "title": "Liverpool vs Como",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-v-como-2026-08-16-Hif8.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 16, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/895.webp",
+          "name": "Como",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/40.webp",
+          "name": "Liverpool",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Liverpool_v_Como_2026_08_16.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Liverpool",
+          "player": "C. Gakpo",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Liverpool",
+          "player": "J. Jacquet",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Liverpool",
+          "player": "L. Koumas",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Liverpool",
+          "player": "D. Szoboszlai",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Como",
+          "player": "Y. Couto",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Liverpool_wins": "0",
+          "draws": "1",
+          "Como_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "16/08/2026",
+            "competition": "Club Friendlies 2026",
+            "teams_and_score": "Liverpool 0 - 0 Como 1907"
+          }
+        ],
+        "home_team_form": {
+          "team": "Liverpool",
+          "form": [
+            "W",
+            "D",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Como",
+          "form": [
+            "L",
+            "D",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 1 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Como 1907 3 - 2 Famalicao",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Cremonese 1 - 4 Como 1907",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Liverpool vs Como highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 16, 2026."
     }
   ]
 }
