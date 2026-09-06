@@ -1,9 +1,252 @@
 {
   "team": "Barcelona",
   "team_logo": "https://img.refooty.com/logo/teams/529.webp",
-  "total_matches": 7,
-  "Last update time": "11:00:09 PM 06-09-2026",
+  "total_matches": 8,
+  "Last update time": "11:50:41 PM 06-09-2026",
   "matches": [
+    {
+      "title": "Valencia vs Barcelona",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/valencia-v-barcelona-2026-09-06-e0Dd.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Sep 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/529.webp",
+          "name": "Barcelona",
+          "score": "5"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/532.webp",
+          "name": "Valencia",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Valencia_v_Barcelona_2026_09_06.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "6'",
+          "team": "Barcelona",
+          "player": "L. Yamal",
+          "event_type": "Goal",
+          "assist": "F. López",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "8'",
+          "team": "Barcelona",
+          "player": "L. Yamal",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "22'",
+          "team": "Barcelona",
+          "player": "F. López",
+          "event_type": "Goal",
+          "assist": "A. Gordon",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "45+3'",
+          "team": "Barcelona",
+          "player": "P. Cubarsí",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Barcelona",
+          "player": "Rodri",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Barcelona",
+          "player": "Raphinha",
+          "event_type": "Goal",
+          "assist": "F. López",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "76'",
+          "team": "Barcelona",
+          "player": "F. López",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Barcelona",
+          "player": "Pedri",
+          "event_type": "Goal",
+          "assist": "D. Olmo",
+          "score_update": "0 - 4"
+        },
+        {
+          "time": "106'",
+          "team": "Valencia",
+          "player": "A. Martínez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Barcelona",
+          "player": "L. Yamal",
+          "event_type": "Goal",
+          "assist": "D. Olmo",
+          "score_update": "0 - 5"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Valencia_wins": "1",
+          "draws": "0",
+          "Barcelona_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "23/05/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Valencia 3 - 1 Barcelona"
+          },
+          {
+            "date": "06/02/2025",
+            "competition": "Copa del Rey: Quarter-Finals",
+            "teams_and_score": "Valencia 0 - 5 Barcelona"
+          },
+          {
+            "date": "26/01/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Barcelona 7 - 1 Valencia"
+          },
+          {
+            "date": "29/04/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Barcelona 4 - 2 Valencia"
+          },
+          {
+            "date": "05/03/2023",
+            "competition": "LaLiga 22/23",
+            "teams_and_score": "Barcelona 1 - 0 Valencia"
+          },
+          {
+            "date": "20/02/2022",
+            "competition": "LaLiga 21/22",
+            "teams_and_score": "Valencia 1 - 4 Barcelona"
+          }
+        ],
+        "home_team_form": {
+          "team": "Valencia",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Valencia 0 - 5 Barcelona",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Valencia 2 - 0 Hercules",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Valencia 1 - 2 Newcastle United",
+              "result": "L"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Derby County 1 - 2 Valencia",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Barcelona",
+          "form": [
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Valencia 0 - 5 Barcelona",
+              "result": "W"
+            },
+            {
+              "date": "19/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Barcelona 2 - 1 Al Ahly",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Valencia": "2",
+          "Barcelona": "10"
+        },
+        "shots_off_target": {
+          "Valencia": "1",
+          "Barcelona": "10"
+        },
+        "shots_blocked": {
+          "Valencia": "0",
+          "Barcelona": "5"
+        },
+        "corners": {
+          "Valencia": "1",
+          "Barcelona": "4"
+        },
+        "fouls": {
+          "Valencia": "7",
+          "Barcelona": "6"
+        },
+        "offsides": {
+          "Valencia": "2",
+          "Barcelona": "4"
+        },
+        "yellow_cards": {
+          "Valencia": "1",
+          "Barcelona": "3"
+        },
+        "goalkeeper_saves": {
+          "Valencia": "5",
+          "Barcelona": "2"
+        },
+        "crosses": {
+          "Valencia": "0",
+          "Barcelona": "1"
+        },
+        "ball_possession": {
+          "Valencia": "27%",
+          "Barcelona": "73%"
+        }
+      },
+      "description": "Watch Valencia vs Barcelona highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on September 6, 2026. On September 6, 2026 , the spotlight of La Liga fell on a classic encounter between Valencia and Barcelona . The match promised a high-octane battle as both teams sought to establish their dominance in the league standings, creating an atmosphere of intense anticipation among the fans. Barcelona’s Early Surge and VAR Drama Barcelona wasted no time in asserting their authority, controlling the tempo from the opening whistle. The breakthrough came as early as the 6th minute when Lamine Yamal produced a moment of magic, lofting an exquisite lob over the goalkeeper following an assist from Fermín López . The visitors thought they had doubled their lead shortly after through Yamal again, but a VAR review intervened to rule the goal out for offside. Despite the disallowed goal, the pressure remained relentless. In the 22nd minute, Anthony Gordon turned provider for Fermín López , who clinicaly finished with his left foot to give Barcelona a comfortable cushion. Valencia struggled to find their rhythm, hindered by tactical fouls and a yellow card for Pau Cubarsí as they tried to halt the Catalan momentum before the break. Tactical Shifts and Second-Half Dominance The second half mirrored the first, with Barcelona displaying slick passing and movement. In the 50th minute, a wonderful team goal saw Raphinha tap the ball home at the far post after a selfless pass from Fermín López . As the match progressed, substitutions played a key role. The introduction of Dani Olmo in the 75th minute added fresh creative impetus to the midfield. Olmo made an immediate impact, providing the assist for Pedri to score in the 79th minute with a well-placed right-footed shot. Valencia 's frustrations grew as Arnau Martínez received a yellow card for a heavy challenge. The scoring was rounded off in the 84th minute when Lamine Yamal secured his second of the night. After another VAR check for a potential infringement, the goal was confirmed, cementing a dominant display by the visitors. Closing Stages and Statistical Superiority As the clock ticked down, Barcelona remained in complete control, finishing the match with an impressive 73% ball possession. Dani Olmo nearly added a sixth in the dying minutes, but his effort missed the target. Valencia attempted late surges through Hugo Duro and Harvey Elliott , but the defensive solidity of Barcelona ensured a clean sheet. The final whistle confirmed a masterclass performance, leaving the home side to reflect on a challenging night at the office."
+    },
     {
       "title": "Barcelona vs Rayo Vallecano",
       "thumbnail_url": "https://img.refooty.com/thumbnail/barcelona-v-rayo-vallecano-2026-08-31-QTFP.webp",
@@ -244,210 +487,6 @@
         }
       },
       "description": "Watch Barcelona vs Rayo Vallecano highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 31, 2026. The atmosphere was electric as Barcelona and Rayo Vallecano met on the pitch for a highly anticipated La Liga fixture. With both teams looking to assert their dominance early in the season, the stage was set for a display of attacking football on August 31, 2026. Early Shocks and Rapid Response The match began with a stunning turn of events for the home crowd. In the 12th minute, Rayo Vallecano silenced the stadium when Sergio Camello found the back of the net with a clinical left-footed finish following an Alvaro Garcia assist. However, the visitors' lead was short-lived as Barcelona responded with clinical efficiency. By the 19th minute, Raphinha leveled the score after a well-placed ball from Xavi Espart . Just two minutes later, the turnaround was complete: Lamine Yamal displayed his extraordinary talent, slotting home a second goal for the Catalans after being set up by Marc Bernal . Before the halftime whistle, drama ensued when Jules Kounde appeared to have extended the lead. However, after a VAR review, the goal was overturned due to an offside position, keeping the scoreline tight as the teams headed into the tunnels. Second Half Twists and Turns The second period opened with a stroke of misfortune for the visitors. In the 51st minute, Florian Lejeune inadvertently sent the ball into his own net, giving Barcelona a two-goal cushion. Refusing to back down, Rayo Vallecano fought their way back into the contest. In the 59th minute, Sergio Camello struck again, this time with a powerful header from an Unai Lopez corner. Rayo nearly equalized minutes later when Camello saw another effort cleared heroically off the goal line by the Barcelona defense. Sealing the Victory With the momentum shifting, Barcelona reasserted their control to put the game out of reach. In the 71st minute, Raphinha secured his brace after an assist from substitute Anthony Gordon . The final flourish came in the 90th minute when Lamine Yamal mirrored his teammate by scoring his second of the night—a brilliant strike from outside the box assisted by Karim Adeyemi . Recording 70% ball possession, Barcelona walked away with a deserved 5-2 victory. Lamine Yamal and Raphinha stood out as the primary architects of a win that showcased the club's offensive depth and resilience against a spirited Rayo Vallecano side."
-    },
-    {
-      "title": "Barcelona vs Athletic Bilbao",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/barcelona-v-athletic-bilbao-2026-08-27-t49h.webp",
-      "competition": "La Liga",
-      "competition_cover": "https://refooty.com/covers/la-liga.webp",
-      "date": "Aug 27, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/531.webp",
-          "name": "Athletic Club",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/529.webp",
-          "name": "Barcelona",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Barcelona_v_Athletic_Bilbao_2026_08_27.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Barcelona",
-          "player": "X. Espart",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Barcelona",
-          "player": "Raphinha",
-          "event_type": "Goal",
-          "assist": "Pedri",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Athletic Club",
-          "player": "G. Guruzeta",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Athletic Club",
-          "player": "J. Louis-Jean",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Barcelona",
-          "player": "F. López",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Barcelona_wins": "8",
-          "draws": "1",
-          "Athletic Club_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "07/03/2026",
-            "competition": "LaLiga 25/26",
-            "teams_and_score": "Athletic Club 0 - 1 Barcelona"
-          },
-          {
-            "date": "07/01/2026",
-            "competition": "Super Cup",
-            "teams_and_score": "Barcelona 5 - 0 Athletic Club"
-          },
-          {
-            "date": "22/11/2025",
-            "competition": "LaLiga 25/26",
-            "teams_and_score": "Barcelona 4 - 0 Athletic Club"
-          },
-          {
-            "date": "25/05/2025",
-            "competition": "LaLiga 24/25",
-            "teams_and_score": "Athletic Club 0 - 3 Barcelona"
-          },
-          {
-            "date": "08/01/2025",
-            "competition": "Super Cup",
-            "teams_and_score": "Athletic Club 0 - 2 Barcelona"
-          },
-          {
-            "date": "24/08/2024",
-            "competition": "LaLiga 24/25",
-            "teams_and_score": "Barcelona 2 - 1 Athletic Club"
-          },
-          {
-            "date": "03/03/2024",
-            "competition": "LaLiga 23/24",
-            "teams_and_score": "Athletic Club 0 - 0 Barcelona"
-          }
-        ],
-        "home_team_form": {
-          "team": "Barcelona",
-          "form": [
-            "W",
-            "W",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "27/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Barcelona 2 - 0 Athletic Club",
-              "result": "W"
-            },
-            {
-              "date": "19/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Barcelona 2 - 1 Al Ahly",
-              "result": "W"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
-              "result": "D"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Valencia 3 - 1 Barcelona",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Athletic Club",
-          "form": [
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "27/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Barcelona 2 - 0 Athletic Club",
-              "result": "L"
-            },
-            {
-              "date": "21/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Zaragoza 3 - 1 Athletic Club",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Barcelona": "10",
-          "Athletic Club": "0"
-        },
-        "shots_off_target": {
-          "Barcelona": "7",
-          "Athletic Club": "5"
-        },
-        "shots_blocked": {
-          "Barcelona": "5",
-          "Athletic Club": "0"
-        },
-        "corners": {
-          "Barcelona": "12",
-          "Athletic Club": "5"
-        },
-        "fouls": {
-          "Barcelona": "13",
-          "Athletic Club": "6"
-        },
-        "offsides": {
-          "Barcelona": "8",
-          "Athletic Club": "5"
-        },
-        "yellow_cards": {
-          "Barcelona": "1",
-          "Athletic Club": "2"
-        },
-        "goalkeeper_saves": {
-          "Barcelona": "0",
-          "Athletic Club": "8"
-        },
-        "crosses": {
-          "Barcelona": "8",
-          "Athletic Club": "2"
-        },
-        "ball_possession": {
-          "Barcelona": "70%",
-          "Athletic Club": "30%"
-        }
-      },
-      "description": "Watch Barcelona vs Athletic Club highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 27, 2026. On August 27, 2026 , Barcelona hosted Athletic Club in a highly anticipated La Liga fixture. Both teams entered the pitch with clear tactical identities, setting the stage for a compelling battle between Catalan flair and Basque resilience. Early Dominance and VAR Tension The opening stages were characterized by Barcelona ’s high line and aggressive pressing. Despite multiple offside calls against Raphinha and Anthony Gordon , the hosts remained patient. The first sign of disciplinary trouble arrived in the 27th minute when Xavi Espart received a yellow card for a tactical foul to halt a counter-attack. The atmosphere shifted in the 30th minute when a VAR check was initiated for a potential Barcelona goal. Although the play was eventually cleared, it signaled that the breakthrough was imminent as the home side began to suffocate the Athletic Club defense with relentless passing. Raphinha Finds the Breakthrough The deadlock was finally broken in the 37th minute. Pedri provided a sublime assist, finding Raphinha in a pocket of space. The Brazilian winger clinical finished with his left foot, tapping the ball home to give Barcelona a deserved lead. The goal reflected the statistical dominance of the hosts, who maintained a staggering 70% of the possession throughout the contest. In the second half, Athletic Club attempted to fight back, with Gorka Guruzeta receiving a booking for a dangerous challenge as the visitors tried to disrupt the flow. Substitutions followed, with Dani Olmo coming on to add more creative spark for the Catalans. Fermin Lopez Seals the Victory As the match entered its final ten minutes, a defensive lapse from the visitors put the result beyond doubt. A poor execution by Aymeric Laporte in the 82nd minute allowed Fermin Lopez to pounce on a loose ball. With an open goal at his mercy, Fermin calmly slotted the ball home with his right foot. Despite a late header from Yeray Alvarez that went wide in stoppage time, Barcelona never looked like relinquishing their control. The final whistle confirmed a 2-0 victory, highlighting a performance defined by tactical discipline and clinical finishing."
     },
     {
       "title": "Nottingham Forest vs Barcelona",
@@ -1296,6 +1335,210 @@
       },
       "statistics": {},
       "description": "Watch Birmingham vs Barcelona highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 31, 2026."
+    },
+    {
+      "title": "Barcelona vs Athletic Bilbao",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/barcelona-v-athletic-bilbao-2026-08-27-t49h.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Aug 27, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/531.webp",
+          "name": "Athletic Club",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/529.webp",
+          "name": "Barcelona",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Barcelona_v_Athletic_Bilbao_2026_08_27.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Barcelona",
+          "player": "X. Espart",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Barcelona",
+          "player": "Raphinha",
+          "event_type": "Goal",
+          "assist": "Pedri",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Athletic Club",
+          "player": "G. Guruzeta",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Athletic Club",
+          "player": "J. Louis-Jean",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Barcelona",
+          "player": "F. López",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Barcelona_wins": "8",
+          "draws": "1",
+          "Athletic Club_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "07/03/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Athletic Club 0 - 1 Barcelona"
+          },
+          {
+            "date": "07/01/2026",
+            "competition": "Super Cup",
+            "teams_and_score": "Barcelona 5 - 0 Athletic Club"
+          },
+          {
+            "date": "22/11/2025",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Barcelona 4 - 0 Athletic Club"
+          },
+          {
+            "date": "25/05/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Athletic Club 0 - 3 Barcelona"
+          },
+          {
+            "date": "08/01/2025",
+            "competition": "Super Cup",
+            "teams_and_score": "Athletic Club 0 - 2 Barcelona"
+          },
+          {
+            "date": "24/08/2024",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Barcelona 2 - 1 Athletic Club"
+          },
+          {
+            "date": "03/03/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Athletic Club 0 - 0 Barcelona"
+          }
+        ],
+        "home_team_form": {
+          "team": "Barcelona",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Barcelona 2 - 0 Athletic Club",
+              "result": "W"
+            },
+            {
+              "date": "19/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Barcelona 2 - 1 Al Ahly",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Valencia 3 - 1 Barcelona",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Athletic Club",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Barcelona 2 - 0 Athletic Club",
+              "result": "L"
+            },
+            {
+              "date": "21/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Zaragoza 3 - 1 Athletic Club",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Barcelona": "10",
+          "Athletic Club": "0"
+        },
+        "shots_off_target": {
+          "Barcelona": "7",
+          "Athletic Club": "5"
+        },
+        "shots_blocked": {
+          "Barcelona": "5",
+          "Athletic Club": "0"
+        },
+        "corners": {
+          "Barcelona": "12",
+          "Athletic Club": "5"
+        },
+        "fouls": {
+          "Barcelona": "13",
+          "Athletic Club": "6"
+        },
+        "offsides": {
+          "Barcelona": "8",
+          "Athletic Club": "5"
+        },
+        "yellow_cards": {
+          "Barcelona": "1",
+          "Athletic Club": "2"
+        },
+        "goalkeeper_saves": {
+          "Barcelona": "0",
+          "Athletic Club": "8"
+        },
+        "crosses": {
+          "Barcelona": "8",
+          "Athletic Club": "2"
+        },
+        "ball_possession": {
+          "Barcelona": "70%",
+          "Athletic Club": "30%"
+        }
+      },
+      "description": "Watch Barcelona vs Athletic Club highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 27, 2026. On August 27, 2026 , Barcelona hosted Athletic Club in a highly anticipated La Liga fixture. Both teams entered the pitch with clear tactical identities, setting the stage for a compelling battle between Catalan flair and Basque resilience. Early Dominance and VAR Tension The opening stages were characterized by Barcelona ’s high line and aggressive pressing. Despite multiple offside calls against Raphinha and Anthony Gordon , the hosts remained patient. The first sign of disciplinary trouble arrived in the 27th minute when Xavi Espart received a yellow card for a tactical foul to halt a counter-attack. The atmosphere shifted in the 30th minute when a VAR check was initiated for a potential Barcelona goal. Although the play was eventually cleared, it signaled that the breakthrough was imminent as the home side began to suffocate the Athletic Club defense with relentless passing. Raphinha Finds the Breakthrough The deadlock was finally broken in the 37th minute. Pedri provided a sublime assist, finding Raphinha in a pocket of space. The Brazilian winger clinical finished with his left foot, tapping the ball home to give Barcelona a deserved lead. The goal reflected the statistical dominance of the hosts, who maintained a staggering 70% of the possession throughout the contest. In the second half, Athletic Club attempted to fight back, with Gorka Guruzeta receiving a booking for a dangerous challenge as the visitors tried to disrupt the flow. Substitutions followed, with Dani Olmo coming on to add more creative spark for the Catalans. Fermin Lopez Seals the Victory As the match entered its final ten minutes, a defensive lapse from the visitors put the result beyond doubt. A poor execution by Aymeric Laporte in the 82nd minute allowed Fermin Lopez to pounce on a loose ball. With an open goal at his mercy, Fermin calmly slotted the ball home with his right foot. Despite a late header from Yeray Alvarez that went wide in stoppage time, Barcelona never looked like relinquishing their control. The final whistle confirmed a 2-0 victory, highlighting a performance defined by tactical discipline and clinical finishing."
     }
   ]
 }
