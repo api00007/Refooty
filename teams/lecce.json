@@ -1,9 +1,223 @@
 {
   "team": "Lecce",
   "team_logo": "https://img.refooty.com/logo/teams/867.webp",
-  "total_matches": 3,
-  "Last update time": "10:20:13 PM 07-09-2026",
+  "total_matches": 4,
+  "Last update time": "04:00:36 AM 08-09-2026",
   "matches": [
+    {
+      "title": "Cagliari vs Lecce",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/cagliari-v-lecce-2026-09-07-YjcG.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Sep 7, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/867.webp",
+          "name": "Lecce",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/490.webp",
+          "name": "Cagliari",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Cagliari_v_Lecce_2026_09_07.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Cagliari",
+          "player": "D. Maldini",
+          "event_type": "Goal",
+          "assist": "J. Fazzini",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Lecce",
+          "player": "K. Gaspar",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Cagliari",
+          "player": "A. Deiola",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Lecce",
+          "player": "J. Siebert",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+7'",
+          "team": "Lecce",
+          "player": "W. Falcone",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Cagliari_wins": "1",
+          "draws": "2",
+          "Lecce_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "16/02/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Cagliari 0 - 2 Lecce"
+          },
+          {
+            "date": "19/01/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Cagliari 4 - 1 Lecce"
+          },
+          {
+            "date": "05/05/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Cagliari 1 - 1 Lecce"
+          },
+          {
+            "date": "12/07/2020",
+            "competition": "Serie A 19/20",
+            "teams_and_score": "Cagliari 0 - 0 Lecce"
+          },
+          {
+            "date": "26/02/2012",
+            "competition": "Serie A",
+            "teams_and_score": "Cagliari 1 - 2 Lecce"
+          }
+        ],
+        "home_team_form": {
+          "team": "Cagliari",
+          "form": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "07/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Cagliari 1 - 0 Lecce",
+              "result": "W"
+            },
+            {
+              "date": "03/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Cagliari 1 - 2 Hellas Verona",
+              "result": "L"
+            },
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Cagliari 0 - 1 Inter",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Cagliari 1 - 0 S.S. Arezzo",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cagliari 0 - 0 Nice",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lecce",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "07/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Cagliari 1 - 0 Lecce",
+              "result": "L"
+            },
+            {
+              "date": "17/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Palermo 2 - 0 Lecce",
+              "result": "L"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lecce 5 - 2 NK Bistrica",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Lecce 1 - 0 Genoa",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Cagliari": "9",
+          "Lecce": "3"
+        },
+        "shots_off_target": {
+          "Cagliari": "7",
+          "Lecce": "4"
+        },
+        "shots_blocked": {
+          "Cagliari": "4",
+          "Lecce": "3"
+        },
+        "corners": {
+          "Cagliari": "7",
+          "Lecce": "5"
+        },
+        "fouls": {
+          "Cagliari": "9",
+          "Lecce": "13"
+        },
+        "offsides": {
+          "Cagliari": "5",
+          "Lecce": "1"
+        },
+        "yellow_cards": {
+          "Cagliari": "1",
+          "Lecce": "3"
+        },
+        "goalkeeper_saves": {
+          "Cagliari": "3",
+          "Lecce": "8"
+        },
+        "crosses": {
+          "Cagliari": "6",
+          "Lecce": "1"
+        },
+        "ball_possession": {
+          "Cagliari": "42%",
+          "Lecce": "58%"
+        }
+      },
+      "description": "Watch Cagliari vs Lecce highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 7, 2026. The atmosphere was electric as two competitive sides faced off in a crucial Serie A encounter. On this September 7, 2026 , matchday, tactical discipline and high stakes defined a contest that kept fans on the edge of their seats until the very last second. Maldini Breaks the Deadlock The game began with a cautious approach from both sides, but Cagliari soon began to find their rhythm. In the 29th minute, the breakthrough arrived. After having a previous effort blocked, Jacopo Fazzini delivered a pinpoint corner from the left. Daniel Maldini rose highest in the box, connecting with a powerful header that flew past the goalkeeper to give the home side the lead. Lecce struggled to find an immediate response as Cagliari maintained a solid defensive shape. Just before the interval, Michel Ndary Adopo nearly doubled the advantage with a well-timed header, but Wladimiro Falcone was positioned perfectly to make a comfortable save, keeping the deficit at a single goal heading into the break. Woodwork Denies Lecce The second half started with a moment of pure agony for the visitors. In the 46th minute, Paul Mendy found space in the box and unleashed a strike that rattled the post. It was a massive let-off for Cagliari , who found themselves under increasing pressure as Lecce dominated possession, eventually holding 58% of the ball. Both managers turned to their benches to influence the outcome. Lecce introduced fresh legs in Medon Berisha and Alieu Fadera , while Cagliari looked to shore up their defense with Raphael Kofler . Despite the tactical shifts, Lecce 's crosses often failed to find a teammate, with Roberto Gagliardini and Alessandro Romano making several vital interceptions to preserve the lead. Late Drama and Disciplinary Issues The final minutes of stoppage time descended into chaos as tensions boiled over on the pitch. The referee was forced to intervene as players from both sides clashed. In the 95th minute, both Alessandro Deiola and Jamil Siebert were shown yellow cards for dissent. Moments later, Lecce goalkeeper Wladimiro Falcone was also booked following an incident of violent conduct. In a desperate final attempt to snatch a point, Jamil Siebert attempted an audacious bicycle kick in the 97th minute, but the spectacular effort sailed wide of the goal. Despite the late frenzy, Cagliari held firm through eight minutes of added time to secure a hard-fought victory."
+    },
     {
       "title": "Venezia vs Lecce",
       "thumbnail_url": "https://img.refooty.com/thumbnail/venezia-v-lecce-2026-08-23-l8rH.webp",
