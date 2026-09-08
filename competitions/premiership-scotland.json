@@ -1,9 +1,1383 @@
 {
   "competition": "Premiership - Scotland",
   "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-  "total_matches": 29,
-  "Last update time": "07:50:18 AM 08-09-2026",
+  "total_matches": 35,
+  "Last update time": "08:24:55 AM 08-09-2026",
   "matches": [
+    {
+      "title": "St. Johnstone - Hibernian",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/st-johnstone-hibernian-2026-09-06-0h2j.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Sep 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/249.webp",
+          "name": "Hibernian",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/258.webp",
+          "name": "ST Johnstone",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/st-johnstone-hibernian-2026-09-06.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "ST Johnstone",
+          "player": "J. Fowler",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Hibernian",
+          "player": "N. A. Lowe",
+          "event_type": "Goal",
+          "assist": "M. Chaiwa",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "ST Johnstone",
+          "player": "T. Steven",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "ST Johnstone",
+          "player": "J. Fowler",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "ST Johnstone_wins": "2",
+          "draws": "1",
+          "Hibernian_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "29/03/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Hibernian 3 - 0 St. Johnstone"
+          },
+          {
+            "date": "27/04/2024",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "St. Johnstone 1 - 3 Hibernian"
+          },
+          {
+            "date": "06/04/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Hibernian 1 - 2 St. Johnstone"
+          },
+          {
+            "date": "22/04/2023",
+            "competition": "Premiership 22/23",
+            "teams_and_score": "St. Johnstone 1 - 1 Hibernian"
+          }
+        ],
+        "home_team_form": {
+          "team": "ST Johnstone",
+          "form": [
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "St. Johnstone 2 - 1 Hibernian",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group F",
+              "teams_and_score": "St. Johnstone 1 - 1 East Fife",
+              "result": "D"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cove Rangers 2 - 4 St. Johnstone",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Hibernian",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "St. Johnstone 2 - 1 Hibernian",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hibernian 2 - 3 Gent",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Hibernian 1 - 0 Partick Thistle",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "KF Shkendija 0 - 0 Hibernian",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Rangers 1 - 2 Hibernian",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "ST Johnstone": "4",
+          "Hibernian": "3"
+        },
+        "shots_off_target": {
+          "ST Johnstone": "4",
+          "Hibernian": "5"
+        },
+        "shots_blocked": {
+          "ST Johnstone": "1",
+          "Hibernian": "6"
+        },
+        "corners": {
+          "ST Johnstone": "2",
+          "Hibernian": "7"
+        },
+        "fouls": {
+          "ST Johnstone": "10",
+          "Hibernian": "13"
+        },
+        "offsides": {
+          "ST Johnstone": "1",
+          "Hibernian": "4"
+        },
+        "yellow_cards": {
+          "ST Johnstone": "1",
+          "Hibernian": "0"
+        },
+        "goalkeeper_saves": {
+          "ST Johnstone": "2",
+          "Hibernian": "2"
+        },
+        "crosses": {
+          "ST Johnstone": "3",
+          "Hibernian": "6"
+        },
+        "ball_possession": {
+          "ST Johnstone": "46%",
+          "Hibernian": "54%"
+        }
+      },
+      "description": "Watch ST Johnstone vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The Scottish Premiership action continued on September 6, 2026 , as St. Johnstone hosted Hibernian in a highly anticipated encounter. Both sides looked to assert their dominance early in a match that promised intensity from the first whistle at the heart of the campaign. A Clinical First-Half Blitz St. Johnstone wasted little time establishing control, finding the breakthrough in the 17th minute when Josh Fowler found the back of the net. Hibernian faced an early tactical setback when Jamie Gullan was forced off just five minutes later, replaced by Kai Fotheringham . The momentum stayed firmly with the hosts, and in the 29th minute, Nathan Lowe clinicaly finished a chance created by Miguel Chaiwa to double the advantage. The pressure mounted as the first half drew to a close. Despite a yellow card for Taylor Steven , the home side remained relentless. In the 41st minute, Josh Fowler stepped up to the penalty spot and coolly converted his second goal of the match. By the time the referee blew for half-time after four minutes of stoppage time, the hosts had firmly established their authority on the proceedings. Tactical Adjustments and Game Management The second half saw Hibernian attempt a comeback with the introduction of Ante Suto for Martin Boyle immediately after the restart. However, the St. Johnstone defense held firm, frustrating the visitors' attempts to find a way back into the game. A flurry of substitutions followed around the hour mark, with Thibault Klidje , Callum Wright , and Kanayochukwu Megwa all introduced for the visitors to inject fresh energy. As the clock ticked down, St. Johnstone managed their lead with composure. A series of changes in the 72nd minute saw Danny Schmidt , Macaulay Tait , and Matty Todd enter the pitch, with the latter replacing the standout performer Josh Fowler . Despite Hibernian 's late efforts and the introduction of Nicky Cadden , the result was never in doubt. The final whistle blew at 90+4 minutes, sealing a comprehensive performance from the home side."
+    },
+    {
+      "title": "Heart of Midlothian - Dundee",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/heart-of-midlothian-dundee-2026-09-06-GVUe.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Sep 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/253.webp",
+          "name": "Dundee FC",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/254.webp",
+          "name": "Heart Of Midlothian",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/heart-of-midlothian-dundee-2026-09-06.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "17'",
+          "team": "Dundee FC",
+          "player": "B. Fink",
+          "event_type": "Goal",
+          "assist": "I. Samuels",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "35'",
+          "team": "Heart Of Midlothian",
+          "player": "J. McPake",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+8'",
+          "team": "Dundee FC",
+          "player": "R. Finnigan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "62'",
+          "team": "Dundee FC",
+          "player": "E. Hamilton",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "69'",
+          "team": "Dundee FC",
+          "player": "I. Samuels",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "84'",
+          "team": "Heart Of Midlothian",
+          "player": "C. R. S. Braga",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "90+1'",
+          "team": "Dundee FC",
+          "player": "Z. Besir",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+6'",
+          "team": "Heart Of Midlothian",
+          "player": "S. Kerjota",
+          "event_type": "Goal",
+          "assist": "J. McPake",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "90+7'",
+          "team": "Heart Of Midlothian",
+          "player": "S. Kerjota",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Heart Of Midlothian_wins": "3",
+          "draws": "0",
+          "Dundee FC_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "21/03/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Hearts 1 - 0 Dundee FC"
+          },
+          {
+            "date": "26/04/2025",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Hearts 0 - 1 Dundee FC"
+          },
+          {
+            "date": "07/03/2025",
+            "competition": "Scottish Cup: Semi-Finals",
+            "teams_and_score": "Hearts 3 - 1 Dundee FC"
+          },
+          {
+            "date": "01/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee FC 0 - 6 Hearts"
+          },
+          {
+            "date": "11/05/2024",
+            "competition": "Premiership: Championship Group",
+            "teams_and_score": "Hearts 3 - 0 Dundee FC"
+          },
+          {
+            "date": "03/02/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Dundee FC 2 - 3 Hearts"
+          }
+        ],
+        "home_team_form": {
+          "team": "Heart Of Midlothian",
+          "form": [
+            "L",
+            "D",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hearts 2 - 1 Dundee FC",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Rapid Wien 2 - 2 Hearts",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Hearts 6 - 2 Inverness CT",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hearts 1 - 1 Benfica",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hearts 4 - 0 Dundee United",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Dundee FC",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hearts 2 - 1 Dundee FC",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Dundee FC 4 - 0 Clyde",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Dundee FC 0 - 4 Everton",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Heart Of Midlothian": "7",
+          "Dundee FC": "1"
+        },
+        "shots_off_target": {
+          "Heart Of Midlothian": "11",
+          "Dundee FC": "3"
+        },
+        "shots_blocked": {
+          "Heart Of Midlothian": "9",
+          "Dundee FC": "0"
+        },
+        "corners": {
+          "Heart Of Midlothian": "14",
+          "Dundee FC": "2"
+        },
+        "fouls": {
+          "Heart Of Midlothian": "11",
+          "Dundee FC": "19"
+        },
+        "offsides": {
+          "Heart Of Midlothian": "1",
+          "Dundee FC": "1"
+        },
+        "yellow_cards": {
+          "Heart Of Midlothian": "2",
+          "Dundee FC": "3"
+        },
+        "red_cards": {
+          "Heart Of Midlothian": "0",
+          "Dundee FC": "1"
+        },
+        "goalkeeper_saves": {
+          "Heart Of Midlothian": "0",
+          "Dundee FC": "5"
+        },
+        "crosses": {
+          "Heart Of Midlothian": "11",
+          "Dundee FC": "1"
+        },
+        "ball_possession": {
+          "Heart Of Midlothian": "72%",
+          "Dundee FC": "28%"
+        }
+      },
+      "description": "Watch Heart Of Midlothian vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The Scottish Premiership delivered a spectacle of pure drama on September 6, 2026, as Heart of Midlothian faced off against Dundee FC . In a match that fluctuated between tactical discipline and chaotic outbursts, the final result was undecided until the very last kick of the game. Visitors Take an Early Grip The match began with an early tactical reshuffle for Dundee FC after Joe Westley was forced off just ten minutes in, replaced by Bobby Wales . Despite the disruption, the visitors found their rhythm quickly. In the 17th minute, Imari Samuels turned provider, delivering a pinpoint ball for Bradley Fink to clinicaly slot home. The remainder of the first half was a feisty affair, characterized by heavy challenges and yellow cards for Joshua McPake and Ryan Finnigan as both sides struggled to dominate the territory. Momentum Shifts and Penalty Precision As the second half progressed, a flurry of substitutions from both managers altered the flow of the contest. Heart of Midlothian began to hoard possession, searching for a way through a stubborn Dundee defense. The breakthrough finally arrived in the 85th minute when the referee pointed to the spot. Claudio Braga stepped up under immense pressure and fired his penalty home to level the scores, setting the stage for a grandstand finish. Stoppage Time Chaos and the Winner The game descended into chaos during added time. In the 90+1st minute, Zan Besir was shown a straight red card, sparking furious protests from the Dundee players. Reduced to ten men, the visitors could not hold out against the renewed waves of attack. In the 90+7th minute, Sabah Kerjota became the hero of the afternoon, converting a chance created by Joshua McPake to secure all three points. Kerjota received a yellow card for his celebrations, but it was a small price to pay for a stunning comeback victory."
+    },
+    {
+      "title": "Aberdeen - Kilmarnock",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/aberdeen-kilmarnock-2026-09-05-gs4P.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Sep 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/250.webp",
+          "name": "Kilmarnock",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/252.webp",
+          "name": "Aberdeen",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/aberdeen-kilmarnock-2026-09-05.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Aberdeen",
+          "player": "C. Cadden",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Kilmarnock",
+          "player": "A. Tshibola",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Kilmarnock",
+          "player": "T. Lowery",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Aberdeen",
+          "player": "A. Mouloua",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Kilmarnock",
+          "player": "N. D. McCann",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Aberdeen",
+          "player": "M. Knoester",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Aberdeen",
+          "player": "L. Mayo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Kilmarnock",
+          "player": "A. Tshibola",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "106'",
+          "team": "Aberdeen",
+          "player": "S. Armstrong",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Aberdeen_wins": "3",
+          "draws": "0",
+          "Kilmarnock_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "25/04/2026",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Aberdeen 1 - 0 Kilmarnock"
+          },
+          {
+            "date": "31/01/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Kilmarnock 3 - 0 Aberdeen"
+          },
+          {
+            "date": "22/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Aberdeen 1 - 0 Kilmarnock"
+          },
+          {
+            "date": "09/03/2024",
+            "competition": "Scottish Cup: Quarter-Finals",
+            "teams_and_score": "Aberdeen 3 - 1 Kilmarnock"
+          },
+          {
+            "date": "24/02/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Kilmarnock 2 - 0 Aberdeen"
+          }
+        ],
+        "home_team_form": {
+          "team": "Aberdeen",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Aberdeen 0 - 0 Kilmarnock",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group A",
+              "teams_and_score": "Aberdeen 3 - 0 Kelty Hearts",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Kilmarnock",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Aberdeen 0 - 0 Kilmarnock",
+              "result": "D"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Kilmarnock 3 - 2 Ayr United",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group H",
+              "teams_and_score": "Peterhead 0 - 0 Kilmarnock",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Aberdeen": "3",
+          "Kilmarnock": "4"
+        },
+        "shots_off_target": {
+          "Aberdeen": "6",
+          "Kilmarnock": "5"
+        },
+        "shots_blocked": {
+          "Aberdeen": "2",
+          "Kilmarnock": "2"
+        },
+        "corners": {
+          "Aberdeen": "6",
+          "Kilmarnock": "7"
+        },
+        "fouls": {
+          "Aberdeen": "13",
+          "Kilmarnock": "13"
+        },
+        "yellow_cards": {
+          "Aberdeen": "5",
+          "Kilmarnock": "1"
+        },
+        "red_cards": {
+          "Aberdeen": "0",
+          "Kilmarnock": "1"
+        },
+        "goalkeeper_saves": {
+          "Aberdeen": "4",
+          "Kilmarnock": "3"
+        },
+        "crosses": {
+          "Aberdeen": "5",
+          "Kilmarnock": "6"
+        },
+        "ball_possession": {
+          "Aberdeen": "55%",
+          "Kilmarnock": "45%"
+        }
+      },
+      "description": "Watch Aberdeen vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 5, 2026. High-Voltage Clash at Pittodrie On September 5, 2026 , the Premiership showdown between Aberdeen and Kilmarnock evolved into a high-stakes battle defined by physical intensity and disciplinary drama. Both sides fought for dominance in a match where space was at a premium and the referee’s cards played a pivotal role in the narrative. A Testing First Half From the opening whistle, the atmosphere was thick with tension. The midfield battle proved relentless, with both teams struggling to create clear-cut scoring opportunities. The disciplinary tone was set early, as the referee frequently intervened to manage the aggression, issuing cautions to the likes of Chris Cadden , Tom Lowery , and Aaron Tshibola before the half-time whistle signaled a brief reprieve from the frantic pace. Disciplinary Turning Point Following the restart, the intensity did not wane. As managers utilized their benches, bringing on players like Mats Knoester and Ayoub Mouloua , the game grew increasingly disjointed. The defining moment of the second half arrived in the 82nd minute when Aaron Tshibola , already on a booking, was shown a second yellow card and subsequently sent off. Forced to finish with ten men, Kilmarnock focused entirely on defensive stability. Despite substitutions such as Mark O'Hara and Tyreece John-Jules , neither side could force a breakthrough, leaving the scoreline as a testament to the gritty, uncompromising nature of the contest."
+    },
+    {
+      "title": "St. Mirren - Celtic",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-celtic-2026-09-05-62WP.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Sep 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/247.webp",
+          "name": "Celtic",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/251.webp",
+          "name": "ST Mirren",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-celtic-2026-09-05.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Celtic",
+          "player": "C. Donovan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "ST Mirren",
+          "player": "N. Agrafiotis",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Celtic",
+          "player": "C. Duran",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "46'",
+          "team": "ST Mirren",
+          "player": "C. Ramsay",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "51'",
+          "team": "Celtic",
+          "player": "L. Scales",
+          "event_type": "Goal",
+          "assist": "B. Nygren",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "68'",
+          "team": "Celtic",
+          "player": "Y. Hyun-jun",
+          "event_type": "Goal",
+          "assist": "C. Duran",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "90+3'",
+          "team": "Celtic",
+          "player": "S. Mheuka",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+6'",
+          "team": "ST Mirren",
+          "player": "E. Sule",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+7'",
+          "team": "ST Mirren",
+          "player": "P. Nsio",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+7'",
+          "team": "ST Mirren",
+          "player": "S. Ramos",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "ST Mirren_wins": "2",
+          "draws": "1",
+          "Celtic_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "19/04/2026",
+            "competition": "Scottish Cup: Semi-Finals",
+            "teams_and_score": "Celtic 6 - 2 St. Mirren"
+          },
+          {
+            "date": "11/04/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Celtic 1 - 0 St. Mirren"
+          },
+          {
+            "date": "14/12/2025",
+            "competition": "Scottish League Cup: Final",
+            "teams_and_score": "St. Mirren 3 - 1 Celtic"
+          },
+          {
+            "date": "22/11/2025",
+            "competition": "Premiership",
+            "teams_and_score": "St. Mirren 0 - 1 Celtic"
+          },
+          {
+            "date": "17/05/2025",
+            "competition": "Premiership: Championship Group",
+            "teams_and_score": "Celtic 1 - 1 St. Mirren"
+          },
+          {
+            "date": "01/03/2025",
+            "competition": "Premiership",
+            "teams_and_score": "St. Mirren 2 - 5 Celtic"
+          },
+          {
+            "date": "18/05/2024",
+            "competition": "Premiership: Championship Group",
+            "teams_and_score": "Celtic 3 - 2 St. Mirren"
+          }
+        ],
+        "home_team_form": {
+          "team": "ST Mirren",
+          "form": [
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "St. Mirren 1 - 2 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Rangers 5 - 1 St. Mirren",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "St. Mirren 1 - 0 St. Johnstone",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Scottish League Cup: Group C",
+              "teams_and_score": "St. Mirren 0 - 1 Dunfermline Athletic",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Celtic",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "St. Mirren 1 - 2 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "LASK 5 - 1 Celtic",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Dundee United 0 - 4 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Celtic 2 - 2 AC Milan",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "ST Mirren": "6",
+          "Celtic": "8"
+        },
+        "shots_off_target": {
+          "ST Mirren": "6",
+          "Celtic": "10"
+        },
+        "shots_blocked": {
+          "ST Mirren": "7",
+          "Celtic": "5"
+        },
+        "corners": {
+          "ST Mirren": "6",
+          "Celtic": "10"
+        },
+        "fouls": {
+          "ST Mirren": "6",
+          "Celtic": "15"
+        },
+        "offsides": {
+          "ST Mirren": "0",
+          "Celtic": "2"
+        },
+        "yellow_cards": {
+          "ST Mirren": "4",
+          "Celtic": "1"
+        },
+        "goalkeeper_saves": {
+          "ST Mirren": "5",
+          "Celtic": "5"
+        },
+        "crosses": {
+          "ST Mirren": "2",
+          "Celtic": "6"
+        },
+        "ball_possession": {
+          "ST Mirren": "40%",
+          "Celtic": "60%"
+        }
+      },
+      "description": "Watch ST Mirren vs Celtic highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The stage was set for a compelling Premiership encounter as two determined sides met on the pitch. The match, played on September 5, 2026 , offered a glimpse into the tactical battles defining the season. Early exchanges and breakthrough St. Mirren made their intentions clear early on, forcing the play and testing the Celtic backline. The pressure forced an opening in the 22nd minute when the referee pointed to the penalty spot. Nikolas Agrafiotis stepped up for the hosts, coolly converting the penalty to hand his side the lead and ignite the home crowd. Coming out for the second half, Celtic looked like a transformed side, pressing higher and moving the ball with greater urgency. The breakthrough arrived in the 51st minute when Liam Scales met a delivery from Benjamin Nygren to level the scores. The visitors continued to push forward, and their patience was rewarded in the 68th minute as Hyun-Jun Yang latched onto an assist from Camilo Duran to fire the winner home. Tense conclusion As the clock ticked down, both managers utilized their substitutes to manage the fatigue and tactical demands of the game. A late chance from Shumaira Mheuka failed to find the target, keeping the pressure on the visitors. The final moments were heated, with Eseosa Sule , Paul Nsio , and Samuel Ramos all receiving yellow cards in added time, marking a sharp and dramatic end to the proceedings."
+    },
+    {
+      "title": "Rangers - Motherwell",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/rangers-motherwell-2026-09-05-YeiA.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Sep 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/256.webp",
+          "name": "Motherwell",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/257.webp",
+          "name": "Rangers",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/rangers-motherwell-2026-09-05.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Rangers",
+          "player": "R. D. Naderi",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Rangers",
+          "player": "K. Min-su",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Rangers_wins": "2",
+          "draws": "1",
+          "Motherwell_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "26/04/2026",
+            "competition": "Premiership: Championship Group",
+            "teams_and_score": "Rangers 2 - 3 Motherwell"
+          },
+          {
+            "date": "11/02/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Motherwell 1 - 1 Rangers"
+          },
+          {
+            "date": "01/03/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Rangers 1 - 2 Motherwell"
+          },
+          {
+            "date": "03/11/2024",
+            "competition": "Scottish League Cup: Semi-Finals",
+            "teams_and_score": "Motherwell 1 - 2 Rangers"
+          },
+          {
+            "date": "10/08/2024",
+            "competition": "Premiership",
+            "teams_and_score": "Rangers 2 - 1 Motherwell"
+          },
+          {
+            "date": "02/03/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Rangers 1 - 2 Motherwell"
+          }
+        ],
+        "home_team_form": {
+          "team": "Rangers",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Rangers 1 - 0 Motherwell",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Jablonec 1 - 0 Rangers",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Rangers 5 - 1 St. Mirren",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Rangers 1 - 1 Jagiellonia Bialystok",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Rangers 1 - 2 Hibernian",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Motherwell",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Rangers 1 - 0 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Freiburg 4 - 1 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Stenhousemuir 1 - 0 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Motherwell 2 - 0 HJK Helsinki",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Motherwell 0 - 0 Falkirk",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Rangers": "6",
+          "Motherwell": "3"
+        },
+        "shots_off_target": {
+          "Rangers": "12",
+          "Motherwell": "3"
+        },
+        "shots_blocked": {
+          "Rangers": "8",
+          "Motherwell": "2"
+        },
+        "corners": {
+          "Rangers": "7",
+          "Motherwell": "5"
+        },
+        "fouls": {
+          "Rangers": "7",
+          "Motherwell": "12"
+        },
+        "goalkeeper_saves": {
+          "Rangers": "3",
+          "Motherwell": "4"
+        },
+        "crosses": {
+          "Rangers": "8",
+          "Motherwell": "3"
+        },
+        "ball_possession": {
+          "Rangers": "41%",
+          "Motherwell": "59%"
+        }
+      },
+      "description": "Watch Rangers vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The atmosphere was thick with anticipation as Rangers and Motherwell took to the pitch on September 5, 2026, for their Premiership clash. Both sides knew that securing victory would require not just tactical discipline, but a clinical edge in front of goal. Early intervention sets the tone The match ignited early when Ryan Don Naderi , who had replaced an injured Lawrence Shankland only minutes earlier, found the back of the net in the 12th minute to put his side in front. The momentum looked set to shift decisively in the 30th minute when the hosts were awarded a penalty, but Min-Su Kim failed to convert from the spot, allowing Motherwell a lifeline that kept the game hanging in the balance for the remainder of the evening. Managing the intensity The second half evolved into a high-stakes chess match as both managers utilized their benches to inject fresh energy. Following a flurry of substitutions, including the introductions of Jardell Kanga and Daisuke Yokota , the game became increasingly fragmented. Despite a frantic final push from the visitors, Rangers stood firm under pressure. The final whistle marked the conclusion of a hard-fought affair, with the home side celebrating a vital win built on their clinical first-half breakthrough."
+    },
+    {
+      "title": "Dundee United - Falkirk",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-united-falkirk-2026-09-05-LQCj.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Sep 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1389.webp",
+          "name": "Falkirk",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1386.webp",
+          "name": "Dundee Utd",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/dundee-united-falkirk-2026-09-05.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Falkirk",
+          "player": "J. Murrell",
+          "event_type": "Goal",
+          "assist": "R. Strain",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Dundee Utd",
+          "player": "D. Tait",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "56'",
+          "team": "Dundee Utd",
+          "player": "Z. Sapsford",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "64'",
+          "team": "Dundee Utd",
+          "player": "L. Rose",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "84'",
+          "team": "Falkirk",
+          "player": "B. Spencer",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "88'",
+          "team": "Falkirk",
+          "player": "B. Parkinson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Dundee Utd",
+          "player": "M. Forbes",
+          "event_type": "Goal",
+          "assist": "A. Yoro",
+          "score_update": "1 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Dundee Utd_wins": "2",
+          "draws": "0",
+          "Falkirk_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "06/03/2026",
+            "competition": "Scottish Cup: Quarter-Finals",
+            "teams_and_score": "Falkirk 2 - 1 Dundee United"
+          },
+          {
+            "date": "14/02/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Falkirk 2 - 3 Dundee United"
+          },
+          {
+            "date": "13/07/2024",
+            "competition": "Scottish League Cup: Group B",
+            "teams_and_score": "Falkirk 2 - 0 Dundee United"
+          },
+          {
+            "date": "17/11/2023",
+            "competition": "Challenge Cup",
+            "teams_and_score": "Falkirk 4 - 2 Dundee United"
+          },
+          {
+            "date": "25/07/2023",
+            "competition": "Scottish League Cup: Group B",
+            "teams_and_score": "Falkirk 0 - 1 Dundee United"
+          },
+          {
+            "date": "27/04/2019",
+            "competition": "Championship",
+            "teams_and_score": "Dundee United 2 - 0 Falkirk"
+          }
+        ],
+        "home_team_form": {
+          "team": "Dundee Utd",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee United 1 - 1 Falkirk",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Dundee United 0 - 4 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hearts 4 - 0 Dundee United",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Salford City 3 - 2 Dundee United",
+              "result": "L"
+            },
+            {
+              "date": "21/07/2026",
+              "competition": "Scottish League Cup: Group B",
+              "teams_and_score": "Dundee United 4 - 0 Spartans",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Falkirk",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee United 1 - 1 Falkirk",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group G",
+              "teams_and_score": "Falkirk 3 - 0 Stranraer",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Falkirk 1 - 0 Genk",
+              "result": "W"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Scottish League Cup: Group G",
+              "teams_and_score": "Falkirk 0 - 1 Ayr United",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Dundee Utd": "9",
+          "Falkirk": "4"
+        },
+        "shots_off_target": {
+          "Dundee Utd": "10",
+          "Falkirk": "3"
+        },
+        "shots_blocked": {
+          "Dundee Utd": "8",
+          "Falkirk": "5"
+        },
+        "corners": {
+          "Dundee Utd": "14",
+          "Falkirk": "5"
+        },
+        "fouls": {
+          "Dundee Utd": "16",
+          "Falkirk": "14"
+        },
+        "offsides": {
+          "Dundee Utd": "2",
+          "Falkirk": "1"
+        },
+        "yellow_cards": {
+          "Dundee Utd": "3",
+          "Falkirk": "2"
+        },
+        "goalkeeper_saves": {
+          "Dundee Utd": "3",
+          "Falkirk": "8"
+        },
+        "crosses": {
+          "Dundee Utd": "14",
+          "Falkirk": "2"
+        },
+        "ball_possession": {
+          "Dundee Utd": "62%",
+          "Falkirk": "38%"
+        }
+      },
+      "description": "Watch Dundee Utd vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 5, 2026. A tense encounter under the lights On September 5, 2026 , Dundee United and Falkirk clashed in a high-stakes Premiership fixture that promised a tactical and physical test for both sides. Early breakthrough and midfield battle The game exploded into life almost immediately. Just 4 minutes in, Jacob Murrell found the back of the net after a clinical assist from Ryan Strain , handing Falkirk an early lead. This forced Dundee United to change their approach, shifting gears to break down a resilient opponent that looked determined to protect their advantage throughout the first half. As the game progressed, the midfield became a war of attrition. The physical nature of the contest saw tempers flare, leading to a series of yellow cards for players like Zachary Sapsford , Lachlan Rose , Brad Spencer , and Ben Parkinson as the referees maintained tight control over the proceedings. Both managers utilized their substitutes in the second half, with the likes of Abdoulaye Yoro and CJ Fodrey entering the fray to inject fresh energy into a tiring contest. Late drama seals the point The pressure mounted as the match entered its closing stages. Dundee United kept their composure, continually probing the final third in search of an elusive goal. Their perseverance paid off in the dying seconds of the game. In the 90+2 minute, Abdoulaye Yoro provided a perfectly timed assist to Michael Forbes , who fired home the equalizer. The goal sparked wild celebrations, securing a hard-fought draw for the hosts just moments before the referee signaled the end of the match."
+    },
     {
       "title": "Livingston - Stenhousemuir",
       "thumbnail_url": "https://img.refooty.com/thumbnail/livingston-stenhousemuir-2026-09-05-ANX2.webp",
@@ -1557,660 +2931,6 @@
       "description": "Watch Celtic vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 2, 2026. The atmosphere was electric as Celtic and Aberdeen faced off in the Scottish Premiership , with both teams eager to assert their authority early in the season. The clash, held on September 2, 2026 , promised high stakes and intense action under the stadium lights. Explosive First-Half Dominance The match began with a frenetic pace, and it didn't take long for the deadlock to be broken. In the 14th minute, Celtic displayed their technical quality as Benjamin Nygren found Camilo Duran with a precise pass, allowing Duran to finish clinically to open the scoring. Aberdeen attempted to fight back, but the home side's pressure was relentless. In the 34th minute, the provider turned scorer: Benjamin Nygren capitalized on a clear opportunity to double the lead, consolidating his team's territorial dominance. As half-time approached, tempers flared in the heat of battle. Cameron Carter-Vickers received a yellow card in the 38th minute following a robust challenge, and shortly after, Aberdeen's Lewis Mayo was also cautioned by the referee. However, the most impactful moment before the break occurred in stoppage time. In the 45+1 minute, Camilo Duran returned the earlier favor by setting up Hyun-Jun Yang , who made no mistake in slotting home the third goal, leaving the visitors in a desperate situation. Tactical Management and Final Whistle The second half commenced with a series of drastic alterations as both managers looked to the bench. The Aberdeen coaching staff sought fresh blood, introducing Connor Ronan , Lewis Smith , Mitchy Ntelo , and Toyosi Olusanya immediately at the restart. The game became more physically balanced, but clear-cut scoring chances diminished as Celtic shifted focus to controlling the clock and maintaining possession. Throughout the final stages, further substitutions including James Forrest and Oliver Soerensen were introduced to maintain energy levels. Despite Aberdeen's efforts to reduce the deficit, the home defense remained resolute. The final whistle at 90+5 minutes confirmed a masterclass performance built entirely in the opening 45 minutes, securing crucial points for the campaign ahead."
     },
     {
-      "title": "Celtic - Dundee",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-dundee-2026-08-03-HHkG.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 3, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/253.webp",
-          "name": "Dundee FC",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/247.webp",
-          "name": "Celtic",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/celtic-dundee-2026-08-03_5N8jX.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "52'",
-          "team": "Celtic",
-          "player": "B. Nygren",
-          "event_type": "Goal",
-          "assist": "K. Tierney",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "90'",
-          "team": "Dundee FC",
-          "player": "A. Hay",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Celtic",
-          "player": "A. Engels",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Celtic_wins": "6",
-          "draws": "0",
-          "Dundee FC_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "05/04/2026",
-            "competition": "Premiership",
-            "teams_and_score": "Dundee FC 1 - 2 Celtic"
-          },
-          {
-            "date": "07/02/2026",
-            "competition": "Scottish Cup: Round 5",
-            "teams_and_score": "Celtic 2 - 1 Dundee FC"
-          },
-          {
-            "date": "03/12/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Celtic 1 - 0 Dundee FC"
-          },
-          {
-            "date": "05/02/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Celtic 6 - 0 Dundee FC"
-          },
-          {
-            "date": "28/04/2024",
-            "competition": "Premiership: Championship Group",
-            "teams_and_score": "Dundee FC 1 - 2 Celtic"
-          },
-          {
-            "date": "28/02/2024",
-            "competition": "Premiership 23/24",
-            "teams_and_score": "Celtic 7 - 1 Dundee FC"
-          }
-        ],
-        "home_team_form": {
-          "team": "Celtic",
-          "form": [
-            "W",
-            "D",
-            "D",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "03/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Celtic 1 - 0 Dundee FC",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Celtic 2 - 2 AC Milan",
-              "result": "D"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Celtic 1 - 1 Middlesbrough",
-              "result": "D"
-            },
-            {
-              "date": "14/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Sporting CP 4 - 1 Celtic",
-              "result": "L"
-            },
-            {
-              "date": "07/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Shelbourne 1 - 1 Celtic",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Dundee FC",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "03/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Celtic 1 - 0 Dundee FC",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group D",
-              "teams_and_score": "Dundee FC 4 - 0 Clyde",
-              "result": "W"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Dundee FC 0 - 4 Everton",
-              "result": "L"
-            },
-            {
-              "date": "14/07/2026",
-              "competition": "Scottish League Cup: Group D",
-              "teams_and_score": "Annan Athletic 0 - 5 Dundee FC",
-              "result": "W"
-            },
-            {
-              "date": "08/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Brechin City 1 - 1 Dundee FC",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Celtic": "4",
-          "Dundee FC": "3"
-        },
-        "shots_off_target": {
-          "Celtic": "10",
-          "Dundee FC": "5"
-        },
-        "shots_blocked": {
-          "Celtic": "4",
-          "Dundee FC": "3"
-        },
-        "corners": {
-          "Celtic": "9",
-          "Dundee FC": "4"
-        },
-        "fouls": {
-          "Celtic": "9",
-          "Dundee FC": "7"
-        },
-        "offsides": {
-          "Celtic": "0",
-          "Dundee FC": "1"
-        },
-        "yellow_cards": {
-          "Celtic": "1",
-          "Dundee FC": "1"
-        },
-        "goalkeeper_saves": {
-          "Celtic": "3",
-          "Dundee FC": "3"
-        },
-        "crosses": {
-          "Celtic": "3",
-          "Dundee FC": "4"
-        },
-        "ball_possession": {
-          "Celtic": "66%",
-          "Dundee FC": "34%"
-        }
-      },
-      "description": "Watch Celtic vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 3, 2026. Celtic and Dundee FC locked horns in a highly anticipated Premiership encounter that promised tactical intrigue from the start. Both sides took to the pitch on August 3, 2026 , looking to establish dominance in a match where every small margin would prove crucial. A Cagey Opening Period The first half was characterized by a tactical stalemate, with both teams struggling to find a decisive opening. Celtic attempted to control the tempo through sustained possession, but Dundee FC remained disciplined and compact at the back. As the referee blew for half-time, the deadlock remained unbroken, leaving the fans in anticipation of a spark to ignite the contest in the second period. Nygren Delivers the Breakthrough The momentum shifted significantly just seven minutes after the restart. In the 52nd minute, Kieran Tierney turned provider, delivering a precise ball that found Benjamin Nygren in a dangerous position. Nygren made no mistake, clinical finishing to put his side ahead. This goal forced Dundee to alter their game plan, leading to a series of substitutions around the hour mark, including the introduction of Ashley Hay and Finlay Robertson . Late Drama and Final Whistle As the clock ticked down, the match grew increasingly physical. Both managers looked to their benches to influence the closing stages, with Celtic introducing James Forrest and Luke McCowan to maintain their lead. The tension boiled over in stoppage time, as Ashley Hay and Arne Engels both received yellow cards in quick succession. Despite Dundee's late efforts to find an equalizer, Celtic held firm until the final whistle at 90+4 minutes to secure the points."
-    },
-    {
-      "title": "Dundee United - Dundee",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-united-dundee-2026-08-22-5N6D.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 22, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/253.webp",
-          "name": "Dundee FC",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1386.webp",
-          "name": "Dundee Utd",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/dundee-united-dundee-2026-08-22.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "43'",
-          "team": "Dundee FC",
-          "player": "D. Wright",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "45+4'",
-          "team": "Dundee FC",
-          "player": "R. Finnigan",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Dundee Utd",
-          "player": "D. Bennie",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Dundee FC",
-          "player": "O. Bevan",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "76'",
-          "team": "Dundee Utd",
-          "player": "A. Yoro",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Dundee FC",
-          "player": "O. Bevan",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Dundee Utd",
-          "player": "V. Sevelj",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "121'",
-          "team": "Dundee Utd",
-          "player": "D. Tait",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "121'",
-          "team": "Dundee FC",
-          "player": "E. Hamilton",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Dundee Utd_wins": "2",
-          "draws": "2",
-          "Dundee FC_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "26/04/2026",
-            "competition": "Premiership: Relegation Group",
-            "teams_and_score": "Dundee United 3 - 0 Dundee FC"
-          },
-          {
-            "date": "15/03/2026",
-            "competition": "Premiership",
-            "teams_and_score": "Dundee FC 2 - 2 Dundee United"
-          },
-          {
-            "date": "16/03/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Dundee United 2 - 4 Dundee FC"
-          },
-          {
-            "date": "20/01/2025",
-            "competition": "Scottish Cup: Round 4",
-            "teams_and_score": "Dundee FC 1 - 0 Dundee United"
-          },
-          {
-            "date": "02/01/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Dundee FC 1 - 2 Dundee United"
-          },
-          {
-            "date": "09/04/2022",
-            "competition": "Premiership 21/22",
-            "teams_and_score": "Dundee United 2 - 2 Dundee FC"
-          }
-        ],
-        "home_team_form": {
-          "team": "Dundee Utd",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee United 0 - 2 Dundee FC",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Dundee United 0 - 4 Celtic",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Hearts 4 - 0 Dundee United",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Salford City 3 - 2 Dundee United",
-              "result": "L"
-            },
-            {
-              "date": "21/07/2026",
-              "competition": "Scottish League Cup: Group B",
-              "teams_and_score": "Dundee United 4 - 0 Spartans",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Dundee FC",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee United 0 - 2 Dundee FC",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group D",
-              "teams_and_score": "Dundee FC 4 - 0 Clyde",
-              "result": "W"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Dundee FC 0 - 4 Everton",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Dundee Utd": "5",
-          "Dundee FC": "4"
-        },
-        "shots_off_target": {
-          "Dundee Utd": "12",
-          "Dundee FC": "6"
-        },
-        "shots_blocked": {
-          "Dundee Utd": "7",
-          "Dundee FC": "4"
-        },
-        "corners": {
-          "Dundee Utd": "6",
-          "Dundee FC": "6"
-        },
-        "fouls": {
-          "Dundee Utd": "11",
-          "Dundee FC": "11"
-        },
-        "offsides": {
-          "Dundee Utd": "2",
-          "Dundee FC": "1"
-        },
-        "yellow_cards": {
-          "Dundee Utd": "4",
-          "Dundee FC": "3"
-        },
-        "goalkeeper_saves": {
-          "Dundee Utd": "2",
-          "Dundee FC": "4"
-        },
-        "crosses": {
-          "Dundee Utd": "6",
-          "Dundee FC": "5"
-        },
-        "ball_possession": {
-          "Dundee Utd": "68%",
-          "Dundee FC": "32%"
-        }
-      },
-      "description": "Watch Dundee Utd vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The Dundee derby on August 22, 2026, set the stage for a high-stakes showdown in the Scottish Premiership . With bragging rights and crucial points on the line, both Dundee United and Dundee FC entered the pitch prepared for a fierce encounter. First-half deadlock broken From the opening whistle, the match was defined by physical battles across the midfield. Neither side was willing to yield, making for a gritty and tight contest. However, the deadlock was finally broken in the 43rd minute when Drey Wright capitalized on a decisive moment to find the net, sending the supporters into raptures just before the halftime break. Tensions rise in the second half The second half opened with tactical adjustments from both benches as players looked to shift the momentum. The breakthrough came at the 57th minute when Alan Forrest provided a clinical assist for Owen Bevan , who effectively doubled the pressure on the opposition with a well-taken goal. As the game wore on, the intensity led to a series of yellow cards for players including Daniel Bennie , Abdoulaye Yoro , and Dylan Tait . Despite late attempts to influence the game through substitutes, the score held firm until the final whistle at 95 minutes, closing out a hard-fought derby."
-    },
-    {
-      "title": "Inverness Caledonian Thistle - Partick Thistle",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/inverness-caledonian-thistle-partick-thistle-2026-08-21-3A9B.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 21, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/901.webp",
-          "name": "Partick",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/903.webp",
-          "name": "Inverness CT",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/inverness-caledonian-thistle-partick-thistle-2026-08-21.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Inverness CT",
-          "player": "B. Nygren",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Inverness CT",
-          "player": "C. Duran",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Inverness CT",
-          "player": "C. Duran",
-          "event_type": "Goal",
-          "assist": "B. Nygren",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Partick",
-          "player": "K. Jørgensen",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Inverness CT_wins": "1",
-          "draws": "0",
-          "Partick_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "08/07/2014",
-            "competition": "Club Friendlies",
-            "teams_and_score": "LASK 2 - 5 Celtic"
-          }
-        ],
-        "home_team_form": {
-          "team": "Inverness CT",
-          "form": [
-            "L",
-            "W",
-            "W",
-            "D",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "19/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Celtic 3 - 0 LASK",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Dundee United 0 - 4 Celtic",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Celtic 2 - 2 AC Milan",
-              "result": "D"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Celtic 1 - 1 Middlesbrough",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Partick",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "19/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Celtic 3 - 0 LASK",
-              "result": "L"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Bundesliga",
-              "teams_and_score": "LASK 4 - 1 SV Ried",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "OFB Cup",
-              "teams_and_score": "Kalsdorf 0 - 7 LASK",
-              "result": "W"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "LASK 2 - 0 Fortuna Dusseldorf",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Inverness CT": "7",
-          "Partick": "8"
-        },
-        "shots_off_target": {
-          "Inverness CT": "5",
-          "Partick": "7"
-        },
-        "shots_blocked": {
-          "Inverness CT": "5",
-          "Partick": "5"
-        },
-        "corners": {
-          "Inverness CT": "8",
-          "Partick": "3"
-        },
-        "fouls": {
-          "Inverness CT": "6",
-          "Partick": "9"
-        },
-        "offsides": {
-          "Inverness CT": "1",
-          "Partick": "5"
-        },
-        "yellow_cards": {
-          "Inverness CT": "0",
-          "Partick": "1"
-        },
-        "goalkeeper_saves": {
-          "Inverness CT": "8",
-          "Partick": "4"
-        },
-        "crosses": {
-          "Inverness CT": "3",
-          "Partick": "4"
-        },
-        "ball_possession": {
-          "Inverness CT": "64%",
-          "Partick": "36%"
-        }
-      },
-      "description": "Watch Inverness CT vs Partick highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 21, 2026. The Scottish Premiership took center stage on August 21, 2026 , as Celtic hosted Partick in a highly anticipated encounter. Fans filled the stands, eager to see how this early-season battle would unfold on the pitch. Early Dominance from the Hoops From the opening whistle, Celtic established their rhythm, dominating possession and forcing Partick into a defensive shell. The breakthrough arrived in the 26th minute when Benjamin Nygren found the back of the net with a clinical finish. The goal served as a catalyst for more pressure, as the home side looked to double their advantage quickly. That second goal arrived in the 38th minute, courtesy of Camilo Duran . The striker showed great composure to beat the goalkeeper, rewarding Celtic for their relentless attacking play. By the time the referee blew for half-time at 45+2' , the hosts held a comfortable lead and total control of the match momentum. Duran Doubles Up to Secure the Points The second half saw Partick attempt to stabilize, but Celtic remained sharp and clinical. In the 67th minute, the game was effectively put to bed. Benjamin Nygren turned provider, delivering a precise assist for Camilo Duran , who made no mistake in slotting home his second goal of the match to make it 3-0. A series of tactical changes followed, with Celtic introducing the likes of Reo Hatate , Anthony Ralston , and Liam Scales to see out the game. Despite a late yellow card for Kasper Joergensen in the 82nd minute, the hosts never looked troubled. The final whistle at 90+4' confirmed a dominant performance and a vital three points for the Glasgow giants."
-    },
-    {
       "title": "St. Mirren - Motherwell",
       "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-motherwell-2026-08-30-1NdB.webp",
       "competition": "Premiership - Scotland",
@@ -2955,6 +3675,1188 @@
         }
       },
       "description": "Watch Dundee FC vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 30, 2026. On August 30, 2026 , Dundee FC and Hibernian faced off in a Scottish Premiership clash that promised plenty of action. Both teams looked to impose their style of play in a contest where every tactical decision could prove decisive. Clinical First Half from the Visitors The match began with high energy as both sides vied for control in the middle of the park. It was Hibernian who struck first in the 25th minute, breaking the deadlock through a well-worked move. Grant Hanley provided a pinpoint assist for Martin Boyle , who made no mistake in finding the back of the net. Dundee FC struggled to find an immediate response, as the visitors maintained a disciplined shape, ensuring they headed into the halftime break with a narrow lead. Second Half Shifts and Doubling the Lead The second half saw an increase in physical play, with Felix Passlack picking up a yellow card in the 58th minute. However, Passlack quickly turned from villain to hero just three minutes later. In the 61st minute, he set up Callum Wright , who clinicaly finished to double the lead for Hibernian . Following the goal, both managers turned to their benches. Dundee FC introduced Alan Forrest and Finlay Robertson to spark a comeback, while the game’s tempo remained frantic as Drey Wright also saw yellow for a mistimed challenge. Late Resurgence and Final Whistle As the clock ticked toward the final whistle, the drama intensified at Dens Park. In the 84th minute, Joe Westley managed to pull one back for Dundee FC , firing home to set up a grandstand finish. The closing stages were marked by a flurry of substitutions, including the arrival of Joe Newell and Miguel Chaiwa for the visitors to help see out the game. Despite late pressure from the hosts, the referee blew for full-time after three minutes of stoppage time, bringing an end to a captivating encounter."
+    },
+    {
+      "title": "Kilmarnock - Dundee United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-dundee-united-2026-08-29-7GcE.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1386.webp",
+          "name": "Dundee Utd",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/250.webp",
+          "name": "Kilmarnock",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-dundee-united-2026-08-29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Dundee Utd",
+          "player": "B. Esselink",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Dundee Utd",
+          "player": "E. Agyei",
+          "event_type": "Goal",
+          "assist": "M. Merghem",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Kilmarnock",
+          "player": "C. McCarthy",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Dundee Utd",
+          "player": "Z. Sapsford",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Dundee Utd",
+          "player": "Z. Sapsford",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Dundee Utd",
+          "player": "W. Ferry",
+          "event_type": "Goal",
+          "assist": "M. Merghem",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "91'",
+          "team": "Kilmarnock",
+          "player": "J. Hugill",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "69'",
+          "team": "Dundee Utd",
+          "player": "W. Ferry",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "77'",
+          "team": "Dundee Utd",
+          "player": "J. Randall",
+          "event_type": "Goal",
+          "assist": "W. Ferry",
+          "score_update": "0 - 4"
+        },
+        {
+          "time": "90+2'",
+          "team": "Kilmarnock",
+          "player": "B. Rice",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Kilmarnock_wins": "5",
+          "draws": "1",
+          "Dundee Utd_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "02/05/2026",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Kilmarnock 3 - 0 Dundee United"
+          },
+          {
+            "date": "21/02/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee United 1 - 1 Kilmarnock"
+          },
+          {
+            "date": "17/08/2025",
+            "competition": "Scottish League Cup: Round of 16",
+            "teams_and_score": "Kilmarnock 2 - 1 Dundee United"
+          },
+          {
+            "date": "01/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Kilmarnock 1 - 0 Dundee United"
+          },
+          {
+            "date": "24/05/2023",
+            "competition": "Premiership: Relegation Group 22/23",
+            "teams_and_score": "Dundee United 0 - 3 Kilmarnock"
+          },
+          {
+            "date": "11/02/2023",
+            "competition": "Scottish Cup",
+            "teams_and_score": "Dundee United 0 - 1 Kilmarnock"
+          }
+        ],
+        "home_team_form": {
+          "team": "Kilmarnock",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Kilmarnock 0 - 4 Dundee United",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Kilmarnock 3 - 2 Ayr United",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group H",
+              "teams_and_score": "Peterhead 0 - 0 Kilmarnock",
+              "result": "D"
+            },
+            {
+              "date": "04/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Linfield 2 - 3 Kilmarnock",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Dundee Utd",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Kilmarnock 0 - 4 Dundee United",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Dundee United 0 - 4 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hearts 4 - 0 Dundee United",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Salford City 3 - 2 Dundee United",
+              "result": "L"
+            },
+            {
+              "date": "21/07/2026",
+              "competition": "Scottish League Cup: Group B",
+              "teams_and_score": "Dundee United 4 - 0 Spartans",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Kilmarnock": "4",
+          "Dundee Utd": "8"
+        },
+        "shots_off_target": {
+          "Kilmarnock": "4",
+          "Dundee Utd": "9"
+        },
+        "shots_blocked": {
+          "Kilmarnock": "8",
+          "Dundee Utd": "4"
+        },
+        "corners": {
+          "Kilmarnock": "3",
+          "Dundee Utd": "5"
+        },
+        "fouls": {
+          "Kilmarnock": "11",
+          "Dundee Utd": "12"
+        },
+        "offsides": {
+          "Kilmarnock": "0",
+          "Dundee Utd": "3"
+        },
+        "yellow_cards": {
+          "Kilmarnock": "3",
+          "Dundee Utd": "3"
+        },
+        "goalkeeper_saves": {
+          "Kilmarnock": "4",
+          "Dundee Utd": "5"
+        },
+        "crosses": {
+          "Kilmarnock": "7",
+          "Dundee Utd": "8"
+        },
+        "ball_possession": {
+          "Kilmarnock": "52%",
+          "Dundee Utd": "48%"
+        }
+      },
+      "description": "Watch Kilmarnock vs Dundee Utd highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 29, 2026. Rugby Park set the stage for a compelling Scottish Premiership encounter on August 29, 2026, as Kilmarnock hosted a confident Dundee United side. With both teams looking to climb the league standings, the match promised a high-octane battle under the lights. A Clinical First Half Display The match ignited early on, with intensity levels high from the opening whistle. Dundee United ’s Bert Esselink received a yellow card within ten minutes, signaling the physical nature of the contest. However, the visitors quickly turned their aggression into goals. In the 12th minute, Mehdi Merghem delivered a perfectly weighted assist for Emmanuel Agyei , who finished clinically to put the visitors ahead. Kilmarnock faced further adversity when Robbie Deas was forced off early through injury, replaced by George Stanger . The momentum stayed firmly with the visitors, and in the 36th minute, Zachary Sapsford calmly converted a penalty to double the lead. Dundee United Extend Their Advantage Just as Kilmarnock attempted to reorganize, they were hit with a third blow before the break. In the 41st minute, the creative Mehdi Merghem notched his second assist of the day, setting up Will Ferry for a strike that effectively took the game away from the hosts. A flurry of yellow cards followed, as Joe Hugill and Zachary Sapsford were both cautioned in a heated end to the first half. The visitors headed into the tunnel with a commanding three-goal lead, leaving the home side with a mountain to climb in the second period. Second Half Dominance and Final Whistle Kilmarnock introduced several fresh faces at the start of the second half, including Jamie Brandon and Djenairo Daniels , in a desperate bid to spark a comeback. Despite the tactical shifts, Dundee United remained composed and continued to threaten on the counter. The fourth goal arrived in the 77th minute when substitute Jesse Randall found the back of the net, assisted by the industrious Will Ferry . The final stages of the match were well-managed by the visitors, and despite a late yellow card for Bailey Rice , the result was never in doubt. The referee blew for full-time at 0-4, marking a significant statement victory for Dundee United on the road."
+    },
+    {
+      "title": "Hearts - St. Johnstone",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/hearts-st-johnstone-2026-08-29-8cFL.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/258.webp",
+          "name": "ST Johnstone",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/254.webp",
+          "name": "Heart Of Midlothian",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/hearts-st-johnstone-2026-08-29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Heart Of Midlothian",
+          "player": "J. Wilson",
+          "event_type": "Goal",
+          "assist": "J. McPake",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Heart Of Midlothian",
+          "player": "E. Alić",
+          "event_type": "Goal"
+        },
+        {
+          "time": "46'",
+          "team": "ST Johnstone",
+          "player": "R. Paton",
+          "event_type": "Goal",
+          "assist": "S. Stanton",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Heart Of Midlothian_wins": "2",
+          "draws": "0",
+          "ST Johnstone_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "14/05/2025",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Hearts 2 - 1 St. Johnstone"
+          },
+          {
+            "date": "23/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "St. Johnstone 1 - 2 Hearts"
+          },
+          {
+            "date": "07/02/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "St. Johnstone 0 - 1 Hearts"
+          },
+          {
+            "date": "04/03/2023",
+            "competition": "Premiership 22/23",
+            "teams_and_score": "Hearts 3 - 0 St. Johnstone"
+          }
+        ],
+        "home_team_form": {
+          "team": "Heart Of Midlothian",
+          "form": [
+            "L",
+            "D",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hearts 2 - 1 St. Johnstone",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Rapid Wien 2 - 2 Hearts",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Hearts 6 - 2 Inverness CT",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hearts 1 - 1 Benfica",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hearts 4 - 0 Dundee United",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "ST Johnstone",
+          "form": [
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hearts 2 - 1 St. Johnstone",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group F",
+              "teams_and_score": "St. Johnstone 1 - 1 East Fife",
+              "result": "D"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cove Rangers 2 - 4 St. Johnstone",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Heart Of Midlothian": "7",
+          "ST Johnstone": "4"
+        },
+        "shots_off_target": {
+          "Heart Of Midlothian": "8",
+          "ST Johnstone": "3"
+        },
+        "shots_blocked": {
+          "Heart Of Midlothian": "2",
+          "ST Johnstone": "2"
+        },
+        "corners": {
+          "Heart Of Midlothian": "8",
+          "ST Johnstone": "4"
+        },
+        "fouls": {
+          "Heart Of Midlothian": "11",
+          "ST Johnstone": "14"
+        },
+        "offsides": {
+          "Heart Of Midlothian": "1",
+          "ST Johnstone": "1"
+        },
+        "goalkeeper_saves": {
+          "Heart Of Midlothian": "3",
+          "ST Johnstone": "7"
+        },
+        "crosses": {
+          "Heart Of Midlothian": "4",
+          "ST Johnstone": "4"
+        },
+        "ball_possession": {
+          "Heart Of Midlothian": "47%",
+          "ST Johnstone": "53%"
+        }
+      },
+      "description": "Watch Heart Of Midlothian vs ST Johnstone highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 29, 2026. On August 29, 2026 , football fans gathered for a compelling Scottish Premiership fixture between Heart of Midlothian and St. Johnstone . Both sides aimed to assert their dominance in a match that provided plenty of talking points from the very first whistle. Clinical Start at Tynecastle The home side wasted little time in establishing their authority on the pitch. In the 9th minute, a moment of creative brilliance from Joshua McPake set up James Wilson , who maintained his composure to slot the ball home. This early breakthrough set the tone for the afternoon, forcing St. Johnstone to rethink their defensive strategy early in the contest. Defensive Woes and a Second-Half Surge As the first half drew to a close, disaster struck for the visitors. In the 39th minute, Enes Alic inadvertently turned the ball into his own net, gifting Hearts a two-goal cushion heading into the break. The momentum remained firmly with the hosts as the second half began; just three minutes after the restart, Samuel Stanton provided a sharp assist for Ruari Paton , who effectively ended the contest as a competitive spectacle with a well-taken goal. Strategic Changes and Full-Time With a comfortable lead established, Heart of Midlothian managed the closing stages with professional ease. Managers utilized their full quota of substitutes, introducing fresh legs like Logan Chalmers and Calvin Miller to navigate the final minutes. The referee's final whistle at 90+4' confirmed a commanding performance by the Edinburgh side, leaving the visitors to reflect on a difficult afternoon."
+    },
+    {
+      "title": "Celtic - Falkirk",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-falkirk-2026-08-29-EBDB.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 29, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1389.webp",
+          "name": "Falkirk",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/247.webp",
+          "name": "Celtic",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/celtic-falkirk-2026-08-29.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "4'",
+          "team": "Celtic",
+          "player": "C. Duran",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "29'",
+          "team": "Celtic",
+          "player": "C. Duran",
+          "event_type": "Goal",
+          "assist": "K. Tierney",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "35'",
+          "team": "Falkirk",
+          "player": "L. Neilson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "44'",
+          "team": "Falkirk",
+          "player": "L. Mccann",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+2'",
+          "team": "Celtic",
+          "player": "C. Donovan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Falkirk",
+          "player": "C. Donovan",
+          "event_type": "Goal"
+        },
+        {
+          "time": "61'",
+          "team": "Falkirk",
+          "player": "C. McLeod",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Falkirk",
+          "player": "A. Doherty",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Celtic_wins": "7",
+          "draws": "0",
+          "Falkirk_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "25/04/2026",
+            "competition": "Premiership: Championship Group",
+            "teams_and_score": "Celtic 3 - 1 Falkirk"
+          },
+          {
+            "date": "01/02/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Celtic 2 - 0 Falkirk"
+          },
+          {
+            "date": "15/08/2025",
+            "competition": "Scottish League Cup: Round of 16",
+            "teams_and_score": "Celtic 4 - 1 Falkirk"
+          },
+          {
+            "date": "22/09/2024",
+            "competition": "Scottish League Cup: Quarter-Finals",
+            "teams_and_score": "Celtic 5 - 2 Falkirk"
+          },
+          {
+            "date": "03/04/2021",
+            "competition": "Scottish Cup 20/21",
+            "teams_and_score": "Celtic 3 - 0 Falkirk"
+          },
+          {
+            "date": "29/01/2012",
+            "competition": "Scottish Communities League Cup",
+            "teams_and_score": "Falkirk 1 - 3 Celtic"
+          },
+          {
+            "date": "07/03/2010",
+            "competition": "Premier League",
+            "teams_and_score": "Falkirk 0 - 2 Celtic"
+          }
+        ],
+        "home_team_form": {
+          "team": "Celtic",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Celtic 2 - 1 Falkirk",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "LASK 5 - 1 Celtic",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Dundee United 0 - 4 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Celtic 2 - 2 AC Milan",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Falkirk",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Celtic 2 - 1 Falkirk",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group G",
+              "teams_and_score": "Falkirk 3 - 0 Stranraer",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Falkirk 1 - 0 Genk",
+              "result": "W"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Scottish League Cup: Group G",
+              "teams_and_score": "Falkirk 0 - 1 Ayr United",
+              "result": "L"
+            },
+            {
+              "date": "07/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Airdrieonians 1 - 2 Falkirk",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Celtic": "8",
+          "Falkirk": "1"
+        },
+        "shots_off_target": {
+          "Celtic": "7",
+          "Falkirk": "3"
+        },
+        "shots_blocked": {
+          "Celtic": "4",
+          "Falkirk": "1"
+        },
+        "corners": {
+          "Celtic": "6",
+          "Falkirk": "3"
+        },
+        "fouls": {
+          "Celtic": "7",
+          "Falkirk": "14"
+        },
+        "offsides": {
+          "Celtic": "2",
+          "Falkirk": "3"
+        },
+        "yellow_cards": {
+          "Celtic": "1",
+          "Falkirk": "4"
+        },
+        "goalkeeper_saves": {
+          "Celtic": "1",
+          "Falkirk": "6"
+        },
+        "crosses": {
+          "Celtic": "5",
+          "Falkirk": "3"
+        },
+        "ball_possession": {
+          "Celtic": "56%",
+          "Falkirk": "44%"
+        }
+      },
+      "description": "Watch Celtic vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 29, 2026."
+    },
+    {
+      "title": "Dunfermline Athletic - Raith Rovers",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dunfermline-athletic-raith-rovers-2026-08-28-Y1dR.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 28, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/dunfermline-athletic-raith-rovers-2026-08-28.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch Dunfermline vs Raith Rovers highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 28, 2026."
+    },
+    {
+      "title": "Dundee United - Dundee",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-united-dundee-2026-08-22-5N6D.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/253.webp",
+          "name": "Dundee FC",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1386.webp",
+          "name": "Dundee Utd",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/dundee-united-dundee-2026-08-22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "43'",
+          "team": "Dundee FC",
+          "player": "D. Wright",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "45+4'",
+          "team": "Dundee FC",
+          "player": "R. Finnigan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Dundee Utd",
+          "player": "D. Bennie",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Dundee FC",
+          "player": "O. Bevan",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Dundee Utd",
+          "player": "A. Yoro",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Dundee FC",
+          "player": "O. Bevan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Dundee Utd",
+          "player": "V. Sevelj",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Dundee Utd",
+          "player": "D. Tait",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Dundee FC",
+          "player": "E. Hamilton",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Dundee Utd_wins": "2",
+          "draws": "2",
+          "Dundee FC_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "26/04/2026",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Dundee United 3 - 0 Dundee FC"
+          },
+          {
+            "date": "15/03/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee FC 2 - 2 Dundee United"
+          },
+          {
+            "date": "16/03/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee United 2 - 4 Dundee FC"
+          },
+          {
+            "date": "20/01/2025",
+            "competition": "Scottish Cup: Round 4",
+            "teams_and_score": "Dundee FC 1 - 0 Dundee United"
+          },
+          {
+            "date": "02/01/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee FC 1 - 2 Dundee United"
+          },
+          {
+            "date": "09/04/2022",
+            "competition": "Premiership 21/22",
+            "teams_and_score": "Dundee United 2 - 2 Dundee FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Dundee Utd",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee United 0 - 2 Dundee FC",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Dundee United 0 - 4 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Hearts 4 - 0 Dundee United",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Salford City 3 - 2 Dundee United",
+              "result": "L"
+            },
+            {
+              "date": "21/07/2026",
+              "competition": "Scottish League Cup: Group B",
+              "teams_and_score": "Dundee United 4 - 0 Spartans",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Dundee FC",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee United 0 - 2 Dundee FC",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Dundee FC 4 - 0 Clyde",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Dundee FC 0 - 4 Everton",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Dundee Utd": "5",
+          "Dundee FC": "4"
+        },
+        "shots_off_target": {
+          "Dundee Utd": "12",
+          "Dundee FC": "6"
+        },
+        "shots_blocked": {
+          "Dundee Utd": "7",
+          "Dundee FC": "4"
+        },
+        "corners": {
+          "Dundee Utd": "6",
+          "Dundee FC": "6"
+        },
+        "fouls": {
+          "Dundee Utd": "11",
+          "Dundee FC": "11"
+        },
+        "offsides": {
+          "Dundee Utd": "2",
+          "Dundee FC": "1"
+        },
+        "yellow_cards": {
+          "Dundee Utd": "4",
+          "Dundee FC": "3"
+        },
+        "goalkeeper_saves": {
+          "Dundee Utd": "2",
+          "Dundee FC": "4"
+        },
+        "crosses": {
+          "Dundee Utd": "6",
+          "Dundee FC": "5"
+        },
+        "ball_possession": {
+          "Dundee Utd": "68%",
+          "Dundee FC": "32%"
+        }
+      },
+      "description": "Watch Dundee Utd vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The Dundee derby on August 22, 2026, set the stage for a high-stakes showdown in the Scottish Premiership . With bragging rights and crucial points on the line, both Dundee United and Dundee FC entered the pitch prepared for a fierce encounter. First-half deadlock broken From the opening whistle, the match was defined by physical battles across the midfield. Neither side was willing to yield, making for a gritty and tight contest. However, the deadlock was finally broken in the 43rd minute when Drey Wright capitalized on a decisive moment to find the net, sending the supporters into raptures just before the halftime break. Tensions rise in the second half The second half opened with tactical adjustments from both benches as players looked to shift the momentum. The breakthrough came at the 57th minute when Alan Forrest provided a clinical assist for Owen Bevan , who effectively doubled the pressure on the opposition with a well-taken goal. As the game wore on, the intensity led to a series of yellow cards for players including Daniel Bennie , Abdoulaye Yoro , and Dylan Tait . Despite late attempts to influence the game through substitutes, the score held firm until the final whistle at 95 minutes, closing out a hard-fought derby."
+    },
+    {
+      "title": "Inverness Caledonian Thistle - Partick Thistle",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/inverness-caledonian-thistle-partick-thistle-2026-08-21-3A9B.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 21, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/901.webp",
+          "name": "Partick",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/903.webp",
+          "name": "Inverness CT",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/inverness-caledonian-thistle-partick-thistle-2026-08-21.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Inverness CT",
+          "player": "B. Nygren",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Inverness CT",
+          "player": "C. Duran",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Inverness CT",
+          "player": "C. Duran",
+          "event_type": "Goal",
+          "assist": "B. Nygren",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Partick",
+          "player": "K. Jørgensen",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Inverness CT_wins": "1",
+          "draws": "0",
+          "Partick_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "08/07/2014",
+            "competition": "Club Friendlies",
+            "teams_and_score": "LASK 2 - 5 Celtic"
+          }
+        ],
+        "home_team_form": {
+          "team": "Inverness CT",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Celtic 3 - 0 LASK",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Dundee United 0 - 4 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Celtic 2 - 2 AC Milan",
+              "result": "D"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Celtic 1 - 1 Middlesbrough",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Partick",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Celtic 3 - 0 LASK",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Bundesliga",
+              "teams_and_score": "LASK 4 - 1 SV Ried",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "OFB Cup",
+              "teams_and_score": "Kalsdorf 0 - 7 LASK",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "LASK 2 - 0 Fortuna Dusseldorf",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Inverness CT": "7",
+          "Partick": "8"
+        },
+        "shots_off_target": {
+          "Inverness CT": "5",
+          "Partick": "7"
+        },
+        "shots_blocked": {
+          "Inverness CT": "5",
+          "Partick": "5"
+        },
+        "corners": {
+          "Inverness CT": "8",
+          "Partick": "3"
+        },
+        "fouls": {
+          "Inverness CT": "6",
+          "Partick": "9"
+        },
+        "offsides": {
+          "Inverness CT": "1",
+          "Partick": "5"
+        },
+        "yellow_cards": {
+          "Inverness CT": "0",
+          "Partick": "1"
+        },
+        "goalkeeper_saves": {
+          "Inverness CT": "8",
+          "Partick": "4"
+        },
+        "crosses": {
+          "Inverness CT": "3",
+          "Partick": "4"
+        },
+        "ball_possession": {
+          "Inverness CT": "64%",
+          "Partick": "36%"
+        }
+      },
+      "description": "Watch Inverness CT vs Partick highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 21, 2026. The Scottish Premiership took center stage on August 21, 2026 , as Celtic hosted Partick in a highly anticipated encounter. Fans filled the stands, eager to see how this early-season battle would unfold on the pitch. Early Dominance from the Hoops From the opening whistle, Celtic established their rhythm, dominating possession and forcing Partick into a defensive shell. The breakthrough arrived in the 26th minute when Benjamin Nygren found the back of the net with a clinical finish. The goal served as a catalyst for more pressure, as the home side looked to double their advantage quickly. That second goal arrived in the 38th minute, courtesy of Camilo Duran . The striker showed great composure to beat the goalkeeper, rewarding Celtic for their relentless attacking play. By the time the referee blew for half-time at 45+2' , the hosts held a comfortable lead and total control of the match momentum. Duran Doubles Up to Secure the Points The second half saw Partick attempt to stabilize, but Celtic remained sharp and clinical. In the 67th minute, the game was effectively put to bed. Benjamin Nygren turned provider, delivering a precise assist for Camilo Duran , who made no mistake in slotting home his second goal of the match to make it 3-0. A series of tactical changes followed, with Celtic introducing the likes of Reo Hatate , Anthony Ralston , and Liam Scales to see out the game. Despite a late yellow card for Kasper Joergensen in the 82nd minute, the hosts never looked troubled. The final whistle at 90+4' confirmed a dominant performance and a vital three points for the Glasgow giants."
     },
     {
       "title": "Hibernian - Motherwell",
@@ -4082,455 +5984,6 @@
         }
       },
       "description": "Watch Falkirk vs ST Mirren highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 1, 2026. The stage was set on August 1, 2026 , as Falkirk played host to St. Mirren in a highly anticipated Premiership encounter. Both sets of fans filled the stands, eager to see their teams compete in a match that promised plenty of tactical intrigue and competitive spirit. Early Breakthrough for the Visitors St. Mirren started the match with clear intent, applying pressure from the opening whistle. Their persistence paid off in the 11th minute when Henry Fieldson delivered a pinpoint assist to find Killian Phillips . The forward made no mistake, clinical in his execution to give his side an early lead. Falkirk attempted to find an immediate response, but the visitors' defensive line held firm, ensuring they went into the break with their advantage intact despite the growing pressure from the home side. Tactical Shifts and Rising Tension As the second half progressed, the match became a more cagey affair with both managers turning to their benches. St. Mirren introduced Roland Idowu in the 83rd minute, looking to secure the result, while Falkirk made several changes, including bringing on Paul McGovern and Leon McCann . The referee was kept busy as the physical nature of the game increased, issuing yellow cards to Ryan Carr and Henry Fieldson as both teams battled fiercely for control of the midfield. Phillips Doubles the Advantage The defining moment arrived late in the game. In the 87th minute, Roland Idowu made an immediate impact, providing the assist for Killian Phillips to strike again. His second goal of the match effectively ended Falkirk's hopes of a comeback. Although Phillips and Luke Thomas both picked up late bookings in a heated conclusion, St. Mirren navigated the final minutes and five minutes of stoppage time to claim a deserved victory on the road."
-    },
-    {
-      "title": "Kilmarnock - Dundee United",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/kilmarnock-dundee-united-2026-08-29-7GcE.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 29, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1386.webp",
-          "name": "Dundee Utd",
-          "score": "4"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/250.webp",
-          "name": "Kilmarnock",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/kilmarnock-dundee-united-2026-08-29.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Dundee Utd",
-          "player": "B. Esselink",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Dundee Utd",
-          "player": "E. Agyei",
-          "event_type": "Goal",
-          "assist": "M. Merghem",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Kilmarnock",
-          "player": "C. McCarthy",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Dundee Utd",
-          "player": "Z. Sapsford",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "61'",
-          "team": "Dundee Utd",
-          "player": "Z. Sapsford",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Dundee Utd",
-          "player": "W. Ferry",
-          "event_type": "Goal",
-          "assist": "M. Merghem",
-          "score_update": "0 - 3"
-        },
-        {
-          "time": "91'",
-          "team": "Kilmarnock",
-          "player": "J. Hugill",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "69'",
-          "team": "Dundee Utd",
-          "player": "W. Ferry",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "77'",
-          "team": "Dundee Utd",
-          "player": "J. Randall",
-          "event_type": "Goal",
-          "assist": "W. Ferry",
-          "score_update": "0 - 4"
-        },
-        {
-          "time": "90+2'",
-          "team": "Kilmarnock",
-          "player": "B. Rice",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Kilmarnock_wins": "5",
-          "draws": "1",
-          "Dundee Utd_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "02/05/2026",
-            "competition": "Premiership: Relegation Group",
-            "teams_and_score": "Kilmarnock 3 - 0 Dundee United"
-          },
-          {
-            "date": "21/02/2026",
-            "competition": "Premiership",
-            "teams_and_score": "Dundee United 1 - 1 Kilmarnock"
-          },
-          {
-            "date": "17/08/2025",
-            "competition": "Scottish League Cup: Round of 16",
-            "teams_and_score": "Kilmarnock 2 - 1 Dundee United"
-          },
-          {
-            "date": "01/02/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Kilmarnock 1 - 0 Dundee United"
-          },
-          {
-            "date": "24/05/2023",
-            "competition": "Premiership: Relegation Group 22/23",
-            "teams_and_score": "Dundee United 0 - 3 Kilmarnock"
-          },
-          {
-            "date": "11/02/2023",
-            "competition": "Scottish Cup",
-            "teams_and_score": "Dundee United 0 - 1 Kilmarnock"
-          }
-        ],
-        "home_team_form": {
-          "team": "Kilmarnock",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Kilmarnock 0 - 4 Dundee United",
-              "result": "L"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Kilmarnock 3 - 2 Ayr United",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group H",
-              "teams_and_score": "Peterhead 0 - 0 Kilmarnock",
-              "result": "D"
-            },
-            {
-              "date": "04/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Linfield 2 - 3 Kilmarnock",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Dundee Utd",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Kilmarnock 0 - 4 Dundee United",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Dundee United 0 - 4 Celtic",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Hearts 4 - 0 Dundee United",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Salford City 3 - 2 Dundee United",
-              "result": "L"
-            },
-            {
-              "date": "21/07/2026",
-              "competition": "Scottish League Cup: Group B",
-              "teams_and_score": "Dundee United 4 - 0 Spartans",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Kilmarnock": "4",
-          "Dundee Utd": "8"
-        },
-        "shots_off_target": {
-          "Kilmarnock": "4",
-          "Dundee Utd": "9"
-        },
-        "shots_blocked": {
-          "Kilmarnock": "8",
-          "Dundee Utd": "4"
-        },
-        "corners": {
-          "Kilmarnock": "3",
-          "Dundee Utd": "5"
-        },
-        "fouls": {
-          "Kilmarnock": "11",
-          "Dundee Utd": "12"
-        },
-        "offsides": {
-          "Kilmarnock": "0",
-          "Dundee Utd": "3"
-        },
-        "yellow_cards": {
-          "Kilmarnock": "3",
-          "Dundee Utd": "3"
-        },
-        "goalkeeper_saves": {
-          "Kilmarnock": "4",
-          "Dundee Utd": "5"
-        },
-        "crosses": {
-          "Kilmarnock": "7",
-          "Dundee Utd": "8"
-        },
-        "ball_possession": {
-          "Kilmarnock": "52%",
-          "Dundee Utd": "48%"
-        }
-      },
-      "description": "Watch Kilmarnock vs Dundee Utd highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 29, 2026. Rugby Park set the stage for a compelling Scottish Premiership encounter on August 29, 2026, as Kilmarnock hosted a confident Dundee United side. With both teams looking to climb the league standings, the match promised a high-octane battle under the lights. A Clinical First Half Display The match ignited early on, with intensity levels high from the opening whistle. Dundee United ’s Bert Esselink received a yellow card within ten minutes, signaling the physical nature of the contest. However, the visitors quickly turned their aggression into goals. In the 12th minute, Mehdi Merghem delivered a perfectly weighted assist for Emmanuel Agyei , who finished clinically to put the visitors ahead. Kilmarnock faced further adversity when Robbie Deas was forced off early through injury, replaced by George Stanger . The momentum stayed firmly with the visitors, and in the 36th minute, Zachary Sapsford calmly converted a penalty to double the lead. Dundee United Extend Their Advantage Just as Kilmarnock attempted to reorganize, they were hit with a third blow before the break. In the 41st minute, the creative Mehdi Merghem notched his second assist of the day, setting up Will Ferry for a strike that effectively took the game away from the hosts. A flurry of yellow cards followed, as Joe Hugill and Zachary Sapsford were both cautioned in a heated end to the first half. The visitors headed into the tunnel with a commanding three-goal lead, leaving the home side with a mountain to climb in the second period. Second Half Dominance and Final Whistle Kilmarnock introduced several fresh faces at the start of the second half, including Jamie Brandon and Djenairo Daniels , in a desperate bid to spark a comeback. Despite the tactical shifts, Dundee United remained composed and continued to threaten on the counter. The fourth goal arrived in the 77th minute when substitute Jesse Randall found the back of the net, assisted by the industrious Will Ferry . The final stages of the match were well-managed by the visitors, and despite a late yellow card for Bailey Rice , the result was never in doubt. The referee blew for full-time at 0-4, marking a significant statement victory for Dundee United on the road."
-    },
-    {
-      "title": "Hearts - St. Johnstone",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/hearts-st-johnstone-2026-08-29-8cFL.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 29, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/258.webp",
-          "name": "ST Johnstone",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/254.webp",
-          "name": "Heart Of Midlothian",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/hearts-st-johnstone-2026-08-29.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Heart Of Midlothian",
-          "player": "J. Wilson",
-          "event_type": "Goal",
-          "assist": "J. McPake",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Heart Of Midlothian",
-          "player": "E. Alić",
-          "event_type": "Goal"
-        },
-        {
-          "time": "46'",
-          "team": "ST Johnstone",
-          "player": "R. Paton",
-          "event_type": "Goal",
-          "assist": "S. Stanton",
-          "score_update": "2 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Heart Of Midlothian_wins": "2",
-          "draws": "0",
-          "ST Johnstone_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "14/05/2025",
-            "competition": "Premiership: Relegation Group",
-            "teams_and_score": "Hearts 2 - 1 St. Johnstone"
-          },
-          {
-            "date": "23/02/2025",
-            "competition": "Premiership",
-            "teams_and_score": "St. Johnstone 1 - 2 Hearts"
-          },
-          {
-            "date": "07/02/2024",
-            "competition": "Premiership 23/24",
-            "teams_and_score": "St. Johnstone 0 - 1 Hearts"
-          },
-          {
-            "date": "04/03/2023",
-            "competition": "Premiership 22/23",
-            "teams_and_score": "Hearts 3 - 0 St. Johnstone"
-          }
-        ],
-        "home_team_form": {
-          "team": "Heart Of Midlothian",
-          "form": [
-            "L",
-            "D",
-            "L",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Hearts 2 - 1 St. Johnstone",
-              "result": "L"
-            },
-            {
-              "date": "26/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Rapid Wien 2 - 2 Hearts",
-              "result": "D"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Hearts 6 - 2 Inverness CT",
-              "result": "L"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hearts 1 - 1 Benfica",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Hearts 4 - 0 Dundee United",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "ST Johnstone",
-          "form": [
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Hearts 2 - 1 St. Johnstone",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group F",
-              "teams_and_score": "St. Johnstone 1 - 1 East Fife",
-              "result": "D"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Cove Rangers 2 - 4 St. Johnstone",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Heart Of Midlothian": "7",
-          "ST Johnstone": "4"
-        },
-        "shots_off_target": {
-          "Heart Of Midlothian": "8",
-          "ST Johnstone": "3"
-        },
-        "shots_blocked": {
-          "Heart Of Midlothian": "2",
-          "ST Johnstone": "2"
-        },
-        "corners": {
-          "Heart Of Midlothian": "8",
-          "ST Johnstone": "4"
-        },
-        "fouls": {
-          "Heart Of Midlothian": "11",
-          "ST Johnstone": "14"
-        },
-        "offsides": {
-          "Heart Of Midlothian": "1",
-          "ST Johnstone": "1"
-        },
-        "goalkeeper_saves": {
-          "Heart Of Midlothian": "3",
-          "ST Johnstone": "7"
-        },
-        "crosses": {
-          "Heart Of Midlothian": "4",
-          "ST Johnstone": "4"
-        },
-        "ball_possession": {
-          "Heart Of Midlothian": "47%",
-          "ST Johnstone": "53%"
-        }
-      },
-      "description": "Watch Heart Of Midlothian vs ST Johnstone highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 29, 2026. On August 29, 2026 , football fans gathered for a compelling Scottish Premiership fixture between Heart of Midlothian and St. Johnstone . Both sides aimed to assert their dominance in a match that provided plenty of talking points from the very first whistle. Clinical Start at Tynecastle The home side wasted little time in establishing their authority on the pitch. In the 9th minute, a moment of creative brilliance from Joshua McPake set up James Wilson , who maintained his composure to slot the ball home. This early breakthrough set the tone for the afternoon, forcing St. Johnstone to rethink their defensive strategy early in the contest. Defensive Woes and a Second-Half Surge As the first half drew to a close, disaster struck for the visitors. In the 39th minute, Enes Alic inadvertently turned the ball into his own net, gifting Hearts a two-goal cushion heading into the break. The momentum remained firmly with the hosts as the second half began; just three minutes after the restart, Samuel Stanton provided a sharp assist for Ruari Paton , who effectively ended the contest as a competitive spectacle with a well-taken goal. Strategic Changes and Full-Time With a comfortable lead established, Heart of Midlothian managed the closing stages with professional ease. Managers utilized their full quota of substitutes, introducing fresh legs like Logan Chalmers and Calvin Miller to navigate the final minutes. The referee's final whistle at 90+4' confirmed a commanding performance by the Edinburgh side, leaving the visitors to reflect on a difficult afternoon."
     },
     {
       "title": "Kilmarnock - Celtic",
@@ -6046,158 +7499,104 @@
       "description": "Watch Partick vs Livingston highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 7, 2026."
     },
     {
-      "title": "Celtic - Falkirk",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-falkirk-2026-08-29-EBDB.webp",
+      "title": "Celtic - Dundee",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-dundee-2026-08-03-HHkG.webp",
       "competition": "Premiership - Scotland",
       "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 29, 2026",
+      "date": "Aug 3, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1389.webp",
-          "name": "Falkirk",
+          "logo": "https://img.refooty.com/logo/teams/253.webp",
+          "name": "Dundee FC",
           "score": "0"
         },
         "home_team": {
           "logo": "https://img.refooty.com/logo/teams/247.webp",
           "name": "Celtic",
-          "score": "2"
+          "score": "1"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/celtic-falkirk-2026-08-29.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/celtic-dundee-2026-08-03_5N8jX.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "4'",
+          "time": "52'",
           "team": "Celtic",
-          "player": "C. Duran",
+          "player": "B. Nygren",
           "event_type": "Goal",
+          "assist": "K. Tierney",
           "score_update": "1 - 0"
         },
         {
-          "time": "29'",
+          "time": "90'",
+          "team": "Dundee FC",
+          "player": "A. Hay",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
           "team": "Celtic",
-          "player": "C. Duran",
-          "event_type": "Goal",
-          "assist": "K. Tierney",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "35'",
-          "team": "Falkirk",
-          "player": "L. Neilson",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "44'",
-          "team": "Falkirk",
-          "player": "L. Mccann",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+2'",
-          "team": "Celtic",
-          "player": "C. Donovan",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Falkirk",
-          "player": "C. Donovan",
-          "event_type": "Goal"
-        },
-        {
-          "time": "61'",
-          "team": "Falkirk",
-          "player": "C. McLeod",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Falkirk",
-          "player": "A. Doherty",
+          "player": "A. Engels",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Celtic_wins": "7",
+          "Celtic_wins": "6",
           "draws": "0",
-          "Falkirk_wins": "0"
+          "Dundee FC_wins": "0"
         },
         "previous_matches": [
           {
-            "date": "25/04/2026",
-            "competition": "Premiership: Championship Group",
-            "teams_and_score": "Celtic 3 - 1 Falkirk"
-          },
-          {
-            "date": "01/02/2026",
+            "date": "05/04/2026",
             "competition": "Premiership",
-            "teams_and_score": "Celtic 2 - 0 Falkirk"
+            "teams_and_score": "Dundee FC 1 - 2 Celtic"
           },
           {
-            "date": "15/08/2025",
-            "competition": "Scottish League Cup: Round of 16",
-            "teams_and_score": "Celtic 4 - 1 Falkirk"
+            "date": "07/02/2026",
+            "competition": "Scottish Cup: Round 5",
+            "teams_and_score": "Celtic 2 - 1 Dundee FC"
           },
           {
-            "date": "22/09/2024",
-            "competition": "Scottish League Cup: Quarter-Finals",
-            "teams_and_score": "Celtic 5 - 2 Falkirk"
+            "date": "03/12/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Celtic 1 - 0 Dundee FC"
           },
           {
-            "date": "03/04/2021",
-            "competition": "Scottish Cup 20/21",
-            "teams_and_score": "Celtic 3 - 0 Falkirk"
+            "date": "05/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Celtic 6 - 0 Dundee FC"
           },
           {
-            "date": "29/01/2012",
-            "competition": "Scottish Communities League Cup",
-            "teams_and_score": "Falkirk 1 - 3 Celtic"
+            "date": "28/04/2024",
+            "competition": "Premiership: Championship Group",
+            "teams_and_score": "Dundee FC 1 - 2 Celtic"
           },
           {
-            "date": "07/03/2010",
-            "competition": "Premier League",
-            "teams_and_score": "Falkirk 0 - 2 Celtic"
+            "date": "28/02/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Celtic 7 - 1 Dundee FC"
           }
         ],
         "home_team_form": {
           "team": "Celtic",
           "form": [
             "W",
+            "D",
+            "D",
             "L",
-            "W",
-            "W",
             "D"
           ],
           "recent_matches": [
             {
-              "date": "29/08/2026",
+              "date": "03/08/2026",
               "competition": "Premiership",
-              "teams_and_score": "Celtic 2 - 1 Falkirk",
-              "result": "W"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "LASK 5 - 1 Celtic",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Dundee United 0 - 4 Celtic",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
+              "teams_and_score": "Celtic 1 - 0 Dundee FC",
               "result": "W"
             },
             {
@@ -6205,138 +7604,113 @@
               "competition": "Featured Club Friendlies",
               "teams_and_score": "Celtic 2 - 2 AC Milan",
               "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Falkirk",
-          "form": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Celtic 2 - 1 Falkirk",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group G",
-              "teams_and_score": "Falkirk 3 - 0 Stranraer",
-              "result": "W"
             },
             {
               "date": "18/07/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Falkirk 1 - 0 Genk",
-              "result": "W"
+              "teams_and_score": "Celtic 1 - 1 Middlesbrough",
+              "result": "D"
             },
             {
               "date": "14/07/2026",
-              "competition": "Scottish League Cup: Group G",
-              "teams_and_score": "Falkirk 0 - 1 Ayr United",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sporting CP 4 - 1 Celtic",
               "result": "L"
             },
             {
               "date": "07/07/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Airdrieonians 1 - 2 Falkirk",
+              "teams_and_score": "Shelbourne 1 - 1 Celtic",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Dundee FC",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Celtic 1 - 0 Dundee FC",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Dundee FC 4 - 0 Clyde",
               "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Dundee FC 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Annan Athletic 0 - 5 Dundee FC",
+              "result": "W"
+            },
+            {
+              "date": "08/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brechin City 1 - 1 Dundee FC",
+              "result": "D"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Celtic": "8",
-          "Falkirk": "1"
+          "Celtic": "4",
+          "Dundee FC": "3"
         },
         "shots_off_target": {
-          "Celtic": "7",
-          "Falkirk": "3"
+          "Celtic": "10",
+          "Dundee FC": "5"
         },
         "shots_blocked": {
           "Celtic": "4",
-          "Falkirk": "1"
+          "Dundee FC": "3"
         },
         "corners": {
-          "Celtic": "6",
-          "Falkirk": "3"
+          "Celtic": "9",
+          "Dundee FC": "4"
         },
         "fouls": {
-          "Celtic": "7",
-          "Falkirk": "14"
+          "Celtic": "9",
+          "Dundee FC": "7"
         },
         "offsides": {
-          "Celtic": "2",
-          "Falkirk": "3"
+          "Celtic": "0",
+          "Dundee FC": "1"
         },
         "yellow_cards": {
           "Celtic": "1",
-          "Falkirk": "4"
+          "Dundee FC": "1"
         },
         "goalkeeper_saves": {
-          "Celtic": "1",
-          "Falkirk": "6"
+          "Celtic": "3",
+          "Dundee FC": "3"
         },
         "crosses": {
-          "Celtic": "5",
-          "Falkirk": "3"
+          "Celtic": "3",
+          "Dundee FC": "4"
         },
         "ball_possession": {
-          "Celtic": "56%",
-          "Falkirk": "44%"
+          "Celtic": "66%",
+          "Dundee FC": "34%"
         }
       },
-      "description": "Watch Celtic vs Falkirk highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 29, 2026."
-    },
-    {
-      "title": "Dunfermline Athletic - Raith Rovers",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/dunfermline-athletic-raith-rovers-2026-08-28-Y1dR.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 28, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "",
-          "name": "Away Team",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/dunfermline-athletic-raith-rovers-2026-08-28.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
-        },
-        "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
-        }
-      },
-      "statistics": {},
-      "description": "Watch Dunfermline vs Raith Rovers highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 28, 2026."
+      "description": "Watch Celtic vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 3, 2026. Celtic and Dundee FC locked horns in a highly anticipated Premiership encounter that promised tactical intrigue from the start. Both sides took to the pitch on August 3, 2026 , looking to establish dominance in a match where every small margin would prove crucial. A Cagey Opening Period The first half was characterized by a tactical stalemate, with both teams struggling to find a decisive opening. Celtic attempted to control the tempo through sustained possession, but Dundee FC remained disciplined and compact at the back. As the referee blew for half-time, the deadlock remained unbroken, leaving the fans in anticipation of a spark to ignite the contest in the second period. Nygren Delivers the Breakthrough The momentum shifted significantly just seven minutes after the restart. In the 52nd minute, Kieran Tierney turned provider, delivering a precise ball that found Benjamin Nygren in a dangerous position. Nygren made no mistake, clinical finishing to put his side ahead. This goal forced Dundee to alter their game plan, leading to a series of substitutions around the hour mark, including the introduction of Ashley Hay and Finlay Robertson . Late Drama and Final Whistle As the clock ticked down, the match grew increasingly physical. Both managers looked to their benches to influence the closing stages, with Celtic introducing James Forrest and Luke McCowan to maintain their lead. The tension boiled over in stoppage time, as Ashley Hay and Arne Engels both received yellow cards in quick succession. Despite Dundee's late efforts to find an equalizer, Celtic held firm until the final whistle at 90+4 minutes to secure the points."
     }
   ]
 }

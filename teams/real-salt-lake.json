@@ -1,9 +1,654 @@
 {
   "team": "Real Salt Lake",
   "team_logo": "https://img.refooty.com/logo/teams/1606.webp",
-  "total_matches": 8,
-  "Last update time": "07:50:19 AM 08-09-2026",
+  "total_matches": 9,
+  "Last update time": "08:24:56 AM 08-09-2026",
   "matches": [
+    {
+      "title": "Real Salt Lake - LAFC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/real-salt-lake-lafc-2026-09-06-rHAm.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Sep 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1616.webp",
+          "name": "Los Angeles FC",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1606.webp",
+          "name": "Real Salt Lake",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/real-salt-lake-lafc-2026-09-06.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Los Angeles FC",
+          "player": "D. Bouanga",
+          "event_type": "Goal",
+          "assist": "S. Heung-min",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Real Salt Lake",
+          "player": "S. Lobzhanidze",
+          "event_type": "Goal",
+          "assist": "N. Caliskan",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Real Salt Lake",
+          "player": "J. Arias",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Los Angeles FC",
+          "player": "S. Heung-min",
+          "event_type": "Goal",
+          "assist": "D. Bouanga",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Real Salt Lake",
+          "player": "L. Moisa",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Real Salt Lake",
+          "player": "N. Caliskan",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Real Salt Lake",
+          "player": "C. Guske",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Real Salt Lake_wins": "1",
+          "draws": "1",
+          "Los Angeles FC_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "23/07/2026",
+            "competition": "MLS",
+            "teams_and_score": "Los Angeles FC 3 - 1 Real Salt Lake"
+          },
+          {
+            "date": "22/09/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Los Angeles FC 4 - 1 Real Salt Lake"
+          },
+          {
+            "date": "18/07/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Los Angeles FC 1 - 1 Real Salt Lake"
+          },
+          {
+            "date": "02/10/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Los Angeles FC 0 - 1 Real Salt Lake"
+          },
+          {
+            "date": "09/08/2023",
+            "competition": "Leagues Cup Play-offs",
+            "teams_and_score": "Los Angeles FC 4 - 0 Real Salt Lake"
+          },
+          {
+            "date": "14/05/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Real Salt Lake 0 - 3 Los Angeles FC"
+          },
+          {
+            "date": "05/09/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Los Angeles FC 2 - 0 Real Salt Lake"
+          }
+        ],
+        "home_team_form": {
+          "team": "Real Salt Lake",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Real Salt Lake 2 - 2 Los Angeles FC",
+              "result": "D"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "Leagues Cup: Final Stage",
+              "teams_and_score": "Leon 3 - 0 Real Salt Lake",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Orlando City 2 - 1 Real Salt Lake",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Real Salt Lake 3 - 0 FC Juarez",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "St. Louis City 1 - 1 Real Salt Lake",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Los Angeles FC",
+          "form": [
+            "D",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Real Salt Lake 2 - 2 Los Angeles FC",
+              "result": "D"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Los Angeles FC 1 - 1 Queretaro FC",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Vancouver Whitecaps 1 - 1 Los Angeles FC",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Real Salt Lake": "9",
+          "Los Angeles FC": "6"
+        },
+        "shots_off_target": {
+          "Real Salt Lake": "6",
+          "Los Angeles FC": "7"
+        },
+        "shots_blocked": {
+          "Real Salt Lake": "7",
+          "Los Angeles FC": "5"
+        },
+        "corners": {
+          "Real Salt Lake": "5",
+          "Los Angeles FC": "8"
+        },
+        "fouls": {
+          "Real Salt Lake": "5",
+          "Los Angeles FC": "7"
+        },
+        "yellow_cards": {
+          "Real Salt Lake": "3",
+          "Los Angeles FC": "0"
+        },
+        "goalkeeper_saves": {
+          "Real Salt Lake": "4",
+          "Los Angeles FC": "7"
+        },
+        "ball_possession": {
+          "Real Salt Lake": "58%",
+          "Los Angeles FC": "42%"
+        }
+      },
+      "description": "Watch Real Salt Lake vs Los Angeles FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The stage was set for a compelling MLS clash between Real Salt Lake and Los Angeles FC on September 6, 2026 . Both sides looked to assert their tactical superiority in what proved to be a high-tempo football encounter. An explosive opening period Los Angeles FC came out of the gates with relentless energy, stunning the home crowd early on. Just 14 minutes in, Denis Bouanga struck the opener, assisted by a sharp delivery from Heung-Min Son . The momentum stayed firmly with the visitors as Saba Lobjanidze doubled the lead at the 18-minute mark, capitalizing on an assist from Noel Caliskan . The pressure was suffocating, and at 39 minutes, the roles reversed as Heung-Min Son found the net off a Bouanga pass, putting the visitors in a commanding position heading into the half-time break. Securing the result Returning from the locker room for the second half, the game intensified as Real Salt Lake fought to reclaim lost ground. Noel Caliskan managed to pull one back for the home side in the 75th minute, providing a glimmer of hope. The final stages saw a flurry of substitutions as both managers looked to control the game's energy, while yellow cards for Luca Moisa and Colin Guske highlighted the competitive nature of the closing minutes. The final whistle at 90+4 minutes confirmed the result, leaving the visitors satisfied with a resilient display."
+    },
+    {
+      "title": "Colorado Rapids - Real Salt Lake",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/colorado-rapids-real-salt-lake-2026-08-30-5xaW.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1606.webp",
+          "name": "Real Salt Lake",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1610.webp",
+          "name": "Colorado Rapids",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/colorado-rapids-real-salt-lake-2026-08-30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Colorado Rapids",
+          "player": "H. Ojediran",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "49'",
+          "team": "Colorado Rapids",
+          "player": "R. Holding",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "53'",
+          "team": "Real Salt Lake",
+          "player": "A. Hezarkhani",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "58'",
+          "team": "Colorado Rapids",
+          "player": "R. Cannon",
+          "event_type": "Goal",
+          "assist": "Y. Maziz",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Real Salt Lake",
+          "player": "M. Guilavogui",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "67'",
+          "team": "Real Salt Lake",
+          "player": "N. Caliskan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "79'",
+          "team": "Real Salt Lake",
+          "player": "C. Guske",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90'",
+          "team": "Real Salt Lake",
+          "player": "J. Arias",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Colorado Rapids",
+          "player": "M. Navarro",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Colorado Rapids_wins": "1",
+          "draws": "0",
+          "Real Salt Lake_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "17/05/2026",
+            "competition": "MLS",
+            "teams_and_score": "Real Salt Lake 2 - 1 Colorado Rapids"
+          },
+          {
+            "date": "05/10/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Real Salt Lake 1 - 0 Colorado Rapids"
+          },
+          {
+            "date": "21/07/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Colorado Rapids 3 - 2 Real Salt Lake"
+          },
+          {
+            "date": "22/10/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Colorado Rapids 0 - 1 Real Salt Lake"
+          },
+          {
+            "date": "25/05/2023",
+            "competition": "US Open Cup",
+            "teams_and_score": "Colorado Rapids 0 - 1 Real Salt Lake"
+          },
+          {
+            "date": "21/05/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Colorado Rapids 2 - 3 Real Salt Lake"
+          }
+        ],
+        "home_team_form": {
+          "team": "Colorado Rapids",
+          "form": [
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Colorado Rapids 1 - 0 Real Salt Lake",
+              "result": "W"
+            },
+            {
+              "date": "21/05/2026",
+              "competition": "US Open Cup",
+              "teams_and_score": "Colorado Rapids 2 - 0 San Jose Earthquakes",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "MLS",
+              "teams_and_score": "Real Salt Lake 2 - 1 Colorado Rapids",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Real Salt Lake",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Colorado Rapids 1 - 0 Real Salt Lake",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "Leagues Cup: Final Stage",
+              "teams_and_score": "Leon 3 - 0 Real Salt Lake",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Orlando City 2 - 1 Real Salt Lake",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Real Salt Lake 3 - 0 FC Juarez",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "St. Louis City 1 - 1 Real Salt Lake",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Colorado Rapids": "4",
+          "Real Salt Lake": "0"
+        },
+        "shots_off_target": {
+          "Colorado Rapids": "5",
+          "Real Salt Lake": "2"
+        },
+        "shots_blocked": {
+          "Colorado Rapids": "5",
+          "Real Salt Lake": "2"
+        },
+        "corners": {
+          "Colorado Rapids": "7",
+          "Real Salt Lake": "1"
+        },
+        "fouls": {
+          "Colorado Rapids": "13",
+          "Real Salt Lake": "21"
+        },
+        "offsides": {
+          "Colorado Rapids": "1",
+          "Real Salt Lake": "2"
+        },
+        "yellow_cards": {
+          "Colorado Rapids": "3",
+          "Real Salt Lake": "5"
+        },
+        "goalkeeper_saves": {
+          "Colorado Rapids": "0",
+          "Real Salt Lake": "3"
+        },
+        "ball_possession": {
+          "Colorado Rapids": "64%",
+          "Real Salt Lake": "36%"
+        }
+      },
+      "description": "Watch Colorado Rapids vs Real Salt Lake highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The MLS rivalry between Colorado Rapids and Real Salt Lake reached a boiling point on a night defined by tactical discipline and physical confrontation. Both sides showcased a relentless work rate, making it clear from the first whistle that goals would be hard-earned in this encounter. A Gritty Opening Exchange On August 30, 2026, the match kicked off with high energy but limited clear-cut chances. The tone was set early when Hamzat Ojediran received a yellow card in the 14th minute, signaling the referee's intent to keep a lid on the simmering tensions. While the Colorado Rapids attempted to control the tempo, Real Salt Lake remained compact, leading to a scoreless first half where defenses reigned supreme. Reggie Cannon Finds the Breakthrough The deadlock was finally broken in the 58th minute of the second half. Following a period of sustained pressure, Youssef Maziz turned provider with a precise pass that found Reggie Cannon in a dangerous position. Cannon made no mistake, firing the ball home to give the Colorado Rapids a 1-0 lead. The goal injected fresh life into the stadium, forcing the visitors to rethink their defensive approach. Discipline Tested in the Closing Stages As Real Salt Lake pushed for an equalizer, the match grew increasingly fragmented. A flurry of yellow cards followed, with Morgan Guilavogui , Noel Caliskan , and Colin Guske all entering the referee's book as the visitors' frustration mounted. Even the Rapids weren't immune to the card-heavy finish, as Miguel Navarro saw yellow in stoppage time. Despite seven minutes of added time and several tactical substitutions, including the introduction of Diego Luna and Saba Lobjanidze , the home side held firm to secure a hard-fought victory."
+    },
+    {
+      "title": "Club León - Real Salt Lake | Leagues Cup | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/club-leon-real-salt-lake-leagues-cup-full-match-highlights-2026-08-26-WTiG.webp",
+      "competition": "Unknown Competition",
+      "competition_cover": "",
+      "date": "Aug 26, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1606.webp",
+          "name": "Real Salt Lake",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/2289.webp",
+          "name": "Club León",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/club-leon-real-salt-lake-leagues-cup-full-match-highlights-2026-08-26.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Club León",
+          "player": "Evander",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Real Salt Lake",
+          "player": "R. Sailor",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Club León",
+          "player": "B. Ramirez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Real Salt Lake",
+          "player": "P. Kingston",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Real Salt Lake",
+          "player": "K. Kossa-Rienzi",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "1 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Club León_wins": "0",
+          "draws": "1",
+          "Real Salt Lake_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "12/03/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "FC Cincinnati 1 - 0 Seattle Sounders FC"
+          },
+          {
+            "date": "28/09/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Seattle Sounders FC 1 - 1 FC Cincinnati"
+          },
+          {
+            "date": "03/03/2019",
+            "competition": "Major League Soccer",
+            "teams_and_score": "Seattle Sounders FC 4 - 1 FC Cincinnati"
+          }
+        ],
+        "home_team_form": {
+          "team": "Club León",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "FC Cincinnati 1 - 1 Seattle Sounders FC",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "FC Cincinnati 1 - 2 Atlas",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "FC Cincinnati 4 - 2 San Jose Earthquakes",
+              "result": "L"
+            },
+            {
+              "date": "10/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Cincinnati 3 - 1 Burnley",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Real Salt Lake",
+          "form": [
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "FC Cincinnati 1 - 1 Seattle Sounders FC",
+              "result": "D"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Club León": "9",
+          "Real Salt Lake": "3"
+        },
+        "shots_off_target": {
+          "Club León": "5",
+          "Real Salt Lake": "4"
+        },
+        "shots_blocked": {
+          "Club León": "3",
+          "Real Salt Lake": "3"
+        },
+        "corners": {
+          "Club León": "9",
+          "Real Salt Lake": "4"
+        },
+        "fouls": {
+          "Club León": "7",
+          "Real Salt Lake": "14"
+        },
+        "offsides": {
+          "Club León": "2",
+          "Real Salt Lake": "1"
+        },
+        "yellow_cards": {
+          "Club León": "1",
+          "Real Salt Lake": "2"
+        },
+        "goalkeeper_saves": {
+          "Club León": "2",
+          "Real Salt Lake": "7"
+        },
+        "ball_possession": {
+          "Club León": "70%",
+          "Real Salt Lake": "30%"
+        }
+      },
+      "description": "Watch Club León vs Real Salt Lake highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 26, 2026. The MLS season continued on August 26, 2026, with a fixture that promised to test the tactical discipline of both lineups. As the players took to the field, the anticipation for a decisive performance was palpable among the supporters. Ferreira Breaks the Deadlock The encounter began at a high tempo, with both sides attempting to establish control of the midfield. In the 24th minute, the deadlock was broken when Evander Ferreira found the back of the net, finishing clinically to put his side ahead. The goal forced a reaction from the opposition, significantly increasing the physical intensity of the match. As half-time approached, the contest became increasingly scrappy. Ryan Sailor was shown a yellow card in the 38th minute following a mistimed challenge, reflecting the mounting pressure. Despite attempts to respond before the break, the first half concluded with a narrow lead following three minutes of stoppage time. Tactical Shifts and Late Drama In the second half, the managers looked to refresh their squads through a flurry of substitutions. Between the 59th and 61st minutes, the likes of Kevin Denkey , Danny Musovski , and Nouhou Tolo were introduced to influence the momentum. The tension continued to simmer, resulting in bookings for Bryan Ramirez in the 64th minute and Peter Kingston in the 75th. The defining moment of the comeback arrived following the introduction of Albert Rusnak in the 77th minute. Just six minutes after coming on, Rusnak turned provider for Kalani Rienzi , who made no mistake in leveling the score in the 83rd minute. In the closing stages, both teams managed their defensive lines with further substitutions, including Kee-Hee Kim entering to stabilize the backline, as the match ended in a hard-fought draw after 95 minutes."
+    },
     {
       "title": "Orlando City - Real Salt Lake",
       "thumbnail_url": "https://img.refooty.com/thumbnail/orlando-city-real-salt-lake-2026-08-23-lr8s.webp",
@@ -471,454 +1116,6 @@
         }
       },
       "description": "Watch Real Salt Lake vs FC Dallas highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 20, 2026. The MLS delivered a classic encounter this evening as Real Salt Lake and FC Dallas combined for a high-scoring thriller that kept spectators guessing until the very end. It was a game defined by clinical finishing, tactical shifts, and a dramatic conclusion that will be remembered for the rest of the season. Dallas Strike Early in First-Half Blitz On August 20, 2026, the match exploded into life with FC Dallas taking an aggressive stance from the opening whistle. The visitors broke the deadlock in the 17th minute when Joaquin Valiente found the back of the net courtesy of a Ramiro assist. The momentum stayed firmly with Dallas as Petar Musa doubled the lead just three minutes later, finishing off a pinpoint pass from the active Valiente . Real Salt Lake managed to find a lifeline in the 38th minute when Sergi Solans converted a chance created by Diego Luna . However, any hope of a quick comeback before the break was dashed in the 45th minute. Petar Musa secured his brace after another excellent setup by Valiente , leaving the score at 3-1 as the teams headed into the tunnel for halftime. Real Salt Lake Claw Their Way Back The second half saw a rejuvenated home side determined to erase the deficit. In the 50th minute, Morgan Guilavogui pulled one back for the hosts following an assist from Noel Caliskan . The pressure from Real Salt Lake became relentless, and the equalizer finally arrived in the 64th minute. Diego Luna , who had been instrumental all night, turned scorer by finishing a pass from substitute Saba Lobjanidze to make it 3-3. Stoppage Time Heartbreak As the clock ticked into stoppage time, the intensity reached a boiling point with several players receiving yellow cards in the closing stages. In the 91st minute, the decisive blow was struck. Ran Binyamin , having come off the bench, produced a clinical finish from a Ramiro pass to put FC Dallas ahead 4-3. Although Binyamin was cautioned in the aftermath, his goal proved to be the winner as the referee blew the final whistle shortly after, ending a breathless night of football."
-    },
-    {
-      "title": "Real Salt Lake - Minnesota United",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/real-salt-lake-minnesota-united-2026-08-16-UFC4.webp",
-      "competition": "Major League Soccer",
-      "competition_cover": "https://refooty.com/covers/mls.webp",
-      "date": "Aug 16, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1612.webp",
-          "name": "Minnesota United FC",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1606.webp",
-          "name": "Real Salt Lake",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/real-salt-lake-minnesota-united-2026-08-16_IJ1Hy.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Real Salt Lake",
-          "player": "Z. Booth",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Minnesota United FC",
-          "player": "J. Diaz",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "56'",
-          "team": "Real Salt Lake",
-          "player": "L. R. d. Santos",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "82'",
-          "team": "Real Salt Lake",
-          "player": "S. Solans",
-          "event_type": "Goal",
-          "assist": "D. Luna",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "89'",
-          "team": "Minnesota United FC",
-          "player": "J. Pereyra",
-          "event_type": "Goal",
-          "assist": "M. Caldeira",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "90+4'",
-          "team": "Real Salt Lake",
-          "player": "S. Spierings",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Real Salt Lake_wins": "1",
-          "draws": "4",
-          "Minnesota United FC_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "23/05/2026",
-            "competition": "MLS",
-            "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake"
-          },
-          {
-            "date": "24/08/2025",
-            "competition": "MLS 2025",
-            "teams_and_score": "Real Salt Lake 1 - 3 Minnesota United"
-          },
-          {
-            "date": "03/11/2024",
-            "competition": "MLS: Play-off",
-            "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake"
-          },
-          {
-            "date": "03/10/2024",
-            "competition": "MLS 2024",
-            "teams_and_score": "Real Salt Lake 0 - 0 Minnesota United"
-          },
-          {
-            "date": "25/06/2023",
-            "competition": "MLS 2023",
-            "teams_and_score": "Real Salt Lake 2 - 2 Minnesota United"
-          },
-          {
-            "date": "01/09/2022",
-            "competition": "Major League Soccer 2022",
-            "teams_and_score": "Real Salt Lake 3 - 0 Minnesota United"
-          }
-        ],
-        "home_team_form": {
-          "team": "Real Salt Lake",
-          "form": [
-            "D",
-            "W",
-            "D",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "16/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Real Salt Lake 1 - 1 Minnesota United",
-              "result": "D"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Real Salt Lake 3 - 0 FC Juarez",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "St. Louis City 1 - 1 Real Salt Lake",
-              "result": "D"
-            },
-            {
-              "date": "16/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Salt Lake 4 - 1 Burnley",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "MLS",
-              "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Minnesota United FC",
-          "form": [
-            "D",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "16/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Real Salt Lake 1 - 1 Minnesota United",
-              "result": "D"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Minnesota United 3 - 1 Atlante",
-              "result": "L"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Minnesota United 1 - 1 San Diego",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Real Salt Lake": "7",
-          "Minnesota United FC": "3"
-        },
-        "shots_off_target": {
-          "Real Salt Lake": "5",
-          "Minnesota United FC": "9"
-        },
-        "shots_blocked": {
-          "Real Salt Lake": "1",
-          "Minnesota United FC": "3"
-        },
-        "corners": {
-          "Real Salt Lake": "7",
-          "Minnesota United FC": "10"
-        },
-        "fouls": {
-          "Real Salt Lake": "7",
-          "Minnesota United FC": "12"
-        },
-        "offsides": {
-          "Real Salt Lake": "1",
-          "Minnesota United FC": "1"
-        },
-        "yellow_cards": {
-          "Real Salt Lake": "2",
-          "Minnesota United FC": "1"
-        },
-        "goalkeeper_saves": {
-          "Real Salt Lake": "1",
-          "Minnesota United FC": "7"
-        },
-        "ball_possession": {
-          "Real Salt Lake": "57%",
-          "Minnesota United FC": "43%"
-        }
-      },
-      "description": "Watch Real Salt Lake vs Minnesota United FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 16, 2026. The stage was set on August 16, 2026, as Real Salt Lake hosted Minnesota United FC for a highly anticipated clash in Major League Soccer . A tight tactical battle From the opening minutes, the game was characterized by physical intensity and tactical discipline. The early yellow card for Zach Booth in the 13th minute signaled a game where neither side was willing to concede ground. As the match progressed through the first half, both teams probed for defensive weaknesses, but clear-cut opportunities remained elusive, leading to a scoreless stalemate as the players headed to the locker rooms. Late drama in the closing stages Action intensified in the second half, with the breakthrough finally arriving in the 82nd minute. Diego Luna delivered a clever ball to Sergi Solans , who clinicaly found the back of the net to put the home side in front. However, Minnesota United refused to bow out. Deep in the 89th minute, a crucial assist from substitute Marcus Caldeira set up Joaquin Pereyra , who hammered home the equalizer. The 1-1 scoreline held until the final whistle, concluding a hard-fought evening of professional football."
-    },
-    {
-      "title": "Colorado Rapids - Real Salt Lake",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/colorado-rapids-real-salt-lake-2026-08-30-5xaW.webp",
-      "competition": "Major League Soccer",
-      "competition_cover": "https://refooty.com/covers/mls.webp",
-      "date": "Aug 30, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1606.webp",
-          "name": "Real Salt Lake",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1610.webp",
-          "name": "Colorado Rapids",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/colorado-rapids-real-salt-lake-2026-08-30.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Colorado Rapids",
-          "player": "H. Ojediran",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "49'",
-          "team": "Colorado Rapids",
-          "player": "R. Holding",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "53'",
-          "team": "Real Salt Lake",
-          "player": "A. Hezarkhani",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "58'",
-          "team": "Colorado Rapids",
-          "player": "R. Cannon",
-          "event_type": "Goal",
-          "assist": "Y. Maziz",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Real Salt Lake",
-          "player": "M. Guilavogui",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "67'",
-          "team": "Real Salt Lake",
-          "player": "N. Caliskan",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "79'",
-          "team": "Real Salt Lake",
-          "player": "C. Guske",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90'",
-          "team": "Real Salt Lake",
-          "player": "J. Arias",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "Colorado Rapids",
-          "player": "M. Navarro",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Colorado Rapids_wins": "1",
-          "draws": "0",
-          "Real Salt Lake_wins": "5"
-        },
-        "previous_matches": [
-          {
-            "date": "17/05/2026",
-            "competition": "MLS",
-            "teams_and_score": "Real Salt Lake 2 - 1 Colorado Rapids"
-          },
-          {
-            "date": "05/10/2025",
-            "competition": "MLS 2025",
-            "teams_and_score": "Real Salt Lake 1 - 0 Colorado Rapids"
-          },
-          {
-            "date": "21/07/2024",
-            "competition": "MLS 2024",
-            "teams_and_score": "Colorado Rapids 3 - 2 Real Salt Lake"
-          },
-          {
-            "date": "22/10/2023",
-            "competition": "MLS 2023",
-            "teams_and_score": "Colorado Rapids 0 - 1 Real Salt Lake"
-          },
-          {
-            "date": "25/05/2023",
-            "competition": "US Open Cup",
-            "teams_and_score": "Colorado Rapids 0 - 1 Real Salt Lake"
-          },
-          {
-            "date": "21/05/2023",
-            "competition": "MLS 2023",
-            "teams_and_score": "Colorado Rapids 2 - 3 Real Salt Lake"
-          }
-        ],
-        "home_team_form": {
-          "team": "Colorado Rapids",
-          "form": [
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Colorado Rapids 1 - 0 Real Salt Lake",
-              "result": "W"
-            },
-            {
-              "date": "21/05/2026",
-              "competition": "US Open Cup",
-              "teams_and_score": "Colorado Rapids 2 - 0 San Jose Earthquakes",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "MLS",
-              "teams_and_score": "Real Salt Lake 2 - 1 Colorado Rapids",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Real Salt Lake",
-          "form": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Colorado Rapids 1 - 0 Real Salt Lake",
-              "result": "L"
-            },
-            {
-              "date": "26/08/2026",
-              "competition": "Leagues Cup: Final Stage",
-              "teams_and_score": "Leon 3 - 0 Real Salt Lake",
-              "result": "L"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Orlando City 2 - 1 Real Salt Lake",
-              "result": "L"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Real Salt Lake 3 - 0 FC Juarez",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "St. Louis City 1 - 1 Real Salt Lake",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Colorado Rapids": "4",
-          "Real Salt Lake": "0"
-        },
-        "shots_off_target": {
-          "Colorado Rapids": "5",
-          "Real Salt Lake": "2"
-        },
-        "shots_blocked": {
-          "Colorado Rapids": "5",
-          "Real Salt Lake": "2"
-        },
-        "corners": {
-          "Colorado Rapids": "7",
-          "Real Salt Lake": "1"
-        },
-        "fouls": {
-          "Colorado Rapids": "13",
-          "Real Salt Lake": "21"
-        },
-        "offsides": {
-          "Colorado Rapids": "1",
-          "Real Salt Lake": "2"
-        },
-        "yellow_cards": {
-          "Colorado Rapids": "3",
-          "Real Salt Lake": "5"
-        },
-        "goalkeeper_saves": {
-          "Colorado Rapids": "0",
-          "Real Salt Lake": "3"
-        },
-        "ball_possession": {
-          "Colorado Rapids": "64%",
-          "Real Salt Lake": "36%"
-        }
-      },
-      "description": "Watch Colorado Rapids vs Real Salt Lake highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The MLS rivalry between Colorado Rapids and Real Salt Lake reached a boiling point on a night defined by tactical discipline and physical confrontation. Both sides showcased a relentless work rate, making it clear from the first whistle that goals would be hard-earned in this encounter. A Gritty Opening Exchange On August 30, 2026, the match kicked off with high energy but limited clear-cut chances. The tone was set early when Hamzat Ojediran received a yellow card in the 14th minute, signaling the referee's intent to keep a lid on the simmering tensions. While the Colorado Rapids attempted to control the tempo, Real Salt Lake remained compact, leading to a scoreless first half where defenses reigned supreme. Reggie Cannon Finds the Breakthrough The deadlock was finally broken in the 58th minute of the second half. Following a period of sustained pressure, Youssef Maziz turned provider with a precise pass that found Reggie Cannon in a dangerous position. Cannon made no mistake, firing the ball home to give the Colorado Rapids a 1-0 lead. The goal injected fresh life into the stadium, forcing the visitors to rethink their defensive approach. Discipline Tested in the Closing Stages As Real Salt Lake pushed for an equalizer, the match grew increasingly fragmented. A flurry of yellow cards followed, with Morgan Guilavogui , Noel Caliskan , and Colin Guske all entering the referee's book as the visitors' frustration mounted. Even the Rapids weren't immune to the card-heavy finish, as Miguel Navarro saw yellow in stoppage time. Despite seven minutes of added time and several tactical substitutions, including the introduction of Diego Luna and Saba Lobjanidze , the home side held firm to secure a hard-fought victory."
     },
     {
       "title": "Portland Timbers - Real Salt Lake",
@@ -1456,20 +1653,20 @@
       "description": "Watch Real Salt Lake vs Atlante FC highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
     },
     {
-      "title": "Club León - Real Salt Lake | Leagues Cup | Full Match Highlights",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/club-leon-real-salt-lake-leagues-cup-full-match-highlights-2026-08-26-WTiG.webp",
-      "competition": "Unknown Competition",
-      "competition_cover": "",
-      "date": "Aug 26, 2026",
+      "title": "Real Salt Lake - Minnesota United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/real-salt-lake-minnesota-united-2026-08-16-UFC4.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 16, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1606.webp",
-          "name": "Real Salt Lake",
+          "logo": "https://img.refooty.com/logo/teams/1612.webp",
+          "name": "Minnesota United FC",
           "score": "1"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/2289.webp",
-          "name": "Club León",
+          "logo": "https://img.refooty.com/logo/teams/1606.webp",
+          "name": "Real Salt Lake",
           "score": "1"
         },
         "status": "FT"
@@ -1477,170 +1674,199 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/club-leon-real-salt-lake-leagues-cup-full-match-highlights-2026-08-26.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/real-salt-lake-minnesota-united-2026-08-16_IJ1Hy.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Club León",
-          "player": "Evander",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
+          "team": "Real Salt Lake",
+          "player": "Z. Booth",
+          "event_type": "Yellow Card"
         },
         {
           "time": "16'",
-          "team": "Real Salt Lake",
-          "player": "R. Sailor",
+          "team": "Minnesota United FC",
+          "player": "J. Diaz",
           "event_type": "Yellow Card"
         },
         {
-          "time": "46'",
-          "team": "Club León",
-          "player": "B. Ramirez",
+          "time": "56'",
+          "team": "Real Salt Lake",
+          "player": "L. R. d. Santos",
           "event_type": "Yellow Card"
         },
         {
-          "time": "61'",
+          "time": "82'",
           "team": "Real Salt Lake",
-          "player": "P. Kingston",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Real Salt Lake",
-          "player": "K. Kossa-Rienzi",
+          "player": "S. Solans",
           "event_type": "Goal",
-          "assist": "A. Rusnak",
+          "assist": "D. Luna",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "89'",
+          "team": "Minnesota United FC",
+          "player": "J. Pereyra",
+          "event_type": "Goal",
+          "assist": "M. Caldeira",
           "score_update": "1 - 1"
+        },
+        {
+          "time": "90+4'",
+          "team": "Real Salt Lake",
+          "player": "S. Spierings",
+          "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Club León_wins": "0",
-          "draws": "1",
-          "Real Salt Lake_wins": "2"
+          "Real Salt Lake_wins": "1",
+          "draws": "4",
+          "Minnesota United FC_wins": "1"
         },
         "previous_matches": [
           {
-            "date": "12/03/2023",
+            "date": "23/05/2026",
+            "competition": "MLS",
+            "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake"
+          },
+          {
+            "date": "24/08/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Real Salt Lake 1 - 3 Minnesota United"
+          },
+          {
+            "date": "03/11/2024",
+            "competition": "MLS: Play-off",
+            "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake"
+          },
+          {
+            "date": "03/10/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Real Salt Lake 0 - 0 Minnesota United"
+          },
+          {
+            "date": "25/06/2023",
             "competition": "MLS 2023",
-            "teams_and_score": "FC Cincinnati 1 - 0 Seattle Sounders FC"
+            "teams_and_score": "Real Salt Lake 2 - 2 Minnesota United"
           },
           {
-            "date": "28/09/2022",
+            "date": "01/09/2022",
             "competition": "Major League Soccer 2022",
-            "teams_and_score": "Seattle Sounders FC 1 - 1 FC Cincinnati"
-          },
-          {
-            "date": "03/03/2019",
-            "competition": "Major League Soccer",
-            "teams_and_score": "Seattle Sounders FC 4 - 1 FC Cincinnati"
+            "teams_and_score": "Real Salt Lake 3 - 0 Minnesota United"
           }
         ],
         "home_team_form": {
-          "team": "Club León",
+          "team": "Real Salt Lake",
           "form": [
             "D",
             "W",
-            "L",
-            "L"
+            "D",
+            "W",
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "22/08/2026",
+              "date": "16/08/2026",
               "competition": "MLS",
-              "teams_and_score": "FC Cincinnati 1 - 1 Seattle Sounders FC",
+              "teams_and_score": "Real Salt Lake 1 - 1 Minnesota United",
               "result": "D"
             },
             {
               "date": "12/08/2026",
               "competition": "Leagues Cup",
-              "teams_and_score": "FC Cincinnati 1 - 2 Atlas",
+              "teams_and_score": "Real Salt Lake 3 - 0 FC Juarez",
               "result": "W"
             },
             {
               "date": "02/08/2026",
               "competition": "MLS",
-              "teams_and_score": "FC Cincinnati 4 - 2 San Jose Earthquakes",
-              "result": "L"
+              "teams_and_score": "St. Louis City 1 - 1 Real Salt Lake",
+              "result": "D"
             },
             {
-              "date": "10/07/2026",
+              "date": "16/07/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Cincinnati 3 - 1 Burnley",
-              "result": "L"
+              "teams_and_score": "Real Salt Lake 4 - 1 Burnley",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "MLS",
+              "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake",
+              "result": "D"
             }
           ]
         },
         "away_team_form": {
-          "team": "Real Salt Lake",
+          "team": "Minnesota United FC",
           "form": [
             "D",
-            "W",
-            "L"
+            "L",
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "22/08/2026",
+              "date": "16/08/2026",
               "competition": "MLS",
-              "teams_and_score": "FC Cincinnati 1 - 1 Seattle Sounders FC",
+              "teams_and_score": "Real Salt Lake 1 - 1 Minnesota United",
               "result": "D"
             },
             {
-              "date": "13/08/2026",
+              "date": "12/08/2026",
               "competition": "Leagues Cup",
-              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
-              "result": "W"
+              "teams_and_score": "Minnesota United 3 - 1 Atlante",
+              "result": "L"
             },
             {
               "date": "02/08/2026",
               "competition": "MLS",
-              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
-              "result": "L"
+              "teams_and_score": "Minnesota United 1 - 1 San Diego",
+              "result": "D"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Club León": "9",
-          "Real Salt Lake": "3"
+          "Real Salt Lake": "7",
+          "Minnesota United FC": "3"
         },
         "shots_off_target": {
-          "Club León": "5",
-          "Real Salt Lake": "4"
+          "Real Salt Lake": "5",
+          "Minnesota United FC": "9"
         },
         "shots_blocked": {
-          "Club León": "3",
-          "Real Salt Lake": "3"
+          "Real Salt Lake": "1",
+          "Minnesota United FC": "3"
         },
         "corners": {
-          "Club León": "9",
-          "Real Salt Lake": "4"
+          "Real Salt Lake": "7",
+          "Minnesota United FC": "10"
         },
         "fouls": {
-          "Club León": "7",
-          "Real Salt Lake": "14"
+          "Real Salt Lake": "7",
+          "Minnesota United FC": "12"
         },
         "offsides": {
-          "Club León": "2",
-          "Real Salt Lake": "1"
+          "Real Salt Lake": "1",
+          "Minnesota United FC": "1"
         },
         "yellow_cards": {
-          "Club León": "1",
-          "Real Salt Lake": "2"
+          "Real Salt Lake": "2",
+          "Minnesota United FC": "1"
         },
         "goalkeeper_saves": {
-          "Club León": "2",
-          "Real Salt Lake": "7"
+          "Real Salt Lake": "1",
+          "Minnesota United FC": "7"
         },
         "ball_possession": {
-          "Club León": "70%",
-          "Real Salt Lake": "30%"
+          "Real Salt Lake": "57%",
+          "Minnesota United FC": "43%"
         }
       },
-      "description": "Watch Club León vs Real Salt Lake highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 26, 2026. The MLS season continued on August 26, 2026, with a fixture that promised to test the tactical discipline of both lineups. As the players took to the field, the anticipation for a decisive performance was palpable among the supporters. Ferreira Breaks the Deadlock The encounter began at a high tempo, with both sides attempting to establish control of the midfield. In the 24th minute, the deadlock was broken when Evander Ferreira found the back of the net, finishing clinically to put his side ahead. The goal forced a reaction from the opposition, significantly increasing the physical intensity of the match. As half-time approached, the contest became increasingly scrappy. Ryan Sailor was shown a yellow card in the 38th minute following a mistimed challenge, reflecting the mounting pressure. Despite attempts to respond before the break, the first half concluded with a narrow lead following three minutes of stoppage time. Tactical Shifts and Late Drama In the second half, the managers looked to refresh their squads through a flurry of substitutions. Between the 59th and 61st minutes, the likes of Kevin Denkey , Danny Musovski , and Nouhou Tolo were introduced to influence the momentum. The tension continued to simmer, resulting in bookings for Bryan Ramirez in the 64th minute and Peter Kingston in the 75th. The defining moment of the comeback arrived following the introduction of Albert Rusnak in the 77th minute. Just six minutes after coming on, Rusnak turned provider for Kalani Rienzi , who made no mistake in leveling the score in the 83rd minute. In the closing stages, both teams managed their defensive lines with further substitutions, including Kee-Hee Kim entering to stabilize the backline, as the match ended in a hard-fought draw after 95 minutes."
+      "description": "Watch Real Salt Lake vs Minnesota United FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 16, 2026. The stage was set on August 16, 2026, as Real Salt Lake hosted Minnesota United FC for a highly anticipated clash in Major League Soccer . A tight tactical battle From the opening minutes, the game was characterized by physical intensity and tactical discipline. The early yellow card for Zach Booth in the 13th minute signaled a game where neither side was willing to concede ground. As the match progressed through the first half, both teams probed for defensive weaknesses, but clear-cut opportunities remained elusive, leading to a scoreless stalemate as the players headed to the locker rooms. Late drama in the closing stages Action intensified in the second half, with the breakthrough finally arriving in the 82nd minute. Diego Luna delivered a clever ball to Sergi Solans , who clinicaly found the back of the net to put the home side in front. However, Minnesota United refused to bow out. Deep in the 89th minute, a crucial assist from substitute Marcus Caldeira set up Joaquin Pereyra , who hammered home the equalizer. The 1-1 scoreline held until the final whistle, concluding a hard-fought evening of professional football."
     }
   ]
 }
