@@ -1,191 +1,637 @@
 {
   "competition": "UEFA Champions League",
   "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-  "total_matches": 27,
-  "Last update time": "08:24:56 AM 08-09-2026",
+  "total_matches": 30,
+  "Last update time": "03:10:38 AM 09-09-2026",
   "matches": [
     {
-      "title": "Olympique Lyonnais vs Fenerbahce",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/olympique-lyonnais-v-fenerbahce-2026-08-26-r6Yh.webp",
+      "title": "FC Porto vs Man City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/fc-porto-v-manchester-city-2026-09-08-pZ7T.webp",
       "competition": "UEFA Champions League",
       "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 26, 2026",
+      "date": "Sep 8, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/611.webp",
-          "name": "Fenerbahce",
+          "logo": "https://img.refooty.com/logo/teams/50.webp",
+          "name": "Manchester City",
           "score": "2"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/80.webp",
-          "name": "Lyon",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/20782.webp",
+          "name": "Porto",
+          "score": "0"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Olympique_Lyonnais_v_Fenerbahce_2026_08_26.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/FC_Porto_v_Manchester_City_2026_09_08.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Fenerbahce",
-          "player": "V. Muriqi",
+          "team": "Manchester City",
+          "player": "J. Gvardiol",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "47'",
+          "team": "Manchester City",
+          "player": "E. Haaland",
           "event_type": "Goal",
+          "assist": "E. Fernández",
           "score_update": "0 - 1"
         },
         {
-          "time": "16'",
-          "team": "Fenerbahce",
-          "player": "A. Brown",
+          "time": "49'",
+          "team": "Manchester City",
+          "player": "G. Donnarumma",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "86'",
+          "team": "Porto",
+          "player": "F. Farioli",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Manchester City",
+          "player": "E. Haaland",
           "event_type": "Goal",
-          "assist": "M. Greenwood",
+          "assist": "R. Aït-Nouri",
           "score_update": "0 - 2"
         },
         {
-          "time": "31'",
-          "team": "Fenerbahce",
-          "player": "M. Škriniar",
+          "time": "90+3'",
+          "team": "Porto",
+          "player": "P. Rosario",
           "event_type": "Yellow Card"
         },
         {
-          "time": "51'",
-          "team": "Lyon",
-          "player": "L. Openda",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Lyon",
-          "player": "M. Fofana",
-          "event_type": "Goal",
-          "assist": "A. Maitland-Niles",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "90+5'",
-          "team": "Fenerbahce",
-          "player": "M. Guendouzi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Fenerbahce",
-          "player": "N. Dorgeles",
+          "time": "90+3'",
+          "team": "Manchester City",
+          "player": "E. Haaland",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Lyon_wins": "2",
-          "draws": "2",
-          "Fenerbahce_wins": "0"
+          "Porto_wins": "0",
+          "draws": "1",
+          "Manchester City_wins": "1"
         },
         "previous_matches": [
           {
-            "date": "18/08/2026",
-            "competition": "Qualification",
-            "teams_and_score": "Fenerbahçe 1 - 1 Lyon"
+            "date": "01/12/2020",
+            "competition": "Group C 20/21",
+            "teams_and_score": "FC Porto 0 - 0 Manchester City"
           },
           {
-            "date": "23/01/2025",
-            "competition": "League Stage",
-            "teams_and_score": "Fenerbahçe 0 - 0 Lyon"
-          },
-          {
-            "date": "03/11/2004",
-            "competition": "Champions League grp. D",
-            "teams_and_score": "Lyon 4 - 2 Fenerbahçe"
-          },
-          {
-            "date": "17/10/2001",
-            "competition": "Champions League grp. F",
-            "teams_and_score": "Lyon 3 - 1 Fenerbahçe"
+            "date": "22/02/2012",
+            "competition": "Europa League Final Stages",
+            "teams_and_score": "Manchester City 4 - 0 FC Porto"
           }
         ],
         "home_team_form": {
-          "team": "Lyon",
+          "team": "Porto",
           "form": [
             "L",
             "W",
-            "D",
-            "L",
-            "W"
+            "W",
+            "W",
+            "L"
           ],
           "recent_matches": [
             {
-              "date": "26/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Lyon 1 - 2 Fenerbahçe",
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "FC Porto 0 - 2 Manchester City",
               "result": "L"
             },
             {
-              "date": "22/08/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Toulouse 0 - 2 Lyon",
+              "date": "04/09/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "FC Porto 2 - 1 Moreirense",
               "result": "W"
             },
             {
-              "date": "18/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
-              "result": "D"
+              "date": "01/08/2026",
+              "competition": "Super Cup",
+              "teams_and_score": "FC Porto 1 - 0 Torreense",
+              "result": "W"
             },
             {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Betis 4 - 0 Lyon",
-              "result": "L"
-            },
-            {
-              "date": "15/07/2026",
+              "date": "25/07/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "Lyon 2 - 1 Servette",
+              "teams_and_score": "FC Porto 2 - 1 Aston Villa",
               "result": "W"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Gil Vicente 1 - 0 FC Porto",
+              "result": "L"
             }
           ]
         },
         "away_team_form": {
-          "team": "Fenerbahce",
+          "team": "Manchester City",
           "form": [
             "W",
+            "W",
             "L",
-            "D",
-            "L",
-            "W"
+            "W",
+            "L"
           ],
           "recent_matches": [
             {
-              "date": "26/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Lyon 1 - 2 Fenerbahçe",
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "FC Porto 0 - 2 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Manchester City 1 - 0 Coventry City",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Community Shield",
+              "teams_and_score": "Arsenal 3 - 0 Manchester City",
+              "result": "L"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Manchester City 1 - 2 Aston Villa",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Porto": "0",
+          "Manchester City": "10"
+        },
+        "shots_off_target": {
+          "Porto": "4",
+          "Manchester City": "6"
+        },
+        "shots_blocked": {
+          "Porto": "1",
+          "Manchester City": "4"
+        },
+        "corners": {
+          "Porto": "2",
+          "Manchester City": "5"
+        },
+        "fouls": {
+          "Porto": "10",
+          "Manchester City": "17"
+        },
+        "offsides": {
+          "Porto": "7",
+          "Manchester City": "1"
+        },
+        "yellow_cards": {
+          "Porto": "1",
+          "Manchester City": "3"
+        },
+        "goalkeeper_saves": {
+          "Porto": "8",
+          "Manchester City": "0"
+        },
+        "crosses": {
+          "Porto": "2",
+          "Manchester City": "5"
+        },
+        "ball_possession": {
+          "Porto": "36%",
+          "Manchester City": "64%"
+        }
+      },
+      "description": "Watch Porto vs Manchester City highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The Estádio do Dragão played host to a high-stakes European encounter as FC Porto welcomed Manchester City for a crucial UEFA Champions League clash. Both sides looked to assert their dominance in a match filled with tactical intrigue and physical battles on 2026-09-08. Frustration for the Hosts in the Opening Period The first half was characterized by Manchester City 's trademark possession game, with the visitors controlling 65% of the ball. Despite their dominance, clear-cut chances were hard to come by as FC Porto maintained a disciplined, albeit high, defensive line. This strategy saw the home side frequently catch their opponents offside, but it also worked against them; Pepe , Pablo Rosario , and William Gomes were all flagged multiple times, stifling Porto's own counter-attacking rhythm. City's most dangerous moment of the half came in the 21st minute when Erling Haaland rose to meet a cross, but his goalward header was comfortably gathered by Diogo Costa . As the half progressed, the game's physical edge increased, leading to a yellow card for Josko Gvardiol after he was caught tugging an opponent's shirt, sending the teams into the break deadlocked. Haaland Breaks the Deadlock The tactical stalemate didn't last long into the second half. Just two minutes after the restart, Enzo Fernández delivered a pinpoint cross that found Erling Haaland in the box. The Norwegian striker made no mistake, powering a header past Costa to give City the lead in the 47th minute. The goal forced Porto to take more risks, leading to a flurry of tactical substitutions by Francesco Farioli , including the introduction of In-Beom Hwang and Borja Sainz . Manchester City responded with their own changes, bringing on the experience of Mateo Kovacic and the fresh legs of Rayan Aït-Nouri . The tension on the touchline boiled over in the 86th minute when Farioli was booked for dissent as his side struggled to find a way through the solid City defense. Late Drama and a Clinical Finish As the clock ticked into stoppage time, the visitors put the game beyond doubt. In the 91st minute, Rayan Aït-Nouri turned provider, setting up Erling Haaland for his second of the night. The striker clinical finish with his right foot silenced the home crowd and secured the three points. However, the match ended on a fiery note as Pablo Rosario and Haaland were both shown yellow cards for unsportsmanlike conduct following a late confrontation. Even with a late free-kick from Enzo Fernández that whistled wide, the result was never in question. In front of 49,106 fans, Manchester City's clinical edge proved superior, leaving Porto to reflect on missed opportunities and tactical errors in a high-octane Champions League night."
+    },
+    {
+      "title": "Real Madrid vs Inter Milan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/real-madrid-v-inter-milan-2026-09-08-zghB.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/26154.webp",
+          "name": "Inter",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/541.webp",
+          "name": "Real Madrid",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Real_Madrid_v_Inter_Milan_2026_09_08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Real Madrid",
+          "player": "K. Mbappé",
+          "event_type": "Goal",
+          "assist": "B. Díaz",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Real Madrid",
+          "player": "F. Valverde",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Inter",
+          "player": "H. Çalhanoğlu",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "77'",
+          "team": "Inter",
+          "player": "C. Augusto",
+          "event_type": "Goal",
+          "assist": "L. Martínez",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "79'",
+          "team": "Real Madrid",
+          "player": "D. Huijsen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "79'",
+          "team": "Inter",
+          "player": "L. Martínez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Inter",
+          "player": "Y. Bisseck",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Real Madrid_wins": "3",
+          "draws": "0",
+          "Inter_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "07/12/2021",
+            "competition": "Group D 21/22",
+            "teams_and_score": "Real Madrid 2 - 0 Inter"
+          },
+          {
+            "date": "25/11/2020",
+            "competition": "Group B 20/21",
+            "teams_and_score": "Inter 0 - 2 Real Madrid"
+          },
+          {
+            "date": "10/08/2013",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Real Madrid 3 - 0 Inter"
+          }
+        ],
+        "home_team_form": {
+          "team": "Real Madrid",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Real Madrid 2 - 1 Inter",
+              "result": "W"
+            },
+            {
+              "date": "04/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Betis 1 - 0 Real Madrid",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Schalke 04 0 - 3 Real Madrid",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Real Madrid 2 - 2 Fiorentina",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Inter",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Real Madrid 2 - 1 Inter",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Inter 3 - 2 Napoli",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Inter 1 - 0 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Juventus 1 - 2 Inter",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Bologna 3 - 3 Inter",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Real Madrid": "8",
+          "Inter": "7"
+        },
+        "shots_off_target": {
+          "Real Madrid": "5",
+          "Inter": "9"
+        },
+        "shots_blocked": {
+          "Real Madrid": "3",
+          "Inter": "5"
+        },
+        "corners": {
+          "Real Madrid": "4",
+          "Inter": "11"
+        },
+        "fouls": {
+          "Real Madrid": "12",
+          "Inter": "10"
+        },
+        "offsides": {
+          "Real Madrid": "2",
+          "Inter": "4"
+        },
+        "yellow_cards": {
+          "Real Madrid": "1",
+          "Inter": "3"
+        },
+        "goalkeeper_saves": {
+          "Real Madrid": "7",
+          "Inter": "6"
+        },
+        "crosses": {
+          "Real Madrid": "2",
+          "Inter": "10"
+        },
+        "ball_possession": {
+          "Real Madrid": "36%",
+          "Inter": "64%"
+        }
+      },
+      "description": "Watch Real Madrid vs Inter highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 8, 2026. On the night of September 8, 2026, the UEFA Champions League provided another chapter of high-octane football as Real Madrid hosted Inter Milan . This heavyweight clash promised tactical intrigue and individual brilliance from the very first whistle. Clinical Start for the Hosts Real Madrid wasted no time in asserting their dominance, capitalizing on early defensive lapses from the Italian side. In the 14th minute, Kylian Mbappe found the back of the net with a composed right-footed finish following a clever assist from Brahim Diaz . The momentum remained firmly with the Spanish giants, and by the 23rd minute, they had doubled their lead. Federico Valverde was the sharpest player in the box, reacting first to a loose ball and firing home with his left foot after a mistake by Inter goalkeeper Josep Martinez . Inter struggled to find their rhythm in the first half, with Hakan Calhanoglu receiving a yellow card for a rough challenge as frustrations began to mount. The hosts were inches away from a third goal just before the break when Brahim Diaz saw his effort strike the post, leaving the door slightly ajar for a potential Inter comeback in the second period. Inter Fight Back Amid Late Drama The second half saw a significant shift in momentum as Inter Milan dominated possession, eventually controlling 61% of the ball. Their persistence paid off in the 77th minute when Carlos Augusto clinicaly finished from inside the area after being set up by Lautaro Martinez . This goal ignited a frantic finale where emotions boiled over; both Lautaro Martinez and Dean Huijsen were cautioned for dissent as the intensity reached its peak. In the dying moments, Real Madrid focused on defensive solidity to weather the storm. A late scuffle broke out in stoppage time, resulting in a yellow card for Yann Aurel Bisseck following a foul on Marc Cucurella . Despite Inter's late pressure and numerous corners swung in by Petar Sucic , the Madrid defense held firm to secure a hard-fought victory in this prestigious European encounter."
+    },
+    {
+      "title": "Borussia Dortmund vs Villarreal",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/borussia-dortmund-v-villarreal-2026-09-08-Yw5F.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/533.webp",
+          "name": "Villarreal",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/165.webp",
+          "name": "Borussia Dortmund",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Borussia_Dortmund_v_Villarreal_2026_09_08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Borussia Dortmund",
+          "player": "W. Anton",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "1'",
+          "team": "Villarreal",
+          "player": "P. Navarro",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Villarreal",
+          "player": "S. Cardona",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "53'",
+          "team": "Borussia Dortmund",
+          "player": "R. Veiga",
+          "event_type": "Goal"
+        },
+        {
+          "time": "66'",
+          "team": "Villarreal",
+          "player": "S. Mouriño",
+          "event_type": "Goal",
+          "assist": "G. Mikautadze",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "80'",
+          "team": "Borussia Dortmund",
+          "player": "S. Guirassy",
+          "event_type": "Goal",
+          "assist": "F. Silva",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "84'",
+          "team": "Villarreal",
+          "player": "S. Mouriño",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "85'",
+          "team": "Borussia Dortmund",
+          "player": "S. Guirassy",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "90+3'",
+          "team": "Villarreal",
+          "player": "S. Guirassy",
+          "event_type": "Goal"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Borussia Dortmund_wins": "1",
+          "draws": "1",
+          "Villarreal_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "25/11/2025",
+            "competition": "League Stage",
+            "teams_and_score": "Borussia Dortmund 4 - 0 Villarreal"
+          },
+          {
+            "date": "06/08/2024",
+            "competition": "Featured Club Friendlies",
+            "teams_and_score": "Borussia Dortmund 2 - 2 Villarreal"
+          },
+          {
+            "date": "22/07/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Borussia Dortmund 0 - 2 Villarreal"
+          }
+        ],
+        "home_team_form": {
+          "team": "Borussia Dortmund",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Borussia Dortmund 3 - 2 Villarreal",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Bundesliga",
+              "teams_and_score": "Hoffenheim 2 - 3 Borussia Dortmund",
+              "result": "W"
+            },
+            {
+              "date": "01/09/2026",
+              "competition": "DFB Cup: Round 1",
+              "teams_and_score": "HEBC Hamburg 0 - 5 Borussia Dortmund",
+              "result": "W"
+            },
+            {
+              "date": "29/08/2026",
+              "competition": "Bundesliga",
+              "teams_and_score": "Borussia Dortmund 2 - 0 Hamburger SV",
               "result": "W"
             },
             {
               "date": "22/08/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Fenerbahçe 4 - 2 Konyaspor",
+              "competition": "DFL Super Cup",
+              "teams_and_score": "Borussia Dortmund 1 - 2 Bayern Munich",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Villarreal",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Borussia Dortmund 3 - 2 Villarreal",
               "result": "L"
             },
             {
-              "date": "18/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Gençlerbirliği 2 - 1 Fenerbahçe",
+              "date": "05/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Villarreal 2 - 3 Deportivo A Coruna",
               "result": "L"
             },
             {
-              "date": "11/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Sturm Graz 0 - 1 Fenerbahçe",
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Galatasaray 1 - 2 Villarreal",
+              "result": "W"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Villarreal 1 - 0 Levante",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "PSV Eindhoven 1 - 3 Villarreal",
               "result": "W"
             }
           ]
@@ -193,47 +639,47 @@
       },
       "statistics": {
         "shots_on_target": {
-          "Lyon": "6",
-          "Fenerbahce": "7"
+          "Borussia Dortmund": "6",
+          "Villarreal": "6"
         },
         "shots_off_target": {
-          "Lyon": "7",
-          "Fenerbahce": "6"
+          "Borussia Dortmund": "5",
+          "Villarreal": "4"
         },
         "shots_blocked": {
-          "Lyon": "4",
-          "Fenerbahce": "3"
+          "Borussia Dortmund": "7",
+          "Villarreal": "3"
         },
         "corners": {
-          "Lyon": "5",
-          "Fenerbahce": "7"
+          "Borussia Dortmund": "9",
+          "Villarreal": "7"
         },
         "fouls": {
-          "Lyon": "12",
-          "Fenerbahce": "17"
+          "Borussia Dortmund": "15",
+          "Villarreal": "10"
         },
         "offsides": {
-          "Lyon": "3",
-          "Fenerbahce": "2"
+          "Borussia Dortmund": "1",
+          "Villarreal": "3"
         },
         "yellow_cards": {
-          "Lyon": "1",
-          "Fenerbahce": "3"
+          "Borussia Dortmund": "1",
+          "Villarreal": "3"
         },
         "goalkeeper_saves": {
-          "Lyon": "6",
-          "Fenerbahce": "5"
+          "Borussia Dortmund": "5",
+          "Villarreal": "4"
         },
         "crosses": {
-          "Lyon": "6",
-          "Fenerbahce": "3"
+          "Borussia Dortmund": "3",
+          "Villarreal": "4"
         },
         "ball_possession": {
-          "Lyon": "59%",
-          "Fenerbahce": "41%"
+          "Borussia Dortmund": "52%",
+          "Villarreal": "48%"
         }
       },
-      "description": "Watch Lyon vs Fenerbahce highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 26, 2026. The Groupama Stadium played host to a high-stakes encounter as Olympique Lyonnais and Fenerbahce faced off in the UEFA Champions League . Both sides entered the pitch with everything to play for in what promised to be a defining night of European football. Clinical First Half from the Visitors On 2026-08-26 , the match began with immediate intensity as the visitors sought to dominate early. Fenerbahce broke the deadlock in the 24th minute when Vedat Muriqi found the back of the net with a clinical finish. The momentum stayed firmly with the Turkish side, and just four minutes later, Archie Brown doubled the lead after a precise assist from Mason Greenwood . Lyon struggled to regain their composure, and the physical nature of the contest became evident when Milan Skriniar received a yellow card in the 32nd minute. Lyon Fight Back Amid Late Drama The second half saw Lyon emerge with renewed energy, despite an early booking for Ikoma Lois Openda . Their efforts were rewarded in the 61st minute when Malick Fofana clinicaly finished a chance created by Ainsley Maitland-Niles , pulling the score back to 1-2. A flurry of substitutions followed, with the likes of Nicolas Tagliafico and Romelu Lukaku entering the fray to influence the closing stages. The match ended in a heated fashion, with Matteo Guendouzi and Dorgeles Nene both receiving yellow cards deep in stoppage time, but Fenerbahce successfully defended their lead until the final whistle."
+      "description": "Watch Borussia Dortmund vs Villarreal highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 8, 2026. On September 8, 2026, the UEFA Champions League delivered a high-octane encounter as Borussia Dortmund hosted Villarreal in a match that kept fans on the edge of their seats until the very last second. Both sides displayed tactical discipline and flashes of brilliance in a game where momentum swung like a pendulum. A Tactical Stalemate in the Opening Period The first half was a story of missed opportunities and defensive organization. Villarreal looked dangerous through Tajon Buchanan early on, while Borussia Dortmund struggled to make their set-piece dominance count, with multiple corners from Julian Ryerson failing to find a teammate. The physical nature of the contest was evident as Waldemar Anton and Pau Navarro both saw yellow cards for tactical fouls. Just before the break, Serhou Guirassy had a clear sighting of goal, but his header lacked the necessary accuracy, leaving the match scoreless as the teams headed to the tunnels. Breakthroughs and Counter-Punches The intensity shifted gears significantly in the second half. Ethan Nwaneri nearly broke the deadlock in the 51st minute, but his strike agonisingly rattled the post. The pressure eventually forced a mistake in the 53rd minute when Renato Veiga inadvertently turned the ball into his own net to give Dortmund the lead. The Spanish side refused to fold, however, and found an equalizer in the 66th minute. Santiago Mouriño rose highest to meet a Georges Mikautadze corner, heading home to silence the home crowd and reset the contest. Guirassy's Double and Late Drama As the game entered the closing stages, Borussia Dortmund ’s tactical changes paid dividends. In the 80th minute, Fabio Silva provided a pinpoint assist for Serhou Guirassy , who finished clinically with his left foot. The drama intensified minutes later when a VAR review confirmed a penalty for a shirt-pull by Mouriño . Guirassy stepped up and coolly converted the spot-kick to make it 3-1. There was still time for a final twist, as Guirassy scored an unfortunate own goal in the 90th minute to bridge the gap. Despite the late tension and a post-match scuffle, Dortmund maintained their composure to secure a vital victory."
     },
     {
       "title": "Slovan Bratislava vs Mjallby AIF",
@@ -3621,6 +4067,237 @@
         }
       },
       "description": "Watch Olympiakos Piraeus vs NEC Nijmegen highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 4, 2026. Anticipation reached a fever pitch for this UEFA Champions League encounter, where tactical discipline and defensive organization were expected to be the deciding factors. Both teams looked to establish their rhythm early on under the bright lights of the European stage. Early Intensity and Defensive Rigor On August 4, 2026 , Olympiakos Piraeus hosted NEC Nijmegen in a high-stakes fixture that demanded physical excellence from the opening whistle. The match began with a fierce battle for midfield supremacy, and the tone was set just 11 minutes in when David Carmo received a yellow card for a mistimed challenge. This early booking forced the home side's backline to play with caution for the remainder of the half. Despite periods of sustained pressure, clear-cut chances remained elusive as both defenses held firm until the halftime whistle. Tactical Shifts and Fresh Personnel The second half saw both managers turning to their benches in an attempt to break the deadlock. At the restart, Olympiakos introduced Gelson Martins for Joel Roca , hoping to inject pace into the wide areas. A flurry of strategic changes followed in the 56th minute, with Pablo Maffeo , Jota Silva , and Lorenzo Pirola entering the fray. However, the tension only escalated, and in the 67th minute, Dani García was booked, adding to the defensive burden of the Greek giants as they struggled to find a clinical edge. A Grueling Finish to the Contest NEC Nijmegen utilized their depth in the final quarter, bringing on the experienced Dusan Tadic and Isak Hansen-Aaroeen to test the weary home defense. The closing stages were a testament to defensive grit, with further substitutions including Emre Mor and Willum Willumsson aiming to find a late winner. In the dying moments of stoppage time, Deveron Fonville picked up a yellow card for a tactical foul to halt a late surge. After five minutes of added time, the referee brought an end to a hard-fought battle where defensive solidity ultimately reigned supreme."
+    },
+    {
+      "title": "Olympique Lyonnais vs Fenerbahce",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/olympique-lyonnais-v-fenerbahce-2026-08-26-r6Yh.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 26, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/611.webp",
+          "name": "Fenerbahce",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/80.webp",
+          "name": "Lyon",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Olympique_Lyonnais_v_Fenerbahce_2026_08_26.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Fenerbahce",
+          "player": "V. Muriqi",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Fenerbahce",
+          "player": "A. Brown",
+          "event_type": "Goal",
+          "assist": "M. Greenwood",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "31'",
+          "team": "Fenerbahce",
+          "player": "M. Škriniar",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "51'",
+          "team": "Lyon",
+          "player": "L. Openda",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Lyon",
+          "player": "M. Fofana",
+          "event_type": "Goal",
+          "assist": "A. Maitland-Niles",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "90+5'",
+          "team": "Fenerbahce",
+          "player": "M. Guendouzi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Fenerbahce",
+          "player": "N. Dorgeles",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Lyon_wins": "2",
+          "draws": "2",
+          "Fenerbahce_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "18/08/2026",
+            "competition": "Qualification",
+            "teams_and_score": "Fenerbahçe 1 - 1 Lyon"
+          },
+          {
+            "date": "23/01/2025",
+            "competition": "League Stage",
+            "teams_and_score": "Fenerbahçe 0 - 0 Lyon"
+          },
+          {
+            "date": "03/11/2004",
+            "competition": "Champions League grp. D",
+            "teams_and_score": "Lyon 4 - 2 Fenerbahçe"
+          },
+          {
+            "date": "17/10/2001",
+            "competition": "Champions League grp. F",
+            "teams_and_score": "Lyon 3 - 1 Fenerbahçe"
+          }
+        ],
+        "home_team_form": {
+          "team": "Lyon",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "26/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Lyon 1 - 2 Fenerbahçe",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Toulouse 0 - 2 Lyon",
+              "result": "W"
+            },
+            {
+              "date": "18/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Betis 4 - 0 Lyon",
+              "result": "L"
+            },
+            {
+              "date": "15/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Lyon 2 - 1 Servette",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Fenerbahce",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "26/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Lyon 1 - 2 Fenerbahçe",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Fenerbahçe 4 - 2 Konyaspor",
+              "result": "L"
+            },
+            {
+              "date": "18/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Gençlerbirliği 2 - 1 Fenerbahçe",
+              "result": "L"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Sturm Graz 0 - 1 Fenerbahçe",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Lyon": "6",
+          "Fenerbahce": "7"
+        },
+        "shots_off_target": {
+          "Lyon": "7",
+          "Fenerbahce": "6"
+        },
+        "shots_blocked": {
+          "Lyon": "4",
+          "Fenerbahce": "3"
+        },
+        "corners": {
+          "Lyon": "5",
+          "Fenerbahce": "7"
+        },
+        "fouls": {
+          "Lyon": "12",
+          "Fenerbahce": "17"
+        },
+        "offsides": {
+          "Lyon": "3",
+          "Fenerbahce": "2"
+        },
+        "yellow_cards": {
+          "Lyon": "1",
+          "Fenerbahce": "3"
+        },
+        "goalkeeper_saves": {
+          "Lyon": "6",
+          "Fenerbahce": "5"
+        },
+        "crosses": {
+          "Lyon": "6",
+          "Fenerbahce": "3"
+        },
+        "ball_possession": {
+          "Lyon": "59%",
+          "Fenerbahce": "41%"
+        }
+      },
+      "description": "Watch Lyon vs Fenerbahce highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 26, 2026. The Groupama Stadium played host to a high-stakes encounter as Olympique Lyonnais and Fenerbahce faced off in the UEFA Champions League . Both sides entered the pitch with everything to play for in what promised to be a defining night of European football. Clinical First Half from the Visitors On 2026-08-26 , the match began with immediate intensity as the visitors sought to dominate early. Fenerbahce broke the deadlock in the 24th minute when Vedat Muriqi found the back of the net with a clinical finish. The momentum stayed firmly with the Turkish side, and just four minutes later, Archie Brown doubled the lead after a precise assist from Mason Greenwood . Lyon struggled to regain their composure, and the physical nature of the contest became evident when Milan Skriniar received a yellow card in the 32nd minute. Lyon Fight Back Amid Late Drama The second half saw Lyon emerge with renewed energy, despite an early booking for Ikoma Lois Openda . Their efforts were rewarded in the 61st minute when Malick Fofana clinicaly finished a chance created by Ainsley Maitland-Niles , pulling the score back to 1-2. A flurry of substitutions followed, with the likes of Nicolas Tagliafico and Romelu Lukaku entering the fray to influence the closing stages. The match ended in a heated fashion, with Matteo Guendouzi and Dorgeles Nene both receiving yellow cards deep in stoppage time, but Fenerbahce successfully defended their lead until the final whistle."
     }
   ]
 }
