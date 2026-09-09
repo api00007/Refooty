@@ -2,18 +2,18 @@
   "Total_Competitions": 38,
   "competitions": [
     {
-      "name": "UEFA Champions League",
-      "slug": "uefa-champions-league",
-      "cover_image": "https://refooty.com/covers/uefa-champions-league.webp",
-      "total_matches": 35,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-champions-league.json"
-    },
-    {
       "name": "Carabao",
       "slug": "carabao",
       "cover_image": "https://refooty.com/covers/carabao.webp",
       "total_matches": 54,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/carabao.json"
+    },
+    {
+      "name": "UEFA Champions League",
+      "slug": "uefa-champions-league",
+      "cover_image": "https://refooty.com/covers/uefa-champions-league.webp",
+      "total_matches": 35,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-champions-league.json"
     },
     {
       "name": "J1 League",
@@ -128,81 +128,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/premier-league.json"
     },
     {
-      "name": "Bundesliga",
-      "slug": "bundesliga",
-      "cover_image": "https://refooty.com/covers/bundesliga.webp",
-      "total_matches": 8,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/bundesliga.json"
-    },
-    {
-      "name": "Coppa Italia",
-      "slug": "coppa-italia",
-      "cover_image": "https://refooty.com/covers/coppa-italia.webp",
-      "total_matches": 9,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/coppa-italia.json"
-    },
-    {
-      "name": "League Two",
-      "slug": "league-two",
-      "cover_image": "https://refooty.com/covers/league-two.webp",
-      "total_matches": 17,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/league-two.json"
-    },
-    {
       "name": "DFB-Pokal",
       "slug": "dfb-pokal",
       "cover_image": "https://refooty.com/covers/dfb-pokal.webp",
       "total_matches": 5,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/dfb-pokal.json"
-    },
-    {
-      "name": "Friendly",
-      "slug": "friendly",
-      "cover_image": "https://refooty.com/covers/friendly.webp",
-      "total_matches": 203,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/friendly.json"
-    },
-    {
-      "name": "UEFA Europa League",
-      "slug": "uefa-europa-league",
-      "cover_image": "https://refooty.com/covers/uefa-europa-league.webp",
-      "total_matches": 46,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-league.json"
-    },
-    {
-      "name": "UEFA Europa Conference League",
-      "slug": "uefa-europa-conference-league",
-      "cover_image": "https://refooty.com/covers/uefa-europa-conference-league.webp",
-      "total_matches": 83,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-conference-league.json"
-    },
-    {
-      "name": "Unknown Competition",
-      "slug": "unknown-competition",
-      "cover_image": "",
-      "total_matches": 63,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/unknown-competition.json"
-    },
-    {
-      "name": "Asian Cup",
-      "slug": "asian-cup",
-      "cover_image": "",
-      "total_matches": 23,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/asian-cup.json"
-    },
-    {
-      "name": "Serie B",
-      "slug": "serie-b",
-      "cover_image": "",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/serie-b.json"
-    },
-    {
-      "name": "DFL-Supercup",
-      "slug": "dfl-supercup",
-      "cover_image": "https://refooty.com/covers/super-cup-germany.webp",
-      "total_matches": 1,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/dfl-supercup.json"
     },
     {
       "name": "Primeira Liga",
@@ -212,11 +142,46 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/primeira-liga.json"
     },
     {
+      "name": "Asian Cup",
+      "slug": "asian-cup",
+      "cover_image": "",
+      "total_matches": 23,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/asian-cup.json"
+    },
+    {
+      "name": "UEFA Europa League",
+      "slug": "uefa-europa-league",
+      "cover_image": "https://refooty.com/covers/uefa-europa-league.webp",
+      "total_matches": 46,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-league.json"
+    },
+    {
       "name": "USL Championship",
       "slug": "usl-championship",
       "cover_image": "",
       "total_matches": 18,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/usl-championship.json"
+    },
+    {
+      "name": "Friendly",
+      "slug": "friendly",
+      "cover_image": "https://refooty.com/covers/friendly.webp",
+      "total_matches": 203,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/friendly.json"
+    },
+    {
+      "name": "Unknown Competition",
+      "slug": "unknown-competition",
+      "cover_image": "",
+      "total_matches": 63,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/unknown-competition.json"
+    },
+    {
+      "name": "UEFA Europa Conference League",
+      "slug": "uefa-europa-conference-league",
+      "cover_image": "https://refooty.com/covers/uefa-europa-conference-league.webp",
+      "total_matches": 83,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-conference-league.json"
     },
     {
       "name": "FIFA Club World Cup",
@@ -261,11 +226,46 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/segunda-división.json"
     },
     {
+      "name": "Coppa Italia",
+      "slug": "coppa-italia",
+      "cover_image": "https://refooty.com/covers/coppa-italia.webp",
+      "total_matches": 9,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/coppa-italia.json"
+    },
+    {
+      "name": "Bundesliga",
+      "slug": "bundesliga",
+      "cover_image": "https://refooty.com/covers/bundesliga.webp",
+      "total_matches": 8,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/bundesliga.json"
+    },
+    {
+      "name": "League Two",
+      "slug": "league-two",
+      "cover_image": "https://refooty.com/covers/league-two.webp",
+      "total_matches": 17,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/league-two.json"
+    },
+    {
       "name": "Coupe de France",
       "slug": "coupe-de-france",
       "cover_image": "https://refooty.com/covers/coupe-de-france.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/coupe-de-france.json"
+    },
+    {
+      "name": "Serie B",
+      "slug": "serie-b",
+      "cover_image": "",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/serie-b.json"
+    },
+    {
+      "name": "DFL-Supercup",
+      "slug": "dfl-supercup",
+      "cover_image": "https://refooty.com/covers/super-cup-germany.webp",
+      "total_matches": 1,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/dfl-supercup.json"
     }
   ]
 }
