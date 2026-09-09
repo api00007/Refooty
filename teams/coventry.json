@@ -2,8 +2,213 @@
   "team": "Coventry",
   "team_logo": "https://img.refooty.com/logo/teams/1346.webp",
   "total_matches": 4,
-  "Last update time": "02:30:36 AM 10-09-2026",
+  "Last update time": "02:54:52 AM 10-09-2026",
   "matches": [
+    {
+      "title": "Manchester City vs Coventry City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-city-v-coventry-city-2026-09-05-KXhF.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1346.webp",
+          "name": "Coventry",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/50.webp",
+          "name": "Manchester City",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Manchester_City_v_Coventry_City_2026_09_05.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Coventry",
+          "player": "M. v. Ewijk",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Manchester City",
+          "player": "E. Haaland",
+          "event_type": "Goal",
+          "assist": "A. Semenyo",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "90+2'",
+          "team": "Coventry",
+          "player": "E. Pinnock",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Manchester City",
+          "player": "A. Khusanov",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Manchester City_wins": "2",
+          "draws": "1",
+          "Coventry_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "03/03/2002",
+            "competition": "Championship",
+            "teams_and_score": "Manchester City 4 - 2 Coventry City"
+          },
+          {
+            "date": "27/01/2001",
+            "competition": "FA Cup",
+            "teams_and_score": "Manchester City 1 - 0 Coventry City"
+          },
+          {
+            "date": "01/01/2001",
+            "competition": "Premier League",
+            "teams_and_score": "Coventry City 1 - 1 Manchester City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Manchester City",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Manchester City 1 - 0 Coventry City",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Community Shield",
+              "teams_and_score": "Arsenal 3 - 0 Manchester City",
+              "result": "L"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Manchester City 1 - 2 Aston Villa",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "FA Cup: Final",
+              "teams_and_score": "Chelsea 0 - 1 Manchester City",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Coventry",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Manchester City 1 - 0 Coventry City",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Plymouth Argyle 2 - 4 Coventry City",
+              "result": "W"
+            },
+            {
+              "date": "21/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Arsenal 3 - 0 Coventry City",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Coventry City 2 - 0 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Coventry City 3 - 1 Espanyol",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Manchester City": "4",
+          "Coventry": "3"
+        },
+        "shots_off_target": {
+          "Manchester City": "5",
+          "Coventry": "6"
+        },
+        "shots_blocked": {
+          "Manchester City": "6",
+          "Coventry": "3"
+        },
+        "corners": {
+          "Manchester City": "4",
+          "Coventry": "5"
+        },
+        "fouls": {
+          "Manchester City": "7",
+          "Coventry": "17"
+        },
+        "offsides": {
+          "Manchester City": "5",
+          "Coventry": "2"
+        },
+        "yellow_cards": {
+          "Manchester City": "1",
+          "Coventry": "2"
+        },
+        "goalkeeper_saves": {
+          "Manchester City": "3",
+          "Coventry": "2"
+        },
+        "crosses": {
+          "Manchester City": "5",
+          "Coventry": "5"
+        },
+        "ball_possession": {
+          "Manchester City": "78%",
+          "Coventry": "22%"
+        }
+      },
+      "description": "Watch Manchester City vs Coventry highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 5, 2026. Two sides with vastly different ambitions met on the pitch for a clash that promised intensity and tactical intrigue. Fans gathered to see how the established giants would handle a determined underdog looking to make their mark on the big stage. Haaland Strikes as City Dominate On September 5, 2026 , Manchester City showcased their trademark control against a resilient Coventry side. The early stages were dominated by the home team, with Rayan Cherki coming agonizingly close in the 23rd minute when his powerful effort rattled the post. The breakthrough finally arrived in the 26th minute. Following a defensive lapse by goalkeeper Carl Rushworth , Antoine Semenyo turned provider, delivering a cross that Erling Haaland expertly headed home to give City the lead after key involvement from Enzo Fernandez . Coventry attempted to fight back immediately, and Jack Rudoni forced a comfortable save from Gianluigi Donnarumma with a header. Despite their spirited efforts, the visitors struggled to see much of the ball, as Manchester City maintained a staggering 78% possession throughout the contest, effectively neutralizing the opposition's attacking threats for long periods. Defensive Resilience and Late Drama As the second half progressed, Manchester City looked to double their advantage. Substitute Phil Foden thought he had found the net in the 79th minute, but his goal-bound shot was heroically hacked off the line by the Coventry defense. Tactical changes followed, with Ayyoub Bouaddi replacing Enzo Fernandez and Coventry introducing Gustavo Hamer and Ellis Simms to inject fresh energy into their pursuit of an equalizer. The closing stages were marred by rising tensions and a flurry of yellow cards. Ethan Pinnock was booked for a shirt-pull, and Abdukodir Khusanov received a caution for kicking the ball away in frustration during stoppage time. Coventry pushed forward in a final desperate attempt, but blocks from Marc Guehi and Josko Gvardiol ensured that the narrow lead remained intact until the final whistle."
+    },
     {
       "title": "Coventry City vs Hull City",
       "thumbnail_url": "https://img.refooty.com/thumbnail/coventry-city-v-hull-city-2026-08-29-yALx.webp",
@@ -702,211 +907,6 @@
         }
       },
       "description": "Watch Arsenal vs Coventry highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 21, 2026. The Premier League International Cup delivered a captivating spectacle as Arsenal faced off against Coventry City in a high-stakes encounter. On August 21, 2026 , over 60,000 fans gathered to witness a tactical battle where every movement on the pitch felt decisive from the opening whistle. Clinical First Half Performance Arsenal established their dominance early on, utilizing a high press that forced the visitors into critical errors. The breakthrough arrived in the 15th minute when a defensive lapse by Milan van Ewijk allowed Riccardo Calafiori to find Kai Havertz . The German forward made no mistake, slotting home with his left foot following a key pass from Christos Tzolis . The momentum stayed firmly with the Gunners, and by the 23rd minute, they doubled their lead. A misplay by goalkeeper Carl Rushworth left the ball loose in the area, and Bukayo Saka reacted quickest to fire it home. Despite the deficit, Coventry City showed flashes of brilliance. Loum Tchaouna nearly pulled one back with an audacious bicycle kick that sailed just wide of the post. The physical nature of the game was evident as both Caleb Yirenkyi and Gabriel received yellow cards for tactical fouls aimed at halting dangerous counter-attacks, keeping the tension high as the teams headed into the break. Securing the Result Any hopes of a Coventry City comeback were dampened shortly after the restart. In the 49th minute, Martin Oedegaard showcased his finishing ability, scoring with his right foot after being teed up by Ben White . The goal was the culmination of a smooth attacking move involving Bukayo Saka , further highlighting the fluid chemistry within the Arsenal ranks. As the half progressed, tactical substitutions saw the introduction of Mikel Merino and Noni Madueke , allowing the hosts to maintain control and a 65% possession rate. In the closing stages, Coventry pushed for a consolation goal. Jack Rudoni saw a goalbound header comfortably saved by David Raya , and deep into stoppage time, Eberechi Eze sent a direct free kick wide of the target. Ultimately, the Gunners' clinical finishing and superior ball retention ensured a deserved victory, leaving the home crowd satisfied with a professional and energetic display."
-    },
-    {
-      "title": "Manchester City vs Coventry City",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-city-v-coventry-city-2026-09-05-KXhF.webp",
-      "competition": "Premier League",
-      "competition_cover": "https://refooty.com/covers/premier-league.webp",
-      "date": "Sep 5, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1346.webp",
-          "name": "Coventry",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/50.webp",
-          "name": "Manchester City",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Manchester_City_v_Coventry_City_2026_09_05.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Coventry",
-          "player": "M. v. Ewijk",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Manchester City",
-          "player": "E. Haaland",
-          "event_type": "Goal",
-          "assist": "A. Semenyo",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "90+2'",
-          "team": "Coventry",
-          "player": "E. Pinnock",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Manchester City",
-          "player": "A. Khusanov",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Manchester City_wins": "2",
-          "draws": "1",
-          "Coventry_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "03/03/2002",
-            "competition": "Championship",
-            "teams_and_score": "Manchester City 4 - 2 Coventry City"
-          },
-          {
-            "date": "27/01/2001",
-            "competition": "FA Cup",
-            "teams_and_score": "Manchester City 1 - 0 Coventry City"
-          },
-          {
-            "date": "01/01/2001",
-            "competition": "Premier League",
-            "teams_and_score": "Coventry City 1 - 1 Manchester City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Manchester City",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Manchester City 1 - 0 Coventry City",
-              "result": "W"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Community Shield",
-              "teams_and_score": "Arsenal 3 - 0 Manchester City",
-              "result": "L"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Manchester City 1 - 2 Aston Villa",
-              "result": "L"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "FA Cup: Final",
-              "teams_and_score": "Chelsea 0 - 1 Manchester City",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Coventry",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Manchester City 1 - 0 Coventry City",
-              "result": "L"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Plymouth Argyle 2 - 4 Coventry City",
-              "result": "W"
-            },
-            {
-              "date": "21/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Arsenal 3 - 0 Coventry City",
-              "result": "L"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Coventry City 2 - 0 AS Monaco",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Coventry City 3 - 1 Espanyol",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Manchester City": "4",
-          "Coventry": "3"
-        },
-        "shots_off_target": {
-          "Manchester City": "5",
-          "Coventry": "6"
-        },
-        "shots_blocked": {
-          "Manchester City": "6",
-          "Coventry": "3"
-        },
-        "corners": {
-          "Manchester City": "4",
-          "Coventry": "5"
-        },
-        "fouls": {
-          "Manchester City": "7",
-          "Coventry": "17"
-        },
-        "offsides": {
-          "Manchester City": "5",
-          "Coventry": "2"
-        },
-        "yellow_cards": {
-          "Manchester City": "1",
-          "Coventry": "2"
-        },
-        "goalkeeper_saves": {
-          "Manchester City": "3",
-          "Coventry": "2"
-        },
-        "crosses": {
-          "Manchester City": "5",
-          "Coventry": "5"
-        },
-        "ball_possession": {
-          "Manchester City": "78%",
-          "Coventry": "22%"
-        }
-      },
-      "description": "Watch Manchester City vs Coventry highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 5, 2026. Two sides with vastly different ambitions met on the pitch for a clash that promised intensity and tactical intrigue. Fans gathered to see how the established giants would handle a determined underdog looking to make their mark on the big stage. Haaland Strikes as City Dominate On September 5, 2026 , Manchester City showcased their trademark control against a resilient Coventry side. The early stages were dominated by the home team, with Rayan Cherki coming agonizingly close in the 23rd minute when his powerful effort rattled the post. The breakthrough finally arrived in the 26th minute. Following a defensive lapse by goalkeeper Carl Rushworth , Antoine Semenyo turned provider, delivering a cross that Erling Haaland expertly headed home to give City the lead after key involvement from Enzo Fernandez . Coventry attempted to fight back immediately, and Jack Rudoni forced a comfortable save from Gianluigi Donnarumma with a header. Despite their spirited efforts, the visitors struggled to see much of the ball, as Manchester City maintained a staggering 78% possession throughout the contest, effectively neutralizing the opposition's attacking threats for long periods. Defensive Resilience and Late Drama As the second half progressed, Manchester City looked to double their advantage. Substitute Phil Foden thought he had found the net in the 79th minute, but his goal-bound shot was heroically hacked off the line by the Coventry defense. Tactical changes followed, with Ayyoub Bouaddi replacing Enzo Fernandez and Coventry introducing Gustavo Hamer and Ellis Simms to inject fresh energy into their pursuit of an equalizer. The closing stages were marred by rising tensions and a flurry of yellow cards. Ethan Pinnock was booked for a shirt-pull, and Abdukodir Khusanov received a caution for kicking the ball away in frustration during stoppage time. Coventry pushed forward in a final desperate attempt, but blocks from Marc Guehi and Josko Gvardiol ensured that the narrow lead remained intact until the final whistle."
     }
   ]
 }

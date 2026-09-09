@@ -1,9 +1,221 @@
 {
   "team": "Groningen",
   "team_logo": "https://img.refooty.com/logo/teams/202.webp",
-  "total_matches": 4,
-  "Last update time": "02:30:36 AM 10-09-2026",
+  "total_matches": 5,
+  "Last update time": "02:54:52 AM 10-09-2026",
   "matches": [
+    {
+      "title": "Groningen vs Twente",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/groningen-vs-twente-2026-09-06-Q3RE.webp",
+      "competition": "Eredivisie",
+      "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+      "date": "Sep 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/415.webp",
+          "name": "Twente",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/202.webp",
+          "name": "Groningen",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/groningen-vs-twente-2026-09-06.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Twente",
+          "player": "M. Pjaca",
+          "event_type": "Goal",
+          "assist": "W. Weghorst",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Twente",
+          "player": "R. Zerrouki",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Groningen",
+          "player": "T. V. Bergen",
+          "event_type": "Goal",
+          "assist": "D. V. d. Werff",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Groningen",
+          "player": "T. Land",
+          "event_type": "Goal",
+          "assist": "T. Blokzijl",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Twente",
+          "player": "W. Weghorst",
+          "event_type": "Goal",
+          "assist": "Y. Taha",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Groningen",
+          "player": "M. Csinger",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Groningen_wins": "0",
+          "draws": "3",
+          "Twente_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "22/02/2026",
+            "competition": "Eredivisie",
+            "teams_and_score": "FC Twente 2 - 1 FC Groningen"
+          },
+          {
+            "date": "01/03/2025",
+            "competition": "Eredivisie",
+            "teams_and_score": "FC Groningen 1 - 1 FC Twente"
+          },
+          {
+            "date": "05/02/2023",
+            "competition": "Eredivisie 22/23",
+            "teams_and_score": "FC Groningen 1 - 1 FC Twente"
+          },
+          {
+            "date": "11/05/2022",
+            "competition": "Eredivisie 21/22",
+            "teams_and_score": "FC Twente 3 - 0 FC Groningen"
+          },
+          {
+            "date": "17/01/2021",
+            "competition": "Eredivisie 20/21",
+            "teams_and_score": "FC Groningen 2 - 2 FC Twente"
+          }
+        ],
+        "home_team_form": {
+          "team": "Groningen",
+          "form": [
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "FC Groningen 2 - 2 FC Twente",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Groningen 1 - 0 Real Valladolid",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Twente",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "FC Groningen 2 - 2 FC Twente",
+              "result": "D"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Qarabag FK 1 - 4 FC Twente",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "FC Twente 3 - 1 PEC Zwolle",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "DAC 1904 Dunajska Streda 3 - 3 FC Twente",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "SC Heerenveen 1 - 0 FC Twente",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Groningen": "4",
+          "Twente": "5"
+        },
+        "shots_off_target": {
+          "Groningen": "5",
+          "Twente": "10"
+        },
+        "shots_blocked": {
+          "Groningen": "12",
+          "Twente": "1"
+        },
+        "corners": {
+          "Groningen": "8",
+          "Twente": "2"
+        },
+        "fouls": {
+          "Groningen": "6",
+          "Twente": "9"
+        },
+        "offsides": {
+          "Groningen": "2",
+          "Twente": "1"
+        },
+        "yellow_cards": {
+          "Groningen": "1",
+          "Twente": "1"
+        },
+        "goalkeeper_saves": {
+          "Groningen": "3",
+          "Twente": "2"
+        },
+        "crosses": {
+          "Groningen": "3",
+          "Twente": "6"
+        },
+        "ball_possession": {
+          "Groningen": "46%",
+          "Twente": "54%"
+        }
+      },
+      "description": "Watch Groningen vs Twente highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on September 6, 2026. In an electric encounter in the Eredivisie , two determined sides looked to gain the upper hand in front of 21,435 spectators on September 6, 2026. A blistering start The match kicked off with remarkable intensity. Within just six minutes, Twente drew first blood as Marko Pjaca capitalized on a Wout Weghorst assist to score with his left foot, following a misstep by the goalkeeper. However, FC Groningen showed immediate resilience. By the 18th minute, Thom van Bergen leveled the score with his left foot after a precise assist from David van der Werff . The hosts kept their momentum going, and in the 29th minute, Tygo Land put FC Groningen in front, finding the back of the net with his right foot following a key pass from Thijmen Blokzijl . The ebb and flow of the game was relentless, and just before the interval, Twente pulled back level. In the 40th minute, Wout Weghorst struck with his right foot to make it 2-2, courtesy of a vital pass from Robin Propper . Tactical stalemate The second half evolved into a tactical battle, with both managers utilizing the bench to find a breakthrough. From the 60th minute onwards, a wave of substitutions aimed to tilt the balance, yet the defenses tightened up. FC Groningen pushed hard with several corner kicks, but the Twente backline—led by the efforts of Robin Propper and Bart van Rooij —stood firm to clear the pressure. Despite a flurry of late energy, neither side could find the elusive winner, ending a high-stakes match in a hard-fought draw."
+    },
     {
       "title": "PSV Eindhoven vs Groningen",
       "thumbnail_url": "https://img.refooty.com/thumbnail/psv-eindhoven-vs-groningen-2026-08-23-ae91.webp",

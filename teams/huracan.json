@@ -2,8 +2,229 @@
   "team": "Huracan",
   "team_logo": "https://img.refooty.com/logo/teams/445.webp",
   "total_matches": 7,
-  "Last update time": "02:30:36 AM 10-09-2026",
+  "Last update time": "02:54:52 AM 10-09-2026",
   "matches": [
+    {
+      "title": "Belgrano - Huracan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/belgrano-huracan-2026-09-05-ibif.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Sep 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/445.webp",
+          "name": "Huracan",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/440.webp",
+          "name": "Belgrano Cordoba",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/belgrano-huracan-2026-09-05.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Belgrano Cordoba",
+          "player": "E. Rigoni",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Belgrano Cordoba",
+          "player": "L. Lopez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Belgrano Cordoba",
+          "player": "N. Fernandez",
+          "event_type": "Goal",
+          "assist": "R. Hernandes",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "83'",
+          "team": "Huracan",
+          "player": "C. Ibanez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "84'",
+          "team": "Huracan",
+          "player": "J. Caicedo",
+          "event_type": "Goal",
+          "assist": "C. Ibanez",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "90+4'",
+          "team": "Huracan",
+          "player": "J. Caicedo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+9'",
+          "team": "Belgrano Cordoba",
+          "player": "L. Passerini",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Belgrano Cordoba_wins": "2",
+          "draws": "4",
+          "Huracan_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "03/03/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "CA Huracan 3 - 1 Belgrano"
+          },
+          {
+            "date": "12/07/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "CA Huracan 0 - 3 Belgrano"
+          },
+          {
+            "date": "25/01/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Belgrano 1 - 1 CA Huracan"
+          },
+          {
+            "date": "18/08/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "CA Huracan 1 - 0 Belgrano"
+          },
+          {
+            "date": "12/04/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Belgrano 2 - 0 CA Huracan"
+          },
+          {
+            "date": "30/09/2018",
+            "competition": "Superliga",
+            "teams_and_score": "Belgrano 0 - 1 CA Huracan"
+          },
+          {
+            "date": "26/06/2017",
+            "competition": "Primera Division",
+            "teams_and_score": "CA Huracan 0 - 0 Belgrano"
+          }
+        ],
+        "home_team_form": {
+          "team": "Belgrano Cordoba",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Belgrano 1 - 1 CA Huracan",
+              "result": "D"
+            },
+            {
+              "date": "19/08/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Racing Club 1 - 0 Belgrano",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Belgrano 2 - 0 Independiente Rivadavia",
+              "result": "L"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "CA Gimnasia de Jujuy 2 - 2 Belgrano",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Huracan",
+          "form": [
+            "D",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Belgrano 1 - 1 CA Huracan",
+              "result": "D"
+            },
+            {
+              "date": "03/06/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Barracas Central 1 - 0 CA Huracan",
+              "result": "L"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Argentinos Juniors 1 - 0 CA Huracan",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Belgrano Cordoba": "8",
+          "Huracan": "3"
+        },
+        "shots_off_target": {
+          "Belgrano Cordoba": "9",
+          "Huracan": "2"
+        },
+        "shots_blocked": {
+          "Belgrano Cordoba": "4",
+          "Huracan": "2"
+        },
+        "corners": {
+          "Belgrano Cordoba": "6",
+          "Huracan": "3"
+        },
+        "fouls": {
+          "Belgrano Cordoba": "10",
+          "Huracan": "9"
+        },
+        "offsides": {
+          "Belgrano Cordoba": "0",
+          "Huracan": "1"
+        },
+        "yellow_cards": {
+          "Belgrano Cordoba": "2",
+          "Huracan": "2"
+        },
+        "goalkeeper_saves": {
+          "Belgrano Cordoba": "2",
+          "Huracan": "7"
+        },
+        "ball_possession": {
+          "Belgrano Cordoba": "55%",
+          "Huracan": "45%"
+        }
+      },
+      "description": "Watch Belgrano Cordoba vs Huracan highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The clash between Belgrano Cordoba and Huracan on September 5, 2026 , was a high-stakes encounter in the Liga Profesional Argentina . Both sides entered the pitch with plenty to prove, creating an atmosphere of anticipation as the tactical battle unfolded in front of a passionate crowd. Tense Opening Exchange The match began with a gritty display of football, as both teams struggled to find space in a crowded midfield. Discipline was tested early on, with Emiliano Ariel Rigoni receiving a yellow card for Belgrano in the 24th minute. The physical nature of the contest continued when Huracan 's Lisandro Lopez was booked ten minutes later. Despite several attempts to break the lines, neither side could find the decisive touch in the final third, leading to a scoreless first half defined by defensive organization. Second Half Breakthrough The intensity shifted after the break, and the deadlock was finally broken in the 61st minute. Ramiro Hernandes , who provided a spark off the bench, set up Nicolas Fernandez for a clinical finish to give Belgrano the lead. The home side's joy was palpable, but Huracan refused to capitulate. As the clock wound down, the visitors found their equalizer in the 84th minute. Cesar Ibanez turned provider for Jordy Caicedo , who slotted the ball home to silence the home fans and set up a grandstand finish. Late Drama in Cordoba The closing stages were filled with incident and emotional swings. Jordy Caicedo picked up a booking in the 94th minute, but the true climax arrived deep into stoppage time. In the 99th minute, Belgrano was awarded a penalty with a chance to snatch all three points. Lucas Passerini stepped up to the spot, but he failed to convert his effort, much to the disbelief of the stadium. The referee blew the final whistle moments later, confirming a 1-1 draw that left both teams reflecting on what might have been."
+    },
     {
       "title": "Huracán - Estudiantes de Río Cuarto",
       "thumbnail_url": "https://img.refooty.com/thumbnail/huracan-estudiantes-de-rio-cuarto-2026-08-30-T37t.webp",
@@ -374,227 +595,6 @@
         }
       },
       "description": "Watch Huracan vs Deportivo Riestra highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 23, 2026. In a match defined by physical intensity and disciplined tactical setups, Huracán and Deportivo Riestra locked horns in a grueling contest. Played on August 23, 2026, the game demanded unwavering focus from both sides as they vied for control in the Liga Profesional Argentina . A Battle of Attrition From the opening whistle, it was clear that neither side would concede space easily. The first half was a cagey affair, with both teams probing for openings but finding the opposing backlines resolute. The referee was forced to intervene early to control the intensity, with Facundo Mino picking up a yellow card in the 28th minute, setting a precedent for a scrappy and competitive encounter. Tactical Adjustments and Late Efforts Following the halftime interval, the match flow saw several shifts as managers turned to their benches. Mariano Bracamonte was cautioned in the 60th minute, shortly before a flurry of substitutions aimed at injecting fresh energy into the match. As the game entered its closing stages, the tension grew, leading to yellow cards for Ignacio Gariglio and Jonatan Goitia in the 76th minute. Despite the introduction of players like Pablo Monje and Alexander Diaz to provide a late attacking spark, neither team could unlock the defense. When the referee finally signaled for full time, the scoreboard remained untouched, reflecting a day where both defenses stood tall."
-    },
-    {
-      "title": "Belgrano - Huracan",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/belgrano-huracan-2026-09-05-ibif.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Sep 5, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/445.webp",
-          "name": "Huracan",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/440.webp",
-          "name": "Belgrano Cordoba",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/belgrano-huracan-2026-09-05.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Belgrano Cordoba",
-          "player": "E. Rigoni",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Belgrano Cordoba",
-          "player": "L. Lopez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Belgrano Cordoba",
-          "player": "N. Fernandez",
-          "event_type": "Goal",
-          "assist": "R. Hernandes",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "83'",
-          "team": "Huracan",
-          "player": "C. Ibanez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "84'",
-          "team": "Huracan",
-          "player": "J. Caicedo",
-          "event_type": "Goal",
-          "assist": "C. Ibanez",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "90+4'",
-          "team": "Huracan",
-          "player": "J. Caicedo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+9'",
-          "team": "Belgrano Cordoba",
-          "player": "L. Passerini",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Belgrano Cordoba_wins": "2",
-          "draws": "4",
-          "Huracan_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "03/03/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "CA Huracan 3 - 1 Belgrano"
-          },
-          {
-            "date": "12/07/2025",
-            "competition": "Primera Division: Clausura",
-            "teams_and_score": "CA Huracan 0 - 3 Belgrano"
-          },
-          {
-            "date": "25/01/2025",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Belgrano 1 - 1 CA Huracan"
-          },
-          {
-            "date": "18/08/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "CA Huracan 1 - 0 Belgrano"
-          },
-          {
-            "date": "12/04/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Belgrano 2 - 0 CA Huracan"
-          },
-          {
-            "date": "30/09/2018",
-            "competition": "Superliga",
-            "teams_and_score": "Belgrano 0 - 1 CA Huracan"
-          },
-          {
-            "date": "26/06/2017",
-            "competition": "Primera Division",
-            "teams_and_score": "CA Huracan 0 - 0 Belgrano"
-          }
-        ],
-        "home_team_form": {
-          "team": "Belgrano Cordoba",
-          "form": [
-            "D",
-            "L",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/09/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Belgrano 1 - 1 CA Huracan",
-              "result": "D"
-            },
-            {
-              "date": "19/08/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Racing Club 1 - 0 Belgrano",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Belgrano 2 - 0 Independiente Rivadavia",
-              "result": "L"
-            },
-            {
-              "date": "30/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "CA Gimnasia de Jujuy 2 - 2 Belgrano",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Huracan",
-          "form": [
-            "D",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/09/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Belgrano 1 - 1 CA Huracan",
-              "result": "D"
-            },
-            {
-              "date": "03/06/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Barracas Central 1 - 0 CA Huracan",
-              "result": "L"
-            },
-            {
-              "date": "13/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "Argentinos Juniors 1 - 0 CA Huracan",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Belgrano Cordoba": "8",
-          "Huracan": "3"
-        },
-        "shots_off_target": {
-          "Belgrano Cordoba": "9",
-          "Huracan": "2"
-        },
-        "shots_blocked": {
-          "Belgrano Cordoba": "4",
-          "Huracan": "2"
-        },
-        "corners": {
-          "Belgrano Cordoba": "6",
-          "Huracan": "3"
-        },
-        "fouls": {
-          "Belgrano Cordoba": "10",
-          "Huracan": "9"
-        },
-        "offsides": {
-          "Belgrano Cordoba": "0",
-          "Huracan": "1"
-        },
-        "yellow_cards": {
-          "Belgrano Cordoba": "2",
-          "Huracan": "2"
-        },
-        "goalkeeper_saves": {
-          "Belgrano Cordoba": "2",
-          "Huracan": "7"
-        },
-        "ball_possession": {
-          "Belgrano Cordoba": "55%",
-          "Huracan": "45%"
-        }
-      },
-      "description": "Watch Belgrano Cordoba vs Huracan highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The clash between Belgrano Cordoba and Huracan on September 5, 2026 , was a high-stakes encounter in the Liga Profesional Argentina . Both sides entered the pitch with plenty to prove, creating an atmosphere of anticipation as the tactical battle unfolded in front of a passionate crowd. Tense Opening Exchange The match began with a gritty display of football, as both teams struggled to find space in a crowded midfield. Discipline was tested early on, with Emiliano Ariel Rigoni receiving a yellow card for Belgrano in the 24th minute. The physical nature of the contest continued when Huracan 's Lisandro Lopez was booked ten minutes later. Despite several attempts to break the lines, neither side could find the decisive touch in the final third, leading to a scoreless first half defined by defensive organization. Second Half Breakthrough The intensity shifted after the break, and the deadlock was finally broken in the 61st minute. Ramiro Hernandes , who provided a spark off the bench, set up Nicolas Fernandez for a clinical finish to give Belgrano the lead. The home side's joy was palpable, but Huracan refused to capitulate. As the clock wound down, the visitors found their equalizer in the 84th minute. Cesar Ibanez turned provider for Jordy Caicedo , who slotted the ball home to silence the home fans and set up a grandstand finish. Late Drama in Cordoba The closing stages were filled with incident and emotional swings. Jordy Caicedo picked up a booking in the 94th minute, but the true climax arrived deep into stoppage time. In the 99th minute, Belgrano was awarded a penalty with a chance to snatch all three points. Lucas Passerini stepped up to the spot, but he failed to convert his effort, much to the disbelief of the stadium. The referee blew the final whistle moments later, confirming a 1-1 draw that left both teams reflecting on what might have been."
     },
     {
       "title": "San Lorenzo - Huracan",

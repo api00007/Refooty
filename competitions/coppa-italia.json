@@ -2,23 +2,516 @@
   "competition": "Coppa Italia",
   "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
   "total_matches": 9,
-  "Last update time": "02:30:35 AM 10-09-2026",
+  "Last update time": "02:54:51 AM 10-09-2026",
   "matches": [
     {
-      "title": "Parma vs Catania",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/parma-vs-catania-2026-08-14-pugr.webp",
+      "title": "Cagliari vs Verona",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/cagliari-v-verona-2026-09-03-8HDe.webp",
       "competition": "Coppa Italia",
       "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
-      "date": "Aug 14, 2026",
+      "date": "Sep 3, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1580.webp",
-          "name": "Catania",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/504.webp",
+          "name": "Verona",
+          "score": "2"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/523.webp",
-          "name": "Parma",
+          "logo": "https://img.refooty.com/logo/teams/490.webp",
+          "name": "Cagliari",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Cagliari_v_Verona_2026_09_03.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Verona",
+          "player": "A. Harroui",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Cagliari",
+          "player": "P. Mendy",
+          "event_type": "Goal",
+          "assist": "A. Fadera",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Verona",
+          "player": "E. Iannoni",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Cagliari",
+          "player": "M. Adopo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Verona",
+          "player": "S. Korac",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Verona",
+          "player": "S. Mulattieri",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Cagliari_wins": "2",
+          "draws": "1",
+          "Verona_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "31/01/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Cagliari 4 - 0 Hellas Verona"
+          },
+          {
+            "date": "28/04/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Hellas Verona 0 - 2 Cagliari"
+          },
+          {
+            "date": "01/04/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Cagliari 1 - 1 Hellas Verona"
+          },
+          {
+            "date": "30/04/2022",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Cagliari 1 - 2 Hellas Verona"
+          },
+          {
+            "date": "03/04/2021",
+            "competition": "Serie A 20/21",
+            "teams_and_score": "Cagliari 0 - 2 Hellas Verona"
+          }
+        ],
+        "home_team_form": {
+          "team": "Cagliari",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Cagliari 1 - 2 Hellas Verona",
+              "result": "L"
+            },
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Cagliari 0 - 1 Inter",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Cagliari 1 - 0 S.S. Arezzo",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Cagliari 0 - 0 Nice",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Union Berlin 2 - 2 Cagliari",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Verona",
+          "form": [
+            "W",
+            "D",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Cagliari 1 - 2 Hellas Verona",
+              "result": "W"
+            },
+            {
+              "date": "29/08/2026",
+              "competition": "Serie B",
+              "teams_and_score": "Calcio Padova 1 - 1 Hellas Verona",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Hellas Verona 2 - 2 Virtus Entella",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Hellas Verona 0 - 2 AS Roma",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Cagliari": "4",
+          "Verona": "5"
+        },
+        "shots_off_target": {
+          "Cagliari": "3",
+          "Verona": "2"
+        },
+        "shots_blocked": {
+          "Cagliari": "6",
+          "Verona": "2"
+        },
+        "corners": {
+          "Cagliari": "6",
+          "Verona": "2"
+        },
+        "fouls": {
+          "Cagliari": "8",
+          "Verona": "17"
+        },
+        "offsides": {
+          "Cagliari": "2",
+          "Verona": "1"
+        },
+        "yellow_cards": {
+          "Cagliari": "1",
+          "Verona": "2"
+        },
+        "goalkeeper_saves": {
+          "Cagliari": "3",
+          "Verona": "3"
+        },
+        "ball_possession": {
+          "Cagliari": "60%",
+          "Verona": "40%"
+        }
+      },
+      "description": "Watch Cagliari vs Verona highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on September 3, 2026."
+    },
+    {
+      "title": "Sassuolo vs Frosinone",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sassuolo-v-frosinone-2026-09-02-yDfd.webp",
+      "competition": "Coppa Italia",
+      "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
+      "date": "Sep 2, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/512.webp",
+          "name": "Frosinone",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/488.webp",
+          "name": "Sassuolo",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Sassuolo_v_Frosinone_2026_09_02.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "36'",
+          "team": "Sassuolo",
+          "player": "B. Dominguez",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "45+2'",
+          "team": "Frosinone",
+          "player": "A. Terzić",
+          "event_type": "Goal",
+          "assist": "L. Hasa",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Frosinone",
+          "player": "K. Akpoguma",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Sassuolo",
+          "player": "S. Cinquegrano",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Sassuolo",
+          "player": "S. Turati",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Frosinone",
+          "player": "P. Masini",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "PEN 1",
+          "team": "Sassuolo",
+          "player": "D. Berardi",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "PEN 1",
+          "team": "Frosinone",
+          "player": "T. Bobcek",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "PEN 2",
+          "team": "Sassuolo",
+          "player": "S. Esposito",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "PEN 2",
+          "team": "Frosinone",
+          "player": "O. Fayed",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "PEN 3",
+          "team": "Sassuolo",
+          "player": "K. Thorstvedt",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "PEN 3",
+          "team": "Frosinone",
+          "player": "A. Zerbin",
+          "event_type": "Goal",
+          "score_update": "2 - 3"
+        },
+        {
+          "time": "PEN 4",
+          "team": "Sassuolo",
+          "player": "D. Bakola",
+          "event_type": "Goal",
+          "score_update": "4 - 3"
+        },
+        {
+          "time": "PEN 4",
+          "team": "Frosinone",
+          "player": "W. Amey",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "PEN 5",
+          "team": "Frosinone",
+          "player": "L. Hasa",
+          "event_type": "Goal",
+          "score_update": "4 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Sassuolo_wins": "2",
+          "draws": "1",
+          "Frosinone_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "13/05/2025",
+            "competition": "Serie B",
+            "teams_and_score": "Sassuolo 0 - 1 Frosinone"
+          },
+          {
+            "date": "09/03/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Sassuolo 1 - 0 Frosinone"
+          },
+          {
+            "date": "05/05/2019",
+            "competition": "Serie A",
+            "teams_and_score": "Sassuolo 2 - 2 Frosinone"
+          },
+          {
+            "date": "21/05/2011",
+            "competition": "Serie Bwin",
+            "teams_and_score": "Frosinone 1 - 2 Sassuolo"
+          }
+        ],
+        "home_team_form": {
+          "team": "Sassuolo",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Sassuolo 1 - 1 Frosinone",
+              "result": "D"
+            },
+            {
+              "date": "29/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Sassuolo 2 - 1 Torino",
+              "result": "W"
+            },
+            {
+              "date": "17/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Sassuolo 3 - 0 Cesena FC",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Augsburg 3 - 2 Sassuolo",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Frosinone",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Sassuolo 1 - 1 Frosinone",
+              "result": "D"
+            },
+            {
+              "date": "29/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Fiorentina 0 - 3 Frosinone",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Frosinone 4 - 1 Juve Stabia",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Frosinone 1 - 2 Lazio",
+              "result": "L"
+            },
+            {
+              "date": "08/05/2026",
+              "competition": "Serie B",
+              "teams_and_score": "Frosinone 5 - 0 Mantova",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sassuolo": "3",
+          "Frosinone": "6"
+        },
+        "shots_off_target": {
+          "Sassuolo": "3",
+          "Frosinone": "4"
+        },
+        "shots_blocked": {
+          "Sassuolo": "1",
+          "Frosinone": "4"
+        },
+        "corners": {
+          "Sassuolo": "6",
+          "Frosinone": "4"
+        },
+        "fouls": {
+          "Sassuolo": "12",
+          "Frosinone": "19"
+        },
+        "offsides": {
+          "Sassuolo": "0",
+          "Frosinone": "3"
+        },
+        "yellow_cards": {
+          "Sassuolo": "2",
+          "Frosinone": "2"
+        },
+        "goalkeeper_saves": {
+          "Sassuolo": "5",
+          "Frosinone": "2"
+        },
+        "ball_possession": {
+          "Sassuolo": "48%",
+          "Frosinone": "52%"
+        }
+      },
+      "description": "Watch Sassuolo vs Frosinone highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on September 2, 2026. The Coppa Italia delivered a night of high tension on September 2, 2026 , as Sassuolo and Frosinone locked horns in a knockout clash that tested the nerves of both sets of supporters. Both teams entered the pitch with high ambitions, resulting in a physical and tactical battle that remained undecided until the very last moments. First Half Resilience and Equalizer The match ignited in the 36th minute when Frosinone broke the deadlock. Benjamin Dominguez proved to be the difference-maker in the early stages, finding the net to give the visitors a crucial lead. Sassuolo , determined not to let the game slip away at home, ramped up the pressure as the first half drew to a close. Their persistence paid off in stoppage time. In the 45+2nd minute, Luis Hasa provided a pinpoint assist for Aleksa Terzic , who clinicaly finished the chance to level the score. The equalizer just before the interval shifted the momentum, leaving both managers with plenty to discuss during the break after an intense opening 45 minutes. Tactical Shifts and Defensive Discipline The second half was characterized by a series of tactical adjustments and rising temperatures on the field. Discipline became a factor as the referee issued yellow cards to Kevin Akpoguma , Simone Cinquegrano , and Stefano Turati . Substitutions followed as both sides searched for a winner; Domenico Berardi and Armand Lauriente were introduced for Sassuolo , while Frosinone brought on Tomas Bobcek to bolster their attack. Despite the fresh legs and late-game pressure, neither side could find the decisive goal in regulation time. As the final whistle blew with the score still locked at 1-1, the match headed into a dramatic penalty shootout to determine who would progress to the next round. Penalty Shootout Drama The shootout began with immediate heartbreak for the home side as Luis Hasa and Wisdom Amey missed their attempts. Although Kristian Thorstvedt , Sebastiano Esposito , and Domenico Berardi all converted their spot-kicks, the early misses put Sassuolo in a difficult position. Frosinone , conversely, showed remarkable composure from the spot. Darryl Bakola , Alessio Zerbin , Omar Fayed , and finally Tomas Bobcek all found the back of the net with clinical precision. Their flawless execution in the shootout secured Frosinone 's victory, marking a successful night in the Coppa Italia and sending them through to the next stage of the competition."
+    },
+    {
+      "title": "Udinese vs Venezia",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/udinese-v-venezia-2026-09-02-ERGV.webp",
+      "competition": "Coppa Italia",
+      "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
+      "date": "Sep 2, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/517.webp",
+          "name": "Venezia",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/494.webp",
+          "name": "Udinese",
           "score": "2"
         },
         "status": "FT"
@@ -26,162 +519,197 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/parma-vs-catania-2026-08-14_RpK1g.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/Udinese_v_Venezia_2026_09_02.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Parma",
-          "player": "S. Lontani",
+          "team": "Venezia",
+          "player": "R. Sagrado",
           "event_type": "Goal",
-          "score_update": "1 - 0"
+          "score_update": "0 - 1"
         },
         {
           "time": "16'",
-          "team": "Parma",
-          "player": "S. Lontani",
+          "team": "Udinese",
+          "player": "N. Bertola",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Udinese",
+          "player": "V. Bayo",
           "event_type": "Goal",
-          "score_update": "2 - 0"
+          "assist": "M. Vojvoda",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Udinese",
+          "player": "V. Bayo",
+          "event_type": "Goal",
+          "assist": "K. Davis",
+          "score_update": "2 - 1"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Parma_wins": "0",
-          "draws": "2",
-          "Catania_wins": "1"
+          "Udinese_wins": "3",
+          "draws": "1",
+          "Venezia_wins": "1"
         },
         "previous_matches": [
           {
-            "date": "09/02/2014",
-            "competition": "Serie A",
-            "teams_and_score": "Parma 0 - 0 Catania"
+            "date": "01/02/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Udinese 3 - 2 Venezia"
           },
           {
-            "date": "12/12/2012",
-            "competition": "Coppa Italia",
-            "teams_and_score": "Parma 1 - 1 Catania"
+            "date": "10/04/2022",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Venezia 1 - 2 Udinese"
           },
           {
-            "date": "07/10/2012",
+            "date": "13/09/2020",
+            "competition": "Club Friendlies 2020",
+            "teams_and_score": "Udinese 0 - 1 Venezia"
+          },
+          {
+            "date": "12/10/2019",
+            "competition": "Club Friendlies 2019",
+            "teams_and_score": "Udinese 1 - 1 Venezia"
+          },
+          {
+            "date": "21/04/2002",
             "competition": "Serie A",
-            "teams_and_score": "Catania 2 - 0 Parma"
+            "teams_and_score": "Udinese 1 - 0 Venezia"
           }
         ],
         "home_team_form": {
-          "team": "Parma",
+          "team": "Udinese",
           "form": [
             "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Udinese 2 - 1 Venezia",
+              "result": "W"
+            },
+            {
+              "date": "29/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Monza 2 - 3 Udinese",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Udinese 1 - 0 Calcio Padova",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Udinese 1 - 0 Barcelona",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Trabzonspor 1 - 0 Udinese",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Venezia",
+          "form": [
             "L",
+            "L",
+            "W",
             "D",
             "W"
           ],
           "recent_matches": [
             {
-              "date": "14/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Parma 2 - 0 Catania",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Parma 0 - 2 Sampdoria",
+              "date": "02/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Udinese 2 - 1 Venezia",
               "result": "L"
             },
             {
-              "date": "02/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Parma 1 - 1 Iraklis",
-              "result": "D"
+              "date": "28/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "AC Milan 2 - 0 Venezia",
+              "result": "L"
             },
             {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Parma 1 - 0 Sassuolo",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Catania",
-          "form": [
-            "L",
-            "D",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "14/08/2026",
+              "date": "15/08/2026",
               "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Parma 2 - 0 Catania",
-              "result": "L"
+              "teams_and_score": "Venezia 3 - 2 Modena",
+              "result": "W"
             },
             {
               "date": "08/08/2026",
-              "competition": "Coppa Italia: Preliminary Round",
-              "teams_and_score": "L.R. Vicenza 1 - 1 Catania",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brest 2 - 2 Venezia",
               "result": "D"
             },
             {
-              "date": "27/05/2026",
-              "competition": "Serie C: Promotion Play-off",
-              "teams_and_score": "Catania 2 - 1 Ascoli",
+              "date": "08/05/2026",
+              "competition": "Serie B",
+              "teams_and_score": "Venezia 2 - 0 Palermo",
               "result": "W"
-            },
-            {
-              "date": "26/04/2026",
-              "competition": "Serie C: Group C",
-              "teams_and_score": "Atalanta U23 1 - 1 Catania",
-              "result": "D"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Parma": "8",
-          "Catania": "2"
+          "Udinese": "8",
+          "Venezia": "4"
         },
         "shots_off_target": {
-          "Parma": "1",
-          "Catania": "2"
+          "Udinese": "6",
+          "Venezia": "6"
         },
         "shots_blocked": {
-          "Parma": "3",
-          "Catania": "2"
+          "Udinese": "2",
+          "Venezia": "1"
         },
         "corners": {
-          "Parma": "3",
-          "Catania": "5"
+          "Udinese": "8",
+          "Venezia": "2"
         },
         "fouls": {
-          "Parma": "19",
-          "Catania": "8"
+          "Udinese": "18",
+          "Venezia": "8"
         },
         "offsides": {
-          "Parma": "1",
-          "Catania": "2"
+          "Udinese": "2",
+          "Venezia": "2"
         },
         "yellow_cards": {
-          "Parma": "1",
-          "Catania": "2"
+          "Udinese": "1",
+          "Venezia": "0"
         },
         "goalkeeper_saves": {
-          "Parma": "2",
-          "Catania": "6"
-        },
-        "crosses": {
-          "Parma": "3",
-          "Catania": "4"
+          "Udinese": "3",
+          "Venezia": "6"
         },
         "ball_possession": {
-          "Parma": "34%",
-          "Catania": "66%"
+          "Udinese": "35%",
+          "Venezia": "65%"
         }
       },
-      "description": "Watch Parma vs Catania highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on August 14, 2026. The Coppa Italia brought a fascinating clash between Parma and Catania on August 14, 2026, as both sides aimed to secure their place in the next round of the tournament. The atmosphere was charged with expectation for a match that promised tactical depth and individual brilliance. Lontani's First-Half Masterclass Parma took control of the proceedings early on, utilizing high pressure to disrupt Catania 's buildup play. After initial efforts from Adrián Bernabé and El Bilal Touré , the deadlock was finally broken in the 19th minute. Following a corner delivered by Emanuele Valeri , the ball fell to Simone Lontani , who fired a precise right-footed shot into the top right corner to give the hosts the lead. Catania attempted to respond immediately and nearly equalized in the 24th minute when Simone Leonardi tested the reflexes of Edoardo Corvi with a dangerous strike. However, it was Parma who struck again during a lethal counter-attack in the 35th minute. El Bilal Touré burst forward and provided a perfect cross for Simone Lontani , who made no mistake from close range to double his tally and the lead before the break. Management and Defensive Resilience Returning from the locker rooms, Catania introduced tactical changes with the arrivals of Alessandro Raimo and Michael Liguori to try and alter the course of the match. The Sicilian side came close to reducing the deficit through an Andrea Allegretto header, but Edoardo Corvi shone again with a steady save in the bottom corner. Catania goalkeeper Filippo Rinaldi also played a key role in preventing a heavier scoreline, stopping dangerous attempts from Enrico Delprato and Sascha Britschgi . In the final stages, the tempo slowed as both managers turned to their benches, including the introductions of Mandela Keita and Franco Carboni for Parma . Despite Catania 's late efforts, the home defense remained solid, securing a professional victory and progression to the next stage."
+      "description": "Watch Udinese vs Venezia highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on September 2, 2026. The tension of knockout football returned as Udinese and Venezia locked horns in a highly anticipated Coppa Italia fixture. Fans gathered on 2026-09-02 to witness which side would seize the initiative in this high-stakes cup encounter. Udinese Take Charge Early The match ignited almost immediately with Udinese showing clinical intent from the opening whistle. In the 9th minute, Richie Sagrado broke the deadlock with a well-taken goal, putting the hosts firmly in the driving seat. Venezia struggled to contain the early pressure, leading to a yellow card for Nicolo Bertola shortly after. The momentum stayed with the home side throughout the first half, and their persistence paid off again in the 34th minute when Vakoun Issouf Bayo found the net, courtesy of a precise assist from Mergim Vojvoda . Clinical Finishing and Tactical Control As the second half got underway, the home side showed no signs of slowing down despite a tactical change from the visitors that saw James Abankwah replace Bertola . In the 53rd minute, Vakoun Issouf Bayo struck again to secure his brace, finishing a move started by Keinan Davis . With a three-goal cushion, the match entered a phase of heavy rotations. Managers utilized their benches extensively, with Idrissa Gueye , Hassane Kamara , and Enzo Ebosse entering for Udinese , while Venezia introduced Akor Adams in hopes of a late resurgence. However, the hosts maintained their defensive discipline until the final whistle blew at 90+4 minutes."
     },
     {
       "title": "Torino vs Monza",
@@ -1168,711 +1696,183 @@
       "description": "Watch Fiorentina vs Benevento highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on August 14, 2026. The Coppa Italia returned to the spotlight on August 14, 2026, as Fiorentina and Benevento faced off in a highly anticipated knockout encounter. Fans at the stadium were treated to a match filled with tactical intensity and a flurry of offensive actions from the very first whistle. Early Dominance from the Viola Fiorentina wasted no time in asserting their authority on home turf. In just the 2nd minute, Albert Gudmundsson sent the crowd into a frenzy by nodding home a header from point-blank range. Despite the early setback, Benevento attempted to fight back, with Davide Lamesta testing the legendary David de Gea with several long-range efforts. However, the hosts doubled their advantage in the 35th minute when Moise Kean clinicaly finished a cross from João Mário , sending the Viola into the break with a commanding lead. A Second Half Scoring Blitz The momentum stayed firmly with the home side as the second half commenced. Within five minutes of the restart, the match was effectively put out of reach. First, Luca Ranieri rose highest to head home from a corner in the 48th minute, assisted by Radu Dragusin . Just two minutes later, Cher Ndour made it four with a precise left-footed strike into the bottom corner. Fiorentina's relentless pressure left the visitors struggling to find answers in a chaotic opening to the period. Consolation and Professional Closing Benevento did manage to find a spark of hope in the 54th minute when Davide Lamesta unleashed a powerful strike from outside the box to beat De Gea . The visitors introduced Simone Verdi and David Okereke in an attempt to claw further back into the game, but the Fiorentina defense remained organized. As the clock wound down, yellow cards for Christ Inao Oulaï and Pietro Beruatto highlighted the competitive edge of the tie. Ultimately, Fiorentina secured a comfortable 4-1 victory, progressing in the tournament with style and efficiency."
     },
     {
-      "title": "Cagliari vs Verona",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/cagliari-v-verona-2026-09-03-8HDe.webp",
+      "title": "Parma vs Catania",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/parma-vs-catania-2026-08-14-pugr.webp",
       "competition": "Coppa Italia",
       "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
-      "date": "Sep 3, 2026",
+      "date": "Aug 14, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/504.webp",
-          "name": "Verona",
-          "score": "2"
+          "logo": "https://img.refooty.com/logo/teams/1580.webp",
+          "name": "Catania",
+          "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/490.webp",
-          "name": "Cagliari",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/523.webp",
+          "name": "Parma",
+          "score": "2"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Cagliari_v_Verona_2026_09_03.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/parma-vs-catania-2026-08-14_RpK1g.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Verona",
-          "player": "A. Harroui",
+          "team": "Parma",
+          "player": "S. Lontani",
           "event_type": "Goal",
-          "score_update": "0 - 1"
+          "score_update": "1 - 0"
         },
         {
-          "time": "46'",
-          "team": "Cagliari",
-          "player": "P. Mendy",
+          "time": "16'",
+          "team": "Parma",
+          "player": "S. Lontani",
           "event_type": "Goal",
-          "assist": "A. Fadera",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Verona",
-          "player": "E. Iannoni",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Cagliari",
-          "player": "M. Adopo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Verona",
-          "player": "S. Korac",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Verona",
-          "player": "S. Mulattieri",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
+          "score_update": "2 - 0"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Cagliari_wins": "2",
-          "draws": "1",
-          "Verona_wins": "2"
+          "Parma_wins": "0",
+          "draws": "2",
+          "Catania_wins": "1"
         },
         "previous_matches": [
           {
-            "date": "31/01/2026",
-            "competition": "Serie A 25/26",
-            "teams_and_score": "Cagliari 4 - 0 Hellas Verona"
+            "date": "09/02/2014",
+            "competition": "Serie A",
+            "teams_and_score": "Parma 0 - 0 Catania"
           },
           {
-            "date": "28/04/2025",
-            "competition": "Serie A 24/25",
-            "teams_and_score": "Hellas Verona 0 - 2 Cagliari"
+            "date": "12/12/2012",
+            "competition": "Coppa Italia",
+            "teams_and_score": "Parma 1 - 1 Catania"
           },
           {
-            "date": "01/04/2024",
-            "competition": "Serie A 23/24",
-            "teams_and_score": "Cagliari 1 - 1 Hellas Verona"
-          },
-          {
-            "date": "30/04/2022",
-            "competition": "Serie A 21/22",
-            "teams_and_score": "Cagliari 1 - 2 Hellas Verona"
-          },
-          {
-            "date": "03/04/2021",
-            "competition": "Serie A 20/21",
-            "teams_and_score": "Cagliari 0 - 2 Hellas Verona"
+            "date": "07/10/2012",
+            "competition": "Serie A",
+            "teams_and_score": "Catania 2 - 0 Parma"
           }
         ],
         "home_team_form": {
-          "team": "Cagliari",
+          "team": "Parma",
           "form": [
-            "L",
-            "L",
             "W",
+            "L",
             "D",
-            "D"
+            "W"
           ],
           "recent_matches": [
-            {
-              "date": "03/09/2026",
-              "competition": "Coppa Italia: Preliminary Round",
-              "teams_and_score": "Cagliari 1 - 2 Hellas Verona",
-              "result": "L"
-            },
-            {
-              "date": "30/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Cagliari 0 - 1 Inter",
-              "result": "L"
-            },
             {
               "date": "14/08/2026",
               "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Cagliari 1 - 0 S.S. Arezzo",
+              "teams_and_score": "Parma 2 - 0 Catania",
               "result": "W"
             },
             {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Cagliari 0 - 0 Nice",
-              "result": "D"
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Parma 0 - 2 Sampdoria",
+              "result": "L"
             },
             {
               "date": "02/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Union Berlin 2 - 2 Cagliari",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Verona",
-          "form": [
-            "W",
-            "D",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "03/09/2026",
-              "competition": "Coppa Italia: Preliminary Round",
-              "teams_and_score": "Cagliari 1 - 2 Hellas Verona",
-              "result": "W"
-            },
-            {
-              "date": "29/08/2026",
-              "competition": "Serie B",
-              "teams_and_score": "Calcio Padova 1 - 1 Hellas Verona",
-              "result": "D"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Hellas Verona 2 - 2 Virtus Entella",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Parma 1 - 1 Iraklis",
               "result": "D"
             },
             {
               "date": "24/05/2026",
               "competition": "Serie A 25/26",
-              "teams_and_score": "Hellas Verona 0 - 2 AS Roma",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Cagliari": "4",
-          "Verona": "5"
-        },
-        "shots_off_target": {
-          "Cagliari": "3",
-          "Verona": "2"
-        },
-        "shots_blocked": {
-          "Cagliari": "6",
-          "Verona": "2"
-        },
-        "corners": {
-          "Cagliari": "6",
-          "Verona": "2"
-        },
-        "fouls": {
-          "Cagliari": "8",
-          "Verona": "17"
-        },
-        "offsides": {
-          "Cagliari": "2",
-          "Verona": "1"
-        },
-        "yellow_cards": {
-          "Cagliari": "1",
-          "Verona": "2"
-        },
-        "goalkeeper_saves": {
-          "Cagliari": "3",
-          "Verona": "3"
-        },
-        "ball_possession": {
-          "Cagliari": "60%",
-          "Verona": "40%"
-        }
-      },
-      "description": "Watch Cagliari vs Verona highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on September 3, 2026."
-    },
-    {
-      "title": "Sassuolo vs Frosinone",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/sassuolo-v-frosinone-2026-09-02-yDfd.webp",
-      "competition": "Coppa Italia",
-      "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
-      "date": "Sep 2, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/512.webp",
-          "name": "Frosinone",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/488.webp",
-          "name": "Sassuolo",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Sassuolo_v_Frosinone_2026_09_02.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "36'",
-          "team": "Sassuolo",
-          "player": "B. Dominguez",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "45+2'",
-          "team": "Frosinone",
-          "player": "A. Terzić",
-          "event_type": "Goal",
-          "assist": "L. Hasa",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Frosinone",
-          "player": "K. Akpoguma",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Sassuolo",
-          "player": "S. Cinquegrano",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Sassuolo",
-          "player": "S. Turati",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Frosinone",
-          "player": "P. Masini",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "PEN 1",
-          "team": "Sassuolo",
-          "player": "D. Berardi",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "PEN 1",
-          "team": "Frosinone",
-          "player": "T. Bobcek",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "PEN 2",
-          "team": "Sassuolo",
-          "player": "S. Esposito",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "PEN 2",
-          "team": "Frosinone",
-          "player": "O. Fayed",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "PEN 3",
-          "team": "Sassuolo",
-          "player": "K. Thorstvedt",
-          "event_type": "Goal",
-          "score_update": "3 - 3"
-        },
-        {
-          "time": "PEN 3",
-          "team": "Frosinone",
-          "player": "A. Zerbin",
-          "event_type": "Goal",
-          "score_update": "2 - 3"
-        },
-        {
-          "time": "PEN 4",
-          "team": "Sassuolo",
-          "player": "D. Bakola",
-          "event_type": "Goal",
-          "score_update": "4 - 3"
-        },
-        {
-          "time": "PEN 4",
-          "team": "Frosinone",
-          "player": "W. Amey",
-          "event_type": "Goal",
-          "score_update": "3 - 3"
-        },
-        {
-          "time": "PEN 5",
-          "team": "Frosinone",
-          "player": "L. Hasa",
-          "event_type": "Goal",
-          "score_update": "4 - 3"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Sassuolo_wins": "2",
-          "draws": "1",
-          "Frosinone_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "13/05/2025",
-            "competition": "Serie B",
-            "teams_and_score": "Sassuolo 0 - 1 Frosinone"
-          },
-          {
-            "date": "09/03/2024",
-            "competition": "Serie A 23/24",
-            "teams_and_score": "Sassuolo 1 - 0 Frosinone"
-          },
-          {
-            "date": "05/05/2019",
-            "competition": "Serie A",
-            "teams_and_score": "Sassuolo 2 - 2 Frosinone"
-          },
-          {
-            "date": "21/05/2011",
-            "competition": "Serie Bwin",
-            "teams_and_score": "Frosinone 1 - 2 Sassuolo"
-          }
-        ],
-        "home_team_form": {
-          "team": "Sassuolo",
-          "form": [
-            "D",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "02/09/2026",
-              "competition": "Coppa Italia: Preliminary Round",
-              "teams_and_score": "Sassuolo 1 - 1 Frosinone",
-              "result": "D"
-            },
-            {
-              "date": "29/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Sassuolo 2 - 1 Torino",
+              "teams_and_score": "Parma 1 - 0 Sassuolo",
               "result": "W"
-            },
-            {
-              "date": "17/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Sassuolo 3 - 0 Cesena FC",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Augsburg 3 - 2 Sassuolo",
-              "result": "L"
             }
           ]
         },
         "away_team_form": {
-          "team": "Frosinone",
+          "team": "Catania",
           "form": [
+            "L",
             "D",
             "W",
-            "W",
-            "L",
-            "W"
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "02/09/2026",
-              "competition": "Coppa Italia: Preliminary Round",
-              "teams_and_score": "Sassuolo 1 - 1 Frosinone",
-              "result": "D"
-            },
-            {
-              "date": "29/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Fiorentina 0 - 3 Frosinone",
-              "result": "W"
-            },
-            {
-              "date": "16/08/2026",
+              "date": "14/08/2026",
               "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Frosinone 4 - 1 Juve Stabia",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Frosinone 1 - 2 Lazio",
+              "teams_and_score": "Parma 2 - 0 Catania",
               "result": "L"
             },
             {
-              "date": "08/05/2026",
-              "competition": "Serie B",
-              "teams_and_score": "Frosinone 5 - 0 Mantova",
+              "date": "08/08/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "L.R. Vicenza 1 - 1 Catania",
+              "result": "D"
+            },
+            {
+              "date": "27/05/2026",
+              "competition": "Serie C: Promotion Play-off",
+              "teams_and_score": "Catania 2 - 1 Ascoli",
               "result": "W"
+            },
+            {
+              "date": "26/04/2026",
+              "competition": "Serie C: Group C",
+              "teams_and_score": "Atalanta U23 1 - 1 Catania",
+              "result": "D"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Sassuolo": "3",
-          "Frosinone": "6"
+          "Parma": "8",
+          "Catania": "2"
         },
         "shots_off_target": {
-          "Sassuolo": "3",
-          "Frosinone": "4"
+          "Parma": "1",
+          "Catania": "2"
         },
         "shots_blocked": {
-          "Sassuolo": "1",
-          "Frosinone": "4"
+          "Parma": "3",
+          "Catania": "2"
         },
         "corners": {
-          "Sassuolo": "6",
-          "Frosinone": "4"
+          "Parma": "3",
+          "Catania": "5"
         },
         "fouls": {
-          "Sassuolo": "12",
-          "Frosinone": "19"
+          "Parma": "19",
+          "Catania": "8"
         },
         "offsides": {
-          "Sassuolo": "0",
-          "Frosinone": "3"
+          "Parma": "1",
+          "Catania": "2"
         },
         "yellow_cards": {
-          "Sassuolo": "2",
-          "Frosinone": "2"
+          "Parma": "1",
+          "Catania": "2"
         },
         "goalkeeper_saves": {
-          "Sassuolo": "5",
-          "Frosinone": "2"
+          "Parma": "2",
+          "Catania": "6"
+        },
+        "crosses": {
+          "Parma": "3",
+          "Catania": "4"
         },
         "ball_possession": {
-          "Sassuolo": "48%",
-          "Frosinone": "52%"
+          "Parma": "34%",
+          "Catania": "66%"
         }
       },
-      "description": "Watch Sassuolo vs Frosinone highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on September 2, 2026. The Coppa Italia delivered a night of high tension on September 2, 2026 , as Sassuolo and Frosinone locked horns in a knockout clash that tested the nerves of both sets of supporters. Both teams entered the pitch with high ambitions, resulting in a physical and tactical battle that remained undecided until the very last moments. First Half Resilience and Equalizer The match ignited in the 36th minute when Frosinone broke the deadlock. Benjamin Dominguez proved to be the difference-maker in the early stages, finding the net to give the visitors a crucial lead. Sassuolo , determined not to let the game slip away at home, ramped up the pressure as the first half drew to a close. Their persistence paid off in stoppage time. In the 45+2nd minute, Luis Hasa provided a pinpoint assist for Aleksa Terzic , who clinicaly finished the chance to level the score. The equalizer just before the interval shifted the momentum, leaving both managers with plenty to discuss during the break after an intense opening 45 minutes. Tactical Shifts and Defensive Discipline The second half was characterized by a series of tactical adjustments and rising temperatures on the field. Discipline became a factor as the referee issued yellow cards to Kevin Akpoguma , Simone Cinquegrano , and Stefano Turati . Substitutions followed as both sides searched for a winner; Domenico Berardi and Armand Lauriente were introduced for Sassuolo , while Frosinone brought on Tomas Bobcek to bolster their attack. Despite the fresh legs and late-game pressure, neither side could find the decisive goal in regulation time. As the final whistle blew with the score still locked at 1-1, the match headed into a dramatic penalty shootout to determine who would progress to the next round. Penalty Shootout Drama The shootout began with immediate heartbreak for the home side as Luis Hasa and Wisdom Amey missed their attempts. Although Kristian Thorstvedt , Sebastiano Esposito , and Domenico Berardi all converted their spot-kicks, the early misses put Sassuolo in a difficult position. Frosinone , conversely, showed remarkable composure from the spot. Darryl Bakola , Alessio Zerbin , Omar Fayed , and finally Tomas Bobcek all found the back of the net with clinical precision. Their flawless execution in the shootout secured Frosinone 's victory, marking a successful night in the Coppa Italia and sending them through to the next stage of the competition."
-    },
-    {
-      "title": "Udinese vs Venezia",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/udinese-v-venezia-2026-09-02-ERGV.webp",
-      "competition": "Coppa Italia",
-      "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
-      "date": "Sep 2, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/517.webp",
-          "name": "Venezia",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/494.webp",
-          "name": "Udinese",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Udinese_v_Venezia_2026_09_02.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Venezia",
-          "player": "R. Sagrado",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "Udinese",
-          "player": "N. Bertola",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Udinese",
-          "player": "V. Bayo",
-          "event_type": "Goal",
-          "assist": "M. Vojvoda",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Udinese",
-          "player": "V. Bayo",
-          "event_type": "Goal",
-          "assist": "K. Davis",
-          "score_update": "2 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Udinese_wins": "3",
-          "draws": "1",
-          "Venezia_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "01/02/2025",
-            "competition": "Serie A 24/25",
-            "teams_and_score": "Udinese 3 - 2 Venezia"
-          },
-          {
-            "date": "10/04/2022",
-            "competition": "Serie A 21/22",
-            "teams_and_score": "Venezia 1 - 2 Udinese"
-          },
-          {
-            "date": "13/09/2020",
-            "competition": "Club Friendlies 2020",
-            "teams_and_score": "Udinese 0 - 1 Venezia"
-          },
-          {
-            "date": "12/10/2019",
-            "competition": "Club Friendlies 2019",
-            "teams_and_score": "Udinese 1 - 1 Venezia"
-          },
-          {
-            "date": "21/04/2002",
-            "competition": "Serie A",
-            "teams_and_score": "Udinese 1 - 0 Venezia"
-          }
-        ],
-        "home_team_form": {
-          "team": "Udinese",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "02/09/2026",
-              "competition": "Coppa Italia: Preliminary Round",
-              "teams_and_score": "Udinese 2 - 1 Venezia",
-              "result": "W"
-            },
-            {
-              "date": "29/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Monza 2 - 3 Udinese",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Udinese 1 - 0 Calcio Padova",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Udinese 1 - 0 Barcelona",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Trabzonspor 1 - 0 Udinese",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Venezia",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "02/09/2026",
-              "competition": "Coppa Italia: Preliminary Round",
-              "teams_and_score": "Udinese 2 - 1 Venezia",
-              "result": "L"
-            },
-            {
-              "date": "28/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "AC Milan 2 - 0 Venezia",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Venezia 3 - 2 Modena",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Brest 2 - 2 Venezia",
-              "result": "D"
-            },
-            {
-              "date": "08/05/2026",
-              "competition": "Serie B",
-              "teams_and_score": "Venezia 2 - 0 Palermo",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Udinese": "8",
-          "Venezia": "4"
-        },
-        "shots_off_target": {
-          "Udinese": "6",
-          "Venezia": "6"
-        },
-        "shots_blocked": {
-          "Udinese": "2",
-          "Venezia": "1"
-        },
-        "corners": {
-          "Udinese": "8",
-          "Venezia": "2"
-        },
-        "fouls": {
-          "Udinese": "18",
-          "Venezia": "8"
-        },
-        "offsides": {
-          "Udinese": "2",
-          "Venezia": "2"
-        },
-        "yellow_cards": {
-          "Udinese": "1",
-          "Venezia": "0"
-        },
-        "goalkeeper_saves": {
-          "Udinese": "3",
-          "Venezia": "6"
-        },
-        "ball_possession": {
-          "Udinese": "35%",
-          "Venezia": "65%"
-        }
-      },
-      "description": "Watch Udinese vs Venezia highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on September 2, 2026. The tension of knockout football returned as Udinese and Venezia locked horns in a highly anticipated Coppa Italia fixture. Fans gathered on 2026-09-02 to witness which side would seize the initiative in this high-stakes cup encounter. Udinese Take Charge Early The match ignited almost immediately with Udinese showing clinical intent from the opening whistle. In the 9th minute, Richie Sagrado broke the deadlock with a well-taken goal, putting the hosts firmly in the driving seat. Venezia struggled to contain the early pressure, leading to a yellow card for Nicolo Bertola shortly after. The momentum stayed with the home side throughout the first half, and their persistence paid off again in the 34th minute when Vakoun Issouf Bayo found the net, courtesy of a precise assist from Mergim Vojvoda . Clinical Finishing and Tactical Control As the second half got underway, the home side showed no signs of slowing down despite a tactical change from the visitors that saw James Abankwah replace Bertola . In the 53rd minute, Vakoun Issouf Bayo struck again to secure his brace, finishing a move started by Keinan Davis . With a three-goal cushion, the match entered a phase of heavy rotations. Managers utilized their benches extensively, with Idrissa Gueye , Hassane Kamara , and Enzo Ebosse entering for Udinese , while Venezia introduced Akor Adams in hopes of a late resurgence. However, the hosts maintained their defensive discipline until the final whistle blew at 90+4 minutes."
+      "description": "Watch Parma vs Catania highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on August 14, 2026. The Coppa Italia brought a fascinating clash between Parma and Catania on August 14, 2026, as both sides aimed to secure their place in the next round of the tournament. The atmosphere was charged with expectation for a match that promised tactical depth and individual brilliance. Lontani's First-Half Masterclass Parma took control of the proceedings early on, utilizing high pressure to disrupt Catania 's buildup play. After initial efforts from Adrián Bernabé and El Bilal Touré , the deadlock was finally broken in the 19th minute. Following a corner delivered by Emanuele Valeri , the ball fell to Simone Lontani , who fired a precise right-footed shot into the top right corner to give the hosts the lead. Catania attempted to respond immediately and nearly equalized in the 24th minute when Simone Leonardi tested the reflexes of Edoardo Corvi with a dangerous strike. However, it was Parma who struck again during a lethal counter-attack in the 35th minute. El Bilal Touré burst forward and provided a perfect cross for Simone Lontani , who made no mistake from close range to double his tally and the lead before the break. Management and Defensive Resilience Returning from the locker rooms, Catania introduced tactical changes with the arrivals of Alessandro Raimo and Michael Liguori to try and alter the course of the match. The Sicilian side came close to reducing the deficit through an Andrea Allegretto header, but Edoardo Corvi shone again with a steady save in the bottom corner. Catania goalkeeper Filippo Rinaldi also played a key role in preventing a heavier scoreline, stopping dangerous attempts from Enrico Delprato and Sascha Britschgi . In the final stages, the tempo slowed as both managers turned to their benches, including the introductions of Mandela Keita and Franco Carboni for Parma . Despite Catania 's late efforts, the home defense remained solid, securing a professional victory and progression to the next stage."
     }
   ]
 }

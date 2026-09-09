@@ -1,113 +1,218 @@
 {
   "team": "Derby County",
   "team_logo": "https://img.refooty.com/logo/teams/69.webp",
-  "total_matches": 8,
-  "Last update time": "02:30:36 AM 10-09-2026",
+  "total_matches": 9,
+  "Last update time": "02:54:52 AM 10-09-2026",
   "matches": [
     {
-      "title": "Rotherham vs Derby County",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/rotherham-vs-derby-county-2026-08-04-aj6r.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 4, 2026",
+      "title": "west ham united - derby county",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/west-ham-united-derby-county-2026-09-05-7KQl.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 5, 2026",
       "events_info": {
         "away_team": {
           "logo": "https://img.refooty.com/logo/teams/69.webp",
           "name": "Derby County",
-          "score": "1"
+          "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/73.webp",
-          "name": "Rotherham",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/48.webp",
+          "name": "West Ham",
+          "score": "3"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/rotherham-vs-derby-county-2026-08-04_9yUMB.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/west-ham-united-derby-county-2026-09-05.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Derby County",
-          "player": "S. Szmodics",
+          "team": "West Ham",
+          "player": "J. Piroe",
           "event_type": "Goal",
-          "score_update": "0 - 1"
+          "assist": "V. Castellanos",
+          "score_update": "1 - 0"
         },
         {
-          "time": "46'",
-          "team": "Rotherham",
-          "player": "O. Ashley",
+          "time": "16'",
+          "team": "Derby County",
+          "player": "A. Mowatt",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "77'",
+          "team": "Derby County",
+          "player": "M. Fuseini",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "87'",
+          "team": "West Ham",
+          "player": "E. Austbø",
           "event_type": "Goal",
-          "score_update": "1 - 1"
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "90+5'",
+          "team": "West Ham",
+          "player": "M. Kante",
+          "event_type": "Goal",
+          "assist": "E. Austbø",
+          "score_update": "3 - 0"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Rotherham_wins": "1",
+          "West Ham_wins": "3",
           "draws": "0",
-          "Derby County_wins": "1"
+          "Derby County_wins": "2"
         },
         "previous_matches": [
           {
-            "date": "03/02/2021",
-            "competition": "Championship 20/21",
-            "teams_and_score": "Rotherham United 3 - 0 Derby County"
+            "date": "30/01/2023",
+            "competition": "FA Cup: Round 4 22/23",
+            "teams_and_score": "Derby County 0 - 2 West Ham United"
           },
           {
-            "date": "30/03/2019",
+            "date": "31/12/2011",
             "competition": "Championship",
-            "teams_and_score": "Derby County 6 - 1 Rotherham United"
+            "teams_and_score": "Derby County 2 - 1 West Ham United"
+          },
+          {
+            "date": "19/04/2008",
+            "competition": "Premier League",
+            "teams_and_score": "West Ham United 2 - 1 Derby County"
+          },
+          {
+            "date": "23/01/2005",
+            "competition": "Championship",
+            "teams_and_score": "West Ham United 1 - 2 Derby County"
+          },
+          {
+            "date": "26/12/2001",
+            "competition": "Premier League",
+            "teams_and_score": "West Ham United 4 - 0 Derby County"
           }
         ],
         "home_team_form": {
-          "team": "Rotherham",
+          "team": "West Ham",
           "form": [
-            "D",
-            "L"
+            "W",
+            "W",
+            "L",
+            "W",
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "04/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Rotherham United 1 - 1 Derby County",
-              "result": "D"
+              "date": "05/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "West Ham United 3 - 0 Derby County",
+              "result": "W"
             },
             {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Wycombe Wanderers 3 - 2 Rotherham United",
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Southampton 1 - 4 West Ham United",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "West Ham United 1 - 2 Charlton Athletic",
               "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "West Ham United 3 - 1 Portsmouth",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Magdeburg 1 - 1 West Ham United",
+              "result": "D"
             }
           ]
         },
         "away_team_form": {
           "team": "Derby County",
           "form": [
-            "D",
-            "L"
+            "L",
+            "L",
+            "D"
           ],
           "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "West Ham United 3 - 0 Derby County",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Derby County 1 - 2 Lincoln City",
+              "result": "L"
+            },
             {
               "date": "04/08/2026",
               "competition": "Club Friendlies 2026",
               "teams_and_score": "Rotherham United 1 - 1 Derby County",
               "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Derby County 1 - 2 Sheffield United",
-              "result": "L"
             }
           ]
         }
       },
-      "statistics": {},
-      "description": "Watch Rotherham vs Derby County highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 4, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "West Ham": "7",
+          "Derby County": "0"
+        },
+        "shots_off_target": {
+          "West Ham": "10",
+          "Derby County": "3"
+        },
+        "shots_blocked": {
+          "West Ham": "3",
+          "Derby County": "1"
+        },
+        "corners": {
+          "West Ham": "5",
+          "Derby County": "6"
+        },
+        "fouls": {
+          "West Ham": "6",
+          "Derby County": "16"
+        },
+        "offsides": {
+          "West Ham": "1",
+          "Derby County": "0"
+        },
+        "yellow_cards": {
+          "West Ham": "0",
+          "Derby County": "2"
+        },
+        "goalkeeper_saves": {
+          "West Ham": "0",
+          "Derby County": "4"
+        },
+        "crosses": {
+          "West Ham": "7",
+          "Derby County": "4"
+        },
+        "ball_possession": {
+          "West Ham": "53%",
+          "Derby County": "47%"
+        }
+      },
+      "description": "Watch West Ham vs Derby County highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The stage was set for a high-stakes encounter, with both sides aiming to impose their tactical vision from the very first whistle. On September 5, 2026, this Championship fixture promised to be a rigorous test of endurance and execution for both clubs. An Early Breakthrough West Ham United struck early to seize the momentum, wasting no time in unsettling their opponents. Just six minutes into the match, Valentin Castellanos delivered a precise assist to Joel Piroe , who calmly found the back of the net to give his team the lead. This early goal forced Derby County into a defensive posture, as they struggled to deal with the sustained pressure applied by the Hammers throughout the remainder of the first half. Securing the Result As the second half unfolded, the home side maintained their composure, utilizing a string of substitutions to keep their intensity high. The decisive blow arrived late in the game through the influence of Edvin Austboe . In the 87th minute, Austboe stepped up to find the target and extend the lead. With the momentum clearly on their side, the hosts added a third in the 90+5th minute when Mohamadou Kante converted a chance assisted by Austboe , putting the final stamp on a comprehensive performance."
     },
     {
       "title": "portsmouth - derby county",
@@ -890,6 +995,111 @@
       },
       "statistics": {},
       "description": "Watch Burton Albion vs Derby County highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
+    },
+    {
+      "title": "Rotherham vs Derby County",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/rotherham-vs-derby-county-2026-08-04-aj6r.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/69.webp",
+          "name": "Derby County",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/73.webp",
+          "name": "Rotherham",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/rotherham-vs-derby-county-2026-08-04_9yUMB.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Derby County",
+          "player": "S. Szmodics",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Rotherham",
+          "player": "O. Ashley",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Rotherham_wins": "1",
+          "draws": "0",
+          "Derby County_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "03/02/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Rotherham United 3 - 0 Derby County"
+          },
+          {
+            "date": "30/03/2019",
+            "competition": "Championship",
+            "teams_and_score": "Derby County 6 - 1 Rotherham United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Rotherham",
+          "form": [
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Rotherham United 1 - 1 Derby County",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Wycombe Wanderers 3 - 2 Rotherham United",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Derby County",
+          "form": [
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Rotherham United 1 - 1 Derby County",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Derby County 1 - 2 Sheffield United",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Rotherham vs Derby County highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 4, 2026."
     },
     {
       "title": "Derby County vs Lincoln",
