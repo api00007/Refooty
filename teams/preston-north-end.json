@@ -1,9 +1,232 @@
 {
   "team": "Preston North End",
   "team_logo": "https://img.refooty.com/logo/teams/25148.webp",
-  "total_matches": 6,
-  "Last update time": "03:10:39 AM 09-09-2026",
+  "total_matches": 7,
+  "Last update time": "01:10:20 AM 10-09-2026",
   "matches": [
+    {
+      "title": "watford - preston north end",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-preston-north-end-2026-09-08-v7V9.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/25148.webp",
+          "name": "Preston North End",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/38.webp",
+          "name": "Watford",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/watford-preston-north-end-2026-09-08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Preston North End",
+          "player": "C. Lang",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Preston North End",
+          "player": "A. Vukcevic",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Preston North End",
+          "player": "L. Gibson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Watford",
+          "player": "E. Kayembe",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Watford",
+          "player": "M. Doumbia",
+          "event_type": "Goal",
+          "assist": "I. Bravo",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Watford_wins": "1",
+          "draws": "3",
+          "Preston North End_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "14/02/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Preston North End 2 - 2 Watford"
+          },
+          {
+            "date": "21/01/2025",
+            "competition": "Championship",
+            "teams_and_score": "Watford 1 - 2 Preston North End"
+          },
+          {
+            "date": "06/04/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Watford 0 - 0 Preston North End"
+          },
+          {
+            "date": "04/03/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Watford 0 - 0 Preston North End"
+          },
+          {
+            "date": "16/02/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Preston North End 0 - 1 Watford"
+          }
+        ],
+        "home_team_form": {
+          "team": "Watford",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Watford 2 - 1 Preston North End",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Watford 1 - 5 Peterborough United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Wrexham 1 - 1 Watford",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Watford 1 - 0 Crawley Town",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Watford 0 - 1 Fiorentina",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Preston North End",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Watford 2 - 1 Preston North End",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Wolves",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Preston North End 1 - 1 Huddersfield Town",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stockport County 1 - 0 Preston North End",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Watford": "5",
+          "Preston North End": "6"
+        },
+        "shots_off_target": {
+          "Watford": "7",
+          "Preston North End": "6"
+        },
+        "shots_blocked": {
+          "Watford": "3",
+          "Preston North End": "6"
+        },
+        "corners": {
+          "Watford": "2",
+          "Preston North End": "4"
+        },
+        "fouls": {
+          "Watford": "7",
+          "Preston North End": "10"
+        },
+        "offsides": {
+          "Watford": "2",
+          "Preston North End": "1"
+        },
+        "yellow_cards": {
+          "Watford": "0",
+          "Preston North End": "2"
+        },
+        "goalkeeper_saves": {
+          "Watford": "5",
+          "Preston North End": "3"
+        },
+        "crosses": {
+          "Watford": "4",
+          "Preston North End": "4"
+        },
+        "ball_possession": {
+          "Watford": "61%",
+          "Preston North End": "39%"
+        }
+      },
+      "description": "Watch Watford vs Preston North End highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The atmosphere was thick with anticipation as two ambitious Championship sides squared off in a match that promised tactical intrigue and high-octane energy. Both teams looked to establish dominance early, setting the stage for a compelling afternoon of football. Preston's Early Statement On September 8, 2026, Preston North End wasted no time in making their presence felt. Just six minutes into the contest, Callum Lang found the back of the net with a clinical finish, stunning the home crowd and giving his side an early lead. The first half continued with Watford struggling to break down a resilient Preston defense, as the visitors maintained their discipline and kept the hosts at arm's length until the interval. Searching for a spark, Watford introduced a triple substitution at the start of the second half, bringing on Iker Bravo , Stephy Mavididi , and Othmane Maamma . These changes immediately altered the tempo of the game, as the home side began to dominate possession and pin Preston back into their own territory. The Hornets' Late Surge The pressure finally told in the 69th minute. After a period of sustained attacks, Edo Kayembe powered home the equalizer, shifting the momentum entirely in favor of the Hornets . The crowd's energy surged, and the home side sensed an opportunity to take all three points against a tiring Preston North End outfit. The comeback was completed in the 76th minute in spectacular fashion. Iker Bravo , who had been instrumental since his introduction, provided a perfect assist for Mamadou Doumbia , who made no mistake in putting Watford ahead. Despite late bookings for Andrija Vukcevic and Lewis Gibson , and a flurry of tactical changes from both benches, Watford held firm through five minutes of stoppage time to secure a hard-fought victory."
+    },
     {
       "title": "preston north end - blackburn rovers",
       "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-blackburn-rovers-2026-09-05-7zfi.webp",

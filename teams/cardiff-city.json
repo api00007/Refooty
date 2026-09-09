@@ -1,9 +1,242 @@
 {
   "team": "Cardiff City",
   "team_logo": "https://img.refooty.com/logo/teams/15412.webp",
-  "total_matches": 6,
-  "Last update time": "03:10:38 AM 09-09-2026",
+  "total_matches": 7,
+  "Last update time": "01:10:20 AM 10-09-2026",
   "matches": [
+    {
+      "title": "cardiff city - stoke city",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/cardiff-city-stoke-city-2026-09-08-gzqU.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/75.webp",
+          "name": "Stoke City",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/15412.webp",
+          "name": "Cardiff City",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/cardiff-city-stoke-city-2026-09-08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "22'",
+          "team": "Stoke City",
+          "player": "B. Johnson",
+          "event_type": "Goal",
+          "assist": "R. Boženík",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "27'",
+          "team": "Stoke City",
+          "player": "B. Wilmot",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+2'",
+          "team": "Cardiff City",
+          "player": "P. Ng",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Cardiff City",
+          "player": "J. Colwill",
+          "event_type": "Goal",
+          "assist": "C. Willock",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Stoke City",
+          "player": "L. Graham",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Cardiff City_wins": "2",
+          "draws": "4",
+          "Stoke City_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "12/04/2025",
+            "competition": "Championship",
+            "teams_and_score": "Cardiff City 0 - 1 Stoke City"
+          },
+          {
+            "date": "08/02/2025",
+            "competition": "FA Cup: Round 4",
+            "teams_and_score": "Stoke City 3 - 3 Cardiff City"
+          },
+          {
+            "date": "14/12/2024",
+            "competition": "Championship",
+            "teams_and_score": "Stoke City 2 - 2 Cardiff City"
+          },
+          {
+            "date": "24/02/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Cardiff City 2 - 1 Stoke City"
+          },
+          {
+            "date": "22/04/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Cardiff City 1 - 1 Stoke City"
+          },
+          {
+            "date": "16/03/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Cardiff City 2 - 1 Stoke City"
+          },
+          {
+            "date": "16/03/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Cardiff City 0 - 0 Stoke City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Cardiff City",
+          "form": [
+            "D",
+            "L",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Cardiff City 1 - 1 Stoke City",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Cardiff City 1 - 2 Norwich City",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Derby County 2 - 2 Cardiff City",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Cardiff City 3 - 2 Swindon Town",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Cardiff City 4 - 1 AS Roma",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Stoke City",
+          "form": [
+            "D",
+            "D",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Cardiff City 1 - 1 Stoke City",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Stoke City 1 - 1 Hull City",
+              "result": "D"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Stoke City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Stoke City 2 - 0 Oldham Athletic",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Stoke City 1 - 1 Valencia",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Cardiff City": "7",
+          "Stoke City": "4"
+        },
+        "shots_off_target": {
+          "Cardiff City": "12",
+          "Stoke City": "5"
+        },
+        "shots_blocked": {
+          "Cardiff City": "8",
+          "Stoke City": "3"
+        },
+        "corners": {
+          "Cardiff City": "7",
+          "Stoke City": "5"
+        },
+        "fouls": {
+          "Cardiff City": "5",
+          "Stoke City": "19"
+        },
+        "offsides": {
+          "Cardiff City": "2",
+          "Stoke City": "4"
+        },
+        "yellow_cards": {
+          "Cardiff City": "1",
+          "Stoke City": "2"
+        },
+        "goalkeeper_saves": {
+          "Cardiff City": "3",
+          "Stoke City": "6"
+        },
+        "crosses": {
+          "Cardiff City": "8",
+          "Stoke City": "3"
+        },
+        "ball_possession": {
+          "Cardiff City": "71%",
+          "Stoke City": "29%"
+        }
+      },
+      "description": "Watch Cardiff City vs Stoke City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The Championship encounter between Cardiff City and Stoke City promised to be a tightly contested affair from the opening whistle. Both sides took to the pitch with clear tactical blueprints, aiming to outmaneuver each other in a match defined by momentum shifts and physical duels. Stoke Strike First in the Capital The match, held on September 8, 2026 , saw Stoke City settle into their rhythm early on. The visitors’ persistence paid off in the 22nd minute when Robert Bozenik turned provider, delivering a sharp assist to Ben Johnson , who clinical finish broke the deadlock. As the intensity grew, the referee was forced to go to his pocket, issuing yellow cards to Ben Wilmot and Perry Ng as both teams battled for supremacy in a fiercely contested first half. Colwill Rescues a Point for Cardiff Following the halftime break, Cardiff City emerged with renewed energy, determined to find a way back into the contest. Their efforts bore fruit in the 63rd minute when Chris Willock carved open the defense, allowing Joel Colwill to strike a decisive equalizer. Despite a flurry of tactical substitutions, including the introduction of Jun-Ho Bae for the visitors and Cian Ashford for the hosts, neither side could find a late winner. The match concluded after four minutes of stoppage time, leaving both teams to take a hard-earned point from a gripping encounter."
+    },
     {
       "title": "portsmouth - cardiff city",
       "thumbnail_url": "https://img.refooty.com/thumbnail/portsmouth-cardiff-city-2026-09-05-7BlL.webp",

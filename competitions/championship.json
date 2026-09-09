@@ -1,9 +1,1356 @@
 {
   "competition": "Championship",
   "competition_cover": "https://refooty.com/covers/championship.webp",
-  "total_matches": 55,
-  "Last update time": "03:10:38 AM 09-09-2026",
+  "total_matches": 61,
+  "Last update time": "01:10:19 AM 10-09-2026",
   "matches": [
+    {
+      "title": "watford - preston north end",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-preston-north-end-2026-09-08-v7V9.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/25148.webp",
+          "name": "Preston North End",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/38.webp",
+          "name": "Watford",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/watford-preston-north-end-2026-09-08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Preston North End",
+          "player": "C. Lang",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Preston North End",
+          "player": "A. Vukcevic",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Preston North End",
+          "player": "L. Gibson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Watford",
+          "player": "E. Kayembe",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Watford",
+          "player": "M. Doumbia",
+          "event_type": "Goal",
+          "assist": "I. Bravo",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Watford_wins": "1",
+          "draws": "3",
+          "Preston North End_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "14/02/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Preston North End 2 - 2 Watford"
+          },
+          {
+            "date": "21/01/2025",
+            "competition": "Championship",
+            "teams_and_score": "Watford 1 - 2 Preston North End"
+          },
+          {
+            "date": "06/04/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Watford 0 - 0 Preston North End"
+          },
+          {
+            "date": "04/03/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Watford 0 - 0 Preston North End"
+          },
+          {
+            "date": "16/02/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Preston North End 0 - 1 Watford"
+          }
+        ],
+        "home_team_form": {
+          "team": "Watford",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Watford 2 - 1 Preston North End",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Watford 1 - 5 Peterborough United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Wrexham 1 - 1 Watford",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Watford 1 - 0 Crawley Town",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Watford 0 - 1 Fiorentina",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Preston North End",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Watford 2 - 1 Preston North End",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Wolves",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Preston North End 1 - 1 Huddersfield Town",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stockport County 1 - 0 Preston North End",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Watford": "5",
+          "Preston North End": "6"
+        },
+        "shots_off_target": {
+          "Watford": "7",
+          "Preston North End": "6"
+        },
+        "shots_blocked": {
+          "Watford": "3",
+          "Preston North End": "6"
+        },
+        "corners": {
+          "Watford": "2",
+          "Preston North End": "4"
+        },
+        "fouls": {
+          "Watford": "7",
+          "Preston North End": "10"
+        },
+        "offsides": {
+          "Watford": "2",
+          "Preston North End": "1"
+        },
+        "yellow_cards": {
+          "Watford": "0",
+          "Preston North End": "2"
+        },
+        "goalkeeper_saves": {
+          "Watford": "5",
+          "Preston North End": "3"
+        },
+        "crosses": {
+          "Watford": "4",
+          "Preston North End": "4"
+        },
+        "ball_possession": {
+          "Watford": "61%",
+          "Preston North End": "39%"
+        }
+      },
+      "description": "Watch Watford vs Preston North End highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The atmosphere was thick with anticipation as two ambitious Championship sides squared off in a match that promised tactical intrigue and high-octane energy. Both teams looked to establish dominance early, setting the stage for a compelling afternoon of football. Preston's Early Statement On September 8, 2026, Preston North End wasted no time in making their presence felt. Just six minutes into the contest, Callum Lang found the back of the net with a clinical finish, stunning the home crowd and giving his side an early lead. The first half continued with Watford struggling to break down a resilient Preston defense, as the visitors maintained their discipline and kept the hosts at arm's length until the interval. Searching for a spark, Watford introduced a triple substitution at the start of the second half, bringing on Iker Bravo , Stephy Mavididi , and Othmane Maamma . These changes immediately altered the tempo of the game, as the home side began to dominate possession and pin Preston back into their own territory. The Hornets' Late Surge The pressure finally told in the 69th minute. After a period of sustained attacks, Edo Kayembe powered home the equalizer, shifting the momentum entirely in favor of the Hornets . The crowd's energy surged, and the home side sensed an opportunity to take all three points against a tiring Preston North End outfit. The comeback was completed in the 76th minute in spectacular fashion. Iker Bravo , who had been instrumental since his introduction, provided a perfect assist for Mamadou Doumbia , who made no mistake in putting Watford ahead. Despite late bookings for Andrija Vukcevic and Lewis Gibson , and a flurry of tactical changes from both benches, Watford held firm through five minutes of stoppage time to secure a hard-fought victory."
+    },
+    {
+      "title": "wrexham - burnley",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/wrexham-burnley-2026-09-08-T4Wd.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://assets.football-logos.cc/logos/england/700x700/burnley.2c75b6ce.png",
+          "name": "Burnley",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1837.webp",
+          "name": "Wrexham",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/wrexham-burnley-2026-09-08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Wrexham",
+          "player": "I. Kaboré",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Burnley",
+          "player": "Z. Amdouni",
+          "event_type": "Goal",
+          "assist": "L. Ramazani",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Wrexham",
+          "player": "J. Ekomie",
+          "event_type": "Goal",
+          "assist": "I. Kaboré",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Burnley",
+          "player": "A. Ramsey",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Wrexham",
+          "player": "D. Hyam",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Burnley",
+          "player": "L. Pires",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Burnley",
+          "player": "R. Hatate",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Wrexham_wins": "0",
+          "draws": "0",
+          "Burnley_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "17/07/2007",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Wrexham 2 - 5 Burnley"
+          },
+          {
+            "date": "11/03/2000",
+            "competition": "League One",
+            "teams_and_score": "Wrexham 0 - 1 Burnley"
+          }
+        ],
+        "home_team_form": {
+          "team": "Wrexham",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Wrexham 1 - 1 Burnley",
+              "result": "D"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Middlesbrough 1 - 0 Wrexham",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sunderland 1 - 0 Wrexham",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leeds United 2 - 3 Wrexham",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Burnley",
+          "form": [
+            "D",
+            "D",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Wrexham 1 - 1 Burnley",
+              "result": "D"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Bradford City 0 - 0 Burnley",
+              "result": "D"
+            },
+            {
+              "date": "23/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "West Bromwich Albion 3 - 1 Burnley",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Burnley 1 - 1 Notts County",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2025",
+              "teams_and_score": "Burnley 0 - 1 Torino",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Wrexham": "5",
+          "Burnley": "4"
+        },
+        "shots_off_target": {
+          "Wrexham": "9",
+          "Burnley": "8"
+        },
+        "shots_blocked": {
+          "Wrexham": "1",
+          "Burnley": "7"
+        },
+        "corners": {
+          "Wrexham": "4",
+          "Burnley": "4"
+        },
+        "fouls": {
+          "Wrexham": "12",
+          "Burnley": "15"
+        },
+        "offsides": {
+          "Wrexham": "1",
+          "Burnley": "3"
+        },
+        "yellow_cards": {
+          "Wrexham": "2",
+          "Burnley": "3"
+        },
+        "goalkeeper_saves": {
+          "Wrexham": "2",
+          "Burnley": "4"
+        },
+        "crosses": {
+          "Wrexham": "4",
+          "Burnley": "5"
+        },
+        "ball_possession": {
+          "Wrexham": "53%",
+          "Burnley": "47%"
+        }
+      },
+      "description": "Watch Wrexham vs Burnley highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The atmosphere was thick with anticipation on September 8, 2026 , as Wrexham hosted Burnley in a highly anticipated Championship fixture. Both sides took to the pitch looking to establish early dominance in a match that promised to be a fascinating tactical battle. First Half Breakthrough The contest began with a high-tempo physical struggle, leading to an early booking for Issa Kabore in the 14th minute. The deadlock was finally broken in the 26th minute when Zeki Amdouni clinical finish found the back of the net, following a well-crafted assist from Largie Ramazani . Wrexham faced further challenges shortly after the opening goal, as Max Cleworth was forced off the field and replaced by Zak Vyner in a defensive reshuffle just 30 minutes into the game. Clinical Finishing and Defensive Discipline The second half saw Wrexham introduce Callum O'Hare and Oliver Rathbone in an attempt to spark a comeback, but it was Burnley who struck next. In the 55th minute, Jacques Ekomie doubled the advantage with a composed strike, assisted by Issa Kabore . As the clock ticked down, the match grew increasingly feisty, resulting in yellow cards for Aaron Ramsey , Dominic Hyam , and Lucas Pires . Despite a late flurry of substitutions and six minutes of added time, Burnley remained resolute to secure all three points on the road."
+    },
+    {
+      "title": "southampton - swansea city",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/southampton-swansea-city-2026-09-08-2pV1.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/23192.webp",
+          "name": "Swansea City",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/41.webp",
+          "name": "Southampton",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/southampton-swansea-city-2026-09-08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Southampton",
+          "player": "F. Azaz",
+          "event_type": "Goal",
+          "assist": "F. Downes",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Southampton",
+          "player": "C. Larin",
+          "event_type": "Goal",
+          "assist": "J. Bree",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Swansea City",
+          "player": "Ž. Vipotnik",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Swansea City",
+          "player": "Ronald",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Southampton",
+          "player": "L. Scienza",
+          "event_type": "Goal",
+          "assist": "K. Matsuki",
+          "score_update": "3 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Southampton_wins": "6",
+          "draws": "0",
+          "Swansea City_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "18/04/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Swansea City 1 - 2 Southampton"
+          },
+          {
+            "date": "12/01/2025",
+            "competition": "FA Cup: Round 3",
+            "teams_and_score": "Southampton 3 - 0 Swansea City"
+          },
+          {
+            "date": "20/01/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Swansea City 1 - 3 Southampton"
+          },
+          {
+            "date": "08/01/2022",
+            "competition": "FA Cup 21/22",
+            "teams_and_score": "Swansea City 2 - 3 Southampton"
+          },
+          {
+            "date": "31/07/2021",
+            "competition": "Club Friendlies 2021",
+            "teams_and_score": "Swansea City 1 - 3 Southampton"
+          },
+          {
+            "date": "08/05/2018",
+            "competition": "Premier League",
+            "teams_and_score": "Swansea City 0 - 1 Southampton"
+          }
+        ],
+        "home_team_form": {
+          "team": "Southampton",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Swansea City",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Southampton 1 - 4 West Ham United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Stoke City",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Colchester United 0 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Swansea City",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Swansea City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Swansea City 1 - 0 Leganes",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Southampton": "4",
+          "Swansea City": "2"
+        },
+        "shots_off_target": {
+          "Southampton": "8",
+          "Swansea City": "5"
+        },
+        "shots_blocked": {
+          "Southampton": "4",
+          "Swansea City": "3"
+        },
+        "corners": {
+          "Southampton": "9",
+          "Swansea City": "3"
+        },
+        "fouls": {
+          "Southampton": "10",
+          "Swansea City": "10"
+        },
+        "offsides": {
+          "Southampton": "5",
+          "Swansea City": "3"
+        },
+        "yellow_cards": {
+          "Southampton": "0",
+          "Swansea City": "1"
+        },
+        "goalkeeper_saves": {
+          "Southampton": "1",
+          "Swansea City": "1"
+        },
+        "crosses": {
+          "Southampton": "7",
+          "Swansea City": "2"
+        },
+        "ball_possession": {
+          "Southampton": "47%",
+          "Swansea City": "53%"
+        }
+      },
+      "description": "Watch Southampton vs Swansea City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The atmosphere was electric at St. Mary's as two sides with rich histories faced off in a crucial tactical battle. Fans were treated to a display of high-intensity football where every transition held the potential to alter the course of the season. Early Dominance for the Saints On September 8, 2026 , Southampton started with intent, establishing their rhythm early against Swansea City . It took only nine minutes for the deadlock to be broken when Finn Azaz found the net, clinical in his finish after being set up by Flynn Downes . The home side refused to sit back, continuing to apply relentless pressure on the Welsh defense. Their persistence paid off again in the 33rd minute as Cyle Larin doubled the advantage, expertly converting a chance provided by James Bree to give the hosts a commanding lead heading into the break. Swansea Fight Back from the Spot The second half saw Swansea City emerge with renewed energy, making tactical adjustments to claw their way back into the game. The introduction of Ronald Pereira added pace to their attack, and in the 52nd minute, they found a lifeline. Zan Vipotnik stepped up to the penalty spot and calmly dispatched his shot to make it 2-1. The momentum seemed to shift briefly, and the game grew more physical, evidenced by a yellow card for Pereira shortly after the goal as the visitors pushed for an equalizer. Sealing the Victory Despite the pressure from the visitors, Southampton regained their composure and utilized their bench effectively to regain control. The turning point arrived in the 78th minute when substitute Kuryu Matsuki turned provider, setting up Leo Scienza for a crucial strike that restored the two-goal cushion. In the closing stages, the Saints managed the clock professionally, introducing fresh legs like Cameron Bragg to see out the result. When the final whistle blew after five minutes of stoppage time, the home faithful celebrated a hard-fought and deserved victory in the Championship ."
+    },
+    {
+      "title": "bolton wanderers - west ham united",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bolton-wanderers-west-ham-united-2026-09-08-jaW6.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/48.webp",
+          "name": "West Ham",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/22614.webp",
+          "name": "Bolton Wanderers",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/bolton-wanderers-west-ham-united-2026-09-08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "West Ham",
+          "player": "O. Scarles",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "West Ham",
+          "player": "J. Bowen",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Bolton Wanderers",
+          "player": "E. Erhahon",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Bolton Wanderers",
+          "player": "R. Rodrigues",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "West Ham",
+          "player": "K. Mavropanos",
+          "event_type": "Goal",
+          "assist": "A. Engels",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "West Ham",
+          "player": "K. Mavropanos",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "West Ham",
+          "player": "J. Bowen",
+          "event_type": "Goal",
+          "assist": "J. Veltman",
+          "score_update": "2 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bolton Wanderers_wins": "3",
+          "draws": "0",
+          "West Ham_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "19/09/2017",
+            "competition": "EFL Cup",
+            "teams_and_score": "West Ham United 3 - 0 Bolton Wanderers"
+          },
+          {
+            "date": "09/04/2011",
+            "competition": "Premier League",
+            "teams_and_score": "Bolton Wanderers 3 - 0 West Ham United"
+          },
+          {
+            "date": "22/09/2009",
+            "competition": "League Cup",
+            "teams_and_score": "Bolton Wanderers 3 - 1 West Ham United"
+          },
+          {
+            "date": "21/02/2009",
+            "competition": "Premier League",
+            "teams_and_score": "Bolton Wanderers 2 - 1 West Ham United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Bolton Wanderers",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Bolton Wanderers 2 - 3 West Ham United",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Sheffield Wednesday 1 - 0 Bolton Wanderers",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bolton Wanderers 1 - 0 NAC Breda",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bolton Wanderers 0 - 0 Everton",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "West Ham",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Bolton Wanderers 2 - 3 West Ham United",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Southampton 1 - 4 West Ham United",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "West Ham United 1 - 2 Charlton Athletic",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "West Ham United 3 - 1 Portsmouth",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Magdeburg 1 - 1 West Ham United",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bolton Wanderers": "6",
+          "West Ham": "7"
+        },
+        "shots_off_target": {
+          "Bolton Wanderers": "7",
+          "West Ham": "3"
+        },
+        "shots_blocked": {
+          "Bolton Wanderers": "0",
+          "West Ham": "1"
+        },
+        "corners": {
+          "Bolton Wanderers": "4",
+          "West Ham": "4"
+        },
+        "fouls": {
+          "Bolton Wanderers": "7",
+          "West Ham": "12"
+        },
+        "offsides": {
+          "Bolton Wanderers": "2",
+          "West Ham": "3"
+        },
+        "yellow_cards": {
+          "Bolton Wanderers": "0",
+          "West Ham": "2"
+        },
+        "goalkeeper_saves": {
+          "Bolton Wanderers": "4",
+          "West Ham": "4"
+        },
+        "crosses": {
+          "Bolton Wanderers": "3",
+          "West Ham": "3"
+        },
+        "ball_possession": {
+          "Bolton Wanderers": "51%",
+          "West Ham": "49%"
+        }
+      },
+      "description": "Watch Bolton Wanderers vs West Ham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 8, 2026. On September 8, 2026 , Bolton Wanderers and West Ham United faced off in a high-stakes encounter that showcased the very best of competitive football. The match was characterized by rapid shifts in momentum and clinical finishing, keeping supporters on edge until the final whistle. A Thrilling First-Half Display The contest ignited early as both sides looked to impose their will. It was West Ham United who broke the deadlock in the 13th minute when Jarrod Bowen found the back of the net. Bolton’s response was swift and clinical; just five minutes later, Ethan Erhahon leveled the score, restoring parity and energizing the home crowd. The intensity remained high, following an early caution for Oliver Scarles , as both teams prioritized attacking fluidity over defensive caution. Momentum Swings and Clinical Penalties Bolton’s persistence paid off in the 27th minute when they were awarded a penalty. Ruben Rodrigues stepped up and confidently converted to put the hosts ahead for the first time. However, the lead was short-lived. In the 31st minute, Arne Engels turned provider for Konstantinos Mavropanos , who restored balance to the scoreline. The teams headed into the interval with the game finely poised at 2-2, following a breathless period of action. Bowen Secures the Decisive Blow The second half saw a series of tactical adjustments, with both managers utilizing their benches to find a breakthrough. The decisive moment arrived in the 77th minute when substitute Joel Veltman delivered a precise assist for Jarrod Bowen , who clinicaly dispatched his second goal of the match. Despite late pressure and multiple substitutions from Bolton Wanderers , including the introduction of John McAtee and Ryan Hardie , the visitors held firm to secure all three points in this five-goal classic."
+    },
+    {
+      "title": "blackburn rovers - sheffield united",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/blackburn-rovers-sheffield-united-2026-09-08-k2hC.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/15407.webp",
+          "name": "Sheffield United",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/15401.webp",
+          "name": "Blackburn Rovers",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/blackburn-rovers-sheffield-united-2026-09-08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Blackburn Rovers",
+          "player": "K. Montgomery",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Sheffield United",
+          "player": "T. Cannon",
+          "event_type": "Goal",
+          "assist": "S. Peck",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Sheffield United",
+          "player": "S. Peck",
+          "event_type": "Goal",
+          "assist": "J. Rothwell",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Sheffield United",
+          "player": "R. Donovan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Blackburn Rovers",
+          "player": "K. Montgomery",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Sheffield United",
+          "player": "J. Tanganga",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Blackburn Rovers_wins": "2",
+          "draws": "1",
+          "Sheffield United_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "25/08/2026",
+            "competition": "EFL Cup: Round 2",
+            "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United"
+          },
+          {
+            "date": "22/04/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Sheffield United 1 - 3 Blackburn Rovers"
+          },
+          {
+            "date": "03/05/2025",
+            "competition": "Championship",
+            "teams_and_score": "Sheffield United 1 - 1 Blackburn Rovers"
+          },
+          {
+            "date": "19/03/2023",
+            "competition": "FA Cup: Quarter-Finals 22/23",
+            "teams_and_score": "Sheffield United 3 - 2 Blackburn Rovers"
+          },
+          {
+            "date": "04/03/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Blackburn Rovers 1 - 0 Sheffield United"
+          },
+          {
+            "date": "23/02/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Sheffield United 1 - 0 Blackburn Rovers"
+          }
+        ],
+        "home_team_form": {
+          "team": "Blackburn Rovers",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Blackburn Rovers 2 - 1 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Burton Albion 1 - 2 Blackburn Rovers",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Huddersfield Town 1 - 1 Blackburn Rovers",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sheffield United",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Blackburn Rovers": "5",
+          "Sheffield United": "4"
+        },
+        "shots_off_target": {
+          "Blackburn Rovers": "9",
+          "Sheffield United": "1"
+        },
+        "shots_blocked": {
+          "Blackburn Rovers": "5",
+          "Sheffield United": "2"
+        },
+        "corners": {
+          "Blackburn Rovers": "7",
+          "Sheffield United": "3"
+        },
+        "fouls": {
+          "Blackburn Rovers": "9",
+          "Sheffield United": "14"
+        },
+        "offsides": {
+          "Blackburn Rovers": "3",
+          "Sheffield United": "0"
+        },
+        "yellow_cards": {
+          "Blackburn Rovers": "1",
+          "Sheffield United": "2"
+        },
+        "goalkeeper_saves": {
+          "Blackburn Rovers": "1",
+          "Sheffield United": "3"
+        },
+        "crosses": {
+          "Blackburn Rovers": "3",
+          "Sheffield United": "0"
+        },
+        "ball_possession": {
+          "Blackburn Rovers": "63%",
+          "Sheffield United": "37%"
+        }
+      },
+      "description": "Watch Blackburn Rovers vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The Championship atmosphere was electric as Blackburn Rovers and Sheffield United faced off in a crucial league fixture. Both sets of supporters were treated to a high-octane encounter where momentum shifted rapidly between the two sides. Early Momentum at Ewood Park On September 8, 2026 , the match began with high intensity. Blackburn Rovers took the initiative early on, breaking the deadlock in the 20th minute. Kristi Montgomery found the back of the net to put the hosts ahead, sparking celebrations across the home stands as they looked to control the tempo of the game through aggressive pressing. The Blades Strike Back However, the visitors from Sheffield United refused to be silenced. Ten minutes before the interval, the tide began to turn. Sydie Peck turned provider, setting up Thomas Cannon in the 35th minute for a clinical finish that leveled the scores. The momentum remained with the \"Blades,\" and just before the halftime whistle in the 44th minute, Sydie Peck went from creator to scorer. Assisted by Joe Rothwell , Peck struck a decisive blow to give his side the lead heading into the break. A Gritty Second Half The second half was a story of tactical adjustments and rising tensions. Sheffield United introduced Tyrese Campbell and later Kalvin Phillips to shore up their position. Blackburn pushed for an equalizer, but disciplinary issues began to surface as Romelle Donovan , Kristi Montgomery , and Japhet Tanganga all received yellow cards. Despite late substitutions including Jamal Baptiste and Harvey Higgins , the visitors held firm through four minutes of stoppage time to secure all three points."
+    },
+    {
+      "title": "cardiff city - stoke city",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/cardiff-city-stoke-city-2026-09-08-gzqU.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/75.webp",
+          "name": "Stoke City",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/15412.webp",
+          "name": "Cardiff City",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/cardiff-city-stoke-city-2026-09-08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "22'",
+          "team": "Stoke City",
+          "player": "B. Johnson",
+          "event_type": "Goal",
+          "assist": "R. Boženík",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "27'",
+          "team": "Stoke City",
+          "player": "B. Wilmot",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+2'",
+          "team": "Cardiff City",
+          "player": "P. Ng",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Cardiff City",
+          "player": "J. Colwill",
+          "event_type": "Goal",
+          "assist": "C. Willock",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Stoke City",
+          "player": "L. Graham",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Cardiff City_wins": "2",
+          "draws": "4",
+          "Stoke City_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "12/04/2025",
+            "competition": "Championship",
+            "teams_and_score": "Cardiff City 0 - 1 Stoke City"
+          },
+          {
+            "date": "08/02/2025",
+            "competition": "FA Cup: Round 4",
+            "teams_and_score": "Stoke City 3 - 3 Cardiff City"
+          },
+          {
+            "date": "14/12/2024",
+            "competition": "Championship",
+            "teams_and_score": "Stoke City 2 - 2 Cardiff City"
+          },
+          {
+            "date": "24/02/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Cardiff City 2 - 1 Stoke City"
+          },
+          {
+            "date": "22/04/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Cardiff City 1 - 1 Stoke City"
+          },
+          {
+            "date": "16/03/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Cardiff City 2 - 1 Stoke City"
+          },
+          {
+            "date": "16/03/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Cardiff City 0 - 0 Stoke City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Cardiff City",
+          "form": [
+            "D",
+            "L",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Cardiff City 1 - 1 Stoke City",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Cardiff City 1 - 2 Norwich City",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Derby County 2 - 2 Cardiff City",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Cardiff City 3 - 2 Swindon Town",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Cardiff City 4 - 1 AS Roma",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Stoke City",
+          "form": [
+            "D",
+            "D",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Cardiff City 1 - 1 Stoke City",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Stoke City 1 - 1 Hull City",
+              "result": "D"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Stoke City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Stoke City 2 - 0 Oldham Athletic",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Stoke City 1 - 1 Valencia",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Cardiff City": "7",
+          "Stoke City": "4"
+        },
+        "shots_off_target": {
+          "Cardiff City": "12",
+          "Stoke City": "5"
+        },
+        "shots_blocked": {
+          "Cardiff City": "8",
+          "Stoke City": "3"
+        },
+        "corners": {
+          "Cardiff City": "7",
+          "Stoke City": "5"
+        },
+        "fouls": {
+          "Cardiff City": "5",
+          "Stoke City": "19"
+        },
+        "offsides": {
+          "Cardiff City": "2",
+          "Stoke City": "4"
+        },
+        "yellow_cards": {
+          "Cardiff City": "1",
+          "Stoke City": "2"
+        },
+        "goalkeeper_saves": {
+          "Cardiff City": "3",
+          "Stoke City": "6"
+        },
+        "crosses": {
+          "Cardiff City": "8",
+          "Stoke City": "3"
+        },
+        "ball_possession": {
+          "Cardiff City": "71%",
+          "Stoke City": "29%"
+        }
+      },
+      "description": "Watch Cardiff City vs Stoke City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The Championship encounter between Cardiff City and Stoke City promised to be a tightly contested affair from the opening whistle. Both sides took to the pitch with clear tactical blueprints, aiming to outmaneuver each other in a match defined by momentum shifts and physical duels. Stoke Strike First in the Capital The match, held on September 8, 2026 , saw Stoke City settle into their rhythm early on. The visitors’ persistence paid off in the 22nd minute when Robert Bozenik turned provider, delivering a sharp assist to Ben Johnson , who clinical finish broke the deadlock. As the intensity grew, the referee was forced to go to his pocket, issuing yellow cards to Ben Wilmot and Perry Ng as both teams battled for supremacy in a fiercely contested first half. Colwill Rescues a Point for Cardiff Following the halftime break, Cardiff City emerged with renewed energy, determined to find a way back into the contest. Their efforts bore fruit in the 63rd minute when Chris Willock carved open the defense, allowing Joel Colwill to strike a decisive equalizer. Despite a flurry of tactical substitutions, including the introduction of Jun-Ho Bae for the visitors and Cian Ashford for the hosts, neither side could find a late winner. The match concluded after four minutes of stoppage time, leaving both teams to take a hard-earned point from a gripping encounter."
+    },
     {
       "title": "birmingham city - wolverhampton wanderers",
       "thumbnail_url": "https://img.refooty.com/thumbnail/birmingham-city-wolverhampton-wanderers-2026-09-06-2Dwy.webp",
@@ -2310,1092 +3657,6 @@
         }
       },
       "description": "Watch Preston North End vs Blackburn Rovers highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The Championship atmosphere was electric on September 5, 2026 , as Preston North End and Blackburn Rovers faced off in a high-stakes encounter. Both sides looked to assert their dominance early in a match that promised intensity and tactical drama from the first whistle. Callum Lang's Explosive Start The match began with frenetic energy, and it didn't take long for the deadlock to be broken. In the 9th minute, Preston North End found their breakthrough via Callum Lang , who finished clinically following excellent work from Delano Burgzorg . Burgzorg's vision dismantled the opposition defense, allowing Lang to put his side into an early lead. The pressure remained relentless, and by the 28th minute, Callum Lang was at it again. This time, Jordan Thompson provided the vital assist for the forward, who made no mistake in securing his second goal of the afternoon. With a two-goal cushion established, the physical nature of the contest ramped up, resulting in a yellow card for Yuri Ribeiro shortly before the half-hour mark. Discipline and Tactical Tensions As the first half drew to a close, the tension between the players became palpable. The referee was forced to intervene multiple times to maintain control of the game. Sam Morsy was cautioned with a yellow card in the 40th minute, followed quickly by Delano Burgzorg , who also saw yellow in the 42nd minute. The teams headed into the tunnel after four minutes of stoppage time with plenty of tactical adjustments to consider for the second period. Own Goal Drama and Final Whistle The second half started in disastrous fashion for the visitors. In the 51st minute, Stanley Mills inadvertently sent the ball into his own net, conceding an own goal that further widened the gap. To compound his frustration, Mills received a yellow card just one minute later, symbolizing the mounting pressure on the pitch. A wave of substitutions followed from the 59th minute as both managers looked to refresh their lineups. Johnny Kenny , Jusef Erabi , and Andrija Vukcevic were introduced, while the influential Callum Lang and Delano Burgzorg made way. Late yellow cards for Harry Clarke and Jordan Thompson highlighted a scrappy final period, but the result remained firm until the final whistle blew at 90+5 minutes."
-    },
-    {
-      "title": "Sheffield United vs Birmingham",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/sheffield-united-vs-birmingham-2026-08-15-zTwV.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Aug 15, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/54.webp",
-          "name": "Birmingham",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/15407.webp",
-          "name": "Sheffield United",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/sheffield-united-vs-birmingham-2026-08-15_CLNoH.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {
-          "Sheffield United_wins": "2",
-          "draws": "2",
-          "Birmingham_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "14/03/2026",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Birmingham City 1 - 1 Sheffield United"
-          },
-          {
-            "date": "13/08/2025",
-            "competition": "EFL Cup: Round 1 25/26",
-            "teams_and_score": "Birmingham City 2 - 1 Sheffield United"
-          },
-          {
-            "date": "08/05/2023",
-            "competition": "Championship 22/23",
-            "teams_and_score": "Birmingham City 1 - 2 Sheffield United"
-          },
-          {
-            "date": "04/02/2022",
-            "competition": "Championship 21/22",
-            "teams_and_score": "Birmingham City 1 - 2 Sheffield United"
-          },
-          {
-            "date": "10/04/2019",
-            "competition": "Championship",
-            "teams_and_score": "Birmingham City 1 - 1 Sheffield United"
-          }
-        ],
-        "home_team_form": {
-          "team": "Sheffield United",
-          "form": [
-            "D",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Sheffield United 0 - 0 Birmingham City",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Derby County 1 - 2 Sheffield United",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Birmingham",
-          "form": [
-            "D",
-            "W",
-            "D",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Sheffield United 0 - 0 Birmingham City",
-              "result": "D"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
-              "result": "W"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
-              "result": "D"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Crewe Alexandra 1 - 2 Birmingham City",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Portsmouth 1 - 1 Birmingham City",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Sheffield United": "1",
-          "Birmingham": "2"
-        },
-        "shots_off_target": {
-          "Sheffield United": "2",
-          "Birmingham": "5"
-        },
-        "shots_blocked": {
-          "Sheffield United": "0",
-          "Birmingham": "3"
-        },
-        "corners": {
-          "Sheffield United": "2",
-          "Birmingham": "8"
-        },
-        "fouls": {
-          "Sheffield United": "12",
-          "Birmingham": "12"
-        },
-        "offsides": {
-          "Sheffield United": "2",
-          "Birmingham": "3"
-        },
-        "goalkeeper_saves": {
-          "Sheffield United": "2",
-          "Birmingham": "1"
-        },
-        "crosses": {
-          "Sheffield United": "3",
-          "Birmingham": "4"
-        },
-        "ball_possession": {
-          "Sheffield United": "45%",
-          "Birmingham": "55%"
-        }
-      },
-      "description": "Watch Sheffield United vs Birmingham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The atmosphere was thick with anticipation as two historic clubs locked horns in a clash of tactical discipline. Both sides looked to assert their dominance early on, setting the stage for a gritty encounter under the floodlights. Tactical Stalemate in the Opening Period On August 15, 2026 , Sheffield United hosted Birmingham in a Championship fixture defined by its physical intensity. The first half saw both teams struggle to find a decisive breakthrough, as defensive units remained compact and disciplined. Despite the high energy levels, clear-cut chances were at a premium, and the referee brought the first period to a close after two minutes of added time with the scores still level. Tactical Adjustments and Fresh Legs As the second half got underway, both managers turned to their benches to find a spark. In the 60th minute, Sheffield United introduced Tyrese Campbell for Thomas Cannon , while Birmingham brought on the creative Tahith Chong . The game began to open up slightly as Ollie Arblaster and Demarai Gray entered the fray for their respective sides. The introduction of Ryan One and Harrison Burrows late in the half further signaled the home side's intent to snatch a late winner, but the visitors' defense held firm under increasing pressure. A Final Push for Victory The closing stages were marked by a flurry of substitutions, including Ethan Laird and Luis Vazquez coming on for Birmingham in the 87th minute. Despite five minutes of stoppage time and several late set-piece opportunities, neither side could find the back of the net. The referee blew the final whistle at 90+5', concluding a match where defensive organization ultimately triumphed over offensive ambition, leaving both teams to take a hard-earned point home."
-    },
-    {
-      "title": "Bristol City vs Millwall",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-city-vs-millwall-2026-08-15-4Y4z.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Aug 15, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/58.webp",
-          "name": "Millwall",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/56.webp",
-          "name": "Bristol City",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/bristol-city-vs-millwall-2026-08-15_BYhkC.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Millwall",
-          "player": "J. Coburn",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Bristol City",
-          "player": "A. Randell",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Bristol City",
-          "player": "A. Randell",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "46'",
-          "team": "Millwall",
-          "player": "J. Coburn",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Millwall",
-          "player": "J. Metcalfe",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Millwall",
-          "player": "J. Coburn",
-          "event_type": "Goal",
-          "assist": "J. Metcalfe",
-          "score_update": "0 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Bristol City_wins": "2",
-          "draws": "1",
-          "Millwall_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "29/12/2025",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Millwall 2 - 1 Bristol City"
-          },
-          {
-            "date": "04/03/2025",
-            "competition": "Championship",
-            "teams_and_score": "Millwall 0 - 2 Bristol City"
-          },
-          {
-            "date": "01/01/2024",
-            "competition": "Championship 23/24",
-            "teams_and_score": "Bristol City 0 - 1 Millwall"
-          },
-          {
-            "date": "29/12/2022",
-            "competition": "Championship 22/23",
-            "teams_and_score": "Millwall 0 - 0 Bristol City"
-          },
-          {
-            "date": "02/01/2022",
-            "competition": "Championship 21/22",
-            "teams_and_score": "Bristol City 3 - 2 Millwall"
-          }
-        ],
-        "home_team_form": {
-          "team": "Bristol City",
-          "form": [
-            "L",
-            "L",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Bristol City 0 - 2 Millwall",
-              "result": "L"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Bristol City 0 - 1 Walsall",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Exeter City 1 - 1 Bristol City",
-              "result": "D"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Bristol City 4 - 1 Newcastle United",
-              "result": "W"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Forest Green Rovers 3 - 2 Bristol City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Millwall",
-          "form": [
-            "W",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Bristol City 0 - 2 Millwall",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "QPR 1 - 1 Millwall",
-              "result": "D"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Millwall 1 - 0 Royal Antwerp",
-              "result": "W"
-            },
-            {
-              "date": "11/05/2026",
-              "competition": "Championship: Play-offs 25/26",
-              "teams_and_score": "Millwall 0 - 2 Hull City",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Bristol City": "0",
-          "Millwall": "3"
-        },
-        "shots_off_target": {
-          "Bristol City": "6",
-          "Millwall": "10"
-        },
-        "shots_blocked": {
-          "Bristol City": "2",
-          "Millwall": "11"
-        },
-        "corners": {
-          "Bristol City": "6",
-          "Millwall": "6"
-        },
-        "fouls": {
-          "Bristol City": "8",
-          "Millwall": "12"
-        },
-        "offsides": {
-          "Bristol City": "1",
-          "Millwall": "3"
-        },
-        "yellow_cards": {
-          "Bristol City": "0",
-          "Millwall": "2"
-        },
-        "red_cards": {
-          "Bristol City": "1",
-          "Millwall": "0"
-        },
-        "goalkeeper_saves": {
-          "Bristol City": "2",
-          "Millwall": "0"
-        },
-        "crosses": {
-          "Bristol City": "0",
-          "Millwall": "13"
-        },
-        "ball_possession": {
-          "Bristol City": "34%",
-          "Millwall": "66%"
-        }
-      },
-      "description": "Watch Bristol City vs Millwall highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The atmosphere was electric on August 15, 2026 , as Bristol City faced off against Millwall in a highly anticipated Championship encounter. Both sets of players took to the pitch with high energy, setting the stage for a match where tactical discipline and clinical finishing would prove to be the ultimate difference-makers. Early Discipline and the Red Card Turning Point The contest began with a physical edge, as the referee was called into action early to maintain control. Millwall forward Josh Coburn received an early booking in the 15th minute, but the momentum shifted decisively against the hosts later in the half. Bristol City midfielder Adam Randell was cautioned in the 23rd minute, and his afternoon came to a premature end in the 36th minute after receiving a second yellow card. Reduced to ten men, the home side faced an uphill battle for the remainder of the afternoon. Millwall wasted little time in exploiting their numerical advantage. In the 41st minute, Josh Coburn found the back of the net to break the deadlock, silencing the home crowd. Despite the tactical adjustments from the Bristol City bench, including the introduction of Kyrell Lisbie for Femi Azeez , the visitors headed into the break with both a lead and a man advantage. Coburn Seals the Result in the Second Half The second half started much like the first ended, with the visitors exerting pressure. Just five minutes after the restart, Jenson Metcalfe turned provider, delivering a pinpoint assist for Josh Coburn , who clinically dispatched his second goal of the match in the 50th minute. This two-goal cushion allowed Millwall to manage the game with confidence, while Bristol City struggled to create clear-cut chances with a depleted lineup. As the clock ticked down, both managers turned to their benches to freshen up the play. Mark Sykes and Lyndon Dykes were among the many substitutes introduced as the pace of the game naturally slowed. Despite a late push from the hosts in the six minutes of added time, Millwall remained professional and composed. The final whistle confirmed a comprehensive victory for the visitors, headlined by Coburn's brace and a pivotal first-half dismissal."
-    },
-    {
-      "title": "Portsmouth vs QPR",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/portsmouth-vs-qpr-2026-08-15-eRyc.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Aug 15, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/72.webp",
-          "name": "QPR",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1355.webp",
-          "name": "Portsmouth",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/portsmouth-vs-qpr-2026-08-15_RUVkC.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "15'",
-          "team": "Portsmouth",
-          "player": "T. Devlin",
-          "event_type": "Goal",
-          "assist": "E. Adams",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "25'",
-          "team": "QPR",
-          "player": "R. Edwards",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "33'",
-          "team": "QPR",
-          "player": "I. Chair",
-          "event_type": "Goal",
-          "assist": "H. Vale",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "40'",
-          "team": "QPR",
-          "player": "K. Saito",
-          "event_type": "Goal",
-          "assist": "I. Chair",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "45+2'",
-          "team": "QPR",
-          "player": "I. Chair",
-          "event_type": "Goal",
-          "assist": "A. S. Mbengue",
-          "score_update": "1 - 3"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Portsmouth_wins": "2",
-          "draws": "0",
-          "QPR_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "21/03/2026",
-            "competition": "Championship 25/26",
-            "teams_and_score": "QPR 6 - 1 Portsmouth"
-          },
-          {
-            "date": "22/02/2025",
-            "competition": "Championship",
-            "teams_and_score": "Portsmouth 2 - 1 QPR"
-          },
-          {
-            "date": "28/08/2019",
-            "competition": "EFL Cup",
-            "teams_and_score": "QPR 0 - 2 Portsmouth"
-          },
-          {
-            "date": "05/02/2019",
-            "competition": "FA Cup",
-            "teams_and_score": "QPR 2 - 0 Portsmouth"
-          },
-          {
-            "date": "01/02/2011",
-            "competition": "Championship",
-            "teams_and_score": "QPR 2 - 0 Portsmouth"
-          }
-        ],
-        "home_team_form": {
-          "team": "Portsmouth",
-          "form": [
-            "L",
-            "L",
-            "D",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Portsmouth 1 - 3 QPR",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "West Ham United 3 - 1 Portsmouth",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Darmstadt 0 - 0 Portsmouth",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Portsmouth 1 - 1 Birmingham City",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "QPR",
-          "form": [
-            "W",
-            "D",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Portsmouth 1 - 3 QPR",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "QPR 1 - 1 Millwall",
-              "result": "D"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "AFC Wimbledon 2 - 3 QPR",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "QPR 3 - 2 Fiorentina",
-              "result": "W"
-            },
-            {
-              "date": "21/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "QPR 1 - 0 Wycombe Wanderers",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Portsmouth": "6",
-          "QPR": "6"
-        },
-        "shots_off_target": {
-          "Portsmouth": "8",
-          "QPR": "5"
-        },
-        "shots_blocked": {
-          "Portsmouth": "3",
-          "QPR": "2"
-        },
-        "corners": {
-          "Portsmouth": "6",
-          "QPR": "3"
-        },
-        "fouls": {
-          "Portsmouth": "9",
-          "QPR": "13"
-        },
-        "offsides": {
-          "Portsmouth": "3",
-          "QPR": "0"
-        },
-        "yellow_cards": {
-          "Portsmouth": "0",
-          "QPR": "1"
-        },
-        "goalkeeper_saves": {
-          "Portsmouth": "3",
-          "QPR": "5"
-        },
-        "crosses": {
-          "Portsmouth": "5",
-          "QPR": "6"
-        },
-        "ball_possession": {
-          "Portsmouth": "54%",
-          "QPR": "46%"
-        }
-      },
-      "description": "Watch Portsmouth vs QPR highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The Championship action heated up as Portsmouth welcomed QPR for a clash filled with tactical intrigue. Both sides looked to establish their dominance early on in this highly anticipated fixture on August 15, 2026 . Early Breakthrough and Momentum Shifts Portsmouth found their rhythm early, and in the 15th minute, Terry Devlin sent the home crowd into raptures. After a brilliant assist from Ebou Adams , Devlin clinicaly finished to put the hosts ahead. The early goal seemed to galvanize the home side, but the momentum was about to shift dramatically as the visitors found their feet. The Ilias Chair Masterclass QPR took full control as the first half progressed, led by a stunning performance from Ilias Chair . In the 33rd minute, Chair equalized after being set up by Harvey Vale . The playmaker then turned provider in the 40th minute, assisting Koki Saito to put the visitors in front. Just before the half-time whistle in the 45+2nd minute, Chair struck again, finishing a pass from Amadou Salif Mbengue to cap off a remarkable turnaround. Tactical Adjustments and Final Whistle The second half was a story of substitutions and defensive discipline rather than goals. Managers introduced fresh legs like Paul Smyth , Glen Kamara , and Marko Milovanovic to alter the game's flow. Despite Portsmouth 's persistent efforts to claw back into the match, the QPR defense held firm through seven minutes of stoppage time to secure the result and take all three points home."
-    },
-    {
-      "title": "wolves - blackburn rovers",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/wolves-blackburn-rovers-2026-08-14-wiEg.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Aug 14, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/15401.webp",
-          "name": "Blackburn Rovers",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/39.webp",
-          "name": "Wolves",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/wolves-blackburn-rovers-2026-08-14_BMEGn.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Wolves",
-          "player": "M. Munetsi",
-          "event_type": "Goal",
-          "assist": "F. Lopez",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Blackburn Rovers",
-          "player": "S. McLoughlin",
-          "event_type": "Goal",
-          "assist": "R. Morishita",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Blackburn Rovers",
-          "player": "H. Pickering",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Blackburn Rovers",
-          "player": "T. Cantwell",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Blackburn Rovers",
-          "player": "A. Forshaw",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "48'",
-          "team": "Blackburn Rovers",
-          "player": "A. Gudjohnsen",
-          "event_type": "Goal",
-          "assist": "O. Afolayan",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "52'",
-          "team": "Wolves",
-          "player": "M. Mane",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Wolves",
-          "player": "R. Jiménez",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Wolves_wins": "1",
-          "draws": "1",
-          "Blackburn Rovers_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "09/02/2025",
-            "competition": "FA Cup: Round 4",
-            "teams_and_score": "Blackburn Rovers 0 - 2 Wolves"
-          },
-          {
-            "date": "22/04/2017",
-            "competition": "Championship",
-            "teams_and_score": "Wolves 0 - 0 Blackburn Rovers"
-          },
-          {
-            "date": "10/03/2012",
-            "competition": "Premier League",
-            "teams_and_score": "Wolves 0 - 2 Blackburn Rovers"
-          }
-        ],
-        "home_team_form": {
-          "team": "Wolves",
-          "form": [
-            "D",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "14/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Wolves 2 - 2 Blackburn Rovers",
-              "result": "D"
-            },
-            {
-              "date": "07/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Wolves 3 - 0 Port Vale",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Wolves 3 - 0 Racing Santander",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Wolves 1 - 2 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "22/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Maidenhead United 0 - 1 Wolves",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Blackburn Rovers",
-          "form": [
-            "D",
-            "W",
-            "D",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "14/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Wolves 2 - 2 Blackburn Rovers",
-              "result": "D"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Burton Albion 1 - 2 Blackburn Rovers",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Huddersfield Town 1 - 1 Blackburn Rovers",
-              "result": "D"
-            },
-            {
-              "date": "22/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Nottingham Forest 3 - 0 Blackburn Rovers",
-              "result": "L"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Accrington Stanley 0 - 0 Blackburn Rovers",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Wolves": "3",
-          "Blackburn Rovers": "5"
-        },
-        "shots_off_target": {
-          "Wolves": "10",
-          "Blackburn Rovers": "2"
-        },
-        "shots_blocked": {
-          "Wolves": "5",
-          "Blackburn Rovers": "3"
-        },
-        "corners": {
-          "Wolves": "5",
-          "Blackburn Rovers": "5"
-        },
-        "fouls": {
-          "Wolves": "10",
-          "Blackburn Rovers": "16"
-        },
-        "offsides": {
-          "Wolves": "0",
-          "Blackburn Rovers": "1"
-        },
-        "yellow_cards": {
-          "Wolves": "1",
-          "Blackburn Rovers": "3"
-        },
-        "goalkeeper_saves": {
-          "Wolves": "3",
-          "Blackburn Rovers": "1"
-        },
-        "crosses": {
-          "Wolves": "2",
-          "Blackburn Rovers": "5"
-        },
-        "ball_possession": {
-          "Wolves": "55%",
-          "Blackburn Rovers": "45%"
-        }
-      },
-      "description": "Watch Wolves vs Blackburn Rovers highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 14, 2026. The atmosphere was electric as two storied clubs faced off on the pitch, both eager to establish their dominance in a high-stakes encounter. Fans were treated to a tactical battle where every move counted and the momentum shifted with every whistle. An Intense Opening Half On August 14, 2026 , Wolverhampton welcomed Blackburn Rovers for a gripping Championship fixture. The home side wasted little time in making their mark, as Fer Lopez provided a pinpoint assist for Marshall Munetsi to open the scoring in the 18th minute. However, the visitors showed great resilience and fought back almost immediately. By the 27th minute, Ryoya Morishita set up Sean McLoughlin , who clinicaly leveled the score for Blackburn . As the first half progressed, the physical nature of the game increased. The referee was kept busy, issuing yellow cards to Harry Pickering , Todd Cantwell , and Adam Forshaw as both teams battled for control of the midfield. Despite several chances at both ends, the sides went into the break on level terms. Second Half Shifts and Late Drama The second half began with a shock for the home crowd. Just three minutes after the restart, Oladapo Afolayan found Andri Gudjohnsen , who fired Blackburn Rovers into the lead. Faced with a deficit, Wolverhampton made several tactical changes, introducing Raul Jimenez to provide more firepower. The match remained a tense affair with multiple substitutions, including the introduction of Yuri Ribeiro and Pedro Lima as both managers sought a decisive edge. Just as it seemed Blackburn would escape with all three points, drama unfolded in stoppage time. In the 90+3rd minute, Wolverhampton were awarded a penalty. Raul Jimenez stepped up under immense pressure and calmly converted from the spot to make it 2-2. The final whistle blew after six minutes of added time, concluding a thrilling contest where neither side was willing to back down."
-    },
-    {
-      "title": "Stoke City vs Swansea City",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/stoke-city-vs-swansea-city-2026-08-15-UQlo.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Aug 15, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/23192.webp",
-          "name": "Swansea City",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/75.webp",
-          "name": "Stoke City",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/stoke-city-vs-swansea-city-2026-08-15_IAEtT.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Stoke City",
-          "player": "E. J. Bocat",
-          "event_type": "Goal",
-          "assist": "T. Rigo",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Swansea City",
-          "player": "J. Opoku",
-          "event_type": "Goal",
-          "assist": "Ž. Vipotnik",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Stoke City",
-          "player": "L. Graham",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "53'",
-          "team": "Swansea City",
-          "player": "F. Lissah",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "66'",
-          "team": "Swansea City",
-          "player": "A. Idah",
-          "event_type": "Goal",
-          "assist": "J. Tymon",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "86'",
-          "team": "Swansea City",
-          "player": "M. Widell",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Swansea City",
-          "player": "J. Tymon",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Stoke City_wins": "3",
-          "draws": "0",
-          "Swansea City_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "07/03/2026",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Swansea City 2 - 0 Stoke City"
-          },
-          {
-            "date": "15/02/2025",
-            "competition": "Championship",
-            "teams_and_score": "Stoke City 3 - 1 Swansea City"
-          },
-          {
-            "date": "10/04/2024",
-            "competition": "Championship 23/24",
-            "teams_and_score": "Swansea City 3 - 0 Stoke City"
-          },
-          {
-            "date": "21/02/2023",
-            "competition": "Championship 22/23",
-            "teams_and_score": "Swansea City 1 - 3 Stoke City"
-          },
-          {
-            "date": "08/02/2022",
-            "competition": "Championship 21/22",
-            "teams_and_score": "Stoke City 3 - 0 Swansea City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Stoke City",
-          "form": [
-            "L",
-            "W",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Stoke City 1 - 2 Swansea City",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Stoke City 2 - 0 Oldham Athletic",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Stoke City 1 - 1 Valencia",
-              "result": "D"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Stoke City 4 - 0 Sheffield Wednesday",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Bristol City 2 - 0 Stoke City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Swansea City",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Stoke City 1 - 2 Swansea City",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Swansea City 1 - 0 Leganes",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Swansea City 3 - 1 Charlton Athletic",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Stoke City": "2",
-          "Swansea City": "3"
-        },
-        "shots_off_target": {
-          "Stoke City": "4",
-          "Swansea City": "3"
-        },
-        "shots_blocked": {
-          "Stoke City": "0",
-          "Swansea City": "1"
-        },
-        "corners": {
-          "Stoke City": "4",
-          "Swansea City": "5"
-        },
-        "fouls": {
-          "Stoke City": "14",
-          "Swansea City": "9"
-        },
-        "offsides": {
-          "Stoke City": "1",
-          "Swansea City": "1"
-        },
-        "yellow_cards": {
-          "Stoke City": "1",
-          "Swansea City": "3"
-        },
-        "goalkeeper_saves": {
-          "Stoke City": "1",
-          "Swansea City": "1"
-        },
-        "crosses": {
-          "Stoke City": "4",
-          "Swansea City": "6"
-        },
-        "ball_possession": {
-          "Stoke City": "41%",
-          "Swansea City": "59%"
-        }
-      },
-      "description": "Watch Stoke City vs Swansea City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The atmosphere at the Bet365 Stadium was expectant as Stoke City hosted Swansea City in a high-stakes Championship encounter. Both sides entered the pitch looking to establish their authority early in the season, setting the stage for a tactical battle defined by clinical finishing and bench depth. Early Exchanges and Instant Responses The match kicked off on August 15, 2026 , with the home side finding their rhythm almost immediately. In the 10th minute, Stoke City broke the deadlock when Tomas Rigo provided a clever assist for Eric Bocat , who made no mistake in slotting the ball home. The lead, however, was short-lived as Swansea City began to find gaps in the Potters' defense. Their persistence paid off in the 23rd minute; Zan Vipotnik turned provider for Joseph Opoku , who finished calmly to level the scores and silence the home crowd. As the first half progressed, the intensity grew, leading to a yellow card for Stoke's Luke Graham in the 36th minute. Despite several close chances for both teams, the sides remained deadlocked at 1-1 heading into the interval after a lengthy period of stoppage time. Substitute Heroics Turn the Tide The second half saw both managers turn to their benches to break the impasse. Swansea City made a decisive triple substitution in the 65th minute, introducing Adam Idah to lead the line. The move proved to be a masterstroke. Just a minute later, Josh Tymon delivered a pinpoint cross that Adam Idah expertly converted to put the visitors ahead for the first time in the match. Stoke City attempted to claw their way back, introducing Jun-Ho Bae and Robert Bozenik to bolster their attack, but the Swans' backline held firm. The closing stages were frantic, characterized by defensive resilience and a flurry of bookings for Swansea's Melker Widell and Josh Tymon . After six minutes of added time, the referee blew the final whistle, confirming a hard-earned victory for the visiting side."
     },
     {
       "title": "Queens Park Rangers vs Cardiff City",
@@ -11287,210 +11548,11 @@
         }
       },
       "description": "Watch Preston North End vs Wolves highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The clash between Preston North End and Wolves on August 22, 2026, brought intense competitive energy to the Championship fixture. Early dominance sets the tone The match ignited quickly, with Wolves asserting their presence early on. Just 8 minutes into the game, Andre provided a sublime assist for Fer Lopez , who calmly fired home the opening goal. The Preston North End defense found themselves under immense pressure throughout the first half, resulting in disciplinary challenges for Andrew Hughes and Marshall Munetsi as the hosts struggled to regain their footing. Sealing the result in the second half As play resumed after the interval, the physicality of the game increased, leading to yellow cards for Alistair McCann and Leo Leroy . The Wolves continued to exploit gaps in the opposition's defensive setup, finding their second goal in the 72nd minute through Adam Armstrong , who was set up by Raul Jimenez . The visitors effectively sealed the match in the 83rd minute when Fer Lopez struck again, assisted by Tommy Doyle , to make it 3-0. While Jordan Thompson managed to claw one back for Preston North End deep into stoppage time thanks to Delano Burgzorg , the visitors had already done enough to secure the victory."
-    },
-    {
-      "title": "Swansea City vs Sheffield United",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/swansea-city-vs-sheffield-united-2026-08-22-UjUe.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Aug 22, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/15407.webp",
-          "name": "Sheffield United",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/23192.webp",
-          "name": "Swansea City",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/swansea-city-vs-sheffield-united-2026-08-22.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Sheffield United",
-          "player": "H. Burrows",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "59'",
-          "team": "Swansea City",
-          "player": "J. Fulton",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "72'",
-          "team": "Sheffield United",
-          "player": "J. Tanganga",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Swansea City",
-          "player": "F. Lissah",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Swansea City_wins": "1",
-          "draws": "1",
-          "Sheffield United_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "03/04/2026",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Sheffield United 3 - 3 Swansea City"
-          },
-          {
-            "date": "21/01/2025",
-            "competition": "Championship",
-            "teams_and_score": "Swansea City 1 - 2 Sheffield United"
-          },
-          {
-            "date": "11/02/2023",
-            "competition": "Championship 22/23",
-            "teams_and_score": "Sheffield United 3 - 0 Swansea City"
-          },
-          {
-            "date": "19/02/2022",
-            "competition": "Championship 21/22",
-            "teams_and_score": "Sheffield United 4 - 0 Swansea City"
-          },
-          {
-            "date": "19/01/2019",
-            "competition": "Championship",
-            "teams_and_score": "Swansea City 1 - 0 Sheffield United"
-          }
-        ],
-        "home_team_form": {
-          "team": "Swansea City",
-          "form": [
-            "D",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
-              "result": "D"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Swansea City 1 - 0 Leganes",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Swansea City 3 - 1 Charlton Athletic",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Sheffield United",
-          "form": [
-            "D",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Swansea City 0 - 0 Sheffield United",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Mansfield Town 0 - 3 Sheffield United",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "VfL Bochum 0 - 0 Sheffield United",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Derby County 1 - 2 Sheffield United",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Swansea City": "1",
-          "Sheffield United": "2"
-        },
-        "shots_off_target": {
-          "Swansea City": "3",
-          "Sheffield United": "6"
-        },
-        "shots_blocked": {
-          "Swansea City": "5",
-          "Sheffield United": "4"
-        },
-        "corners": {
-          "Swansea City": "6",
-          "Sheffield United": "3"
-        },
-        "fouls": {
-          "Swansea City": "14",
-          "Sheffield United": "10"
-        },
-        "offsides": {
-          "Swansea City": "2",
-          "Sheffield United": "6"
-        },
-        "yellow_cards": {
-          "Swansea City": "2",
-          "Sheffield United": "2"
-        },
-        "goalkeeper_saves": {
-          "Swansea City": "2",
-          "Sheffield United": "1"
-        },
-        "crosses": {
-          "Swansea City": "4",
-          "Sheffield United": "2"
-        },
-        "ball_possession": {
-          "Swansea City": "69%",
-          "Sheffield United": "31%"
-        }
-      },
-      "description": "Watch Swansea City vs Sheffield United highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 22, 2026. Swansea City and Sheffield United locked horns in a high-stakes Championship clash that tested the tactical discipline of both managers. The encounter at the heart of the 2026 campaign promised intensity as two of the league's established sides met on a crucial afternoon. A Cagey Affair at the Liberty Staged on August 22, 2026 , the match began with both Swansea City and Sheffield United showing immense respect for each other's defensive structures. The early exchanges were characterized by tough tackling and a crowded midfield, leading to the game's first booking in the 24th minute when Harrison Burrows was shown a yellow card. Despite several attempts to break the lines, neither side could find the definitive final ball before the referee signaled for half-time, leaving the tactical puzzle unsolved at the break. Tactical Shifts and Midfield Battles The second half saw an increase in physical play as both teams pushed for an opening. Swansea City midfielder Jay Fulton received a yellow card in the 59th minute, prompting a wave of substitutions from both dugouts. The hosts introduced Ji-Sung Eom and Zan Vipotnik to inject pace into their attack, while Sheffield United looked to the bench for stability, bringing on Jairo Riedewald . The bookings continued to mount as the game grew more desperate, with Japhet Tanganga entering the referee's book in the 72nd minute during a period of sustained pressure. Late Drama and the Final Whistle As the clock ticked toward the 90-minute mark, both managers made their final strategic moves. Patrick Bamford made way for Tyrese Campbell , while the visitors introduced Rhys Norrington-Davies and Jamie Shackleton to see out the closing stages. In a frantic seven minutes of stoppage time, Filip Lissah was cautioned for a cynical foul to stop a potential counter-attack. Ultimately, the defenses remained impenetrable, and the referee's final whistle at 90+7' brought an end to a hard-fought contest where a draw felt like a fair reflection of the play."
     }
   ],
   "hasMore": true,
   "currentCount": 50,
-  "totalCount": 55,
+  "totalCount": 61,
   "currentPage": 1,
   "lastPage": 2
 }

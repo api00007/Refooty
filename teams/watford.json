@@ -1,9 +1,232 @@
 {
   "team": "Watford",
   "team_logo": "https://img.refooty.com/logo/teams/38.webp",
-  "total_matches": 9,
-  "Last update time": "03:10:38 AM 09-09-2026",
+  "total_matches": 10,
+  "Last update time": "01:10:20 AM 10-09-2026",
   "matches": [
+    {
+      "title": "watford - preston north end",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-preston-north-end-2026-09-08-v7V9.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/25148.webp",
+          "name": "Preston North End",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/38.webp",
+          "name": "Watford",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/watford-preston-north-end-2026-09-08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Preston North End",
+          "player": "C. Lang",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Preston North End",
+          "player": "A. Vukcevic",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Preston North End",
+          "player": "L. Gibson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Watford",
+          "player": "E. Kayembe",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Watford",
+          "player": "M. Doumbia",
+          "event_type": "Goal",
+          "assist": "I. Bravo",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Watford_wins": "1",
+          "draws": "3",
+          "Preston North End_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "14/02/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Preston North End 2 - 2 Watford"
+          },
+          {
+            "date": "21/01/2025",
+            "competition": "Championship",
+            "teams_and_score": "Watford 1 - 2 Preston North End"
+          },
+          {
+            "date": "06/04/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Watford 0 - 0 Preston North End"
+          },
+          {
+            "date": "04/03/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Watford 0 - 0 Preston North End"
+          },
+          {
+            "date": "16/02/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Preston North End 0 - 1 Watford"
+          }
+        ],
+        "home_team_form": {
+          "team": "Watford",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Watford 2 - 1 Preston North End",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Watford 1 - 5 Peterborough United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Wrexham 1 - 1 Watford",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Watford 1 - 0 Crawley Town",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Watford 0 - 1 Fiorentina",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Preston North End",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Watford 2 - 1 Preston North End",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Wolves",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Preston North End 1 - 1 Huddersfield Town",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stockport County 1 - 0 Preston North End",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Watford": "5",
+          "Preston North End": "6"
+        },
+        "shots_off_target": {
+          "Watford": "7",
+          "Preston North End": "6"
+        },
+        "shots_blocked": {
+          "Watford": "3",
+          "Preston North End": "6"
+        },
+        "corners": {
+          "Watford": "2",
+          "Preston North End": "4"
+        },
+        "fouls": {
+          "Watford": "7",
+          "Preston North End": "10"
+        },
+        "offsides": {
+          "Watford": "2",
+          "Preston North End": "1"
+        },
+        "yellow_cards": {
+          "Watford": "0",
+          "Preston North End": "2"
+        },
+        "goalkeeper_saves": {
+          "Watford": "5",
+          "Preston North End": "3"
+        },
+        "crosses": {
+          "Watford": "4",
+          "Preston North End": "4"
+        },
+        "ball_possession": {
+          "Watford": "61%",
+          "Preston North End": "39%"
+        }
+      },
+      "description": "Watch Watford vs Preston North End highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The atmosphere was thick with anticipation as two ambitious Championship sides squared off in a match that promised tactical intrigue and high-octane energy. Both teams looked to establish dominance early, setting the stage for a compelling afternoon of football. Preston's Early Statement On September 8, 2026, Preston North End wasted no time in making their presence felt. Just six minutes into the contest, Callum Lang found the back of the net with a clinical finish, stunning the home crowd and giving his side an early lead. The first half continued with Watford struggling to break down a resilient Preston defense, as the visitors maintained their discipline and kept the hosts at arm's length until the interval. Searching for a spark, Watford introduced a triple substitution at the start of the second half, bringing on Iker Bravo , Stephy Mavididi , and Othmane Maamma . These changes immediately altered the tempo of the game, as the home side began to dominate possession and pin Preston back into their own territory. The Hornets' Late Surge The pressure finally told in the 69th minute. After a period of sustained attacks, Edo Kayembe powered home the equalizer, shifting the momentum entirely in favor of the Hornets . The crowd's energy surged, and the home side sensed an opportunity to take all three points against a tiring Preston North End outfit. The comeback was completed in the 76th minute in spectacular fashion. Iker Bravo , who had been instrumental since his introduction, provided a perfect assist for Mamadou Doumbia , who made no mistake in putting Watford ahead. Despite late bookings for Andrija Vukcevic and Lewis Gibson , and a flurry of tactical changes from both benches, Watford held firm through five minutes of stoppage time to secure a hard-fought victory."
+    },
     {
       "title": "west bromwich albion - watford",
       "thumbnail_url": "https://img.refooty.com/thumbnail/west-bromwich-albion-watford-2026-09-05-qJYH.webp",
@@ -253,286 +476,6 @@
         }
       },
       "description": "Watch West Bromwich Albion vs Watford highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 5, 2026. Expectations were high at The Hawthorns as West Bromwich Albion hosted Watford for a gripping Championship fixture. On 5 September 2026, the two sides took to the pitch in a battle defined by physical combat and clinical execution. Decisive Moment Early exchanges were marked by a flurry of disciplinary actions, with Martin Payero entering the referee's notebook as early as the 16th minute. The game's defining moment arrived in the 36th minute when a well-crafted play saw Harry Whitwell provide a pinpoint assist to Jimmy-Jay Morgan . Morgan kept his composure to find the back of the net, handing his side a lead that would hold firm throughout the remainder of the afternoon. Second Half Intensity As the second half unfolded, the tactical battle intensified with both managers turning to their benches. Edo Kayembe joined the fray immediately after the restart, while changes like the introduction of Stephy Mavididi and Felix Horn Myhre aimed to inject fresh energy into the attacking lines. However, the game descended into a frantic finish, with the referee busy brandishing cards to manage the escalating physicality. By the time the final whistle blew, a series of late yellow cards issued to Nathaniel Phillips , Harry Whitwell , Isaac Price , and Iker Bravo encapsulated the desperate nature of the dying minutes."
-    },
-    {
-      "title": "Watford vs Fiorentina",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-vs-fiorentina-2026-07-30-K27S.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Jul 30, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/502.webp",
-          "name": "Fiorentina",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/38.webp",
-          "name": "Watford",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/watford-vs-fiorentina-2026-07-30_RvRq5.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Fiorentina",
-          "player": "R. Piccoli",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Watford_wins": "0",
-          "draws": "0",
-          "Fiorentina_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Watford",
-          "form": [
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Watford 0 - 1 Fiorentina",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Watford 3 - 0 Hansa Rostock",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Watford 0 - 4 Coventry City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Fiorentina",
-          "form": [
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Watford 0 - 1 Fiorentina",
-              "result": "W"
-            },
-            {
-              "date": "19/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Fiorentina 8 - 1 Fiorentina U20",
-              "result": "W"
-            },
-            {
-              "date": "22/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Fiorentina 1 - 1 Atalanta",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Watford vs Fiorentina highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 30, 2026."
-    },
-    {
-      "title": "Watford vs Crawley Town",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-vs-crawley-town-2026-08-08-8onW.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1362.webp",
-          "name": "Crawley Town",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/38.webp",
-          "name": "Watford",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/watford-vs-crawley-town-2026-08-08_Z5315.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Watford",
-          "player": "E. Bove",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "62'",
-          "team": "Crawley Town",
-          "player": "C. Barker",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "63'",
-          "team": "Watford",
-          "player": "I. Bravo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "67'",
-          "team": "Crawley Town",
-          "player": "K. Gordon",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+7'",
-          "team": "Crawley Town",
-          "player": "P. Aderoju",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+9'",
-          "team": "Watford",
-          "player": "M. Bola",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Watford_wins": "0",
-          "draws": "0",
-          "Crawley Town_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Watford",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Watford 1 - 0 Crawley Town",
-              "result": "W"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Watford 0 - 1 Fiorentina",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Watford 3 - 0 Hansa Rostock",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Watford 0 - 4 Coventry City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Crawley Town",
-          "form": [
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Watford 1 - 0 Crawley Town",
-              "result": "L"
-            },
-            {
-              "date": "03/08/2026",
-              "competition": "EFL Cup: Qualification Round",
-              "teams_and_score": "York City 0 - 2 Crawley Town",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Crawley Town 0 - 0 Salford City",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Watford": "11",
-          "Crawley Town": "3"
-        },
-        "shots_off_target": {
-          "Watford": "12",
-          "Crawley Town": "3"
-        },
-        "shots_blocked": {
-          "Watford": "13",
-          "Crawley Town": "3"
-        },
-        "corners": {
-          "Watford": "12",
-          "Crawley Town": "1"
-        },
-        "fouls": {
-          "Watford": "11",
-          "Crawley Town": "13"
-        },
-        "offsides": {
-          "Watford": "2",
-          "Crawley Town": "2"
-        },
-        "yellow_cards": {
-          "Watford": "2",
-          "Crawley Town": "3"
-        },
-        "goalkeeper_saves": {
-          "Watford": "3",
-          "Crawley Town": "10"
-        },
-        "crosses": {
-          "Watford": "6",
-          "Crawley Town": "3"
-        },
-        "ball_possession": {
-          "Watford": "61%",
-          "Crawley Town": "39%"
-        }
-      },
-      "description": "Watch Watford vs Crawley Town highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. Under the lights of the Carabao Cup , Watford and Crawley Town locked horns in a clash that tested the nerves and endurance of both squads. Fans were treated to a night of persistent attacks and defensive heroics that kept the outcome uncertain until the very last moments. Early Battles and Goalkeeping Heroics On August 8, 2026 , the Carabao Cup stage was set for a tense encounter. From the opening whistle, Watford looked to assert dominance, with Iker Bravo testing Vito Mannone as early as the 3rd minute. The Crawley Town goalkeeper was kept busy throughout the first half, notably denying Othmane Maamma twice in a frantic 7th minute. Despite the pressure, the visitors held firm, occasionally venturing forward as Stephen Duke-McKenna forced a save from Federico Ravaglia around the half-hour mark. Second Half Drama and Woodwork Rattled The intensity ramped up after the break. Watford introduced Amin Nabizada , who immediately made an impact by setting up Iker Bravo , only for the shot to whistle wide. The most agonising moment for the home side came in the 60th minute when Luca Kjerrumgaard saw his effort strike the left post. As the clock ticked down, a flurry of yellow cards for players like Charlie Barker and Kellan Gordon showed the rising tension, while injuries to Gianmarco Di Biase and Othmane Maamma disrupted the flow of the match. The Decisive Blow in Added Time With nine minutes of stoppage time announced, the match seemed destined for a stalemate. However, in the 99th minute, the deadlock was finally shattered. Rocco Vata found Marc Bola outside the area, and the defender unleashed a spectacular right-footed strike into the top left corner. This late breakthrough proved to be the difference, as Watford navigated the final seconds of the 12 added minutes to secure their progression in the tournament."
     },
     {
       "title": "Watford vs Southampton",
@@ -1787,6 +1730,286 @@
         }
       },
       "description": "Watch Wrexham vs Watford highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 22, 2026. Wrexham and Watford locked horns in a high-octane Championship encounter that saw momentum swing rapidly during a frantic opening period. Played on August 22, 2026 , the match provided a fascinating tactical battle as both sides looked to establish their dominance in the early stages of the season. First-Half Blitz Sets the Tone The match ignited in the 14th minute when the deadlock was broken in clinical fashion. Omar Traore turned provider with a precise pass, allowing Luca Kjerrumgaard to find the back of the net and send the crowd into a frenzy. The physical nature of the contest intensified shortly after, as Nathan Broadhead was shown a yellow card in the 20th minute for a mistimed challenge as Wrexham tried to maintain their grip on the proceedings. The pressure told again just two minutes later. In the 22nd minute, Daniel Imray showcased his predatory instincts, striking a well-placed shot to double the goal count and leave the opposition reeling. As the first half drew to a close, tactical adjustments began, with Albert Eames replacing the injured or tiring Omar Traore in the 45th minute, just before the referee signaled for the break. Tactical Shifts and Defensive Resilience The second half saw a flurry of activity from the benches as both managers looked to alter the game's trajectory. Martin Payero and Sam Smith were introduced around the hour mark to provide fresh energy, followed by a triple substitution in the 67th minute that saw the likes of Edo Kayembe and Rocco Vata enter the fray. The game became increasingly cagey, punctuated by a yellow card for Ben Whiteman in the 72nd minute for a professional foul. In the closing stages, further changes including the introduction of Ryan Longman and Matthew James failed to yield more goals as defenses tightened. Despite a lengthy period of stoppage time that extended to the 98th minute, the scoreline remained unchanged from the early flurry. The final whistle brought an end to a disciplined performance where the clinical finishing of the first half proved to be the deciding factor."
+    },
+    {
+      "title": "Watford vs Fiorentina",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-vs-fiorentina-2026-07-30-K27S.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Jul 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/502.webp",
+          "name": "Fiorentina",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/38.webp",
+          "name": "Watford",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/watford-vs-fiorentina-2026-07-30_RvRq5.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Fiorentina",
+          "player": "R. Piccoli",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Watford_wins": "0",
+          "draws": "0",
+          "Fiorentina_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Watford",
+          "form": [
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Watford 0 - 1 Fiorentina",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Watford 3 - 0 Hansa Rostock",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Watford 0 - 4 Coventry City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Fiorentina",
+          "form": [
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Watford 0 - 1 Fiorentina",
+              "result": "W"
+            },
+            {
+              "date": "19/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Fiorentina 8 - 1 Fiorentina U20",
+              "result": "W"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Fiorentina 1 - 1 Atalanta",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Watford vs Fiorentina highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 30, 2026."
+    },
+    {
+      "title": "Watford vs Crawley Town",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/watford-vs-crawley-town-2026-08-08-8onW.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1362.webp",
+          "name": "Crawley Town",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/38.webp",
+          "name": "Watford",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/watford-vs-crawley-town-2026-08-08_Z5315.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Watford",
+          "player": "E. Bove",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "62'",
+          "team": "Crawley Town",
+          "player": "C. Barker",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "63'",
+          "team": "Watford",
+          "player": "I. Bravo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "67'",
+          "team": "Crawley Town",
+          "player": "K. Gordon",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+7'",
+          "team": "Crawley Town",
+          "player": "P. Aderoju",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+9'",
+          "team": "Watford",
+          "player": "M. Bola",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Watford_wins": "0",
+          "draws": "0",
+          "Crawley Town_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Watford",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Watford 1 - 0 Crawley Town",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Watford 0 - 1 Fiorentina",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Watford 3 - 0 Hansa Rostock",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Watford 0 - 4 Coventry City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Crawley Town",
+          "form": [
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Watford 1 - 0 Crawley Town",
+              "result": "L"
+            },
+            {
+              "date": "03/08/2026",
+              "competition": "EFL Cup: Qualification Round",
+              "teams_and_score": "York City 0 - 2 Crawley Town",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Crawley Town 0 - 0 Salford City",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Watford": "11",
+          "Crawley Town": "3"
+        },
+        "shots_off_target": {
+          "Watford": "12",
+          "Crawley Town": "3"
+        },
+        "shots_blocked": {
+          "Watford": "13",
+          "Crawley Town": "3"
+        },
+        "corners": {
+          "Watford": "12",
+          "Crawley Town": "1"
+        },
+        "fouls": {
+          "Watford": "11",
+          "Crawley Town": "13"
+        },
+        "offsides": {
+          "Watford": "2",
+          "Crawley Town": "2"
+        },
+        "yellow_cards": {
+          "Watford": "2",
+          "Crawley Town": "3"
+        },
+        "goalkeeper_saves": {
+          "Watford": "3",
+          "Crawley Town": "10"
+        },
+        "crosses": {
+          "Watford": "6",
+          "Crawley Town": "3"
+        },
+        "ball_possession": {
+          "Watford": "61%",
+          "Crawley Town": "39%"
+        }
+      },
+      "description": "Watch Watford vs Crawley Town highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. Under the lights of the Carabao Cup , Watford and Crawley Town locked horns in a clash that tested the nerves and endurance of both squads. Fans were treated to a night of persistent attacks and defensive heroics that kept the outcome uncertain until the very last moments. Early Battles and Goalkeeping Heroics On August 8, 2026 , the Carabao Cup stage was set for a tense encounter. From the opening whistle, Watford looked to assert dominance, with Iker Bravo testing Vito Mannone as early as the 3rd minute. The Crawley Town goalkeeper was kept busy throughout the first half, notably denying Othmane Maamma twice in a frantic 7th minute. Despite the pressure, the visitors held firm, occasionally venturing forward as Stephen Duke-McKenna forced a save from Federico Ravaglia around the half-hour mark. Second Half Drama and Woodwork Rattled The intensity ramped up after the break. Watford introduced Amin Nabizada , who immediately made an impact by setting up Iker Bravo , only for the shot to whistle wide. The most agonising moment for the home side came in the 60th minute when Luca Kjerrumgaard saw his effort strike the left post. As the clock ticked down, a flurry of yellow cards for players like Charlie Barker and Kellan Gordon showed the rising tension, while injuries to Gianmarco Di Biase and Othmane Maamma disrupted the flow of the match. The Decisive Blow in Added Time With nine minutes of stoppage time announced, the match seemed destined for a stalemate. However, in the 99th minute, the deadlock was finally shattered. Rocco Vata found Marc Bola outside the area, and the defender unleashed a spectacular right-footed strike into the top left corner. This late breakthrough proved to be the difference, as Watford navigated the final seconds of the 12 added minutes to secure their progression in the tournament."
     }
   ]
 }
