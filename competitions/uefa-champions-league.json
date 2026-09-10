@@ -1,9 +1,449 @@
 {
   "competition": "UEFA Champions League",
   "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-  "total_matches": 35,
-  "Last update time": "06:04:25 AM 10-09-2026",
+  "total_matches": 37,
+  "Last update time": "06:50:07 AM 10-09-2026",
   "matches": [
+    {
+      "title": "Liverpool vs Atletico Madrid",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-v-atletico-madrid-2026-09-09-G18n.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Sep 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/530.webp",
+          "name": "Atletico Madrid",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/40.webp",
+          "name": "Liverpool",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Liverpool_v_Atletico_Madrid_2026_09_09.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Atletico Madrid",
+          "player": "M. Llorente",
+          "event_type": "Goal",
+          "assist": "J. Álvarez",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Liverpool",
+          "player": "A. M. Allister",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Liverpool",
+          "player": "D. Szoboszlai",
+          "event_type": "Goal",
+          "assist": "R. Araújo",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Liverpool",
+          "player": "A. M. Allister",
+          "event_type": "Goal",
+          "assist": "A. Isak",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Atletico Madrid",
+          "player": "M. Pubill",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Liverpool_wins": "3",
+          "draws": "2",
+          "Atletico Madrid_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "17/09/2025",
+            "competition": "League Stage",
+            "teams_and_score": "Liverpool 3 - 2 Atletico Madrid"
+          },
+          {
+            "date": "03/11/2021",
+            "competition": "Group B 21/22",
+            "teams_and_score": "Liverpool 2 - 0 Atletico Madrid"
+          },
+          {
+            "date": "11/03/2020",
+            "competition": "Round of 16 19/20",
+            "teams_and_score": "Liverpool 2 - 3 Atletico Madrid"
+          },
+          {
+            "date": "02/08/2017",
+            "competition": "Audi Cup",
+            "teams_and_score": "Atletico Madrid 1 - 1 Liverpool"
+          },
+          {
+            "date": "29/04/2010",
+            "competition": "Europa League Final Stages",
+            "teams_and_score": "Liverpool 2 - 1 Atletico Madrid"
+          },
+          {
+            "date": "08/08/2009",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Liverpool 1 - 2 Atletico Madrid"
+          },
+          {
+            "date": "04/11/2008",
+            "competition": "Champions League grp. D",
+            "teams_and_score": "Liverpool 1 - 1 Atletico Madrid"
+          }
+        ],
+        "home_team_form": {
+          "team": "Liverpool",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Liverpool 2 - 1 Atletico Madrid",
+              "result": "W"
+            },
+            {
+              "date": "04/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Ipswich Town 0 - 2 Liverpool",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Atletico Madrid",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Liverpool 2 - 1 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Athletic Club 3 - 0 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Atletico Madrid 4 - 1 Getafe",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Liverpool": "5",
+          "Atletico Madrid": "4"
+        },
+        "shots_off_target": {
+          "Liverpool": "5",
+          "Atletico Madrid": "4"
+        },
+        "shots_blocked": {
+          "Liverpool": "4",
+          "Atletico Madrid": "1"
+        },
+        "corners": {
+          "Liverpool": "7",
+          "Atletico Madrid": "5"
+        },
+        "fouls": {
+          "Liverpool": "11",
+          "Atletico Madrid": "10"
+        },
+        "offsides": {
+          "Liverpool": "3",
+          "Atletico Madrid": "5"
+        },
+        "yellow_cards": {
+          "Liverpool": "1",
+          "Atletico Madrid": "1"
+        },
+        "goalkeeper_saves": {
+          "Liverpool": "3",
+          "Atletico Madrid": "3"
+        },
+        "crosses": {
+          "Liverpool": "3",
+          "Atletico Madrid": "4"
+        },
+        "ball_possession": {
+          "Liverpool": "45%",
+          "Atletico Madrid": "55%"
+        }
+      },
+      "description": "Watch Liverpool vs Atletico Madrid highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 9, 2026. Anfield played host to a classic European encounter on September 9, 2026 , as Liverpool and Atletico Madrid faced off in the UEFA Champions League . With both managers searching for a statement victory, the match delivered a fascinating blend of tactical discipline and clinical finishing under the floodlights. Llorente Stuns the Kop The visiting side started with intent, stifling Liverpool 's rhythm and looking dangerous on the break. In the 17th minute, their game plan bore fruit when Marcos Llorente latched onto a pass from Julian Alvarez , following some clever build-up play by Giuliano Simeone . Llorente unleashed a powerful left-footed strike from distance that zipped past the keeper, giving Atletico Madrid a deserved early lead. The Spanish side remained compact, successfully frustrating the hosts for much of the opening period. Szoboszlai Sparks the Comeback As the first half drew to a close, Liverpool finally managed to capitalize on a defensive lapse. A blunder by Kang-In Lee in the 40th minute allowed Ronald Araujo to find Dominik Szoboszlai in a dangerous position. The midfielder made no mistake, firing home with his right foot to level the scores. The goal completely shifted the momentum, sending the teams into the break with the match on a knife-edge and the home crowd re-energized. Mac Allister's Moment of Magic The turnaround was completed shortly after the restart. In the 50th minute, Alexis Mac Allister produced a moment of pure quality, receiving an assist from Alexander Isak before smashing a left-footed shot into the net from outside the penalty area. Atletico Madrid pushed for an equalizer, introducing Ademola Lookman and Jonathan David , but Liverpool 's defense held firm. Late drama saw Konstantinos Tsimikas make a vital tackle and Virgil van Dijk dominate the air, ensuring the hosts saw out the victory in a pulsating finish."
+    },
+    {
+      "title": "Napoli vs Arsenal",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-arsenal-2026-09-09-sZLy.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Sep 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/9419.webp",
+          "name": "Arsenal",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/492.webp",
+          "name": "Napoli",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Arsenal_2026_09_09.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Napoli",
+          "player": "B. Gilmour",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "75'",
+          "team": "Arsenal",
+          "player": "M. Ødegaard",
+          "event_type": "Goal",
+          "assist": "C. Tzolis",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "85'",
+          "team": "Napoli",
+          "player": "L. Lucca",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Arsenal",
+          "player": "M. Ødegaard",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Napoli_wins": "1",
+          "draws": "1",
+          "Arsenal_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "18/04/2019",
+            "competition": "Europa League Final Stage",
+            "teams_and_score": "Napoli 0 - 1 Arsenal"
+          },
+          {
+            "date": "11/12/2013",
+            "competition": "Champions League grp. F",
+            "teams_and_score": "Napoli 2 - 0 Arsenal"
+          },
+          {
+            "date": "03/08/2013",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Arsenal 2 - 2 Napoli"
+          }
+        ],
+        "home_team_form": {
+          "team": "Napoli",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Napoli 0 - 1 Arsenal",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Inter 3 - 2 Napoli",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 6 - 2 Aris",
+              "result": "W"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Napoli 2 - 1 Osasuna",
+              "result": "W"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 2 - 0 Carrarese",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Arsenal",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Napoli 0 - 1 Arsenal",
+              "result": "W"
+            },
+            {
+              "date": "06/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Arsenal 2 - 1 Chelsea",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Community Shield",
+              "teams_and_score": "Arsenal 3 - 0 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 1 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Final",
+              "teams_and_score": "Paris Saint-Germain 1 - 1 Arsenal",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Napoli": "3",
+          "Arsenal": "8"
+        },
+        "shots_off_target": {
+          "Napoli": "0",
+          "Arsenal": "11"
+        },
+        "shots_blocked": {
+          "Napoli": "2",
+          "Arsenal": "7"
+        },
+        "corners": {
+          "Napoli": "0",
+          "Arsenal": "6"
+        },
+        "fouls": {
+          "Napoli": "12",
+          "Arsenal": "11"
+        },
+        "offsides": {
+          "Napoli": "1",
+          "Arsenal": "1"
+        },
+        "yellow_cards": {
+          "Napoli": "2",
+          "Arsenal": "1"
+        },
+        "goalkeeper_saves": {
+          "Napoli": "6",
+          "Arsenal": "3"
+        },
+        "crosses": {
+          "Napoli": "0",
+          "Arsenal": "5"
+        },
+        "ball_possession": {
+          "Napoli": "42%",
+          "Arsenal": "58%"
+        }
+      },
+      "description": "Watch Napoli vs Arsenal highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 9, 2026. The UEFA Champions League took center stage on 2026-09-09 as SSC Napoli and Arsenal faced off in a highly anticipated group stage encounter. With both teams seeking to establish their dominance in the competition, the tactical battle on the pitch promised high drama from the opening whistle. Tactical Discipline and Early Openings Arsenal started the match with clear intent, dictating the tempo through Declan Rice and Mikel Merino . The first major spark of quality arrived in the 13th minute when Bukayo Saka unleashed a stunning bicycle kick that seemed destined for the back of the net, only for Alex Meret to produce a world-class save. Minutes later, Merino tested the keeper again with a powerful header, but the Italian shot-stopper remained firm. SSC Napoli focused on defensive solidity, absorbing pressure and forcing Arsenal into wide areas. The home side's discipline was tested as the first half progressed, with Billy Gilmour receiving a yellow card in the 42nd minute for a professional foul to halt a dangerous counter-attack. Despite the visitors' 58% possession, the score remained level as both teams headed into the tunnel at the interval. The Breakthrough and Substitutions The second half saw a series of tactical adjustments from both benches. Mikel Arteta introduced Christos Tzolis and Bruno Guimarães , a move that would ultimately change the course of the match. In the 75th minute, Tzolis found space and laid the ball off to Martin Ødegaard . The Norwegian playmaker took a touch and rifled a brilliant left-footed strike from outside the box, leaving Meret with no chance and giving the Gunners the lead. In response, Napoli threw on Lorenzo Lucca and David Neres to inject some physical presence into their frontline. The intensity increased as Lucca was booked for an elbow on Ezri Konsa in the 85th minute. Arsenal's defense, bolstered by the introduction of Martin Zubimendi , stood tall against the late onslaught. Late Drama and the Final Whistle Four minutes of added time brought a flurry of incidents. Martin Ødegaard picked up a yellow card for kicking the ball away as tensions boiled over, and Kai Havertz had a late strike ruled out for offside in the 94th minute. Napoli pushed forward until the very last second, but David Raya remained composed to claim high balls and secure the clean sheet. The final whistle confirmed a hard-fought victory for the English side in a night defined by tactical precision and one moment of magic."
+    },
     {
       "title": "Barcelona vs Feyenoord",
       "thumbnail_url": "https://img.refooty.com/thumbnail/barcelona-v-feyenoord-2026-09-09-PoBj.webp",
@@ -1792,237 +2232,6 @@
         }
       },
       "description": "Watch Club Brugge vs Aston Villa highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The UEFA Champions League delivered a classic encounter as Club Brugge hosted Aston Villa in a match defined by tactical shifts and clinical finishing. On 2026-09-08 , both sides contributed to a high-octane affair that kept the fans on the edge of their seats until the very last whistle. A Thrilling Opening Exchange Action began early at the Jan Breydel Stadium, with Aston Villa breaking the deadlock in the 11th minute. John McGinn found the back of the net with a precise right-footed strike following an assist from Pau Torres . The home side responded with resilience, finding an equalizer through Hugo Vetlesen in the 19th minute after a clever set-up by Jan Virgili . However, the parity was short-lived, as Emiliano Buendia restored Villa's lead just three minutes later, finishing off a move involving Nicolas Jackson and Joao Gomes . Just before the break, Aston Villa extended their advantage. In the 43rd minute, a rare error from goalkeeper Yann Sommer allowed Nicolas Jackson to tap in from close range after another pinpoint delivery from Pau Torres . The visitors headed into the interval with a comfortable two-goal cushion, leaving the hosts with a mountain to climb. VAR Drama and the Brugge Response The second half was shrouded in controversy starting in the 48th minute, when Hans Vanaken was booked for simulation after a penalty claim was overturned. But the momentum shifted again in the 59th minute when Aaron Wan-Bissaka was judged to have handled the ball in the box. After a VAR review, a penalty was awarded, and Nicolo Tresoldi coolly converted in the 61st minute to bring Club Brugge back into the contest at 2-3. Villa Hold Firm Under Pressure As the clock ticked down, Club Brugge ramped up the pressure, controlling over 55% of the ball. Managerial changes saw Tammy Abraham and Ross Barkley introduced for the visitors to help navigate the late storm. Despite late headers and constant crosses from Hugo Siquet and Carlos Forbs , the Aston Villa defense, marshaled by Pau Torres , remained unbreakable. The final whistle confirmed a vital away victory for the Premier League side in a pulsating European night."
-    },
-    {
-      "title": "Olympique Lyonnais vs Fenerbahce",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/olympique-lyonnais-v-fenerbahce-2026-08-26-r6Yh.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 26, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/611.webp",
-          "name": "Fenerbahce",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/80.webp",
-          "name": "Lyon",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Olympique_Lyonnais_v_Fenerbahce_2026_08_26.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Fenerbahce",
-          "player": "V. Muriqi",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "Fenerbahce",
-          "player": "A. Brown",
-          "event_type": "Goal",
-          "assist": "M. Greenwood",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "31'",
-          "team": "Fenerbahce",
-          "player": "M. Škriniar",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "51'",
-          "team": "Lyon",
-          "player": "L. Openda",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Lyon",
-          "player": "M. Fofana",
-          "event_type": "Goal",
-          "assist": "A. Maitland-Niles",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "90+5'",
-          "team": "Fenerbahce",
-          "player": "M. Guendouzi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Fenerbahce",
-          "player": "N. Dorgeles",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Lyon_wins": "2",
-          "draws": "2",
-          "Fenerbahce_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "18/08/2026",
-            "competition": "Qualification",
-            "teams_and_score": "Fenerbahçe 1 - 1 Lyon"
-          },
-          {
-            "date": "23/01/2025",
-            "competition": "League Stage",
-            "teams_and_score": "Fenerbahçe 0 - 0 Lyon"
-          },
-          {
-            "date": "03/11/2004",
-            "competition": "Champions League grp. D",
-            "teams_and_score": "Lyon 4 - 2 Fenerbahçe"
-          },
-          {
-            "date": "17/10/2001",
-            "competition": "Champions League grp. F",
-            "teams_and_score": "Lyon 3 - 1 Fenerbahçe"
-          }
-        ],
-        "home_team_form": {
-          "team": "Lyon",
-          "form": [
-            "L",
-            "W",
-            "D",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "26/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Lyon 1 - 2 Fenerbahçe",
-              "result": "L"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Toulouse 0 - 2 Lyon",
-              "result": "W"
-            },
-            {
-              "date": "18/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
-              "result": "D"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Betis 4 - 0 Lyon",
-              "result": "L"
-            },
-            {
-              "date": "15/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Lyon 2 - 1 Servette",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Fenerbahce",
-          "form": [
-            "W",
-            "L",
-            "D",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "26/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Lyon 1 - 2 Fenerbahçe",
-              "result": "W"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Fenerbahçe 4 - 2 Konyaspor",
-              "result": "L"
-            },
-            {
-              "date": "18/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Gençlerbirliği 2 - 1 Fenerbahçe",
-              "result": "L"
-            },
-            {
-              "date": "11/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Sturm Graz 0 - 1 Fenerbahçe",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Lyon": "6",
-          "Fenerbahce": "7"
-        },
-        "shots_off_target": {
-          "Lyon": "7",
-          "Fenerbahce": "6"
-        },
-        "shots_blocked": {
-          "Lyon": "4",
-          "Fenerbahce": "3"
-        },
-        "corners": {
-          "Lyon": "5",
-          "Fenerbahce": "7"
-        },
-        "fouls": {
-          "Lyon": "12",
-          "Fenerbahce": "17"
-        },
-        "offsides": {
-          "Lyon": "3",
-          "Fenerbahce": "2"
-        },
-        "yellow_cards": {
-          "Lyon": "1",
-          "Fenerbahce": "3"
-        },
-        "goalkeeper_saves": {
-          "Lyon": "6",
-          "Fenerbahce": "5"
-        },
-        "crosses": {
-          "Lyon": "6",
-          "Fenerbahce": "3"
-        },
-        "ball_possession": {
-          "Lyon": "59%",
-          "Fenerbahce": "41%"
-        }
-      },
-      "description": "Watch Lyon vs Fenerbahce highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 26, 2026. The Groupama Stadium played host to a high-stakes encounter as Olympique Lyonnais and Fenerbahce faced off in the UEFA Champions League . Both sides entered the pitch with everything to play for in what promised to be a defining night of European football. Clinical First Half from the Visitors On 2026-08-26 , the match began with immediate intensity as the visitors sought to dominate early. Fenerbahce broke the deadlock in the 24th minute when Vedat Muriqi found the back of the net with a clinical finish. The momentum stayed firmly with the Turkish side, and just four minutes later, Archie Brown doubled the lead after a precise assist from Mason Greenwood . Lyon struggled to regain their composure, and the physical nature of the contest became evident when Milan Skriniar received a yellow card in the 32nd minute. Lyon Fight Back Amid Late Drama The second half saw Lyon emerge with renewed energy, despite an early booking for Ikoma Lois Openda . Their efforts were rewarded in the 61st minute when Malick Fofana clinicaly finished a chance created by Ainsley Maitland-Niles , pulling the score back to 1-2. A flurry of substitutions followed, with the likes of Nicolas Tagliafico and Romelu Lukaku entering the fray to influence the closing stages. The match ended in a heated fashion, with Matteo Guendouzi and Dorgeles Nene both receiving yellow cards deep in stoppage time, but Fenerbahce successfully defended their lead until the final whistle."
     },
     {
       "title": "Union St. Gilloise vs Bodo/Glimt",
@@ -5410,6 +5619,237 @@
       },
       "statistics": {},
       "description": "Watch Hapoel Beer Sheva vs Crvena zvezda highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 4, 2026."
+    },
+    {
+      "title": "Olympique Lyonnais vs Fenerbahce",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/olympique-lyonnais-v-fenerbahce-2026-08-26-r6Yh.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 26, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/611.webp",
+          "name": "Fenerbahce",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/80.webp",
+          "name": "Lyon",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Olympique_Lyonnais_v_Fenerbahce_2026_08_26.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Fenerbahce",
+          "player": "V. Muriqi",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Fenerbahce",
+          "player": "A. Brown",
+          "event_type": "Goal",
+          "assist": "M. Greenwood",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "31'",
+          "team": "Fenerbahce",
+          "player": "M. Škriniar",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "51'",
+          "team": "Lyon",
+          "player": "L. Openda",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Lyon",
+          "player": "M. Fofana",
+          "event_type": "Goal",
+          "assist": "A. Maitland-Niles",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "90+5'",
+          "team": "Fenerbahce",
+          "player": "M. Guendouzi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Fenerbahce",
+          "player": "N. Dorgeles",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Lyon_wins": "2",
+          "draws": "2",
+          "Fenerbahce_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "18/08/2026",
+            "competition": "Qualification",
+            "teams_and_score": "Fenerbahçe 1 - 1 Lyon"
+          },
+          {
+            "date": "23/01/2025",
+            "competition": "League Stage",
+            "teams_and_score": "Fenerbahçe 0 - 0 Lyon"
+          },
+          {
+            "date": "03/11/2004",
+            "competition": "Champions League grp. D",
+            "teams_and_score": "Lyon 4 - 2 Fenerbahçe"
+          },
+          {
+            "date": "17/10/2001",
+            "competition": "Champions League grp. F",
+            "teams_and_score": "Lyon 3 - 1 Fenerbahçe"
+          }
+        ],
+        "home_team_form": {
+          "team": "Lyon",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "26/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Lyon 1 - 2 Fenerbahçe",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Toulouse 0 - 2 Lyon",
+              "result": "W"
+            },
+            {
+              "date": "18/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Betis 4 - 0 Lyon",
+              "result": "L"
+            },
+            {
+              "date": "15/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Lyon 2 - 1 Servette",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Fenerbahce",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "26/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Lyon 1 - 2 Fenerbahçe",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Fenerbahçe 4 - 2 Konyaspor",
+              "result": "L"
+            },
+            {
+              "date": "18/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Gençlerbirliği 2 - 1 Fenerbahçe",
+              "result": "L"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Sturm Graz 0 - 1 Fenerbahçe",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Lyon": "6",
+          "Fenerbahce": "7"
+        },
+        "shots_off_target": {
+          "Lyon": "7",
+          "Fenerbahce": "6"
+        },
+        "shots_blocked": {
+          "Lyon": "4",
+          "Fenerbahce": "3"
+        },
+        "corners": {
+          "Lyon": "5",
+          "Fenerbahce": "7"
+        },
+        "fouls": {
+          "Lyon": "12",
+          "Fenerbahce": "17"
+        },
+        "offsides": {
+          "Lyon": "3",
+          "Fenerbahce": "2"
+        },
+        "yellow_cards": {
+          "Lyon": "1",
+          "Fenerbahce": "3"
+        },
+        "goalkeeper_saves": {
+          "Lyon": "6",
+          "Fenerbahce": "5"
+        },
+        "crosses": {
+          "Lyon": "6",
+          "Fenerbahce": "3"
+        },
+        "ball_possession": {
+          "Lyon": "59%",
+          "Fenerbahce": "41%"
+        }
+      },
+      "description": "Watch Lyon vs Fenerbahce highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 26, 2026. The Groupama Stadium played host to a high-stakes encounter as Olympique Lyonnais and Fenerbahce faced off in the UEFA Champions League . Both sides entered the pitch with everything to play for in what promised to be a defining night of European football. Clinical First Half from the Visitors On 2026-08-26 , the match began with immediate intensity as the visitors sought to dominate early. Fenerbahce broke the deadlock in the 24th minute when Vedat Muriqi found the back of the net with a clinical finish. The momentum stayed firmly with the Turkish side, and just four minutes later, Archie Brown doubled the lead after a precise assist from Mason Greenwood . Lyon struggled to regain their composure, and the physical nature of the contest became evident when Milan Skriniar received a yellow card in the 32nd minute. Lyon Fight Back Amid Late Drama The second half saw Lyon emerge with renewed energy, despite an early booking for Ikoma Lois Openda . Their efforts were rewarded in the 61st minute when Malick Fofana clinicaly finished a chance created by Ainsley Maitland-Niles , pulling the score back to 1-2. A flurry of substitutions followed, with the likes of Nicolas Tagliafico and Romelu Lukaku entering the fray to influence the closing stages. The match ended in a heated fashion, with Matteo Guendouzi and Dorgeles Nene both receiving yellow cards deep in stoppage time, but Fenerbahce successfully defended their lead until the final whistle."
     }
   ]
 }
