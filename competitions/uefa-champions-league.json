@@ -1,9 +1,668 @@
 {
   "competition": "UEFA Champions League",
   "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-  "total_matches": 37,
-  "Last update time": "06:50:07 AM 10-09-2026",
+  "total_matches": 39,
+  "Last update time": "04:30:46 AM 11-09-2026",
   "matches": [
+    {
+      "title": "Sporting CP vs Galatasaray",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sporting-cp-v-galatasaray-2026-09-09-Kvrb.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Sep 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/645.webp",
+          "name": "Galatasaray",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/228.webp",
+          "name": "Sporting CP",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Sporting_CP_v_Galatasaray_2026_09_09.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Galatasaray",
+          "player": "G. Inácio",
+          "event_type": "Goal"
+        },
+        {
+          "time": "16'",
+          "team": "Sporting CP",
+          "player": "S. Altimira",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Sporting CP",
+          "player": "G. Catamo",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Sporting CP",
+          "player": "L. Suárez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "52'",
+          "team": "Galatasaray",
+          "player": "E. E. Elmali",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "57'",
+          "team": "Sporting CP",
+          "player": "L. Suárez",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "63'",
+          "team": "Sporting CP",
+          "player": "R. Zalazar",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "80'",
+          "team": "Galatasaray",
+          "player": "D. Gul",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "83'",
+          "team": "Galatasaray",
+          "player": "O. Buruk",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Galatasaray",
+          "player": "I. Jakobs",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Sporting CP_wins": "0",
+          "draws": "0",
+          "Galatasaray_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Sporting CP",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Sporting CP 3 - 1 Galatasaray",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "Sporting CP 2 - 0 Nacional",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sporting CP 4 - 1 Nottingham Forest",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sporting CP 2 - 0 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "20/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sporting CP 7 - 0 Strasbourg",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Galatasaray",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Sporting CP 3 - 1 Galatasaray",
+              "result": "L"
+            },
+            {
+              "date": "04/09/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "İstanbul Başakşehir 2 - 3 Galatasaray",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Galatasaray 1 - 2 Villarreal",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Galatasaray 3 - 3 Rennes",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sporting CP": "5",
+          "Galatasaray": "3"
+        },
+        "shots_off_target": {
+          "Sporting CP": "1",
+          "Galatasaray": "6"
+        },
+        "shots_blocked": {
+          "Sporting CP": "2",
+          "Galatasaray": "1"
+        },
+        "corners": {
+          "Sporting CP": "1",
+          "Galatasaray": "4"
+        },
+        "fouls": {
+          "Sporting CP": "13",
+          "Galatasaray": "11"
+        },
+        "offsides": {
+          "Sporting CP": "3",
+          "Galatasaray": "0"
+        },
+        "yellow_cards": {
+          "Sporting CP": "2",
+          "Galatasaray": "3"
+        },
+        "goalkeeper_saves": {
+          "Sporting CP": "3",
+          "Galatasaray": "2"
+        },
+        "crosses": {
+          "Sporting CP": "1",
+          "Galatasaray": "3"
+        },
+        "ball_possession": {
+          "Sporting CP": "38%",
+          "Galatasaray": "62%"
+        }
+      },
+      "description": "Watch Sporting CP vs Galatasaray highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 9, 2026. On September 9, 2026, the UEFA Champions League lights shone bright on a clash between Sporting CP and Galatasaray . Fans at the stadium witnessed an intense tactical battle filled with unexpected twists and high-stakes drama. Early Shocks and a Resilient Response The match began in nightmare fashion for the home side. Just five minutes in, disaster struck as Gonçalo Inácio inadvertently sent the ball into his own net, giving Galatasaray an early lead. The own goal silenced the home crowd, but it served as a wake-up call for Sporting CP . The Lisbon giants began to dominate territory, pushing the Turkish side back and searching for a way through their compact defense. Their persistence was rewarded in the 27th minute. Geny Catamo found a pocket of space and unleashed a clinical left-footed strike that flew into the net to equalize. The game opened up following the goal, becoming a feisty encounter where Luis Suárez earned a yellow card for a tactical foul to halt a dangerous counter-attack before the break. Turning the Tide in the Second Half The second period saw the momentum swing decisively toward the hosts. In the 54th minute, Ismail Jakobs tripped Luis Suárez inside the box, prompting a lengthy VAR review. The penalty was eventually confirmed, and Suárez stepped up in the 57th minute to fire his side ahead, despite the goalkeeper getting agonizingly close to the shot. Confidence was surging through the Sporting CP ranks, and they extended their lead just six minutes later. Rodrigo Zalazar produced a moment of pure magic, curling a direct free kick into the back of the net with his right foot. At 3-1, the hosts were in total control, leaving Galatasaray manager Okan Buruk frustrated on the sidelines—a frustration that earned him a yellow card for dissent. Late Tension and the Final Whistle As the clock wound down, both teams turned to their benches, with Rafael Leão and İlkay Gündoğan among those introduced to influence the final stages. Galatasaray pushed for a late lifeline, but the Sporting CP defense, marshaled by Zeno Debast and Ivan Fresneda , remained resolute. The closing moments were marred by a brief scuffle on the pitch, resulting in a yellow card for Ismail Jakobs for violent conduct. Ultimately, the 44,054 fans in attendance celebrated a deserved victory. Despite the early setback, Sporting CP showed immense character to secure three points and a fine display of European football on this September night."
+    },
+    {
+      "title": "PSG vs Slovan Bratislava",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/paris-sg-v-slovan-bratislava-2026-09-09-Mx17.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Sep 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/656.webp",
+          "name": "Slovan Bratislava",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/85.webp",
+          "name": "Paris Saint Germain",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Paris_SG_v_Slovan_Bratislava_2026_09_09.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Slovan Bratislava",
+          "player": "S. Szymański",
+          "event_type": "Goal",
+          "assist": "A. Thomasson",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Slovan Bratislava",
+          "player": "E. Lepaul",
+          "event_type": "Goal",
+          "assist": "P. Frankowski",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "31'",
+          "team": "Slovan Bratislava",
+          "player": "A. Thomasson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Slovan Bratislava",
+          "player": "M. Tamari",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Paris Saint Germain",
+          "player": "L. Enrique",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Paris Saint Germain",
+          "player": "F. Torres",
+          "event_type": "Goal",
+          "assist": "F. Ruiz",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "91'",
+          "team": "Paris Saint Germain",
+          "player": "Marquinhos",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Paris Saint Germain",
+          "player": "F. Torres",
+          "event_type": "Goal",
+          "assist": "F. Ruiz",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "121'",
+          "team": "Paris Saint Germain",
+          "player": "A. Hakimi",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Paris Saint Germain_wins": "2",
+          "draws": "2",
+          "Slovan Bratislava_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "23/08/2026",
+            "competition": "Ligue 1",
+            "teams_and_score": "Rennes 2 - 2 Paris Saint-Germain"
+          },
+          {
+            "date": "13/02/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "Rennes 3 - 1 Paris Saint-Germain"
+          },
+          {
+            "date": "08/03/2025",
+            "competition": "Ligue 1 24/25",
+            "teams_and_score": "Rennes 1 - 4 Paris Saint-Germain"
+          },
+          {
+            "date": "03/04/2024",
+            "competition": "Coupe de France 23/24",
+            "teams_and_score": "Paris Saint-Germain 1 - 0 Rennes"
+          },
+          {
+            "date": "25/02/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "Paris Saint-Germain 1 - 1 Rennes"
+          },
+          {
+            "date": "19/03/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Paris Saint-Germain 0 - 2 Rennes"
+          }
+        ],
+        "home_team_form": {
+          "team": "Paris Saint Germain",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Paris Saint-Germain 6 - 1 Slovan Bratislava",
+              "result": "L"
+            },
+            {
+              "date": "04/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Paris Saint-Germain 1 - 2 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Trophee des Champions",
+              "teams_and_score": "Lens 1 - 0 Paris Saint-Germain",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "UEFA Super Cup",
+              "teams_and_score": "Paris Saint-Germain 2 - 1 Aston Villa",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester United 1 - 1 Paris Saint-Germain",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Slovan Bratislava",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Angers 1 - 2 Rennes",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sunderland 2 - 1 Rennes",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Paris Saint Germain": "5",
+          "Slovan Bratislava": "3"
+        },
+        "shots_off_target": {
+          "Paris Saint Germain": "5",
+          "Slovan Bratislava": "5"
+        },
+        "shots_blocked": {
+          "Paris Saint Germain": "9",
+          "Slovan Bratislava": "1"
+        },
+        "corners": {
+          "Paris Saint Germain": "10",
+          "Slovan Bratislava": "0"
+        },
+        "fouls": {
+          "Paris Saint Germain": "6",
+          "Slovan Bratislava": "7"
+        },
+        "offsides": {
+          "Paris Saint Germain": "7",
+          "Slovan Bratislava": "0"
+        },
+        "yellow_cards": {
+          "Paris Saint Germain": "2",
+          "Slovan Bratislava": "2"
+        },
+        "goalkeeper_saves": {
+          "Paris Saint Germain": "0",
+          "Slovan Bratislava": "3"
+        },
+        "crosses": {
+          "Paris Saint Germain": "6",
+          "Slovan Bratislava": "4"
+        },
+        "ball_possession": {
+          "Paris Saint Germain": "69%",
+          "Slovan Bratislava": "31%"
+        }
+      },
+      "description": "Watch Paris Saint Germain vs Slovan Bratislava highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 9, 2026. The UEFA Champions League atmosphere was electric on September 9, 2026, as a highly anticipated encounter unfolded with both teams seeking to make a statement. Fans witnessed a tactical battle where momentum shifted unexpectedly across two distinct halves of football. Clinical Start for Rennes Rennes began the match with intent, showcasing clinical finishing to stun the visitors. The breakthrough came early in the 9th minute when Sebastian Szymanski unleashed a precise left-footed strike from outside the box into the top left corner, finishing a rapid counter-attack orchestrated by Adrien Thomasson . Paris Saint-Germain struggled to find their rhythm early on, despite Ousmane Dembélé and Warren Zaïre-Emery attempting to pierce the home side's organized defense. As the first half progressed, PSG ramped up the pressure with a series of corners, but it was Rennes who struck again. In the 38th minute, Estéban Lepaul doubled the lead, slotting a right-footed shot into the bottom right corner following a well-placed cross from Przemyslaw Frankowski . The hosts headed into the break with a commanding 2-0 lead, leaving the Parisian giants with a mountain to climb. The Turning Point Seeking a spark, PSG introduced Ferran Torres and Mika Godts at the start of the second half. The tactical shift became even more evident when Fabián Ruiz entered the fray in the 60th minute. The substitution immediately paid dividends as PSG began to dominate possession and territory, forcing Brice Samba into several high-quality saves to deny Désiré Doué and Zaïre-Emery . The comeback gained traction in the 71st minute. Ferran Torres found the back of the net with a clinical finish from the center of the box, assisted by Fabián Ruiz . After a brief VAR review, the goal was confirmed, slashing the deficit and setting up a grandstand finish. Late Drama and Parity With momentum firmly on their side, the visitors pushed for an equalizer. It arrived in the 82nd minute when Fabián Ruiz turned provider once again, delivering a cross that Ferran Torres met with a powerful header into the bottom corner. The closing stages were frantic, with Ludovic Blas nearly reclaiming the lead for Rennes and Mika Godts missing a golden opportunity for PSG in stoppage time. Ultimately, the points were shared in a contest that highlighted both Rennes ' early brilliance and Paris Saint-Germain 's relentless spirit."
+    },
+    {
+      "title": "Napoli vs Arsenal",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-arsenal-2026-09-09-sZLy.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Sep 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/9419.webp",
+          "name": "Arsenal",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/492.webp",
+          "name": "Napoli",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Arsenal_2026_09_09.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Napoli",
+          "player": "B. Gilmour",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "75'",
+          "team": "Arsenal",
+          "player": "M. Ødegaard",
+          "event_type": "Goal",
+          "assist": "C. Tzolis",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "85'",
+          "team": "Napoli",
+          "player": "L. Lucca",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Arsenal",
+          "player": "M. Ødegaard",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Napoli_wins": "1",
+          "draws": "1",
+          "Arsenal_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "18/04/2019",
+            "competition": "Europa League Final Stage",
+            "teams_and_score": "Napoli 0 - 1 Arsenal"
+          },
+          {
+            "date": "11/12/2013",
+            "competition": "Champions League grp. F",
+            "teams_and_score": "Napoli 2 - 0 Arsenal"
+          },
+          {
+            "date": "03/08/2013",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Arsenal 2 - 2 Napoli"
+          }
+        ],
+        "home_team_form": {
+          "team": "Napoli",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Napoli 0 - 1 Arsenal",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Inter 3 - 2 Napoli",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 6 - 2 Aris",
+              "result": "W"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Napoli 2 - 1 Osasuna",
+              "result": "W"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 2 - 0 Carrarese",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Arsenal",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Napoli 0 - 1 Arsenal",
+              "result": "W"
+            },
+            {
+              "date": "06/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Arsenal 2 - 1 Chelsea",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Community Shield",
+              "teams_and_score": "Arsenal 3 - 0 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 1 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Final",
+              "teams_and_score": "Paris Saint-Germain 1 - 1 Arsenal",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Napoli": "3",
+          "Arsenal": "8"
+        },
+        "shots_off_target": {
+          "Napoli": "0",
+          "Arsenal": "11"
+        },
+        "shots_blocked": {
+          "Napoli": "2",
+          "Arsenal": "7"
+        },
+        "corners": {
+          "Napoli": "0",
+          "Arsenal": "6"
+        },
+        "fouls": {
+          "Napoli": "12",
+          "Arsenal": "11"
+        },
+        "offsides": {
+          "Napoli": "1",
+          "Arsenal": "1"
+        },
+        "yellow_cards": {
+          "Napoli": "2",
+          "Arsenal": "1"
+        },
+        "goalkeeper_saves": {
+          "Napoli": "6",
+          "Arsenal": "3"
+        },
+        "crosses": {
+          "Napoli": "0",
+          "Arsenal": "5"
+        },
+        "ball_possession": {
+          "Napoli": "42%",
+          "Arsenal": "58%"
+        }
+      },
+      "description": "Watch Napoli vs Arsenal highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 9, 2026. The UEFA Champions League took center stage on 2026-09-09 as SSC Napoli and Arsenal faced off in a highly anticipated group stage encounter. With both teams seeking to establish their dominance in the competition, the tactical battle on the pitch promised high drama from the opening whistle. Tactical Discipline and Early Openings Arsenal started the match with clear intent, dictating the tempo through Declan Rice and Mikel Merino . The first major spark of quality arrived in the 13th minute when Bukayo Saka unleashed a stunning bicycle kick that seemed destined for the back of the net, only for Alex Meret to produce a world-class save. Minutes later, Merino tested the keeper again with a powerful header, but the Italian shot-stopper remained firm. SSC Napoli focused on defensive solidity, absorbing pressure and forcing Arsenal into wide areas. The home side's discipline was tested as the first half progressed, with Billy Gilmour receiving a yellow card in the 42nd minute for a professional foul to halt a dangerous counter-attack. Despite the visitors' 58% possession, the score remained level as both teams headed into the tunnel at the interval. The Breakthrough and Substitutions The second half saw a series of tactical adjustments from both benches. Mikel Arteta introduced Christos Tzolis and Bruno Guimarães , a move that would ultimately change the course of the match. In the 75th minute, Tzolis found space and laid the ball off to Martin Ødegaard . The Norwegian playmaker took a touch and rifled a brilliant left-footed strike from outside the box, leaving Meret with no chance and giving the Gunners the lead. In response, Napoli threw on Lorenzo Lucca and David Neres to inject some physical presence into their frontline. The intensity increased as Lucca was booked for an elbow on Ezri Konsa in the 85th minute. Arsenal's defense, bolstered by the introduction of Martin Zubimendi , stood tall against the late onslaught. Late Drama and the Final Whistle Four minutes of added time brought a flurry of incidents. Martin Ødegaard picked up a yellow card for kicking the ball away as tensions boiled over, and Kai Havertz had a late strike ruled out for offside in the 94th minute. Napoli pushed forward until the very last second, but David Raya remained composed to claim high balls and secure the clean sheet. The final whistle confirmed a hard-fought victory for the English side in a night defined by tactical precision and one moment of magic."
+    },
     {
       "title": "Liverpool vs Atletico Madrid",
       "thumbnail_url": "https://img.refooty.com/thumbnail/liverpool-v-atletico-madrid-2026-09-09-G18n.webp",
@@ -238,211 +897,6 @@
         }
       },
       "description": "Watch Liverpool vs Atletico Madrid highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 9, 2026. Anfield played host to a classic European encounter on September 9, 2026 , as Liverpool and Atletico Madrid faced off in the UEFA Champions League . With both managers searching for a statement victory, the match delivered a fascinating blend of tactical discipline and clinical finishing under the floodlights. Llorente Stuns the Kop The visiting side started with intent, stifling Liverpool 's rhythm and looking dangerous on the break. In the 17th minute, their game plan bore fruit when Marcos Llorente latched onto a pass from Julian Alvarez , following some clever build-up play by Giuliano Simeone . Llorente unleashed a powerful left-footed strike from distance that zipped past the keeper, giving Atletico Madrid a deserved early lead. The Spanish side remained compact, successfully frustrating the hosts for much of the opening period. Szoboszlai Sparks the Comeback As the first half drew to a close, Liverpool finally managed to capitalize on a defensive lapse. A blunder by Kang-In Lee in the 40th minute allowed Ronald Araujo to find Dominik Szoboszlai in a dangerous position. The midfielder made no mistake, firing home with his right foot to level the scores. The goal completely shifted the momentum, sending the teams into the break with the match on a knife-edge and the home crowd re-energized. Mac Allister's Moment of Magic The turnaround was completed shortly after the restart. In the 50th minute, Alexis Mac Allister produced a moment of pure quality, receiving an assist from Alexander Isak before smashing a left-footed shot into the net from outside the penalty area. Atletico Madrid pushed for an equalizer, introducing Ademola Lookman and Jonathan David , but Liverpool 's defense held firm. Late drama saw Konstantinos Tsimikas make a vital tackle and Virgil van Dijk dominate the air, ensuring the hosts saw out the victory in a pulsating finish."
-    },
-    {
-      "title": "Napoli vs Arsenal",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-arsenal-2026-09-09-sZLy.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Sep 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/9419.webp",
-          "name": "Arsenal",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/492.webp",
-          "name": "Napoli",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Arsenal_2026_09_09.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Napoli",
-          "player": "B. Gilmour",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "75'",
-          "team": "Arsenal",
-          "player": "M. Ødegaard",
-          "event_type": "Goal",
-          "assist": "C. Tzolis",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "85'",
-          "team": "Napoli",
-          "player": "L. Lucca",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Arsenal",
-          "player": "M. Ødegaard",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Napoli_wins": "1",
-          "draws": "1",
-          "Arsenal_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "18/04/2019",
-            "competition": "Europa League Final Stage",
-            "teams_and_score": "Napoli 0 - 1 Arsenal"
-          },
-          {
-            "date": "11/12/2013",
-            "competition": "Champions League grp. F",
-            "teams_and_score": "Napoli 2 - 0 Arsenal"
-          },
-          {
-            "date": "03/08/2013",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Arsenal 2 - 2 Napoli"
-          }
-        ],
-        "home_team_form": {
-          "team": "Napoli",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "Napoli 0 - 1 Arsenal",
-              "result": "L"
-            },
-            {
-              "date": "05/09/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Inter 3 - 2 Napoli",
-              "result": "L"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 6 - 2 Aris",
-              "result": "W"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Napoli 2 - 1 Osasuna",
-              "result": "W"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 2 - 0 Carrarese",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Arsenal",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "D",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "Napoli 0 - 1 Arsenal",
-              "result": "W"
-            },
-            {
-              "date": "06/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Arsenal 2 - 1 Chelsea",
-              "result": "W"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Community Shield",
-              "teams_and_score": "Arsenal 3 - 0 Manchester City",
-              "result": "W"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Arsenal 1 - 1 Como 1907",
-              "result": "D"
-            },
-            {
-              "date": "30/05/2026",
-              "competition": "Final",
-              "teams_and_score": "Paris Saint-Germain 1 - 1 Arsenal",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Napoli": "3",
-          "Arsenal": "8"
-        },
-        "shots_off_target": {
-          "Napoli": "0",
-          "Arsenal": "11"
-        },
-        "shots_blocked": {
-          "Napoli": "2",
-          "Arsenal": "7"
-        },
-        "corners": {
-          "Napoli": "0",
-          "Arsenal": "6"
-        },
-        "fouls": {
-          "Napoli": "12",
-          "Arsenal": "11"
-        },
-        "offsides": {
-          "Napoli": "1",
-          "Arsenal": "1"
-        },
-        "yellow_cards": {
-          "Napoli": "2",
-          "Arsenal": "1"
-        },
-        "goalkeeper_saves": {
-          "Napoli": "6",
-          "Arsenal": "3"
-        },
-        "crosses": {
-          "Napoli": "0",
-          "Arsenal": "5"
-        },
-        "ball_possession": {
-          "Napoli": "42%",
-          "Arsenal": "58%"
-        }
-      },
-      "description": "Watch Napoli vs Arsenal highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 9, 2026. The UEFA Champions League took center stage on 2026-09-09 as SSC Napoli and Arsenal faced off in a highly anticipated group stage encounter. With both teams seeking to establish their dominance in the competition, the tactical battle on the pitch promised high drama from the opening whistle. Tactical Discipline and Early Openings Arsenal started the match with clear intent, dictating the tempo through Declan Rice and Mikel Merino . The first major spark of quality arrived in the 13th minute when Bukayo Saka unleashed a stunning bicycle kick that seemed destined for the back of the net, only for Alex Meret to produce a world-class save. Minutes later, Merino tested the keeper again with a powerful header, but the Italian shot-stopper remained firm. SSC Napoli focused on defensive solidity, absorbing pressure and forcing Arsenal into wide areas. The home side's discipline was tested as the first half progressed, with Billy Gilmour receiving a yellow card in the 42nd minute for a professional foul to halt a dangerous counter-attack. Despite the visitors' 58% possession, the score remained level as both teams headed into the tunnel at the interval. The Breakthrough and Substitutions The second half saw a series of tactical adjustments from both benches. Mikel Arteta introduced Christos Tzolis and Bruno Guimarães , a move that would ultimately change the course of the match. In the 75th minute, Tzolis found space and laid the ball off to Martin Ødegaard . The Norwegian playmaker took a touch and rifled a brilliant left-footed strike from outside the box, leaving Meret with no chance and giving the Gunners the lead. In response, Napoli threw on Lorenzo Lucca and David Neres to inject some physical presence into their frontline. The intensity increased as Lucca was booked for an elbow on Ezri Konsa in the 85th minute. Arsenal's defense, bolstered by the introduction of Martin Zubimendi , stood tall against the late onslaught. Late Drama and the Final Whistle Four minutes of added time brought a flurry of incidents. Martin Ødegaard picked up a yellow card for kicking the ball away as tensions boiled over, and Kai Havertz had a late strike ruled out for offside in the 94th minute. Napoli pushed forward until the very last second, but David Raya remained composed to claim high balls and secure the clean sheet. The final whistle confirmed a hard-fought victory for the English side in a night defined by tactical precision and one moment of magic."
     },
     {
       "title": "Barcelona vs Feyenoord",
@@ -2232,1559 +2686,6 @@
         }
       },
       "description": "Watch Club Brugge vs Aston Villa highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The UEFA Champions League delivered a classic encounter as Club Brugge hosted Aston Villa in a match defined by tactical shifts and clinical finishing. On 2026-09-08 , both sides contributed to a high-octane affair that kept the fans on the edge of their seats until the very last whistle. A Thrilling Opening Exchange Action began early at the Jan Breydel Stadium, with Aston Villa breaking the deadlock in the 11th minute. John McGinn found the back of the net with a precise right-footed strike following an assist from Pau Torres . The home side responded with resilience, finding an equalizer through Hugo Vetlesen in the 19th minute after a clever set-up by Jan Virgili . However, the parity was short-lived, as Emiliano Buendia restored Villa's lead just three minutes later, finishing off a move involving Nicolas Jackson and Joao Gomes . Just before the break, Aston Villa extended their advantage. In the 43rd minute, a rare error from goalkeeper Yann Sommer allowed Nicolas Jackson to tap in from close range after another pinpoint delivery from Pau Torres . The visitors headed into the interval with a comfortable two-goal cushion, leaving the hosts with a mountain to climb. VAR Drama and the Brugge Response The second half was shrouded in controversy starting in the 48th minute, when Hans Vanaken was booked for simulation after a penalty claim was overturned. But the momentum shifted again in the 59th minute when Aaron Wan-Bissaka was judged to have handled the ball in the box. After a VAR review, a penalty was awarded, and Nicolo Tresoldi coolly converted in the 61st minute to bring Club Brugge back into the contest at 2-3. Villa Hold Firm Under Pressure As the clock ticked down, Club Brugge ramped up the pressure, controlling over 55% of the ball. Managerial changes saw Tammy Abraham and Ross Barkley introduced for the visitors to help navigate the late storm. Despite late headers and constant crosses from Hugo Siquet and Carlos Forbs , the Aston Villa defense, marshaled by Pau Torres , remained unbreakable. The final whistle confirmed a vital away victory for the Premier League side in a pulsating European night."
-    },
-    {
-      "title": "Union St. Gilloise vs Bodo/Glimt",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/union-st-gilloise-vs-bodoglimt-2026-08-04-oGaI.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 4, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/327.webp",
-          "name": "Bodo/Glimt",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1393.webp",
-          "name": "Union St. Gilloise",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/union-st-gilloise-vs-bodoglimt-2026-08-04_jt2mJ.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "18'",
-          "team": "Union St. Gilloise",
-          "player": "M. Sylla",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "20'",
-          "team": "Bodo/Glimt",
-          "player": "P. Berg",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "25'",
-          "team": "Union St. Gilloise",
-          "player": "R. Florucz",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "27'",
-          "team": "Union St. Gilloise",
-          "player": "K. M. Allister",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "29'",
-          "team": "Bodo/Glimt",
-          "player": "O. D. Blomberg",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "32'",
-          "team": "Union St. Gilloise",
-          "player": "A. Khalaili",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "41'",
-          "team": "Bodo/Glimt",
-          "player": "J. Gundersen",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "43'",
-          "team": "Bodo/Glimt",
-          "player": "S. Fet",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+5'",
-          "team": "Union St. Gilloise",
-          "player": "R. Florucz",
-          "event_type": "Goal",
-          "assist": "G. Smith",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "72'",
-          "team": "Union St. Gilloise",
-          "player": "G. Smith",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "88'",
-          "team": "Union St. Gilloise",
-          "player": "P. David",
-          "event_type": "Goal",
-          "assist": "K. Rodríguez",
-          "score_update": "3 - 2"
-        },
-        {
-          "time": "90'",
-          "team": "Union St. Gilloise",
-          "player": "B. Zeneli",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Bodo/Glimt",
-          "player": "O. L. Bjortuft",
-          "event_type": "Goal",
-          "assist": "P. Berg",
-          "score_update": "3 - 3"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Union St. Gilloise_wins": "0",
-          "draws": "1",
-          "Bodo/Glimt_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "03/10/2024",
-            "competition": "League Stage",
-            "teams_and_score": "Union St.Gilloise 0 - 0 Bodoe/Glimt"
-          }
-        ],
-        "home_team_form": {
-          "team": "Union St. Gilloise",
-          "form": [
-            "D",
-            "D",
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Union St.Gilloise 3 - 3 Bodoe/Glimt",
-              "result": "D"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Super Cup",
-              "teams_and_score": "Club Brugge 1 - 1 Union St.Gilloise",
-              "result": "D"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Union St.Gilloise 2 - 1 Lille",
-              "result": "L"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "PSV Eindhoven 7 - 3 Union St.Gilloise",
-              "result": "L"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Union St.Gilloise 2 - 1 AGF",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Bodo/Glimt",
-          "form": [
-            "D",
-            "L",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Union St.Gilloise 3 - 3 Bodoe/Glimt",
-              "result": "D"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Eliteserien",
-              "teams_and_score": "Bodoe/Glimt 4 - 0 Lillestroem",
-              "result": "L"
-            },
-            {
-              "date": "04/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Bodoe/Glimt 4 - 0 IK Start",
-              "result": "L"
-            },
-            {
-              "date": "29/05/2026",
-              "competition": "Eliteserien",
-              "teams_and_score": "Rosenborg 2 - 2 Bodoe/Glimt",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Union St. Gilloise": "4",
-          "Bodo/Glimt": "3"
-        },
-        "shots_off_target": {
-          "Union St. Gilloise": "5",
-          "Bodo/Glimt": "2"
-        },
-        "corners": {
-          "Union St. Gilloise": "5",
-          "Bodo/Glimt": "0"
-        },
-        "fouls": {
-          "Union St. Gilloise": "13",
-          "Bodo/Glimt": "12"
-        },
-        "offsides": {
-          "Union St. Gilloise": "2",
-          "Bodo/Glimt": "0"
-        },
-        "yellow_cards": {
-          "Union St. Gilloise": "5",
-          "Bodo/Glimt": "2"
-        },
-        "goalkeeper_saves": {
-          "Union St. Gilloise": "0",
-          "Bodo/Glimt": "2"
-        },
-        "ball_possession": {
-          "Union St. Gilloise": "49%",
-          "Bodo/Glimt": "51%"
-        }
-      },
-      "description": "Watch Union St. Gilloise vs Bodo/Glimt highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 4, 2026. The UEFA Champions League stage was set for a high-octane encounter as Union St. Gilloise faced off against Bodo/Glimt in a contest filled with attacking intent. Both sides looked to assert their dominance early in a game that would keep fans on the edge of their seats until the final whistle. A High-Octane Opening Half The match on August 4, 2026 , exploded into life early on, with both teams showing no signs of hesitation. Bodo/Glimt drew first blood in the 20th minute when Patrick Berg found the back of the net. The lead, however, was short-lived as Raul Florucz equalized for the hosts just five minutes later. The back-and-forth nature of the game continued when Ole Blomberg clinicaly converted a penalty in the 29th minute to restore the Norwegian side's advantage. As the first half drew to a close, Union St. Gilloise found a crucial breakthrough in stoppage time. In the 45+5th minute, Guilherme Smith provided a brilliant assist for Raul Florucz , who netted his second goal of the night to level the score at 2-2. The first period was as feisty as it was high-scoring, with Massire Sylla , Kevin Mac Allister , and Anan Khalaili all receiving yellow cards as the physical battle intensified. Tactical Shifts and Sustained Pressure The second half saw both managers turn to their benches to break the deadlock. Bodo/Glimt introduced Andreas Helmersen and Joshua Kitolano at the restart, while the hosts made a triple substitution in the 56th minute, bringing on Kevin Rodriguez , Nikki Havenaar , and Besfort Zeneli . The middle period of the match became a tactical chess match, with yellow cards for Jostein Gundersen and Sondre Brunstad Fet reflecting the high stakes of the competition. Late Drama and a Last-Gasp Equalizer Just as it seemed the points would be shared, the match reached a dramatic crescendo in the final minutes. In the 88th minute, substitute Promise David latched onto a pass from Kevin Rodriguez to fire Union St. Gilloise into a 3-2 lead. The home fans were dreaming of a famous victory, but the drama was far from over. In the 91st minute, Patrick Berg turned provider, setting up Odin Luraas Bjoertuft for a stunning equalizer that silenced the home crowd. The referee blew the final whistle at 90+6 minutes, ending a classic UEFA Champions League encounter that finished 3-3, leaving both teams with a point after an unforgettable night of football."
-    },
-    {
-      "title": "Olympiakos Piraeus vs NEC Nijmegen",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/olympiakos-piraeus-vs-nec-nijmegen-2026-08-04-06hn.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 4, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/413.webp",
-          "name": "NEC Nijmegen",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/553.webp",
-          "name": "Olympiakos Piraeus",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/olympiakos-piraeus-vs-nec-nijmegen-2026-08-04_fUkVq.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Olympiakos Piraeus",
-          "player": "D. Carmo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "67'",
-          "team": "Olympiakos Piraeus",
-          "player": "D. García",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "NEC Nijmegen",
-          "player": "D. Fonville",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Olympiakos Piraeus_wins": "0",
-          "draws": "0",
-          "NEC Nijmegen_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Olympiakos Piraeus",
-          "form": [
-            "D",
-            "L",
-            "L",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Olympiacos 0 - 0 NEC Nijmegen",
-              "result": "D"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "AZ Alkmaar 3 - 2 Olympiacos",
-              "result": "L"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Ajax 1 - 0 Olympiacos",
-              "result": "L"
-            },
-            {
-              "date": "17/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Olympiacos 3 - 1 Fortuna Sittard",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Super League: Championship",
-              "teams_and_score": "AEK Athens 1 - 1 Olympiacos",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "NEC Nijmegen",
-          "form": [
-            "D",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Olympiacos 0 - 0 NEC Nijmegen",
-              "result": "D"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "NEC Nijmegen 1 - 2 Sevilla",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "NEC Nijmegen 0 - 1 Elversberg",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "NEC Nijmegen 2 - 1 Go Ahead Eagles",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Olympiakos Piraeus": "5",
-          "NEC Nijmegen": "4"
-        },
-        "shots_off_target": {
-          "Olympiakos Piraeus": "5",
-          "NEC Nijmegen": "5"
-        },
-        "shots_blocked": {
-          "Olympiakos Piraeus": "2",
-          "NEC Nijmegen": "4"
-        },
-        "corners": {
-          "Olympiakos Piraeus": "5",
-          "NEC Nijmegen": "2"
-        },
-        "fouls": {
-          "Olympiakos Piraeus": "11",
-          "NEC Nijmegen": "16"
-        },
-        "offsides": {
-          "Olympiakos Piraeus": "2",
-          "NEC Nijmegen": "6"
-        },
-        "yellow_cards": {
-          "Olympiakos Piraeus": "2",
-          "NEC Nijmegen": "1"
-        },
-        "goalkeeper_saves": {
-          "Olympiakos Piraeus": "4",
-          "NEC Nijmegen": "5"
-        },
-        "crosses": {
-          "Olympiakos Piraeus": "7",
-          "NEC Nijmegen": "3"
-        },
-        "ball_possession": {
-          "Olympiakos Piraeus": "54%",
-          "NEC Nijmegen": "46%"
-        }
-      },
-      "description": "Watch Olympiakos Piraeus vs NEC Nijmegen highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 4, 2026. Anticipation reached a fever pitch for this UEFA Champions League encounter, where tactical discipline and defensive organization were expected to be the deciding factors. Both teams looked to establish their rhythm early on under the bright lights of the European stage. Early Intensity and Defensive Rigor On August 4, 2026 , Olympiakos Piraeus hosted NEC Nijmegen in a high-stakes fixture that demanded physical excellence from the opening whistle. The match began with a fierce battle for midfield supremacy, and the tone was set just 11 minutes in when David Carmo received a yellow card for a mistimed challenge. This early booking forced the home side's backline to play with caution for the remainder of the half. Despite periods of sustained pressure, clear-cut chances remained elusive as both defenses held firm until the halftime whistle. Tactical Shifts and Fresh Personnel The second half saw both managers turning to their benches in an attempt to break the deadlock. At the restart, Olympiakos introduced Gelson Martins for Joel Roca , hoping to inject pace into the wide areas. A flurry of strategic changes followed in the 56th minute, with Pablo Maffeo , Jota Silva , and Lorenzo Pirola entering the fray. However, the tension only escalated, and in the 67th minute, Dani García was booked, adding to the defensive burden of the Greek giants as they struggled to find a clinical edge. A Grueling Finish to the Contest NEC Nijmegen utilized their depth in the final quarter, bringing on the experienced Dusan Tadic and Isak Hansen-Aaroeen to test the weary home defense. The closing stages were a testament to defensive grit, with further substitutions including Emre Mor and Willum Willumsson aiming to find a late winner. In the dying moments of stoppage time, Deveron Fonville picked up a yellow card for a tactical foul to halt a late surge. After five minutes of added time, the referee brought an end to a hard-fought battle where defensive solidity ultimately reigned supreme."
-    },
-    {
-      "title": "Sparta Praha vs Olympique Lyonnais",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/sparta-praha-vs-olympique-lyonnais-2026-08-04-6pBq.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 4, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "",
-          "name": "Away Team",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/sparta-praha-vs-olympique-lyonnais-2026-08-04_rQ3tk.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
-        },
-        "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
-        }
-      },
-      "statistics": {},
-      "description": "Watch Sparta Praha vs Olympique Lyonnais highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 4, 2026."
-    },
-    {
-      "title": "Dinamo Zagreb vs Kauno Žalgiris",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/dinamo-zagreb-vs-kauno-zalgiris-2026-08-04-3BwH.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 4, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/3872.webp",
-          "name": "Kauno Žalgiris",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/620.webp",
-          "name": "Dinamo Zagreb",
-          "score": "5"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/dinamo-zagreb-vs-kauno-zalgiris-2026-08-04_fpcdu.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Dinamo Zagreb",
-          "player": "M. Zajc",
-          "event_type": "Goal",
-          "assist": "L. Stojković",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Dinamo Zagreb",
-          "player": "S. McKenna",
-          "event_type": "Goal",
-          "assist": "M. P. Vinlöf",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "50'",
-          "team": "Dinamo Zagreb",
-          "player": "M. Lisica",
-          "event_type": "Goal",
-          "assist": "J. Mišić",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "76'",
-          "team": "Dinamo Zagreb",
-          "player": "L. Stojković",
-          "event_type": "Goal",
-          "assist": "M. Orsic",
-          "score_update": "4 - 0"
-        },
-        {
-          "time": "85'",
-          "team": "Kauno Žalgiris",
-          "player": "A. Kalik",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+4'",
-          "team": "Dinamo Zagreb",
-          "player": "L. Kačavenda",
-          "event_type": "Goal",
-          "assist": "J. Mišić",
-          "score_update": "5 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Dinamo Zagreb_wins": "0",
-          "draws": "0",
-          "Kauno Žalgiris_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Dinamo Zagreb",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Dinamo Zagreb 5 - 0 FK Kauno Zalgiris",
-              "result": "W"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "HNL",
-              "teams_and_score": "Dinamo Zagreb 2 - 0 Slaven",
-              "result": "W"
-            },
-            {
-              "date": "28/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Dinamo Zagreb 3 - 2 Thun",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "HNL",
-              "teams_and_score": "Dinamo Zagreb 0 - 0 NK Lokomotiva",
-              "result": "D"
-            },
-            {
-              "date": "13/05/2026",
-              "competition": "Cup",
-              "teams_and_score": "Dinamo Zagreb 2 - 0 Rijeka",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Kauno Žalgiris",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Dinamo Zagreb 5 - 0 FK Kauno Zalgiris",
-              "result": "L"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "A Lyga",
-              "teams_and_score": "FK Kauno Zalgiris 4 - 0 FA Siauliai",
-              "result": "L"
-            },
-            {
-              "date": "14/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Drita 2 - 3 FK Kauno Zalgiris",
-              "result": "W"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "A Lyga",
-              "teams_and_score": "FK Kauno Zalgiris 3 - 0 FK Panevezys",
-              "result": "L"
-            },
-            {
-              "date": "07/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "FK Kauno Zalgiris 1 - 1 Drita",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Dinamo Zagreb": "7",
-          "Kauno Žalgiris": "0"
-        },
-        "shots_off_target": {
-          "Dinamo Zagreb": "5",
-          "Kauno Žalgiris": "2"
-        },
-        "shots_blocked": {
-          "Dinamo Zagreb": "7",
-          "Kauno Žalgiris": "1"
-        },
-        "corners": {
-          "Dinamo Zagreb": "10",
-          "Kauno Žalgiris": "0"
-        },
-        "fouls": {
-          "Dinamo Zagreb": "15",
-          "Kauno Žalgiris": "11"
-        },
-        "offsides": {
-          "Dinamo Zagreb": "1",
-          "Kauno Žalgiris": "2"
-        },
-        "yellow_cards": {
-          "Dinamo Zagreb": "0",
-          "Kauno Žalgiris": "1"
-        },
-        "goalkeeper_saves": {
-          "Dinamo Zagreb": "0",
-          "Kauno Žalgiris": "2"
-        },
-        "ball_possession": {
-          "Dinamo Zagreb": "70%",
-          "Kauno Žalgiris": "30%"
-        }
-      },
-      "description": "Watch Dinamo Zagreb vs Kauno Žalgiris highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 4, 2026. The atmosphere was electric on August 4, 2026, as Dinamo Zagreb hosted Kauno Žalgiris in a high-stakes UEFA Champions League encounter. Both sides entered the pitch with massive European ambitions, setting the stage for a compelling night of continental football. A Lightning Double Strike The encounter began with high intensity, but it was the 32nd minute that truly broke the deadlock. Miha Zajc found the back of the net after a precise pass from Luka Stojkovic , sending the home crowd into a frenzy. Before the visitors could even regroup, Dinamo Zagreb struck again just sixty seconds later. Scott McKenna capitalized on a delivery from Matteo Perez Vinloef to double the lead, leaving Kauno Žalgiris stunned by the rapid-fire sequence of events. Maintaining the Momentum The second half saw no dip in the home side's aggression. In the 50th minute, Mateo Lisica further extended the advantage to 3-0, finishing off a move orchestrated by Josip Misic . As the game progressed, tactical substitutions brought fresh energy to the pitch, including the introduction of Mislav Orsic . The veteran winger made his mark in the 76th minute, providing the assist for Luka Stojkovic to claim a well-deserved goal and put the result beyond any doubt. Late Flourish and Final Whistle As the match entered its final stages, the visitors struggled to contain the pressure, leading to a yellow card for Anthony Kalik in the 85th minute. Dinamo Zagreb remained relentless until the very end. In the fourth minute of stoppage time, Lukas Kacavenda added a fifth goal following another brilliant setup by Josip Misic . The final whistle confirmed a comprehensive performance from the hosts, marking a dominant chapter in their European campaign."
-    },
-    {
-      "title": "Nijmegen FC vs Bodo Glimt",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/nijmegen-fc-v-bodo-glimt-2026-08-19-Xoel.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 19, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/327.webp",
-          "name": "Bodo/Glimt",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/413.webp",
-          "name": "NEC Nijmegen",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Nijmegen_FC_v_Bodo_Glimt_2026_08_19.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Bodo/Glimt",
-          "player": "S. Fet",
-          "event_type": "Goal",
-          "assist": "J. Hauge",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "NEC Nijmegen",
-          "player": "T. Storm",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Bodo/Glimt",
-          "player": "A. Helmersen",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "50'",
-          "team": "Bodo/Glimt",
-          "player": "H. Aleesami",
-          "event_type": "Goal",
-          "assist": "P. Berg",
-          "score_update": "0 - 3"
-        },
-        {
-          "time": "64'",
-          "team": "Bodo/Glimt",
-          "player": "O. Brynhildsen",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "85'",
-          "team": "NEC Nijmegen",
-          "player": "C. Bischoff",
-          "event_type": "Goal",
-          "assist": "D. Tadić",
-          "score_update": "1 - 3"
-        },
-        {
-          "time": "90+1'",
-          "team": "NEC Nijmegen",
-          "player": "J. Monteiro",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "NEC Nijmegen_wins": "0",
-          "draws": "0",
-          "Bodo/Glimt_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "NEC Nijmegen",
-          "form": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "19/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "NEC Nijmegen 1 - 3 Bodoe/Glimt",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "Willem II 1 - 4 NEC Nijmegen",
-              "result": "W"
-            },
-            {
-              "date": "11/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "NEC Nijmegen 2 - 1 Olympiacos",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Eredivisie",
-              "teams_and_score": "NEC Nijmegen 1 - 2 Telstar",
-              "result": "L"
-            },
-            {
-              "date": "04/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Olympiacos 0 - 0 NEC Nijmegen",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Bodo/Glimt",
-          "form": [
-            "W",
-            "W",
-            "D",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "19/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "NEC Nijmegen 1 - 3 Bodoe/Glimt",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Eliteserien",
-              "teams_and_score": "Vaalerenga 1 - 2 Bodoe/Glimt",
-              "result": "W"
-            },
-            {
-              "date": "04/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Union St.Gilloise 3 - 3 Bodoe/Glimt",
-              "result": "D"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Eliteserien",
-              "teams_and_score": "Bodoe/Glimt 4 - 0 Lillestroem",
-              "result": "L"
-            },
-            {
-              "date": "04/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Bodoe/Glimt 4 - 0 IK Start",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "NEC Nijmegen": "6",
-          "Bodo/Glimt": "4"
-        },
-        "shots_off_target": {
-          "NEC Nijmegen": "9",
-          "Bodo/Glimt": "3"
-        },
-        "shots_blocked": {
-          "NEC Nijmegen": "7",
-          "Bodo/Glimt": "1"
-        },
-        "corners": {
-          "NEC Nijmegen": "7",
-          "Bodo/Glimt": "2"
-        },
-        "fouls": {
-          "NEC Nijmegen": "9",
-          "Bodo/Glimt": "12"
-        },
-        "offsides": {
-          "NEC Nijmegen": "0",
-          "Bodo/Glimt": "1"
-        },
-        "yellow_cards": {
-          "NEC Nijmegen": "2",
-          "Bodo/Glimt": "1"
-        },
-        "goalkeeper_saves": {
-          "NEC Nijmegen": "1",
-          "Bodo/Glimt": "5"
-        },
-        "crosses": {
-          "NEC Nijmegen": "8",
-          "Bodo/Glimt": "1"
-        },
-        "ball_possession": {
-          "NEC Nijmegen": "69%",
-          "Bodo/Glimt": "31%"
-        }
-      },
-      "description": "Watch NEC Nijmegen vs Bodo/Glimt highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 19, 2026. The stage was set for a high-stakes European encounter as the lights dimmed for this UEFA Champions League fixture on August 19, 2026. Both sets of supporters created an electric atmosphere, aware of how vital a strong performance would be for their respective campaigns. Bodo/Glimt’s First-Half Blitz The match began with a display of tactical discipline, but it was Bodo/Glimt who found the clinical edge first. In the 25th minute, Jens Petter Hauge turned provider with a delicate pass that allowed Sondre Brunstad Fet to find the back of the net. The goal silenced the home crowd and gave the visitors the momentum they needed to dictate the tempo of the game. As the first half drew to a close, the pressure on Nijmegen FC intensified. A defensive lapse in the 43rd minute led to a yellow card for Tobias Storm and a penalty for the visitors. Andreas Helmersen stepped up to the spot and calmly converted the chance in the 44th minute, doubling the lead just before the interval. It was a hammer blow for the hosts, who struggled to find their rhythm against a well-organized opponent. Response and Final Whistle The second half offered no immediate respite for the home side. Only five minutes after the restart, Haitam Aleesami extended the lead to 3-0, finishing off a well-crafted move involving Patrick Berg . Facing a mountain to climb, Nijmegen FC introduced fresh legs, with Clement Bischoff and Kaj Sierhuis entering the fray to spark a comeback. Their persistence eventually paid off in the 85th minute when Dusan Tadić set up Bischoff for a well-deserved goal. Despite the late surge from the hosts, including a flurry of substitutions and increased attacking pressure, Bodo/Glimt remained composed. Even a late yellow card for Jamiro Monteiro in stoppage time couldn't dampen the spirits of the traveling side. The referee’s final whistle confirmed a comprehensive victory for the visitors, leaving the home side to reflect on missed opportunities in a hard-fought contest."
-    },
-    {
-      "title": "Celtic vs LASK Linz",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-v-lask-linz-2026-08-19-ygD6.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 19, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1026.webp",
-          "name": "Lask Linz",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/247.webp",
-          "name": "Celtic",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Celtic_v_LASK_Linz_2026_08_19.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Celtic",
-          "player": "B. Nygren",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Celtic",
-          "player": "C. Duran",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Celtic",
-          "player": "C. Duran",
-          "event_type": "Goal",
-          "assist": "B. Nygren",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Lask Linz",
-          "player": "K. Jørgensen",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Celtic_wins": "1",
-          "draws": "0",
-          "Lask Linz_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "08/07/2014",
-            "competition": "Club Friendlies",
-            "teams_and_score": "LASK 2 - 5 Celtic"
-          }
-        ],
-        "home_team_form": {
-          "team": "Celtic",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "D",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "19/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Celtic 3 - 0 LASK",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Dundee United 0 - 4 Celtic",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Celtic 2 - 2 AC Milan",
-              "result": "D"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Celtic 1 - 1 Middlesbrough",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Lask Linz",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "19/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Celtic 3 - 0 LASK",
-              "result": "L"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Bundesliga",
-              "teams_and_score": "LASK 4 - 1 SV Ried",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "OFB Cup",
-              "teams_and_score": "Kalsdorf 0 - 7 LASK",
-              "result": "W"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "LASK 2 - 0 Fortuna Dusseldorf",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Celtic": "7",
-          "Lask Linz": "8"
-        },
-        "shots_off_target": {
-          "Celtic": "5",
-          "Lask Linz": "7"
-        },
-        "shots_blocked": {
-          "Celtic": "5",
-          "Lask Linz": "5"
-        },
-        "corners": {
-          "Celtic": "8",
-          "Lask Linz": "3"
-        },
-        "fouls": {
-          "Celtic": "6",
-          "Lask Linz": "9"
-        },
-        "offsides": {
-          "Celtic": "1",
-          "Lask Linz": "5"
-        },
-        "yellow_cards": {
-          "Celtic": "0",
-          "Lask Linz": "1"
-        },
-        "goalkeeper_saves": {
-          "Celtic": "8",
-          "Lask Linz": "4"
-        },
-        "crosses": {
-          "Celtic": "3",
-          "Lask Linz": "4"
-        },
-        "ball_possession": {
-          "Celtic": "64%",
-          "Lask Linz": "36%"
-        }
-      },
-      "description": "Watch Celtic vs Lask Linz highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 19, 2026. The stage was set for a high-stakes encounter on 2026-08-19 as Celtic played host to LASK Linz in the UEFA Champions League . With European ambitions on the line, both sets of players emerged into a cauldron of noise, ready to battle for every inch of grass. Clinical LASK Seize Control The opening exchanges were tense, but it was the visitors who showed a more clinical edge in front of goal. In the 26th minute, Benjamin Nygren broke the deadlock with a composed finish that stunned the home crowd. Celtic attempted to muster a response, moving the ball quickly through midfield, but they found it difficult to break down a resilient Austrian defensive line. The pressure from LASK told again before the halftime whistle. In the 38th minute, Camilo Duran found space in the box to double the lead, leaving the hosts with a mountain to climb. The visitors went into the break with a commanding two-goal cushion, having dominated the key moments of the first half. Duran Doubles Up to Seal Victory As the second half began, Celtic introduced Reo Hatate in hopes of sparking a comeback. However, any momentum the Hoops hoped to build was snuffed out in the 67th minute. Benjamin Nygren turned provider, delivering a precise assist for Camilo Duran , who made no mistake in netting his second goal of the night. A series of tactical substitutions followed, with Liam Scales and Anthony Ralston entering the fray for Celtic , while LASK brought on fresh legs in the form of Alessandro Schoepf and Christoph Lang . Despite a late yellow card for Kasper Joergensen , the visitors remained disciplined until the final whistle, securing a professional and emphatic win on the road."
-    },
-    {
-      "title": "Fenerbahce vs Olympique Lyonnais",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-v-olympique-lyonnais-2026-08-18-fr4u.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 18, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/80.webp",
-          "name": "Lyon",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/611.webp",
-          "name": "Fenerbahce",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Fenerbahce_v_Olympique_Lyonnais_2026_08_18.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Lyon",
-          "player": "A. Vinícius",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Lyon",
-          "player": "L. Openda",
-          "event_type": "Goal",
-          "assist": "C. Tolisso",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Fenerbahce",
-          "player": "M. Greenwood",
-          "event_type": "Goal",
-          "assist": "K. Aktürkoğlu",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Fenerbahce",
-          "player": "N. Kanté",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Fenerbahce",
-          "player": "M. Škriniar",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Fenerbahce_wins": "0",
-          "draws": "1",
-          "Lyon_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "23/01/2025",
-            "competition": "League Stage",
-            "teams_and_score": "Fenerbahçe 0 - 0 Lyon"
-          },
-          {
-            "date": "03/11/2004",
-            "competition": "Champions League grp. D",
-            "teams_and_score": "Lyon 4 - 2 Fenerbahçe"
-          },
-          {
-            "date": "17/10/2001",
-            "competition": "Champions League grp. F",
-            "teams_and_score": "Lyon 3 - 1 Fenerbahçe"
-          }
-        ],
-        "home_team_form": {
-          "team": "Fenerbahce",
-          "form": [
-            "D",
-            "L",
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "18/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Gençlerbirliği 2 - 1 Fenerbahçe",
-              "result": "L"
-            },
-            {
-              "date": "11/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Sturm Graz 0 - 1 Fenerbahçe",
-              "result": "W"
-            },
-            {
-              "date": "14/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "LASK 1 - 2 Fenerbahçe",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Fenerbahçe 3 - 3 Eyupspor",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Lyon",
-          "form": [
-            "D",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "18/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
-              "result": "D"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Betis 4 - 0 Lyon",
-              "result": "L"
-            },
-            {
-              "date": "15/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Lyon 2 - 1 Servette",
-              "result": "W"
-            },
-            {
-              "date": "08/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Lyon 5 - 2 UF Maconnais",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Lyon 0 - 4 Lens",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Fenerbahce": "5",
-          "Lyon": "5"
-        },
-        "shots_off_target": {
-          "Fenerbahce": "5",
-          "Lyon": "2"
-        },
-        "shots_blocked": {
-          "Fenerbahce": "2",
-          "Lyon": "5"
-        },
-        "corners": {
-          "Fenerbahce": "3",
-          "Lyon": "0"
-        },
-        "fouls": {
-          "Fenerbahce": "13",
-          "Lyon": "13"
-        },
-        "offsides": {
-          "Fenerbahce": "3",
-          "Lyon": "1"
-        },
-        "yellow_cards": {
-          "Fenerbahce": "2",
-          "Lyon": "1"
-        },
-        "goalkeeper_saves": {
-          "Fenerbahce": "4",
-          "Lyon": "4"
-        },
-        "crosses": {
-          "Fenerbahce": "4",
-          "Lyon": "3"
-        },
-        "ball_possession": {
-          "Fenerbahce": "52%",
-          "Lyon": "48%"
-        }
-      },
-      "description": "Watch Fenerbahce vs Lyon highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 18, 2026. The lights of the UEFA Champions League shone brightly on August 18, 2026 , as Fenerbahce and Olympique Lyonnais faced off in a highly anticipated group stage encounter. Both sides entered the pitch looking to establish dominance in a match that would be decided by moments of individual brilliance and tactical discipline. Lyon Strike First in Tight Contest The match began with an electric atmosphere, as Fenerbahce looked to assert their home advantage. However, it was Olympique Lyonnais who proved to be more clinical in the opening period. The game became physical early on, with Abner picking up a yellow card in the 37th minute for a mistimed challenge. Just three minutes later, the deadlock was broken. Corentin Tolisso showcased his vision by picking out Ikoma Lois Openda , who finished composedly to put the visitors ahead. Lyon managed to soak up the subsequent pressure and headed into the break with a narrow lead. Greenwood Sparks Second-Half Comeback The second half started with a bang for the home supporters. Only two minutes after the restart, in the 47th minute, Fenerbahce found their equalizer. Kerem Akturkoglu turned provider, delivering a precise ball for Mason Greenwood to fire home. The goal shifted the momentum, prompting a series of tactical changes from both managers. Anderson Talisca and Kerem Akturkoglu made way for Marco Asensio and Dorgeles Nene , while Lyon introduced Clinton Mata and Kail Boudache to shore up their ranks. As the game entered its closing stages, the intensity rose, leading to yellow cards for N'Golo Kante and Milan Skriniar as they fought to keep the scores level. Despite the late introduction of Romelu Lukaku in the 82nd minute and further substitutions in stoppage time, neither side could find a decisive winner. The referee blew the final whistle after four minutes of added time, concluding a hard-fought battle that saw both teams earn a well-deserved point."
-    },
-    {
-      "title": "Aarhus vs Sabah FA",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/aarhus-vs-sabah-fa-2026-08-05-Eg1d.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 5, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "",
-          "name": "Away Team",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/aarhus-vs-sabah-fa-2026-08-05_jw1xC.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
-        },
-        "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
-        }
-      },
-      "statistics": {},
-      "description": "Watch Aarhus vs Sabah FA highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 5, 2026."
-    },
-    {
-      "title": "Mjallby AIF vs Slovan Bratislava",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/mjallby-aif-vs-slovan-bratislava-2026-08-05-kqO1.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 5, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "",
-          "name": "Away Team",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/mjallby-aif-vs-slovan-bratislava-2026-08-05_QK4hX.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
-        },
-        "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
-        }
-      },
-      "statistics": {},
-      "description": "Watch Mjallby AIF vs Slovan Bratislava highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 5, 2026."
-    },
-    {
-      "title": "Fenerbahce vs Sturm Graz",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-vs-sturm-graz-2026-08-05-T46v.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Aug 5, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/637.webp",
-          "name": "Sturm Graz",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/611.webp",
-          "name": "Fenerbahce",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/fenerbahce-vs-sturm-graz-2026-08-05_Wo6ck.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Fenerbahce",
-          "player": "Talisca",
-          "event_type": "Goal",
-          "assist": "K. Aktürkoğlu",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Sturm Graz",
-          "player": "J. G. Stanković",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Fenerbahce",
-          "player": "M. Greenwood",
-          "event_type": "Goal",
-          "assist": "M. Asensio",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Sturm Graz",
-          "player": "J. Heil",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Sturm Graz",
-          "player": "A. Kayombo",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Fenerbahce_wins": "0",
-          "draws": "1",
-          "Sturm Graz_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "03/08/2017",
-            "competition": "Europa League Qualification",
-            "teams_and_score": "Fenerbahçe 1 - 1 Sturm Graz"
-          }
-        ],
-        "home_team_form": {
-          "team": "Fenerbahce",
-          "form": [
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Fenerbahçe 2 - 0 Sturm Graz",
-              "result": "L"
-            },
-            {
-              "date": "14/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "LASK 1 - 2 Fenerbahçe",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Fenerbahçe 3 - 3 Eyupspor",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Sturm Graz",
-          "form": [
-            "L",
-            "D",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Fenerbahçe 2 - 0 Sturm Graz",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Bundesliga",
-              "teams_and_score": "WSG Tirol 1 - 1 Sturm Graz",
-              "result": "D"
-            },
-            {
-              "date": "28/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hearts 0 - 2 Sturm Graz",
-              "result": "W"
-            },
-            {
-              "date": "24/07/2026",
-              "competition": "OFB Cup",
-              "teams_and_score": "Seekirchen 0 - 3 Sturm Graz",
-              "result": "W"
-            },
-            {
-              "date": "21/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Sturm Graz 4 - 0 Hearts",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Fenerbahce": "10",
-          "Sturm Graz": "1"
-        },
-        "shots_off_target": {
-          "Fenerbahce": "2",
-          "Sturm Graz": "1"
-        },
-        "shots_blocked": {
-          "Fenerbahce": "5",
-          "Sturm Graz": "3"
-        },
-        "corners": {
-          "Fenerbahce": "4",
-          "Sturm Graz": "2"
-        },
-        "fouls": {
-          "Fenerbahce": "10",
-          "Sturm Graz": "19"
-        },
-        "offsides": {
-          "Fenerbahce": "4",
-          "Sturm Graz": "0"
-        },
-        "yellow_cards": {
-          "Fenerbahce": "0",
-          "Sturm Graz": "3"
-        },
-        "goalkeeper_saves": {
-          "Fenerbahce": "1",
-          "Sturm Graz": "8"
-        },
-        "crosses": {
-          "Fenerbahce": "4",
-          "Sturm Graz": "3"
-        },
-        "ball_possession": {
-          "Fenerbahce": "72%",
-          "Sturm Graz": "28%"
-        }
-      },
-      "description": "Watch Fenerbahce vs Sturm Graz highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 5, 2026. The high-stakes atmosphere of the UEFA Champions League set the stage for a compelling encounter on August 5, 2026 . Both Fenerbahce and Sturm Graz took to the pitch with clear ambitions, knowing that every tactical decision could define their European journey. Early Breakthrough in Istanbul Fenerbahce wasted no time in establishing their presence on the field. In the 10th minute, a moment of individual brilliance combined with teamwork saw Kerem Akturkoglu provide a clinical assist for Anderson Talisca , who buried his chance to score the opening goal . The home crowd erupted as their side took control of the match . Sturm Graz struggled to contain the pressure, and Jon Gorenc-Stankovic saw a yellow card in the 21st minute as the visitors tried to halt the momentum. Doubling the Lead Before the Break Despite an early injury setback that forced Jayden Oosterwolde off for Archie Brown , the hosts remained relentless. As the first half reached its conclusion, a second blow was dealt to the Austrian side. In the 45th minute, Marco Asensio turned provider, finding Mason Greenwood , who calmly converted to make it 2-0. This late strike just before half-time gave Fenerbahce a commanding cushion heading into the tunnel. Solid Management and Final Whistle The second half saw a flurry of tactical changes as Sturm Graz attempted to fight back, introducing several substitutes like Axel Kayombo and Ryan Fosso . However, the rhythm of the game favored the hosts, who managed the tempo effectively. Yellow cards for Juergen Heil and Kayombo further hindered the visitors' progress. Fenerbahce utilized their bench depth, bringing on Fred and Irfan Kahveci to maintain stability. The referee blew the final whistle at 90+4', confirming a professional and well-earned victory for the home side."
     },
     {
       "title": "Slovan Bratislava vs Mjallby AIF",
@@ -5850,6 +4751,1559 @@
         }
       },
       "description": "Watch Lyon vs Fenerbahce highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 26, 2026. The Groupama Stadium played host to a high-stakes encounter as Olympique Lyonnais and Fenerbahce faced off in the UEFA Champions League . Both sides entered the pitch with everything to play for in what promised to be a defining night of European football. Clinical First Half from the Visitors On 2026-08-26 , the match began with immediate intensity as the visitors sought to dominate early. Fenerbahce broke the deadlock in the 24th minute when Vedat Muriqi found the back of the net with a clinical finish. The momentum stayed firmly with the Turkish side, and just four minutes later, Archie Brown doubled the lead after a precise assist from Mason Greenwood . Lyon struggled to regain their composure, and the physical nature of the contest became evident when Milan Skriniar received a yellow card in the 32nd minute. Lyon Fight Back Amid Late Drama The second half saw Lyon emerge with renewed energy, despite an early booking for Ikoma Lois Openda . Their efforts were rewarded in the 61st minute when Malick Fofana clinicaly finished a chance created by Ainsley Maitland-Niles , pulling the score back to 1-2. A flurry of substitutions followed, with the likes of Nicolas Tagliafico and Romelu Lukaku entering the fray to influence the closing stages. The match ended in a heated fashion, with Matteo Guendouzi and Dorgeles Nene both receiving yellow cards deep in stoppage time, but Fenerbahce successfully defended their lead until the final whistle."
+    },
+    {
+      "title": "Union St. Gilloise vs Bodo/Glimt",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/union-st-gilloise-vs-bodoglimt-2026-08-04-oGaI.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/327.webp",
+          "name": "Bodo/Glimt",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1393.webp",
+          "name": "Union St. Gilloise",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/union-st-gilloise-vs-bodoglimt-2026-08-04_jt2mJ.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "18'",
+          "team": "Union St. Gilloise",
+          "player": "M. Sylla",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "20'",
+          "team": "Bodo/Glimt",
+          "player": "P. Berg",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "25'",
+          "team": "Union St. Gilloise",
+          "player": "R. Florucz",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "27'",
+          "team": "Union St. Gilloise",
+          "player": "K. M. Allister",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "29'",
+          "team": "Bodo/Glimt",
+          "player": "O. D. Blomberg",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "32'",
+          "team": "Union St. Gilloise",
+          "player": "A. Khalaili",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "41'",
+          "team": "Bodo/Glimt",
+          "player": "J. Gundersen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "43'",
+          "team": "Bodo/Glimt",
+          "player": "S. Fet",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+5'",
+          "team": "Union St. Gilloise",
+          "player": "R. Florucz",
+          "event_type": "Goal",
+          "assist": "G. Smith",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "72'",
+          "team": "Union St. Gilloise",
+          "player": "G. Smith",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "88'",
+          "team": "Union St. Gilloise",
+          "player": "P. David",
+          "event_type": "Goal",
+          "assist": "K. Rodríguez",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "90'",
+          "team": "Union St. Gilloise",
+          "player": "B. Zeneli",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Bodo/Glimt",
+          "player": "O. L. Bjortuft",
+          "event_type": "Goal",
+          "assist": "P. Berg",
+          "score_update": "3 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Union St. Gilloise_wins": "0",
+          "draws": "1",
+          "Bodo/Glimt_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "03/10/2024",
+            "competition": "League Stage",
+            "teams_and_score": "Union St.Gilloise 0 - 0 Bodoe/Glimt"
+          }
+        ],
+        "home_team_form": {
+          "team": "Union St. Gilloise",
+          "form": [
+            "D",
+            "D",
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Union St.Gilloise 3 - 3 Bodoe/Glimt",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Super Cup",
+              "teams_and_score": "Club Brugge 1 - 1 Union St.Gilloise",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Union St.Gilloise 2 - 1 Lille",
+              "result": "L"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "PSV Eindhoven 7 - 3 Union St.Gilloise",
+              "result": "L"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Union St.Gilloise 2 - 1 AGF",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bodo/Glimt",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Union St.Gilloise 3 - 3 Bodoe/Glimt",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Eliteserien",
+              "teams_and_score": "Bodoe/Glimt 4 - 0 Lillestroem",
+              "result": "L"
+            },
+            {
+              "date": "04/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bodoe/Glimt 4 - 0 IK Start",
+              "result": "L"
+            },
+            {
+              "date": "29/05/2026",
+              "competition": "Eliteserien",
+              "teams_and_score": "Rosenborg 2 - 2 Bodoe/Glimt",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Union St. Gilloise": "4",
+          "Bodo/Glimt": "3"
+        },
+        "shots_off_target": {
+          "Union St. Gilloise": "5",
+          "Bodo/Glimt": "2"
+        },
+        "corners": {
+          "Union St. Gilloise": "5",
+          "Bodo/Glimt": "0"
+        },
+        "fouls": {
+          "Union St. Gilloise": "13",
+          "Bodo/Glimt": "12"
+        },
+        "offsides": {
+          "Union St. Gilloise": "2",
+          "Bodo/Glimt": "0"
+        },
+        "yellow_cards": {
+          "Union St. Gilloise": "5",
+          "Bodo/Glimt": "2"
+        },
+        "goalkeeper_saves": {
+          "Union St. Gilloise": "0",
+          "Bodo/Glimt": "2"
+        },
+        "ball_possession": {
+          "Union St. Gilloise": "49%",
+          "Bodo/Glimt": "51%"
+        }
+      },
+      "description": "Watch Union St. Gilloise vs Bodo/Glimt highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 4, 2026. The UEFA Champions League stage was set for a high-octane encounter as Union St. Gilloise faced off against Bodo/Glimt in a contest filled with attacking intent. Both sides looked to assert their dominance early in a game that would keep fans on the edge of their seats until the final whistle. A High-Octane Opening Half The match on August 4, 2026 , exploded into life early on, with both teams showing no signs of hesitation. Bodo/Glimt drew first blood in the 20th minute when Patrick Berg found the back of the net. The lead, however, was short-lived as Raul Florucz equalized for the hosts just five minutes later. The back-and-forth nature of the game continued when Ole Blomberg clinicaly converted a penalty in the 29th minute to restore the Norwegian side's advantage. As the first half drew to a close, Union St. Gilloise found a crucial breakthrough in stoppage time. In the 45+5th minute, Guilherme Smith provided a brilliant assist for Raul Florucz , who netted his second goal of the night to level the score at 2-2. The first period was as feisty as it was high-scoring, with Massire Sylla , Kevin Mac Allister , and Anan Khalaili all receiving yellow cards as the physical battle intensified. Tactical Shifts and Sustained Pressure The second half saw both managers turn to their benches to break the deadlock. Bodo/Glimt introduced Andreas Helmersen and Joshua Kitolano at the restart, while the hosts made a triple substitution in the 56th minute, bringing on Kevin Rodriguez , Nikki Havenaar , and Besfort Zeneli . The middle period of the match became a tactical chess match, with yellow cards for Jostein Gundersen and Sondre Brunstad Fet reflecting the high stakes of the competition. Late Drama and a Last-Gasp Equalizer Just as it seemed the points would be shared, the match reached a dramatic crescendo in the final minutes. In the 88th minute, substitute Promise David latched onto a pass from Kevin Rodriguez to fire Union St. Gilloise into a 3-2 lead. The home fans were dreaming of a famous victory, but the drama was far from over. In the 91st minute, Patrick Berg turned provider, setting up Odin Luraas Bjoertuft for a stunning equalizer that silenced the home crowd. The referee blew the final whistle at 90+6 minutes, ending a classic UEFA Champions League encounter that finished 3-3, leaving both teams with a point after an unforgettable night of football."
+    },
+    {
+      "title": "Olympiakos Piraeus vs NEC Nijmegen",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/olympiakos-piraeus-vs-nec-nijmegen-2026-08-04-06hn.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/413.webp",
+          "name": "NEC Nijmegen",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/553.webp",
+          "name": "Olympiakos Piraeus",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/olympiakos-piraeus-vs-nec-nijmegen-2026-08-04_fUkVq.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Olympiakos Piraeus",
+          "player": "D. Carmo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "67'",
+          "team": "Olympiakos Piraeus",
+          "player": "D. García",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "NEC Nijmegen",
+          "player": "D. Fonville",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Olympiakos Piraeus_wins": "0",
+          "draws": "0",
+          "NEC Nijmegen_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Olympiakos Piraeus",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Olympiacos 0 - 0 NEC Nijmegen",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AZ Alkmaar 3 - 2 Olympiacos",
+              "result": "L"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Ajax 1 - 0 Olympiacos",
+              "result": "L"
+            },
+            {
+              "date": "17/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Olympiacos 3 - 1 Fortuna Sittard",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Super League: Championship",
+              "teams_and_score": "AEK Athens 1 - 1 Olympiacos",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "NEC Nijmegen",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Olympiacos 0 - 0 NEC Nijmegen",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "NEC Nijmegen 1 - 2 Sevilla",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "NEC Nijmegen 0 - 1 Elversberg",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "NEC Nijmegen 2 - 1 Go Ahead Eagles",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Olympiakos Piraeus": "5",
+          "NEC Nijmegen": "4"
+        },
+        "shots_off_target": {
+          "Olympiakos Piraeus": "5",
+          "NEC Nijmegen": "5"
+        },
+        "shots_blocked": {
+          "Olympiakos Piraeus": "2",
+          "NEC Nijmegen": "4"
+        },
+        "corners": {
+          "Olympiakos Piraeus": "5",
+          "NEC Nijmegen": "2"
+        },
+        "fouls": {
+          "Olympiakos Piraeus": "11",
+          "NEC Nijmegen": "16"
+        },
+        "offsides": {
+          "Olympiakos Piraeus": "2",
+          "NEC Nijmegen": "6"
+        },
+        "yellow_cards": {
+          "Olympiakos Piraeus": "2",
+          "NEC Nijmegen": "1"
+        },
+        "goalkeeper_saves": {
+          "Olympiakos Piraeus": "4",
+          "NEC Nijmegen": "5"
+        },
+        "crosses": {
+          "Olympiakos Piraeus": "7",
+          "NEC Nijmegen": "3"
+        },
+        "ball_possession": {
+          "Olympiakos Piraeus": "54%",
+          "NEC Nijmegen": "46%"
+        }
+      },
+      "description": "Watch Olympiakos Piraeus vs NEC Nijmegen highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 4, 2026. Anticipation reached a fever pitch for this UEFA Champions League encounter, where tactical discipline and defensive organization were expected to be the deciding factors. Both teams looked to establish their rhythm early on under the bright lights of the European stage. Early Intensity and Defensive Rigor On August 4, 2026 , Olympiakos Piraeus hosted NEC Nijmegen in a high-stakes fixture that demanded physical excellence from the opening whistle. The match began with a fierce battle for midfield supremacy, and the tone was set just 11 minutes in when David Carmo received a yellow card for a mistimed challenge. This early booking forced the home side's backline to play with caution for the remainder of the half. Despite periods of sustained pressure, clear-cut chances remained elusive as both defenses held firm until the halftime whistle. Tactical Shifts and Fresh Personnel The second half saw both managers turning to their benches in an attempt to break the deadlock. At the restart, Olympiakos introduced Gelson Martins for Joel Roca , hoping to inject pace into the wide areas. A flurry of strategic changes followed in the 56th minute, with Pablo Maffeo , Jota Silva , and Lorenzo Pirola entering the fray. However, the tension only escalated, and in the 67th minute, Dani García was booked, adding to the defensive burden of the Greek giants as they struggled to find a clinical edge. A Grueling Finish to the Contest NEC Nijmegen utilized their depth in the final quarter, bringing on the experienced Dusan Tadic and Isak Hansen-Aaroeen to test the weary home defense. The closing stages were a testament to defensive grit, with further substitutions including Emre Mor and Willum Willumsson aiming to find a late winner. In the dying moments of stoppage time, Deveron Fonville picked up a yellow card for a tactical foul to halt a late surge. After five minutes of added time, the referee brought an end to a hard-fought battle where defensive solidity ultimately reigned supreme."
+    },
+    {
+      "title": "Sparta Praha vs Olympique Lyonnais",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sparta-praha-vs-olympique-lyonnais-2026-08-04-6pBq.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/sparta-praha-vs-olympique-lyonnais-2026-08-04_rQ3tk.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch Sparta Praha vs Olympique Lyonnais highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 4, 2026."
+    },
+    {
+      "title": "Dinamo Zagreb vs Kauno Žalgiris",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dinamo-zagreb-vs-kauno-zalgiris-2026-08-04-3BwH.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/3872.webp",
+          "name": "Kauno Žalgiris",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/620.webp",
+          "name": "Dinamo Zagreb",
+          "score": "5"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/dinamo-zagreb-vs-kauno-zalgiris-2026-08-04_fpcdu.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Dinamo Zagreb",
+          "player": "M. Zajc",
+          "event_type": "Goal",
+          "assist": "L. Stojković",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Dinamo Zagreb",
+          "player": "S. McKenna",
+          "event_type": "Goal",
+          "assist": "M. P. Vinlöf",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "50'",
+          "team": "Dinamo Zagreb",
+          "player": "M. Lisica",
+          "event_type": "Goal",
+          "assist": "J. Mišić",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "76'",
+          "team": "Dinamo Zagreb",
+          "player": "L. Stojković",
+          "event_type": "Goal",
+          "assist": "M. Orsic",
+          "score_update": "4 - 0"
+        },
+        {
+          "time": "85'",
+          "team": "Kauno Žalgiris",
+          "player": "A. Kalik",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Dinamo Zagreb",
+          "player": "L. Kačavenda",
+          "event_type": "Goal",
+          "assist": "J. Mišić",
+          "score_update": "5 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Dinamo Zagreb_wins": "0",
+          "draws": "0",
+          "Kauno Žalgiris_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Dinamo Zagreb",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Dinamo Zagreb 5 - 0 FK Kauno Zalgiris",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "HNL",
+              "teams_and_score": "Dinamo Zagreb 2 - 0 Slaven",
+              "result": "W"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Dinamo Zagreb 3 - 2 Thun",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "HNL",
+              "teams_and_score": "Dinamo Zagreb 0 - 0 NK Lokomotiva",
+              "result": "D"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Cup",
+              "teams_and_score": "Dinamo Zagreb 2 - 0 Rijeka",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Kauno Žalgiris",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Dinamo Zagreb 5 - 0 FK Kauno Zalgiris",
+              "result": "L"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "A Lyga",
+              "teams_and_score": "FK Kauno Zalgiris 4 - 0 FA Siauliai",
+              "result": "L"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Drita 2 - 3 FK Kauno Zalgiris",
+              "result": "W"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "A Lyga",
+              "teams_and_score": "FK Kauno Zalgiris 3 - 0 FK Panevezys",
+              "result": "L"
+            },
+            {
+              "date": "07/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "FK Kauno Zalgiris 1 - 1 Drita",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Dinamo Zagreb": "7",
+          "Kauno Žalgiris": "0"
+        },
+        "shots_off_target": {
+          "Dinamo Zagreb": "5",
+          "Kauno Žalgiris": "2"
+        },
+        "shots_blocked": {
+          "Dinamo Zagreb": "7",
+          "Kauno Žalgiris": "1"
+        },
+        "corners": {
+          "Dinamo Zagreb": "10",
+          "Kauno Žalgiris": "0"
+        },
+        "fouls": {
+          "Dinamo Zagreb": "15",
+          "Kauno Žalgiris": "11"
+        },
+        "offsides": {
+          "Dinamo Zagreb": "1",
+          "Kauno Žalgiris": "2"
+        },
+        "yellow_cards": {
+          "Dinamo Zagreb": "0",
+          "Kauno Žalgiris": "1"
+        },
+        "goalkeeper_saves": {
+          "Dinamo Zagreb": "0",
+          "Kauno Žalgiris": "2"
+        },
+        "ball_possession": {
+          "Dinamo Zagreb": "70%",
+          "Kauno Žalgiris": "30%"
+        }
+      },
+      "description": "Watch Dinamo Zagreb vs Kauno Žalgiris highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 4, 2026. The atmosphere was electric on August 4, 2026, as Dinamo Zagreb hosted Kauno Žalgiris in a high-stakes UEFA Champions League encounter. Both sides entered the pitch with massive European ambitions, setting the stage for a compelling night of continental football. A Lightning Double Strike The encounter began with high intensity, but it was the 32nd minute that truly broke the deadlock. Miha Zajc found the back of the net after a precise pass from Luka Stojkovic , sending the home crowd into a frenzy. Before the visitors could even regroup, Dinamo Zagreb struck again just sixty seconds later. Scott McKenna capitalized on a delivery from Matteo Perez Vinloef to double the lead, leaving Kauno Žalgiris stunned by the rapid-fire sequence of events. Maintaining the Momentum The second half saw no dip in the home side's aggression. In the 50th minute, Mateo Lisica further extended the advantage to 3-0, finishing off a move orchestrated by Josip Misic . As the game progressed, tactical substitutions brought fresh energy to the pitch, including the introduction of Mislav Orsic . The veteran winger made his mark in the 76th minute, providing the assist for Luka Stojkovic to claim a well-deserved goal and put the result beyond any doubt. Late Flourish and Final Whistle As the match entered its final stages, the visitors struggled to contain the pressure, leading to a yellow card for Anthony Kalik in the 85th minute. Dinamo Zagreb remained relentless until the very end. In the fourth minute of stoppage time, Lukas Kacavenda added a fifth goal following another brilliant setup by Josip Misic . The final whistle confirmed a comprehensive performance from the hosts, marking a dominant chapter in their European campaign."
+    },
+    {
+      "title": "Nijmegen FC vs Bodo Glimt",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/nijmegen-fc-v-bodo-glimt-2026-08-19-Xoel.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 19, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/327.webp",
+          "name": "Bodo/Glimt",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/413.webp",
+          "name": "NEC Nijmegen",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Nijmegen_FC_v_Bodo_Glimt_2026_08_19.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Bodo/Glimt",
+          "player": "S. Fet",
+          "event_type": "Goal",
+          "assist": "J. Hauge",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "NEC Nijmegen",
+          "player": "T. Storm",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Bodo/Glimt",
+          "player": "A. Helmersen",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "50'",
+          "team": "Bodo/Glimt",
+          "player": "H. Aleesami",
+          "event_type": "Goal",
+          "assist": "P. Berg",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "64'",
+          "team": "Bodo/Glimt",
+          "player": "O. Brynhildsen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "85'",
+          "team": "NEC Nijmegen",
+          "player": "C. Bischoff",
+          "event_type": "Goal",
+          "assist": "D. Tadić",
+          "score_update": "1 - 3"
+        },
+        {
+          "time": "90+1'",
+          "team": "NEC Nijmegen",
+          "player": "J. Monteiro",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "NEC Nijmegen_wins": "0",
+          "draws": "0",
+          "Bodo/Glimt_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "NEC Nijmegen",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "NEC Nijmegen 1 - 3 Bodoe/Glimt",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "Willem II 1 - 4 NEC Nijmegen",
+              "result": "W"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "NEC Nijmegen 2 - 1 Olympiacos",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "NEC Nijmegen 1 - 2 Telstar",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Olympiacos 0 - 0 NEC Nijmegen",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bodo/Glimt",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "NEC Nijmegen 1 - 3 Bodoe/Glimt",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Eliteserien",
+              "teams_and_score": "Vaalerenga 1 - 2 Bodoe/Glimt",
+              "result": "W"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Union St.Gilloise 3 - 3 Bodoe/Glimt",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Eliteserien",
+              "teams_and_score": "Bodoe/Glimt 4 - 0 Lillestroem",
+              "result": "L"
+            },
+            {
+              "date": "04/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bodoe/Glimt 4 - 0 IK Start",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "NEC Nijmegen": "6",
+          "Bodo/Glimt": "4"
+        },
+        "shots_off_target": {
+          "NEC Nijmegen": "9",
+          "Bodo/Glimt": "3"
+        },
+        "shots_blocked": {
+          "NEC Nijmegen": "7",
+          "Bodo/Glimt": "1"
+        },
+        "corners": {
+          "NEC Nijmegen": "7",
+          "Bodo/Glimt": "2"
+        },
+        "fouls": {
+          "NEC Nijmegen": "9",
+          "Bodo/Glimt": "12"
+        },
+        "offsides": {
+          "NEC Nijmegen": "0",
+          "Bodo/Glimt": "1"
+        },
+        "yellow_cards": {
+          "NEC Nijmegen": "2",
+          "Bodo/Glimt": "1"
+        },
+        "goalkeeper_saves": {
+          "NEC Nijmegen": "1",
+          "Bodo/Glimt": "5"
+        },
+        "crosses": {
+          "NEC Nijmegen": "8",
+          "Bodo/Glimt": "1"
+        },
+        "ball_possession": {
+          "NEC Nijmegen": "69%",
+          "Bodo/Glimt": "31%"
+        }
+      },
+      "description": "Watch NEC Nijmegen vs Bodo/Glimt highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 19, 2026. The stage was set for a high-stakes European encounter as the lights dimmed for this UEFA Champions League fixture on August 19, 2026. Both sets of supporters created an electric atmosphere, aware of how vital a strong performance would be for their respective campaigns. Bodo/Glimt’s First-Half Blitz The match began with a display of tactical discipline, but it was Bodo/Glimt who found the clinical edge first. In the 25th minute, Jens Petter Hauge turned provider with a delicate pass that allowed Sondre Brunstad Fet to find the back of the net. The goal silenced the home crowd and gave the visitors the momentum they needed to dictate the tempo of the game. As the first half drew to a close, the pressure on Nijmegen FC intensified. A defensive lapse in the 43rd minute led to a yellow card for Tobias Storm and a penalty for the visitors. Andreas Helmersen stepped up to the spot and calmly converted the chance in the 44th minute, doubling the lead just before the interval. It was a hammer blow for the hosts, who struggled to find their rhythm against a well-organized opponent. Response and Final Whistle The second half offered no immediate respite for the home side. Only five minutes after the restart, Haitam Aleesami extended the lead to 3-0, finishing off a well-crafted move involving Patrick Berg . Facing a mountain to climb, Nijmegen FC introduced fresh legs, with Clement Bischoff and Kaj Sierhuis entering the fray to spark a comeback. Their persistence eventually paid off in the 85th minute when Dusan Tadić set up Bischoff for a well-deserved goal. Despite the late surge from the hosts, including a flurry of substitutions and increased attacking pressure, Bodo/Glimt remained composed. Even a late yellow card for Jamiro Monteiro in stoppage time couldn't dampen the spirits of the traveling side. The referee’s final whistle confirmed a comprehensive victory for the visitors, leaving the home side to reflect on missed opportunities in a hard-fought contest."
+    },
+    {
+      "title": "Celtic vs LASK Linz",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-v-lask-linz-2026-08-19-ygD6.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 19, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1026.webp",
+          "name": "Lask Linz",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/247.webp",
+          "name": "Celtic",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Celtic_v_LASK_Linz_2026_08_19.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Celtic",
+          "player": "B. Nygren",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Celtic",
+          "player": "C. Duran",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Celtic",
+          "player": "C. Duran",
+          "event_type": "Goal",
+          "assist": "B. Nygren",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Lask Linz",
+          "player": "K. Jørgensen",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Celtic_wins": "1",
+          "draws": "0",
+          "Lask Linz_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "08/07/2014",
+            "competition": "Club Friendlies",
+            "teams_and_score": "LASK 2 - 5 Celtic"
+          }
+        ],
+        "home_team_form": {
+          "team": "Celtic",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Celtic 3 - 0 LASK",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Dundee United 0 - 4 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Celtic 2 - 2 AC Milan",
+              "result": "D"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Celtic 1 - 1 Middlesbrough",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lask Linz",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Celtic 3 - 0 LASK",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Bundesliga",
+              "teams_and_score": "LASK 4 - 1 SV Ried",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "OFB Cup",
+              "teams_and_score": "Kalsdorf 0 - 7 LASK",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "LASK 2 - 0 Fortuna Dusseldorf",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Celtic": "7",
+          "Lask Linz": "8"
+        },
+        "shots_off_target": {
+          "Celtic": "5",
+          "Lask Linz": "7"
+        },
+        "shots_blocked": {
+          "Celtic": "5",
+          "Lask Linz": "5"
+        },
+        "corners": {
+          "Celtic": "8",
+          "Lask Linz": "3"
+        },
+        "fouls": {
+          "Celtic": "6",
+          "Lask Linz": "9"
+        },
+        "offsides": {
+          "Celtic": "1",
+          "Lask Linz": "5"
+        },
+        "yellow_cards": {
+          "Celtic": "0",
+          "Lask Linz": "1"
+        },
+        "goalkeeper_saves": {
+          "Celtic": "8",
+          "Lask Linz": "4"
+        },
+        "crosses": {
+          "Celtic": "3",
+          "Lask Linz": "4"
+        },
+        "ball_possession": {
+          "Celtic": "64%",
+          "Lask Linz": "36%"
+        }
+      },
+      "description": "Watch Celtic vs Lask Linz highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 19, 2026. The stage was set for a high-stakes encounter on 2026-08-19 as Celtic played host to LASK Linz in the UEFA Champions League . With European ambitions on the line, both sets of players emerged into a cauldron of noise, ready to battle for every inch of grass. Clinical LASK Seize Control The opening exchanges were tense, but it was the visitors who showed a more clinical edge in front of goal. In the 26th minute, Benjamin Nygren broke the deadlock with a composed finish that stunned the home crowd. Celtic attempted to muster a response, moving the ball quickly through midfield, but they found it difficult to break down a resilient Austrian defensive line. The pressure from LASK told again before the halftime whistle. In the 38th minute, Camilo Duran found space in the box to double the lead, leaving the hosts with a mountain to climb. The visitors went into the break with a commanding two-goal cushion, having dominated the key moments of the first half. Duran Doubles Up to Seal Victory As the second half began, Celtic introduced Reo Hatate in hopes of sparking a comeback. However, any momentum the Hoops hoped to build was snuffed out in the 67th minute. Benjamin Nygren turned provider, delivering a precise assist for Camilo Duran , who made no mistake in netting his second goal of the night. A series of tactical substitutions followed, with Liam Scales and Anthony Ralston entering the fray for Celtic , while LASK brought on fresh legs in the form of Alessandro Schoepf and Christoph Lang . Despite a late yellow card for Kasper Joergensen , the visitors remained disciplined until the final whistle, securing a professional and emphatic win on the road."
+    },
+    {
+      "title": "Fenerbahce vs Olympique Lyonnais",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-v-olympique-lyonnais-2026-08-18-fr4u.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 18, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/80.webp",
+          "name": "Lyon",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/611.webp",
+          "name": "Fenerbahce",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Fenerbahce_v_Olympique_Lyonnais_2026_08_18.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Lyon",
+          "player": "A. Vinícius",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Lyon",
+          "player": "L. Openda",
+          "event_type": "Goal",
+          "assist": "C. Tolisso",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Fenerbahce",
+          "player": "M. Greenwood",
+          "event_type": "Goal",
+          "assist": "K. Aktürkoğlu",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Fenerbahce",
+          "player": "N. Kanté",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Fenerbahce",
+          "player": "M. Škriniar",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Fenerbahce_wins": "0",
+          "draws": "1",
+          "Lyon_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "23/01/2025",
+            "competition": "League Stage",
+            "teams_and_score": "Fenerbahçe 0 - 0 Lyon"
+          },
+          {
+            "date": "03/11/2004",
+            "competition": "Champions League grp. D",
+            "teams_and_score": "Lyon 4 - 2 Fenerbahçe"
+          },
+          {
+            "date": "17/10/2001",
+            "competition": "Champions League grp. F",
+            "teams_and_score": "Lyon 3 - 1 Fenerbahçe"
+          }
+        ],
+        "home_team_form": {
+          "team": "Fenerbahce",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "18/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Gençlerbirliği 2 - 1 Fenerbahçe",
+              "result": "L"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Sturm Graz 0 - 1 Fenerbahçe",
+              "result": "W"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "LASK 1 - 2 Fenerbahçe",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Fenerbahçe 3 - 3 Eyupspor",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lyon",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "18/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Betis 4 - 0 Lyon",
+              "result": "L"
+            },
+            {
+              "date": "15/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Lyon 2 - 1 Servette",
+              "result": "W"
+            },
+            {
+              "date": "08/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lyon 5 - 2 UF Maconnais",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Lyon 0 - 4 Lens",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Fenerbahce": "5",
+          "Lyon": "5"
+        },
+        "shots_off_target": {
+          "Fenerbahce": "5",
+          "Lyon": "2"
+        },
+        "shots_blocked": {
+          "Fenerbahce": "2",
+          "Lyon": "5"
+        },
+        "corners": {
+          "Fenerbahce": "3",
+          "Lyon": "0"
+        },
+        "fouls": {
+          "Fenerbahce": "13",
+          "Lyon": "13"
+        },
+        "offsides": {
+          "Fenerbahce": "3",
+          "Lyon": "1"
+        },
+        "yellow_cards": {
+          "Fenerbahce": "2",
+          "Lyon": "1"
+        },
+        "goalkeeper_saves": {
+          "Fenerbahce": "4",
+          "Lyon": "4"
+        },
+        "crosses": {
+          "Fenerbahce": "4",
+          "Lyon": "3"
+        },
+        "ball_possession": {
+          "Fenerbahce": "52%",
+          "Lyon": "48%"
+        }
+      },
+      "description": "Watch Fenerbahce vs Lyon highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 18, 2026. The lights of the UEFA Champions League shone brightly on August 18, 2026 , as Fenerbahce and Olympique Lyonnais faced off in a highly anticipated group stage encounter. Both sides entered the pitch looking to establish dominance in a match that would be decided by moments of individual brilliance and tactical discipline. Lyon Strike First in Tight Contest The match began with an electric atmosphere, as Fenerbahce looked to assert their home advantage. However, it was Olympique Lyonnais who proved to be more clinical in the opening period. The game became physical early on, with Abner picking up a yellow card in the 37th minute for a mistimed challenge. Just three minutes later, the deadlock was broken. Corentin Tolisso showcased his vision by picking out Ikoma Lois Openda , who finished composedly to put the visitors ahead. Lyon managed to soak up the subsequent pressure and headed into the break with a narrow lead. Greenwood Sparks Second-Half Comeback The second half started with a bang for the home supporters. Only two minutes after the restart, in the 47th minute, Fenerbahce found their equalizer. Kerem Akturkoglu turned provider, delivering a precise ball for Mason Greenwood to fire home. The goal shifted the momentum, prompting a series of tactical changes from both managers. Anderson Talisca and Kerem Akturkoglu made way for Marco Asensio and Dorgeles Nene , while Lyon introduced Clinton Mata and Kail Boudache to shore up their ranks. As the game entered its closing stages, the intensity rose, leading to yellow cards for N'Golo Kante and Milan Skriniar as they fought to keep the scores level. Despite the late introduction of Romelu Lukaku in the 82nd minute and further substitutions in stoppage time, neither side could find a decisive winner. The referee blew the final whistle after four minutes of added time, concluding a hard-fought battle that saw both teams earn a well-deserved point."
+    },
+    {
+      "title": "Aarhus vs Sabah FA",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/aarhus-vs-sabah-fa-2026-08-05-Eg1d.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/aarhus-vs-sabah-fa-2026-08-05_jw1xC.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch Aarhus vs Sabah FA highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 5, 2026."
+    },
+    {
+      "title": "Mjallby AIF vs Slovan Bratislava",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/mjallby-aif-vs-slovan-bratislava-2026-08-05-kqO1.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/mjallby-aif-vs-slovan-bratislava-2026-08-05_QK4hX.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch Mjallby AIF vs Slovan Bratislava highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 5, 2026."
+    },
+    {
+      "title": "Fenerbahce vs Sturm Graz",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/fenerbahce-vs-sturm-graz-2026-08-05-T46v.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Aug 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/637.webp",
+          "name": "Sturm Graz",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/611.webp",
+          "name": "Fenerbahce",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/fenerbahce-vs-sturm-graz-2026-08-05_Wo6ck.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Fenerbahce",
+          "player": "Talisca",
+          "event_type": "Goal",
+          "assist": "K. Aktürkoğlu",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Sturm Graz",
+          "player": "J. G. Stanković",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Fenerbahce",
+          "player": "M. Greenwood",
+          "event_type": "Goal",
+          "assist": "M. Asensio",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Sturm Graz",
+          "player": "J. Heil",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Sturm Graz",
+          "player": "A. Kayombo",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Fenerbahce_wins": "0",
+          "draws": "1",
+          "Sturm Graz_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "03/08/2017",
+            "competition": "Europa League Qualification",
+            "teams_and_score": "Fenerbahçe 1 - 1 Sturm Graz"
+          }
+        ],
+        "home_team_form": {
+          "team": "Fenerbahce",
+          "form": [
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Fenerbahçe 2 - 0 Sturm Graz",
+              "result": "L"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "LASK 1 - 2 Fenerbahçe",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Fenerbahçe 3 - 3 Eyupspor",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sturm Graz",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Fenerbahçe 2 - 0 Sturm Graz",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Bundesliga",
+              "teams_and_score": "WSG Tirol 1 - 1 Sturm Graz",
+              "result": "D"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hearts 0 - 2 Sturm Graz",
+              "result": "W"
+            },
+            {
+              "date": "24/07/2026",
+              "competition": "OFB Cup",
+              "teams_and_score": "Seekirchen 0 - 3 Sturm Graz",
+              "result": "W"
+            },
+            {
+              "date": "21/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Sturm Graz 4 - 0 Hearts",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Fenerbahce": "10",
+          "Sturm Graz": "1"
+        },
+        "shots_off_target": {
+          "Fenerbahce": "2",
+          "Sturm Graz": "1"
+        },
+        "shots_blocked": {
+          "Fenerbahce": "5",
+          "Sturm Graz": "3"
+        },
+        "corners": {
+          "Fenerbahce": "4",
+          "Sturm Graz": "2"
+        },
+        "fouls": {
+          "Fenerbahce": "10",
+          "Sturm Graz": "19"
+        },
+        "offsides": {
+          "Fenerbahce": "4",
+          "Sturm Graz": "0"
+        },
+        "yellow_cards": {
+          "Fenerbahce": "0",
+          "Sturm Graz": "3"
+        },
+        "goalkeeper_saves": {
+          "Fenerbahce": "1",
+          "Sturm Graz": "8"
+        },
+        "crosses": {
+          "Fenerbahce": "4",
+          "Sturm Graz": "3"
+        },
+        "ball_possession": {
+          "Fenerbahce": "72%",
+          "Sturm Graz": "28%"
+        }
+      },
+      "description": "Watch Fenerbahce vs Sturm Graz highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on August 5, 2026. The high-stakes atmosphere of the UEFA Champions League set the stage for a compelling encounter on August 5, 2026 . Both Fenerbahce and Sturm Graz took to the pitch with clear ambitions, knowing that every tactical decision could define their European journey. Early Breakthrough in Istanbul Fenerbahce wasted no time in establishing their presence on the field. In the 10th minute, a moment of individual brilliance combined with teamwork saw Kerem Akturkoglu provide a clinical assist for Anderson Talisca , who buried his chance to score the opening goal . The home crowd erupted as their side took control of the match . Sturm Graz struggled to contain the pressure, and Jon Gorenc-Stankovic saw a yellow card in the 21st minute as the visitors tried to halt the momentum. Doubling the Lead Before the Break Despite an early injury setback that forced Jayden Oosterwolde off for Archie Brown , the hosts remained relentless. As the first half reached its conclusion, a second blow was dealt to the Austrian side. In the 45th minute, Marco Asensio turned provider, finding Mason Greenwood , who calmly converted to make it 2-0. This late strike just before half-time gave Fenerbahce a commanding cushion heading into the tunnel. Solid Management and Final Whistle The second half saw a flurry of tactical changes as Sturm Graz attempted to fight back, introducing several substitutes like Axel Kayombo and Ryan Fosso . However, the rhythm of the game favored the hosts, who managed the tempo effectively. Yellow cards for Juergen Heil and Kayombo further hindered the visitors' progress. Fenerbahce utilized their bench depth, bringing on Fred and Irfan Kahveci to maintain stability. The referee blew the final whistle at 90+4', confirming a professional and well-earned victory for the home side."
     }
   ]
 }

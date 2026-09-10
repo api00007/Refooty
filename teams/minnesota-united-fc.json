@@ -1,9 +1,218 @@
 {
   "team": "Minnesota United Fc",
   "team_logo": "https://img.refooty.com/logo/teams/1612.webp",
-  "total_matches": 8,
-  "Last update time": "06:50:08 AM 10-09-2026",
+  "total_matches": 9,
+  "Last update time": "04:30:46 AM 11-09-2026",
   "matches": [
+    {
+      "title": "Minnesota United - FC Dallas",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/minnesota-united-fc-dallas-2026-09-10-9jcJ.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Sep 10, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1597.webp",
+          "name": "FC Dallas",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1612.webp",
+          "name": "Minnesota United FC",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/minnesota-united-fc-dallas-2026-09-10.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "FC Dallas",
+          "player": "O. Urhoghide",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "FC Dallas",
+          "player": "K. Ferreira",
+          "event_type": "Goal",
+          "assist": "J. Valiente",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Minnesota United FC",
+          "player": "N. Triantis",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Minnesota United FC",
+          "player": "K. Yeboah",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "FC Dallas",
+          "player": "Ramiro",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "FC Dallas",
+          "player": "S. Moreno",
+          "event_type": "Goal",
+          "assist": "S. Sarver",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "121'",
+          "team": "Minnesota United FC",
+          "player": "O. Gene",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Minnesota United FC_wins": "3",
+          "draws": "2",
+          "FC Dallas_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "23/04/2026",
+            "competition": "MLS",
+            "teams_and_score": "FC Dallas 0 - 1 Minnesota United"
+          },
+          {
+            "date": "05/07/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "FC Dallas 1 - 2 Minnesota United"
+          },
+          {
+            "date": "20/06/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "FC Dallas 5 - 3 Minnesota United"
+          },
+          {
+            "date": "01/05/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Minnesota United 0 - 0 FC Dallas"
+          },
+          {
+            "date": "18/10/2022",
+            "competition": "MLS: Play-off 2022",
+            "teams_and_score": "FC Dallas 1 - 1 Minnesota United"
+          },
+          {
+            "date": "03/09/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Minnesota United 0 - 3 FC Dallas"
+          }
+        ],
+        "home_team_form": {
+          "team": "Minnesota United FC",
+          "form": [
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Minnesota United 1 - 2 FC Dallas",
+              "result": "W"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Minnesota United 3 - 1 Atlante",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Minnesota United 1 - 1 San Diego",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "FC Dallas",
+          "form": [
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Minnesota United 1 - 2 FC Dallas",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Toluca 3 - 1 FC Dallas",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "LA Galaxy 0 - 0 FC Dallas",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Minnesota United FC": "2",
+          "FC Dallas": "6"
+        },
+        "shots_off_target": {
+          "Minnesota United FC": "5",
+          "FC Dallas": "5"
+        },
+        "shots_blocked": {
+          "Minnesota United FC": "2",
+          "FC Dallas": "2"
+        },
+        "corners": {
+          "Minnesota United FC": "2",
+          "FC Dallas": "6"
+        },
+        "fouls": {
+          "Minnesota United FC": "13",
+          "FC Dallas": "21"
+        },
+        "offsides": {
+          "Minnesota United FC": "2",
+          "FC Dallas": "1"
+        },
+        "yellow_cards": {
+          "Minnesota United FC": "2",
+          "FC Dallas": "2"
+        },
+        "goalkeeper_saves": {
+          "Minnesota United FC": "4",
+          "FC Dallas": "1"
+        },
+        "ball_possession": {
+          "Minnesota United FC": "52%",
+          "FC Dallas": "48%"
+        }
+      },
+      "description": "Watch Minnesota United FC vs FC Dallas highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 10, 2026. Minnesota United FC hosted FC Dallas in a high-stakes MLS encounter on September 10, 2026 , with both teams seeking to climb the standings. The atmosphere was electric as two tactically disciplined sides prepared for a grueling contest in the heart of Minnesota. A Defensive Standoff in the First Half The match began with high intensity, as both Minnesota United and FC Dallas looked to establish control in the midfield. However, clear-cut chances were hard to come by during the opening 45 minutes. The physical nature of the game was evident early on when Osaze Urhoghide was shown a yellow card in the 7th minute for a clumsy challenge. Despite several half-chances, neither side could find the breakthrough before the referee blew for half-time, sending the teams into the tunnel with the scoreline deadlocked at 0-0. Minnesota Finds the Breakthrough The deadlock was finally broken in the second half as the home side intensified their pressure. In the 62nd minute, Joaquin Valiente delivered a pinpoint assist to find Kaick Ferreira , who made no mistake in slotting the ball home to give Minnesota United the lead. The momentum shifted further in favor of the hosts when Kelvin Yeboah doubled the advantage in the 73rd minute, finishing clinically to put the Loons in a commanding position at 2-0. A Tense Finale and Dallas Response FC Dallas refused to go down without a fight and introduced fresh legs to spark a late comeback. Their persistence paid off in the 84th minute when Santiago no capitalized on an assist from Sam Sarver to pull one goal back. The goal set up a frantic finish, characterized by rising tempers and tactical fouls. Ramiro and Owen Gene both picked up yellow cards as the visitors pushed desperately for an equalizer. Despite nine minutes of added time, Minnesota United held firm to secure a hard-fought 2-1 victory."
+    },
     {
       "title": "Portland Timbers - Minnesota United",
       "thumbnail_url": "https://img.refooty.com/thumbnail/portland-timbers-minnesota-united-2026-09-06-4Y8p.webp",
@@ -257,499 +466,6 @@
         }
       },
       "description": "Watch Portland Timbers vs Minnesota United FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The clash between the Portland Timbers and Minnesota United on September 6, 2026, delivered a spectacle that will be remembered for its relentless pace and constant shifts in momentum. Both sides showed incredible offensive intent in a game where the lead never felt secure for long. A First-Half Scoring Frenzy Portland Timbers wasted no time establishing dominance in front of their home fans. The deadlock was broken in the 11th minute when Vincent Janssen calmly dispatched a penalty. The momentum stayed with the hosts, and in the 21st minute, a defensive mishap saw Drake Callender turn the ball into his own net. Portland looked to be running away with the contest when Vincent Janssen struck again in the 27th minute, assisted by David Da Costa , to make it 3-0. However, Minnesota United produced a spirited response before the break. Marcus Caldeira pulled one back in the 32nd minute following a setup by Joaquin Pereyra , and the deficit was trimmed further in the 38th minute when Anthony Markanich found the net thanks to Kelvin Yeboah . Despite a yellow card for Finn Surman in stoppage time, the visitors went into the interval with renewed hope after a breathless 45 minutes. Janssen Completes the Hat-Trick The second half began with high drama as Marcus Caldeira secured his brace in the 51st minute, remarkably bringing Minnesota level at 3-3. The parity lasted only four minutes, as Vincent Janssen clinical finishing saw him complete his hat-trick in the 55th minute, assisted by Ariel Lassiter . Portland extended their cushion to 5-3 in the 71st minute through Kristoffer Velde , who capitalized on an Antony assist shortly after coming on. As the clock ticked down, the intensity remained high with yellow cards shown to Jefferson Diaz and Morris Duggan . A late surge from Minnesota United saw Tomas Chancalay score in the 92nd minute, set up by Carlos Harvey , to create a nervous finale. Despite the late pressure, Portland Timbers held firm to secure all three points in a classic MLS encounter that featured nine goals and non-stop action."
-    },
-    {
-      "title": "Minnesota United - Atlante FC | Leagues Cup | Full Match Highlights",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/minnesota-united-atlante-fc-leagues-cup-full-match-highlights-2026-08-12-dhvT.webp",
-      "competition": "Unknown Competition",
-      "competition_cover": "",
-      "date": "Aug 12, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/2312.webp",
-          "name": "Atlante FC",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1612.webp",
-          "name": "Minnesota United FC",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/minnesota-united-atlante-fc-leagues-cup-full-match-highlights-2026-08-12_BecIx.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Atlante FC",
-          "player": "A. Quiros",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Atlante FC",
-          "player": "D. Padelford",
-          "event_type": "Goal"
-        },
-        {
-          "time": "31'",
-          "team": "Minnesota United FC",
-          "player": "K. Chandler",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Minnesota United FC",
-          "player": "D. Padelford",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Minnesota United FC",
-          "player": "M. Gonzalez",
-          "event_type": "Goal",
-          "assist": "J. Pereyra",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Minnesota United FC",
-          "player": "J. Gressel",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Atlante FC",
-          "player": "J. Julio",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Minnesota United FC",
-          "player": "J. Pereyra",
-          "event_type": "Goal",
-          "assist": "M. Caldeira",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "106'",
-          "team": "Minnesota United FC",
-          "player": "J. Pereyra",
-          "event_type": "Goal",
-          "assist": "M. Caldeira",
-          "score_update": "3 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Minnesota United FC_wins": "0",
-          "draws": "0",
-          "Atlante FC_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Minnesota United FC",
-          "form": [
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "12/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Minnesota United 3 - 1 Atlante",
-              "result": "L"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Minnesota United 1 - 1 San Diego",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Atlante FC",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "12/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Minnesota United 3 - 1 Atlante",
-              "result": "L"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Liga MX: Apertura",
-              "teams_and_score": "Cruz Azul 2 - 3 Atlante",
-              "result": "W"
-            },
-            {
-              "date": "26/04/2026",
-              "competition": "Liga de Expansion MX: Championship Final",
-              "teams_and_score": "CD Tepatitlan de Morelos 2 - 0 Atlante",
-              "result": "L"
-            },
-            {
-              "date": "17/04/2026",
-              "competition": "Liga de Expansion MX: Clausura",
-              "teams_and_score": "Atlante 1 - 1 Atletico La Paz",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Minnesota United FC vs Atlante FC highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 12, 2026."
-    },
-    {
-      "title": "Club Tigres - Minnesota United | Leagues Cup | Full Match Highlights",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/club-tigres-minnesota-united-leagues-cup-full-match-highlights-2026-08-08-5NM7.webp",
-      "competition": "Unknown Competition",
-      "competition_cover": "",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1612.webp",
-          "name": "Minnesota United FC",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1145.webp",
-          "name": "Tigres FC",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/club-tigres-minnesota-united-leagues-cup-full-match-highlights-2026-08-08_RRVuk.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Tigres FC",
-          "player": "J. Gallardo",
-          "event_type": "Goal",
-          "assist": "A. Vega",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "64'",
-          "team": "Tigres FC",
-          "player": "Helinho",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "90+3'",
-          "team": "Tigres FC",
-          "player": "F. Vinas",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Tigres FC_wins": "0",
-          "draws": "0",
-          "Minnesota United FC_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Tigres FC",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Toluca 3 - 0 Seattle Sounders FC",
-              "result": "L"
-            },
-            {
-              "date": "03/08/2026",
-              "competition": "Liga MX: Apertura",
-              "teams_and_score": "Toluca 3 - 1 Necaxa",
-              "result": "L"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Supercopa de la Liga MX",
-              "teams_and_score": "Toluca 1 - 3 Cruz Azul",
-              "result": "W"
-            },
-            {
-              "date": "22/07/2026",
-              "competition": "Liga MX: Apertura",
-              "teams_and_score": "Toluca 1 - 2 Pumas",
-              "result": "W"
-            },
-            {
-              "date": "31/05/2026",
-              "competition": "CONCACAF Champions Cup",
-              "teams_and_score": "Toluca 1 - 1 Tigres",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Minnesota United FC",
-          "form": [
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Toluca 3 - 0 Seattle Sounders FC",
-              "result": "L"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Tigres FC vs Minnesota United FC highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Leagues Cup intensity reached a fever pitch on August 8, 2026 , as Club Tigres and Minnesota United faced off in a highly anticipated mid-summer battle. With both sides looking to make a statement in the competition, the atmosphere was electric from the opening whistle. Tactical Battle in the Opening Periods From the start of the match , Club Tigres looked to assert their dominance at home. While the first half featured a disciplined defensive display from Minnesota United , the home side managed to find an early breakthrough to lead the proceedings. Every player on the pitch felt the weight of the occasion, as the tactical chess match limited clear-cut opportunities for the visitors to claw their way back into the game before the break. Helinho Doubles the Advantage As the second half progressed, the pressure from the Mexican side finally told. In the 64th minute, Helinho delivered a moment of magic to double the lead. His clinical goal made it 2-0, providing Club Tigres with a crucial cushion. The momentum shifted heavily in favor of the hosts, as Minnesota United struggled to retain possession and create any meaningful chance to test the opposition goalkeeper. Vinas Puts the Result Beyond Doubt With the clock ticking down and the result looking increasingly secure, Club Tigres refused to take their foot off the gas. In the final moments of stoppage time (90+3'), F. Vinas capitalized on a defensive lapse to slot home the third goal of the night. The 3-0 victory was a statement of intent in this sports spectacle, showcasing the depth and clinical finishing of a Tigres side that remains a formidable force in the tournament."
-    },
-    {
-      "title": "Real Salt Lake - Minnesota United",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/real-salt-lake-minnesota-united-2026-08-16-UFC4.webp",
-      "competition": "Major League Soccer",
-      "competition_cover": "https://refooty.com/covers/mls.webp",
-      "date": "Aug 16, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1612.webp",
-          "name": "Minnesota United FC",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1606.webp",
-          "name": "Real Salt Lake",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/real-salt-lake-minnesota-united-2026-08-16_IJ1Hy.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Real Salt Lake",
-          "player": "Z. Booth",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Minnesota United FC",
-          "player": "J. Diaz",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "56'",
-          "team": "Real Salt Lake",
-          "player": "L. R. d. Santos",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "82'",
-          "team": "Real Salt Lake",
-          "player": "S. Solans",
-          "event_type": "Goal",
-          "assist": "D. Luna",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "89'",
-          "team": "Minnesota United FC",
-          "player": "J. Pereyra",
-          "event_type": "Goal",
-          "assist": "M. Caldeira",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "90+4'",
-          "team": "Real Salt Lake",
-          "player": "S. Spierings",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Real Salt Lake_wins": "1",
-          "draws": "4",
-          "Minnesota United FC_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "23/05/2026",
-            "competition": "MLS",
-            "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake"
-          },
-          {
-            "date": "24/08/2025",
-            "competition": "MLS 2025",
-            "teams_and_score": "Real Salt Lake 1 - 3 Minnesota United"
-          },
-          {
-            "date": "03/11/2024",
-            "competition": "MLS: Play-off",
-            "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake"
-          },
-          {
-            "date": "03/10/2024",
-            "competition": "MLS 2024",
-            "teams_and_score": "Real Salt Lake 0 - 0 Minnesota United"
-          },
-          {
-            "date": "25/06/2023",
-            "competition": "MLS 2023",
-            "teams_and_score": "Real Salt Lake 2 - 2 Minnesota United"
-          },
-          {
-            "date": "01/09/2022",
-            "competition": "Major League Soccer 2022",
-            "teams_and_score": "Real Salt Lake 3 - 0 Minnesota United"
-          }
-        ],
-        "home_team_form": {
-          "team": "Real Salt Lake",
-          "form": [
-            "D",
-            "W",
-            "D",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "16/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Real Salt Lake 1 - 1 Minnesota United",
-              "result": "D"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Real Salt Lake 3 - 0 FC Juarez",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "St. Louis City 1 - 1 Real Salt Lake",
-              "result": "D"
-            },
-            {
-              "date": "16/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Salt Lake 4 - 1 Burnley",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "MLS",
-              "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Minnesota United FC",
-          "form": [
-            "D",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "16/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Real Salt Lake 1 - 1 Minnesota United",
-              "result": "D"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Minnesota United 3 - 1 Atlante",
-              "result": "L"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Minnesota United 1 - 1 San Diego",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Real Salt Lake": "7",
-          "Minnesota United FC": "3"
-        },
-        "shots_off_target": {
-          "Real Salt Lake": "5",
-          "Minnesota United FC": "9"
-        },
-        "shots_blocked": {
-          "Real Salt Lake": "1",
-          "Minnesota United FC": "3"
-        },
-        "corners": {
-          "Real Salt Lake": "7",
-          "Minnesota United FC": "10"
-        },
-        "fouls": {
-          "Real Salt Lake": "7",
-          "Minnesota United FC": "12"
-        },
-        "offsides": {
-          "Real Salt Lake": "1",
-          "Minnesota United FC": "1"
-        },
-        "yellow_cards": {
-          "Real Salt Lake": "2",
-          "Minnesota United FC": "1"
-        },
-        "goalkeeper_saves": {
-          "Real Salt Lake": "1",
-          "Minnesota United FC": "7"
-        },
-        "ball_possession": {
-          "Real Salt Lake": "57%",
-          "Minnesota United FC": "43%"
-        }
-      },
-      "description": "Watch Real Salt Lake vs Minnesota United FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 16, 2026. The stage was set on August 16, 2026, as Real Salt Lake hosted Minnesota United FC for a highly anticipated clash in Major League Soccer . A tight tactical battle From the opening minutes, the game was characterized by physical intensity and tactical discipline. The early yellow card for Zach Booth in the 13th minute signaled a game where neither side was willing to concede ground. As the match progressed through the first half, both teams probed for defensive weaknesses, but clear-cut opportunities remained elusive, leading to a scoreless stalemate as the players headed to the locker rooms. Late drama in the closing stages Action intensified in the second half, with the breakthrough finally arriving in the 82nd minute. Diego Luna delivered a clever ball to Sergi Solans , who clinicaly found the back of the net to put the home side in front. However, Minnesota United refused to bow out. Deep in the 89th minute, a crucial assist from substitute Marcus Caldeira set up Joaquin Pereyra , who hammered home the equalizer. The 1-1 scoreline held until the final whistle, concluding a hard-fought evening of professional football."
     },
     {
       "title": "Sporting Kansas City vs Minnesota United FC",
@@ -1156,6 +872,283 @@
         }
       },
       "description": "Watch Minnesota United FC vs Atlanta United FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 20, 2026. Minnesota United FC and Atlanta United FC faced off on August 20, 2026 , in a match that tested the discipline and tactical organization of both squads. Supporters witnessed a contest defined by physical challenges and strategic adjustments as the two sides battled for dominance. A Physical Opening and the First Breakthrough The match began with a high level of intensity, as both teams fought for control of the midfield. This physical approach led to a flurry of early cautions, with Junior Alonso receiving a yellow card in the 19th minute, followed by Michael Boxall and Joaquin Pereyra later in the half. Despite the stop-start nature of the game, Minnesota United FC found their rhythm in the 37th minute. Tomas Jacob capitalized on a scoring opportunity to put the home side ahead, sending the crowd into a frenzy as they took a 1-0 lead into the interval. Extending the Lead in the Second Half The second half resumed with the same competitive edge, as Adrian Gill was booked just seconds after the restart. Minnesota United FC continued to apply pressure, and their persistence was rewarded in the 58th minute. Anthony Markanich found the back of the net to double the advantage, putting the hosts in a commanding position at 2-0. Atlanta responded by making tactical substitutions, bringing on Steven Alzate and Luke Brennan to inject new energy into their attack. Atlanta's Fightback and a Tense Finish The momentum shifted in the 78th minute when Atlanta United FC finally found a way through the Minnesota defense. Aleksey Miranchuk provided a perfectly timed assist for Tristan Muyumba , who finished clinically to make it 2-1. The final ten minutes were played at a frantic pace, with Tomas Chancalay and Owen Gene picking up yellow cards as Atlanta desperately searched for an equalizer. Despite a series of late substitutions and intense pressure from the visitors, Minnesota held their ground through five minutes of stoppage time to secure the result."
+    },
+    {
+      "title": "Minnesota United - Atlante FC | Leagues Cup | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/minnesota-united-atlante-fc-leagues-cup-full-match-highlights-2026-08-12-dhvT.webp",
+      "competition": "Unknown Competition",
+      "competition_cover": "",
+      "date": "Aug 12, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/2312.webp",
+          "name": "Atlante FC",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1612.webp",
+          "name": "Minnesota United FC",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/minnesota-united-atlante-fc-leagues-cup-full-match-highlights-2026-08-12_BecIx.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Atlante FC",
+          "player": "A. Quiros",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Atlante FC",
+          "player": "D. Padelford",
+          "event_type": "Goal"
+        },
+        {
+          "time": "31'",
+          "team": "Minnesota United FC",
+          "player": "K. Chandler",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Minnesota United FC",
+          "player": "D. Padelford",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Minnesota United FC",
+          "player": "M. Gonzalez",
+          "event_type": "Goal",
+          "assist": "J. Pereyra",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Minnesota United FC",
+          "player": "J. Gressel",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Atlante FC",
+          "player": "J. Julio",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Minnesota United FC",
+          "player": "J. Pereyra",
+          "event_type": "Goal",
+          "assist": "M. Caldeira",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "Minnesota United FC",
+          "player": "J. Pereyra",
+          "event_type": "Goal",
+          "assist": "M. Caldeira",
+          "score_update": "3 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Minnesota United FC_wins": "0",
+          "draws": "0",
+          "Atlante FC_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Minnesota United FC",
+          "form": [
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Minnesota United 3 - 1 Atlante",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Minnesota United 1 - 1 San Diego",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Atlante FC",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Minnesota United 3 - 1 Atlante",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Liga MX: Apertura",
+              "teams_and_score": "Cruz Azul 2 - 3 Atlante",
+              "result": "W"
+            },
+            {
+              "date": "26/04/2026",
+              "competition": "Liga de Expansion MX: Championship Final",
+              "teams_and_score": "CD Tepatitlan de Morelos 2 - 0 Atlante",
+              "result": "L"
+            },
+            {
+              "date": "17/04/2026",
+              "competition": "Liga de Expansion MX: Clausura",
+              "teams_and_score": "Atlante 1 - 1 Atletico La Paz",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Minnesota United FC vs Atlante FC highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 12, 2026."
+    },
+    {
+      "title": "Club Tigres - Minnesota United | Leagues Cup | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/club-tigres-minnesota-united-leagues-cup-full-match-highlights-2026-08-08-5NM7.webp",
+      "competition": "Unknown Competition",
+      "competition_cover": "",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1612.webp",
+          "name": "Minnesota United FC",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1145.webp",
+          "name": "Tigres FC",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/club-tigres-minnesota-united-leagues-cup-full-match-highlights-2026-08-08_RRVuk.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Tigres FC",
+          "player": "J. Gallardo",
+          "event_type": "Goal",
+          "assist": "A. Vega",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "64'",
+          "team": "Tigres FC",
+          "player": "Helinho",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "90+3'",
+          "team": "Tigres FC",
+          "player": "F. Vinas",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Tigres FC_wins": "0",
+          "draws": "0",
+          "Minnesota United FC_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Tigres FC",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Toluca 3 - 0 Seattle Sounders FC",
+              "result": "L"
+            },
+            {
+              "date": "03/08/2026",
+              "competition": "Liga MX: Apertura",
+              "teams_and_score": "Toluca 3 - 1 Necaxa",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Supercopa de la Liga MX",
+              "teams_and_score": "Toluca 1 - 3 Cruz Azul",
+              "result": "W"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Liga MX: Apertura",
+              "teams_and_score": "Toluca 1 - 2 Pumas",
+              "result": "W"
+            },
+            {
+              "date": "31/05/2026",
+              "competition": "CONCACAF Champions Cup",
+              "teams_and_score": "Toluca 1 - 1 Tigres",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Minnesota United FC",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Toluca 3 - 0 Seattle Sounders FC",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Tigres FC vs Minnesota United FC highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Leagues Cup intensity reached a fever pitch on August 8, 2026 , as Club Tigres and Minnesota United faced off in a highly anticipated mid-summer battle. With both sides looking to make a statement in the competition, the atmosphere was electric from the opening whistle. Tactical Battle in the Opening Periods From the start of the match , Club Tigres looked to assert their dominance at home. While the first half featured a disciplined defensive display from Minnesota United , the home side managed to find an early breakthrough to lead the proceedings. Every player on the pitch felt the weight of the occasion, as the tactical chess match limited clear-cut opportunities for the visitors to claw their way back into the game before the break. Helinho Doubles the Advantage As the second half progressed, the pressure from the Mexican side finally told. In the 64th minute, Helinho delivered a moment of magic to double the lead. His clinical goal made it 2-0, providing Club Tigres with a crucial cushion. The momentum shifted heavily in favor of the hosts, as Minnesota United struggled to retain possession and create any meaningful chance to test the opposition goalkeeper. Vinas Puts the Result Beyond Doubt With the clock ticking down and the result looking increasingly secure, Club Tigres refused to take their foot off the gas. In the final moments of stoppage time (90+3'), F. Vinas capitalized on a defensive lapse to slot home the third goal of the night. The 3-0 victory was a statement of intent in this sports spectacle, showcasing the depth and clinical finishing of a Tigres side that remains a formidable force in the tournament."
     },
     {
       "title": "Minnesota United - Orlando City",
@@ -1593,6 +1586,222 @@
         }
       },
       "description": "Watch San Jose Earthquakes vs Minnesota United FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 23, 2026. In a high-octane Major League Soccer clash on August 23, 2026, the San Jose Earthquakes and Minnesota United FC battled through a dramatic encounter that kept fans on the edge of their seats. A Fast-Paced Opening The match ignited early when Timo Werner coolly dispatched a penalty in the 4th minute to give the Earthquakes an early lead. The hosts continued their momentum just six minutes later, as Anthony Markanich set up Joaquin Pereyra to double the advantage. Undeterred, Minnesota United began their fightback under the guidance of Kyle Duncan , who turned provider for Kelvin Yeboah . Yeboah found the back of the net twice in quick succession—first in the 40th minute and again in the 44th—leveling the score just before the halftime whistle. Turning the Tide The second half saw both sides continue to push for the winner. The breakthrough for Minnesota came in the 65th minute, when Marcus Caldeira struck to put the visitors in front, once again finding the goal through the creative influence of Kyle Duncan . Despite tactical shifts and a flurry of substitutions from both managers, Minnesota United remained clinical. In the 86th minute, Mauricio Gonzalez secured the decisive goal following an assist from Joaquin Pereyra , capping off a hard-fought performance in a match defined by defensive lapses and clinical attacking play."
+    },
+    {
+      "title": "Real Salt Lake - Minnesota United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/real-salt-lake-minnesota-united-2026-08-16-UFC4.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 16, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1612.webp",
+          "name": "Minnesota United FC",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1606.webp",
+          "name": "Real Salt Lake",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/real-salt-lake-minnesota-united-2026-08-16_IJ1Hy.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Real Salt Lake",
+          "player": "Z. Booth",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Minnesota United FC",
+          "player": "J. Diaz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "56'",
+          "team": "Real Salt Lake",
+          "player": "L. R. d. Santos",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "82'",
+          "team": "Real Salt Lake",
+          "player": "S. Solans",
+          "event_type": "Goal",
+          "assist": "D. Luna",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "89'",
+          "team": "Minnesota United FC",
+          "player": "J. Pereyra",
+          "event_type": "Goal",
+          "assist": "M. Caldeira",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "90+4'",
+          "team": "Real Salt Lake",
+          "player": "S. Spierings",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Real Salt Lake_wins": "1",
+          "draws": "4",
+          "Minnesota United FC_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "23/05/2026",
+            "competition": "MLS",
+            "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake"
+          },
+          {
+            "date": "24/08/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Real Salt Lake 1 - 3 Minnesota United"
+          },
+          {
+            "date": "03/11/2024",
+            "competition": "MLS: Play-off",
+            "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake"
+          },
+          {
+            "date": "03/10/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Real Salt Lake 0 - 0 Minnesota United"
+          },
+          {
+            "date": "25/06/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Real Salt Lake 2 - 2 Minnesota United"
+          },
+          {
+            "date": "01/09/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Real Salt Lake 3 - 0 Minnesota United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Real Salt Lake",
+          "form": [
+            "D",
+            "W",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Real Salt Lake 1 - 1 Minnesota United",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Real Salt Lake 3 - 0 FC Juarez",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "St. Louis City 1 - 1 Real Salt Lake",
+              "result": "D"
+            },
+            {
+              "date": "16/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Salt Lake 4 - 1 Burnley",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "MLS",
+              "teams_and_score": "Minnesota United 1 - 1 Real Salt Lake",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Minnesota United FC",
+          "form": [
+            "D",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Real Salt Lake 1 - 1 Minnesota United",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Minnesota United 3 - 1 Atlante",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Minnesota United 1 - 1 San Diego",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Real Salt Lake": "7",
+          "Minnesota United FC": "3"
+        },
+        "shots_off_target": {
+          "Real Salt Lake": "5",
+          "Minnesota United FC": "9"
+        },
+        "shots_blocked": {
+          "Real Salt Lake": "1",
+          "Minnesota United FC": "3"
+        },
+        "corners": {
+          "Real Salt Lake": "7",
+          "Minnesota United FC": "10"
+        },
+        "fouls": {
+          "Real Salt Lake": "7",
+          "Minnesota United FC": "12"
+        },
+        "offsides": {
+          "Real Salt Lake": "1",
+          "Minnesota United FC": "1"
+        },
+        "yellow_cards": {
+          "Real Salt Lake": "2",
+          "Minnesota United FC": "1"
+        },
+        "goalkeeper_saves": {
+          "Real Salt Lake": "1",
+          "Minnesota United FC": "7"
+        },
+        "ball_possession": {
+          "Real Salt Lake": "57%",
+          "Minnesota United FC": "43%"
+        }
+      },
+      "description": "Watch Real Salt Lake vs Minnesota United FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 16, 2026. The stage was set on August 16, 2026, as Real Salt Lake hosted Minnesota United FC for a highly anticipated clash in Major League Soccer . A tight tactical battle From the opening minutes, the game was characterized by physical intensity and tactical discipline. The early yellow card for Zach Booth in the 13th minute signaled a game where neither side was willing to concede ground. As the match progressed through the first half, both teams probed for defensive weaknesses, but clear-cut opportunities remained elusive, leading to a scoreless stalemate as the players headed to the locker rooms. Late drama in the closing stages Action intensified in the second half, with the breakthrough finally arriving in the 82nd minute. Diego Luna delivered a clever ball to Sergi Solans , who clinicaly found the back of the net to put the home side in front. However, Minnesota United refused to bow out. Deep in the 89th minute, a crucial assist from substitute Marcus Caldeira set up Joaquin Pereyra , who hammered home the equalizer. The 1-1 scoreline held until the final whistle, concluding a hard-fought evening of professional football."
     }
   ]
 }
