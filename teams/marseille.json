@@ -1,24 +1,24 @@
 {
   "team": "Marseille",
   "team_logo": "https://img.refooty.com/logo/teams/81.webp",
-  "total_matches": 6,
-  "Last update time": "06:26:55 AM 11-09-2026",
+  "total_matches": 7,
+  "Last update time": "04:10:46 AM 12-09-2026",
   "matches": [
     {
-      "title": "Olympique Marseille vs Paris FC",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-v-paris-fc-2026-09-06-SFwV.webp",
+      "title": "Rennes vs Olympique Marseille",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/rennes-v-olympique-marseille-2026-09-11-4vxk.webp",
       "competition": "Ligue 1",
       "competition_cover": "https://refooty.com/covers/ligue-1.webp",
-      "date": "Sep 6, 2026",
+      "date": "Sep 11, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/114.webp",
-          "name": "Paris FC",
-          "score": "3"
-        },
-        "home_team": {
           "logo": "https://img.refooty.com/logo/teams/81.webp",
           "name": "Marseille",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/94.webp",
+          "name": "Rennes",
           "score": "2"
         },
         "status": "FT"
@@ -26,389 +26,218 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Marseille_v_Paris_FC_2026_09_06.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/Rennes_v_Olympique_Marseille_2026_09_11.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Paris FC",
-          "player": "L. Sinayoko",
+          "team": "Marseille",
+          "player": "S. Szymański",
           "event_type": "Goal",
-          "assist": "L. Koleosho",
+          "assist": "A. Thomasson",
           "score_update": "0 - 1"
         },
         {
           "time": "16'",
           "team": "Marseille",
-          "player": "A. Gouiri",
+          "player": "E. Lepaul",
           "event_type": "Goal",
-          "score_update": "1 - 1"
+          "assist": "P. Frankowski",
+          "score_update": "0 - 2"
         },
         {
           "time": "31'",
-          "team": "Paris FC",
-          "player": "L. Sinayoko",
-          "event_type": "Goal",
-          "assist": "P. Pagis",
-          "score_update": "1 - 2"
+          "team": "Marseille",
+          "player": "A. Thomasson",
+          "event_type": "Yellow Card"
         },
         {
           "time": "46'",
           "team": "Marseille",
-          "player": "A. Gouiri",
-          "event_type": "Goal",
-          "assist": "A. Harit",
-          "score_update": "2 - 2"
+          "player": "M. Tamari",
+          "event_type": "Yellow Card"
         },
         {
           "time": "61'",
-          "team": "Paris FC",
-          "player": "R. Matondo",
+          "team": "Rennes",
+          "player": "L. Enrique",
           "event_type": "Yellow Card"
         },
         {
           "time": "76'",
-          "team": "Paris FC",
-          "player": "L. Sinayoko",
+          "team": "Rennes",
+          "player": "F. Torres",
           "event_type": "Goal",
-          "score_update": "2 - 3"
+          "assist": "F. Ruiz",
+          "score_update": "1 - 2"
         },
         {
           "time": "91'",
-          "team": "Paris FC",
-          "player": "L. Sinayoko",
+          "team": "Rennes",
+          "player": "Marquinhos",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Rennes",
+          "player": "F. Torres",
+          "event_type": "Goal",
+          "assist": "F. Ruiz",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "121'",
+          "team": "Rennes",
+          "player": "A. Hakimi",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Marseille_wins": "0",
-          "draws": "1",
-          "Paris FC_wins": "0"
+          "Rennes_wins": "2",
+          "draws": "2",
+          "Marseille_wins": "2"
         },
         "previous_matches": [
           {
-            "date": "31/01/2026",
+            "date": "23/08/2026",
+            "competition": "Ligue 1",
+            "teams_and_score": "Rennes 2 - 2 Paris Saint-Germain"
+          },
+          {
+            "date": "13/02/2026",
             "competition": "Ligue 1 25/26",
-            "teams_and_score": "Paris FC 2 - 2 Marseille"
+            "teams_and_score": "Rennes 3 - 1 Paris Saint-Germain"
+          },
+          {
+            "date": "08/03/2025",
+            "competition": "Ligue 1 24/25",
+            "teams_and_score": "Rennes 1 - 4 Paris Saint-Germain"
+          },
+          {
+            "date": "03/04/2024",
+            "competition": "Coupe de France 23/24",
+            "teams_and_score": "Paris Saint-Germain 1 - 0 Rennes"
+          },
+          {
+            "date": "25/02/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "Paris Saint-Germain 1 - 1 Rennes"
+          },
+          {
+            "date": "19/03/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Paris Saint-Germain 0 - 2 Rennes"
           }
         ],
         "home_team_form": {
-          "team": "Marseille",
+          "team": "Rennes",
           "form": [
             "L",
+            "W",
             "L",
-            "W"
+            "L",
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "06/09/2026",
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Paris Saint-Germain 6 - 1 Slovan Bratislava",
+              "result": "L"
+            },
+            {
+              "date": "04/09/2026",
               "competition": "Ligue 1",
-              "teams_and_score": "Marseille 2 - 3 Paris FC",
-              "result": "L"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Marseille 3 - 1 Rennes",
+              "teams_and_score": "Paris Saint-Germain 1 - 2 AS Monaco",
               "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Trophee des Champions",
+              "teams_and_score": "Lens 1 - 0 Paris Saint-Germain",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "UEFA Super Cup",
+              "teams_and_score": "Paris Saint-Germain 2 - 1 Aston Villa",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester United 1 - 1 Paris Saint-Germain",
+              "result": "D"
             }
           ]
         },
         "away_team_form": {
-          "team": "Paris FC",
+          "team": "Marseille",
           "form": [
-            "W",
             "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/09/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Marseille 2 - 3 Paris FC",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Angers 3 - 2 Paris FC",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Paris FC 2 - 1 Paris Saint-Germain",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Marseille": "5",
-          "Paris FC": "7"
-        },
-        "shots_off_target": {
-          "Marseille": "7",
-          "Paris FC": "8"
-        },
-        "shots_blocked": {
-          "Marseille": "2",
-          "Paris FC": "3"
-        },
-        "corners": {
-          "Marseille": "5",
-          "Paris FC": "4"
-        },
-        "fouls": {
-          "Marseille": "10",
-          "Paris FC": "12"
-        },
-        "offsides": {
-          "Marseille": "2",
-          "Paris FC": "1"
-        },
-        "yellow_cards": {
-          "Marseille": "0",
-          "Paris FC": "2"
-        },
-        "goalkeeper_saves": {
-          "Marseille": "4",
-          "Paris FC": "3"
-        },
-        "crosses": {
-          "Marseille": "2",
-          "Paris FC": "2"
-        },
-        "ball_possession": {
-          "Marseille": "60%",
-          "Paris FC": "40%"
-        }
-      },
-      "description": "Watch Marseille vs Paris FC highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The Ligue 1 clash between Olympique Marseille and Paris FC on September 6, 2026, was anticipated as a high-stakes tactical encounter. From the opening whistle, both teams demonstrated an aggressive intent that suggested the fans were in for a memorable afternoon of football. A Lightning Start at the Vélodrome The game exploded into life immediately, with Paris FC taking a shock lead in the 1st minute. Lassine Sinayoko found the back of the net with a clinical left-footed finish following an assist by Luca Koleosho . However, Olympique Marseille responded with incredible speed. Amine Gouiri restored parity in the 8th minute with a well-placed right-footed strike. The momentum shifted entirely just a minute later when a defensive error by Samir Chergui gifted Marseille a second goal, turning the game on its head at 2-1. The see-saw nature of the contest continued as Paris FC fought back. In the 19th minute, Lassine Sinayoko secured his second of the match, heading home from a Pablo Pagis cross. There was a brief moment of tension as the VAR reviewed the play, but the goal was officially confirmed in the 22nd minute, leaving the scores level at 2-2 as the teams headed into the break. Second Half Drama and VAR Decisiveness The intensity did not wane after the restart. In the 53rd minute, Amine Gouiri regained the lead for the home side, finishing off a move orchestrated by Amine Harit . After another VAR check, the goal was allowed to stand in the 55th minute, making it 3-2. As the clock ticked down, both managers looked to their benches, with Marseille introducing Keyliane Abdallah and Paris FC bringing on Moses Simon to inject late energy. The final turning point arrived in the 84th minute when CJ Egan-Riley was penalized for a handball in the box. Following a lengthy VAR review, the referee pointed to the spot. Lassine Sinayoko stepped up in the 86th minute to coolly slot home the penalty, completing a spectacular hat-trick. Although he received a yellow card for his shirt-off celebration, his heroics ensured a hard-fought 3-3 draw for the visitors in a match that lived up to every bit of the pre-game hype."
-    },
-    {
-      "title": "AS Monaco vs Olympique Marseille",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/monaco-v-olympique-marseille-2026-08-30-4dlD.webp",
-      "competition": "Ligue 1",
-      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
-      "date": "Aug 30, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/81.webp",
-          "name": "Marseille",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/91.webp",
-          "name": "Monaco",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Monaco_v_Olympique_Marseille_2026_08_30.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Monaco",
-          "player": "P. Brunner",
-          "event_type": "Goal",
-          "assist": "A. Golovin",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Monaco",
-          "player": "D. Zakaria",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Monaco",
-          "player": "L. Camara",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "53'",
-          "team": "Monaco",
-          "player": "P. Brunner",
-          "event_type": "Goal",
-          "assist": "E. Dier",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "88'",
-          "team": "Monaco",
-          "player": "F. Nazinho",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "Monaco",
-          "player": "L. Hradecky",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Monaco_wins": "3",
-          "draws": "2",
-          "Marseille_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "05/04/2026",
-            "competition": "Ligue 1 25/26",
-            "teams_and_score": "AS Monaco 2 - 1 Marseille"
-          },
-          {
-            "date": "12/04/2025",
-            "competition": "Ligue 1 24/25",
-            "teams_and_score": "AS Monaco 3 - 0 Marseille"
-          },
-          {
-            "date": "27/01/2024",
-            "competition": "Ligue 1 23/24",
-            "teams_and_score": "Marseille 2 - 2 AS Monaco"
-          },
-          {
-            "date": "28/01/2023",
-            "competition": "Ligue 1 22/23",
-            "teams_and_score": "Marseille 1 - 1 AS Monaco"
-          },
-          {
-            "date": "06/03/2022",
-            "competition": "Ligue 1 21/22",
-            "teams_and_score": "Marseille 0 - 1 AS Monaco"
-          }
-        ],
-        "home_team_form": {
-          "team": "Monaco",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "W",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "30/08/2026",
+              "date": "11/09/2026",
               "competition": "Ligue 1",
-              "teams_and_score": "AS Monaco 2 - 0 Marseille",
-              "result": "W"
+              "teams_and_score": "Rennes 1 - 0 Marseille",
+              "result": "L"
             },
             {
-              "date": "27/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "AS Monaco 4 - 1 Gornik Zabrze",
-              "result": "W"
-            },
-            {
-              "date": "23/08/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Le Havre 0 - 1 AS Monaco",
-              "result": "W"
-            },
-            {
-              "date": "20/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Gornik Zabrze 2 - 3 AS Monaco",
-              "result": "W"
-            },
-            {
-              "date": "14/08/2026",
+              "date": "15/08/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Coventry City 2 - 0 AS Monaco",
+              "teams_and_score": "Sunderland 2 - 1 Rennes",
               "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Marseille",
-          "form": [
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/08/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "AS Monaco 2 - 0 Marseille",
-              "result": "L"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Marseille 3 - 1 Rennes",
-              "result": "W"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Monaco": "5",
-          "Marseille": "2"
+          "Rennes": "5",
+          "Marseille": "3"
         },
         "shots_off_target": {
-          "Monaco": "4",
-          "Marseille": "6"
-        },
-        "shots_blocked": {
-          "Monaco": "2",
+          "Rennes": "5",
           "Marseille": "5"
         },
-        "corners": {
-          "Monaco": "5",
-          "Marseille": "7"
-        },
-        "fouls": {
-          "Monaco": "9",
-          "Marseille": "10"
-        },
-        "offsides": {
-          "Monaco": "3",
+        "shots_blocked": {
+          "Rennes": "9",
           "Marseille": "1"
         },
-        "yellow_cards": {
-          "Monaco": "4",
+        "corners": {
+          "Rennes": "10",
           "Marseille": "0"
         },
+        "fouls": {
+          "Rennes": "6",
+          "Marseille": "7"
+        },
+        "offsides": {
+          "Rennes": "7",
+          "Marseille": "0"
+        },
+        "yellow_cards": {
+          "Rennes": "2",
+          "Marseille": "2"
+        },
         "goalkeeper_saves": {
-          "Monaco": "2",
+          "Rennes": "0",
           "Marseille": "3"
         },
         "crosses": {
-          "Monaco": "6",
-          "Marseille": "3"
+          "Rennes": "6",
+          "Marseille": "4"
         },
         "ball_possession": {
-          "Monaco": "36%",
-          "Marseille": "64%"
+          "Rennes": "69%",
+          "Marseille": "31%"
         }
       },
-      "description": "Watch Monaco vs Marseille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The atmosphere was electric on August 30, 2026 , as AS Monaco hosted Olympique Marseille in a high-stakes Ligue 1 encounter. Both sides entered the pitch looking to establish dominance in a match that promised tactical discipline and moments of individual brilliance. Clinical Brunner Ignites the Match The hosts wasted no time making their mark, finding the breakthrough in the 13th minute. Aleksandr Golovin delivered a precise cross that found Paris Brunner , who rose highest to head the ball home and give Monaco the early lead. Marseille attempted to claw their way back, dominating possession, but the home defense remained organized and resolute. Tensions flared as the first half progressed. In the 30th minute, a VAR check for a potential Marseille penalty halted play, but the decision ultimately went against the visitors. The physical nature of the contest led to a flurry of bookings before the break, with Lamine Camara and Denis Zakaria both receiving yellow cards for robust challenges as both teams fought for every inch of grass. Double Delight and Defensive Grit The second half saw Monaco extend their advantage through clinical finishing. In the 54th minute, Eric Dier turned provider, finding Paris Brunner inside the area. The forward showed great composure to slot the ball home with his left foot, marking his second of the night. Despite Marseille holding 65% of the ball, they struggled to turn their territorial dominance into clear-cut opportunities. In the closing stages, Marseille threw everything forward. Amine Harit delivered several dangerous corners, but the Monaco backline, led by clearances from Eric Dier and Mika Biereth , stood firm. Late yellow cards for Flavio Nazinho and goalkeeper Lukas Hradecky —the latter for time-wasting—underlined the intensity of the final minutes, but the hosts held on to secure a vital clean sheet and all three points."
+      "description": "Watch Rennes vs Marseille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 11, 2026. On September 11, 2026 , Ligue 1 fans were treated to a high-octane encounter as Rennes hosted Paris Saint Germain . The match was a tale of two halves, characterized by clinical finishing and a relentless tactical battle that saw the momentum swing dramatically under the stadium lights. Rennes Take Command Early Rennes started the match with incredible intensity, catching the visitors off guard with their rapid transitions. The breakthrough came just 9 minutes in when Sebastian Szymanski unleashed a stunning left-footed strike from outside the box into the top corner, following a neat setup by Adrien Thomasson . Paris Saint Germain struggled to find their rhythm, and despite efforts from João Neves , they found themselves further behind in the 38th minute. A precise cross from Przemyslaw Frankowski found Estéban Lepaul in the center of the box, who made no mistake with a right-footed finish to double the lead. Rennes went into the break with a commanding 2-0 advantage, while the visitors were left searching for answers after Brice Samba pulled off several key saves to deny Ousmane Dembélé and company. The Ferran Torres Recovery The second half saw a total transformation from Paris Saint Germain following the introduction of Ferran Torres . The substitute became the focal point of the attack, and in the 71st minute, he brought his side back into the game. After a VAR review confirmed the goal, Torres finished clinically from the center of the box assisted by Fabián Ruiz . The pressure from the capital club became suffocating as they chased the equalizer. That equalizer arrived in the 82nd minute when Fabián Ruiz turned provider once again, delivering a cross that Ferran Torres headed into the bottom right corner. The final moments were frantic; Ludovic Blas nearly snatched a winner for Rennes , while Mika Godts missed a golden opportunity for PSG in stoppage time. The match ended 2-2, a result that highlighted the resilience of the champions and the ambition of the hosts."
     },
     {
       "title": "Marseille vs Athletic Club",
@@ -639,6 +468,197 @@
       },
       "statistics": {},
       "description": "Watch VfL Wolfsburg vs Marseille highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 24, 2026."
+    },
+    {
+      "title": "Olympique Marseille vs Paris FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-v-paris-fc-2026-09-06-SFwV.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Sep 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/114.webp",
+          "name": "Paris FC",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/81.webp",
+          "name": "Marseille",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Marseille_v_Paris_FC_2026_09_06.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Paris FC",
+          "player": "L. Sinayoko",
+          "event_type": "Goal",
+          "assist": "L. Koleosho",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Marseille",
+          "player": "A. Gouiri",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Paris FC",
+          "player": "L. Sinayoko",
+          "event_type": "Goal",
+          "assist": "P. Pagis",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Marseille",
+          "player": "A. Gouiri",
+          "event_type": "Goal",
+          "assist": "A. Harit",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Paris FC",
+          "player": "R. Matondo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Paris FC",
+          "player": "L. Sinayoko",
+          "event_type": "Goal",
+          "score_update": "2 - 3"
+        },
+        {
+          "time": "91'",
+          "team": "Paris FC",
+          "player": "L. Sinayoko",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Marseille_wins": "0",
+          "draws": "1",
+          "Paris FC_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "31/01/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "Paris FC 2 - 2 Marseille"
+          }
+        ],
+        "home_team_form": {
+          "team": "Marseille",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Marseille 2 - 3 Paris FC",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Marseille 3 - 1 Rennes",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Paris FC",
+          "form": [
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Marseille 2 - 3 Paris FC",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Angers 3 - 2 Paris FC",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Paris FC 2 - 1 Paris Saint-Germain",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Marseille": "5",
+          "Paris FC": "7"
+        },
+        "shots_off_target": {
+          "Marseille": "7",
+          "Paris FC": "8"
+        },
+        "shots_blocked": {
+          "Marseille": "2",
+          "Paris FC": "3"
+        },
+        "corners": {
+          "Marseille": "5",
+          "Paris FC": "4"
+        },
+        "fouls": {
+          "Marseille": "10",
+          "Paris FC": "12"
+        },
+        "offsides": {
+          "Marseille": "2",
+          "Paris FC": "1"
+        },
+        "yellow_cards": {
+          "Marseille": "0",
+          "Paris FC": "2"
+        },
+        "goalkeeper_saves": {
+          "Marseille": "4",
+          "Paris FC": "3"
+        },
+        "crosses": {
+          "Marseille": "2",
+          "Paris FC": "2"
+        },
+        "ball_possession": {
+          "Marseille": "60%",
+          "Paris FC": "40%"
+        }
+      },
+      "description": "Watch Marseille vs Paris FC highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The Ligue 1 clash between Olympique Marseille and Paris FC on September 6, 2026, was anticipated as a high-stakes tactical encounter. From the opening whistle, both teams demonstrated an aggressive intent that suggested the fans were in for a memorable afternoon of football. A Lightning Start at the Vélodrome The game exploded into life immediately, with Paris FC taking a shock lead in the 1st minute. Lassine Sinayoko found the back of the net with a clinical left-footed finish following an assist by Luca Koleosho . However, Olympique Marseille responded with incredible speed. Amine Gouiri restored parity in the 8th minute with a well-placed right-footed strike. The momentum shifted entirely just a minute later when a defensive error by Samir Chergui gifted Marseille a second goal, turning the game on its head at 2-1. The see-saw nature of the contest continued as Paris FC fought back. In the 19th minute, Lassine Sinayoko secured his second of the match, heading home from a Pablo Pagis cross. There was a brief moment of tension as the VAR reviewed the play, but the goal was officially confirmed in the 22nd minute, leaving the scores level at 2-2 as the teams headed into the break. Second Half Drama and VAR Decisiveness The intensity did not wane after the restart. In the 53rd minute, Amine Gouiri regained the lead for the home side, finishing off a move orchestrated by Amine Harit . After another VAR check, the goal was allowed to stand in the 55th minute, making it 3-2. As the clock ticked down, both managers looked to their benches, with Marseille introducing Keyliane Abdallah and Paris FC bringing on Moses Simon to inject late energy. The final turning point arrived in the 84th minute when CJ Egan-Riley was penalized for a handball in the box. Following a lengthy VAR review, the referee pointed to the spot. Lassine Sinayoko stepped up in the 86th minute to coolly slot home the penalty, completing a spectacular hat-trick. Although he received a yellow card for his shirt-off celebration, his heroics ensured a hard-fought 3-3 draw for the visitors in a match that lived up to every bit of the pre-game hype."
     },
     {
       "title": "Olympique Marseille vs Strasbourg",
@@ -1030,6 +1050,221 @@
       },
       "statistics": {},
       "description": "Watch Marseille vs Atletico Madrid highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 14, 2026."
+    },
+    {
+      "title": "AS Monaco vs Olympique Marseille",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/monaco-v-olympique-marseille-2026-08-30-4dlD.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/81.webp",
+          "name": "Marseille",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/91.webp",
+          "name": "Monaco",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Monaco_v_Olympique_Marseille_2026_08_30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Monaco",
+          "player": "P. Brunner",
+          "event_type": "Goal",
+          "assist": "A. Golovin",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Monaco",
+          "player": "D. Zakaria",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Monaco",
+          "player": "L. Camara",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "53'",
+          "team": "Monaco",
+          "player": "P. Brunner",
+          "event_type": "Goal",
+          "assist": "E. Dier",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "88'",
+          "team": "Monaco",
+          "player": "F. Nazinho",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Monaco",
+          "player": "L. Hradecky",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Monaco_wins": "3",
+          "draws": "2",
+          "Marseille_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "05/04/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "AS Monaco 2 - 1 Marseille"
+          },
+          {
+            "date": "12/04/2025",
+            "competition": "Ligue 1 24/25",
+            "teams_and_score": "AS Monaco 3 - 0 Marseille"
+          },
+          {
+            "date": "27/01/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "Marseille 2 - 2 AS Monaco"
+          },
+          {
+            "date": "28/01/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Marseille 1 - 1 AS Monaco"
+          },
+          {
+            "date": "06/03/2022",
+            "competition": "Ligue 1 21/22",
+            "teams_and_score": "Marseille 0 - 1 AS Monaco"
+          }
+        ],
+        "home_team_form": {
+          "team": "Monaco",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "AS Monaco 2 - 0 Marseille",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "AS Monaco 4 - 1 Gornik Zabrze",
+              "result": "W"
+            },
+            {
+              "date": "23/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Le Havre 0 - 1 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "20/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Gornik Zabrze 2 - 3 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Coventry City 2 - 0 AS Monaco",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Marseille",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "AS Monaco 2 - 0 Marseille",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Marseille 1 - 2 Atletico Madrid",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Marseille 3 - 1 Rennes",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Monaco": "5",
+          "Marseille": "2"
+        },
+        "shots_off_target": {
+          "Monaco": "4",
+          "Marseille": "6"
+        },
+        "shots_blocked": {
+          "Monaco": "2",
+          "Marseille": "5"
+        },
+        "corners": {
+          "Monaco": "5",
+          "Marseille": "7"
+        },
+        "fouls": {
+          "Monaco": "9",
+          "Marseille": "10"
+        },
+        "offsides": {
+          "Monaco": "3",
+          "Marseille": "1"
+        },
+        "yellow_cards": {
+          "Monaco": "4",
+          "Marseille": "0"
+        },
+        "goalkeeper_saves": {
+          "Monaco": "2",
+          "Marseille": "3"
+        },
+        "crosses": {
+          "Monaco": "6",
+          "Marseille": "3"
+        },
+        "ball_possession": {
+          "Monaco": "36%",
+          "Marseille": "64%"
+        }
+      },
+      "description": "Watch Monaco vs Marseille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The atmosphere was electric on August 30, 2026 , as AS Monaco hosted Olympique Marseille in a high-stakes Ligue 1 encounter. Both sides entered the pitch looking to establish dominance in a match that promised tactical discipline and moments of individual brilliance. Clinical Brunner Ignites the Match The hosts wasted no time making their mark, finding the breakthrough in the 13th minute. Aleksandr Golovin delivered a precise cross that found Paris Brunner , who rose highest to head the ball home and give Monaco the early lead. Marseille attempted to claw their way back, dominating possession, but the home defense remained organized and resolute. Tensions flared as the first half progressed. In the 30th minute, a VAR check for a potential Marseille penalty halted play, but the decision ultimately went against the visitors. The physical nature of the contest led to a flurry of bookings before the break, with Lamine Camara and Denis Zakaria both receiving yellow cards for robust challenges as both teams fought for every inch of grass. Double Delight and Defensive Grit The second half saw Monaco extend their advantage through clinical finishing. In the 54th minute, Eric Dier turned provider, finding Paris Brunner inside the area. The forward showed great composure to slot the ball home with his left foot, marking his second of the night. Despite Marseille holding 65% of the ball, they struggled to turn their territorial dominance into clear-cut opportunities. In the closing stages, Marseille threw everything forward. Amine Harit delivered several dangerous corners, but the Monaco backline, led by clearances from Eric Dier and Mika Biereth , stood firm. Late yellow cards for Flavio Nazinho and goalkeeper Lukas Hradecky —the latter for time-wasting—underlined the intensity of the final minutes, but the hosts held on to secure a vital clean sheet and all three points."
     }
   ]
 }
