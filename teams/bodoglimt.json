@@ -1,9 +1,226 @@
 {
   "team": "Bodo/Glimt",
   "team_logo": "https://img.refooty.com/logo/teams/327.webp",
-  "total_matches": 2,
-  "Last update time": "04:30:47 AM 11-09-2026",
+  "total_matches": 3,
+  "Last update time": "06:26:54 AM 11-09-2026",
   "matches": [
+    {
+      "title": "Bayern Munich vs Bodo Glimt",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bayern-munich-v-bodo-glimt-2026-09-10-xt7z.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Sep 10, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/327.webp",
+          "name": "Bodo/Glimt",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/157.webp",
+          "name": "Bayern München",
+          "score": "5"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Bayern_Munich_v_Bodo_Glimt_2026_09_10.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "47'",
+          "team": "Bayern München",
+          "player": "J. Musiala",
+          "event_type": "Goal",
+          "assist": "H. Kane",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "58'",
+          "team": "Bodo/Glimt",
+          "player": "S. Fet",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Bayern München",
+          "player": "H. Kane",
+          "event_type": "Goal",
+          "assist": "M. Olise",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "77'",
+          "team": "Bayern München",
+          "player": "A. Davies",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "83'",
+          "team": "Bayern München",
+          "player": "M. Olise",
+          "event_type": "Goal",
+          "assist": "L. Karl",
+          "score_update": "4 - 0"
+        },
+        {
+          "time": "87'",
+          "team": "Bodo/Glimt",
+          "player": "O. L. Bjortuft",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Bayern München",
+          "player": "M. Olise",
+          "event_type": "Goal",
+          "score_update": "5 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bayern München_wins": "0",
+          "draws": "0",
+          "Bodo/Glimt_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Bayern München",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Bayern Munich 5 - 0 Bodoe/Glimt",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Bundesliga",
+              "teams_and_score": "Schalke 04 0 - 0 Bayern Munich",
+              "result": "D"
+            },
+            {
+              "date": "02/09/2026",
+              "competition": "DFB Cup: Round 1",
+              "teams_and_score": "VfL Osnabrück 1 - 4 Bayern Munich",
+              "result": "W"
+            },
+            {
+              "date": "28/08/2026",
+              "competition": "Bundesliga",
+              "teams_and_score": "Bayern Munich 5 - 1 VfB Stuttgart",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "DFL Super Cup",
+              "teams_and_score": "Borussia Dortmund 1 - 2 Bayern Munich",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bodo/Glimt",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "10/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Bayern Munich 5 - 0 Bodoe/Glimt",
+              "result": "L"
+            },
+            {
+              "date": "04/09/2026",
+              "competition": "Eliteserien",
+              "teams_and_score": "Fredrikstad 1 - 2 Bodoe/Glimt",
+              "result": "W"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "NM Cup: Round 1",
+              "teams_and_score": "Fauske/Sprint 0 - 5 Bodoe/Glimt",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Bodoe/Glimt 3 - 0 NEC Nijmegen",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Eliteserien",
+              "teams_and_score": "Vaalerenga 1 - 2 Bodoe/Glimt",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bayern München": "12",
+          "Bodo/Glimt": "0"
+        },
+        "shots_off_target": {
+          "Bayern München": "5",
+          "Bodo/Glimt": "3"
+        },
+        "shots_blocked": {
+          "Bayern München": "8",
+          "Bodo/Glimt": "0"
+        },
+        "corners": {
+          "Bayern München": "6",
+          "Bodo/Glimt": "3"
+        },
+        "fouls": {
+          "Bayern München": "5",
+          "Bodo/Glimt": "8"
+        },
+        "offsides": {
+          "Bayern München": "3",
+          "Bodo/Glimt": "1"
+        },
+        "yellow_cards": {
+          "Bayern München": "0",
+          "Bodo/Glimt": "1"
+        },
+        "red_cards": {
+          "Bayern München": "0",
+          "Bodo/Glimt": "1"
+        },
+        "goalkeeper_saves": {
+          "Bayern München": "0",
+          "Bodo/Glimt": "6"
+        },
+        "crosses": {
+          "Bayern München": "3",
+          "Bodo/Glimt": "1"
+        },
+        "ball_possession": {
+          "Bayern München": "66%",
+          "Bodo/Glimt": "34%"
+        }
+      },
+      "description": "Watch Bayern München vs Bodo/Glimt highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 10, 2026. On 2026-09-10 , the UEFA Champions League spotlight turned to the Allianz Arena as Bayern München hosted the Norwegian challengers Bodo/Glimt . With 75,000 fans creating an electric atmosphere, the stage was set for a night of high-intensity European football where clinical finishing would eventually define the outcome. A Test of Patience in the Opening Period The match began with Bayern München asserting their typical dominance, controlling 66% of the possession and pinning Bodo/Glimt into their own half. Early on, Luis Diaz forced a save from Nikita Haikin with a sharp header, signaling the home side's intent. However, despite numerous corners delivered by Michael Olise and Joshua Kimmich , the breakthrough remained elusive. The Norwegian visitors defended gallantly, frustrating the Bavarian giants and limiting their clear-cut chances. Bodo/Glimt looked for opportunities on the break, with Andreas Helmersen testing the waters from distance, but his efforts lacked the accuracy to trouble the Bayern goal. As the referee blew for half-time, the score remained level, with the visitors feeling confident about their defensive organization while the hosts sought a spark of creativity. The Floodgates Open After the Break That spark arrived immediately after the restart. In the 47th minute, Harry Kane turned provider for Jamal Musiala , who smashed a brilliant volley into the net to open the scoring. The momentum shifted drastically, and in the 61st minute, Harry Kane went from creator to finisher, heading home a precise cross from Michael Olise to double the lead. The tactical substitutions made by both managers around the 80th minute did little to slow the Bayern juggernaut. Alphonso Davies added a third in the 77th minute with a thunderous left-footed volley that left the goalkeeper with no chance. Bayern were now in full flow, moving the ball with confidence and precision, while the visitors struggled to keep pace with the relentless attacking waves of the German side. Olise’s Masterclass and Late Drama The final ten minutes belonged to Michael Olise , who delivered a performance worthy of the Man of the Match title. In the 83rd minute, he unleashed a stunning strike from outside the box following a pass from Lennart Karl , a goal already being discussed as a contender for the season's best. Bodo/Glimt ’s evening went from bad to worse in the 87th minute when Odin Luraas Bjortuft was shown a straight red card for a professional foul as the last man. Capitalizing on the numerical advantage, Bayern added a fifth goal in stoppage time. Michael Olise found the net again in the 90+2 minute with a composed left-footed finish. It was a statement victory for Bayern München , whose second-half explosion ensured a dominant start to their continental campaign."
+    },
     {
       "title": "Union St. Gilloise vs Bodo/Glimt",
       "thumbnail_url": "https://img.refooty.com/thumbnail/union-st-gilloise-vs-bodoglimt-2026-08-04-oGaI.webp",

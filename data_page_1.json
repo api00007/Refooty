@@ -3,8 +3,934 @@
   "AUTHOR": "iVan_FluX",
   "CONTACT (OWNER)": "https://t.me/iVan_flux",
   "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-  "Last update time": "04:30:45 AM 11-09-2026",
+  "Last update time": "06:26:53 AM 11-09-2026",
   "matches": [
+    {
+      "title": "Real Madrid vs Inter Milan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/real-madrid-v-inter-milan-2026-09-08-Qpg4.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/505.webp",
+          "name": "Inter",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/541.webp",
+          "name": "Real Madrid",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Real_Madrid_v_Inter_Milan_2026_09_08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Real Madrid",
+          "player": "K. Mbappé",
+          "event_type": "Goal",
+          "assist": "B. Díaz",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Real Madrid",
+          "player": "F. Valverde",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Inter",
+          "player": "H. Çalhanoğlu",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "77'",
+          "team": "Inter",
+          "player": "C. Augusto",
+          "event_type": "Goal",
+          "assist": "L. Martínez",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "79'",
+          "team": "Real Madrid",
+          "player": "D. Huijsen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "79'",
+          "team": "Inter",
+          "player": "L. Martínez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Inter",
+          "player": "Y. Bisseck",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Real Madrid_wins": "3",
+          "draws": "0",
+          "Inter_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "07/12/2021",
+            "competition": "Group D 21/22",
+            "teams_and_score": "Real Madrid 2 - 0 Inter"
+          },
+          {
+            "date": "25/11/2020",
+            "competition": "Group B 20/21",
+            "teams_and_score": "Inter 0 - 2 Real Madrid"
+          },
+          {
+            "date": "10/08/2013",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Real Madrid 3 - 0 Inter"
+          }
+        ],
+        "home_team_form": {
+          "team": "Real Madrid",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Real Madrid 2 - 1 Inter",
+              "result": "W"
+            },
+            {
+              "date": "04/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Betis 1 - 0 Real Madrid",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Schalke 04 0 - 3 Real Madrid",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Real Madrid 2 - 2 Fiorentina",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Inter",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Real Madrid 2 - 1 Inter",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Inter 3 - 2 Napoli",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Inter 1 - 0 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Juventus 1 - 2 Inter",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Bologna 3 - 3 Inter",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Real Madrid": "8",
+          "Inter": "7"
+        },
+        "shots_off_target": {
+          "Real Madrid": "5",
+          "Inter": "9"
+        },
+        "shots_blocked": {
+          "Real Madrid": "3",
+          "Inter": "5"
+        },
+        "corners": {
+          "Real Madrid": "4",
+          "Inter": "11"
+        },
+        "fouls": {
+          "Real Madrid": "12",
+          "Inter": "10"
+        },
+        "offsides": {
+          "Real Madrid": "2",
+          "Inter": "4"
+        },
+        "yellow_cards": {
+          "Real Madrid": "1",
+          "Inter": "3"
+        },
+        "goalkeeper_saves": {
+          "Real Madrid": "7",
+          "Inter": "6"
+        },
+        "crosses": {
+          "Real Madrid": "2",
+          "Inter": "10"
+        },
+        "ball_possession": {
+          "Real Madrid": "36%",
+          "Inter": "64%"
+        }
+      },
+      "description": "Watch Real Madrid vs Inter highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 8, 2026. On the night of September 8, 2026, the UEFA Champions League provided another chapter of high-octane football as Real Madrid hosted Inter Milan . This heavyweight clash promised tactical intrigue and individual brilliance from the very first whistle. Clinical Start for the Hosts Real Madrid wasted no time in asserting their dominance, capitalizing on early defensive lapses from the Italian side. In the 14th minute, Kylian Mbappe found the back of the net with a composed right-footed finish following a clever assist from Brahim Diaz . The momentum remained firmly with the Spanish giants, and by the 23rd minute, they had doubled their lead. Federico Valverde was the sharpest player in the box, reacting first to a loose ball and firing home with his left foot after a mistake by Inter goalkeeper Josep Martinez . Inter struggled to find their rhythm in the first half, with Hakan Calhanoglu receiving a yellow card for a rough challenge as frustrations began to mount. The hosts were inches away from a third goal just before the break when Brahim Diaz saw his effort strike the post, leaving the door slightly ajar for a potential Inter comeback in the second period. Inter Fight Back Amid Late Drama The second half saw a significant shift in momentum as Inter Milan dominated possession, eventually controlling 61% of the ball. Their persistence paid off in the 77th minute when Carlos Augusto clinicaly finished from inside the area after being set up by Lautaro Martinez . This goal ignited a frantic finale where emotions boiled over; both Lautaro Martinez and Dean Huijsen were cautioned for dissent as the intensity reached its peak. In the dying moments, Real Madrid focused on defensive solidity to weather the storm. A late scuffle broke out in stoppage time, resulting in a yellow card for Yann Aurel Bisseck following a foul on Marc Cucurella . Despite Inter's late pressure and numerous corners swung in by Petar Sucic , the Madrid defense held firm to secure a hard-fought victory in this prestigious European encounter."
+    },
+    {
+      "title": "Sunderland vs Hull City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sunderland-v-hull-city-2026-09-08-YpOL.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/64.webp",
+          "name": "Hull City",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/746.webp",
+          "name": "Sunderland",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Sunderland_v_Hull_City_2026_09_08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "54'",
+          "team": "Hull City",
+          "player": "L. Gourna-Douath",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "62'",
+          "team": "Sunderland",
+          "player": "L. O'Nien",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "71'",
+          "team": "Sunderland",
+          "player": "C. Talbi",
+          "event_type": "Goal",
+          "assist": "T. Meunier",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "72'",
+          "team": "Hull City",
+          "player": "J. Egan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Hull City",
+          "player": "E. Stroud",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Sunderland_wins": "1",
+          "draws": "2",
+          "Hull City_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "29/07/2025",
+            "competition": "Friendly 2025",
+            "teams_and_score": "Hull City 2 - 1 Sunderland"
+          },
+          {
+            "date": "22/02/2025",
+            "competition": "Championship",
+            "teams_and_score": "Sunderland 0 - 1 Hull City"
+          },
+          {
+            "date": "19/01/2024",
+            "competition": "English Football League - Championship 2023/2024",
+            "teams_and_score": "Sunderland 0 - 1 Hull City"
+          },
+          {
+            "date": "07/04/2023",
+            "competition": "English Football League - Championship 2022/2023",
+            "teams_and_score": "Sunderland 4 - 4 Hull City"
+          },
+          {
+            "date": "30/07/2021",
+            "competition": "Friendly 2021",
+            "teams_and_score": "Sunderland 2 - 1 Hull City"
+          },
+          {
+            "date": "20/04/2021",
+            "competition": "English Football League - League One 2020/2021",
+            "teams_and_score": "Hull City 2 - 2 Sunderland"
+          }
+        ],
+        "home_team_form": {
+          "team": "Sunderland",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Sunderland 1 - 0 Hull City",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 1 - 1 Sunderland",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sunderland 2 - 1 Rennes",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sunderland 1 - 0 Wrexham",
+              "result": "W"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leeds United 1 - 0 Sunderland",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Hull City",
+          "form": [
+            "L",
+            "D",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Sunderland 1 - 0 Hull City",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Hull City 0 - 0 Aston Villa",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Stoke City 1 - 1 Hull City",
+              "result": "D"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Hull City 2 - 0 Manchester United",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hull City 0 - 0 Nice",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sunderland": "4",
+          "Hull City": "1"
+        },
+        "shots_off_target": {
+          "Sunderland": "8",
+          "Hull City": "3"
+        },
+        "shots_blocked": {
+          "Sunderland": "2",
+          "Hull City": "3"
+        },
+        "corners": {
+          "Sunderland": "7",
+          "Hull City": "12"
+        },
+        "fouls": {
+          "Sunderland": "8",
+          "Hull City": "17"
+        },
+        "offsides": {
+          "Sunderland": "5",
+          "Hull City": "1"
+        },
+        "yellow_cards": {
+          "Sunderland": "1",
+          "Hull City": "3"
+        },
+        "goalkeeper_saves": {
+          "Sunderland": "1",
+          "Hull City": "3"
+        },
+        "crosses": {
+          "Sunderland": "4",
+          "Hull City": "5"
+        },
+        "ball_possession": {
+          "Sunderland": "51%",
+          "Hull City": "49%"
+        }
+      },
+      "description": "Watch Sunderland vs Hull City highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The stage was set for a classic cup tie on September 8, 2026, as two sides hungry for progress faced off in the Carabao Cup . With knockout football on the line, the atmosphere was electric from the opening whistle as both tactical setups looked for a decisive edge. A First Half of Near Misses Sunderland started the brighter of the two sides, looking to use the width of the pitch to stretch the Hull City defense. Early on, Wilson Isidor found himself in a promising position following a Trai Hume cross, but his effort whistled past the post. The home side continued to pile on the pressure, with Jules Ahoka forcing a fine save from Dillon Phillips . The Hull City goalkeeper was kept busy throughout the opening period, notably denying Chemsdine Talbi with a sharp stop just before the break. Hull City were not without their moments, looking dangerous on the break through the pace of Mohamed-Ali Cho . The forward sent a warning shot from distance that narrowly missed the target, but for the most part, the visitors were forced to focus on their defensive duties. Despite several corners and half-chances for the hosts, the first half concluded without a goal, leaving the tactical battle wide open for the second period. Talbi Strikes to Decide the Tie The second half saw the intensity ramp up as both managers looked to their benches for inspiration. The introduction of Thomas Meunier provided the spark Sunderland needed. In the 71st minute, a swift counter-attack saw Meunier slide a perfectly weighted through ball to Chemsdine Talbi . From outside the box, Talbi unleashed a magnificent right-footed strike that flew into the top left corner, leaving Phillips with no chance and giving the home fans reason to celebrate. Hull City threw everything forward in the closing stages, searching desperately for an equalizer. Joe Gelhardt missed a golden opportunity from close range, and a flurry of late corners kept the Sunderland faithful on the edge of their seats. However, with Omar Alderete and Luke O'Nien holding firm at the back, the hosts navigated the five minutes of added time to secure their place in the next round, surviving a late scare from a resilient Hull side."
+    },
+    {
+      "title": "Crystal Palace vs Middlesbrough",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/crystal-palace-v-middlesbrough-2026-09-08-o5wy.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/70.webp",
+          "name": "Middlesbrough",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/52.webp",
+          "name": "Crystal Palace",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Crystal_Palace_v_Middlesbrough_2026_09_08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Crystal Palace",
+          "player": "J. S. Larsen",
+          "event_type": "Goal",
+          "assist": "Ó. Mingueza",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Crystal Palace",
+          "player": "J. S. Larsen",
+          "event_type": "Goal",
+          "assist": "B. Chilwell",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Middlesbrough",
+          "player": "A. Malanda",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Crystal Palace",
+          "player": "D. Kamada",
+          "event_type": "Goal",
+          "assist": "J. S. Larsen",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "91'",
+          "team": "Middlesbrough",
+          "player": "M. Peart-Harris",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Crystal Palace_wins": "4",
+          "draws": "1",
+          "Middlesbrough_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "31/10/2018",
+            "competition": "English League Cup 2018/2019",
+            "teams_and_score": "Middlesbrough 1 - 0 Crystal Palace"
+          },
+          {
+            "date": "25/02/2017",
+            "competition": "English Premier League 2016/2017",
+            "teams_and_score": "Crystal Palace 1 - 0 Middlesbrough"
+          },
+          {
+            "date": "16/02/2013",
+            "competition": "English Football League - Championship 2012/2013",
+            "teams_and_score": "Crystal Palace 4 - 1 Middlesbrough"
+          },
+          {
+            "date": "04/02/2012",
+            "competition": "English Football League - Championship 2011/2012",
+            "teams_and_score": "Middlesbrough 0 - 0 Crystal Palace"
+          },
+          {
+            "date": "20/09/2011",
+            "competition": "English League Cup 2011/2012",
+            "teams_and_score": "Crystal Palace 2 - 1 Middlesbrough"
+          },
+          {
+            "date": "17/09/2011",
+            "competition": "English Football League - Championship 2011/2012",
+            "teams_and_score": "Crystal Palace 0 - 1 Middlesbrough"
+          },
+          {
+            "date": "05/02/2011",
+            "competition": "English Football League - Championship 2010/2011",
+            "teams_and_score": "Crystal Palace 1 - 0 Middlesbrough"
+          }
+        ],
+        "home_team_form": {
+          "team": "Crystal Palace",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Crystal Palace 3 - 0 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Fulham 2 - 3 Crystal Palace",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Freiburg 3 - 0 Crystal Palace",
+              "result": "L"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Fulham 1 - 2 Crystal Palace",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Crystal Palace 3 - 1 Al-Ula FC",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Middlesbrough",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Crystal Palace 3 - 0 Middlesbrough",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "QPR 0 - 1 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Doncaster Rovers 1 - 3 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Blackburn Rovers 2 - 1 Middlesbrough",
+              "result": "L"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Middlesbrough 1 - 0 Wrexham",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Crystal Palace": "5",
+          "Middlesbrough": "4"
+        },
+        "shots_off_target": {
+          "Crystal Palace": "1",
+          "Middlesbrough": "6"
+        },
+        "shots_blocked": {
+          "Crystal Palace": "2",
+          "Middlesbrough": "6"
+        },
+        "corners": {
+          "Crystal Palace": "1",
+          "Middlesbrough": "6"
+        },
+        "fouls": {
+          "Crystal Palace": "10",
+          "Middlesbrough": "11"
+        },
+        "offsides": {
+          "Crystal Palace": "2",
+          "Middlesbrough": "3"
+        },
+        "yellow_cards": {
+          "Crystal Palace": "0",
+          "Middlesbrough": "2"
+        },
+        "goalkeeper_saves": {
+          "Crystal Palace": "4",
+          "Middlesbrough": "2"
+        },
+        "crosses": {
+          "Crystal Palace": "3",
+          "Middlesbrough": "4"
+        },
+        "ball_possession": {
+          "Crystal Palace": "41%",
+          "Middlesbrough": "59%"
+        }
+      },
+      "description": "Watch Crystal Palace vs Middlesbrough highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The Carabao Cup showdown on September 8, 2026 , brought Crystal Palace and Middlesbrough together in a tactical battle where clinical finishing proved to be the ultimate divider. Aerial Dominance Breaks the Deadlock The match began with high energy as Middlesbrough looked to upset the odds at Selhurst Park . Early chances fell to Amario Cozier-Duberry and Callum Brittain , forcing Crystal Palace goalkeeper Walter Benítez into several alert saves. Despite the visitors' bright start, the hosts gradually asserted control, with Yéremy Pino testing Sol Brynn in the Middlesbrough goal after a dangerous delivery from Óscar Mingueza . The breakthrough finally arrived in the 37th minute. Following a sustained period of pressure, Óscar Mingueza whipped a pinpoint cross into the danger zone. Jørgen Strand Larsen reacted quickest, rising above the defense to power a header into the bottom left corner from point-blank range. The goal shifted the momentum firmly in favor of the Eagles as they headed into the halftime interval with a slender lead. Strand Larsen Doubles Up Crystal Palace wasted no time asserting their authority in the second half. In the 53rd minute, Ben Chilwell found space on the flank and delivered a tempting ball into the heart of the box. Once again, Jørgen Strand Larsen demonstrated his prowess in the air, connecting with a firm header that flew into the top left corner. The double from the Norwegian striker left the visitors with a mountain to climb. As the clock ticked on, Palace manager made strategic changes, introducing Daichi Kamada and Adam Wharton to freshen up the midfield. The impact was almost immediate. In the 72nd minute, Jørgen Strand Larsen turned provider, sliding a through ball to Daichi Kamada just outside the area. The Japanese international composed himself before unleashing a precise right-footed shot into the bottom left corner, effectively ending the contest as a spectacle. Professional Finish to Progress To their credit, Middlesbrough refused to go down without a fight. Late attempts from Will Lankshear and Rokas Pukstas kept the Palace defense on their toes, while Myles Peart-Harris received a yellow card as frustrations began to boil over. Walter Benítez remained focused, denying Cozier-Duberry once more to preserve his clean sheet. The final whistle confirmed a professional job by Crystal Palace , who march on to the next round of the competition."
+    },
+    {
+      "title": "Bournemouth vs Lincoln City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bournemouth-v-lincoln-city-2026-09-08-VN5g.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Sep 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1379.webp",
+          "name": "Lincoln",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/35.webp",
+          "name": "Bournemouth",
+          "score": "4"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Bournemouth_v_Lincoln_City_2026_09_08.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Bournemouth",
+          "player": "R. Christie",
+          "event_type": "Goal",
+          "assist": "B. G. Doak",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Lincoln",
+          "player": "C. Elder",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Bournemouth",
+          "player": "J. Kluivert",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "48'",
+          "team": "Lincoln",
+          "player": "D. Jefferies",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Bournemouth",
+          "player": "A. Silva",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "67'",
+          "team": "Lincoln",
+          "player": "D. Oyegoke",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "69'",
+          "team": "Bournemouth",
+          "player": "R. Christie",
+          "event_type": "Goal",
+          "assist": "D. Brooks",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "88'",
+          "team": "Bournemouth",
+          "player": "R. Christie",
+          "event_type": "Goal",
+          "assist": "B. Diakite",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "90+4'",
+          "team": "Bournemouth",
+          "player": "Rayan",
+          "event_type": "Goal",
+          "assist": "D. Jebbison",
+          "score_update": "4 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bournemouth_wins": "1",
+          "draws": "1",
+          "Lincoln_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "10/04/2010",
+            "competition": "English Football League - League Two 2009/2010",
+            "teams_and_score": "Lincoln City 2 - 1 AFC Bournemouth"
+          },
+          {
+            "date": "31/01/2009",
+            "competition": "English Football League - League Two 2008/2009",
+            "teams_and_score": "Lincoln City 3 - 3 AFC Bournemouth"
+          },
+          {
+            "date": "25/05/2003",
+            "competition": "English Football League - League Two 2002/2003",
+            "teams_and_score": "AFC Bournemouth 5 - 2 Lincoln City"
+          },
+          {
+            "date": "09/01/1999",
+            "competition": "English Football League - League One 1998/1999",
+            "teams_and_score": "Lincoln City 2 - 1 AFC Bournemouth"
+          }
+        ],
+        "home_team_form": {
+          "team": "Bournemouth",
+          "form": [
+            "W",
+            "D",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "AFC Bournemouth 4 - 0 Lincoln City",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Newcastle United 2 - 2 AFC Bournemouth",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Mainz 05 2 - 1 AFC Bournemouth",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "AFC Bournemouth 10 - 1 Genoa",
+              "result": "W"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Augsburg 2 - 5 AFC Bournemouth",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lincoln",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "AFC Bournemouth 4 - 0 Lincoln City",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Lincoln City 1 - 1 Southampton",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Blackpool 1 - 4 Lincoln City",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Lincoln City 1 - 3 Portsmouth",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Derby County 1 - 2 Lincoln City",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bournemouth": "8",
+          "Lincoln": "1"
+        },
+        "shots_off_target": {
+          "Bournemouth": "15",
+          "Lincoln": "1"
+        },
+        "shots_blocked": {
+          "Bournemouth": "13",
+          "Lincoln": "0"
+        },
+        "corners": {
+          "Bournemouth": "10",
+          "Lincoln": "0"
+        },
+        "fouls": {
+          "Bournemouth": "11",
+          "Lincoln": "8"
+        },
+        "offsides": {
+          "Bournemouth": "1",
+          "Lincoln": "0"
+        },
+        "yellow_cards": {
+          "Bournemouth": "2",
+          "Lincoln": "3"
+        },
+        "goalkeeper_saves": {
+          "Bournemouth": "1",
+          "Lincoln": "4"
+        },
+        "crosses": {
+          "Bournemouth": "9",
+          "Lincoln": "0"
+        },
+        "ball_possession": {
+          "Bournemouth": "68%",
+          "Lincoln": "32%"
+        }
+      },
+      "description": "Watch Bournemouth vs Lincoln highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on September 8, 2026. On September 8, 2026 , Bournemouth and Lincoln City faced off in an intriguing Carabao Cup encounter, with both sides looking to progress in the knockout competition. The atmosphere was charged as the teams took to the pitch under the lights for a chance to extend their cup run. Early Breakthrough and Sustained Pressure Bournemouth started the match with intent, establishing control of the tempo from the opening whistle. The early pressure paid dividends in the 7th minute when Ryan Christie found the back of the net with a clinical left-footed strike from the left side of the six-yard box, courtesy of a well-placed cross from Ben Gannon-Doak . The Cherries continued to press forward, creating several scoring opportunities. Bafodé Diakité nearly doubled the lead with a header that was expertly saved by Lincoln City goalkeeper Joe Gauci , while Justin Kluivert and Álvaro Rodríguez remained constant threats in the final third throughout the first half. Second Half Surge and Christie's Clinical Edge The second half saw Bournemouth maintain their dominance as they searched for a cushion. James Hill came agonizingly close to scoring in the 56th minute, but his powerful right-footed effort from distance rattled the left post. The persistence of the home side was rewarded in the 69th minute when Ryan Christie rose highest to meet a David Brooks cross following a corner, heading it firmly into the center of the goal. The visitors struggled to find a response, with yellow cards for Dom Jefferies and Daniel Oyegoke highlighting their frustration as they tried to contain the wave of attacks. Late Flourish and Final Whistle As the clock ticked toward full-time, the hosts showed no signs of slowing down. In the 88th minute, Ryan Christie completed a magnificent hat-trick, finishing from the center of the box after being set up by Bafodé Diakité . The scoring was rounded off deep into stoppage time when Rayan , who had come on as a substitute, clinicaly converted a fast break following an assist from Daniel Jebbison . The 4-0 victory was a testament to Bournemouth 's clinical finishing and tactical discipline, ensuring their safe passage to the next round of the Carabao Cup ."
+    },
     {
       "title": "AEK Athens vs LASK Linz",
       "thumbnail_url": "https://img.refooty.com/thumbnail/aek-athens-v-lask-linz-2026-09-08-Nvtr.webp",
@@ -4978,6 +5904,237 @@
       "description": "Watch Getafe vs Celta Vigo highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on September 7, 2026. The Coliseum played host to a gripping La Liga encounter between Getafe and Celta Vigo on September 7, 2026 . Both sides looked to assert their dominance in a clash defined by tactical discipline and high physical intensity. Satriano Breaks the Deadlock The match began with both teams testing each other's resolve, but it was the home side that struck first. In the 21st minute, Martin Satriano found the back of the net with a precise right-footed strike, rewarding Getafe for their early clinical edge. Despite the goal, Celta Vigo began to dominate possession, though they struggled to find a way through a stubborn defensive line. The first half ended with rising tensions, as Johan Mojica received a yellow card during stoppage time, leaving the hosts with a narrow lead at the break. Starfelt Equalizes as Momentum Shifts The second half saw a significant shift in dynamics. Celta Vigo returned with renewed vigor, and their persistence paid off in the 57th minute. Hugo Gonzalez delivered an accurate corner, allowing Carl Starfelt to power a header home and level the score. The situation worsened for Getafe just ten minutes later when Zaid Abner Romero was shown a second yellow card for a rough foul. Reduced to ten men, the home side was forced into a defensive shell for the remainder of the contest. Defensive Heroics Under Pressure With a man advantage, Celta Vigo ramped up the pressure, eventually finishing the match with a dominant 70% possession. David Soria was called into action to save a goal-bound header from Hugo Gonzalez , while Borja Iglesias saw an effort go wide. Despite the constant waves of attack from the visitors and several tactical substitutions aimed at breaking the deadlock, Getafe held firm. The match concluded in a stalemate after six minutes of stoppage time, characterized by desperate clearances and a resolute defensive display from the ten-man hosts."
     },
     {
+      "title": "Inter Miami CF - Atlanta United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/inter-miami-cf-atlanta-united-2026-09-06-fr20.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Sep 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1608.webp",
+          "name": "Atlanta United FC",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/9568.webp",
+          "name": "Inter Miami",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/inter-miami-cf-atlanta-united-2026-09-06.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "28'",
+          "team": "Inter Miami",
+          "player": "M. Falcon",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "32'",
+          "team": "Inter Miami",
+          "player": "Casemiro",
+          "event_type": "Goal",
+          "assist": "L. Messi",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "35'",
+          "team": "Atlanta United FC",
+          "player": "M. Almirón",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "39'",
+          "team": "Atlanta United FC",
+          "player": "C. Sanchez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "42'",
+          "team": "Inter Miami",
+          "player": "G. Berterame",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+1'",
+          "team": "Inter Miami",
+          "player": "L. Suárez",
+          "event_type": "Goal",
+          "assist": "T. Segovia",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "47'",
+          "team": "Atlanta United FC",
+          "player": "P. Díaz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "58'",
+          "team": "Inter Miami",
+          "player": "F. Caicedo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "62'",
+          "team": "Inter Miami",
+          "player": "D. S. Clair",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "72'",
+          "team": "Inter Miami",
+          "player": "Casemiro",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "73'",
+          "team": "Atlanta United FC",
+          "player": "M. Almirón",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "75'",
+          "team": "Inter Miami",
+          "player": "R. D. Paul",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "87'",
+          "team": "Atlanta United FC",
+          "player": "B. Embolo",
+          "event_type": "Goal",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "90+5'",
+          "team": "Atlanta United FC",
+          "player": "M. Edwards",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Inter Miami_wins": "3",
+          "draws": "1",
+          "Atlanta United FC_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "11/10/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Inter Miami CF 4 - 0 Atlanta United"
+          },
+          {
+            "date": "10/11/2024",
+            "competition": "MLS: Play-off",
+            "teams_and_score": "Inter Miami CF 2 - 3 Atlanta United"
+          },
+          {
+            "date": "18/09/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Atlanta United 2 - 2 Inter Miami CF"
+          },
+          {
+            "date": "16/09/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Atlanta United 5 - 2 Inter Miami CF"
+          },
+          {
+            "date": "25/07/2023",
+            "competition": "Leagues Cup South Group 3",
+            "teams_and_score": "Inter Miami CF 4 - 0 Atlanta United"
+          },
+          {
+            "date": "06/05/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Inter Miami CF 2 - 1 Atlanta United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Inter Miami",
+          "form": [
+            "D",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Inter Miami CF 2 - 2 Atlanta United",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Inter Miami CF 2 - 3 Leon",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Inter Miami CF 2 - 2 Columbus Crew",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Atlanta United FC",
+          "form": [
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Atlanta United 2 - 3 Orlando City",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Inter Miami": "3",
+          "Atlanta United FC": "5"
+        },
+        "shots_off_target": {
+          "Inter Miami": "4",
+          "Atlanta United FC": "9"
+        },
+        "corners": {
+          "Inter Miami": "6",
+          "Atlanta United FC": "6"
+        },
+        "fouls": {
+          "Inter Miami": "15",
+          "Atlanta United FC": "17"
+        },
+        "offsides": {
+          "Inter Miami": "2",
+          "Atlanta United FC": "2"
+        },
+        "yellow_cards": {
+          "Inter Miami": "6",
+          "Atlanta United FC": "3"
+        },
+        "ball_possession": {
+          "Inter Miami": "50%",
+          "Atlanta United FC": "50%"
+        }
+      },
+      "description": "Watch Inter Miami vs Atlanta United FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 6, 2026."
+    },
+    {
       "title": "Telstar vs Cambuur",
       "thumbnail_url": "https://img.refooty.com/thumbnail/telstar-vs-cambuur-2026-09-06-cLDL.webp",
       "competition": "Eredivisie",
@@ -8360,871 +9517,11 @@
       },
       "statistics": {},
       "description": "Watch Vissel Kobe vs V-varen Nagasaki highlights and goals from J1 League on ReFooty: Football Highlights Hub. Match played on September 6, 2026."
-    },
-    {
-      "title": "Real Salt Lake - LAFC",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/real-salt-lake-lafc-2026-09-06-rHAm.webp",
-      "competition": "Major League Soccer",
-      "competition_cover": "https://refooty.com/covers/mls.webp",
-      "date": "Sep 6, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1616.webp",
-          "name": "Los Angeles FC",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1606.webp",
-          "name": "Real Salt Lake",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/real-salt-lake-lafc-2026-09-06.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Los Angeles FC",
-          "player": "D. Bouanga",
-          "event_type": "Goal",
-          "assist": "S. Heung-min",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "Real Salt Lake",
-          "player": "S. Lobzhanidze",
-          "event_type": "Goal",
-          "assist": "N. Caliskan",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "Real Salt Lake",
-          "player": "J. Arias",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Los Angeles FC",
-          "player": "S. Heung-min",
-          "event_type": "Goal",
-          "assist": "D. Bouanga",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "46'",
-          "team": "Real Salt Lake",
-          "player": "L. Moisa",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Real Salt Lake",
-          "player": "N. Caliskan",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "76'",
-          "team": "Real Salt Lake",
-          "player": "C. Guske",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Real Salt Lake_wins": "1",
-          "draws": "1",
-          "Los Angeles FC_wins": "5"
-        },
-        "previous_matches": [
-          {
-            "date": "23/07/2026",
-            "competition": "MLS",
-            "teams_and_score": "Los Angeles FC 3 - 1 Real Salt Lake"
-          },
-          {
-            "date": "22/09/2025",
-            "competition": "MLS 2025",
-            "teams_and_score": "Los Angeles FC 4 - 1 Real Salt Lake"
-          },
-          {
-            "date": "18/07/2024",
-            "competition": "MLS 2024",
-            "teams_and_score": "Los Angeles FC 1 - 1 Real Salt Lake"
-          },
-          {
-            "date": "02/10/2023",
-            "competition": "MLS 2023",
-            "teams_and_score": "Los Angeles FC 0 - 1 Real Salt Lake"
-          },
-          {
-            "date": "09/08/2023",
-            "competition": "Leagues Cup Play-offs",
-            "teams_and_score": "Los Angeles FC 4 - 0 Real Salt Lake"
-          },
-          {
-            "date": "14/05/2023",
-            "competition": "MLS 2023",
-            "teams_and_score": "Real Salt Lake 0 - 3 Los Angeles FC"
-          },
-          {
-            "date": "05/09/2022",
-            "competition": "Major League Soccer 2022",
-            "teams_and_score": "Los Angeles FC 2 - 0 Real Salt Lake"
-          }
-        ],
-        "home_team_form": {
-          "team": "Real Salt Lake",
-          "form": [
-            "D",
-            "L",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/09/2026",
-              "competition": "MLS",
-              "teams_and_score": "Real Salt Lake 2 - 2 Los Angeles FC",
-              "result": "D"
-            },
-            {
-              "date": "26/08/2026",
-              "competition": "Leagues Cup: Final Stage",
-              "teams_and_score": "Leon 3 - 0 Real Salt Lake",
-              "result": "L"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Orlando City 2 - 1 Real Salt Lake",
-              "result": "L"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Real Salt Lake 3 - 0 FC Juarez",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "St. Louis City 1 - 1 Real Salt Lake",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Los Angeles FC",
-          "form": [
-            "D",
-            "D",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/09/2026",
-              "competition": "MLS",
-              "teams_and_score": "Real Salt Lake 2 - 2 Los Angeles FC",
-              "result": "D"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Los Angeles FC 1 - 1 Queretaro FC",
-              "result": "D"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Vancouver Whitecaps 1 - 1 Los Angeles FC",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Real Salt Lake": "9",
-          "Los Angeles FC": "6"
-        },
-        "shots_off_target": {
-          "Real Salt Lake": "6",
-          "Los Angeles FC": "7"
-        },
-        "shots_blocked": {
-          "Real Salt Lake": "7",
-          "Los Angeles FC": "5"
-        },
-        "corners": {
-          "Real Salt Lake": "5",
-          "Los Angeles FC": "8"
-        },
-        "fouls": {
-          "Real Salt Lake": "5",
-          "Los Angeles FC": "7"
-        },
-        "yellow_cards": {
-          "Real Salt Lake": "3",
-          "Los Angeles FC": "0"
-        },
-        "goalkeeper_saves": {
-          "Real Salt Lake": "4",
-          "Los Angeles FC": "7"
-        },
-        "ball_possession": {
-          "Real Salt Lake": "58%",
-          "Los Angeles FC": "42%"
-        }
-      },
-      "description": "Watch Real Salt Lake vs Los Angeles FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The stage was set for a compelling MLS clash between Real Salt Lake and Los Angeles FC on September 6, 2026 . Both sides looked to assert their tactical superiority in what proved to be a high-tempo football encounter. An explosive opening period Los Angeles FC came out of the gates with relentless energy, stunning the home crowd early on. Just 14 minutes in, Denis Bouanga struck the opener, assisted by a sharp delivery from Heung-Min Son . The momentum stayed firmly with the visitors as Saba Lobjanidze doubled the lead at the 18-minute mark, capitalizing on an assist from Noel Caliskan . The pressure was suffocating, and at 39 minutes, the roles reversed as Heung-Min Son found the net off a Bouanga pass, putting the visitors in a commanding position heading into the half-time break. Securing the result Returning from the locker room for the second half, the game intensified as Real Salt Lake fought to reclaim lost ground. Noel Caliskan managed to pull one back for the home side in the 75th minute, providing a glimmer of hope. The final stages saw a flurry of substitutions as both managers looked to control the game's energy, while yellow cards for Luca Moisa and Colin Guske highlighted the competitive nature of the closing minutes. The final whistle at 90+4 minutes confirmed the result, leaving the visitors satisfied with a resilient display."
-    },
-    {
-      "title": "Remo - Flamengo",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/remo-flamengo-2026-09-06-5z4u.webp",
-      "competition": "Brasileirão",
-      "competition_cover": "https://refooty.com/covers/brasileirao.webp",
-      "date": "Sep 6, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/127.webp",
-          "name": "Flamengo",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1198.webp",
-          "name": "Remo",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/remo-flamengo-2026-09-06.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Remo",
-          "player": "A. Galeano",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Flamengo",
-          "player": "G. d. Arrascaeta",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Flamengo",
-          "player": "J. Carrascal",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Flamengo",
-          "player": "S. Lino",
-          "event_type": "Goal",
-          "assist": "G. d. Arrascaeta",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "76'",
-          "team": "Remo",
-          "player": "Marcelinho",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Remo_wins": "0",
-          "draws": "0",
-          "Flamengo_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "19/03/2026",
-            "competition": "Serie A",
-            "teams_and_score": "Flamengo 3 - 0 Remo"
-          },
-          {
-            "date": "09/04/2009",
-            "competition": "Cup",
-            "teams_and_score": "Remo 0 - 2 Flamengo"
-          }
-        ],
-        "home_team_form": {
-          "team": "Remo",
-          "form": [
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/09/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Remo 0 - 1 Flamengo",
-              "result": "L"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Copa do Brasil",
-              "teams_and_score": "Remo 0 - 1 Santos FC",
-              "result": "L"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Mirassol 2 - 1 Remo",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Flamengo",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/09/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Remo 0 - 1 Flamengo",
-              "result": "W"
-            },
-            {
-              "date": "20/08/2026",
-              "competition": "Round of 16",
-              "teams_and_score": "Flamengo 2 - 1 Cruzeiro",
-              "result": "W"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Mirassol 1 - 5 Flamengo",
-              "result": "W"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Round of 16",
-              "teams_and_score": "Cruzeiro 1 - 1 Flamengo",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Flamengo 2 - 0 Vitoria",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Remo": "1",
-          "Flamengo": "5"
-        },
-        "shots_off_target": {
-          "Remo": "3",
-          "Flamengo": "10"
-        },
-        "shots_blocked": {
-          "Remo": "3",
-          "Flamengo": "6"
-        },
-        "corners": {
-          "Remo": "7",
-          "Flamengo": "9"
-        },
-        "fouls": {
-          "Remo": "9",
-          "Flamengo": "13"
-        },
-        "offsides": {
-          "Remo": "1",
-          "Flamengo": "1"
-        },
-        "yellow_cards": {
-          "Remo": "2",
-          "Flamengo": "2"
-        },
-        "goalkeeper_saves": {
-          "Remo": "4",
-          "Flamengo": "1"
-        },
-        "ball_possession": {
-          "Remo": "36%",
-          "Flamengo": "64%"
-        }
-      },
-      "description": "Watch Remo vs Flamengo highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The stadium atmosphere was thick with anticipation as two sides fought for dominance in the Brazilian Serie A . Every challenge on the pitch reflected the high stakes of this match, which took place on September 6, 2026. The flow of the game The opening period was characterized by physical intensity and a hard-fought battle in the middle of the park. The referee was forced into action early, issuing yellow cards to Antonio Galeano , Giorgian De Arrascaeta , and Jorge Carrascal during the first half , highlighting the frantic pace of play. Both teams struggled to find clear-cut opportunities as the tactical tension remained high throughout the initial forty-five minutes. The breakthrough Following the halftime break, the tactical landscape shifted as both managers looked to their benches to spark momentum. The decisive moment arrived in the 65th minute when Flamengo carved out a moment of brilliance; Giorgian De Arrascaeta delivered a pinpoint assist for Samuel Dias Lino , who coolly slotted the ball home. This goal triggered a flurry of substitutions, with players such as Saul Niguez and Erick Pulgar introduced to control the game. Remo pushed forward in search of an equalizer in the dying stages, but the visitors held firm to secure the result."
-    },
-    {
-      "title": "Kawasaki Frontale - Shimizu S-Pulse",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/kawasaki-frontale-shimizu-s-pulse-2026-09-06-SbAw.webp",
-      "competition": "J1 League",
-      "competition_cover": "",
-      "date": "Sep 6, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "",
-          "name": "Away Team",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/kawasaki-frontale-shimizu-s-pulse-2026-09-06.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
-        },
-        "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
-        }
-      },
-      "statistics": {},
-      "description": "Watch Kawasaki Frontale vs Shimizu S-pulse highlights and goals from J1 League on ReFooty: Football Highlights Hub. Match played on September 6, 2026."
-    },
-    {
-      "title": "Lanús - Defensa y Justicia",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/lanus-defensa-y-justicia-2026-09-06-5Hl5.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Sep 6, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/442.webp",
-          "name": "Defensa Y Justicia",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/446.webp",
-          "name": "Lanus",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/lanus-defensa-y-justicia-2026-09-06.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Defensa Y Justicia",
-          "player": "J. Gutierrez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "51'",
-          "team": "Lanus",
-          "player": "L. Bezzosi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "83'",
-          "team": "Lanus",
-          "player": "J. Canale",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90'",
-          "team": "Lanus",
-          "player": "C. Izquierdoz",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "90+5'",
-          "team": "Lanus",
-          "player": "A. Medina",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Lanus_wins": "2",
-          "draws": "5",
-          "Defensa Y Justicia_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "02/03/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Defensa y Justicia 1 - 1 Lanus"
-          },
-          {
-            "date": "25/11/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "Lanus 0 - 0 Defensa y Justicia"
-          },
-          {
-            "date": "03/03/2024",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Defensa y Justicia 0 - 4 Lanus"
-          },
-          {
-            "date": "07/10/2023",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Lanus 0 - 2 Defensa y Justicia"
-          },
-          {
-            "date": "09/07/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Defensa y Justicia 2 - 2 Lanus"
-          },
-          {
-            "date": "10/06/2022",
-            "competition": "Primera Division 2022",
-            "teams_and_score": "Lanus 1 - 1 Defensa y Justicia"
-          },
-          {
-            "date": "12/12/2021",
-            "competition": "Primera Division 2021",
-            "teams_and_score": "Defensa y Justicia 2 - 1 Lanus"
-          }
-        ],
-        "home_team_form": {
-          "team": "Lanus",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/09/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Lanus 1 - 0 Defensa y Justicia",
-              "result": "W"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Knockout Round Playoffs",
-              "teams_and_score": "Cienciano 4 - 0 Lanus",
-              "result": "L"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Lanus 1 - 0 San Lorenzo de Almagro",
-              "result": "W"
-            },
-            {
-              "date": "23/07/2026",
-              "competition": "Knockout Round Playoffs",
-              "teams_and_score": "Lanus 2 - 0 Cienciano",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Defensa Y Justicia",
-          "form": [
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/09/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Lanus 1 - 0 Defensa y Justicia",
-              "result": "L"
-            },
-            {
-              "date": "16/07/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Racing Club 4 - 1 Defensa y Justicia",
-              "result": "L"
-            },
-            {
-              "date": "04/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Gimnasia Mendoza 2 - 1 Defensa y Justicia",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Lanus": "5",
-          "Defensa Y Justicia": "4"
-        },
-        "shots_off_target": {
-          "Lanus": "10",
-          "Defensa Y Justicia": "8"
-        },
-        "shots_blocked": {
-          "Lanus": "4",
-          "Defensa Y Justicia": "3"
-        },
-        "corners": {
-          "Lanus": "7",
-          "Defensa Y Justicia": "4"
-        },
-        "fouls": {
-          "Lanus": "14",
-          "Defensa Y Justicia": "11"
-        },
-        "offsides": {
-          "Lanus": "2",
-          "Defensa Y Justicia": "1"
-        },
-        "yellow_cards": {
-          "Lanus": "3",
-          "Defensa Y Justicia": "1"
-        },
-        "goalkeeper_saves": {
-          "Lanus": "4",
-          "Defensa Y Justicia": "4"
-        },
-        "ball_possession": {
-          "Lanus": "48%",
-          "Defensa Y Justicia": "52%"
-        }
-      },
-      "description": "Watch Lanus vs Defensa Y Justicia highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The stadium served as the stage for an intense and balanced duel, where tactical precision ultimately dictated the outcome of the match. With anticipation surrounding this Liga Profesional Argentina fixture, supporters were kept on the edge of their seats waiting for a breakthrough. A battle of attrition Taking place on September 6, 2026 , the match between Lanús and Defensa y Justicia was defined by a high-pressure atmosphere and physical exchanges. Following a yellow card for Juan Gutierrez in the 33rd minute, the intensity remained high, with Lucas Besozzi and Jose Maria Canale also entering the referee's book later in the game. Lanús shuffled their pack significantly in the second half, introducing fresh legs like Jeremias Lucco , Leandro Fernandez , and Maximiliano Porcel to overcome the stubborn defensive resistance from their opponents. Late drama defines the finish Just as the contest seemed destined for a stalemate, Carlos Izquierdoz emerged as the hero for Lanús in the 90th minute. His clinical finish broke the deadlock, sending the home crowd into raptures. Despite a final surge of pressure and a late caution for Agustin Medina during stoppage time, the final whistle at 90+6 minutes confirmed a hard-fought and memorable victory for the home side."
-    },
-    {
-      "title": "St. Johnstone - Hibernian",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/st-johnstone-hibernian-2026-09-06-0h2j.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Sep 6, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/249.webp",
-          "name": "Hibernian",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/258.webp",
-          "name": "ST Johnstone",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/st-johnstone-hibernian-2026-09-06.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "ST Johnstone",
-          "player": "J. Fowler",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Hibernian",
-          "player": "N. A. Lowe",
-          "event_type": "Goal",
-          "assist": "M. Chaiwa",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "ST Johnstone",
-          "player": "T. Steven",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "ST Johnstone",
-          "player": "J. Fowler",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "ST Johnstone_wins": "2",
-          "draws": "1",
-          "Hibernian_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "29/03/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Hibernian 3 - 0 St. Johnstone"
-          },
-          {
-            "date": "27/04/2024",
-            "competition": "Premiership: Relegation Group",
-            "teams_and_score": "St. Johnstone 1 - 3 Hibernian"
-          },
-          {
-            "date": "06/04/2024",
-            "competition": "Premiership 23/24",
-            "teams_and_score": "Hibernian 1 - 2 St. Johnstone"
-          },
-          {
-            "date": "22/04/2023",
-            "competition": "Premiership 22/23",
-            "teams_and_score": "St. Johnstone 1 - 1 Hibernian"
-          }
-        ],
-        "home_team_form": {
-          "team": "ST Johnstone",
-          "form": [
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/09/2026",
-              "competition": "Premiership",
-              "teams_and_score": "St. Johnstone 2 - 1 Hibernian",
-              "result": "L"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group F",
-              "teams_and_score": "St. Johnstone 1 - 1 East Fife",
-              "result": "D"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Cove Rangers 2 - 4 St. Johnstone",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Hibernian",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/09/2026",
-              "competition": "Premiership",
-              "teams_and_score": "St. Johnstone 2 - 1 Hibernian",
-              "result": "L"
-            },
-            {
-              "date": "27/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hibernian 2 - 3 Gent",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Hibernian 1 - 0 Partick Thistle",
-              "result": "W"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "KF Shkendija 0 - 0 Hibernian",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Rangers 1 - 2 Hibernian",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "ST Johnstone": "4",
-          "Hibernian": "3"
-        },
-        "shots_off_target": {
-          "ST Johnstone": "4",
-          "Hibernian": "5"
-        },
-        "shots_blocked": {
-          "ST Johnstone": "1",
-          "Hibernian": "6"
-        },
-        "corners": {
-          "ST Johnstone": "2",
-          "Hibernian": "7"
-        },
-        "fouls": {
-          "ST Johnstone": "10",
-          "Hibernian": "13"
-        },
-        "offsides": {
-          "ST Johnstone": "1",
-          "Hibernian": "4"
-        },
-        "yellow_cards": {
-          "ST Johnstone": "1",
-          "Hibernian": "0"
-        },
-        "goalkeeper_saves": {
-          "ST Johnstone": "2",
-          "Hibernian": "2"
-        },
-        "crosses": {
-          "ST Johnstone": "3",
-          "Hibernian": "6"
-        },
-        "ball_possession": {
-          "ST Johnstone": "46%",
-          "Hibernian": "54%"
-        }
-      },
-      "description": "Watch ST Johnstone vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The Scottish Premiership action continued on September 6, 2026 , as St. Johnstone hosted Hibernian in a highly anticipated encounter. Both sides looked to assert their dominance early in a match that promised intensity from the first whistle at the heart of the campaign. A Clinical First-Half Blitz St. Johnstone wasted little time establishing control, finding the breakthrough in the 17th minute when Josh Fowler found the back of the net. Hibernian faced an early tactical setback when Jamie Gullan was forced off just five minutes later, replaced by Kai Fotheringham . The momentum stayed firmly with the hosts, and in the 29th minute, Nathan Lowe clinicaly finished a chance created by Miguel Chaiwa to double the advantage. The pressure mounted as the first half drew to a close. Despite a yellow card for Taylor Steven , the home side remained relentless. In the 41st minute, Josh Fowler stepped up to the penalty spot and coolly converted his second goal of the match. By the time the referee blew for half-time after four minutes of stoppage time, the hosts had firmly established their authority on the proceedings. Tactical Adjustments and Game Management The second half saw Hibernian attempt a comeback with the introduction of Ante Suto for Martin Boyle immediately after the restart. However, the St. Johnstone defense held firm, frustrating the visitors' attempts to find a way back into the game. A flurry of substitutions followed around the hour mark, with Thibault Klidje , Callum Wright , and Kanayochukwu Megwa all introduced for the visitors to inject fresh energy. As the clock ticked down, St. Johnstone managed their lead with composure. A series of changes in the 72nd minute saw Danny Schmidt , Macaulay Tait , and Matty Todd enter the pitch, with the latter replacing the standout performer Josh Fowler . Despite Hibernian 's late efforts and the introduction of Nicky Cadden , the result was never in doubt. The final whistle blew at 90+4 minutes, sealing a comprehensive performance from the home side."
     }
   ],
   "hasMore": true,
   "currentCount": 50,
-  "totalCount": 1362,
+  "totalCount": 1368,
   "currentPage": 2,
   "lastPage": 28
 }
