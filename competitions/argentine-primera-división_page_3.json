@@ -2,90 +2,306 @@
   "competition": "Argentine Primera División",
   "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
   "total_matches": 105,
-  "Last update time": "11:10:06 PM 12-09-2026",
+  "Last update time": "11:30:06 PM 12-09-2026",
   "matches": [
     {
-      "title": "Huracán - Estudiantes de Río Cuarto",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/huracan-estudiantes-de-rio-cuarto-2026-08-30-T37t.webp",
+      "title": "Newell's Old Boys - Banfield",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/newells-old-boys-banfield-2026-08-23-OTz7.webp",
       "competition": "Argentine Primera División",
       "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Aug 30, 2026",
+      "date": "Aug 23, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/2424.webp",
-          "name": "Estudiantes de Rio Cuarto",
+          "logo": "https://img.refooty.com/logo/teams/449.webp",
+          "name": "Banfield",
           "score": "1"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/445.webp",
-          "name": "Huracan",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/457.webp",
+          "name": "Newells Old Boys",
+          "score": "2"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/huracan-estudiantes-de-rio-cuarto-2026-08-30.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/newells-old-boys-banfield-2026-08-23.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Huracan",
-          "player": "I. Pussetto",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
+          "team": "Banfield",
+          "player": "T. Adoryan",
+          "event_type": "Yellow Card"
         },
         {
           "time": "16'",
-          "team": "Estudiantes de Rio Cuarto",
-          "player": "I. Hesar",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
+          "team": "Newells Old Boys",
+          "player": "J. G. Mattar",
+          "event_type": "Yellow Card"
         },
         {
-          "time": "31'",
-          "team": "Estudiantes de Rio Cuarto",
-          "player": "Rodriguez",
+          "time": "50'",
+          "team": "Banfield",
+          "player": "F. Álvarez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "51'",
+          "team": "Newells Old Boys",
+          "player": "M. Coccaro",
+          "event_type": "Goal",
+          "assist": "W. Mazzantti",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "70'",
+          "team": "Banfield",
+          "player": "F. Medina",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "77'",
+          "team": "Newells Old Boys",
+          "player": "M. Coccaro",
+          "event_type": "Goal",
+          "assist": "F. Guch",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "90+8'",
+          "team": "Banfield",
+          "player": "B. Sepulveda",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Newells Old Boys_wins": "2",
+          "draws": "3",
+          "Banfield_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "21/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Banfield 3 - 0 Newell's Old Boys"
+          },
+          {
+            "date": "20/07/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Newell's Old Boys 1 - 2 Banfield"
+          },
+          {
+            "date": "27/01/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Banfield 3 - 0 Newell's Old Boys"
+          },
+          {
+            "date": "04/06/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Banfield 2 - 0 Newell's Old Boys"
+          },
+          {
+            "date": "19/02/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Newell's Old Boys 2 - 0 Banfield"
+          },
+          {
+            "date": "04/06/2022",
+            "competition": "Primera Division 2022",
+            "teams_and_score": "Banfield 1 - 2 Newell's Old Boys"
+          },
+          {
+            "date": "20/04/2022",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Newell's Old Boys 1 - 0 Banfield"
+          }
+        ],
+        "home_team_form": {
+          "team": "Newells Old Boys",
+          "form": [
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Newell's Old Boys 2 - 1 Banfield",
+              "result": "L"
+            },
+            {
+              "date": "04/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Velez Sarsfield 1 - 1 Newell's Old Boys",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Banfield",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Newell's Old Boys 2 - 1 Banfield",
+              "result": "L"
+            },
+            {
+              "date": "19/08/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Banfield 2 - 2 CA Ferrocarril Midland",
+              "result": "D"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Racing Club 0 - 1 Banfield",
+              "result": "W"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Banfield 1 - 1 San Martin de Tucuman",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Barracas Central 1 - 2 Banfield",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Newells Old Boys": "6",
+          "Banfield": "6"
+        },
+        "shots_off_target": {
+          "Newells Old Boys": "6",
+          "Banfield": "4"
+        },
+        "shots_blocked": {
+          "Newells Old Boys": "2",
+          "Banfield": "3"
+        },
+        "corners": {
+          "Newells Old Boys": "3",
+          "Banfield": "3"
+        },
+        "fouls": {
+          "Newells Old Boys": "12",
+          "Banfield": "15"
+        },
+        "offsides": {
+          "Newells Old Boys": "0",
+          "Banfield": "2"
+        },
+        "yellow_cards": {
+          "Newells Old Boys": "1",
+          "Banfield": "3"
+        },
+        "goalkeeper_saves": {
+          "Newells Old Boys": "5",
+          "Banfield": "4"
+        },
+        "ball_possession": {
+          "Newells Old Boys": "53%",
+          "Banfield": "47%"
+        }
+      },
+      "description": "Watch Newells Old Boys vs Banfield highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 23, 2026. Anticipation was high for this Liga Profesional Argentina clash on August 23, 2026, as both sides looked to make their mark in a hard-fought contest. The atmosphere at the stadium set the stage for what promised to be a grueling battle for points. The Coccaro Factor The first half was defined by physical intensity and early bookings for Tomas Adoryan , Jeronimo Gomez Mattar , and Favio Alvarez . However, the game transformed completely in the second half following the introduction of Matias Coccaro . Just six minutes after the restart, Coccaro latched onto a setup from Walter Mazzantti to break the deadlock and ignite the home crowd. With the momentum firmly in their favor, the Newell's Old Boys continued to press. The dominance was rewarded in the 77th minute when Facundo Samuel Guch provided a clinical assist for Matias Coccaro , who coolly tucked away his second goal of the evening. This 2-0 lead appeared to secure the points, but Banfield refused to go down without a final push. A Dramatic Finish The closing stages provided a surge of late drama when a penalty was awarded to Banfield in stoppage time. Bruno Sepulveda stepped up to the spot and converted with precision in the 90+8th minute, narrowing the deficit. The late goal brought nervous energy to the final moments, but Newell's held firm to preserve the victory as the final whistle blew shortly after."
+    },
+    {
+      "title": "Huracan - Deportivo Riestra",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/huracan-deportivo-riestra-2026-08-23-O0NG.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 23, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/476.webp",
+          "name": "Deportivo Riestra",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/445.webp",
+          "name": "Huracan",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/huracan-deportivo-riestra-2026-08-23.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Deportivo Riestra",
+          "player": "F. Miño",
           "event_type": "Yellow Card"
         },
         {
           "time": "46'",
-          "team": "Huracan",
-          "player": "C. Ibanez",
+          "team": "Deportivo Riestra",
+          "player": "M. Bracamonte",
           "event_type": "Yellow Card"
         },
         {
-          "time": "52'",
-          "team": "Estudiantes de Rio Cuarto",
-          "player": "M. Valiente",
+          "time": "61'",
+          "team": "Deportivo Riestra",
+          "player": "Y. Goitía",
           "event_type": "Yellow Card"
         },
         {
-          "time": "58'",
-          "team": "Huracan",
-          "player": "F. Waller",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Estudiantes de Rio Cuarto",
-          "player": "I. Hesar",
+          "time": "61'",
+          "team": "Deportivo Riestra",
+          "player": "I. Gariglio",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Huracan_wins": "0",
-          "draws": "0",
-          "Estudiantes de Rio Cuarto_wins": "1"
+          "Huracan_wins": "1",
+          "draws": "2",
+          "Deportivo Riestra_wins": "1"
         },
         "previous_matches": [
           {
-            "date": "26/02/2026",
+            "date": "21/02/2026",
             "competition": "Primera Division: Apertura",
-            "teams_and_score": "Estudiantes de Rio Cuarto 2 - 0 CA Huracan"
+            "teams_and_score": "Deportivo Riestra 0 - 0 CA Huracan"
+          },
+          {
+            "date": "11/05/2025",
+            "competition": "Primera Division: Apertura Playoff",
+            "teams_and_score": "CA Huracan 3 - 2 Deportivo Riestra"
+          },
+          {
+            "date": "13/09/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Deportivo Riestra 1 - 0 CA Huracan"
+          },
+          {
+            "date": "08/04/2024",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Deportivo Riestra 0 - 0 CA Huracan"
           }
         ],
         "home_team_form": {
@@ -93,13 +309,14 @@
           "form": [
             "D",
             "L",
-            "L"
+            "L",
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "29/08/2026",
+              "date": "23/08/2026",
               "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "CA Huracan 1 - 1 Estudiantes de Rio Cuarto",
+              "teams_and_score": "CA Huracan 0 - 0 Deportivo Riestra",
               "result": "D"
             },
             {
@@ -113,404 +330,16 @@
               "competition": "Liga Profesional: Clausura Playoff",
               "teams_and_score": "Argentinos Juniors 1 - 0 CA Huracan",
               "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Estudiantes de Rio Cuarto",
-          "form": [
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "CA Huracan 1 - 1 Estudiantes de Rio Cuarto",
-              "result": "D"
             },
             {
-              "date": "05/05/2026",
+              "date": "03/05/2026",
               "competition": "Primera Division: Apertura",
-              "teams_and_score": "Estudiantes de Rio Cuarto 0 - 2 Instituto Cordoba",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Huracan": "2",
-          "Estudiantes de Rio Cuarto": "1"
-        },
-        "shots_off_target": {
-          "Huracan": "7",
-          "Estudiantes de Rio Cuarto": "3"
-        },
-        "shots_blocked": {
-          "Huracan": "9",
-          "Estudiantes de Rio Cuarto": "1"
-        },
-        "corners": {
-          "Huracan": "8",
-          "Estudiantes de Rio Cuarto": "2"
-        },
-        "fouls": {
-          "Huracan": "12",
-          "Estudiantes de Rio Cuarto": "17"
-        },
-        "offsides": {
-          "Huracan": "2",
-          "Estudiantes de Rio Cuarto": "1"
-        },
-        "yellow_cards": {
-          "Huracan": "2",
-          "Estudiantes de Rio Cuarto": "4"
-        },
-        "goalkeeper_saves": {
-          "Huracan": "0",
-          "Estudiantes de Rio Cuarto": "1"
-        },
-        "ball_possession": {
-          "Huracan": "65%",
-          "Estudiantes de Rio Cuarto": "35%"
-        }
-      },
-      "description": "Watch Huracan vs Estudiantes de Rio Cuarto highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 30, 2026. A clash of nerves and precision On August 30, 2026 , the Liga Profesional Argentina stage hosted a fixture defined by intense pressure and physical determination between Huracán and Estudiantes de Río Cuarto . Both teams entered the match with high stakes, and the early developments saw the game swung by momentum-shifting decisions from the penalty spot. Penalties dictate the pace The match ignited instantly, with early offensive forays forcing crucial errors in the box. Just 3 minutes in, Ignacio Pussetto stepped up for Huracán and calmly dispatched a penalty to give the hosts an early lead. The response from Estudiantes de Río Cuarto was equally clinical; in the 18th minute, Ibrahim Hesar showed composure under pressure to convert his own penalty, squaring the match and setting the stage for a gritty struggle that would span the remainder of the evening. A physical battle of endurance As the match progressed, the physical nature of the game intensified, leading to a series of yellow cards for players including Fernando Rodriguez , Cesar Ibanez , Mauro Valiente , Facundo Waller , and Ibrahim Hesar . Both managers turned to their benches, introducing fresh legs like Francesco Lo Celso and Leonardo Gil to break the deadlock during the second half. Despite these efforts and persistent tactical maneuvers, neither side could find the decisive goal, eventually leaving the pitch with a hard-fought draw."
-    },
-    {
-      "title": "Rosario Central - Gimnasia La Plata",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/rosario-central-gimnasia-la-plata-2026-08-29-Fwxg.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Aug 29, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/434.webp",
-          "name": "Gimnasia LP",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/437.webp",
-          "name": "Rosario Central",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/rosario-central-gimnasia-la-plata-2026-08-29.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "32'",
-          "team": "Gimnasia LP",
-          "player": "I. Fernandez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+2'",
-          "team": "Rosario Central",
-          "player": "I. Ovando",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "59'",
-          "team": "Gimnasia LP",
-          "player": "J. Ledesma",
-          "event_type": "Goal"
-        },
-        {
-          "time": "77'",
-          "team": "Gimnasia LP",
-          "player": "I. Miramon",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "78'",
-          "team": "Rosario Central",
-          "player": "F. Navarro",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "85'",
-          "team": "Rosario Central",
-          "player": "J. Campaz",
-          "event_type": "Goal",
-          "assist": "T. Badaloni",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "88'",
-          "team": "Gimnasia LP",
-          "player": "I. Miramon",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "90+2'",
-          "team": "Gimnasia LP",
-          "player": "B. B. Schelotto",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Rosario Central_wins": "7",
-          "draws": "0",
-          "Gimnasia LP_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "25/02/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Gimnasia LP 1 - 2 Rosario Central"
-          },
-          {
-            "date": "27/09/2025",
-            "competition": "Primera Division: Clausura",
-            "teams_and_score": "Gimnasia LP 0 - 3 Rosario Central"
-          },
-          {
-            "date": "15/03/2025",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Rosario Central 2 - 1 Gimnasia LP"
-          },
-          {
-            "date": "05/08/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "Gimnasia LP 0 - 1 Rosario Central"
-          },
-          {
-            "date": "18/02/2024",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Rosario Central 2 - 1 Gimnasia LP"
-          },
-          {
-            "date": "23/09/2023",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Gimnasia LP 2 - 1 Rosario Central"
-          },
-          {
-            "date": "31/03/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Rosario Central 3 - 1 Gimnasia LP"
-          }
-        ],
-        "home_team_form": {
-          "team": "Rosario Central",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Rosario Central 1 - 2 Gimnasia LP",
-              "result": "L"
-            },
-            {
-              "date": "21/08/2026",
-              "competition": "Round of 16",
-              "teams_and_score": "Corinthians 1 - 0 Rosario Central",
-              "result": "L"
-            },
-            {
-              "date": "17/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Barracas Central 0 - 1 Rosario Central",
-              "result": "W"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Round of 16",
-              "teams_and_score": "Rosario Central 0 - 0 Corinthians",
+              "teams_and_score": "Racing Club 0 - 0 CA Huracan",
               "result": "D"
-            },
-            {
-              "date": "07/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Rosario Central 2 - 1 Aldosivi",
-              "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "Gimnasia LP",
-          "form": [
-            "W",
-            "D",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "29/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Rosario Central 1 - 2 Gimnasia LP",
-              "result": "W"
-            },
-            {
-              "date": "18/08/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Deportivo Riestra 1 - 1 Gimnasia LP",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Estudiantes de la Plata 4 - 0 Gimnasia LP",
-              "result": "L"
-            },
-            {
-              "date": "07/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Dynamo-Makhachkala 1 - 3 Gimnasia LP",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Rosario Central": "7",
-          "Gimnasia LP": "3"
-        },
-        "shots_off_target": {
-          "Rosario Central": "5",
-          "Gimnasia LP": "5"
-        },
-        "shots_blocked": {
-          "Rosario Central": "2",
-          "Gimnasia LP": "3"
-        },
-        "corners": {
-          "Rosario Central": "11",
-          "Gimnasia LP": "3"
-        },
-        "fouls": {
-          "Rosario Central": "13",
-          "Gimnasia LP": "12"
-        },
-        "offsides": {
-          "Rosario Central": "4",
-          "Gimnasia LP": "0"
-        },
-        "yellow_cards": {
-          "Rosario Central": "2",
-          "Gimnasia LP": "3"
-        },
-        "goalkeeper_saves": {
-          "Rosario Central": "2",
-          "Gimnasia LP": "6"
-        },
-        "ball_possession": {
-          "Rosario Central": "68%",
-          "Gimnasia LP": "32%"
-        }
-      },
-      "description": "Watch Rosario Central vs Gimnasia LP highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 29, 2026. High Stakes in Rosario On August 29, 2026, the Liga Profesional Argentina brought us a compelling match between Rosario Central and Gimnasia La Plata . Both teams entered the contest with high ambitions, looking to dictate the pace of the game in an atmosphere charged with expectations. Breaking the Deadlock The first half was defined by tactical discipline and physical battles, resulting in several yellow cards as the referee looked to keep a handle on proceedings. The deadlock was finally shattered in the 59th minute through a moment of misfortune, as Jeremias Ledesma inadvertently turned the ball into his own net, gifting Gimnasia La Plata the lead and changing the complexion of the match entirely. Late Drama at the Death As the clock ticked down, the match erupted into life. In the 85th minute, Jaminton Campaz found the equalizer for the hosts following a brilliant assist from Tomas Badaloni , sparking hope for a comeback. However, the joy was short-lived; Ignacio Miramon reclaimed the lead for Gimnasia La Plata just three minutes later. Despite a late yellow card for Bautista Barros Schelotto and frantic attempts from Rosario Central to find a second equalizer, the visitors held firm to secure a dramatic victory."
-    },
-    {
-      "title": "Deportivo Riestra - Vélez Sarsfield",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-riestra-velez-sarsfield-2026-08-29-NVfA.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Aug 29, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/438.webp",
-          "name": "Velez Sarsfield",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/476.webp",
-          "name": "Deportivo Riestra",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/deportivo-riestra-velez-sarsfield-2026-08-29.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Deportivo Riestra",
-          "player": "F. Miño",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Velez Sarsfield",
-          "player": "L. Robertone",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Deportivo Riestra",
-          "player": "T. Gonzalez",
-          "event_type": "Goal",
-          "assist": "M. Bracamonte",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Deportivo Riestra",
-          "player": "N. Benegas",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Velez Sarsfield",
-          "player": "M. Pellegrini",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Deportivo Riestra_wins": "1",
-          "draws": "3",
-          "Velez Sarsfield_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "25/02/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Velez Sarsfield 0 - 0 Deportivo Riestra"
-          },
-          {
-            "date": "06/10/2025",
-            "competition": "Primera Division: Clausura",
-            "teams_and_score": "Deportivo Riestra 2 - 2 Velez Sarsfield"
-          },
-          {
-            "date": "29/03/2025",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Velez Sarsfield 0 - 1 Deportivo Riestra"
-          },
-          {
-            "date": "11/11/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "Deportivo Riestra 1 - 1 Velez Sarsfield"
-          },
-          {
-            "date": "15/02/2024",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Deportivo Riestra 1 - 2 Velez Sarsfield"
-          }
-        ],
-        "home_team_form": {
           "team": "Deportivo Riestra",
           "form": [
             "D",
@@ -521,9 +350,9 @@
           ],
           "recent_matches": [
             {
-              "date": "29/08/2026",
+              "date": "23/08/2026",
               "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Deportivo Riestra 1 - 1 Velez Sarsfield",
+              "teams_and_score": "CA Huracan 0 - 0 Deportivo Riestra",
               "result": "D"
             },
             {
@@ -551,10 +380,184 @@
               "result": "D"
             }
           ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Huracan": "4",
+          "Deportivo Riestra": "2"
+        },
+        "shots_off_target": {
+          "Huracan": "5",
+          "Deportivo Riestra": "6"
+        },
+        "shots_blocked": {
+          "Huracan": "3",
+          "Deportivo Riestra": "5"
+        },
+        "corners": {
+          "Huracan": "3",
+          "Deportivo Riestra": "4"
+        },
+        "fouls": {
+          "Huracan": "9",
+          "Deportivo Riestra": "21"
+        },
+        "offsides": {
+          "Huracan": "0",
+          "Deportivo Riestra": "4"
+        },
+        "yellow_cards": {
+          "Huracan": "0",
+          "Deportivo Riestra": "4"
+        },
+        "goalkeeper_saves": {
+          "Huracan": "3",
+          "Deportivo Riestra": "4"
+        },
+        "ball_possession": {
+          "Huracan": "70%",
+          "Deportivo Riestra": "30%"
+        }
+      },
+      "description": "Watch Huracan vs Deportivo Riestra highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 23, 2026. In a match defined by physical intensity and disciplined tactical setups, Huracán and Deportivo Riestra locked horns in a grueling contest. Played on August 23, 2026, the game demanded unwavering focus from both sides as they vied for control in the Liga Profesional Argentina . A Battle of Attrition From the opening whistle, it was clear that neither side would concede space easily. The first half was a cagey affair, with both teams probing for openings but finding the opposing backlines resolute. The referee was forced to intervene early to control the intensity, with Facundo Mino picking up a yellow card in the 28th minute, setting a precedent for a scrappy and competitive encounter. Tactical Adjustments and Late Efforts Following the halftime interval, the match flow saw several shifts as managers turned to their benches. Mariano Bracamonte was cautioned in the 60th minute, shortly before a flurry of substitutions aimed at injecting fresh energy into the match. As the game entered its closing stages, the tension grew, leading to yellow cards for Ignacio Gariglio and Jonatan Goitia in the 76th minute. Despite the introduction of players like Pablo Monje and Alexander Diaz to provide a late attacking spark, neither team could unlock the defense. When the referee finally signaled for full time, the scoreboard remained untouched, reflecting a day where both defenses stood tall."
+    },
+    {
+      "title": "Independiente - Independiente Rivadavia",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/independiente-independiente-rivadavia-2026-08-22-0jfB.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 22, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/22938.webp",
+          "name": "Independiente Rivadavia",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/453.webp",
+          "name": "Independiente",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/independiente-independiente-rivadavia-2026-08-22.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "58'",
+          "team": "Independiente",
+          "player": "S. Arias",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "62'",
+          "team": "Independiente Rivadavia",
+          "player": "E. A. Bonifacio",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "78'",
+          "team": "Independiente Rivadavia",
+          "player": "A. Vigo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "81'",
+          "team": "Independiente Rivadavia",
+          "player": "J. M. Elordi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Independiente",
+          "player": "M. Abaldo",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Independiente_wins": "4",
+          "draws": "0",
+          "Independiente Rivadavia_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "21/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Independiente Rivadavia 3 - 2 Independiente"
+          },
+          {
+            "date": "11/05/2025",
+            "competition": "Primera Division: Apertura Playoff",
+            "teams_and_score": "Independiente 1 - 0 Independiente Rivadavia"
+          },
+          {
+            "date": "27/07/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Independiente Rivadavia 1 - 0 Independiente"
+          },
+          {
+            "date": "27/01/2024",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Independiente Rivadavia 0 - 1 Independiente"
+          },
+          {
+            "date": "03/03/2014",
+            "competition": "Primera B Nacional",
+            "teams_and_score": "Independiente Rivadavia 2 - 1 Independiente"
+          }
+        ],
+        "home_team_form": {
+          "team": "Independiente",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Independiente 0 - 0 Independiente Rivadavia",
+              "result": "D"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Atletico Tucuman 4 - 0 Independiente",
+              "result": "L"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Independiente 0 - 1 Club Atletico Platense",
+              "result": "L"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Union 0 - 2 Independiente",
+              "result": "W"
+            },
+            {
+              "date": "10/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Rosario Central 3 - 1 Independiente",
+              "result": "L"
+            }
+          ]
         },
         "away_team_form": {
-          "team": "Velez Sarsfield",
+          "team": "Independiente Rivadavia",
           "form": [
+            "D",
             "D",
             "L",
             "D",
@@ -562,27 +565,33 @@
           ],
           "recent_matches": [
             {
-              "date": "29/08/2026",
+              "date": "22/08/2026",
               "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Deportivo Riestra 1 - 1 Velez Sarsfield",
+              "teams_and_score": "Independiente 0 - 0 Independiente Rivadavia",
               "result": "D"
             },
             {
-              "date": "11/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "Velez Sarsfield 0 - 1 Gimnasia LP",
+              "date": "18/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "Independiente Rivadavia 1 - 1 Fluminense",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Belgrano 2 - 0 Independiente Rivadavia",
               "result": "L"
             },
             {
-              "date": "04/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Velez Sarsfield 1 - 1 Newell's Old Boys",
+              "date": "11/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "Fluminense 0 - 0 Independiente Rivadavia",
               "result": "D"
             },
             {
-              "date": "01/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Velez Sarsfield 2 - 0 Gimnasia y Tiro",
+              "date": "08/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Independiente Rivadavia 2 - 1 Estudiantes de Rio Cuarto",
               "result": "W"
             }
           ]
@@ -590,276 +599,270 @@
       },
       "statistics": {
         "shots_on_target": {
-          "Deportivo Riestra": "3",
-          "Velez Sarsfield": "5"
+          "Independiente": "3",
+          "Independiente Rivadavia": "4"
         },
         "shots_off_target": {
-          "Deportivo Riestra": "3",
-          "Velez Sarsfield": "4"
+          "Independiente": "6",
+          "Independiente Rivadavia": "4"
         },
         "shots_blocked": {
-          "Deportivo Riestra": "1",
-          "Velez Sarsfield": "4"
+          "Independiente": "2",
+          "Independiente Rivadavia": "2"
         },
         "corners": {
-          "Deportivo Riestra": "2",
-          "Velez Sarsfield": "6"
+          "Independiente": "11",
+          "Independiente Rivadavia": "3"
         },
         "fouls": {
-          "Deportivo Riestra": "14",
-          "Velez Sarsfield": "9"
+          "Independiente": "8",
+          "Independiente Rivadavia": "12"
         },
         "offsides": {
-          "Deportivo Riestra": "6",
-          "Velez Sarsfield": "1"
+          "Independiente": "2",
+          "Independiente Rivadavia": "2"
         },
         "yellow_cards": {
-          "Deportivo Riestra": "2",
-          "Velez Sarsfield": "1"
+          "Independiente": "2",
+          "Independiente Rivadavia": "3"
         },
         "goalkeeper_saves": {
-          "Deportivo Riestra": "5",
-          "Velez Sarsfield": "2"
+          "Independiente": "3",
+          "Independiente Rivadavia": "3"
         },
         "ball_possession": {
-          "Deportivo Riestra": "24%",
-          "Velez Sarsfield": "76%"
+          "Independiente": "61%",
+          "Independiente Rivadavia": "39%"
         }
       },
-      "description": "Watch Deportivo Riestra vs Velez Sarsfield highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The Liga Profesional Argentina atmosphere was electric as Deportivo Riestra hosted Vélez Sarsfield on August 29, 2026 . Both sides entered the pitch with everything to prove in a match that promised high-intensity football from the opening whistle. A First Half of Tactical Discipline The opening 45 minutes were defined by defensive solidity and physical play rather than clinical finishing. Both teams struggled to find space in the final third, leading to a series of tactical fouls. Facundo Mino was the first to enter the referee's book in the 31st minute, followed shortly by Vélez midfielder Lucas Robertone in the 37th minute. Despite some half-chances and energetic pressing, the teams headed into the locker rooms at halftime with the deadlock unbroken. Second Half Breakthrough and Drama The dynamic changed immediately after the restart. Deportivo Riestra made a decisive move, bringing on Tomas Gonzalez for Antony Alonso . The tactical shift paid off almost instantly. In the 54th minute, Mariano Bracamonte delivered a precise ball into the path of Tomas Gonzalez , who kept his composure to fire his side into the lead. The goal forced Vélez Sarsfield to increase their tempo, leading to a more open and frantic phase of play. As the game progressed, tensions rose, resulting in a yellow card for Nicolas Benegas in the 67th minute. Both managers turned to their benches to freshen up their lineups, with Thiago Aguirre , Luca Feler , and Pablo Monje all entering the fray. The pressure from the visitors finally told in the 76th minute when Matias Pellegrini found the back of the net with a clinical finish to alter the momentum of the game. The final stages were a blur of substitutions and tactical maneuvering, including the late introduction of Lautaro Piola , as both teams fought until the 96th minute to secure their position in the standings."
+      "description": "Watch Independiente vs Independiente Rivadavia highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 22, 2026. A Hard-Fought Affair in the Liga Profesional On August 22, 2026, the Liga Profesional Argentina hosted a gritty encounter between Independiente and Independiente Rivadavia . Fans at the stadium witnessed a match defined by tactical attrition and a battle for midfield control that persisted from the opening whistle. The Rising Physicality The intensity remained palpable as the match transitioned into the second half. The referee was kept busy with a series of disciplinary actions that reflected the high stakes. Santiago Arias was the first to be booked in the 58th minute, with Ezequiel Bonifacio following suit just four minutes later. The physical nature of the contest continued to mount as the defensive lines tightened, making every possession a hard-earned victory. Late Tactical Shifts As the clock ticked down, both managers utilized their benches to inject energy into the fray. Tactical substitutions, including the introduction of Maximiliano Meza and Luciano Cabral , highlighted the desperation for a late breakthrough. Discipline remained a focal point deep into stoppage time, with Alex Vigo , Juan Elordi , and finally Matias Abaldo picking up cautions as the referee signaled the end of a long, physically demanding night of football."
     },
     {
-      "title": "Boca Juniors - Lanus",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/boca-juniors-lanus-2026-08-29-EFnT.webp",
+      "title": "Atlético Tucumán - Instituto",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/atletico-tucuman-instituto-2026-08-22-ZrzU.webp",
       "competition": "Argentine Primera División",
       "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Aug 29, 2026",
+      "date": "Aug 22, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/446.webp",
-          "name": "Lanus",
+          "logo": "https://img.refooty.com/logo/teams/478.webp",
+          "name": "Instituto Cordoba",
           "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/451.webp",
-          "name": "Boca Juniors",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/455.webp",
+          "name": "Atletico Tucuman",
+          "score": "0"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/boca-juniors-lanus-2026-08-29.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/atletico-tucuman-instituto-2026-08-22.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Boca Juniors",
-          "player": "L. Flores",
+          "team": "Atletico Tucuman",
+          "player": "L. D. Placido",
           "event_type": "Yellow Card"
         },
         {
           "time": "16'",
-          "team": "Lanus",
-          "player": "C. Izquierdoz",
+          "team": "Atletico Tucuman",
+          "player": "N. Lamendola",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Instituto Cordoba",
+          "player": "M. Gallardo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Atletico Tucuman",
+          "player": "C. L. Vega",
           "event_type": "Yellow Card"
         },
         {
           "time": "76'",
-          "team": "Boca Juniors",
-          "player": "M. Delgado",
+          "team": "Instituto Cordoba",
+          "player": "I. Mendez",
           "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Boca Juniors",
-          "player": "T. Belmonte",
-          "event_type": "Goal",
-          "assist": "S. Ascacibar",
-          "score_update": "1 - 0"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Boca Juniors_wins": "4",
-          "draws": "4",
-          "Lanus_wins": "2"
+          "Atletico Tucuman_wins": "2",
+          "draws": "2",
+          "Instituto Cordoba_wins": "4"
         },
         "previous_matches": [
           {
-            "date": "05/03/2026",
+            "date": "20/02/2026",
             "competition": "Primera Division: Apertura",
-            "teams_and_score": "Lanus 0 - 3 Boca Juniors"
+            "teams_and_score": "Instituto Cordoba 2 - 1 Atletico Tucuman"
           },
           {
-            "date": "11/05/2025",
-            "competition": "Primera Division: Apertura Playoff",
-            "teams_and_score": "Boca Juniors 0 - 0 Lanus"
+            "date": "12/10/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Instituto Cordoba 2 - 0 Atletico Tucuman"
           },
           {
-            "date": "03/11/2024",
+            "date": "08/04/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Atletico Tucuman 3 - 2 Instituto Cordoba"
+          },
+          {
+            "date": "26/07/2024",
             "competition": "Primera Division 2024",
-            "teams_and_score": "Lanus 1 - 0 Boca Juniors"
+            "teams_and_score": "Atletico Tucuman 1 - 0 Instituto Cordoba"
           },
           {
-            "date": "19/02/2024",
+            "date": "30/01/2024",
             "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Lanus 2 - 1 Boca Juniors"
+            "teams_and_score": "Instituto Cordoba 3 - 0 Atletico Tucuman"
           },
           {
-            "date": "23/09/2023",
+            "date": "29/08/2023",
             "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Boca Juniors 1 - 1 Lanus"
+            "teams_and_score": "Atletico Tucuman 0 - 0 Instituto Cordoba"
           },
           {
-            "date": "10/06/2023",
+            "date": "11/03/2023",
             "competition": "Primera Division 2023",
-            "teams_and_score": "Boca Juniors 1 - 1 Lanus"
-          },
-          {
-            "date": "15/09/2022",
-            "competition": "Primera Division 2022",
-            "teams_and_score": "Lanus 0 - 1 Boca Juniors"
+            "teams_and_score": "Instituto Cordoba 1 - 1 Atletico Tucuman"
           }
         ],
         "home_team_form": {
-          "team": "Boca Juniors",
+          "team": "Atletico Tucuman",
           "form": [
-            "W",
-            "W",
             "D",
             "W",
-            "D"
+            "L",
+            "W",
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "29/08/2026",
+              "date": "22/08/2026",
               "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Boca Juniors 1 - 0 Lanus",
-              "result": "W"
-            },
-            {
-              "date": "18/08/2026",
-              "competition": "Round of 16",
-              "teams_and_score": "CD Recoleta 0 - 4 Boca Juniors",
-              "result": "W"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Club Atletico Platense 1 - 1 Boca Juniors",
+              "teams_and_score": "Atletico Tucuman 0 - 0 Instituto Cordoba",
               "result": "D"
             },
             {
-              "date": "11/08/2026",
-              "competition": "Round of 16",
-              "teams_and_score": "Boca Juniors 3 - 1 CD Recoleta",
+              "date": "12/08/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Atletico Tucuman 4 - 0 Independiente",
               "result": "W"
             },
             {
               "date": "08/08/2026",
               "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Boca Juniors 1 - 1 Velez Sarsfield",
-              "result": "D"
+              "teams_and_score": "Atletico Tucuman 1 - 2 Sarmiento",
+              "result": "L"
+            },
+            {
+              "date": "20/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
+              "result": "W"
+            },
+            {
+              "date": "03/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "River Plate 0 - 1 Atletico Tucuman",
+              "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "Lanus",
+          "team": "Instituto Cordoba",
           "form": [
-            "L",
-            "L",
+            "D",
             "W",
-            "W",
-            "L"
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "29/08/2026",
+              "date": "22/08/2026",
               "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Boca Juniors 1 - 0 Lanus",
-              "result": "L"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Knockout Round Playoffs",
-              "teams_and_score": "Cienciano 4 - 0 Lanus",
-              "result": "L"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Lanus 1 - 0 San Lorenzo de Almagro",
-              "result": "W"
-            },
-            {
-              "date": "23/07/2026",
-              "competition": "Knockout Round Playoffs",
-              "teams_and_score": "Lanus 2 - 0 Cienciano",
-              "result": "W"
+              "teams_and_score": "Atletico Tucuman 0 - 0 Instituto Cordoba",
+              "result": "D"
             },
             {
               "date": "30/05/2026",
               "competition": "Copa Argentina",
               "teams_and_score": "Instituto Cordoba 2 - 1 Lanus",
-              "result": "L"
+              "result": "W"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Estudiantes de Rio Cuarto 0 - 2 Instituto Cordoba",
+              "result": "W"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Boca Juniors": "3",
-          "Lanus": "1"
+          "Atletico Tucuman": "3",
+          "Instituto Cordoba": "3"
         },
         "shots_off_target": {
-          "Boca Juniors": "7",
-          "Lanus": "5"
+          "Atletico Tucuman": "4",
+          "Instituto Cordoba": "3"
         },
         "shots_blocked": {
-          "Boca Juniors": "8",
-          "Lanus": "3"
+          "Atletico Tucuman": "5",
+          "Instituto Cordoba": "2"
         },
         "corners": {
-          "Boca Juniors": "11",
-          "Lanus": "3"
+          "Atletico Tucuman": "9",
+          "Instituto Cordoba": "2"
         },
         "fouls": {
-          "Boca Juniors": "6",
-          "Lanus": "14"
+          "Atletico Tucuman": "8",
+          "Instituto Cordoba": "3"
+        },
+        "offsides": {
+          "Atletico Tucuman": "1",
+          "Instituto Cordoba": "1"
         },
         "yellow_cards": {
-          "Boca Juniors": "2",
-          "Lanus": "1"
+          "Atletico Tucuman": "3",
+          "Instituto Cordoba": "2"
         },
         "goalkeeper_saves": {
-          "Boca Juniors": "1",
-          "Lanus": "2"
+          "Atletico Tucuman": "3",
+          "Instituto Cordoba": "3"
         },
         "ball_possession": {
-          "Boca Juniors": "59%",
-          "Lanus": "41%"
+          "Atletico Tucuman": "45%",
+          "Instituto Cordoba": "55%"
         }
       },
-      "description": "Watch Boca Juniors vs Lanus highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The clash between Boca Juniors and Lanus in the Liga Profesional Argentina promised to be a tight tactical affair, with both sides desperate to claim dominance in a physical encounter. A Gritty Battle of Attrition On August 29, 2026 , the atmosphere was electric as the match kicked off with high intensity. The early stages were defined by strong defensive lines and tactical fouls, as both teams struggled to find a rhythm. Leonel Flores was the first to enter the referee's book with a yellow card in the 13th minute. As the first half drew to a close, the tension remained high, and Carlos Izquierdoz also received a caution in the 44th minute, reflecting the uncompromising nature of the duel as both teams headed into the break level. Tactical Shuffles and Rising Tension Both managers looked to their benches to break the deadlock in the second half. Boca Juniors introduced the experienced Leandro Paredes and the clinical Enner Valencia just after the hour mark to inject new energy into their play. Lanus responded with their own changes, bringing on fresh legs in midfield and attack. The physical battle continued, leading to a yellow card for Milton Delgado in the 76th minute. Shortly after, Delgado made way for Tomas Belmonte , a substitution that would prove to be the turning point of the entire match. Stoppage Time Drama As the game entered the final minutes of added time, it appeared that the points would be shared in a hard-fought draw. However, in the 93rd minute, the deadlock was finally broken. Santiago Ascacibar provided a pinpoint assist to find Tomas Belmonte , who kept his composure to slot the ball home. The late strike sent the home fans into a frenzy. Despite a few final attempts from Lanus to respond, the referee blew the whistle at the 96th minute, confirming a dramatic victory for Boca Juniors in the dying moments of the game."
+      "description": "Watch Atletico Tucuman vs Instituto Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The match between Atlético Tucumán and Instituto Cordoba in the Liga Profesional Argentina tested the resilience of both squads in a high-stakes encounter. A Battle of Will and Temperament On August 22, 2026, the atmosphere was electric as both teams vied for dominance. The physical nature of the contest became clear early on, with Leonel Di Placido picking up a yellow card within the first ten minutes. The referee remained busy throughout, also cautioning Nicolas Lamendola as the game grew increasingly fractious during the opening half. The Turning Point As the second half progressed, the pressure to secure a result led to heightened aggression. After bookings for Matias Gallardo and Leonel Vega , the game reached a boiling point in the 77th minute when Nicolas Lamendola was shown a straight red card. The dismissal sparked heavy protests, leaving his teammates to navigate the closing stages with ten men. Despite a flurry of substitutions from both sides, including the introduction of Ignacio Mendez and Pedro Canelo , neither team could find the decisive breakthrough before the referee signaled the end of the match."
     },
     {
-      "title": "Unión - Sarmiento",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/union-sarmiento-2026-08-29-oqtZ.webp",
+      "title": "Gimnasia La Plata - Gimnasia y Esgrima",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/gimnasia-la-plata-gimnasia-y-esgrima-2026-08-22-b7Pm.webp",
       "competition": "Argentine Primera División",
       "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Aug 29, 2026",
+      "date": "Aug 22, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/474.webp",
-          "name": "Sarmiento Junin",
+          "logo": "https://img.refooty.com/logo/teams/1066.webp",
+          "name": "Gimnasia y Esgrima",
           "score": "3"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/441.webp",
-          "name": "Union Santa Fe",
+          "logo": "https://img.refooty.com/logo/teams/434.webp",
+          "name": "Gimnasia LP",
           "score": "2"
         },
         "status": "FT"
@@ -867,13 +870,13 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/union-sarmiento-2026-08-29.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/gimnasia-la-plata-gimnasia-y-esgrima-2026-08-22.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Sarmiento Junin",
+          "team": "Gimnasia y Esgrima",
           "player": "A. Modica",
           "event_type": "Goal",
           "assist": "T. O'Connor",
@@ -881,14 +884,14 @@
         },
         {
           "time": "16'",
-          "team": "Sarmiento Junin",
+          "team": "Gimnasia y Esgrima",
           "player": "A. Modica",
           "event_type": "Goal",
           "score_update": "0 - 2"
         },
         {
           "time": "46'",
-          "team": "Union Santa Fe",
+          "team": "Gimnasia LP",
           "player": "A. Auzmendi",
           "event_type": "Goal",
           "assist": "B. B. Schelotto",
@@ -896,7 +899,7 @@
         },
         {
           "time": "62'",
-          "team": "Union Santa Fe",
+          "team": "Gimnasia LP",
           "player": "M. Zalazar",
           "event_type": "Goal",
           "assist": "L. Janson",
@@ -904,13 +907,13 @@
         },
         {
           "time": "70'",
-          "team": "Sarmiento Junin",
+          "team": "Gimnasia y Esgrima",
           "player": "F. Antonini",
           "event_type": "Yellow Card"
         },
         {
           "time": "76'",
-          "team": "Sarmiento Junin",
+          "team": "Gimnasia y Esgrima",
           "player": "A. Modica",
           "event_type": "Goal",
           "assist": "E. Fernandez",
@@ -918,22 +921,22 @@
         },
         {
           "time": "90+1'",
-          "team": "Sarmiento Junin",
+          "team": "Gimnasia y Esgrima",
           "player": "N. Barboza",
           "event_type": "Yellow Card"
         },
         {
           "time": "90+6'",
-          "team": "Sarmiento Junin",
+          "team": "Gimnasia y Esgrima",
           "player": "A. Modica",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Union Santa Fe_wins": "1",
+          "Gimnasia LP_wins": "1",
           "draws": "0",
-          "Sarmiento Junin_wins": "0"
+          "Gimnasia y Esgrima_wins": "0"
         },
         "previous_matches": [
           {
@@ -943,9 +946,9 @@
           }
         ],
         "home_team_form": {
-          "team": "Union Santa Fe",
+          "team": "Gimnasia LP",
           "form": [
-            "W",
+            "L",
             "D",
             "L",
             "W",
@@ -956,7 +959,7 @@
               "date": "22/08/2026",
               "competition": "Liga Profesional: Clausura",
               "teams_and_score": "Gimnasia LP 2 - 3 Gimnasia Mendoza",
-              "result": "W"
+              "result": "L"
             },
             {
               "date": "18/08/2026",
@@ -985,7 +988,7 @@
           ]
         },
         "away_team_form": {
-          "team": "Sarmiento Junin",
+          "team": "Gimnasia y Esgrima",
           "form": [
             "W",
             "L",
@@ -1015,43 +1018,43 @@
       },
       "statistics": {
         "shots_on_target": {
-          "Union Santa Fe": "5",
-          "Sarmiento Junin": "6"
+          "Gimnasia LP": "5",
+          "Gimnasia y Esgrima": "6"
         },
         "shots_off_target": {
-          "Union Santa Fe": "5",
-          "Sarmiento Junin": "6"
+          "Gimnasia LP": "5",
+          "Gimnasia y Esgrima": "6"
         },
         "shots_blocked": {
-          "Union Santa Fe": "4",
-          "Sarmiento Junin": "2"
+          "Gimnasia LP": "4",
+          "Gimnasia y Esgrima": "2"
         },
         "corners": {
-          "Union Santa Fe": "7",
-          "Sarmiento Junin": "1"
+          "Gimnasia LP": "7",
+          "Gimnasia y Esgrima": "1"
         },
         "fouls": {
-          "Union Santa Fe": "4",
-          "Sarmiento Junin": "24"
+          "Gimnasia LP": "4",
+          "Gimnasia y Esgrima": "24"
         },
         "offsides": {
-          "Union Santa Fe": "6",
-          "Sarmiento Junin": "1"
+          "Gimnasia LP": "6",
+          "Gimnasia y Esgrima": "1"
         },
         "yellow_cards": {
-          "Union Santa Fe": "0",
-          "Sarmiento Junin": "3"
+          "Gimnasia LP": "0",
+          "Gimnasia y Esgrima": "3"
         },
         "goalkeeper_saves": {
-          "Union Santa Fe": "3",
-          "Sarmiento Junin": "3"
+          "Gimnasia LP": "3",
+          "Gimnasia y Esgrima": "3"
         },
         "ball_possession": {
-          "Union Santa Fe": "57%",
-          "Sarmiento Junin": "43%"
+          "Gimnasia LP": "57%",
+          "Gimnasia y Esgrima": "43%"
         }
       },
-      "description": "Watch Union Santa Fe vs Sarmiento Junin highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 29, 2026. The Liga Profesional Argentina delivered a spectacle of high intensity and tactical shifts as Gimnasia LP hosted Sarmiento Junin . On the night of August 29, 2026, both sides displayed incredible resilience in a contest that kept the spectators guessing until the final whistle. Modica Ignites the First Half Sarmiento Junin started the match with aggressive intent, quickly identifying gaps in the Gimnasia LP backline. The star of the show, Agustin Modica , began his clinical display in the 17th minute. Latching onto a well-timed pass from Tomas O'Connor , the striker fired home to break the deadlock. The visitors maintained their momentum, and just before the interval, Agustin Modica struck again in the 39th minute. Capitalizing on a defensive lapse, he secured his second of the game, sending Sarmiento into the locker room with a commanding two-goal cushion. Gimnasia’s Dramatic Fightback Following the break, Gimnasia LP introduced Maximiliano Zalazar and Lucas Janson to spark a revival. The tactical shift paid dividends almost immediately. In the 46th minute, Agustin Auzmendi pulled one back after being set up by Bautista Barros Schelotto . The home side continued to pour forward, and their persistence was rewarded in the 62nd minute. Maximiliano Zalazar clinical finish, courtesy of an assist from Lucas Janson , brought the score level at 2-2, completing a stunning comeback that sent the home crowd into a frenzy. The Final Twist in La Plata With the match hanging in the balance, Agustin Modica stepped up once more to claim the spotlight. In the 76th minute, the forward completed his hat-trick after a decisive ball from Esteban Fernandez , restoring the lead for Sarmiento Junin . The closing stages were a battle of nerves, marked by yellow cards for Fermin Antonini , Nahuel Barboza , and Modica himself. Despite late pressure from the hosts, Sarmiento held firm through eight minutes of stoppage time to secure a memorable 3-2 victory away from home."
+      "description": "Watch Gimnasia LP vs Gimnasia y Esgrima highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 22, 2026. An intense battle under the lights On August 22, 2026, the stage was set for an electrifying clash in the Liga Profesional Argentina , as both sides took to the pitch eager to leave their mark. The atmosphere was charged with expectation, and the match quickly transformed into a test of resilience and offensive precision for both teams. The first half and the early statement The match kicked off at a frantic pace, and it did not take long for the deadlock to be broken. In the 17th minute, Agustin Modica took center stage, finding the back of the net courtesy of a precise assist from Tomas O'Connor . The visitors' momentum did not stop there; in the 39th minute, Agustin Modica doubled his tally, extending the lead and leaving the home side under heavy pressure. The half-time whistle blew with the visitors comfortably in control of the proceedings. Resurgence and late drama Upon returning from the dressing rooms for the second half, the home team emerged with renewed energy. In the 46th minute, Agustin Auzmendi pulled one back after a setup from Bautista Barros Schelotto , reigniting hope among the fans. The momentum shifted, and by the 62nd minute, Maximiliano Zalazar drew things level, finishing a play assisted by Lucas Janson . However, football is a game of fine margins, and in the 76th minute, Agustin Modica struck again to complete his hat-trick—assisted by Esteban Fernandez —securing the win in a match defined by tactical shifts and late-game nerves."
     }
   ],
   "hasMore": false,
