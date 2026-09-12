@@ -1,24 +1,24 @@
 {
   "team": "Livingston",
   "team_logo": "https://img.refooty.com/logo/teams/255.webp",
-  "total_matches": 2,
-  "Last update time": "04:10:47 AM 12-09-2026",
+  "total_matches": 3,
+  "Last update time": "06:20:21 AM 12-09-2026",
   "matches": [
     {
-      "title": "Partick Thistle - Livingston",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/partick-thistle-livingston-2026-08-07-X5wH.webp",
+      "title": "Greenock Morton - Livingston",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/greenock-morton-livingston-2026-09-11-REro.webp",
       "competition": "Premiership - Scotland",
       "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 7, 2026",
+      "date": "Sep 11, 2026",
       "events_info": {
         "away_team": {
           "logo": "https://img.refooty.com/logo/teams/255.webp",
           "name": "Livingston",
-          "score": "0"
+          "score": "4"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/901.webp",
-          "name": "Partick",
+          "logo": "https://img.refooty.com/logo/teams/23338.webp",
+          "name": "Greenock Morton",
           "score": "1"
         },
         "status": "FT"
@@ -26,106 +26,110 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/partick-thistle-livingston-2026-08-07_R4rWx.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/greenock-morton-livingston-2026-09-11.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Partick",
-          "player": "R. Crawford",
-          "event_type": "Goal",
-          "assist": "B. McPherson",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Partick",
-          "player": "R. Crawford",
+          "team": "Livingston",
+          "player": "R. Muirhead",
           "event_type": "Yellow Card"
         },
         {
+          "time": "16'",
+          "team": "Livingston",
+          "player": "L. Polworth",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
           "time": "31'",
-          "team": "Partick",
-          "player": "C. MacPherson",
-          "event_type": "Goal"
+          "team": "Greenock Morton",
+          "player": "G. Gillespie",
+          "event_type": "Yellow Card"
         },
         {
           "time": "46'",
           "team": "Livingston",
-          "player": "C. MacPherson",
-          "event_type": "Yellow Card"
+          "player": "R. Muirhead",
+          "event_type": "Goal",
+          "assist": "T. Sinclair",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Greenock Morton",
+          "player": "M. O'Halloran",
+          "event_type": "Goal",
+          "assist": "G. Gillespie",
+          "score_update": "1 - 2"
         },
         {
           "time": "61'",
           "team": "Livingston",
-          "player": "M. Robertson",
-          "event_type": "Yellow Card"
+          "player": "E. Danso",
+          "event_type": "Goal",
+          "score_update": "1 - 3"
         },
         {
           "time": "76'",
-          "team": "Partick",
-          "player": "D. O'Reilly",
-          "event_type": "Yellow Card"
+          "team": "Livingston",
+          "player": "J. Doherty",
+          "event_type": "Goal",
+          "score_update": "1 - 4"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Partick_wins": "1",
+          "Greenock Morton_wins": "1",
           "draws": "1",
           "Livingston_wins": "3"
         },
         "previous_matches": [
           {
-            "date": "18/07/2026",
-            "competition": "Scottish League Cup: Group E",
-            "teams_and_score": "Livingston 1 - 1 Partick Thistle"
-          },
-          {
-            "date": "16/05/2025",
-            "competition": "Premiership: Qualification",
-            "teams_and_score": "Livingston 2 - 0 Partick Thistle"
-          },
-          {
-            "date": "02/05/2025",
+            "date": "12/04/2025",
             "competition": "Championship",
-            "teams_and_score": "Livingston 0 - 1 Partick Thistle"
+            "teams_and_score": "Greenock Morton 1 - 2 Livingston"
           },
           {
-            "date": "10/02/2024",
-            "competition": "Scottish Cup: Round 5",
-            "teams_and_score": "Partick Thistle 2 - 3 Livingston"
+            "date": "12/11/2024",
+            "competition": "Challenge Cup",
+            "teams_and_score": "Livingston 2 - 1 Greenock Morton"
           },
           {
-            "date": "20/05/2018",
-            "competition": "Premiership Qualification",
-            "teams_and_score": "Partick Thistle 0 - 1 Livingston"
+            "date": "24/08/2024",
+            "competition": "Championship",
+            "teams_and_score": "Livingston 1 - 1 Greenock Morton"
+          },
+          {
+            "date": "02/07/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Livingston 0 - 3 Greenock Morton"
+          },
+          {
+            "date": "07/04/2018",
+            "competition": "Championship",
+            "teams_and_score": "Livingston 3 - 2 Greenock Morton"
           }
         ],
         "home_team_form": {
-          "team": "Partick",
+          "team": "Greenock Morton",
           "form": [
-            "W",
-            "D",
+            "L",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "07/08/2026",
+              "date": "11/09/2026",
               "competition": "Championship",
-              "teams_and_score": "Partick Thistle 2 - 0 Livingston",
-              "result": "W"
+              "teams_and_score": "Greenock Morton 1 - 4 Livingston",
+              "result": "L"
             },
             {
-              "date": "21/07/2026",
-              "competition": "Scottish League Cup: Group E",
-              "teams_and_score": "Partick Thistle 2 - 2 Stenhousemuir",
-              "result": "D"
-            },
-            {
-              "date": "25/05/2026",
-              "competition": "Premiership: Qualification",
-              "teams_and_score": "St. Mirren 1 - 0 Partick Thistle",
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group F",
+              "teams_and_score": "Greenock Morton 0 - 1 Inverness CT",
               "result": "L"
             }
           ]
@@ -133,74 +137,60 @@
         "away_team_form": {
           "team": "Livingston",
           "form": [
-            "L",
-            "D",
             "W",
-            "L"
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "07/08/2026",
+              "date": "11/09/2026",
               "competition": "Championship",
-              "teams_and_score": "Partick Thistle 2 - 0 Livingston",
-              "result": "L"
+              "teams_and_score": "Greenock Morton 1 - 4 Livingston",
+              "result": "W"
             },
             {
               "date": "25/07/2026",
               "competition": "Scottish League Cup: Group E",
               "teams_and_score": "Stenhousemuir 0 - 0 Livingston",
               "result": "D"
-            },
-            {
-              "date": "10/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Livingston 2 - 1 Hearts",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Premiership: Relegation Group",
-              "teams_and_score": "Livingston 1 - 4 Kilmarnock",
-              "result": "L"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Partick": "5",
-          "Livingston": "1"
+          "Greenock Morton": "3",
+          "Livingston": "6"
         },
         "shots_off_target": {
-          "Partick": "4",
-          "Livingston": "5"
+          "Greenock Morton": "3",
+          "Livingston": "7"
         },
         "shots_blocked": {
-          "Partick": "5",
-          "Livingston": "3"
+          "Greenock Morton": "0",
+          "Livingston": "5"
         },
         "corners": {
-          "Partick": "9",
-          "Livingston": "10"
+          "Greenock Morton": "7",
+          "Livingston": "6"
         },
         "fouls": {
-          "Partick": "12",
-          "Livingston": "13"
+          "Greenock Morton": "15",
+          "Livingston": "17"
         },
         "yellow_cards": {
-          "Partick": "2",
-          "Livingston": "2"
+          "Greenock Morton": "1",
+          "Livingston": "1"
         },
         "goalkeeper_saves": {
-          "Partick": "1",
-          "Livingston": "4"
+          "Greenock Morton": "1",
+          "Livingston": "2"
         },
         "ball_possession": {
-          "Partick": "52%",
-          "Livingston": "48%"
+          "Greenock Morton": "38%",
+          "Livingston": "62%"
         }
       },
-      "description": "Watch Partick vs Livingston highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 7, 2026."
+      "description": "Watch Greenock Morton vs Livingston highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 11, 2026."
     },
     {
       "title": "Livingston - Stenhousemuir",
@@ -399,6 +389,204 @@
         }
       },
       "description": "Watch Livingston vs Stenhousemuir highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The Scottish Premiership took center stage as two determined sides locked horns in a match that prioritized structural integrity and physical dominance. Fans witnessed a tactical chess match where every transition was contested with high energy and unwavering commitment. Defensive Stalemate in West Lothian On September 5, 2026 , Livingston hosted Stenhousemuir in an encounter that demanded maximum concentration from both sets of players. The opening period reflected a cautious approach, with the football being played primarily in the middle third of the pitch. Neither side was willing to overcommit, resulting in a first half characterized by solid tackling and organized backlines that gave very little away to the opposition strikers. Discipline and Late Drama The second half saw the intensity ramp up as the players pushed for a decisive breakthrough. The referee was forced to intervene in the 53rd minute, issuing a yellow card to Livingston 's R. Muirhead as the physical nature of the game reached its peak. Despite the rising temperature on the pitch, clear-cut scoring opportunities remained scarce, with both teams showcasing why they are difficult to break down. As the clock ticked toward the final whistle, the tension remained palpable. In the first minute of stoppage time (90+1'), L. Polworth was also booked for the home side, a testament to the desperate battle for control in the dying embers of the match. The final whistle brought an end to a contest where defensive discipline ultimately reigned supreme over offensive flair."
+    },
+    {
+      "title": "Partick Thistle - Livingston",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/partick-thistle-livingston-2026-08-07-X5wH.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 7, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/255.webp",
+          "name": "Livingston",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/901.webp",
+          "name": "Partick",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/partick-thistle-livingston-2026-08-07_R4rWx.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Partick",
+          "player": "R. Crawford",
+          "event_type": "Goal",
+          "assist": "B. McPherson",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Partick",
+          "player": "R. Crawford",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Partick",
+          "player": "C. MacPherson",
+          "event_type": "Goal"
+        },
+        {
+          "time": "46'",
+          "team": "Livingston",
+          "player": "C. MacPherson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Livingston",
+          "player": "M. Robertson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Partick",
+          "player": "D. O'Reilly",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Partick_wins": "1",
+          "draws": "1",
+          "Livingston_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "18/07/2026",
+            "competition": "Scottish League Cup: Group E",
+            "teams_and_score": "Livingston 1 - 1 Partick Thistle"
+          },
+          {
+            "date": "16/05/2025",
+            "competition": "Premiership: Qualification",
+            "teams_and_score": "Livingston 2 - 0 Partick Thistle"
+          },
+          {
+            "date": "02/05/2025",
+            "competition": "Championship",
+            "teams_and_score": "Livingston 0 - 1 Partick Thistle"
+          },
+          {
+            "date": "10/02/2024",
+            "competition": "Scottish Cup: Round 5",
+            "teams_and_score": "Partick Thistle 2 - 3 Livingston"
+          },
+          {
+            "date": "20/05/2018",
+            "competition": "Premiership Qualification",
+            "teams_and_score": "Partick Thistle 0 - 1 Livingston"
+          }
+        ],
+        "home_team_form": {
+          "team": "Partick",
+          "form": [
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "07/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Partick Thistle 2 - 0 Livingston",
+              "result": "W"
+            },
+            {
+              "date": "21/07/2026",
+              "competition": "Scottish League Cup: Group E",
+              "teams_and_score": "Partick Thistle 2 - 2 Stenhousemuir",
+              "result": "D"
+            },
+            {
+              "date": "25/05/2026",
+              "competition": "Premiership: Qualification",
+              "teams_and_score": "St. Mirren 1 - 0 Partick Thistle",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Livingston",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "07/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Partick Thistle 2 - 0 Livingston",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group E",
+              "teams_and_score": "Stenhousemuir 0 - 0 Livingston",
+              "result": "D"
+            },
+            {
+              "date": "10/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Livingston 2 - 1 Hearts",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Premiership: Relegation Group",
+              "teams_and_score": "Livingston 1 - 4 Kilmarnock",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Partick": "5",
+          "Livingston": "1"
+        },
+        "shots_off_target": {
+          "Partick": "4",
+          "Livingston": "5"
+        },
+        "shots_blocked": {
+          "Partick": "5",
+          "Livingston": "3"
+        },
+        "corners": {
+          "Partick": "9",
+          "Livingston": "10"
+        },
+        "fouls": {
+          "Partick": "12",
+          "Livingston": "13"
+        },
+        "yellow_cards": {
+          "Partick": "2",
+          "Livingston": "2"
+        },
+        "goalkeeper_saves": {
+          "Partick": "1",
+          "Livingston": "4"
+        },
+        "ball_possession": {
+          "Partick": "52%",
+          "Livingston": "48%"
+        }
+      },
+      "description": "Watch Partick vs Livingston highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 7, 2026."
     }
   ]
 }
