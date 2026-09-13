@@ -1,9 +1,238 @@
 {
   "team": "Southampton",
   "team_logo": "https://img.refooty.com/logo/teams/41.webp",
-  "total_matches": 10,
-  "Last update time": "02:50:18 AM 13-09-2026",
+  "total_matches": 11,
+  "Last update time": "07:00:29 AM 13-09-2026",
   "matches": [
+    {
+      "title": "southampton - bristol city",
+      "thumbnail_url": "https://refooty.com/preview.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 12, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/56.webp",
+          "name": "Bristol City",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/41.webp",
+          "name": "Southampton",
+          "score": "4"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/southampton-bristol-city-2026-09-12.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Southampton",
+          "player": "C. Larin",
+          "event_type": "Goal",
+          "assist": "F. Azaz",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Bristol City",
+          "player": "L. N. Eissat",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Southampton",
+          "player": "C. Larin",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "76'",
+          "team": "Bristol City",
+          "player": "L. Tolaj",
+          "event_type": "Goal",
+          "assist": "R. Cardines",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Southampton",
+          "player": "K. Matsuki",
+          "event_type": "Goal",
+          "assist": "F. Azaz",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "Southampton",
+          "player": "F. Azaz",
+          "event_type": "Goal",
+          "assist": "D. Mubama",
+          "score_update": "4 - 1"
+        },
+        {
+          "time": "121'",
+          "team": "Bristol City",
+          "player": "S. Greenwood",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Southampton_wins": "1",
+          "draws": "2",
+          "Bristol City_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "21/04/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Southampton 2 - 2 Bristol City"
+          },
+          {
+            "date": "13/02/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Bristol City 3 - 1 Southampton"
+          },
+          {
+            "date": "24/09/2013",
+            "competition": "League Cup",
+            "teams_and_score": "Southampton 2 - 0 Bristol City"
+          },
+          {
+            "date": "07/08/2012",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Bristol City 1 - 1 Southampton"
+          },
+          {
+            "date": "30/12/2011",
+            "competition": "Championship",
+            "teams_and_score": "Southampton 0 - 1 Bristol City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Southampton",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 4 - 1 Bristol City",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Southampton 1 - 4 West Ham United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Stoke City",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Colchester United 0 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bristol City",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 4 - 1 Bristol City",
+              "result": "L"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bristol City 0 - 1 Walsall",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Exeter City 1 - 1 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bristol City 4 - 1 Newcastle United",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Southampton": "5",
+          "Bristol City": "6"
+        },
+        "shots_off_target": {
+          "Southampton": "2",
+          "Bristol City": "12"
+        },
+        "shots_blocked": {
+          "Southampton": "3",
+          "Bristol City": "3"
+        },
+        "corners": {
+          "Southampton": "2",
+          "Bristol City": "5"
+        },
+        "fouls": {
+          "Southampton": "6",
+          "Bristol City": "14"
+        },
+        "yellow_cards": {
+          "Southampton": "0",
+          "Bristol City": "2"
+        },
+        "goalkeeper_saves": {
+          "Southampton": "4",
+          "Bristol City": "1"
+        },
+        "crosses": {
+          "Southampton": "4",
+          "Bristol City": "10"
+        },
+        "ball_possession": {
+          "Southampton": "56%",
+          "Bristol City": "44%"
+        }
+      },
+      "description": "Watch Southampton vs Bristol City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 12, 2026. The clash between Southampton and Bristol City set the stage for an intense encounter in the Championship , with both sides looking to make their mark on the league table. On September 12, 2026, fans were treated to a spectacle that showcased the unpredictability of professional football . A tactical first half From the opening whistle, both teams demonstrated a clear desire to press high and control the midfield. The breakthrough arrived in the 38th minute when Cyle Larin found the back of the net, courtesy of an assist from Finn Azaz . This goal dictated the tempo for the remainder of the first half, as the visitors maintained a disciplined defensive structure to hold their slender lead going into the break. An explosive comeback The second half proved to be a different story entirely, characterized by rapid attacks and emotional shifts. Cyle Larin doubled the lead in the 61st minute, seemingly putting the visitors in the driver's seat. However, Southampton refused to yield. Lorent Tolaj sparked the comeback in the 66th minute following an assist from Rio Cardines . Momentum surged, and in the 82nd minute, Kuryu Matsuki leveled the score after a pass from Finn Azaz . The turnaround was completed just three minutes later when Finn Azaz turned from provider to scorer, netting the winner from a Divin Mubama assist. Despite late yellow cards and frantic defensive efforts, the final whistle confirmed a dramatic end to a high-energy match."
+    },
     {
       "title": "southampton - swansea city",
       "thumbnail_url": "https://img.refooty.com/thumbnail/southampton-swansea-city-2026-09-08-2pV1.webp",
@@ -220,373 +449,6 @@
         }
       },
       "description": "Watch Southampton vs Swansea City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 8, 2026. The atmosphere was electric at St. Mary's as two sides with rich histories faced off in a crucial tactical battle. Fans were treated to a display of high-intensity football where every transition held the potential to alter the course of the season. Early Dominance for the Saints On September 8, 2026 , Southampton started with intent, establishing their rhythm early against Swansea City . It took only nine minutes for the deadlock to be broken when Finn Azaz found the net, clinical in his finish after being set up by Flynn Downes . The home side refused to sit back, continuing to apply relentless pressure on the Welsh defense. Their persistence paid off again in the 33rd minute as Cyle Larin doubled the advantage, expertly converting a chance provided by James Bree to give the hosts a commanding lead heading into the break. Swansea Fight Back from the Spot The second half saw Swansea City emerge with renewed energy, making tactical adjustments to claw their way back into the game. The introduction of Ronald Pereira added pace to their attack, and in the 52nd minute, they found a lifeline. Zan Vipotnik stepped up to the penalty spot and calmly dispatched his shot to make it 2-1. The momentum seemed to shift briefly, and the game grew more physical, evidenced by a yellow card for Pereira shortly after the goal as the visitors pushed for an equalizer. Sealing the Victory Despite the pressure from the visitors, Southampton regained their composure and utilized their bench effectively to regain control. The turning point arrived in the 78th minute when substitute Kuryu Matsuki turned provider, setting up Leo Scienza for a crucial strike that restored the two-goal cushion. In the closing stages, the Saints managed the clock professionally, introducing fresh legs like Cameron Bragg to see out the result. When the final whistle blew after five minutes of stoppage time, the home faithful celebrated a hard-fought and deserved victory in the Championship ."
-    },
-    {
-      "title": "Preußen Münster vs Southampton",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/preuen-munster-vs-southampton-2026-08-01-93rU.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 1, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/41.webp",
-          "name": "Southampton",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1313.webp",
-          "name": "Preußen Münster",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/preuen-munster-vs-southampton-2026-08-01_WfjYi.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Preußen Münster",
-          "player": "F. Higl",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Southampton",
-          "player": "L. Scienza",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Southampton",
-          "player": "L. Dobbin",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Preußen Münster_wins": "0",
-          "draws": "0",
-          "Southampton_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Preußen Münster",
-          "form": [
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "2. Bundesliga",
-              "teams_and_score": "Elversberg 3 - 0 Preussen Muenster",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Southampton",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
-              "result": "W"
-            },
-            {
-              "date": "12/05/2026",
-              "competition": "Championship: Play-offs 25/26",
-              "teams_and_score": "Southampton 2 - 1 Middlesbrough",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Preston North End 1 - 3 Southampton",
-              "result": "W"
-            },
-            {
-              "date": "25/04/2026",
-              "competition": "FA Cup: Semi-Finals",
-              "teams_and_score": "Manchester City 2 - 1 Southampton",
-              "result": "L"
-            },
-            {
-              "date": "21/04/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Southampton 2 - 2 Bristol City",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Preußen Münster vs Southampton highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
-    },
-    {
-      "title": "birmingham city - southampton",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/birmingham-city-southampton-2026-09-01-9iv0.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Sep 1, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/41.webp",
-          "name": "Southampton",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/54.webp",
-          "name": "Birmingham",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/birmingham-city-southampton-2026-09-01.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "45+1'",
-          "team": "Birmingham",
-          "player": "B. Osayi-Samuel",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+3'",
-          "team": "Southampton",
-          "player": "K. Schlotterbeck",
-          "event_type": "Goal",
-          "assist": "L. Scienza",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "55'",
-          "team": "Birmingham",
-          "player": "A. Priske",
-          "event_type": "Goal",
-          "assist": "P. Roberts",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "72'",
-          "team": "Southampton",
-          "player": "D. Mubama",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "77'",
-          "team": "Birmingham",
-          "player": "J. Solís",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "Birmingham",
-          "player": "L. Vasquez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "Southampton",
-          "player": "N. Wood",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Birmingham_wins": "3",
-          "draws": "2",
-          "Southampton_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "29/12/2025",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Birmingham City 1 - 1 Southampton"
-          },
-          {
-            "date": "02/03/2024",
-            "competition": "Championship 23/24",
-            "teams_and_score": "Birmingham City 3 - 4 Southampton"
-          },
-          {
-            "date": "04/02/2012",
-            "competition": "Championship",
-            "teams_and_score": "Birmingham City 0 - 0 Southampton"
-          },
-          {
-            "date": "25/08/2009",
-            "competition": "League Cup",
-            "teams_and_score": "Southampton 1 - 2 Birmingham City"
-          },
-          {
-            "date": "07/03/2009",
-            "competition": "Championship",
-            "teams_and_score": "Birmingham City 1 - 0 Southampton"
-          },
-          {
-            "date": "26/08/2008",
-            "competition": "League Cup",
-            "teams_and_score": "Southampton 2 - 0 Birmingham City"
-          },
-          {
-            "date": "16/08/2008",
-            "competition": "Championship",
-            "teams_and_score": "Southampton 1 - 2 Birmingham City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Birmingham",
-          "form": [
-            "D",
-            "L",
-            "D",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/09/2026",
-              "competition": "Championship",
-              "teams_and_score": "Birmingham City 1 - 1 Southampton",
-              "result": "D"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Birmingham City 1 - 6 Brentford",
-              "result": "L"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Birmingham City 2 - 2 Bristol City",
-              "result": "D"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
-              "result": "W"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Southampton",
-          "form": [
-            "D",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/09/2026",
-              "competition": "Championship",
-              "teams_and_score": "Birmingham City 1 - 1 Southampton",
-              "result": "D"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Southampton 1 - 4 West Ham United",
-              "result": "L"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Southampton 3 - 1 Stoke City",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Colchester United 0 - 2 Southampton",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Birmingham": "4",
-          "Southampton": "4"
-        },
-        "shots_off_target": {
-          "Birmingham": "8",
-          "Southampton": "5"
-        },
-        "shots_blocked": {
-          "Birmingham": "4",
-          "Southampton": "4"
-        },
-        "corners": {
-          "Birmingham": "3",
-          "Southampton": "5"
-        },
-        "fouls": {
-          "Birmingham": "12",
-          "Southampton": "8"
-        },
-        "offsides": {
-          "Birmingham": "2",
-          "Southampton": "5"
-        },
-        "yellow_cards": {
-          "Birmingham": "3",
-          "Southampton": "2"
-        },
-        "goalkeeper_saves": {
-          "Birmingham": "3",
-          "Southampton": "3"
-        },
-        "crosses": {
-          "Birmingham": "5",
-          "Southampton": "5"
-        },
-        "ball_possession": {
-          "Birmingham": "37%",
-          "Southampton": "63%"
-        }
-      },
-      "description": "Watch Birmingham vs Southampton highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. The atmosphere at the stadium was electric as two determined sides looked to secure vital points in the Championship . This fixture, held on September 1, 2026 , promised to test the tactical resilience of both squads in a fierce battle for dominance. A lively opening period The match started with high intensity, with both teams fighting for every ball from the opening whistle. As the first half drew to a close, the pressure mounted and the breakthrough finally arrived in added time. Following an accurate delivery from Leo Scienza , Keven Schlotterbeck rose to the occasion to put the visitors in front just before the break. Second half resurgence Returning from the interval, Birmingham City displayed a more aggressive approach. Their persistence was rewarded in the 55th minute when Patrick Roberts provided a sublime assist for August Priske , who clinicaly dispatched the chance to level the scores. The remainder of the second half saw a flurry of substitutions, including the arrival of James Ward-Prowse for Southampton , but neither side could find a winner. The final stages became increasingly heated, with the referee issuing yellow cards to Jhon Solis , Divin Mubama , Luis Vazquez , and Nathan Wood as both teams battled until the very last whistle."
     },
     {
       "title": "Colchester vs Southampton",
@@ -2125,6 +1987,373 @@
         }
       },
       "description": "Watch Southampton vs Stoke City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 22, 2026."
+    },
+    {
+      "title": "Preußen Münster vs Southampton",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/preuen-munster-vs-southampton-2026-08-01-93rU.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/41.webp",
+          "name": "Southampton",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1313.webp",
+          "name": "Preußen Münster",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/preuen-munster-vs-southampton-2026-08-01_WfjYi.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Preußen Münster",
+          "player": "F. Higl",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Southampton",
+          "player": "L. Scienza",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Southampton",
+          "player": "L. Dobbin",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Preußen Münster_wins": "0",
+          "draws": "0",
+          "Southampton_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Preußen Münster",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "2. Bundesliga",
+              "teams_and_score": "Elversberg 3 - 0 Preussen Muenster",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Southampton",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "12/05/2026",
+              "competition": "Championship: Play-offs 25/26",
+              "teams_and_score": "Southampton 2 - 1 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Preston North End 1 - 3 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "25/04/2026",
+              "competition": "FA Cup: Semi-Finals",
+              "teams_and_score": "Manchester City 2 - 1 Southampton",
+              "result": "L"
+            },
+            {
+              "date": "21/04/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Southampton 2 - 2 Bristol City",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Preußen Münster vs Southampton highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
+    },
+    {
+      "title": "birmingham city - southampton",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/birmingham-city-southampton-2026-09-01-9iv0.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/41.webp",
+          "name": "Southampton",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/54.webp",
+          "name": "Birmingham",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/birmingham-city-southampton-2026-09-01.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "45+1'",
+          "team": "Birmingham",
+          "player": "B. Osayi-Samuel",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+3'",
+          "team": "Southampton",
+          "player": "K. Schlotterbeck",
+          "event_type": "Goal",
+          "assist": "L. Scienza",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "55'",
+          "team": "Birmingham",
+          "player": "A. Priske",
+          "event_type": "Goal",
+          "assist": "P. Roberts",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "72'",
+          "team": "Southampton",
+          "player": "D. Mubama",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "77'",
+          "team": "Birmingham",
+          "player": "J. Solís",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Birmingham",
+          "player": "L. Vasquez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Southampton",
+          "player": "N. Wood",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Birmingham_wins": "3",
+          "draws": "2",
+          "Southampton_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "29/12/2025",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Birmingham City 1 - 1 Southampton"
+          },
+          {
+            "date": "02/03/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Birmingham City 3 - 4 Southampton"
+          },
+          {
+            "date": "04/02/2012",
+            "competition": "Championship",
+            "teams_and_score": "Birmingham City 0 - 0 Southampton"
+          },
+          {
+            "date": "25/08/2009",
+            "competition": "League Cup",
+            "teams_and_score": "Southampton 1 - 2 Birmingham City"
+          },
+          {
+            "date": "07/03/2009",
+            "competition": "Championship",
+            "teams_and_score": "Birmingham City 1 - 0 Southampton"
+          },
+          {
+            "date": "26/08/2008",
+            "competition": "League Cup",
+            "teams_and_score": "Southampton 2 - 0 Birmingham City"
+          },
+          {
+            "date": "16/08/2008",
+            "competition": "Championship",
+            "teams_and_score": "Southampton 1 - 2 Birmingham City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Birmingham",
+          "form": [
+            "D",
+            "L",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Birmingham City 1 - 1 Southampton",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Birmingham City 1 - 6 Brentford",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Birmingham City 2 - 2 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Southampton",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Birmingham City 1 - 1 Southampton",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Southampton 1 - 4 West Ham United",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Stoke City",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Colchester United 0 - 2 Southampton",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Birmingham": "4",
+          "Southampton": "4"
+        },
+        "shots_off_target": {
+          "Birmingham": "8",
+          "Southampton": "5"
+        },
+        "shots_blocked": {
+          "Birmingham": "4",
+          "Southampton": "4"
+        },
+        "corners": {
+          "Birmingham": "3",
+          "Southampton": "5"
+        },
+        "fouls": {
+          "Birmingham": "12",
+          "Southampton": "8"
+        },
+        "offsides": {
+          "Birmingham": "2",
+          "Southampton": "5"
+        },
+        "yellow_cards": {
+          "Birmingham": "3",
+          "Southampton": "2"
+        },
+        "goalkeeper_saves": {
+          "Birmingham": "3",
+          "Southampton": "3"
+        },
+        "crosses": {
+          "Birmingham": "5",
+          "Southampton": "5"
+        },
+        "ball_possession": {
+          "Birmingham": "37%",
+          "Southampton": "63%"
+        }
+      },
+      "description": "Watch Birmingham vs Southampton highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. The atmosphere at the stadium was electric as two determined sides looked to secure vital points in the Championship . This fixture, held on September 1, 2026 , promised to test the tactical resilience of both squads in a fierce battle for dominance. A lively opening period The match started with high intensity, with both teams fighting for every ball from the opening whistle. As the first half drew to a close, the pressure mounted and the breakthrough finally arrived in added time. Following an accurate delivery from Leo Scienza , Keven Schlotterbeck rose to the occasion to put the visitors in front just before the break. Second half resurgence Returning from the interval, Birmingham City displayed a more aggressive approach. Their persistence was rewarded in the 55th minute when Patrick Roberts provided a sublime assist for August Priske , who clinicaly dispatched the chance to level the scores. The remainder of the second half saw a flurry of substitutions, including the arrival of James Ward-Prowse for Southampton , but neither side could find a winner. The final stages became increasingly heated, with the referee issuing yellow cards to Jhon Solis , Divin Mubama , Luis Vazquez , and Nathan Wood as both teams battled until the very last whistle."
     }
   ]
 }

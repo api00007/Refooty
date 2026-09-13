@@ -1,9 +1,232 @@
 {
   "team": "Derby County",
   "team_logo": "https://img.refooty.com/logo/teams/69.webp",
-  "total_matches": 10,
-  "Last update time": "02:50:18 AM 13-09-2026",
+  "total_matches": 11,
+  "Last update time": "07:00:29 AM 13-09-2026",
   "matches": [
+    {
+      "title": "derby county - birmingham city",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/derby-county-birmingham-city-2026-09-12-Sc8d.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 12, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/54.webp",
+          "name": "Birmingham",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/69.webp",
+          "name": "Derby County",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/derby-county-birmingham-city-2026-09-12.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Derby County",
+          "player": "M. Fuseini",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Birmingham",
+          "player": "A. Cochrane",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Derby County",
+          "player": "B. Clark",
+          "event_type": "Goal",
+          "assist": "S. Szmodics",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Birmingham",
+          "player": "C. Vicente",
+          "event_type": "Goal",
+          "assist": "L. Millar",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Birmingham",
+          "player": "A. Priske",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "63'",
+          "team": "Birmingham",
+          "player": "S. H. Paik",
+          "event_type": "Goal",
+          "assist": "L. Millar",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "90+4'",
+          "team": "Birmingham",
+          "player": "C. Vicente",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Derby County_wins": "2",
+          "draws": "2",
+          "Birmingham_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "21/03/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Derby County 1 - 0 Birmingham City"
+          },
+          {
+            "date": "30/01/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Derby County 2 - 2 Birmingham City"
+          },
+          {
+            "date": "24/04/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Derby County 1 - 2 Birmingham City"
+          },
+          {
+            "date": "22/07/2020",
+            "competition": "Championship 19/20",
+            "teams_and_score": "Birmingham City 1 - 3 Derby County"
+          },
+          {
+            "date": "19/04/2019",
+            "competition": "Championship",
+            "teams_and_score": "Birmingham City 2 - 2 Derby County"
+          }
+        ],
+        "home_team_form": {
+          "team": "Derby County",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Derby County 1 - 2 Birmingham City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Derby County 1 - 2 Lincoln City",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Rotherham United 1 - 1 Derby County",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Birmingham",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Derby County 1 - 2 Birmingham City",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Birmingham City 1 - 6 Brentford",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Birmingham City 2 - 2 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Swansea City 0 - 1 Birmingham City",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Birmingham City 2 - 2 Barcelona",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Derby County": "4",
+          "Birmingham": "9"
+        },
+        "shots_off_target": {
+          "Derby County": "7",
+          "Birmingham": "8"
+        },
+        "shots_blocked": {
+          "Derby County": "7",
+          "Birmingham": "2"
+        },
+        "corners": {
+          "Derby County": "10",
+          "Birmingham": "4"
+        },
+        "fouls": {
+          "Derby County": "8",
+          "Birmingham": "12"
+        },
+        "offsides": {
+          "Derby County": "4",
+          "Birmingham": "1"
+        },
+        "yellow_cards": {
+          "Derby County": "1",
+          "Birmingham": "3"
+        },
+        "goalkeeper_saves": {
+          "Derby County": "6",
+          "Birmingham": "1"
+        },
+        "crosses": {
+          "Derby County": "8",
+          "Birmingham": "8"
+        },
+        "ball_possession": {
+          "Derby County": "60%",
+          "Birmingham": "40%"
+        }
+      },
+      "description": "Watch Derby County vs Birmingham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 12, 2026. The atmosphere at the stadium was thick with anticipation during this Championship fixture held on September 12, 2026, as Derby County and Birmingham City locked horns in a high-stakes encounter. A frantic opening act The match began with palpable tension, resulting in early yellow cards for Mohammed Fuseini and Alexander Cochrane . This defensive intensity, however, gave way to an explosive goal-scoring spree before the break. In the 40th minute, Bobby Clark fired the visitors ahead following a precise ball from Sammie Szmodics . Only two minutes later, Carlos Vicente doubled the lead, latching onto an assist from Liam Millar . The momentum remained firmly with the visitors as they controlled the tempo throughout the closing stages of the first half. Holding the line The second half saw both managers shuffle their packs, introducing fresh legs to manage the physical demands of the match. Birmingham City extended their clinical advantage in the 63rd minute, with Seung-Ho Paik finding the net after receiving his second assist of the day from Liam Millar . Despite extensive stoppage time and a late caution for Carlos Vicente , the Derby County push proved insufficient to bridge the gap, as the visiting side held firm until the referee finally signaled the end of proceedings."
+    },
     {
       "title": "derby county - west brom",
       "thumbnail_url": "https://img.refooty.com/thumbnail/derby-county-west-brom-2026-09-09-NR3g.webp",
@@ -219,318 +442,6 @@
         }
       },
       "description": "Watch Derby County vs West Brom highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 9, 2026."
-    },
-    {
-      "title": "Burton Albion vs Derby County",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/burton-albion-vs-derby-county-2026-08-01-AaIJ.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 1, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/69.webp",
-          "name": "Derby County",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/748.webp",
-          "name": "Burton Albion",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/burton-albion-vs-derby-county-2026-08-01_QK048.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {
-          "Burton Albion_wins": "2",
-          "draws": "0",
-          "Derby County_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "26/07/2025",
-            "competition": "Club Friendlies 2025",
-            "teams_and_score": "Burton Albion 2 - 1 Derby County"
-          },
-          {
-            "date": "15/01/2024",
-            "competition": "League 1 23/24",
-            "teams_and_score": "Derby County 3 - 2 Burton Albion"
-          },
-          {
-            "date": "22/04/2023",
-            "competition": "League 1 22/23",
-            "teams_and_score": "Derby County 1 - 0 Burton Albion"
-          },
-          {
-            "date": "20/07/2019",
-            "competition": "Club Friendlies 2019",
-            "teams_and_score": "Burton Albion 2 - 5 Derby County"
-          },
-          {
-            "date": "14/04/2018",
-            "competition": "Championship",
-            "teams_and_score": "Burton Albion 3 - 1 Derby County"
-          }
-        ],
-        "home_team_form": {
-          "team": "Burton Albion",
-          "form": [
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Burton Albion 1 - 0 Derby County",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Leyton Orient 2 - 2 Burton Albion",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Derby County",
-          "form": [
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Burton Albion 1 - 0 Derby County",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Derby County 1 - 2 Sheffield United",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Burton Albion vs Derby County highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
-    },
-    {
-      "title": "portsmouth - derby county",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/portsmouth-derby-county-2026-09-01-kU9E.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Sep 1, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/69.webp",
-          "name": "Derby County",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1355.webp",
-          "name": "Portsmouth",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/portsmouth-derby-county-2026-09-01.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Derby County",
-          "player": "S. Szmodics",
-          "event_type": "Goal",
-          "assist": "B. Clark",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Derby County",
-          "player": "S. Langås",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Derby County",
-          "player": "L. Salvesen",
-          "event_type": "Goal",
-          "assist": "O. Fraulo",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "76'",
-          "team": "Portsmouth",
-          "player": "T. Devlin",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Derby County",
-          "player": "C. Taylor",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Portsmouth_wins": "1",
-          "draws": "3",
-          "Derby County_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "16/03/2026",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Portsmouth 0 - 1 Derby County"
-          },
-          {
-            "date": "12/04/2025",
-            "competition": "Championship",
-            "teams_and_score": "Portsmouth 2 - 2 Derby County"
-          },
-          {
-            "date": "02/04/2024",
-            "competition": "League 1 23/24",
-            "teams_and_score": "Portsmouth 2 - 2 Derby County"
-          },
-          {
-            "date": "29/04/2023",
-            "competition": "League 1 22/23",
-            "teams_and_score": "Derby County 1 - 1 Portsmouth"
-          },
-          {
-            "date": "12/08/2015",
-            "competition": "League Cup",
-            "teams_and_score": "Portsmouth 2 - 1 Derby County"
-          },
-          {
-            "date": "21/04/2012",
-            "competition": "Championship",
-            "teams_and_score": "Portsmouth 1 - 2 Derby County"
-          }
-        ],
-        "home_team_form": {
-          "team": "Portsmouth",
-          "form": [
-            "L",
-            "L",
-            "D",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/09/2026",
-              "competition": "Championship",
-              "teams_and_score": "Portsmouth 0 - 2 Derby County",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "West Ham United 3 - 1 Portsmouth",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Darmstadt 0 - 0 Portsmouth",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Portsmouth 1 - 1 Birmingham City",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Derby County",
-          "form": [
-            "W",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/09/2026",
-              "competition": "Championship",
-              "teams_and_score": "Portsmouth 0 - 2 Derby County",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Derby County 1 - 2 Lincoln City",
-              "result": "L"
-            },
-            {
-              "date": "04/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Rotherham United 1 - 1 Derby County",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Portsmouth": "3",
-          "Derby County": "5"
-        },
-        "shots_off_target": {
-          "Portsmouth": "9",
-          "Derby County": "2"
-        },
-        "shots_blocked": {
-          "Portsmouth": "9",
-          "Derby County": "1"
-        },
-        "corners": {
-          "Portsmouth": "11",
-          "Derby County": "2"
-        },
-        "fouls": {
-          "Portsmouth": "12",
-          "Derby County": "15"
-        },
-        "offsides": {
-          "Portsmouth": "0",
-          "Derby County": "3"
-        },
-        "yellow_cards": {
-          "Portsmouth": "1",
-          "Derby County": "2"
-        },
-        "goalkeeper_saves": {
-          "Portsmouth": "3",
-          "Derby County": "3"
-        },
-        "crosses": {
-          "Portsmouth": "9",
-          "Derby County": "3"
-        },
-        "ball_possession": {
-          "Portsmouth": "65%",
-          "Derby County": "35%"
-        }
-      },
-      "description": "Watch Portsmouth vs Derby County highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. Portsmouth and Derby County locked horns in a gritty Championship encounter that tested the resolve of both sides throughout the afternoon. Played on September 1st, 2026, the match demanded total concentration as tactical discipline became the theme of the day. Breaking the deadlock The visitors drew first blood in the 17th minute when Sammie Szmodics converted a clinical pass from Bobby Clark to hand Derby County the lead. The goal sparked the game into life, with Portsmouth pushed onto the back foot, working hard to stabilize their shape before the halftime whistle signaled a brief moment of reflection for the players. Following the restart, the home side began to find their rhythm. The breakthrough arrived in the 62nd minute when Lars-Joergen Salvesen , just off the bench, clinically finished an Oscar Fraulo assist to level the score. The closing stages were defined by a flurry of substitutions and increased physicality, resulting in yellow cards for Sondre Klingen Langaas , Terry Devlin , and Charlie Taylor . Despite the late pressure, neither side could find a decisive blow, and the referee brought proceedings to a close at 90+7 minutes."
     },
     {
       "title": "Derby County vs Swansea City",
@@ -1827,6 +1738,318 @@
         }
       },
       "description": "Watch Derby County vs Cardiff City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The atmosphere at Pride Park was electric on August 22, 2026 , as Derby County welcomed Cardiff City for a clash defined by high intensity and tactical shifts. Both sides looked to assert dominance in a fixture that kept the fans on the edge of their seats until the final whistle. A First Half Frenzy The contest began with a physical edge, highlighted as early as the 9th minute when Corey Blackett-Taylor of Derby County received a yellow card for a mistimed challenge. The deadlock was broken in the 19th minute when Cardiff City struck first. Ronan Kpakio provided a pinpoint assist for Cian Ashford , who finished clinically to give the visitors an early advantage. Derby’s response was swift and decisive. Just seven minutes later, in the 26th minute, the hosts were level. Bobby Clark turned provider, setting up Carlton Morris for a well-taken goal that revitalized the home crowd. However, the pendulum swung back in favor of the Bluebirds before the break. In the 39th minute, Rubin Colwill showcased his vision to find Yousef Salech , who restored Cardiff City 's lead heading into the interval. Second Half Resilience and Discipline Derby County emerged for the second half with renewed vigor, and it took only four minutes to find the equalizer. In the 49th minute, Bobby Clark went from provider to scorer, slotting home to make it 2-2. The goal set the stage for a tense remaining period where both teams fought tooth and nail for a deciding factor that never surfaced. As the game progressed, the referee was kept busy with a flurry of cautions. Rubin Colwill , Oscar Fraulo , Lewis Travis , Max Johnston , and Dion Sanderson all entered the book as tackles flew in. Managers introduced fresh legs, with the likes of Rhian Brewster and David Turnbull joining the fray, but neither side could find the clinical edge required to snatch all three points. After seven minutes of stoppage time, the final whistle blew on a hard-fought encounter."
+    },
+    {
+      "title": "Burton Albion vs Derby County",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/burton-albion-vs-derby-county-2026-08-01-AaIJ.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/69.webp",
+          "name": "Derby County",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/748.webp",
+          "name": "Burton Albion",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/burton-albion-vs-derby-county-2026-08-01_QK048.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {
+          "Burton Albion_wins": "2",
+          "draws": "0",
+          "Derby County_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "26/07/2025",
+            "competition": "Club Friendlies 2025",
+            "teams_and_score": "Burton Albion 2 - 1 Derby County"
+          },
+          {
+            "date": "15/01/2024",
+            "competition": "League 1 23/24",
+            "teams_and_score": "Derby County 3 - 2 Burton Albion"
+          },
+          {
+            "date": "22/04/2023",
+            "competition": "League 1 22/23",
+            "teams_and_score": "Derby County 1 - 0 Burton Albion"
+          },
+          {
+            "date": "20/07/2019",
+            "competition": "Club Friendlies 2019",
+            "teams_and_score": "Burton Albion 2 - 5 Derby County"
+          },
+          {
+            "date": "14/04/2018",
+            "competition": "Championship",
+            "teams_and_score": "Burton Albion 3 - 1 Derby County"
+          }
+        ],
+        "home_team_form": {
+          "team": "Burton Albion",
+          "form": [
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Burton Albion 1 - 0 Derby County",
+              "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 1 25/26",
+              "teams_and_score": "Leyton Orient 2 - 2 Burton Albion",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Derby County",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Burton Albion 1 - 0 Derby County",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Derby County 1 - 2 Sheffield United",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Burton Albion vs Derby County highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
+    },
+    {
+      "title": "portsmouth - derby county",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/portsmouth-derby-county-2026-09-01-kU9E.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/69.webp",
+          "name": "Derby County",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1355.webp",
+          "name": "Portsmouth",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/portsmouth-derby-county-2026-09-01.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Derby County",
+          "player": "S. Szmodics",
+          "event_type": "Goal",
+          "assist": "B. Clark",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Derby County",
+          "player": "S. Langås",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Derby County",
+          "player": "L. Salvesen",
+          "event_type": "Goal",
+          "assist": "O. Fraulo",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Portsmouth",
+          "player": "T. Devlin",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Derby County",
+          "player": "C. Taylor",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Portsmouth_wins": "1",
+          "draws": "3",
+          "Derby County_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "16/03/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Portsmouth 0 - 1 Derby County"
+          },
+          {
+            "date": "12/04/2025",
+            "competition": "Championship",
+            "teams_and_score": "Portsmouth 2 - 2 Derby County"
+          },
+          {
+            "date": "02/04/2024",
+            "competition": "League 1 23/24",
+            "teams_and_score": "Portsmouth 2 - 2 Derby County"
+          },
+          {
+            "date": "29/04/2023",
+            "competition": "League 1 22/23",
+            "teams_and_score": "Derby County 1 - 1 Portsmouth"
+          },
+          {
+            "date": "12/08/2015",
+            "competition": "League Cup",
+            "teams_and_score": "Portsmouth 2 - 1 Derby County"
+          },
+          {
+            "date": "21/04/2012",
+            "competition": "Championship",
+            "teams_and_score": "Portsmouth 1 - 2 Derby County"
+          }
+        ],
+        "home_team_form": {
+          "team": "Portsmouth",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Portsmouth 0 - 2 Derby County",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "West Ham United 3 - 1 Portsmouth",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Darmstadt 0 - 0 Portsmouth",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Portsmouth 1 - 1 Birmingham City",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Derby County",
+          "form": [
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Portsmouth 0 - 2 Derby County",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Derby County 1 - 2 Lincoln City",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Rotherham United 1 - 1 Derby County",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Portsmouth": "3",
+          "Derby County": "5"
+        },
+        "shots_off_target": {
+          "Portsmouth": "9",
+          "Derby County": "2"
+        },
+        "shots_blocked": {
+          "Portsmouth": "9",
+          "Derby County": "1"
+        },
+        "corners": {
+          "Portsmouth": "11",
+          "Derby County": "2"
+        },
+        "fouls": {
+          "Portsmouth": "12",
+          "Derby County": "15"
+        },
+        "offsides": {
+          "Portsmouth": "0",
+          "Derby County": "3"
+        },
+        "yellow_cards": {
+          "Portsmouth": "1",
+          "Derby County": "2"
+        },
+        "goalkeeper_saves": {
+          "Portsmouth": "3",
+          "Derby County": "3"
+        },
+        "crosses": {
+          "Portsmouth": "9",
+          "Derby County": "3"
+        },
+        "ball_possession": {
+          "Portsmouth": "65%",
+          "Derby County": "35%"
+        }
+      },
+      "description": "Watch Portsmouth vs Derby County highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. Portsmouth and Derby County locked horns in a gritty Championship encounter that tested the resolve of both sides throughout the afternoon. Played on September 1st, 2026, the match demanded total concentration as tactical discipline became the theme of the day. Breaking the deadlock The visitors drew first blood in the 17th minute when Sammie Szmodics converted a clinical pass from Bobby Clark to hand Derby County the lead. The goal sparked the game into life, with Portsmouth pushed onto the back foot, working hard to stabilize their shape before the halftime whistle signaled a brief moment of reflection for the players. Following the restart, the home side began to find their rhythm. The breakthrough arrived in the 62nd minute when Lars-Joergen Salvesen , just off the bench, clinically finished an Oscar Fraulo assist to level the score. The closing stages were defined by a flurry of substitutions and increased physicality, resulting in yellow cards for Sondre Klingen Langaas , Terry Devlin , and Charlie Taylor . Despite the late pressure, neither side could find a decisive blow, and the referee brought proceedings to a close at 90+7 minutes."
     }
   ]
 }

@@ -1,9 +1,255 @@
 {
   "team": "Lazio",
   "team_logo": "https://img.refooty.com/logo/teams/487.webp",
-  "total_matches": 7,
-  "Last update time": "02:50:18 AM 13-09-2026",
+  "total_matches": 8,
+  "Last update time": "07:00:29 AM 13-09-2026",
   "matches": [
+    {
+      "title": "Lazio vs AC Milan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/lazio-v-ac-milan-2026-09-12-kcrM.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Sep 12, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/489.webp",
+          "name": "AC Milan",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/487.webp",
+          "name": "Lazio",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Lazio_v_AC_Milan_2026_09_12.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Lazio",
+          "player": "M. Cancellieri",
+          "event_type": "Goal",
+          "assist": "M. Zaccagni",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Lazio",
+          "player": "T. Noslin",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "AC Milan",
+          "player": "C. Pulisic",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Lazio",
+          "player": "R. Belahyane",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "AC Milan",
+          "player": "S. Pavlović",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "AC Milan",
+          "player": "D. Moreira",
+          "event_type": "Goal",
+          "assist": "C. Pulisic",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "AC Milan",
+          "player": "D. Moreira",
+          "event_type": "Goal",
+          "assist": "A. Rabiot",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "121'",
+          "team": "Lazio",
+          "player": "M. Zaccagni",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "136'",
+          "team": "AC Milan",
+          "player": "M. Gila",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Lazio_wins": "3",
+          "draws": "0",
+          "AC Milan_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "15/03/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Lazio 1 - 0 AC Milan"
+          },
+          {
+            "date": "04/12/2025",
+            "competition": "Coppa Italia: Round of 16",
+            "teams_and_score": "Lazio 1 - 0 AC Milan"
+          },
+          {
+            "date": "29/11/2025",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "AC Milan 1 - 0 Lazio"
+          },
+          {
+            "date": "02/03/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "AC Milan 1 - 2 Lazio"
+          },
+          {
+            "date": "01/03/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Lazio 0 - 1 AC Milan"
+          },
+          {
+            "date": "06/05/2023",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "AC Milan 2 - 0 Lazio"
+          },
+          {
+            "date": "24/04/2022",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Lazio 1 - 2 AC Milan"
+          }
+        ],
+        "home_team_form": {
+          "team": "Lazio",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Lazio 2 - 2 AC Milan",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Lazio 0 - 2 Mantova",
+              "result": "L"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Frosinone 1 - 2 Lazio",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Ascoli 1 - 2 Lazio",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lazio 6 - 3 Avellino",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "AC Milan",
+          "form": [
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Lazio 2 - 2 AC Milan",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester United 2 - 4 AC Milan",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "AC Milan 1 - 2 Cagliari",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Lazio": "6",
+          "AC Milan": "7"
+        },
+        "shots_off_target": {
+          "Lazio": "2",
+          "AC Milan": "5"
+        },
+        "shots_blocked": {
+          "Lazio": "0",
+          "AC Milan": "4"
+        },
+        "corners": {
+          "Lazio": "2",
+          "AC Milan": "5"
+        },
+        "fouls": {
+          "Lazio": "15",
+          "AC Milan": "14"
+        },
+        "offsides": {
+          "Lazio": "2",
+          "AC Milan": "1"
+        },
+        "yellow_cards": {
+          "Lazio": "2",
+          "AC Milan": "3"
+        },
+        "goalkeeper_saves": {
+          "Lazio": "5",
+          "AC Milan": "4"
+        },
+        "crosses": {
+          "Lazio": "1",
+          "AC Milan": "4"
+        },
+        "ball_possession": {
+          "Lazio": "34%",
+          "AC Milan": "66%"
+        }
+      },
+      "description": "Watch Lazio vs AC Milan highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 12, 2026. The Stadio Olimpico played host to a classic Serie A encounter that saw momentum swing violently between two of Italy's footballing giants. Fans were treated to a game of two halves where tactical adjustments and individual brilliance defined the outcome. Lazio's First-Half Dominance On September 12, 2026 , Lazio started the match with clinical precision, leaving AC Milan struggling to find their rhythm. The breakthrough came early in the 10th minute when Matteo Cancellieri tapped home a cross from Mattia Zaccagni , following a sharp build-up involving Nuno Tavares . The home side looked comfortable, stifling Milan's creative outlets while remaining lethal on the break. The pressure told again in the 39th minute. Tijjani Noslin doubled the lead with a powerful header from close range, sending the home crowd into raptures. At halftime, Lazio appeared to be in total control, while AC Milan 's star-studded lineup, including the veteran Luka Modric , looked disjointed and vulnerable. The ira Turning Point Recognizing the need for change, the AC Milan management made a bold triple substitution at the start of the second half, bringing on Diego ira , Christian Pulisic , and Yunus Musah . The impact was almost instantaneous. In the 65th minute, Pulisic turned provider, delivering a cross that Diego ira met with a sensational left-footed volley to pull one back. Just two minutes later, the comeback was complete. In the 67th minute, Adrien Rabiot fed Diego ira , who unleashed a fierce strike from outside the box to beat Christos Mandas . A tense VAR check followed, but the goal was upheld, leaving the match level at 2-2. AC Milan had wiped out a two-goal deficit in a breathtaking 120-second blitz. A Frantic Finish As the clock ticked down, the intensity rose, resulting in a flurry of yellow cards for Strahinja Pavlovic , Reda Belahyane , and Mattia Zaccagni . Despite AC Milan controlling 66% of the possession and pushing for a winner through late substitute Francesco Camarda , Lazio ’s defense held firm. In the dying moments, Christos Mandas produced a crucial save to deny Omari Hutchinson , ensuring both teams shared the spoils in a thrilling draw."
+    },
     {
       "title": "Udinese vs Lazio",
       "thumbnail_url": "https://img.refooty.com/thumbnail/udinese-v-lazio-2026-09-07-ZF1m.webp",

@@ -1,9 +1,269 @@
 {
   "team": "Norwich City",
   "team_logo": "https://img.refooty.com/logo/teams/18210.webp",
-  "total_matches": 8,
-  "Last update time": "02:50:18 AM 13-09-2026",
+  "total_matches": 9,
+  "Last update time": "07:00:29 AM 13-09-2026",
   "matches": [
+    {
+      "title": "middlesbrough - norwich city",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/middlesbrough-norwich-city-2026-09-12-U9Wr.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 12, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/18210.webp",
+          "name": "Norwich City",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/70.webp",
+          "name": "Middlesbrough",
+          "score": "4"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/middlesbrough-norwich-city-2026-09-12.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Norwich City",
+          "player": "M. Toure",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Middlesbrough",
+          "player": "S. Berhalter",
+          "event_type": "Goal",
+          "assist": "T. Conway",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Middlesbrough",
+          "player": "A. Cozier-Duberry",
+          "event_type": "Goal",
+          "assist": "T. Conway",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Middlesbrough",
+          "player": "S. Berhalter",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "53'",
+          "team": "Middlesbrough",
+          "player": "R. McGree",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "70'",
+          "team": "Norwich City",
+          "player": "J. Makama",
+          "event_type": "Goal",
+          "assist": "J. Wright",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "75'",
+          "team": "Norwich City",
+          "player": "J. Wright",
+          "event_type": "Goal",
+          "assist": "P. Maghoma",
+          "score_update": "3 - 3"
+        },
+        {
+          "time": "89'",
+          "team": "Middlesbrough",
+          "player": "A. Phillips",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90'",
+          "team": "Norwich City",
+          "player": "J. Stacey",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Middlesbrough",
+          "player": "A. Phillips",
+          "event_type": "Goal",
+          "score_update": "4 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Middlesbrough_wins": "3",
+          "draws": "2",
+          "Norwich City_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "31/01/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Middlesbrough 1 - 0 Norwich City"
+          },
+          {
+            "date": "26/04/2025",
+            "competition": "Championship",
+            "teams_and_score": "Middlesbrough 0 - 0 Norwich City"
+          },
+          {
+            "date": "06/03/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Middlesbrough 3 - 1 Norwich City"
+          },
+          {
+            "date": "14/04/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Middlesbrough 5 - 1 Norwich City"
+          },
+          {
+            "date": "30/01/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Norwich City 0 - 0 Middlesbrough"
+          }
+        ],
+        "home_team_form": {
+          "team": "Middlesbrough",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Middlesbrough 4 - 3 Norwich City",
+              "result": "W"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Crystal Palace 3 - 0 Middlesbrough",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "QPR 0 - 1 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Doncaster Rovers 1 - 3 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Blackburn Rovers 2 - 1 Middlesbrough",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Norwich City",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Middlesbrough 4 - 3 Norwich City",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Cardiff City 1 - 2 Norwich City",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Millwall 3 - 0 Norwich City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Norwich City 4 - 1 MK Dons",
+              "result": "W"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Norwich City 0 - 0 Cambridge United",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Middlesbrough": "6",
+          "Norwich City": "5"
+        },
+        "shots_off_target": {
+          "Middlesbrough": "8",
+          "Norwich City": "6"
+        },
+        "shots_blocked": {
+          "Middlesbrough": "3",
+          "Norwich City": "2"
+        },
+        "corners": {
+          "Middlesbrough": "3",
+          "Norwich City": "5"
+        },
+        "fouls": {
+          "Middlesbrough": "13",
+          "Norwich City": "9"
+        },
+        "offsides": {
+          "Middlesbrough": "3",
+          "Norwich City": "1"
+        },
+        "yellow_cards": {
+          "Middlesbrough": "2",
+          "Norwich City": "1"
+        },
+        "goalkeeper_saves": {
+          "Middlesbrough": "2",
+          "Norwich City": "2"
+        },
+        "crosses": {
+          "Middlesbrough": "6",
+          "Norwich City": "3"
+        },
+        "ball_possession": {
+          "Middlesbrough": "50%",
+          "Norwich City": "50%"
+        }
+      },
+      "description": "Watch Middlesbrough vs Norwich City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 12, 2026. The atmosphere at the stadium was charged with expectation for this Championship fixture held on September 12, 2026, as both sides looked to make their mark on the season. What started as an intent-filled afternoon quickly transformed into a high-scoring thriller that kept fans guessing until the very last second. A whirlwind opening Middlesbrough stormed out of the blocks, with Mohamed Toure finding the net in the opening minute. The momentum remained firmly with the hosts as Sebastian Berhalter and Amario Cozier-Duberry added further goals, both assisted by Tommy Conway , to put the side in command. Norwich City appeared stunned by the early onslaught, but they managed to find a crucial response before the half-time whistle when Sebastian Berhalter converted, keeping the visitors within striking distance. A second-half shift Following the break, the tactical adjustments took center stage. Norwich City looked a revitalized unit, and goals from Jovon Makama and Jacob Wright —the latter following fine work from Edmond-Paris Maghoma —leveled the playing field at 3-3. The match hung in the balance, with both teams searching for a decisive blow. Deep into stoppage time, the deadlock was finally broken in favor of the hosts when Ashley Phillips struck late to secure a breathless 4-3 victory, capping off an extraordinary display of attacking football."
+    },
     {
       "title": "norwich city - birmingham city",
       "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-city-birmingham-city-2026-09-09-VYBr.webp",
@@ -46,466 +306,6 @@
       },
       "statistics": {},
       "description": "Watch Norwich City vs Birmingham highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 9, 2026."
-    },
-    {
-      "title": "Norwich City vs Milton Keynes Dons",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-city-vs-milton-keynes-dons-2026-08-08-TcUX.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1348.webp",
-          "name": "Milton Keynes Dons",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/18210.webp",
-          "name": "Norwich City",
-          "score": "4"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/norwich-city-vs-milton-keynes-dons-2026-08-08_7bfKj.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Norwich City",
-          "player": "M. Toure",
-          "event_type": "Goal",
-          "assist": "K. McLean",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Norwich City",
-          "player": "A. B. Slimane",
-          "event_type": "Goal",
-          "assist": "M. Toure",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Norwich City",
-          "player": "J. Córdoba",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Norwich City",
-          "player": "J. Stacey",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Norwich City",
-          "player": "K. McLean",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Norwich City",
-          "player": "B. Chrisene",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Milton Keynes Dons",
-          "player": "N. Mendez-Laing",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Milton Keynes Dons",
-          "player": "R. Wintle",
-          "event_type": "Goal",
-          "score_update": "3 - 1"
-        },
-        {
-          "time": "76'",
-          "team": "Norwich City",
-          "player": "A. Brooks",
-          "event_type": "Goal",
-          "score_update": "4 - 1"
-        },
-        {
-          "time": "91'",
-          "team": "Norwich City",
-          "player": "A. Brooks",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Milton Keynes Dons",
-          "player": "C. Goode",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Norwich City_wins": "2",
-          "draws": "2",
-          "Milton Keynes Dons_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "21/08/2020",
-            "competition": "Friendly 2020",
-            "teams_and_score": "Norwich City 6 - 0 MK Dons"
-          },
-          {
-            "date": "03/08/2012",
-            "competition": "Friendly 2012",
-            "teams_and_score": "MK Dons 0 - 0 Norwich City"
-          },
-          {
-            "date": "23/08/2011",
-            "competition": "English League Cup 2011/2012",
-            "teams_and_score": "Norwich City 0 - 4 MK Dons"
-          },
-          {
-            "date": "10/04/2010",
-            "competition": "English Football League - League One 2009/2010",
-            "teams_and_score": "Norwich City 1 - 1 MK Dons"
-          },
-          {
-            "date": "12/08/2008",
-            "competition": "English League Cup 2008/2009",
-            "teams_and_score": "MK Dons 1 - 0 Norwich City"
-          },
-          {
-            "date": "23/08/2005",
-            "competition": "English League Cup 2005/2006",
-            "teams_and_score": "MK Dons 0 - 1 Norwich City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Norwich City",
-          "form": [
-            "W",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Norwich City 4 - 1 MK Dons",
-              "result": "W"
-            },
-            {
-              "date": "04/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Norwich City 0 - 0 Cambridge United",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Hull City 2 - 1 Norwich City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Milton Keynes Dons",
-          "form": [
-            "L",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Norwich City 4 - 1 MK Dons",
-              "result": "L"
-            },
-            {
-              "date": "22/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Tottenham Hotspur 1 - 0 MK Dons",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Fleetwood Town 1 - 1 MK Dons",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Norwich City": "7",
-          "Milton Keynes Dons": "5"
-        },
-        "shots_off_target": {
-          "Norwich City": "9",
-          "Milton Keynes Dons": "3"
-        },
-        "shots_blocked": {
-          "Norwich City": "9",
-          "Milton Keynes Dons": "0"
-        },
-        "corners": {
-          "Norwich City": "7",
-          "Milton Keynes Dons": "3"
-        },
-        "fouls": {
-          "Norwich City": "11",
-          "Milton Keynes Dons": "13"
-        },
-        "offsides": {
-          "Norwich City": "2",
-          "Milton Keynes Dons": "1"
-        },
-        "yellow_cards": {
-          "Norwich City": "4",
-          "Milton Keynes Dons": "1"
-        },
-        "goalkeeper_saves": {
-          "Norwich City": "3",
-          "Milton Keynes Dons": "2"
-        },
-        "crosses": {
-          "Norwich City": "4",
-          "Milton Keynes Dons": "3"
-        },
-        "ball_possession": {
-          "Norwich City": "65%",
-          "Milton Keynes Dons": "35%"
-        }
-      },
-      "description": "Watch Norwich City vs Milton Keynes Dons highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. On August 8, 2026, football fans gathered for a high-stakes Carabao Cup encounter that promised plenty of action from the opening whistle. The knockout nature of the competition set the stage for an intense battle between two sides eager to progress to the next round. A Fast Start for the Canaries Norwich City wasted no time establishing their dominance at home, striking within the first minute of play. Mohamed Touré found the top right corner with a clinical right-footed shot following a clever setup by Kenny McLean . The momentum stayed firmly with the hosts, and by the 7th minute, they doubled their lead. Anis Ben Slimane capitalized on another Touré involvement, slotting a right-footed effort into the bottom right corner to stun the visitors early on. The pressure from the home side remained relentless throughout the first half. Just before the break, in the 43rd minute, Ben Chrisene added a third goal for Norwich , firing high into the center of the net after being played in by Andre Brooks . The MK Dons struggled to find a foothold as the first period ended with the hosts firmly in command. Second Half Drama and Final Flourish The second half introduced a wave of drama when MK Dons were awarded a penalty in the 54th minute after Pelle Mattsson fouled Callum Paterson . However, Norwich goalkeeper Vladan Kovacevic produced a brilliant save to deny Nathaniel Méndez-Laing from the spot. The visitors did find a way back momentarily in the 56th minute, as Ryan Wintle converted from close range following a corner to make it 3-1. Any hopes of a comeback were swiftly extinguished just three minutes later. Andre Brooks got on the scoresheet himself in the 59th minute, finding the bottom corner to restore the three-goal cushion. Despite late efforts from MK Dons and several saves by Kovacevic in stoppage time, Norwich City maintained their composure to secure a convincing 4-1 victory and advance in the tournament."
-    },
-    {
-      "title": "stoke city - norwich city",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/stoke-city-norwich-city-2026-09-01-rzxP.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Sep 1, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/18210.webp",
-          "name": "Norwich City",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/75.webp",
-          "name": "Stoke City",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/stoke-city-norwich-city-2026-09-01.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Stoke City",
-          "player": "E. Galbraith",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Stoke City",
-          "player": "B. Lawal",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Stoke City",
-          "player": "E. Galbraith",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Norwich City",
-          "player": "J. Córdoba",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Norwich City",
-          "player": "K. McLean",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Stoke City_wins": "1",
-          "draws": "1",
-          "Norwich City_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "04/01/2026",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Norwich City 0 - 2 Stoke City"
-          },
-          {
-            "date": "22/02/2025",
-            "competition": "Championship",
-            "teams_and_score": "Norwich City 4 - 2 Stoke City"
-          },
-          {
-            "date": "16/03/2024",
-            "competition": "Championship 23/24",
-            "teams_and_score": "Stoke City 0 - 3 Norwich City"
-          },
-          {
-            "date": "18/03/2023",
-            "competition": "Championship 22/23",
-            "teams_and_score": "Stoke City 0 - 0 Norwich City"
-          },
-          {
-            "date": "13/02/2021",
-            "competition": "Championship 20/21",
-            "teams_and_score": "Norwich City 4 - 1 Stoke City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Stoke City",
-          "form": [
-            "W",
-            "D",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/09/2026",
-              "competition": "Championship",
-              "teams_and_score": "Stoke City 1 - 0 Norwich City",
-              "result": "W"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Stoke City 1 - 1 Hull City",
-              "result": "D"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Southampton 3 - 1 Stoke City",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Stoke City 2 - 0 Oldham Athletic",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Stoke City 1 - 1 Valencia",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Norwich City",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/09/2026",
-              "competition": "Championship",
-              "teams_and_score": "Stoke City 1 - 0 Norwich City",
-              "result": "L"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Cardiff City 1 - 2 Norwich City",
-              "result": "W"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Millwall 3 - 0 Norwich City",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Norwich City 4 - 1 MK Dons",
-              "result": "W"
-            },
-            {
-              "date": "04/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Norwich City 0 - 0 Cambridge United",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Stoke City": "3",
-          "Norwich City": "6"
-        },
-        "shots_off_target": {
-          "Stoke City": "2",
-          "Norwich City": "4"
-        },
-        "shots_blocked": {
-          "Stoke City": "1",
-          "Norwich City": "5"
-        },
-        "corners": {
-          "Stoke City": "3",
-          "Norwich City": "5"
-        },
-        "fouls": {
-          "Stoke City": "16",
-          "Norwich City": "10"
-        },
-        "offsides": {
-          "Stoke City": "7",
-          "Norwich City": "4"
-        },
-        "yellow_cards": {
-          "Stoke City": "2",
-          "Norwich City": "2"
-        },
-        "goalkeeper_saves": {
-          "Stoke City": "5",
-          "Norwich City": "2"
-        },
-        "crosses": {
-          "Stoke City": "3",
-          "Norwich City": "4"
-        },
-        "ball_possession": {
-          "Stoke City": "28%",
-          "Norwich City": "72%"
-        }
-      },
-      "description": "Watch Stoke City vs Norwich City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. In a physical encounter at the heart of the Championship season, Stoke City and Norwich City faced off on 1 September 2026 in a match defined by grit and narrow margins. Both sides entered the fray with high expectations, looking to impose their style of football on the game from the very first whistle. Early breakthrough The narrative of the match was largely shaped early on. Just 13 minutes into the contest, Ethan Galbraith displayed his clinical edge, finding the back of the net to give his side a crucial advantage. This early goal forced the opposition to push forward aggressively, leading to a match characterized by frantic challenges and tactical adjustments. Fighting for dominance The physicality of the match was evident in the latter stages, as the referee reached into his pocket to caution Bosun Lawal , Ethan Galbraith , Jose Cordoba , and Kenny McLean . Managers on both sides utilized their benches extensively, introducing fresh legs like Sam Gallagher , Robert Bozenik , and Ben Pearson to inject pace into the final third. Despite the high intensity and multiple substitutions during the second half, the defenses held firm, and the match concluded after six minutes of stoppage time without further changes to the scoreline."
     },
     {
       "title": "Norwich City vs Burnley",
@@ -1582,6 +1382,466 @@
         }
       },
       "description": "Watch Millwall vs Norwich City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The atmosphere at The Den reached a fever pitch as Millwall and Norwich City squared off in a highly anticipated Championship encounter. Both clubs entered the match looking to establish momentum in the early stages of the season, setting the stage for a tactical and physical battle. Arconte Sets the Tone On August 22, 2026, the referee’s whistle signaled the start of a contest that would quickly lean in favor of the home side. Millwall displayed clinical efficiency early on, breaking the deadlock in the 18th minute. Tairyk Arconte found himself in the right place at the right time to fire the ball home, giving his side a crucial lead and electrifying the home support. As the first half progressed, the physical nature of the game became apparent. A flurry of cautions followed, with Norwich City ’s Jose Cordoba and Harry Darling both entering the referee’s book. Millwall 's Jenson Metcalfe also received a yellow card shortly before the break, as both teams fought tooth and nail for every inch of grass in a tightly contested midfield scrap. Red Card and a Second for Arconte The second half saw the momentum shift decisively. In the 58th minute, Jake Cooper turned provider, delivering a pinpoint assist for Tairyk Arconte , who made no mistake in securing his second goal of the afternoon. The mountain became even steeper for the visitors in the 64th minute when Jose Cordoba was shown a second yellow card, resulting in a dismissal that left Norwich a man down for the remainder of the match . Faced with a numerical disadvantage, the Canaries attempted to refresh their lineup with multiple substitutions, but the Millwall pressure remained relentless. The tactical discipline of the hosts prevented any real chance of a comeback, as they exploited the gaps left by the shorthanded defense. Cundle Completes the Rout With the game entering its final stages, Millwall added a flourish to their performance. In the 85th minute, substitute Luke Cundle —who had replaced Kyrell Lisbie just moments earlier—latched onto a pass from Camiel Neghli to slot home the third. It was a perfect example of squad depth as the fresh legs from the bench combined to seal the result. The final whistle at 90+4' confirmed a comprehensive victory for the Lions. For Millwall , it was a statement of intent in their sports campaign, while Norwich City will head back to Carrow Road reflecting on a difficult afternoon where discipline and clinical finishing were the defining factors."
+    },
+    {
+      "title": "Norwich City vs Milton Keynes Dons",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/norwich-city-vs-milton-keynes-dons-2026-08-08-TcUX.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1348.webp",
+          "name": "Milton Keynes Dons",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/18210.webp",
+          "name": "Norwich City",
+          "score": "4"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/norwich-city-vs-milton-keynes-dons-2026-08-08_7bfKj.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Norwich City",
+          "player": "M. Toure",
+          "event_type": "Goal",
+          "assist": "K. McLean",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Norwich City",
+          "player": "A. B. Slimane",
+          "event_type": "Goal",
+          "assist": "M. Toure",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Norwich City",
+          "player": "J. Córdoba",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Norwich City",
+          "player": "J. Stacey",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Norwich City",
+          "player": "K. McLean",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Norwich City",
+          "player": "B. Chrisene",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Milton Keynes Dons",
+          "player": "N. Mendez-Laing",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Milton Keynes Dons",
+          "player": "R. Wintle",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Norwich City",
+          "player": "A. Brooks",
+          "event_type": "Goal",
+          "score_update": "4 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Norwich City",
+          "player": "A. Brooks",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Milton Keynes Dons",
+          "player": "C. Goode",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Norwich City_wins": "2",
+          "draws": "2",
+          "Milton Keynes Dons_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "21/08/2020",
+            "competition": "Friendly 2020",
+            "teams_and_score": "Norwich City 6 - 0 MK Dons"
+          },
+          {
+            "date": "03/08/2012",
+            "competition": "Friendly 2012",
+            "teams_and_score": "MK Dons 0 - 0 Norwich City"
+          },
+          {
+            "date": "23/08/2011",
+            "competition": "English League Cup 2011/2012",
+            "teams_and_score": "Norwich City 0 - 4 MK Dons"
+          },
+          {
+            "date": "10/04/2010",
+            "competition": "English Football League - League One 2009/2010",
+            "teams_and_score": "Norwich City 1 - 1 MK Dons"
+          },
+          {
+            "date": "12/08/2008",
+            "competition": "English League Cup 2008/2009",
+            "teams_and_score": "MK Dons 1 - 0 Norwich City"
+          },
+          {
+            "date": "23/08/2005",
+            "competition": "English League Cup 2005/2006",
+            "teams_and_score": "MK Dons 0 - 1 Norwich City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Norwich City",
+          "form": [
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Norwich City 4 - 1 MK Dons",
+              "result": "W"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Norwich City 0 - 0 Cambridge United",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Hull City 2 - 1 Norwich City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Milton Keynes Dons",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Norwich City 4 - 1 MK Dons",
+              "result": "L"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Tottenham Hotspur 1 - 0 MK Dons",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "League 2 25/26",
+              "teams_and_score": "Fleetwood Town 1 - 1 MK Dons",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Norwich City": "7",
+          "Milton Keynes Dons": "5"
+        },
+        "shots_off_target": {
+          "Norwich City": "9",
+          "Milton Keynes Dons": "3"
+        },
+        "shots_blocked": {
+          "Norwich City": "9",
+          "Milton Keynes Dons": "0"
+        },
+        "corners": {
+          "Norwich City": "7",
+          "Milton Keynes Dons": "3"
+        },
+        "fouls": {
+          "Norwich City": "11",
+          "Milton Keynes Dons": "13"
+        },
+        "offsides": {
+          "Norwich City": "2",
+          "Milton Keynes Dons": "1"
+        },
+        "yellow_cards": {
+          "Norwich City": "4",
+          "Milton Keynes Dons": "1"
+        },
+        "goalkeeper_saves": {
+          "Norwich City": "3",
+          "Milton Keynes Dons": "2"
+        },
+        "crosses": {
+          "Norwich City": "4",
+          "Milton Keynes Dons": "3"
+        },
+        "ball_possession": {
+          "Norwich City": "65%",
+          "Milton Keynes Dons": "35%"
+        }
+      },
+      "description": "Watch Norwich City vs Milton Keynes Dons highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on August 8, 2026. On August 8, 2026, football fans gathered for a high-stakes Carabao Cup encounter that promised plenty of action from the opening whistle. The knockout nature of the competition set the stage for an intense battle between two sides eager to progress to the next round. A Fast Start for the Canaries Norwich City wasted no time establishing their dominance at home, striking within the first minute of play. Mohamed Touré found the top right corner with a clinical right-footed shot following a clever setup by Kenny McLean . The momentum stayed firmly with the hosts, and by the 7th minute, they doubled their lead. Anis Ben Slimane capitalized on another Touré involvement, slotting a right-footed effort into the bottom right corner to stun the visitors early on. The pressure from the home side remained relentless throughout the first half. Just before the break, in the 43rd minute, Ben Chrisene added a third goal for Norwich , firing high into the center of the net after being played in by Andre Brooks . The MK Dons struggled to find a foothold as the first period ended with the hosts firmly in command. Second Half Drama and Final Flourish The second half introduced a wave of drama when MK Dons were awarded a penalty in the 54th minute after Pelle Mattsson fouled Callum Paterson . However, Norwich goalkeeper Vladan Kovacevic produced a brilliant save to deny Nathaniel Méndez-Laing from the spot. The visitors did find a way back momentarily in the 56th minute, as Ryan Wintle converted from close range following a corner to make it 3-1. Any hopes of a comeback were swiftly extinguished just three minutes later. Andre Brooks got on the scoresheet himself in the 59th minute, finding the bottom corner to restore the three-goal cushion. Despite late efforts from MK Dons and several saves by Kovacevic in stoppage time, Norwich City maintained their composure to secure a convincing 4-1 victory and advance in the tournament."
+    },
+    {
+      "title": "stoke city - norwich city",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/stoke-city-norwich-city-2026-09-01-rzxP.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/18210.webp",
+          "name": "Norwich City",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/75.webp",
+          "name": "Stoke City",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/stoke-city-norwich-city-2026-09-01.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Stoke City",
+          "player": "E. Galbraith",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Stoke City",
+          "player": "B. Lawal",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Stoke City",
+          "player": "E. Galbraith",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Norwich City",
+          "player": "J. Córdoba",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Norwich City",
+          "player": "K. McLean",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Stoke City_wins": "1",
+          "draws": "1",
+          "Norwich City_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "04/01/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Norwich City 0 - 2 Stoke City"
+          },
+          {
+            "date": "22/02/2025",
+            "competition": "Championship",
+            "teams_and_score": "Norwich City 4 - 2 Stoke City"
+          },
+          {
+            "date": "16/03/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Stoke City 0 - 3 Norwich City"
+          },
+          {
+            "date": "18/03/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Stoke City 0 - 0 Norwich City"
+          },
+          {
+            "date": "13/02/2021",
+            "competition": "Championship 20/21",
+            "teams_and_score": "Norwich City 4 - 1 Stoke City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Stoke City",
+          "form": [
+            "W",
+            "D",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Stoke City 1 - 0 Norwich City",
+              "result": "W"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Stoke City 1 - 1 Hull City",
+              "result": "D"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Southampton 3 - 1 Stoke City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Stoke City 2 - 0 Oldham Athletic",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Stoke City 1 - 1 Valencia",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Norwich City",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Stoke City 1 - 0 Norwich City",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Cardiff City 1 - 2 Norwich City",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Millwall 3 - 0 Norwich City",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Norwich City 4 - 1 MK Dons",
+              "result": "W"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Norwich City 0 - 0 Cambridge United",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Stoke City": "3",
+          "Norwich City": "6"
+        },
+        "shots_off_target": {
+          "Stoke City": "2",
+          "Norwich City": "4"
+        },
+        "shots_blocked": {
+          "Stoke City": "1",
+          "Norwich City": "5"
+        },
+        "corners": {
+          "Stoke City": "3",
+          "Norwich City": "5"
+        },
+        "fouls": {
+          "Stoke City": "16",
+          "Norwich City": "10"
+        },
+        "offsides": {
+          "Stoke City": "7",
+          "Norwich City": "4"
+        },
+        "yellow_cards": {
+          "Stoke City": "2",
+          "Norwich City": "2"
+        },
+        "goalkeeper_saves": {
+          "Stoke City": "5",
+          "Norwich City": "2"
+        },
+        "crosses": {
+          "Stoke City": "3",
+          "Norwich City": "4"
+        },
+        "ball_possession": {
+          "Stoke City": "28%",
+          "Norwich City": "72%"
+        }
+      },
+      "description": "Watch Stoke City vs Norwich City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. In a physical encounter at the heart of the Championship season, Stoke City and Norwich City faced off on 1 September 2026 in a match defined by grit and narrow margins. Both sides entered the fray with high expectations, looking to impose their style of football on the game from the very first whistle. Early breakthrough The narrative of the match was largely shaped early on. Just 13 minutes into the contest, Ethan Galbraith displayed his clinical edge, finding the back of the net to give his side a crucial advantage. This early goal forced the opposition to push forward aggressively, leading to a match characterized by frantic challenges and tactical adjustments. Fighting for dominance The physicality of the match was evident in the latter stages, as the referee reached into his pocket to caution Bosun Lawal , Ethan Galbraith , Jose Cordoba , and Kenny McLean . Managers on both sides utilized their benches extensively, introducing fresh legs like Sam Gallagher , Robert Bozenik , and Ben Pearson to inject pace into the final third. Despite the high intensity and multiple substitutions during the second half, the defenses held firm, and the match concluded after six minutes of stoppage time without further changes to the scoreline."
     }
   ]
 }

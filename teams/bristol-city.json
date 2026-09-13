@@ -1,393 +1,176 @@
 {
   "team": "Bristol City",
   "team_logo": "https://img.refooty.com/logo/teams/56.webp",
-  "total_matches": 5,
-  "Last update time": "02:50:19 AM 13-09-2026",
+  "total_matches": 6,
+  "Last update time": "07:00:29 AM 13-09-2026",
   "matches": [
     {
-      "title": "Bristol City vs Millwall",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-city-vs-millwall-2026-08-15-4Y4z.webp",
+      "title": "southampton - bristol city",
+      "thumbnail_url": "https://refooty.com/preview.webp",
       "competition": "Championship",
       "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Aug 15, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/58.webp",
-          "name": "Millwall",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/56.webp",
-          "name": "Bristol City",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/bristol-city-vs-millwall-2026-08-15_BYhkC.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Millwall",
-          "player": "J. Coburn",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Bristol City",
-          "player": "A. Randell",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Bristol City",
-          "player": "A. Randell",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "46'",
-          "team": "Millwall",
-          "player": "J. Coburn",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Millwall",
-          "player": "J. Metcalfe",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Millwall",
-          "player": "J. Coburn",
-          "event_type": "Goal",
-          "assist": "J. Metcalfe",
-          "score_update": "0 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Bristol City_wins": "2",
-          "draws": "1",
-          "Millwall_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "29/12/2025",
-            "competition": "Championship 25/26",
-            "teams_and_score": "Millwall 2 - 1 Bristol City"
-          },
-          {
-            "date": "04/03/2025",
-            "competition": "Championship",
-            "teams_and_score": "Millwall 0 - 2 Bristol City"
-          },
-          {
-            "date": "01/01/2024",
-            "competition": "Championship 23/24",
-            "teams_and_score": "Bristol City 0 - 1 Millwall"
-          },
-          {
-            "date": "29/12/2022",
-            "competition": "Championship 22/23",
-            "teams_and_score": "Millwall 0 - 0 Bristol City"
-          },
-          {
-            "date": "02/01/2022",
-            "competition": "Championship 21/22",
-            "teams_and_score": "Bristol City 3 - 2 Millwall"
-          }
-        ],
-        "home_team_form": {
-          "team": "Bristol City",
-          "form": [
-            "L",
-            "L",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Bristol City 0 - 2 Millwall",
-              "result": "L"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Bristol City 0 - 1 Walsall",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Exeter City 1 - 1 Bristol City",
-              "result": "D"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Bristol City 4 - 1 Newcastle United",
-              "result": "W"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Forest Green Rovers 3 - 2 Bristol City",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Millwall",
-          "form": [
-            "W",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Bristol City 0 - 2 Millwall",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "QPR 1 - 1 Millwall",
-              "result": "D"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Millwall 1 - 0 Royal Antwerp",
-              "result": "W"
-            },
-            {
-              "date": "11/05/2026",
-              "competition": "Championship: Play-offs 25/26",
-              "teams_and_score": "Millwall 0 - 2 Hull City",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Bristol City": "0",
-          "Millwall": "3"
-        },
-        "shots_off_target": {
-          "Bristol City": "6",
-          "Millwall": "10"
-        },
-        "shots_blocked": {
-          "Bristol City": "2",
-          "Millwall": "11"
-        },
-        "corners": {
-          "Bristol City": "6",
-          "Millwall": "6"
-        },
-        "fouls": {
-          "Bristol City": "8",
-          "Millwall": "12"
-        },
-        "offsides": {
-          "Bristol City": "1",
-          "Millwall": "3"
-        },
-        "yellow_cards": {
-          "Bristol City": "0",
-          "Millwall": "2"
-        },
-        "red_cards": {
-          "Bristol City": "1",
-          "Millwall": "0"
-        },
-        "goalkeeper_saves": {
-          "Bristol City": "2",
-          "Millwall": "0"
-        },
-        "crosses": {
-          "Bristol City": "0",
-          "Millwall": "13"
-        },
-        "ball_possession": {
-          "Bristol City": "34%",
-          "Millwall": "66%"
-        }
-      },
-      "description": "Watch Bristol City vs Millwall highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The atmosphere was electric on August 15, 2026 , as Bristol City faced off against Millwall in a highly anticipated Championship encounter. Both sets of players took to the pitch with high energy, setting the stage for a match where tactical discipline and clinical finishing would prove to be the ultimate difference-makers. Early Discipline and the Red Card Turning Point The contest began with a physical edge, as the referee was called into action early to maintain control. Millwall forward Josh Coburn received an early booking in the 15th minute, but the momentum shifted decisively against the hosts later in the half. Bristol City midfielder Adam Randell was cautioned in the 23rd minute, and his afternoon came to a premature end in the 36th minute after receiving a second yellow card. Reduced to ten men, the home side faced an uphill battle for the remainder of the afternoon. Millwall wasted little time in exploiting their numerical advantage. In the 41st minute, Josh Coburn found the back of the net to break the deadlock, silencing the home crowd. Despite the tactical adjustments from the Bristol City bench, including the introduction of Kyrell Lisbie for Femi Azeez , the visitors headed into the break with both a lead and a man advantage. Coburn Seals the Result in the Second Half The second half started much like the first ended, with the visitors exerting pressure. Just five minutes after the restart, Jenson Metcalfe turned provider, delivering a pinpoint assist for Josh Coburn , who clinically dispatched his second goal of the match in the 50th minute. This two-goal cushion allowed Millwall to manage the game with confidence, while Bristol City struggled to create clear-cut chances with a depleted lineup. As the clock ticked down, both managers turned to their benches to freshen up the play. Mark Sykes and Lyndon Dykes were among the many substitutes introduced as the pace of the game naturally slowed. Despite a late push from the hosts in the six minutes of added time, Millwall remained professional and composed. The final whistle confirmed a comprehensive victory for the visitors, headlined by Coburn's brace and a pivotal first-half dismissal."
-    },
-    {
-      "title": "preston north end - bristol city",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-bristol-city-2026-09-01-xM8e.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Sep 1, 2026",
+      "date": "Sep 12, 2026",
       "events_info": {
         "away_team": {
           "logo": "https://img.refooty.com/logo/teams/56.webp",
           "name": "Bristol City",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/25148.webp",
-          "name": "Preston North End",
           "score": "1"
         },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/41.webp",
+          "name": "Southampton",
+          "score": "4"
+        },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-bristol-city-2026-09-01.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/southampton-bristol-city-2026-09-12.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Bristol City",
-          "player": "S. Twine",
+          "team": "Southampton",
+          "player": "C. Larin",
           "event_type": "Goal",
-          "assist": "L. Tolaj",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "Preston North End",
-          "player": "J. Thompson",
-          "event_type": "Yellow Card"
+          "assist": "F. Azaz",
+          "score_update": "1 - 0"
         },
         {
           "time": "46'",
-          "team": "Preston North End",
-          "player": "C. Wiley",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
+          "team": "Bristol City",
+          "player": "L. N. Eissat",
+          "event_type": "Yellow Card"
         },
         {
           "time": "61'",
-          "team": "Bristol City",
-          "player": "L. N. Eissat",
+          "team": "Southampton",
+          "player": "C. Larin",
           "event_type": "Goal",
-          "assist": "R. Cardines",
-          "score_update": "1 - 2"
+          "score_update": "2 - 0"
         },
         {
           "time": "76'",
-          "team": "Preston North End",
-          "player": "L. Lindsay",
-          "event_type": "Yellow Card"
+          "team": "Bristol City",
+          "player": "L. Tolaj",
+          "event_type": "Goal",
+          "assist": "R. Cardines",
+          "score_update": "2 - 1"
         },
         {
           "time": "91'",
-          "team": "Bristol City",
-          "player": "D. Ballard",
+          "team": "Southampton",
+          "player": "K. Matsuki",
           "event_type": "Goal",
-          "score_update": "1 - 3"
+          "assist": "F. Azaz",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "Southampton",
+          "player": "F. Azaz",
+          "event_type": "Goal",
+          "assist": "D. Mubama",
+          "score_update": "4 - 1"
+        },
+        {
+          "time": "121'",
+          "team": "Bristol City",
+          "player": "S. Greenwood",
+          "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Preston North End_wins": "2",
+          "Southampton_wins": "1",
           "draws": "2",
-          "Bristol City_wins": "1"
+          "Bristol City_wins": "2"
         },
         "previous_matches": [
           {
-            "date": "04/01/2026",
+            "date": "21/04/2026",
             "competition": "Championship 25/26",
-            "teams_and_score": "Bristol City 0 - 2 Preston North End"
+            "teams_and_score": "Southampton 2 - 2 Bristol City"
           },
           {
-            "date": "03/05/2025",
-            "competition": "Championship",
-            "teams_and_score": "Bristol City 2 - 2 Preston North End"
-          },
-          {
-            "date": "13/01/2024",
+            "date": "13/02/2024",
             "competition": "Championship 23/24",
-            "teams_and_score": "Preston North End 2 - 0 Bristol City"
+            "teams_and_score": "Bristol City 3 - 1 Southampton"
           },
           {
-            "date": "04/02/2023",
-            "competition": "Championship 22/23",
-            "teams_and_score": "Preston North End 1 - 2 Bristol City"
+            "date": "24/09/2013",
+            "competition": "League Cup",
+            "teams_and_score": "Southampton 2 - 0 Bristol City"
           },
           {
-            "date": "29/01/2022",
-            "competition": "Championship 21/22",
-            "teams_and_score": "Preston North End 2 - 2 Bristol City"
+            "date": "07/08/2012",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Bristol City 1 - 1 Southampton"
+          },
+          {
+            "date": "30/12/2011",
+            "competition": "Championship",
+            "teams_and_score": "Southampton 0 - 1 Bristol City"
           }
         ],
         "home_team_form": {
-          "team": "Preston North End",
+          "team": "Southampton",
           "form": [
+            "W",
             "L",
-            "L",
-            "L",
-            "D",
-            "L"
+            "W",
+            "W",
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "01/09/2026",
+              "date": "12/09/2026",
               "competition": "Championship",
-              "teams_and_score": "Preston North End 1 - 3 Bristol City",
-              "result": "L"
+              "teams_and_score": "Southampton 4 - 1 Bristol City",
+              "result": "W"
             },
             {
-              "date": "26/08/2026",
+              "date": "25/08/2026",
               "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "teams_and_score": "Southampton 1 - 4 West Ham United",
               "result": "L"
             },
             {
               "date": "22/08/2026",
               "competition": "Championship",
-              "teams_and_score": "Preston North End 1 - 3 Wolves",
-              "result": "L"
+              "teams_and_score": "Southampton 3 - 1 Stoke City",
+              "result": "W"
             },
             {
               "date": "08/08/2026",
               "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Preston North End 1 - 1 Huddersfield Town",
-              "result": "D"
+              "teams_and_score": "Colchester United 0 - 2 Southampton",
+              "result": "W"
             },
             {
               "date": "01/08/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Stockport County 1 - 0 Preston North End",
-              "result": "L"
+              "teams_and_score": "Preussen Muenster 1 - 2 Southampton",
+              "result": "W"
             }
           ]
         },
         "away_team_form": {
           "team": "Bristol City",
           "form": [
-            "W",
+            "L",
             "L",
             "D",
-            "W",
-            "L"
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "01/09/2026",
+              "date": "12/09/2026",
               "competition": "Championship",
-              "teams_and_score": "Preston North End 1 - 3 Bristol City",
-              "result": "W"
+              "teams_and_score": "Southampton 4 - 1 Bristol City",
+              "result": "L"
             },
             {
               "date": "06/08/2026",
@@ -406,59 +189,49 @@
               "competition": "Featured Club Friendlies",
               "teams_and_score": "Bristol City 4 - 1 Newcastle United",
               "result": "W"
-            },
-            {
-              "date": "29/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Forest Green Rovers 3 - 2 Bristol City",
-              "result": "L"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Preston North End": "4",
-          "Bristol City": "7"
+          "Southampton": "5",
+          "Bristol City": "6"
         },
         "shots_off_target": {
-          "Preston North End": "9",
-          "Bristol City": "4"
+          "Southampton": "2",
+          "Bristol City": "12"
         },
         "shots_blocked": {
-          "Preston North End": "5",
-          "Bristol City": "1"
+          "Southampton": "3",
+          "Bristol City": "3"
         },
         "corners": {
-          "Preston North End": "5",
-          "Bristol City": "2"
+          "Southampton": "2",
+          "Bristol City": "5"
         },
         "fouls": {
-          "Preston North End": "11",
+          "Southampton": "6",
           "Bristol City": "14"
         },
-        "offsides": {
-          "Preston North End": "2",
-          "Bristol City": "3"
-        },
         "yellow_cards": {
-          "Preston North End": "2",
-          "Bristol City": "0"
+          "Southampton": "0",
+          "Bristol City": "2"
         },
         "goalkeeper_saves": {
-          "Preston North End": "4",
-          "Bristol City": "3"
+          "Southampton": "4",
+          "Bristol City": "1"
         },
         "crosses": {
-          "Preston North End": "11",
-          "Bristol City": "4"
+          "Southampton": "4",
+          "Bristol City": "10"
         },
         "ball_possession": {
-          "Preston North End": "52%",
-          "Bristol City": "48%"
+          "Southampton": "56%",
+          "Bristol City": "44%"
         }
       },
-      "description": "Watch Preston North End vs Bristol City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. High-Stakes Championship Showdown Ends in Thriller The clash between Preston North End and Bristol City on September 1, 2026, proved to be a tactical and physical test for both sides, with the match flow shifting unpredictably throughout the 90 minutes. Both teams entered the pitch with clear intentions of securing points, setting the stage for an engaging contest. Early Momentum and Second-Half Surge Preston North End signaled their intent early, as Scott Twine found the back of the net in the 4th minute following an assist from Lorent Tolaj . The visitors were forced to weather early pressure but emerged from the break with renewed vigor. In the 51st minute, Caleb Wiley leveled the scoring, changing the complexion of the match. The physical nature of the contest saw Jordan Thompson and Liam Lindsay receive yellow cards, reflecting the intense battle happening in the middle of the park. A Dramatic Conclusion As the clock ticked toward the final whistle, both managers utilized their benches to inject fresh energy into the game. The tactical shift paid off for Bristol City in the 79th minute when Lisav Naif Eissat capitalized on an assist from Rio Cardines to take the lead. However, the drama was not over. Dominic Ballard stepped up for Preston North End in the 86th minute to equalize. The match concluded at 90+5 minutes with neither side able to find a late winner, ending a high-energy encounter on level terms."
+      "description": "Watch Southampton vs Bristol City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 12, 2026. The clash between Southampton and Bristol City set the stage for an intense encounter in the Championship , with both sides looking to make their mark on the league table. On September 12, 2026, fans were treated to a spectacle that showcased the unpredictability of professional football . A tactical first half From the opening whistle, both teams demonstrated a clear desire to press high and control the midfield. The breakthrough arrived in the 38th minute when Cyle Larin found the back of the net, courtesy of an assist from Finn Azaz . This goal dictated the tempo for the remainder of the first half, as the visitors maintained a disciplined defensive structure to hold their slender lead going into the break. An explosive comeback The second half proved to be a different story entirely, characterized by rapid attacks and emotional shifts. Cyle Larin doubled the lead in the 61st minute, seemingly putting the visitors in the driver's seat. However, Southampton refused to yield. Lorent Tolaj sparked the comeback in the 66th minute following an assist from Rio Cardines . Momentum surged, and in the 82nd minute, Kuryu Matsuki leveled the score after a pass from Finn Azaz . The turnaround was completed just three minutes later when Finn Azaz turned from provider to scorer, netting the winner from a Divin Mubama assist. Despite late yellow cards and frantic defensive efforts, the final whistle confirmed a dramatic end to a high-energy match."
     },
     {
       "title": "Bristol City vs Portsmouth",
@@ -1044,6 +817,462 @@
         }
       },
       "description": "Watch Burnley vs Bristol City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The stage was set for a fierce encounter as both sides looked to make their mark on the Championship table. A highly competitive atmosphere permeated the stadium, keeping fans on the edge of their seats until the very end. Breaking the deadlock On September 5, 2026, Burnley and Bristol City faced off in a match defined by tactical grit. The first half saw both defenses hold firm, but the game ignited in the 56th minute when Aaron Ramsey found the net for Burnley , assisted by Reo Hatate . The goal forced Bristol City to shift their approach, bringing fresh legs onto the pitch to spark a late-game surge. A dramatic reversal The visitors' persistence finally paid off in the 82nd minute when Rob Dickie scored to level the scoreline, capitalizing on an assist from Rio Cardines . Momentum had shifted, and Bristol City took full advantage of the newfound energy. In a stunning finale, Yu Hirakawa struck in the 90+1st minute to secure the comeback victory. Despite late efforts from the hosts—highlighted by a yellow card for Armando Broja —the Bristol City defense held firm to claim an impressive away win."
+    },
+    {
+      "title": "Bristol City vs Millwall",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-city-vs-millwall-2026-08-15-4Y4z.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Aug 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/58.webp",
+          "name": "Millwall",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/56.webp",
+          "name": "Bristol City",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/bristol-city-vs-millwall-2026-08-15_BYhkC.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Millwall",
+          "player": "J. Coburn",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Bristol City",
+          "player": "A. Randell",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Bristol City",
+          "player": "A. Randell",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "46'",
+          "team": "Millwall",
+          "player": "J. Coburn",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Millwall",
+          "player": "J. Metcalfe",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Millwall",
+          "player": "J. Coburn",
+          "event_type": "Goal",
+          "assist": "J. Metcalfe",
+          "score_update": "0 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bristol City_wins": "2",
+          "draws": "1",
+          "Millwall_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "29/12/2025",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Millwall 2 - 1 Bristol City"
+          },
+          {
+            "date": "04/03/2025",
+            "competition": "Championship",
+            "teams_and_score": "Millwall 0 - 2 Bristol City"
+          },
+          {
+            "date": "01/01/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Bristol City 0 - 1 Millwall"
+          },
+          {
+            "date": "29/12/2022",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Millwall 0 - 0 Bristol City"
+          },
+          {
+            "date": "02/01/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Bristol City 3 - 2 Millwall"
+          }
+        ],
+        "home_team_form": {
+          "team": "Bristol City",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Bristol City 0 - 2 Millwall",
+              "result": "L"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bristol City 0 - 1 Walsall",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Exeter City 1 - 1 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bristol City 4 - 1 Newcastle United",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Forest Green Rovers 3 - 2 Bristol City",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Millwall",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Bristol City 0 - 2 Millwall",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "QPR 1 - 1 Millwall",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Millwall 1 - 0 Royal Antwerp",
+              "result": "W"
+            },
+            {
+              "date": "11/05/2026",
+              "competition": "Championship: Play-offs 25/26",
+              "teams_and_score": "Millwall 0 - 2 Hull City",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bristol City": "0",
+          "Millwall": "3"
+        },
+        "shots_off_target": {
+          "Bristol City": "6",
+          "Millwall": "10"
+        },
+        "shots_blocked": {
+          "Bristol City": "2",
+          "Millwall": "11"
+        },
+        "corners": {
+          "Bristol City": "6",
+          "Millwall": "6"
+        },
+        "fouls": {
+          "Bristol City": "8",
+          "Millwall": "12"
+        },
+        "offsides": {
+          "Bristol City": "1",
+          "Millwall": "3"
+        },
+        "yellow_cards": {
+          "Bristol City": "0",
+          "Millwall": "2"
+        },
+        "red_cards": {
+          "Bristol City": "1",
+          "Millwall": "0"
+        },
+        "goalkeeper_saves": {
+          "Bristol City": "2",
+          "Millwall": "0"
+        },
+        "crosses": {
+          "Bristol City": "0",
+          "Millwall": "13"
+        },
+        "ball_possession": {
+          "Bristol City": "34%",
+          "Millwall": "66%"
+        }
+      },
+      "description": "Watch Bristol City vs Millwall highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on August 15, 2026. The atmosphere was electric on August 15, 2026 , as Bristol City faced off against Millwall in a highly anticipated Championship encounter. Both sets of players took to the pitch with high energy, setting the stage for a match where tactical discipline and clinical finishing would prove to be the ultimate difference-makers. Early Discipline and the Red Card Turning Point The contest began with a physical edge, as the referee was called into action early to maintain control. Millwall forward Josh Coburn received an early booking in the 15th minute, but the momentum shifted decisively against the hosts later in the half. Bristol City midfielder Adam Randell was cautioned in the 23rd minute, and his afternoon came to a premature end in the 36th minute after receiving a second yellow card. Reduced to ten men, the home side faced an uphill battle for the remainder of the afternoon. Millwall wasted little time in exploiting their numerical advantage. In the 41st minute, Josh Coburn found the back of the net to break the deadlock, silencing the home crowd. Despite the tactical adjustments from the Bristol City bench, including the introduction of Kyrell Lisbie for Femi Azeez , the visitors headed into the break with both a lead and a man advantage. Coburn Seals the Result in the Second Half The second half started much like the first ended, with the visitors exerting pressure. Just five minutes after the restart, Jenson Metcalfe turned provider, delivering a pinpoint assist for Josh Coburn , who clinically dispatched his second goal of the match in the 50th minute. This two-goal cushion allowed Millwall to manage the game with confidence, while Bristol City struggled to create clear-cut chances with a depleted lineup. As the clock ticked down, both managers turned to their benches to freshen up the play. Mark Sykes and Lyndon Dykes were among the many substitutes introduced as the pace of the game naturally slowed. Despite a late push from the hosts in the six minutes of added time, Millwall remained professional and composed. The final whistle confirmed a comprehensive victory for the visitors, headlined by Coburn's brace and a pivotal first-half dismissal."
+    },
+    {
+      "title": "preston north end - bristol city",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/preston-north-end-bristol-city-2026-09-01-xM8e.webp",
+      "competition": "Championship",
+      "competition_cover": "https://refooty.com/covers/championship.webp",
+      "date": "Sep 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/56.webp",
+          "name": "Bristol City",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/25148.webp",
+          "name": "Preston North End",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/preston-north-end-bristol-city-2026-09-01.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Bristol City",
+          "player": "S. Twine",
+          "event_type": "Goal",
+          "assist": "L. Tolaj",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Preston North End",
+          "player": "J. Thompson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Preston North End",
+          "player": "C. Wiley",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Bristol City",
+          "player": "L. N. Eissat",
+          "event_type": "Goal",
+          "assist": "R. Cardines",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Preston North End",
+          "player": "L. Lindsay",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Bristol City",
+          "player": "D. Ballard",
+          "event_type": "Goal",
+          "score_update": "1 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Preston North End_wins": "2",
+          "draws": "2",
+          "Bristol City_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "04/01/2026",
+            "competition": "Championship 25/26",
+            "teams_and_score": "Bristol City 0 - 2 Preston North End"
+          },
+          {
+            "date": "03/05/2025",
+            "competition": "Championship",
+            "teams_and_score": "Bristol City 2 - 2 Preston North End"
+          },
+          {
+            "date": "13/01/2024",
+            "competition": "Championship 23/24",
+            "teams_and_score": "Preston North End 2 - 0 Bristol City"
+          },
+          {
+            "date": "04/02/2023",
+            "competition": "Championship 22/23",
+            "teams_and_score": "Preston North End 1 - 2 Bristol City"
+          },
+          {
+            "date": "29/01/2022",
+            "competition": "Championship 21/22",
+            "teams_and_score": "Preston North End 2 - 2 Bristol City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Preston North End",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Bristol City",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Preston North End 0 - 4 Everton",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Wolves",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Preston North End 1 - 1 Huddersfield Town",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Stockport County 1 - 0 Preston North End",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bristol City",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/09/2026",
+              "competition": "Championship",
+              "teams_and_score": "Preston North End 1 - 3 Bristol City",
+              "result": "W"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "EFL Cup: Round 1",
+              "teams_and_score": "Bristol City 0 - 1 Walsall",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Exeter City 1 - 1 Bristol City",
+              "result": "D"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bristol City 4 - 1 Newcastle United",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Forest Green Rovers 3 - 2 Bristol City",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Preston North End": "4",
+          "Bristol City": "7"
+        },
+        "shots_off_target": {
+          "Preston North End": "9",
+          "Bristol City": "4"
+        },
+        "shots_blocked": {
+          "Preston North End": "5",
+          "Bristol City": "1"
+        },
+        "corners": {
+          "Preston North End": "5",
+          "Bristol City": "2"
+        },
+        "fouls": {
+          "Preston North End": "11",
+          "Bristol City": "14"
+        },
+        "offsides": {
+          "Preston North End": "2",
+          "Bristol City": "3"
+        },
+        "yellow_cards": {
+          "Preston North End": "2",
+          "Bristol City": "0"
+        },
+        "goalkeeper_saves": {
+          "Preston North End": "4",
+          "Bristol City": "3"
+        },
+        "crosses": {
+          "Preston North End": "11",
+          "Bristol City": "4"
+        },
+        "ball_possession": {
+          "Preston North End": "52%",
+          "Bristol City": "48%"
+        }
+      },
+      "description": "Watch Preston North End vs Bristol City highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. High-Stakes Championship Showdown Ends in Thriller The clash between Preston North End and Bristol City on September 1, 2026, proved to be a tactical and physical test for both sides, with the match flow shifting unpredictably throughout the 90 minutes. Both teams entered the pitch with clear intentions of securing points, setting the stage for an engaging contest. Early Momentum and Second-Half Surge Preston North End signaled their intent early, as Scott Twine found the back of the net in the 4th minute following an assist from Lorent Tolaj . The visitors were forced to weather early pressure but emerged from the break with renewed vigor. In the 51st minute, Caleb Wiley leveled the scoring, changing the complexion of the match. The physical nature of the contest saw Jordan Thompson and Liam Lindsay receive yellow cards, reflecting the intense battle happening in the middle of the park. A Dramatic Conclusion As the clock ticked toward the final whistle, both managers utilized their benches to inject fresh energy into the game. The tactical shift paid off for Bristol City in the 79th minute when Lisav Naif Eissat capitalized on an assist from Rio Cardines to take the lead. However, the drama was not over. Dominic Ballard stepped up for Preston North End in the 86th minute to equalize. The match concluded at 90+5 minutes with neither side able to find a late winner, ending a high-energy encounter on level terms."
     }
   ]
 }

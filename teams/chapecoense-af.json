@@ -1,9 +1,234 @@
 {
   "team": "Chapecoense Af",
   "team_logo": "https://img.refooty.com/logo/teams/22722.webp",
-  "total_matches": 4,
-  "Last update time": "02:50:19 AM 13-09-2026",
+  "total_matches": 5,
+  "Last update time": "07:00:29 AM 13-09-2026",
   "matches": [
+    {
+      "title": "Chapecoense - Internacional",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/chapecoense-internacional-2026-09-12-esgS.webp",
+      "competition": "Brasileirão",
+      "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+      "date": "Sep 12, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/119.webp",
+          "name": "Internacional",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/22722.webp",
+          "name": "Chapecoense AF",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/chapecoense-internacional-2026-09-12.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "25'",
+          "team": "Internacional",
+          "player": "B. B. Henrique",
+          "event_type": "Goal",
+          "assist": "J. Carbonero",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "45+1'",
+          "team": "Chapecoense AF",
+          "player": "M. Garcez",
+          "event_type": "Goal",
+          "assist": "M. A. Marcinho",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "45+2'",
+          "team": "Chapecoense AF",
+          "player": "M. A. Marcinho",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Chapecoense AF",
+          "player": "E. V. Doma",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Chapecoense AF",
+          "player": "Camilo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Internacional",
+          "player": "J. Carbonero",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "91'",
+          "team": "Internacional",
+          "player": "J. Victor",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Chapecoense AF",
+          "player": "Y. Bolasie",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Internacional",
+          "player": "B. Gomes",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Chapecoense AF_wins": "1",
+          "draws": "0",
+          "Internacional_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "22/03/2026",
+            "competition": "Serie A",
+            "teams_and_score": "Internacional 2 - 0 Chapecoense AF"
+          },
+          {
+            "date": "10/10/2021",
+            "competition": "Serie A 2021",
+            "teams_and_score": "Internacional 5 - 2 Chapecoense AF"
+          },
+          {
+            "date": "22/09/2019",
+            "competition": "Serie A",
+            "teams_and_score": "Internacional 1 - 0 Chapecoense AF"
+          },
+          {
+            "date": "17/09/2018",
+            "competition": "Serie A",
+            "teams_and_score": "Chapecoense AF 2 - 1 Internacional"
+          }
+        ],
+        "home_team_form": {
+          "team": "Chapecoense AF",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Chapecoense AF 1 - 2 Internacional",
+              "result": "L"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Cruzeiro 2 - 0 Chapecoense AF",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Santos FC 2 - 2 Chapecoense AF",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Internacional",
+          "form": [
+            "W",
+            "L",
+            "L",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Chapecoense AF 1 - 2 Internacional",
+              "result": "W"
+            },
+            {
+              "date": "03/09/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Gremio 3 - 1 Internacional",
+              "result": "L"
+            },
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Bahia 3 - 2 Internacional",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Internacional 0 - 0 Gremio",
+              "result": "D"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Internacional 0 - 0 Atletico MG",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Chapecoense AF": "2",
+          "Internacional": "2"
+        },
+        "shots_off_target": {
+          "Chapecoense AF": "7",
+          "Internacional": "0"
+        },
+        "shots_blocked": {
+          "Chapecoense AF": "3",
+          "Internacional": "2"
+        },
+        "corners": {
+          "Chapecoense AF": "4",
+          "Internacional": "2"
+        },
+        "fouls": {
+          "Chapecoense AF": "17",
+          "Internacional": "11"
+        },
+        "offsides": {
+          "Chapecoense AF": "2",
+          "Internacional": "1"
+        },
+        "yellow_cards": {
+          "Chapecoense AF": "4",
+          "Internacional": "2"
+        },
+        "goalkeeper_saves": {
+          "Chapecoense AF": "0",
+          "Internacional": "1"
+        },
+        "ball_possession": {
+          "Chapecoense AF": "63%",
+          "Internacional": "37%"
+        }
+      },
+      "description": "Watch Chapecoense AF vs Internacional highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on September 12, 2026. A Tight Affair in the Brasileirão On September 12, 2026, the stage was set at the Arena Condá for a compelling Serie A clash between Chapecoense AF and Internacional . Both sides looked to impose their will in a match characterized by physical battles and moments of individual brilliance. An Even First Half Internacional struck first in the 25th minute as Bruno Henrique found the back of the net, clinical work set up by the vision of Johan Carbonero . However, the hosts refused to let the game slip away. Just as the half seemed destined to end with the visitors in front, Mauricio Garcez leveled the score in the 45+1 minute, converting a pass from Marcinho to ignite the home crowd. The Decisive Push After a tightly contested start to the second half, the breakthrough arrived in the 67th minute. Johan Carbonero turned from provider to scorer, putting Internacional back in the lead. The closing stages were marked by a flurry of disciplinary actions, with several players, including Camilo , Joao Victor , and Yannick Bolasie , seeing yellow. Despite late substitutions to freshen up both squads, the visitors held firm under pressure, sealing a hard-fought result in a match that truly tested their resolve."
+    },
     {
       "title": "Gremio - Chapecoense",
       "thumbnail_url": "https://img.refooty.com/thumbnail/gremio-chapecoense-2026-08-30-mfaG.webp",

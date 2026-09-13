@@ -1,9 +1,257 @@
 {
   "team": "Vasco Da Gama",
   "team_logo": "https://img.refooty.com/logo/teams/133.webp",
-  "total_matches": 5,
-  "Last update time": "02:50:19 AM 13-09-2026",
+  "total_matches": 6,
+  "Last update time": "07:00:29 AM 13-09-2026",
   "matches": [
+    {
+      "title": "Gremio - Vasco da Gama",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/gremio-vasco-da-gama-2026-09-12-lAmU.webp",
+      "competition": "Brasileirão",
+      "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+      "date": "Sep 12, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/133.webp",
+          "name": "Vasco DA Gama",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/130.webp",
+          "name": "Gremio",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/gremio-vasco-da-gama-2026-09-12.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "7'",
+          "team": "Gremio",
+          "player": "P. Gabriel",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "26'",
+          "team": "Vasco DA Gama",
+          "player": "T. T. Tche",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "32'",
+          "team": "Gremio",
+          "player": "Wallace",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "39'",
+          "team": "Gremio",
+          "player": "M. Villasanti",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "45+2'",
+          "team": "Vasco DA Gama",
+          "player": "L. Cuiabano",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Vasco DA Gama",
+          "player": "R. Renan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Gremio",
+          "player": "D. Caito",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Vasco DA Gama",
+          "player": "T. Mendes",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Vasco DA Gama",
+          "player": "F. Colidio",
+          "event_type": "Goal",
+          "assist": "B. Duarte",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Gremio_wins": "5",
+          "draws": "0",
+          "Vasco DA Gama_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "22/03/2026",
+            "competition": "Serie A",
+            "teams_and_score": "Vasco da Gama 2 - 1 Gremio"
+          },
+          {
+            "date": "20/11/2025",
+            "competition": "Serie A",
+            "teams_and_score": "Gremio 2 - 0 Vasco da Gama"
+          },
+          {
+            "date": "28/07/2024",
+            "competition": "Serie A",
+            "teams_and_score": "Gremio 1 - 0 Vasco da Gama"
+          },
+          {
+            "date": "03/12/2023",
+            "competition": "Serie A 2023",
+            "teams_and_score": "Gremio 1 - 0 Vasco da Gama"
+          },
+          {
+            "date": "11/09/2022",
+            "competition": "Serie B",
+            "teams_and_score": "Gremio 2 - 1 Vasco da Gama"
+          },
+          {
+            "date": "06/12/2020",
+            "competition": "Serie A 2020",
+            "teams_and_score": "Gremio 4 - 0 Vasco da Gama"
+          }
+        ],
+        "home_team_form": {
+          "team": "Gremio",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Gremio 1 - 2 Vasco da Gama",
+              "result": "L"
+            },
+            {
+              "date": "03/09/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Gremio 3 - 1 Internacional",
+              "result": "W"
+            },
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Gremio 3 - 1 Chapecoense AF",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Internacional 0 - 0 Gremio",
+              "result": "D"
+            },
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "RB Bragantino 1 - 0 Gremio",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Vasco DA Gama",
+          "form": [
+            "W",
+            "D",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Gremio 1 - 2 Vasco da Gama",
+              "result": "W"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "Quarter-Finals",
+              "teams_and_score": "Santa Fe 0 - 0 Vasco da Gama",
+              "result": "D"
+            },
+            {
+              "date": "06/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Fluminense 1 - 0 Vasco da Gama",
+              "result": "L"
+            },
+            {
+              "date": "03/09/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Vitoria 0 - 2 Vasco da Gama",
+              "result": "W"
+            },
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Vasco da Gama 3 - 1 Cruzeiro",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Gremio": "5",
+          "Vasco DA Gama": "5"
+        },
+        "shots_off_target": {
+          "Gremio": "5",
+          "Vasco DA Gama": "5"
+        },
+        "shots_blocked": {
+          "Gremio": "4",
+          "Vasco DA Gama": "7"
+        },
+        "corners": {
+          "Gremio": "3",
+          "Vasco DA Gama": "5"
+        },
+        "fouls": {
+          "Gremio": "10",
+          "Vasco DA Gama": "14"
+        },
+        "offsides": {
+          "Gremio": "0",
+          "Vasco DA Gama": "1"
+        },
+        "yellow_cards": {
+          "Gremio": "3",
+          "Vasco DA Gama": "3"
+        },
+        "goalkeeper_saves": {
+          "Gremio": "3",
+          "Vasco DA Gama": "4"
+        },
+        "ball_possession": {
+          "Gremio": "51%",
+          "Vasco DA Gama": "49%"
+        }
+      },
+      "description": "Watch Gremio vs Vasco DA Gama highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on September 12, 2026. The showdown between Grêmio and Vasco da Gama stood as a critical test of endurance and tactical discipline for both sides in the Brazilian Serie A . On 12 September 2026, spectators witnessed a clash defined by shifting momentum and a relentless pursuit of the result from the opening whistle to the final stoppage time. A Tense Opening Act Physicality dominated the first half, as the referee kept a close watch on proceedings. Early bookings for Pedro Gabriel , Tche Tche , and Wallace highlighted the combative nature of the midfield battle. Grêmio found the breakthrough in the 39th minute when Mathias Villasanti clinically struck to put his side ahead. The home crowd erupted, giving them a vital cushion as the teams headed into the halftime break. Second Half Momentum Shift Following the restart, both managers turned to their benches to inject fresh energy into their lineups. Yellow cards for Robert Renan , Diego Caito , and Cuiabano signaled a frantic pace as the game opened up. The turning point arrived midway through the second half. Thiago Mendes leveled the score in the 76th minute, shifting the psychological advantage toward the visitors. The drama peaked in the 80th minute when Facundo Colidio , assisted by Bruno Duarte , found the back of the net to complete the comeback, leaving the stadium in stunned silence as the final whistle approached."
+    },
     {
       "title": "Vasco da Gama - Cruzeiro",
       "thumbnail_url": "https://img.refooty.com/thumbnail/vasco-da-gama-cruzeiro-2026-08-30-gmoP.webp",
