@@ -1,9 +1,215 @@
 {
   "team": "Brest",
   "team_logo": "https://img.refooty.com/logo/teams/9958.webp",
-  "total_matches": 1,
-  "Last update time": "02:10:23 AM 14-09-2026",
+  "total_matches": 2,
+  "Last update time": "05:40:38 AM 14-09-2026",
   "matches": [
+    {
+      "title": "Brest vs PSG",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/brest-psg-2026-09-13-GueQ.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Sep 13, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/85.webp",
+          "name": "Paris Saint Germain",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/9958.webp",
+          "name": "Brest",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/brest-psg-2026-09-13-blz0km3u8-ND4kl.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Paris Saint Germain",
+          "player": "F. Torres",
+          "event_type": "Goal",
+          "assist": "O. Dembélé",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Brest",
+          "player": "K. Doumbia",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Paris Saint Germain",
+          "player": "Vitinha",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Paris Saint Germain",
+          "player": "P. Fernandez",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Brest_wins": "0",
+          "draws": "1",
+          "Paris Saint Germain_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "10/05/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "Paris Saint-Germain 1 - 0 Brest"
+          },
+          {
+            "date": "19/02/2025",
+            "competition": "Knockout Stage",
+            "teams_and_score": "Paris Saint-Germain 7 - 0 Brest"
+          },
+          {
+            "date": "01/02/2025",
+            "competition": "Ligue 1 24/25",
+            "teams_and_score": "Brest 2 - 5 Paris Saint-Germain"
+          },
+          {
+            "date": "07/02/2024",
+            "competition": "Coupe de France 23/24",
+            "teams_and_score": "Paris Saint-Germain 3 - 1 Brest"
+          },
+          {
+            "date": "28/01/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "Paris Saint-Germain 2 - 2 Brest"
+          },
+          {
+            "date": "11/03/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Brest 1 - 2 Paris Saint-Germain"
+          }
+        ],
+        "home_team_form": {
+          "team": "Brest",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Brest 0 - 1 Paris Saint-Germain",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Nottingham Forest 2 - 0 Brest",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brest 2 - 2 Venezia",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Paris Saint Germain",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Brest 0 - 1 Paris Saint-Germain",
+              "result": "W"
+            },
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Paris Saint-Germain 6 - 1 Slovan Bratislava",
+              "result": "L"
+            },
+            {
+              "date": "04/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Paris Saint-Germain 1 - 2 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Trophee des Champions",
+              "teams_and_score": "Lens 1 - 0 Paris Saint-Germain",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "UEFA Super Cup",
+              "teams_and_score": "Paris Saint-Germain 2 - 1 Aston Villa",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Brest": "5",
+          "Paris Saint Germain": "7"
+        },
+        "shots_off_target": {
+          "Brest": "7",
+          "Paris Saint Germain": "4"
+        },
+        "shots_blocked": {
+          "Brest": "4",
+          "Paris Saint Germain": "4"
+        },
+        "corners": {
+          "Brest": "3",
+          "Paris Saint Germain": "2"
+        },
+        "fouls": {
+          "Brest": "13",
+          "Paris Saint Germain": "7"
+        },
+        "offsides": {
+          "Brest": "3",
+          "Paris Saint Germain": "1"
+        },
+        "yellow_cards": {
+          "Brest": "1",
+          "Paris Saint Germain": "2"
+        },
+        "goalkeeper_saves": {
+          "Brest": "6",
+          "Paris Saint Germain": "6"
+        },
+        "crosses": {
+          "Brest": "5",
+          "Paris Saint Germain": "3"
+        },
+        "ball_possession": {
+          "Brest": "41%",
+          "Paris Saint Germain": "59%"
+        }
+      },
+      "description": "Watch Brest vs Paris Saint Germain highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 13, 2026. Ligue 1 action returned with a high-stakes encounter on September 13, 2026 , as Brest hosted the reigning giants Paris Saint-Germain . The match promised a compelling narrative, featuring a home side eager to prove their worth against a star-studded Parisian lineup in front of a passionate crowd. Torres Fires Early for PSG The visitors wasted no time asserting their dominance, breaking the deadlock in just the 5th minute. Ousmane Dembélé turned provider, setting up Ferran Torres , who unleashed a clinical right-footed strike from outside the box that left Egil Selvik with no chance. However, Brest almost found an immediate response when Ludovic Ajorque rose highest to meet a cross, but his header was safely gathered by Matvey Safonov . As the first half progressed, Paris Saint-Germain controlled much of the possession, testing the Brest defense with intricate passing. Achraf Hakimi came close to doubling the lead with a header in the 26th minute, only to see it saved by Selvik . The game grew increasingly physical, leading to a yellow card for Kamory Doumbia following a reckless challenge. Despite several half-chances for both sides, the Parisians headed into the tunnel with a slender one-goal advantage. Late Drama and Woodwork Denies Brest The second half saw Brest emerge with renewed energy, nearly equalizing in the 50th minute. A defensive lapse by Nuno Mendes allowed Kamory Doumbia a clear sight of goal, but his powerful effort cannoned off the post. Moments later, a VAR check for a potential PSG goal kept the tension high, though the scoreline remained unchanged. Safonov was called into action again shortly after, comfortably saving another header from the persistent Doumbia . In the closing stages, both managers turned to their benches to influence the outcome. Brest threw everything forward in search of a leveler, and in the 3rd minute of stoppage time, Djylian N'Guessan almost produced a moment of magic with an audacious bicycle kick that drifted just wide. Ultimately, the Paris Saint-Germain defense held firm under late pressure to secure a 1-0 victory, grinding out three points in a challenging away fixture."
+    },
     {
       "title": "Nottingham Forest vs Brest",
       "thumbnail_url": "https://img.refooty.com/thumbnail/nottingham-forest-vs-brest-2026-08-16-35PM.webp",
