@@ -1,9 +1,232 @@
 {
   "competition": "La Liga",
   "competition_cover": "https://refooty.com/covers/la-liga.webp",
-  "total_matches": 35,
-  "Last update time": "04:30:11 PM 15-09-2026",
+  "total_matches": 36,
+  "Last update time": "05:10:32 PM 15-09-2026",
   "matches": [
+    {
+      "title": "Villarreal vs Real Betis",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/villarreal-real-betis-2026-09-14-8zk2.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Sep 14, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/543.webp",
+          "name": "Real Betis",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/533.webp",
+          "name": "Villarreal",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/villarreal-real-betis-2026-09-14-aqhevm3u8-u6GH3.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Villarreal",
+          "player": "T. Buchanan",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "16'",
+          "team": "Villarreal",
+          "player": "G. Moreno",
+          "event_type": "Goal",
+          "assist": "R. Veiga",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Real Betis",
+          "player": "C. Hernandez",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Real Betis",
+          "player": "Natan",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Villarreal",
+          "player": "R. Veiga",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Villarreal_wins": "3",
+          "draws": "1",
+          "Real Betis_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "17/01/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Real Betis 2 - 0 Villarreal"
+          },
+          {
+            "date": "13/04/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Real Betis 1 - 2 Villarreal"
+          },
+          {
+            "date": "10/03/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Real Betis 2 - 3 Villarreal"
+          },
+          {
+            "date": "12/03/2023",
+            "competition": "LaLiga 22/23",
+            "teams_and_score": "Villarreal 1 - 1 Real Betis"
+          },
+          {
+            "date": "06/02/2022",
+            "competition": "LaLiga 21/22",
+            "teams_and_score": "Real Betis 0 - 2 Villarreal"
+          }
+        ],
+        "home_team_form": {
+          "team": "Villarreal",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "14/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Villarreal 1 - 2 Real Betis",
+              "result": "L"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Borussia Dortmund 3 - 2 Villarreal",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Villarreal 2 - 3 Deportivo A Coruna",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Galatasaray 1 - 2 Villarreal",
+              "result": "W"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Villarreal 1 - 0 Levante",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Real Betis",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "14/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Villarreal 1 - 2 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Lille 2 - 3 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "04/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Betis 1 - 0 Real Madrid",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Inter 1 - 0 Real Betis",
+              "result": "L"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 3 Real Betis",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Villarreal": "8",
+          "Real Betis": "12"
+        },
+        "shots_off_target": {
+          "Villarreal": "4",
+          "Real Betis": "3"
+        },
+        "shots_blocked": {
+          "Villarreal": "2",
+          "Real Betis": "11"
+        },
+        "corners": {
+          "Villarreal": "7",
+          "Real Betis": "4"
+        },
+        "fouls": {
+          "Villarreal": "7",
+          "Real Betis": "8"
+        },
+        "offsides": {
+          "Villarreal": "5",
+          "Real Betis": "2"
+        },
+        "yellow_cards": {
+          "Villarreal": "1",
+          "Real Betis": "0"
+        },
+        "goalkeeper_saves": {
+          "Villarreal": "10",
+          "Real Betis": "7"
+        },
+        "crosses": {
+          "Villarreal": "6",
+          "Real Betis": "3"
+        },
+        "ball_possession": {
+          "Villarreal": "62%",
+          "Real Betis": "38%"
+        }
+      },
+      "description": "Watch Villarreal vs Real Betis highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on September 14, 2026. The clash between Villarreal and Real Betis showcased the intense tactical battles that define La Liga football. Both teams entered the field with clear ambitions, setting the stage for a match filled with strategic maneuvers and individual brilliance. Early Drama and VAR Intervention The match on 2026-09-14 began with Villarreal asserting their authority through high-pressure play and quick transitions. Within the opening minutes, the Yellow Submarine looked to pierce the defensive line of Real Betis , but they were repeatedly thwarted by the offside trap. Gerard no , Nicolas Pepe , and Tajon Buchanan all found themselves flagged early on as the visitors’ backline held firm. The tension reached a boiling point in the 20th minute when Villarreal thought they had finally broken the deadlock. Following a swift attacking move, the ball ended up in the back of the net, sparking celebrations among the home fans. However, the joy was short-lived as the referee initiated a VAR check. After a tense review, the goal was revoked due to a marginal offside, keeping the scoreline level and providing a massive sigh of relief for the Betis defense. A Flurry of First-Half Goals Undeterred by the disallowed goal, Villarreal continued to push forward. Their persistence paid off in the 29th minute when Gerard no produced a moment of pure quality. After a sharp sequence involving Pape Gueye and an assist from Renato Veiga , no struck a magnificent left-footed volley into the back of the net. The goal reflected the home side's dominance and forced Real Betis to rethink their strategy. The response from the visitors was both swift and clinical. In the 39th minute, Juan Hernandez capitalized on a defensive lapse to tap the ball into an open goal with his left foot, leveling the match. Just four minutes later, the turnaround was complete. Isco delivered a pinpoint corner from the right, finding Natan , who directed his left-footed effort into the net to give Real Betis the lead just before the interval. Tactical Shifts and Defensive Resilience The second half saw Villarreal attempting to regain control through a series of tactical substitutions. Alberto Moleiro was introduced for Tajon Buchanan in the 55th minute, while Gerard no made way for Tani Oluwaseyi shortly after. Despite controlling 62% of the possession, Villarreal struggled to break down a disciplined Real Betis side that focused on closing down spaces and hitting on the counter. As the clock ticked toward the final whistle, the game became increasingly physical, with Renato Veiga receiving a yellow card for unsportsmanlike conduct. Real Betis brought on Giovani Lo Celso and Facundo Bernal to shore up the midfield, effectively neutralizing Villarreal 's creative threats. Despite intense pressure in the closing minutes and several desperate crosses into the box, the visitors held their nerve to secure a hard-fought victory on the road."
+    },
     {
       "title": "Levante vs Barcelona",
       "thumbnail_url": "https://img.refooty.com/thumbnail/levante-barcelona-2026-09-13-F6jV.webp",
@@ -498,965 +721,6 @@
       },
       "statistics": {},
       "description": "Watch Celta Vigo vs Malaga highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on September 13, 2026."
-    },
-    {
-      "title": "Sevilla vs Rayo Vallecano",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/sevilla-v-rayo-vallecano-2026-08-15-ZqsB.webp",
-      "competition": "La Liga",
-      "competition_cover": "https://refooty.com/covers/la-liga.webp",
-      "date": "Aug 15, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/728.webp",
-          "name": "Rayo Vallecano",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/536.webp",
-          "name": "Sevilla",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Sevilla_v_Rayo_Vallecano_2026_08_15.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "4'",
-          "team": "Rayo Vallecano",
-          "player": "A. Garcia",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "45+3'",
-          "team": "Sevilla",
-          "player": "I. Romero",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "52'",
-          "team": "Sevilla",
-          "player": "J. Guridi",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "60'",
-          "team": "Sevilla",
-          "player": "J. Guridi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "67'",
-          "team": "Rayo Vallecano",
-          "player": "A. Garcia",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "75'",
-          "team": "Rayo Vallecano",
-          "player": "U. López",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Rayo Vallecano",
-          "player": "F. Pérez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "81'",
-          "team": "Sevilla",
-          "player": "G. Suazo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "88'",
-          "team": "Sevilla",
-          "player": "K. Salas",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "90+7'",
-          "team": "Sevilla",
-          "player": "G. Peque",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "90+12'",
-          "team": "Sevilla",
-          "player": "L. Agoumé",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+12'",
-          "team": "Rayo Vallecano",
-          "player": "A. Alemao",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Sevilla_wins": "1",
-          "draws": "4",
-          "Rayo Vallecano_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "08/03/2026",
-            "competition": "LaLiga 25/26",
-            "teams_and_score": "Sevilla 1 - 1 Rayo Vallecano"
-          },
-          {
-            "date": "01/03/2025",
-            "competition": "LaLiga 24/25",
-            "teams_and_score": "Rayo Vallecano 1 - 1 Sevilla"
-          },
-          {
-            "date": "05/02/2024",
-            "competition": "LaLiga 23/24",
-            "teams_and_score": "Rayo Vallecano 1 - 2 Sevilla"
-          },
-          {
-            "date": "19/02/2023",
-            "competition": "LaLiga 22/23",
-            "teams_and_score": "Rayo Vallecano 1 - 1 Sevilla"
-          },
-          {
-            "date": "13/03/2022",
-            "competition": "LaLiga 21/22",
-            "teams_and_score": "Rayo Vallecano 1 - 1 Sevilla"
-          }
-        ],
-        "home_team_form": {
-          "team": "Sevilla",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Sevilla 2 - 1 Rayo Vallecano",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Bayer Leverkusen 2 - 1 Sevilla",
-              "result": "L"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Sevilla 2 - 1 AD Ceuta FC",
-              "result": "W"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Sevilla 1 - 0 Juventud Torremolinos CF",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Celta Vigo 1 - 0 Sevilla",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Rayo Vallecano",
-          "form": [
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Sevilla 2 - 1 Rayo Vallecano",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Ipswich Town 3 - 0 Rayo Vallecano",
-              "result": "L"
-            },
-            {
-              "date": "27/05/2026",
-              "competition": "Final",
-              "teams_and_score": "Crystal Palace 1 - 0 Rayo Vallecano",
-              "result": "L"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Deportivo Alaves 1 - 2 Rayo Vallecano",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Sevilla": "4",
-          "Rayo Vallecano": "3"
-        },
-        "shots_off_target": {
-          "Sevilla": "6",
-          "Rayo Vallecano": "3"
-        },
-        "shots_blocked": {
-          "Sevilla": "3",
-          "Rayo Vallecano": "0"
-        },
-        "corners": {
-          "Sevilla": "1",
-          "Rayo Vallecano": "2"
-        },
-        "fouls": {
-          "Sevilla": "18",
-          "Rayo Vallecano": "18"
-        },
-        "offsides": {
-          "Sevilla": "1",
-          "Rayo Vallecano": "1"
-        },
-        "yellow_cards": {
-          "Sevilla": "4",
-          "Rayo Vallecano": "4"
-        },
-        "red_cards": {
-          "Sevilla": "1",
-          "Rayo Vallecano": "0"
-        },
-        "goalkeeper_saves": {
-          "Sevilla": "2",
-          "Rayo Vallecano": "2"
-        },
-        "crosses": {
-          "Sevilla": "3",
-          "Rayo Vallecano": "5"
-        },
-        "ball_possession": {
-          "Sevilla": "49%",
-          "Rayo Vallecano": "51%"
-        }
-      },
-      "description": "Watch Sevilla vs Rayo Vallecano highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 15, 2026. Sevilla and Rayo Vallecano faced off in a high-stakes La Liga encounter that delivered non-stop action and tactical intrigue from start to finish. This opening clash on August 15, 2026 , proved to be a rollercoaster of emotions for every fan in the stadium. Early Setback and VAR Drama The match ignited in the 4th minute when Rayo Vallecano took a shock lead. A defensive error by Arouna Sangante allowed Alvaro Garcia to pounce on a loose ball, clinicaly finishing with his left foot. Sevilla struggled to find their rhythm initially but thought they had a lifeline in the 38th minute. The referee awarded a penalty for a foul by Augusto Batalla on Isaac Romero , but after a lengthy VAR review, the decision was overturned, leaving the home side frustrated as they headed into the break. The Second Half Surge The momentum shifted early in the second period. In the 50th minute, Alvaro Garcia went from hero to villain as he conceded a penalty for tripping Miguel Angel Sierra . Jon Guridi stepped up for Sevilla and coolly slotted the ball home in the 52nd minute to level the score. The contest became increasingly physical, with the referee issuing a flurry of yellow cards to Jon Guridi , Unai Lopez , and Fran Perez as both teams battled for control in a tense midfield scrap. Stoppage Time Chaos and a Dramatic Winner The final minutes were defined by pure drama. Sevilla were dealt a massive blow in the 88th minute when Kike Salas received a straight red card for a serious foul. Despite being a man down, the hosts pushed forward and won another penalty in the 94th minute after Florian Lejeune tripped Robbie Ure . In the 7th minute of added time, Gerard Fernandez (Peque) stepped up and powered the ball past Batalla to secure a 2-1 victory. The game ended in a heated atmosphere, with players clashing and further bookings for Lucien Agoumé and Alexandre Zurawski , but Sevilla held on for a famous win."
-    },
-    {
-      "title": "Real Betis vs Real Madrid",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/betis-v-real-madrid-2026-09-04-cYgx.webp",
-      "competition": "La Liga",
-      "competition_cover": "https://refooty.com/covers/la-liga.webp",
-      "date": "Sep 4, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/541.webp",
-          "name": "Real Madrid",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/543.webp",
-          "name": "Real Betis",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Betis_v_Real_Madrid_2026_09_04.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "45+3'",
-          "team": "Real Madrid",
-          "player": "A. Güler",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "54'",
-          "team": "Real Madrid",
-          "player": "I. Konaté",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "54'",
-          "team": "Real Madrid",
-          "player": "J. Mourinho",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Real Madrid",
-          "player": "E. Camavinga",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "64'",
-          "team": "Real Betis",
-          "player": "F. Bernal",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "81'",
-          "team": "Real Betis",
-          "player": "T. Parrott",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "83'",
-          "team": "Real Betis",
-          "player": "M. Roca",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "87'",
-          "team": "Real Madrid",
-          "player": "C. Espi",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Real Betis",
-          "player": "Natan",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+4'",
-          "team": "Real Madrid",
-          "player": "K. Mbappé",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "90+9'",
-          "team": "Real Madrid",
-          "player": "V. Junior",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Real Betis_wins": "1",
-          "draws": "4",
-          "Real Madrid_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "24/04/2026",
-            "competition": "LaLiga 25/26",
-            "teams_and_score": "Real Betis 1 - 1 Real Madrid"
-          },
-          {
-            "date": "01/03/2025",
-            "competition": "LaLiga 24/25",
-            "teams_and_score": "Real Betis 2 - 1 Real Madrid"
-          },
-          {
-            "date": "25/05/2024",
-            "competition": "LaLiga 23/24",
-            "teams_and_score": "Real Madrid 0 - 0 Real Betis"
-          },
-          {
-            "date": "05/03/2023",
-            "competition": "LaLiga 22/23",
-            "teams_and_score": "Real Betis 0 - 0 Real Madrid"
-          },
-          {
-            "date": "20/05/2022",
-            "competition": "LaLiga 21/22",
-            "teams_and_score": "Real Madrid 0 - 0 Real Betis"
-          }
-        ],
-        "home_team_form": {
-          "team": "Real Betis",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/09/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Real Betis 1 - 0 Real Madrid",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Inter 1 - 0 Real Betis",
-              "result": "L"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Arsenal 1 - 3 Real Betis",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Betis 1 - 0 Almeria",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Real Madrid",
-          "form": [
-            "L",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "04/09/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Real Betis 1 - 0 Real Madrid",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Schalke 04 0 - 3 Real Madrid",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Real Madrid 2 - 2 Fiorentina",
-              "result": "D"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Real Madrid 4 - 2 Athletic Club",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Real Betis": "5",
-          "Real Madrid": "8"
-        },
-        "shots_off_target": {
-          "Real Betis": "2",
-          "Real Madrid": "9"
-        },
-        "shots_blocked": {
-          "Real Betis": "3",
-          "Real Madrid": "3"
-        },
-        "corners": {
-          "Real Betis": "6",
-          "Real Madrid": "10"
-        },
-        "fouls": {
-          "Real Betis": "11",
-          "Real Madrid": "13"
-        },
-        "offsides": {
-          "Real Betis": "1",
-          "Real Madrid": "2"
-        },
-        "yellow_cards": {
-          "Real Betis": "3",
-          "Real Madrid": "4"
-        },
-        "goalkeeper_saves": {
-          "Real Betis": "6",
-          "Real Madrid": "4"
-        },
-        "crosses": {
-          "Real Betis": "1",
-          "Real Madrid": "8"
-        },
-        "ball_possession": {
-          "Real Betis": "42%",
-          "Real Madrid": "58%"
-        }
-      },
-      "description": "Watch Real Betis vs Real Madrid highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on September 4, 2026. The stage was set at the stadium for a high-stakes La Liga encounter that promised tactical intrigue and plenty of passion. On September 4, 2026 , both sides took to the pitch under the floodlights, eager to claim dominance in a fixture known for its historic rivalry. Early Pressure and Woodwork Woes Real Madrid started with intent, searching for an early breakthrough through their star-studded frontline. In the 15th minute, Vinicius Junior came agonizingly close to scoring, but his clinical finish struck the post and bounced clear. The pressure didn't subside, and just before the interval, Kylian Mbappe saw a goalbound effort heroically hacked off the line by the Real Betis defense. Alvaro Valles began his standout performance by comfortably saving a goalward header from Jude Bellingham in first-half stoppage time, ensuring the game remained scoreless at the break. Tactical Shifts and Rising Temperatures The second half saw the intensity ramp up as both managers looked to their benches to break the deadlock. Jose Mourinho received a yellow card for dissent as frustrations grew on the touchline, while tactical fouls from Ibrahima Konate and Eduardo Camavinga highlighted the competitive nature of the contest. Real Madrid introduced Bernardo Silva and Trent Alexander-Arnold to add creative spark, while Real Betis brought on Troy Parrott , a move that would prove to be inspired as the match entered its final phase. Parrott Strikes and Valles Saves the Day The deadlock was finally broken in the 81st minute when Troy Parrott reacted quickest to a loose ball in the box, firing home with his right foot to send the home fans into raptures. Real Madrid thought they had responded instantly, but a VAR review correctly ruled out an equalizer for offside against Vinicius Junior . In a heart-stopping finale, Natan conceded a penalty for a foul on Vinicius, but Alvaro Valles cemented his Man of the Match status by saving Kylian Mbappe ’s spot-kick. Despite late pressure and another VAR check for a potential penalty, Real Betis held on for a famous victory."
-    },
-    {
-      "title": "Real Sociedad vs Celta Vigo",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/real-sociedad-vs-celta-vigo-2026-09-03-NxG2.webp",
-      "competition": "La Liga",
-      "competition_cover": "https://refooty.com/covers/la-liga.webp",
-      "date": "Sep 3, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/538.webp",
-          "name": "Celta Vigo",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/548.webp",
-          "name": "Real Sociedad",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/real-sociedad-vs-celta-vigo-2026-09-03.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Real Sociedad",
-          "player": "Y. Herrera",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Celta Vigo",
-          "player": "Y. Lago",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Celta Vigo",
-          "player": "M. Alonso",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Celta Vigo",
-          "player": "C. Driouech",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Real Sociedad",
-          "player": "L. Sučić",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Real Sociedad_wins": "4",
-          "draws": "1",
-          "Celta Vigo_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "25/01/2026",
-            "competition": "LaLiga 25/26",
-            "teams_and_score": "Real Sociedad 3 - 1 Celta Vigo"
-          },
-          {
-            "date": "13/05/2025",
-            "competition": "LaLiga 24/25",
-            "teams_and_score": "Real Sociedad 0 - 1 Celta Vigo"
-          },
-          {
-            "date": "23/01/2024",
-            "competition": "Copa del Rey: Quarter-Finals",
-            "teams_and_score": "Celta Vigo 1 - 2 Real Sociedad"
-          },
-          {
-            "date": "20/01/2024",
-            "competition": "LaLiga 23/24",
-            "teams_and_score": "Celta Vigo 0 - 1 Real Sociedad"
-          },
-          {
-            "date": "18/02/2023",
-            "competition": "LaLiga 22/23",
-            "teams_and_score": "Real Sociedad 1 - 1 Celta Vigo"
-          },
-          {
-            "date": "08/01/2022",
-            "competition": "LaLiga 21/22",
-            "teams_and_score": "Real Sociedad 1 - 0 Celta Vigo"
-          }
-        ],
-        "home_team_form": {
-          "team": "Real Sociedad",
-          "form": [
-            "D",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "03/09/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Real Sociedad 0 - 0 Celta Vigo",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "FC Cologne 2 - 1 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "07/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Cologne 2 - 0 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "28/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Aston Villa 2 - 4 Real Sociedad",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Celta Vigo",
-          "form": [
-            "D",
-            "D",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "03/09/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Real Sociedad 0 - 0 Celta Vigo",
-              "result": "D"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 1 - 1 Celta Vigo",
-              "result": "D"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "SC Braga 2 - 2 Celta Vigo",
-              "result": "D"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Celta Vigo 1 - 0 Sevilla",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Real Sociedad": "5",
-          "Celta Vigo": "2"
-        },
-        "shots_off_target": {
-          "Real Sociedad": "3",
-          "Celta Vigo": "3"
-        },
-        "shots_blocked": {
-          "Real Sociedad": "8",
-          "Celta Vigo": "2"
-        },
-        "corners": {
-          "Real Sociedad": "11",
-          "Celta Vigo": "3"
-        },
-        "fouls": {
-          "Real Sociedad": "15",
-          "Celta Vigo": "11"
-        },
-        "offsides": {
-          "Real Sociedad": "2",
-          "Celta Vigo": "1"
-        },
-        "yellow_cards": {
-          "Real Sociedad": "2",
-          "Celta Vigo": "3"
-        },
-        "goalkeeper_saves": {
-          "Real Sociedad": "2",
-          "Celta Vigo": "5"
-        },
-        "crosses": {
-          "Real Sociedad": "3",
-          "Celta Vigo": "0"
-        },
-        "ball_possession": {
-          "Real Sociedad": "51%",
-          "Celta Vigo": "49%"
-        }
-      },
-      "description": "Watch Real Sociedad vs Celta Vigo highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on September 3, 2026. Step into the atmosphere of La Liga as Real Sociedad and Celta Vigo clashed in a match defined by tactical rigidity and defensive resilience. Both sides entered the pitch looking to establish dominance in a fixture that promised a high-level strategic battle. Cautious Beginnings at the Anoeta On September 3, 2026 , the Anoeta stadium played host to a contest where chances were at a premium but intensity was high. Real Sociedad looked to exploit set-piece situations early on, with Sergio Gómez delivering a series of corners that tested the visitors' organization. The closest the home side came to an opener was in the 13th minute when Jon Martín connected with a header, only to be denied by a sharp save from Ionut Andrei Radu . Celta Vigo remained disciplined, occasionally threatening from distance through Ilaix Moriba , though his efforts failed to trouble the target. The physical nature of the game saw Yangel Herrera go into the referee's book early for a rough challenge. A defensive lapse by Igor Zubeldia briefly gave the home fans a scare, but the deadlock remained unbroken as both teams headed into the tunnels at halftime. Defensive Heroics and Late Pressure The second half saw both managers turn to their benches to find a breakthrough. Mikel Oyarzabal missed a chance from a direct free kick before the introduction of Iago Aspas for Celta and Gonçalo Guedes for Real Sociedad injected fresh energy into the final third. The match grew increasingly fractious, with Marcos Alonso , Couhaib Driouech , and Luka Sucic all receiving yellow cards as the battle for midfield supremacy intensified. As the clock ticked towards the 90th minute, Gonçalo Guedes nearly snatched victory for the hosts with a powerful strike from outside the box that whistled just wide of the post. Despite a late counter-attack led by Aspas and several desperate crosses from Real Sociedad , the match ended in a goalless draw. Ionut Andrei Radu was arguably the standout performer, commanding his area and ensuring a clean sheet in front of a 30,364-strong crowd."
-    },
-    {
-      "title": "Real Betis vs Real Sociedad",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/betis-v-real-sociedad-2026-08-21-WgPc.webp",
-      "competition": "La Liga",
-      "competition_cover": "https://refooty.com/covers/la-liga.webp",
-      "date": "Aug 21, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/548.webp",
-          "name": "Real Sociedad",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/543.webp",
-          "name": "Real Betis",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Betis_v_Real_Sociedad_2026_08_21.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "46'",
-          "team": "Real Sociedad",
-          "player": "S. Gómez",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "49'",
-          "team": "Real Sociedad",
-          "player": "J. Aramburu",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Real Sociedad",
-          "player": "I. Zubeldia",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "63'",
-          "team": "Real Betis",
-          "player": "R. Riquelme",
-          "event_type": "Goal",
-          "assist": "C. Hernandez",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "80'",
-          "team": "Real Betis",
-          "player": "Natan",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90'",
-          "team": "Real Betis",
-          "player": "F. García",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Real Betis",
-          "player": "H. Bellerín",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Real Betis_wins": "1",
-          "draws": "3",
-          "Real Sociedad_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "09/05/2026",
-            "competition": "LaLiga 25/26",
-            "teams_and_score": "Real Sociedad 2 - 2 Real Betis"
-          },
-          {
-            "date": "16/02/2025",
-            "competition": "LaLiga 24/25",
-            "teams_and_score": "Real Betis 3 - 0 Real Sociedad"
-          },
-          {
-            "date": "19/05/2024",
-            "competition": "LaLiga 23/24",
-            "teams_and_score": "Real Betis 0 - 2 Real Sociedad"
-          },
-          {
-            "date": "05/08/2023",
-            "competition": "Club Friendlies 2023",
-            "teams_and_score": "Real Betis 0 - 1 Real Sociedad"
-          },
-          {
-            "date": "25/04/2023",
-            "competition": "LaLiga 22/23",
-            "teams_and_score": "Real Betis 0 - 0 Real Sociedad"
-          },
-          {
-            "date": "15/04/2022",
-            "competition": "LaLiga 21/22",
-            "teams_and_score": "Real Sociedad 0 - 0 Real Betis"
-          }
-        ],
-        "home_team_form": {
-          "team": "Real Betis",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "21/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Real Betis 1 - 0 Real Sociedad",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Inter 1 - 0 Real Betis",
-              "result": "L"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Arsenal 1 - 3 Real Betis",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Betis 1 - 0 Almeria",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Real Betis 2 - 1 Levante",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Real Sociedad",
-          "form": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "21/08/2026",
-              "competition": "LaLiga",
-              "teams_and_score": "Real Betis 1 - 0 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "FC Cologne 2 - 1 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "07/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Cologne 2 - 0 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "28/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Aston Villa 2 - 4 Real Sociedad",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Real Betis": "7",
-          "Real Sociedad": "3"
-        },
-        "shots_off_target": {
-          "Real Betis": "7",
-          "Real Sociedad": "3"
-        },
-        "shots_blocked": {
-          "Real Betis": "4",
-          "Real Sociedad": "3"
-        },
-        "corners": {
-          "Real Betis": "4",
-          "Real Sociedad": "5"
-        },
-        "fouls": {
-          "Real Betis": "9",
-          "Real Sociedad": "12"
-        },
-        "offsides": {
-          "Real Betis": "1",
-          "Real Sociedad": "3"
-        },
-        "yellow_cards": {
-          "Real Betis": "3",
-          "Real Sociedad": "3"
-        },
-        "goalkeeper_saves": {
-          "Real Betis": "3",
-          "Real Sociedad": "6"
-        },
-        "crosses": {
-          "Real Betis": "4",
-          "Real Sociedad": "1"
-        },
-        "ball_possession": {
-          "Real Betis": "48%",
-          "Real Sociedad": "52%"
-        }
-      },
-      "description": "Watch Real Betis vs Real Sociedad highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 21, 2026. A Tactical Standoff On August 21, 2026, Real Betis and Real Sociedad locked horns in a La Liga fixture defined by tactical discipline and persistent midfield battles. Throughout the match, both sides fought for every inch of grass, creating an atmosphere of high tension that persisted until the very final whistle. The Breakthrough After a stalemate in the first half, the game’s defining moment arrived in the 63rd minute. Juan Hernandez delivered a precise ball to Rodrigo Riquelme , who hammered a clinical left-footed volley into the goal. This strike tilted the momentum in favor of the hosts, forcing the visitors to chase the game. Real Sociedad came agonizingly close to equalizing when Luka Sucic struck the post, but the woodwork denied them, keeping Real Betis in the lead. Defending the Lead As the clock ticked toward the end, the match grew increasingly physical, leading the referee to issue a flurry of yellow cards to both sides. Real Betis demonstrated excellent game management, repelling late pressure and ensuring that the crucial first-half defensive efforts were not in vain. The hosts held firm to secure a hard-fought victory, showcasing both clinical finishing and gritty determination."
     },
     {
       "title": "Valencia vs Real Betis",
@@ -7583,6 +6847,965 @@
         }
       },
       "description": "Watch Athletic Club vs Sevilla highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The atmosphere was thick with anticipation as two of Spanish football's heavyweights squared off in a clash that promised tactical intrigue. Both sides looked to establish dominance early, but an unforeseen incident in the opening minutes would dictate the entire narrative of the evening. Early Dismissal Changes the Landscape The match, held on August 22, 2026 , saw its defining moment arrive as early as the 11th minute. Athletic Club defender Yuri Berchiche was shown a straight red card for a professional foul as the last man, leaving the hosts to battle with ten men for the vast majority of the contest. Sevilla wasted little time in exploiting their numerical advantage. In the 15th minute, following a defensive lapse by goalkeeper Unai Simon , Oso pounced to strike with his left foot and put the visitors ahead. Athletic attempted to rally through Gorka Guruzeta , but the first half ended with the visitors firmly in control despite the home side's spirited attempts to find an equalizer. Sevilla Surge and Athletic's Response The second half saw Sevilla turn their dominance into a commanding lead through clinical finishing. Just five minutes after the restart, substitute Chidera Ejuke produced a moment of magic with a delicate lob over the keeper, assisted by Isaac Romero . The roles nearly reversed in the 57th minute when Isaac Romero himself found the net, capitalizing on a blunder by Jesus Areso to make it 3-0. Facing a steep hill to climb, Athletic Club managed to pull one back in the 70th minute when Aitor Paredes reacted quickest to a loose ball in the box, firing home after a setup by Yeray Alvarez . Tense Finish at San Mamés As the clock ticked down, the match became increasingly physical, resulting in a flurry of yellow cards for players including Iñigo Ruiz de Galarreta , Isaac Romero , and Nico Guillén . Despite Athletic Club maintaining a surprising 65% of the ball possession while shorthanded, they struggled to create clear-cut opportunities against a disciplined Sevilla backline. The visitors managed the final stages professionally, clearing their lines through Juan Iglesias and ensuring no further drama unfolded. When the final whistle blew, the scoreboard reflected a clinical performance by the Andalusian side, who made the most of their early break to secure all three points."
+    },
+    {
+      "title": "Sevilla vs Rayo Vallecano",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sevilla-v-rayo-vallecano-2026-08-15-ZqsB.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Aug 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/728.webp",
+          "name": "Rayo Vallecano",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/536.webp",
+          "name": "Sevilla",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Sevilla_v_Rayo_Vallecano_2026_08_15.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "4'",
+          "team": "Rayo Vallecano",
+          "player": "A. Garcia",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "45+3'",
+          "team": "Sevilla",
+          "player": "I. Romero",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "52'",
+          "team": "Sevilla",
+          "player": "J. Guridi",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "60'",
+          "team": "Sevilla",
+          "player": "J. Guridi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "67'",
+          "team": "Rayo Vallecano",
+          "player": "A. Garcia",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "75'",
+          "team": "Rayo Vallecano",
+          "player": "U. López",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Rayo Vallecano",
+          "player": "F. Pérez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "81'",
+          "team": "Sevilla",
+          "player": "G. Suazo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "88'",
+          "team": "Sevilla",
+          "player": "K. Salas",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+7'",
+          "team": "Sevilla",
+          "player": "G. Peque",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "90+12'",
+          "team": "Sevilla",
+          "player": "L. Agoumé",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+12'",
+          "team": "Rayo Vallecano",
+          "player": "A. Alemao",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Sevilla_wins": "1",
+          "draws": "4",
+          "Rayo Vallecano_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "08/03/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Sevilla 1 - 1 Rayo Vallecano"
+          },
+          {
+            "date": "01/03/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Rayo Vallecano 1 - 1 Sevilla"
+          },
+          {
+            "date": "05/02/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Rayo Vallecano 1 - 2 Sevilla"
+          },
+          {
+            "date": "19/02/2023",
+            "competition": "LaLiga 22/23",
+            "teams_and_score": "Rayo Vallecano 1 - 1 Sevilla"
+          },
+          {
+            "date": "13/03/2022",
+            "competition": "LaLiga 21/22",
+            "teams_and_score": "Rayo Vallecano 1 - 1 Sevilla"
+          }
+        ],
+        "home_team_form": {
+          "team": "Sevilla",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Sevilla 2 - 1 Rayo Vallecano",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bayer Leverkusen 2 - 1 Sevilla",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sevilla 2 - 1 AD Ceuta FC",
+              "result": "W"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sevilla 1 - 0 Juventud Torremolinos CF",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Celta Vigo 1 - 0 Sevilla",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Rayo Vallecano",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Sevilla 2 - 1 Rayo Vallecano",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Ipswich Town 3 - 0 Rayo Vallecano",
+              "result": "L"
+            },
+            {
+              "date": "27/05/2026",
+              "competition": "Final",
+              "teams_and_score": "Crystal Palace 1 - 0 Rayo Vallecano",
+              "result": "L"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Deportivo Alaves 1 - 2 Rayo Vallecano",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sevilla": "4",
+          "Rayo Vallecano": "3"
+        },
+        "shots_off_target": {
+          "Sevilla": "6",
+          "Rayo Vallecano": "3"
+        },
+        "shots_blocked": {
+          "Sevilla": "3",
+          "Rayo Vallecano": "0"
+        },
+        "corners": {
+          "Sevilla": "1",
+          "Rayo Vallecano": "2"
+        },
+        "fouls": {
+          "Sevilla": "18",
+          "Rayo Vallecano": "18"
+        },
+        "offsides": {
+          "Sevilla": "1",
+          "Rayo Vallecano": "1"
+        },
+        "yellow_cards": {
+          "Sevilla": "4",
+          "Rayo Vallecano": "4"
+        },
+        "red_cards": {
+          "Sevilla": "1",
+          "Rayo Vallecano": "0"
+        },
+        "goalkeeper_saves": {
+          "Sevilla": "2",
+          "Rayo Vallecano": "2"
+        },
+        "crosses": {
+          "Sevilla": "3",
+          "Rayo Vallecano": "5"
+        },
+        "ball_possession": {
+          "Sevilla": "49%",
+          "Rayo Vallecano": "51%"
+        }
+      },
+      "description": "Watch Sevilla vs Rayo Vallecano highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 15, 2026. Sevilla and Rayo Vallecano faced off in a high-stakes La Liga encounter that delivered non-stop action and tactical intrigue from start to finish. This opening clash on August 15, 2026 , proved to be a rollercoaster of emotions for every fan in the stadium. Early Setback and VAR Drama The match ignited in the 4th minute when Rayo Vallecano took a shock lead. A defensive error by Arouna Sangante allowed Alvaro Garcia to pounce on a loose ball, clinicaly finishing with his left foot. Sevilla struggled to find their rhythm initially but thought they had a lifeline in the 38th minute. The referee awarded a penalty for a foul by Augusto Batalla on Isaac Romero , but after a lengthy VAR review, the decision was overturned, leaving the home side frustrated as they headed into the break. The Second Half Surge The momentum shifted early in the second period. In the 50th minute, Alvaro Garcia went from hero to villain as he conceded a penalty for tripping Miguel Angel Sierra . Jon Guridi stepped up for Sevilla and coolly slotted the ball home in the 52nd minute to level the score. The contest became increasingly physical, with the referee issuing a flurry of yellow cards to Jon Guridi , Unai Lopez , and Fran Perez as both teams battled for control in a tense midfield scrap. Stoppage Time Chaos and a Dramatic Winner The final minutes were defined by pure drama. Sevilla were dealt a massive blow in the 88th minute when Kike Salas received a straight red card for a serious foul. Despite being a man down, the hosts pushed forward and won another penalty in the 94th minute after Florian Lejeune tripped Robbie Ure . In the 7th minute of added time, Gerard Fernandez (Peque) stepped up and powered the ball past Batalla to secure a 2-1 victory. The game ended in a heated atmosphere, with players clashing and further bookings for Lucien Agoumé and Alexandre Zurawski , but Sevilla held on for a famous win."
+    },
+    {
+      "title": "Real Betis vs Real Madrid",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/betis-v-real-madrid-2026-09-04-cYgx.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Sep 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/541.webp",
+          "name": "Real Madrid",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/543.webp",
+          "name": "Real Betis",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Betis_v_Real_Madrid_2026_09_04.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "45+3'",
+          "team": "Real Madrid",
+          "player": "A. Güler",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "54'",
+          "team": "Real Madrid",
+          "player": "I. Konaté",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "54'",
+          "team": "Real Madrid",
+          "player": "J. Mourinho",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Real Madrid",
+          "player": "E. Camavinga",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "64'",
+          "team": "Real Betis",
+          "player": "F. Bernal",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "81'",
+          "team": "Real Betis",
+          "player": "T. Parrott",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "83'",
+          "team": "Real Betis",
+          "player": "M. Roca",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "87'",
+          "team": "Real Madrid",
+          "player": "C. Espi",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Real Betis",
+          "player": "Natan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Real Madrid",
+          "player": "K. Mbappé",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "90+9'",
+          "team": "Real Madrid",
+          "player": "V. Junior",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Real Betis_wins": "1",
+          "draws": "4",
+          "Real Madrid_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "24/04/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Real Betis 1 - 1 Real Madrid"
+          },
+          {
+            "date": "01/03/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Real Betis 2 - 1 Real Madrid"
+          },
+          {
+            "date": "25/05/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Real Madrid 0 - 0 Real Betis"
+          },
+          {
+            "date": "05/03/2023",
+            "competition": "LaLiga 22/23",
+            "teams_and_score": "Real Betis 0 - 0 Real Madrid"
+          },
+          {
+            "date": "20/05/2022",
+            "competition": "LaLiga 21/22",
+            "teams_and_score": "Real Madrid 0 - 0 Real Betis"
+          }
+        ],
+        "home_team_form": {
+          "team": "Real Betis",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Betis 1 - 0 Real Madrid",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Inter 1 - 0 Real Betis",
+              "result": "L"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 3 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Betis 1 - 0 Almeria",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Real Madrid",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "04/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Betis 1 - 0 Real Madrid",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Schalke 04 0 - 3 Real Madrid",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Real Madrid 2 - 2 Fiorentina",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Real Madrid 4 - 2 Athletic Club",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Real Betis": "5",
+          "Real Madrid": "8"
+        },
+        "shots_off_target": {
+          "Real Betis": "2",
+          "Real Madrid": "9"
+        },
+        "shots_blocked": {
+          "Real Betis": "3",
+          "Real Madrid": "3"
+        },
+        "corners": {
+          "Real Betis": "6",
+          "Real Madrid": "10"
+        },
+        "fouls": {
+          "Real Betis": "11",
+          "Real Madrid": "13"
+        },
+        "offsides": {
+          "Real Betis": "1",
+          "Real Madrid": "2"
+        },
+        "yellow_cards": {
+          "Real Betis": "3",
+          "Real Madrid": "4"
+        },
+        "goalkeeper_saves": {
+          "Real Betis": "6",
+          "Real Madrid": "4"
+        },
+        "crosses": {
+          "Real Betis": "1",
+          "Real Madrid": "8"
+        },
+        "ball_possession": {
+          "Real Betis": "42%",
+          "Real Madrid": "58%"
+        }
+      },
+      "description": "Watch Real Betis vs Real Madrid highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on September 4, 2026. The stage was set at the stadium for a high-stakes La Liga encounter that promised tactical intrigue and plenty of passion. On September 4, 2026 , both sides took to the pitch under the floodlights, eager to claim dominance in a fixture known for its historic rivalry. Early Pressure and Woodwork Woes Real Madrid started with intent, searching for an early breakthrough through their star-studded frontline. In the 15th minute, Vinicius Junior came agonizingly close to scoring, but his clinical finish struck the post and bounced clear. The pressure didn't subside, and just before the interval, Kylian Mbappe saw a goalbound effort heroically hacked off the line by the Real Betis defense. Alvaro Valles began his standout performance by comfortably saving a goalward header from Jude Bellingham in first-half stoppage time, ensuring the game remained scoreless at the break. Tactical Shifts and Rising Temperatures The second half saw the intensity ramp up as both managers looked to their benches to break the deadlock. Jose Mourinho received a yellow card for dissent as frustrations grew on the touchline, while tactical fouls from Ibrahima Konate and Eduardo Camavinga highlighted the competitive nature of the contest. Real Madrid introduced Bernardo Silva and Trent Alexander-Arnold to add creative spark, while Real Betis brought on Troy Parrott , a move that would prove to be inspired as the match entered its final phase. Parrott Strikes and Valles Saves the Day The deadlock was finally broken in the 81st minute when Troy Parrott reacted quickest to a loose ball in the box, firing home with his right foot to send the home fans into raptures. Real Madrid thought they had responded instantly, but a VAR review correctly ruled out an equalizer for offside against Vinicius Junior . In a heart-stopping finale, Natan conceded a penalty for a foul on Vinicius, but Alvaro Valles cemented his Man of the Match status by saving Kylian Mbappe ’s spot-kick. Despite late pressure and another VAR check for a potential penalty, Real Betis held on for a famous victory."
+    },
+    {
+      "title": "Real Sociedad vs Celta Vigo",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/real-sociedad-vs-celta-vigo-2026-09-03-NxG2.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Sep 3, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/538.webp",
+          "name": "Celta Vigo",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/548.webp",
+          "name": "Real Sociedad",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/real-sociedad-vs-celta-vigo-2026-09-03.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Real Sociedad",
+          "player": "Y. Herrera",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Celta Vigo",
+          "player": "Y. Lago",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Celta Vigo",
+          "player": "M. Alonso",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Celta Vigo",
+          "player": "C. Driouech",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Real Sociedad",
+          "player": "L. Sučić",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Real Sociedad_wins": "4",
+          "draws": "1",
+          "Celta Vigo_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "25/01/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Real Sociedad 3 - 1 Celta Vigo"
+          },
+          {
+            "date": "13/05/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Real Sociedad 0 - 1 Celta Vigo"
+          },
+          {
+            "date": "23/01/2024",
+            "competition": "Copa del Rey: Quarter-Finals",
+            "teams_and_score": "Celta Vigo 1 - 2 Real Sociedad"
+          },
+          {
+            "date": "20/01/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Celta Vigo 0 - 1 Real Sociedad"
+          },
+          {
+            "date": "18/02/2023",
+            "competition": "LaLiga 22/23",
+            "teams_and_score": "Real Sociedad 1 - 1 Celta Vigo"
+          },
+          {
+            "date": "08/01/2022",
+            "competition": "LaLiga 21/22",
+            "teams_and_score": "Real Sociedad 1 - 0 Celta Vigo"
+          }
+        ],
+        "home_team_form": {
+          "team": "Real Sociedad",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Sociedad 0 - 0 Celta Vigo",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "FC Cologne 2 - 1 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Cologne 2 - 0 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Aston Villa 2 - 4 Real Sociedad",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Celta Vigo",
+          "form": [
+            "D",
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "03/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Sociedad 0 - 0 Celta Vigo",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 1 - 1 Celta Vigo",
+              "result": "D"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "SC Braga 2 - 2 Celta Vigo",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Celta Vigo 1 - 0 Sevilla",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Real Sociedad": "5",
+          "Celta Vigo": "2"
+        },
+        "shots_off_target": {
+          "Real Sociedad": "3",
+          "Celta Vigo": "3"
+        },
+        "shots_blocked": {
+          "Real Sociedad": "8",
+          "Celta Vigo": "2"
+        },
+        "corners": {
+          "Real Sociedad": "11",
+          "Celta Vigo": "3"
+        },
+        "fouls": {
+          "Real Sociedad": "15",
+          "Celta Vigo": "11"
+        },
+        "offsides": {
+          "Real Sociedad": "2",
+          "Celta Vigo": "1"
+        },
+        "yellow_cards": {
+          "Real Sociedad": "2",
+          "Celta Vigo": "3"
+        },
+        "goalkeeper_saves": {
+          "Real Sociedad": "2",
+          "Celta Vigo": "5"
+        },
+        "crosses": {
+          "Real Sociedad": "3",
+          "Celta Vigo": "0"
+        },
+        "ball_possession": {
+          "Real Sociedad": "51%",
+          "Celta Vigo": "49%"
+        }
+      },
+      "description": "Watch Real Sociedad vs Celta Vigo highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on September 3, 2026. Step into the atmosphere of La Liga as Real Sociedad and Celta Vigo clashed in a match defined by tactical rigidity and defensive resilience. Both sides entered the pitch looking to establish dominance in a fixture that promised a high-level strategic battle. Cautious Beginnings at the Anoeta On September 3, 2026 , the Anoeta stadium played host to a contest where chances were at a premium but intensity was high. Real Sociedad looked to exploit set-piece situations early on, with Sergio Gómez delivering a series of corners that tested the visitors' organization. The closest the home side came to an opener was in the 13th minute when Jon Martín connected with a header, only to be denied by a sharp save from Ionut Andrei Radu . Celta Vigo remained disciplined, occasionally threatening from distance through Ilaix Moriba , though his efforts failed to trouble the target. The physical nature of the game saw Yangel Herrera go into the referee's book early for a rough challenge. A defensive lapse by Igor Zubeldia briefly gave the home fans a scare, but the deadlock remained unbroken as both teams headed into the tunnels at halftime. Defensive Heroics and Late Pressure The second half saw both managers turn to their benches to find a breakthrough. Mikel Oyarzabal missed a chance from a direct free kick before the introduction of Iago Aspas for Celta and Gonçalo Guedes for Real Sociedad injected fresh energy into the final third. The match grew increasingly fractious, with Marcos Alonso , Couhaib Driouech , and Luka Sucic all receiving yellow cards as the battle for midfield supremacy intensified. As the clock ticked towards the 90th minute, Gonçalo Guedes nearly snatched victory for the hosts with a powerful strike from outside the box that whistled just wide of the post. Despite a late counter-attack led by Aspas and several desperate crosses from Real Sociedad , the match ended in a goalless draw. Ionut Andrei Radu was arguably the standout performer, commanding his area and ensuring a clean sheet in front of a 30,364-strong crowd."
+    },
+    {
+      "title": "Real Betis vs Real Sociedad",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/betis-v-real-sociedad-2026-08-21-WgPc.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Aug 21, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/548.webp",
+          "name": "Real Sociedad",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/543.webp",
+          "name": "Real Betis",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Betis_v_Real_Sociedad_2026_08_21.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Real Sociedad",
+          "player": "S. Gómez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "49'",
+          "team": "Real Sociedad",
+          "player": "J. Aramburu",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Real Sociedad",
+          "player": "I. Zubeldia",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "63'",
+          "team": "Real Betis",
+          "player": "R. Riquelme",
+          "event_type": "Goal",
+          "assist": "C. Hernandez",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "80'",
+          "team": "Real Betis",
+          "player": "Natan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90'",
+          "team": "Real Betis",
+          "player": "F. García",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Real Betis",
+          "player": "H. Bellerín",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Real Betis_wins": "1",
+          "draws": "3",
+          "Real Sociedad_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "09/05/2026",
+            "competition": "LaLiga 25/26",
+            "teams_and_score": "Real Sociedad 2 - 2 Real Betis"
+          },
+          {
+            "date": "16/02/2025",
+            "competition": "LaLiga 24/25",
+            "teams_and_score": "Real Betis 3 - 0 Real Sociedad"
+          },
+          {
+            "date": "19/05/2024",
+            "competition": "LaLiga 23/24",
+            "teams_and_score": "Real Betis 0 - 2 Real Sociedad"
+          },
+          {
+            "date": "05/08/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Real Betis 0 - 1 Real Sociedad"
+          },
+          {
+            "date": "25/04/2023",
+            "competition": "LaLiga 22/23",
+            "teams_and_score": "Real Betis 0 - 0 Real Sociedad"
+          },
+          {
+            "date": "15/04/2022",
+            "competition": "LaLiga 21/22",
+            "teams_and_score": "Real Sociedad 0 - 0 Real Betis"
+          }
+        ],
+        "home_team_form": {
+          "team": "Real Betis",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "21/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Betis 1 - 0 Real Sociedad",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Inter 1 - 0 Real Betis",
+              "result": "L"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 3 Real Betis",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Betis 1 - 0 Almeria",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Real Betis 2 - 1 Levante",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Real Sociedad",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "21/08/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Real Betis 1 - 0 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "FC Cologne 2 - 1 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Cologne 2 - 0 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Aston Villa 2 - 4 Real Sociedad",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Real Betis": "7",
+          "Real Sociedad": "3"
+        },
+        "shots_off_target": {
+          "Real Betis": "7",
+          "Real Sociedad": "3"
+        },
+        "shots_blocked": {
+          "Real Betis": "4",
+          "Real Sociedad": "3"
+        },
+        "corners": {
+          "Real Betis": "4",
+          "Real Sociedad": "5"
+        },
+        "fouls": {
+          "Real Betis": "9",
+          "Real Sociedad": "12"
+        },
+        "offsides": {
+          "Real Betis": "1",
+          "Real Sociedad": "3"
+        },
+        "yellow_cards": {
+          "Real Betis": "3",
+          "Real Sociedad": "3"
+        },
+        "goalkeeper_saves": {
+          "Real Betis": "3",
+          "Real Sociedad": "6"
+        },
+        "crosses": {
+          "Real Betis": "4",
+          "Real Sociedad": "1"
+        },
+        "ball_possession": {
+          "Real Betis": "48%",
+          "Real Sociedad": "52%"
+        }
+      },
+      "description": "Watch Real Betis vs Real Sociedad highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on August 21, 2026. A Tactical Standoff On August 21, 2026, Real Betis and Real Sociedad locked horns in a La Liga fixture defined by tactical discipline and persistent midfield battles. Throughout the match, both sides fought for every inch of grass, creating an atmosphere of high tension that persisted until the very final whistle. The Breakthrough After a stalemate in the first half, the game’s defining moment arrived in the 63rd minute. Juan Hernandez delivered a precise ball to Rodrigo Riquelme , who hammered a clinical left-footed volley into the goal. This strike tilted the momentum in favor of the hosts, forcing the visitors to chase the game. Real Sociedad came agonizingly close to equalizing when Luka Sucic struck the post, but the woodwork denied them, keeping Real Betis in the lead. Defending the Lead As the clock ticked toward the end, the match grew increasingly physical, leading the referee to issue a flurry of yellow cards to both sides. Real Betis demonstrated excellent game management, repelling late pressure and ensuring that the crucial first-half defensive efforts were not in vain. The hosts held firm to secure a hard-fought victory, showcasing both clinical finishing and gritty determination."
     }
   ]
 }
