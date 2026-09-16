@@ -1,116 +1,204 @@
 {
   "team": "Deportivo La Coruna",
   "team_logo": "https://img.refooty.com/logo/teams/544.webp",
-  "total_matches": 5,
-  "Last update time": "06:30:23 AM 16-09-2026",
+  "total_matches": 6,
+  "Last update time": "04:20:09 AM 17-09-2026",
   "matches": [
     {
-      "title": "Fiorentina vs Deportivo La Coruna",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/fiorentina-vs-deportivo-la-coruna-2026-08-06-6zTU.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 6, 2026",
+      "title": "Deportivo La Coruña vs Sevilla",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/deportivo-la-coruna-sevilla-2026-09-16-Ro3l.webp",
+      "competition": "La Liga",
+      "competition_cover": "https://refooty.com/covers/la-liga.webp",
+      "date": "Sep 16, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/544.webp",
-          "name": "Deportivo La Coruna",
+          "logo": "https://img.refooty.com/logo/teams/536.webp",
+          "name": "Sevilla",
           "score": "1"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/502.webp",
-          "name": "Fiorentina",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/544.webp",
+          "name": "Deportivo La Coruna",
+          "score": "0"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/fiorentina-vs-deportivo-la-coruna-2026-08-06_Vc4ZT.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/deportivo-la-coruna-sevilla-2026-09-16-vommym3u8-8aeq7.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "1'",
-          "team": "Fiorentina",
-          "player": "C. Ndour",
+          "time": "52'",
+          "team": "Sevilla",
+          "player": "M. A. Sierra",
           "event_type": "Goal",
-          "score_update": "1 - 0"
+          "score_update": "0 - 1"
         },
         {
-          "time": "46'",
+          "time": "59'",
           "team": "Deportivo La Coruna",
-          "player": "B. Nsongo",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
+          "player": "Angeliño",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "65'",
+          "team": "Sevilla",
+          "player": "K. Salas",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "77'",
+          "team": "Deportivo La Coruna",
+          "player": "L. Amatucci",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "80'",
+          "team": "Sevilla",
+          "player": "J. Guridi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Sevilla",
+          "player": "I. Romero",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+6'",
+          "team": "Sevilla",
+          "player": "J. Iglesias",
+          "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Fiorentina_wins": "0",
-          "draws": "0",
-          "Deportivo La Coruna_wins": "0"
+          "Deportivo La Coruna_wins": "0",
+          "draws": "2",
+          "Sevilla_wins": "0"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "17/04/2018",
+            "competition": "LaLiga",
+            "teams_and_score": "Deportivo A Coruna 0 - 0 Sevilla"
+          },
+          {
+            "date": "17/04/2016",
+            "competition": "Primera Division",
+            "teams_and_score": "Sevilla 1 - 1 Deportivo A Coruna"
+          }
+        ],
         "home_team_form": {
-          "team": "Fiorentina",
+          "team": "Deportivo La Coruna",
           "form": [
-            "D",
             "W",
+            "W",
+            "D",
             "D"
           ],
           "recent_matches": [
             {
-              "date": "06/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Fiorentina 1 - 1 Deportivo La Coruna",
-              "result": "D"
-            },
-            {
-              "date": "19/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Fiorentina 8 - 1 Fiorentina U20",
+              "date": "16/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Deportivo A Coruna 0 - 1 Sevilla",
               "result": "W"
             },
             {
-              "date": "22/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Fiorentina 1 - 1 Atalanta",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Deportivo La Coruna",
-          "form": [
-            "D",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
+              "date": "12/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Deportivo A Coruna 0 - 1 Real Madrid",
+              "result": "W"
+            },
             {
               "date": "06/08/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "Fiorentina 1 - 1 Deportivo La Coruna",
+              "teams_and_score": "Fiorentina 1 - 1 Deportivo A Coruna",
               "result": "D"
             },
             {
               "date": "01/08/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "St. Pauli 2 - 2 Deportivo La Coruna",
+              "teams_and_score": "St. Pauli 2 - 2 Deportivo A Coruna",
               "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sevilla",
+          "form": [
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "LaLiga",
+              "teams_and_score": "Deportivo A Coruna 0 - 1 Sevilla",
+              "result": "W"
             },
             {
-              "date": "31/05/2026",
-              "competition": "LaLiga 2",
-              "teams_and_score": "Deportivo La Coruna 1 - 2 Las Palmas",
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Bayer Leverkusen 2 - 1 Sevilla",
               "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sevilla 2 - 1 AD Ceuta FC",
+              "result": "W"
             }
           ]
         }
       },
-      "statistics": {},
-      "description": "Watch Fiorentina vs Deportivo La Coruna highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 6, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Deportivo La Coruna": "3",
+          "Sevilla": "6"
+        },
+        "shots_off_target": {
+          "Deportivo La Coruna": "1",
+          "Sevilla": "3"
+        },
+        "shots_blocked": {
+          "Deportivo La Coruna": "0",
+          "Sevilla": "2"
+        },
+        "corners": {
+          "Deportivo La Coruna": "4",
+          "Sevilla": "4"
+        },
+        "fouls": {
+          "Deportivo La Coruna": "15",
+          "Sevilla": "16"
+        },
+        "yellow_cards": {
+          "Deportivo La Coruna": "1",
+          "Sevilla": "4"
+        },
+        "red_cards": {
+          "Deportivo La Coruna": "1",
+          "Sevilla": "0"
+        },
+        "goalkeeper_saves": {
+          "Deportivo La Coruna": "5",
+          "Sevilla": "3"
+        },
+        "crosses": {
+          "Deportivo La Coruna": "0",
+          "Sevilla": "2"
+        },
+        "ball_possession": {
+          "Deportivo La Coruna": "53%",
+          "Sevilla": "47%"
+        }
+      },
+      "description": "Watch Deportivo La Coruna vs Sevilla highlights and goals from La Liga on ReFooty: Football Highlights Hub. Match played on September 16, 2026. The Riazor stadium played host to a captivating encounter where tactical discipline met raw passion on the pitch. Both sides entered the fray looking to assert their dominance, setting the stage for a match that would be decided by fine margins and moments of high drama. A Cagey Affair in the First Half On 2026-09-16 , Deportivo de A Coruña faced off against Sevilla in a La Liga fixture attended by 18,506 spectators. The first half was a testament to defensive organization, as both teams struggled to break each other down. Angeliño looked dangerous with his delivery from wide areas, and Miguel Angel Sierra showed flashes of quality for the visitors, but the goalkeepers remained largely untested as the half ended without a breakthrough. Sierra Strikes and Angeliño Sees Red The second half ignited in the 52nd minute when Sevilla finally found the net. Miguel Angel Sierra clinical right-footed finish gave the visitors the lead and altered the dynamic of the contest. The situation worsened for the home side in the 59th minute; following a VAR review, the referee upgraded a yellow card to a straight red for Angeliño after a serious foul. This dismissal forced Deportivo to play the remainder of the match with ten men, drastically complicating their comeback efforts. Late Drama and Defensive Resilience Despite the numerical disadvantage, Deportivo pushed forward, introducing Adama Traore and Mario Soriano to spark life into their attack. However, the game became increasingly fragmented by fouls, with Kike Salas , Jon Guridi , and Lorenzo Amatucci all entering the referee's book. In a frantic stoppage time, Sevilla focused on counter-attacks while Miguel Loureiro made a crucial block to deny a shot from Giorgi Kochorashvili . The visitors held firm until the final whistle at 90+7' to secure a vital victory."
     },
     {
       "title": "Malaga vs Deportivo La Coruna",
@@ -797,6 +885,114 @@
       },
       "statistics": {},
       "description": "Watch Genoa vs Deportivo La Coruna highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
+    },
+    {
+      "title": "Fiorentina vs Deportivo La Coruna",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/fiorentina-vs-deportivo-la-coruna-2026-08-06-6zTU.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/544.webp",
+          "name": "Deportivo La Coruna",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/502.webp",
+          "name": "Fiorentina",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/fiorentina-vs-deportivo-la-coruna-2026-08-06_Vc4ZT.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Fiorentina",
+          "player": "C. Ndour",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Deportivo La Coruna",
+          "player": "B. Nsongo",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Fiorentina_wins": "0",
+          "draws": "0",
+          "Deportivo La Coruna_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Fiorentina",
+          "form": [
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Fiorentina 1 - 1 Deportivo La Coruna",
+              "result": "D"
+            },
+            {
+              "date": "19/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Fiorentina 8 - 1 Fiorentina U20",
+              "result": "W"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Fiorentina 1 - 1 Atalanta",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Deportivo La Coruna",
+          "form": [
+            "D",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Fiorentina 1 - 1 Deportivo La Coruna",
+              "result": "D"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "St. Pauli 2 - 2 Deportivo La Coruna",
+              "result": "D"
+            },
+            {
+              "date": "31/05/2026",
+              "competition": "LaLiga 2",
+              "teams_and_score": "Deportivo La Coruna 1 - 2 Las Palmas",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Fiorentina vs Deportivo La Coruna highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 6, 2026."
     }
   ]
 }
