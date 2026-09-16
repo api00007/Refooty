@@ -3,195 +3,613 @@
   "AUTHOR": "iVan_FluX",
   "CONTACT (OWNER)": "https://t.me/iVan_flux",
   "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-  "Last update time": "04:20:08 AM 17-09-2026",
+  "Last update time": "04:30:03 AM 17-09-2026",
   "matches": [
     {
-      "title": "Yokohama F• Marinos - Kyoto Sanga FC",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/yokohama-f-marinos-kyoto-sanga-fc-2026-09-02-rvcH.webp",
-      "competition": "J1 League",
-      "competition_cover": "",
-      "date": "Sep 2, 2026",
+      "title": "Antwerp - KRC Genk - 2026-2027",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-krc-genk-2026-2027-2026-08-24-l67J.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Aug 24, 2026",
       "events_info": {
         "away_team": {
-          "logo": "",
-          "name": "Away Team",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/742.webp",
+          "name": "Genk",
+          "score": "4"
         },
         "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/740.webp",
+          "name": "Antwerp",
+          "score": "4"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/yokohama-f-marinos-kyoto-sanga-fc-2026-09-02.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/antwerp-krc-genk-2026-2027-2026-08-24.m3u8"
         }
       ],
-      "events_timeline": [],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Antwerp",
+          "player": "A. Valencia",
+          "event_type": "Goal",
+          "assist": "C. Scott",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Genk",
+          "player": "J. N. Kongolo",
+          "event_type": "Goal",
+          "assist": "I. S. Bangoura",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Genk",
+          "player": "R. Durosinmi",
+          "event_type": "Goal",
+          "assist": "J. Erenbjerg",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Genk",
+          "player": "A. Yokoyama",
+          "event_type": "Goal",
+          "assist": "J. Erenbjerg",
+          "score_update": "1 - 3"
+        },
+        {
+          "time": "76'",
+          "team": "Genk",
+          "player": "A. Bibout",
+          "event_type": "Goal",
+          "assist": "J. Afriyie",
+          "score_update": "1 - 4"
+        },
+        {
+          "time": "91'",
+          "team": "Genk",
+          "player": "D. Heymans",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Antwerp",
+          "player": "E. Tuypens",
+          "event_type": "Goal",
+          "assist": "T. Somers",
+          "score_update": "2 - 4"
+        },
+        {
+          "time": "121'",
+          "team": "Genk",
+          "player": "I. S. Bangoura",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "136'",
+          "team": "Antwerp",
+          "player": "M. Frey",
+          "event_type": "Goal",
+          "score_update": "3 - 4"
+        },
+        {
+          "time": "151'",
+          "team": "Antwerp",
+          "player": "M. Frey",
+          "event_type": "Goal",
+          "assist": "C. Mejia",
+          "score_update": "4 - 4"
+        }
+      ],
       "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
+        "summary": {
+          "Antwerp_wins": "2",
+          "draws": "2",
+          "Genk_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "19/05/2026",
+            "competition": "Belgian Pro League Playoff: Conference League Group",
+            "teams_and_score": "Genk 0 - 0 Royal Antwerp"
+          },
+          {
+            "date": "07/12/2025",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Royal Antwerp 3 - 0 Genk"
+          },
+          {
+            "date": "27/04/2025",
+            "competition": "Belgian Pro League: Championship Group",
+            "teams_and_score": "Genk 0 - 1 Royal Antwerp"
+          },
+          {
+            "date": "26/12/2024",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Royal Antwerp 2 - 2 Genk"
+          },
+          {
+            "date": "20/05/2024",
+            "competition": "Belgian Pro League: Championship Group 23/24",
+            "teams_and_score": "Genk 1 - 0 Royal Antwerp"
+          }
+        ],
         "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
+          "team": "Antwerp",
+          "form": [
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Royal Antwerp 4 - 4 Genk",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leyton Orient 2 - 1 Royal Antwerp",
+              "result": "L"
+            }
+          ]
         },
         "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
+          "team": "Genk",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Royal Antwerp 4 - 4 Genk",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Genk 2 - 1 FC Twente",
+              "result": "W"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "AZ Alkmaar 4 - 0 Genk",
+              "result": "L"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Falkirk 1 - 0 Genk",
+              "result": "L"
+            }
+          ]
         }
       },
-      "statistics": {},
-      "description": "Watch Yokohama F. Marinos vs Kyoto Sanga highlights and goals from J1 League on ReFooty: Football Highlights Hub. Match played on September 2, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Antwerp": "6",
+          "Genk": "7"
+        },
+        "shots_off_target": {
+          "Antwerp": "8",
+          "Genk": "1"
+        },
+        "shots_blocked": {
+          "Antwerp": "2",
+          "Genk": "4"
+        },
+        "corners": {
+          "Antwerp": "5",
+          "Genk": "3"
+        },
+        "fouls": {
+          "Antwerp": "15",
+          "Genk": "15"
+        },
+        "offsides": {
+          "Antwerp": "1",
+          "Genk": "2"
+        },
+        "yellow_cards": {
+          "Antwerp": "0",
+          "Genk": "2"
+        },
+        "goalkeeper_saves": {
+          "Antwerp": "3",
+          "Genk": "2"
+        },
+        "ball_possession": {
+          "Antwerp": "47%",
+          "Genk": "53%"
+        }
+      },
+      "description": "Watch Antwerp vs Genk highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 24, 2026. The Jupiler Pro League witnessed a remarkable encounter on August 24, 2026 , as Antwerp hosted Lommel United in a game that kept fans on the edge of their seats. Both tactical discipline and individual brilliance were put to the test in a contest where momentum shifted with every passing minute. Opening Exchanges and Early Breakthrough The match began with high intensity, and it didn't take long for Antwerp to find the breakthrough. In the 16th minute, Christopher Scott played a precise ball into the path of Anthony Valencia , who made no mistake in putting the home side ahead. However, Lommel United responded with resilience. They worked their way back into the contest and found an equalizer in the 31st minute when Josue Kongolo finished off a move orchestrated by Ibrahima Sory Bangoura . The teams went into the break level, with everything to play for in the second half. Explosive Start to the Second Period The restart saw Antwerp regain control with a clinical display of attacking football. Just three minutes after the interval, Rafiu Durosinmi restored the lead following an assist from Jeppe Erenbjerg . The pressure continued, and Jeppe Erenbjerg turned provider again in the 57th minute, this time setting up Ayumu Yokoyama to extend the cushion to 3-1. Despite the deficit, Lommel United refused to surrender, making tactical changes that soon paid dividends. The Final Act: Frey’s Decisive Double The game entered a frantic phase as Lommel United mounted a spirited comeback. Aaron Bibout reduced the deficit in the 70th minute after being set up by Jerry Afriyie , and the tension reached a boiling point when Eran Tuypens leveled the score at 3-3 in the 80th minute. However, the final moments belonged to Michael Frey . The Antwerp striker converted a penalty in the 86th minute to regain the lead and then sealed the 5-3 victory just two minutes later with his second goal of the night, assisted by Carlos Mejia , bringing a breathless encounter to a close."
     },
     {
-      "title": "Shimizu S-Pulse - FC TOKYO",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/shimizu-s-pulse-fc-tokyo-2026-09-02-eZQT.webp",
-      "competition": "J1 League",
-      "competition_cover": "",
-      "date": "Sep 2, 2026",
+      "title": "Lommel SK - KVC Westerlo - 2026-2027",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/lommel-sk-kvc-westerlo-2026-2027-2026-08-24-6TLJ.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Aug 24, 2026",
       "events_info": {
         "away_team": {
-          "logo": "",
-          "name": "Away Team",
+          "logo": "https://img.refooty.com/logo/teams/261.webp",
+          "name": "KVC Westerlo",
           "score": "0"
         },
         "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/24389.webp",
+          "name": "Lommel SK",
+          "score": "4"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/shimizu-s-pulse-fc-tokyo-2026-09-02.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/lommel-sk-kvc-westerlo-2026-2027-2026-08-24.m3u8"
         }
       ],
-      "events_timeline": [],
+      "events_timeline": [
+        {
+          "time": "30'",
+          "team": "Lommel SK",
+          "player": "T. Reyners",
+          "event_type": "Goal",
+          "assist": "J. v. Duiven",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "45+4'",
+          "team": "Lommel SK",
+          "player": "L. Schoofs",
+          "event_type": "Goal",
+          "assist": "J. v. Duiven",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Lommel SK",
+          "player": "D. Konadu",
+          "event_type": "Goal",
+          "assist": "S. Appuah",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Lommel SK",
+          "player": "T. Reyners",
+          "event_type": "Goal",
+          "assist": "J. v. Duiven",
+          "score_update": "4 - 0"
+        }
+      ],
       "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
+        "summary": {
+          "Lommel SK_wins": "1",
+          "draws": "0",
+          "KVC Westerlo_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "08/07/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Westerlo 2 - 1 Lommel"
+          },
+          {
+            "date": "02/04/2022",
+            "competition": "First Division B",
+            "teams_and_score": "Lommel 2 - 1 Westerlo"
+          },
+          {
+            "date": "14/03/2021",
+            "competition": "First Division B",
+            "teams_and_score": "Lommel 1 - 0 Westerlo"
+          },
+          {
+            "date": "15/02/2020",
+            "competition": "First Division B: 2nd Stage",
+            "teams_and_score": "Lommel 0 - 1 Westerlo"
+          }
+        ],
         "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
+          "team": "Lommel SK",
+          "form": [
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Lommel 4 - 0 Westerlo",
+              "result": "L"
+            },
+            {
+              "date": "24/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lommel 0 - 4 ADO Den Haag",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Belgium Pro League: Qualification",
+              "teams_and_score": "FCV Dender EH 0 - 0 Lommel",
+              "result": "D"
+            }
+          ]
         },
         "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
+          "team": "KVC Westerlo",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Lommel 4 - 0 Westerlo",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Westerlo 1 - 2 Samsunspor",
+              "result": "W"
+            }
+          ]
         }
       },
-      "statistics": {},
-      "description": "Watch Shimizu S-pulse vs FC Tokyo highlights and goals from J1 League on ReFooty: Football Highlights Hub. Match played on September 2, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Lommel SK": "6",
+          "KVC Westerlo": "4"
+        },
+        "shots_off_target": {
+          "Lommel SK": "5",
+          "KVC Westerlo": "5"
+        },
+        "shots_blocked": {
+          "Lommel SK": "2",
+          "KVC Westerlo": "8"
+        },
+        "corners": {
+          "Lommel SK": "5",
+          "KVC Westerlo": "4"
+        },
+        "fouls": {
+          "Lommel SK": "5",
+          "KVC Westerlo": "10"
+        },
+        "offsides": {
+          "Lommel SK": "2",
+          "KVC Westerlo": "1"
+        },
+        "goalkeeper_saves": {
+          "Lommel SK": "4",
+          "KVC Westerlo": "2"
+        },
+        "ball_possession": {
+          "Lommel SK": "44%",
+          "KVC Westerlo": "56%"
+        }
+      },
+      "description": "Watch Lommel SK vs KVC Westerlo highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 24, 2026. The Jupiler Pro League clash on August 24, 2026 , between Lommel SK and Lommel United was a tactical battle that saw key players stepping up under the bright lights. Both teams entered the pitch with everything to play for, creating an intense environment for the fans in attendance. Clinical First Half Performance Early drama unfolded just five minutes into the match when Sverre Halseth Nypan was forced off, making way for Zalan Vancsa . Despite the early disruption, the home side found their rhythm as the half progressed. The breakthrough arrived in the 30th minute when Jason van Duiven turned provider for Tom Reyners , who finished clinically to break the deadlock. The pressure remained high, and in the fourth minute of first-half stoppage time, Lucas Schoofs doubled the lead, once again capitalizing on a brilliant setup by the ever-present Van Duiven . Dominance Asserted After the Break The second half began with a flurry of substitutions as both managers looked to alter the game's dynamic. However, it was Lommel SK who struck again in the 51st minute; Don-Angelo Konadu found the back of the net following an assist from Stredair Appuah . The home side managed their lead effectively, introducing fresh legs like Ralf Seuntjens and Ibrahim Fofana to maintain control. As the clock ticked toward full-time, the man of the match, Jason van Duiven , completed a hat-trick of assists. In the 89th minute, he played in Tom Reyners for his second goal of the night, putting the final gloss on a commanding performance. The referee blew the final whistle at 90+3, confirming a night to remember for the home supporters."
     },
     {
-      "title": "Mito Hollyhock - Kashima Antlers",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/mito-hollyhock-kashima-antlers-2026-09-02-WC3D.webp",
-      "competition": "J1 League",
-      "competition_cover": "",
-      "date": "Sep 2, 2026",
+      "title": "Club Brugge - Cercle - 2026-2027",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/club-brugge-cercle-2026-2027-2026-08-24-IP4Y.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Aug 24, 2026",
       "events_info": {
         "away_team": {
-          "logo": "",
-          "name": "Away Team",
+          "logo": "https://img.refooty.com/logo/teams/741.webp",
+          "name": "Cercle Brugge",
           "score": "0"
         },
         "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/mito-hollyhock-kashima-antlers-2026-09-02.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
-        },
-        "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
-        }
-      },
-      "statistics": {},
-      "description": "Watch Mito Hollyhock vs Consadole Sapporo highlights and goals from J1 League on ReFooty: Football Highlights Hub. Match played on September 2, 2026."
-    },
-    {
-      "title": "FC Machida Zelvia - Kawasaki Frontale",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/fc-machida-zelvia-kawasaki-frontale-2026-09-02-dOTX.webp",
-      "competition": "J1 League",
-      "competition_cover": "",
-      "date": "Sep 2, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "",
-          "name": "Away Team",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/fc-machida-zelvia-kawasaki-frontale-2026-09-02.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
-        },
-        "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
-        }
-      },
-      "statistics": {},
-      "description": "Watch Machida Zelvia vs Kawasaki Frontale highlights and goals from J1 League on ReFooty: Football Highlights Hub. Match played on September 2, 2026."
-    },
-    {
-      "title": "Salford City vs Newport County",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/salford-city-vs-newport-county-2026-09-01-lTra.webp",
-      "competition": "League Two",
-      "competition_cover": "https://refooty.com/covers/league-two.webp",
-      "date": "Sep 1, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1367.webp",
-          "name": "Newport County",
+          "logo": "https://img.refooty.com/logo/teams/569.webp",
+          "name": "Club Brugge",
           "score": "1"
         },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/club-brugge-cercle-2026-2027-2026-08-24.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Club Brugge",
+          "player": "N. Tresoldi",
+          "event_type": "Goal",
+          "assist": "C. Forbs",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Cercle Brugge",
+          "player": "M. I. Diaby",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Club Brugge_wins": "2",
+          "draws": "3",
+          "Cercle Brugge_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "15/02/2026",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Cercle Brugge 1 - 2 Club Brugge"
+          },
+          {
+            "date": "09/03/2025",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Cercle Brugge 1 - 3 Club Brugge"
+          },
+          {
+            "date": "26/05/2024",
+            "competition": "Belgian Pro League: Championship Group 23/24",
+            "teams_and_score": "Club Brugge 0 - 0 Cercle Brugge"
+          },
+          {
+            "date": "18/02/2024",
+            "competition": "Belgian Pro League 23/24",
+            "teams_and_score": "Cercle Brugge 1 - 1 Club Brugge"
+          },
+          {
+            "date": "19/02/2023",
+            "competition": "Belgian Pro League 22/23",
+            "teams_and_score": "Cercle Brugge 2 - 2 Club Brugge"
+          }
+        ],
+        "home_team_form": {
+          "team": "Club Brugge",
+          "form": [
+            "W",
+            "D",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Club Brugge 1 - 0 Cercle Brugge",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Super Cup",
+              "teams_and_score": "Club Brugge 1 - 1 Union St.Gilloise",
+              "result": "D"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Rennes 2 - 1 Club Brugge",
+              "result": "L"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Feyenoord 3 - 1 Club Brugge",
+              "result": "L"
+            },
+            {
+              "date": "04/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Club Brugge 4 - 2 Kortrijk",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Cercle Brugge",
+          "form": [
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Club Brugge 1 - 0 Cercle Brugge",
+              "result": "L"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AS Monaco 2 - 2 Cercle Brugge",
+              "result": "D"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Belgian Pro League: Relegation Group",
+              "teams_and_score": "Raal La Louviere 4 - 1 Cercle Brugge",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Club Brugge": "4",
+          "Cercle Brugge": "4"
+        },
+        "shots_off_target": {
+          "Club Brugge": "4",
+          "Cercle Brugge": "3"
+        },
+        "shots_blocked": {
+          "Club Brugge": "7",
+          "Cercle Brugge": "4"
+        },
+        "corners": {
+          "Club Brugge": "9",
+          "Cercle Brugge": "4"
+        },
+        "fouls": {
+          "Club Brugge": "4",
+          "Cercle Brugge": "14"
+        },
+        "offsides": {
+          "Club Brugge": "1",
+          "Cercle Brugge": "1"
+        },
+        "yellow_cards": {
+          "Club Brugge": "0",
+          "Cercle Brugge": "1"
+        },
+        "goalkeeper_saves": {
+          "Club Brugge": "4",
+          "Cercle Brugge": "3"
+        },
+        "ball_possession": {
+          "Club Brugge": "80%",
+          "Cercle Brugge": "20%"
+        }
+      },
+      "description": "Watch Club Brugge vs Cercle Brugge highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on August 24, 2026. On August 24, 2026 , Club Brugge hosted Lommel United in a compelling Jupiler Pro League fixture. Both sides took to the pitch with clear tactical instructions, setting the stage for a match defined by narrow margins and high stakes. Tresoldi Strikes Before the Break The opening half saw both teams battling for supremacy in midfield, but it was Club Brugge who found the clinical edge. In the 38th minute, Carlos Forbs turned provider with a clever assist, finding Nicolo Tresoldi in a dangerous position. Tresoldi made no mistake, firing home to give his side the lead. This goal changed the dynamic of the game, forcing the visitors to be more adventurous, though they couldn't find a response before the halftime whistle blew after two minutes of stoppage time. Defensive Resilience and Tactical Shifts The second half was characterized by a series of tactical adjustments as both managers utilized their benches. Lommel United introduced the likes of Felix Lemarechal and Erick Nunes in an attempt to spark a comeback. However, Club Brugge responded with their own changes, bringing on Romeo Vermant and Jan Virgili to maintain their defensive shape. As the clock ticked down, the intensity grew, leading to a yellow card for Ibrahima Diaby in the 80th minute. Despite facing eight minutes of added time, the home side held their nerve to secure a vital victory."
+    },
+    {
+      "title": "River Plate - Velez Sarsfield",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/river-plate-velez-sarsfield-2026-08-24-aBXF.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 24, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/438.webp",
+          "name": "Velez Sarsfield",
+          "score": "2"
+        },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1844.webp",
-          "name": "Salford City",
+          "logo": "https://img.refooty.com/logo/teams/435.webp",
+          "name": "River Plate",
           "score": "2"
         },
         "status": "FT"
@@ -199,572 +617,346 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/salford-city-vs-newport-county-2026-09-01.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/river-plate-velez-sarsfield-2026-08-24.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Newport County",
-          "player": "J. Thomas",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Salford City",
-          "player": "R. Graydon",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Newport County",
-          "player": "H. Biggins",
+          "team": "River Plate",
+          "player": "Á. Correa",
           "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "76'",
-          "team": "Newport County",
-          "player": "A. Merritt",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Salford City",
-          "player": "T. Allen",
-          "event_type": "Goal",
-          "assist": "K. Cesay",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "106'",
-          "team": "Newport County",
-          "player": "C. Norman",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "121'",
-          "team": "Salford City",
-          "player": "K. N'Mai",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Salford City_wins": "3",
-          "draws": "1",
-          "Newport County_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "17/02/2026",
-            "competition": "League 2 25/26",
-            "teams_and_score": "Salford City 1 - 3 Newport County"
-          },
-          {
-            "date": "28/01/2025",
-            "competition": "League 2 24/25",
-            "teams_and_score": "Salford City 1 - 1 Newport County"
-          },
-          {
-            "date": "20/04/2024",
-            "competition": "League 2 23/24",
-            "teams_and_score": "Newport County 0 - 1 Salford City"
-          },
-          {
-            "date": "04/03/2023",
-            "competition": "League 2 22/23",
-            "teams_and_score": "Salford City 3 - 1 Newport County"
-          },
-          {
-            "date": "08/01/2022",
-            "competition": "League 2 21/22",
-            "teams_and_score": "Newport County 0 - 2 Salford City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Salford City",
-          "form": [
-            "W",
-            "D",
-            "W",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/09/2026",
-              "competition": "League 2",
-              "teams_and_score": "Salford City 2 - 1 Newport County",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Salford City 1 - 1 Shrewsbury Town",
-              "result": "D"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Salford City 3 - 2 Dundee United",
-              "result": "W"
-            },
-            {
-              "date": "25/05/2026",
-              "competition": "League 2: Play-offs 25/26",
-              "teams_and_score": "Notts County 3 - 0 Salford City",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Crawley Town 0 - 0 Salford City",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Newport County",
-          "form": [
-            "L",
-            "D",
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/09/2026",
-              "competition": "League 2",
-              "teams_and_score": "Salford City 2 - 1 Newport County",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "AFC Wimbledon 1 - 1 Newport County",
-              "result": "D"
-            },
-            {
-              "date": "04/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Newport County 1 - 4 AS Roma",
-              "result": "L"
-            },
-            {
-              "date": "21/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Bristol City 0 - 0 Newport County",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 2 25/26",
-              "teams_and_score": "Barrow 1 - 2 Newport County",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Salford City": "7",
-          "Newport County": "2"
-        },
-        "shots_off_target": {
-          "Salford City": "17",
-          "Newport County": "2"
-        },
-        "shots_blocked": {
-          "Salford City": "8",
-          "Newport County": "0"
-        },
-        "corners": {
-          "Salford City": "10",
-          "Newport County": "0"
-        },
-        "fouls": {
-          "Salford City": "11",
-          "Newport County": "19"
-        },
-        "offsides": {
-          "Salford City": "2",
-          "Newport County": "2"
-        },
-        "yellow_cards": {
-          "Salford City": "1",
-          "Newport County": "3"
-        },
-        "goalkeeper_saves": {
-          "Salford City": "1",
-          "Newport County": "4"
-        },
-        "crosses": {
-          "Salford City": "10",
-          "Newport County": "1"
-        },
-        "ball_possession": {
-          "Salford City": "74%",
-          "Newport County": "26%"
-        }
-      },
-      "description": "Watch Salford City vs Newport County highlights and goals from League Two on ReFooty: Football Highlights Hub. Match played on September 1, 2026. A High-Stakes Clash in League Two On September 1, 2026 , Salford City and Newport County faced off in a highly anticipated League Two match. The early stages set a physical tone, with the referee forced to reach for a yellow card as early as the 14th minute to Joe Thomas , underlining the competitive nature of the football battle unfolding on the pitch. Second Half Surge Following a tactical first half, the game ignited after the break as both managers sought to gain the upper hand. Harrison Biggins broke the deadlock in the 71st minute, providing a moment of quality that shifted the momentum. The visitors responded resiliently, leveling the score through Taylor Allen in the 83rd minute following a setup from Kallum Cesay . Just as the match seemed destined for a stalemate, Kelly N'Mai delivered the final blow in the 90th minute, securing a dramatic conclusion to an energetic match ."
-    },
-    {
-      "title": "Lincoln vs Blackburn Rovers",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/lincoln-vs-blackburn-rovers-2026-09-01-mNL7.webp",
-      "competition": "Championship",
-      "competition_cover": "https://refooty.com/covers/championship.webp",
-      "date": "Sep 1, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/15401.webp",
-          "name": "Blackburn Rovers",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1379.webp",
-          "name": "Lincoln",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/lincoln-vs-blackburn-rovers-2026-09-01.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Blackburn Rovers",
-          "player": "T. Atcheson",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "69'",
-          "team": "Blackburn Rovers",
-          "player": "T. Atcheson",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "85'",
-          "team": "Blackburn Rovers",
-          "player": "J. Garrett",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+4'",
-          "team": "Lincoln",
-          "player": "C. McGrandles",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Blackburn Rovers",
-          "player": "A. Forshaw",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Lincoln_wins": "0",
-          "draws": "0",
-          "Blackburn Rovers_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "23/07/2022",
-            "competition": "Club Friendlies 2022",
-            "teams_and_score": "Lincoln City 0 - 1 Blackburn Rovers"
-          },
-          {
-            "date": "28/08/2018",
-            "competition": "EFL Cup",
-            "teams_and_score": "Blackburn Rovers 4 - 1 Lincoln City"
-          },
-          {
-            "date": "22/07/2018",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Blackburn Rovers 1 - 0 Lincoln City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Lincoln",
-          "form": [
-            "D",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/09/2026",
-              "competition": "Championship",
-              "teams_and_score": "Lincoln City 0 - 0 Blackburn Rovers",
-              "result": "D"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Blackpool 1 - 4 Lincoln City",
-              "result": "W"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Lincoln City 1 - 3 Portsmouth",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Derby County 1 - 2 Lincoln City",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "League 1 25/26",
-              "teams_and_score": "Port Vale 0 - 2 Lincoln City",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Blackburn Rovers",
-          "form": [
-            "D",
-            "L",
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/09/2026",
-              "competition": "Championship",
-              "teams_and_score": "Lincoln City 0 - 0 Blackburn Rovers",
-              "result": "D"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Blackburn Rovers 1 - 2 Sheffield United",
-              "result": "L"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Championship",
-              "teams_and_score": "Blackburn Rovers 2 - 1 Middlesbrough",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "EFL Cup: Round 1",
-              "teams_and_score": "Burton Albion 1 - 2 Blackburn Rovers",
-              "result": "W"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Huddersfield Town 1 - 1 Blackburn Rovers",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Lincoln": "1",
-          "Blackburn Rovers": "2"
-        },
-        "shots_off_target": {
-          "Lincoln": "9",
-          "Blackburn Rovers": "3"
-        },
-        "shots_blocked": {
-          "Lincoln": "8",
-          "Blackburn Rovers": "3"
-        },
-        "corners": {
-          "Lincoln": "5",
-          "Blackburn Rovers": "7"
-        },
-        "fouls": {
-          "Lincoln": "12",
-          "Blackburn Rovers": "11"
-        },
-        "offsides": {
-          "Lincoln": "0",
-          "Blackburn Rovers": "2"
-        },
-        "yellow_cards": {
-          "Lincoln": "1",
-          "Blackburn Rovers": "2"
-        },
-        "red_cards": {
-          "Lincoln": "0",
-          "Blackburn Rovers": "1"
-        },
-        "goalkeeper_saves": {
-          "Lincoln": "2",
-          "Blackburn Rovers": "1"
-        },
-        "crosses": {
-          "Lincoln": "10",
-          "Blackburn Rovers": "3"
-        },
-        "ball_possession": {
-          "Lincoln": "40%",
-          "Blackburn Rovers": "60%"
-        }
-      },
-      "description": "Watch Lincoln vs Blackburn Rovers highlights and goals from Championship on ReFooty: Football Highlights Hub. Match played on September 1, 2026. A Tense Championship Encounter On September 1, 2026 , Lincoln hosted Blackburn Rovers in a high-stakes Championship match. Both sides entered the fray looking to assert their dominance, leading to a contest defined more by tactical battles and physical resilience than fluid attacking play. The Turning Point The narrative of the match shifted significantly in the second half when disciplinary issues came to the fore. Tom Atcheson , already booked early in the match, received his second yellow card in the 69th minute, leaving Blackburn Rovers to battle with ten men. This numerical advantage forced a tactical re-adjustment from the visitors as Lincoln sought to capitalize on the open spaces, though the Rovers' defense remained resolute under pressure. Late Drama and Disciplinary Measures The closing stages were frantic, with the intensity boiling over as both sides fought for every ball. The referee was forced to issue several cards in the dying minutes to keep proceedings under control: Jake Garrett (Blackburn Rovers) - Yellow card at 85' Conor McGrandles (Lincoln) - Yellow card at 90+4' Adam Forshaw (Blackburn Rovers) - Yellow card at 90+5' By the time the final whistle blew at 90+7 minutes, the match concluded as a gritty display of determination. The fixture highlighted the fine margins in the Championship , where a single dismissal can alter the entire complexion of a game."
-    },
-    {
-      "title": "Al Hilal Saudi FC vs Al Ahli Jeddah",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/al-hilal-saudi-fc-vs-al-ahli-jeddah-2026-09-01-wunx.webp",
-      "competition": "Pro League - Saudi Arabia",
-      "competition_cover": "https://refooty.com/covers/pro-league-saudi.webp",
-      "date": "Sep 1, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/2929.webp",
-          "name": "Al Ahli Jeddah",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/2932.webp",
-          "name": "Al Hilal Saudi FC",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/al-hilal-saudi-fc-vs-al-ahli-jeddah-2026-09-01.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "9'",
-          "team": "Al Hilal Saudi FC",
-          "player": "S. Milinković-Savić",
-          "event_type": "Goal",
-          "assist": "S. A. Mandash",
+          "assist": "L. M. Quarta",
           "score_update": "1 - 0"
         },
         {
-          "time": "11'",
-          "team": "Al Ahli Jeddah",
-          "player": "R. Ibanez",
+          "time": "16'",
+          "team": "River Plate",
+          "player": "A. Moreno",
           "event_type": "Yellow Card"
         },
         {
-          "time": "13'",
-          "team": "Al Hilal Saudi FC",
-          "player": "M. K. Meite",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "15'",
-          "team": "Al Hilal Saudi FC",
-          "player": "C. Summerville",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "23'",
-          "team": "Al Hilal Saudi FC",
-          "player": "C. Summerville",
-          "event_type": "Goal",
-          "assist": "R. Neves",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "45+3'",
-          "team": "Al Ahli Jeddah",
-          "player": "I. Toney",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+3'",
-          "team": "Al Ahli Jeddah",
-          "player": "M. Demiral",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+7'",
-          "team": "Al Ahli Jeddah",
-          "player": "M. Demiral",
-          "event_type": "Red Card"
+          "time": "31'",
+          "team": "River Plate",
+          "player": "T. Silveor",
+          "event_type": "Goal"
         },
         {
           "time": "46'",
-          "team": "Al Ahli Jeddah",
-          "player": "R. Hamed",
-          "event_type": "Yellow Card"
+          "team": "Velez Sarsfield",
+          "player": "D. Valdés",
+          "event_type": "Goal",
+          "assist": "M. Pellegrini",
+          "score_update": "2 - 1"
         },
         {
           "time": "61'",
-          "team": "Al Hilal Saudi FC",
-          "player": "O. Watkins",
+          "team": "Velez Sarsfield",
+          "player": "E. Gomez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Velez Sarsfield",
+          "player": "M. Lanzini",
           "event_type": "Goal",
-          "assist": "S. A. Mandash",
-          "score_update": "3 - 0"
+          "assist": "E. Gomez",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "91'",
+          "team": "River Plate",
+          "player": "L. M. Quarta",
+          "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Al Hilal Saudi FC_wins": "3",
-          "draws": "3",
-          "Al Ahli Jeddah_wins": "1"
+          "River Plate_wins": "2",
+          "draws": "5",
+          "Velez Sarsfield_wins": "2"
         },
         "previous_matches": [
           {
-            "date": "18/03/2026",
-            "competition": "King's Cup",
-            "teams_and_score": "Al Ahli 1 - 1 Al Hilal"
+            "date": "22/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Velez Sarsfield 1 - 0 River Plate"
           },
           {
-            "date": "02/02/2026",
-            "competition": "Saudi Professional League",
-            "teams_and_score": "Al Hilal 0 - 0 Al Ahli"
+            "date": "16/11/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Velez Sarsfield 0 - 0 River Plate"
           },
           {
-            "date": "29/04/2025",
-            "competition": "Champions League: Semi-Finals",
-            "teams_and_score": "Al Hilal 1 - 3 Al Ahli"
+            "date": "04/05/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "River Plate 4 - 1 Velez Sarsfield"
           },
           {
-            "date": "28/02/2025",
-            "competition": "Saudi Professional League",
-            "teams_and_score": "Al Hilal 2 - 3 Al Ahli"
+            "date": "19/10/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "River Plate 1 - 1 Velez Sarsfield"
           },
           {
-            "date": "13/08/2024",
-            "competition": "Super Cup",
-            "teams_and_score": "Al Hilal 1 - 1 Al Ahli"
+            "date": "04/02/2024",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "River Plate 5 - 0 Velez Sarsfield"
           },
           {
-            "date": "06/05/2024",
-            "competition": "Saudi Professional League 23/24",
-            "teams_and_score": "Al Ahli 1 - 2 Al Hilal"
+            "date": "03/09/2023",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Velez Sarsfield 2 - 0 River Plate"
           },
           {
-            "date": "18/03/2022",
-            "competition": "Saudi Professional League",
-            "teams_and_score": "Al Hilal 4 - 2 Al Ahli"
+            "date": "30/05/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Velez Sarsfield 2 - 2 River Plate"
           }
         ],
         "home_team_form": {
-          "team": "Al Hilal Saudi FC",
+          "team": "River Plate",
           "form": [
+            "D",
+            "D",
+            "W",
             "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "River Plate 2 - 2 Velez Sarsfield",
+              "result": "D"
+            },
+            {
+              "date": "20/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "Santa Fe 0 - 0 River Plate",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "River Plate 2 - 0 Argentinos Juniors",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "River Plate 1 - 3 Aldosivi",
+              "result": "L"
+            },
+            {
+              "date": "28/05/2026",
+              "competition": "Group H",
+              "teams_and_score": "River Plate 3 - 0 Blooming",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Velez Sarsfield",
+          "form": [
+            "D",
+            "L",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "River Plate 2 - 2 Velez Sarsfield",
+              "result": "D"
+            },
+            {
+              "date": "11/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Velez Sarsfield 0 - 1 Gimnasia LP",
+              "result": "L"
+            },
+            {
+              "date": "04/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Velez Sarsfield 1 - 1 Newell's Old Boys",
+              "result": "D"
+            },
+            {
+              "date": "01/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Velez Sarsfield 2 - 0 Gimnasia y Tiro",
+              "result": "W"
+            },
+            {
+              "date": "27/04/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Velez Sarsfield 2 - 2 Union",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "River Plate": "3",
+          "Velez Sarsfield": "4"
+        },
+        "shots_off_target": {
+          "River Plate": "7",
+          "Velez Sarsfield": "4"
+        },
+        "shots_blocked": {
+          "River Plate": "3",
+          "Velez Sarsfield": "3"
+        },
+        "corners": {
+          "River Plate": "3",
+          "Velez Sarsfield": "5"
+        },
+        "fouls": {
+          "River Plate": "13",
+          "Velez Sarsfield": "13"
+        },
+        "offsides": {
+          "River Plate": "4",
+          "Velez Sarsfield": "0"
+        },
+        "yellow_cards": {
+          "River Plate": "2",
+          "Velez Sarsfield": "1"
+        },
+        "goalkeeper_saves": {
+          "River Plate": "2",
+          "Velez Sarsfield": "2"
+        },
+        "ball_possession": {
+          "River Plate": "57%",
+          "Velez Sarsfield": "43%"
+        }
+      },
+      "description": "Watch River Plate vs Velez Sarsfield highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 24, 2026. Tactical Battle in the Liga Profesional On August 24, 2026, the Liga Profesional Argentina hosted a compelling showdown between River Plate and Velez Sarsfield . Both sides showcased their intent from the opening whistle, aiming to dictate the tempo and secure a vital victory in a high-intensity match. First Half Momentum The game sparked into life early when Angel Correa found the back of the net in the 11th minute, expertly set up by Lucas Martinez Quarta . River Plate continued to press their advantage throughout the opening period, and their dominance was solidified just before the break when Thiago Silvero turned the ball into his own net in the 43rd minute, putting the visitors in a difficult position heading into the locker room. Second Half Intensity The second half brought a tactical shift, with Diego Valdes making an immediate impact after coming on, scoring in the 61st minute courtesy of a Matias Pellegrini assist. The match tightened as the intensity rose, eventually seeing Manuel Lanzini restore a two-goal cushion for the hosts in the 79th minute following an Elias Gomez assist. Despite late efforts and multiple substitutions, the defense held firm, and the match concluded with a hard-fought result following a flurry of late-game yellow cards for both sides."
+    },
+    {
+      "title": "Racing Club - Boca Juniors",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/racing-club-boca-juniors-2026-08-24-NF4M.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 24, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/451.webp",
+          "name": "Boca Juniors",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/436.webp",
+          "name": "Racing Club",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/racing-club-boca-juniors-2026-08-24.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Boca Juniors",
+          "player": "A. Costa",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Racing Club",
+          "player": "M. Rojo",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Racing Club",
+          "player": "M. Martinez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Boca Juniors",
+          "player": "M. Merentiel",
+          "event_type": "Goal",
+          "assist": "L. Flores",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Racing Club",
+          "player": "E. Cannavo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Boca Juniors",
+          "player": "T. Belmonte",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Racing Club",
+          "player": "L. Peerez",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Racing Club_wins": "4",
+          "draws": "3",
+          "Boca Juniors_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "20/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Boca Juniors 0 - 0 Racing Club"
+          },
+          {
+            "date": "07/12/2025",
+            "competition": "Liga Profesional: Clausura Playoff",
+            "teams_and_score": "Boca Juniors 0 - 1 Racing Club"
+          },
+          {
+            "date": "09/08/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Boca Juniors 1 - 1 Racing Club"
+          },
+          {
+            "date": "09/02/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Racing Club 2 - 0 Boca Juniors"
+          },
+          {
+            "date": "14/09/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Racing Club 2 - 1 Boca Juniors"
+          },
+          {
+            "date": "11/03/2024",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Boca Juniors 4 - 2 Racing Club"
+          },
+          {
+            "date": "24/10/2023",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Racing Club 2 - 1 Boca Juniors"
+          }
+        ],
+        "home_team_form": {
+          "team": "Racing Club",
+          "form": [
+            "D",
             "W",
             "L",
             "W",
@@ -772,123 +964,534 @@
           ],
           "recent_matches": [
             {
-              "date": "01/09/2026",
-              "competition": "Saudi Professional League",
-              "teams_and_score": "Al Hilal 3 - 0 Al Ahli",
-              "result": "L"
+              "date": "24/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Racing Club 1 - 1 Boca Juniors",
+              "result": "D"
             },
             {
-              "date": "17/08/2026",
-              "competition": "King's Cup",
-              "teams_and_score": "Al Raed 0 - 2 Al Hilal",
+              "date": "19/08/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Racing Club 1 - 0 Belgrano",
               "result": "W"
             },
             {
               "date": "14/08/2026",
-              "competition": "Saudi Professional League",
-              "teams_and_score": "Al Hilal 4 - 2 Al Faisaly",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Racing Club 0 - 1 Banfield",
               "result": "L"
             },
             {
-              "date": "21/05/2026",
-              "competition": "Saudi Professional League",
-              "teams_and_score": "Al Feiha 0 - 1 Al Hilal",
+              "date": "16/07/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Racing Club 4 - 1 Defensa y Justicia",
               "result": "W"
             },
             {
-              "date": "08/05/2026",
-              "competition": "King's Cup",
-              "teams_and_score": "Al Kholood 1 - 2 Al Hilal",
+              "date": "27/05/2026",
+              "competition": "Group E",
+              "teams_and_score": "Racing Club 2 - 0 Independiente Petrolero",
               "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "Al Ahli Jeddah",
+          "team": "Boca Juniors",
           "form": [
-            "L",
-            "L",
-            "L",
+            "D",
             "W",
-            "W"
+            "D",
+            "W",
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "01/09/2026",
-              "competition": "Saudi Professional League",
-              "teams_and_score": "Al Hilal 3 - 0 Al Ahli",
-              "result": "L"
+              "date": "24/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Racing Club 1 - 1 Boca Juniors",
+              "result": "D"
             },
             {
-              "date": "26/08/2026",
-              "competition": "Intercontinental Cup",
-              "teams_and_score": "Al Ahli 1 - 0 Auckland FC",
-              "result": "L"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Saudi Professional League",
-              "teams_and_score": "Al Ahli 4 - 0 Abha",
-              "result": "L"
-            },
-            {
-              "date": "17/08/2026",
-              "competition": "King's Cup",
-              "teams_and_score": "AL Anwar 1 - 2 Al Ahli",
+              "date": "18/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "CD Recoleta 0 - 4 Boca Juniors",
               "result": "W"
             },
             {
-              "date": "13/08/2026",
-              "competition": "Saudi Professional League",
-              "teams_and_score": "Al Diriyah 0 - 1 Al Ahli",
+              "date": "16/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Club Atletico Platense 1 - 1 Boca Juniors",
+              "result": "D"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "Boca Juniors 3 - 1 CD Recoleta",
               "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Boca Juniors 1 - 1 Velez Sarsfield",
+              "result": "D"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Al Hilal Saudi FC": "6",
-          "Al Ahli Jeddah": "2"
+          "Racing Club": "5",
+          "Boca Juniors": "2"
         },
         "shots_off_target": {
-          "Al Hilal Saudi FC": "5",
-          "Al Ahli Jeddah": "8"
+          "Racing Club": "6",
+          "Boca Juniors": "10"
         },
         "shots_blocked": {
-          "Al Hilal Saudi FC": "1",
-          "Al Ahli Jeddah": "3"
+          "Racing Club": "3",
+          "Boca Juniors": "3"
         },
         "corners": {
-          "Al Hilal Saudi FC": "3",
-          "Al Ahli Jeddah": "4"
+          "Racing Club": "4",
+          "Boca Juniors": "1"
         },
         "fouls": {
-          "Al Hilal Saudi FC": "14",
-          "Al Ahli Jeddah": "9"
+          "Racing Club": "11",
+          "Boca Juniors": "9"
         },
         "offsides": {
-          "Al Hilal Saudi FC": "2",
-          "Al Ahli Jeddah": "0"
+          "Racing Club": "3",
+          "Boca Juniors": "2"
         },
         "yellow_cards": {
-          "Al Hilal Saudi FC": "2",
-          "Al Ahli Jeddah": "3"
-        },
-        "red_cards": {
-          "Al Hilal Saudi FC": "0",
-          "Al Ahli Jeddah": "1"
+          "Racing Club": "3",
+          "Boca Juniors": "2"
         },
         "goalkeeper_saves": {
-          "Al Hilal Saudi FC": "2",
-          "Al Ahli Jeddah": "3"
+          "Racing Club": "1",
+          "Boca Juniors": "3"
         },
         "ball_possession": {
-          "Al Hilal Saudi FC": "56%",
-          "Al Ahli Jeddah": "44%"
+          "Racing Club": "51%",
+          "Boca Juniors": "49%"
         }
       },
-      "description": "Watch Al Hilal Saudi FC vs Al Ahli Jeddah highlights and goals from Pro League - Saudi Arabia on ReFooty: Football Highlights Hub. Match played on September 1, 2026. The Pro League spotlight turned to a massive encounter on September 1, 2026, as Al Hilal Saudi FC and Al Ahli Jeddah prepared to face off in a highly anticipated fixture. Fans expected drama from the opening whistle, and the two giants of Saudi football did not disappoint in a game defined by tactical intensity. Early Breakthrough for Al Hilal The match burst into life early on as Al Hilal Saudi FC looked to assert their dominance. In the 9th minute, the deadlock was broken when Sultan Mandash delivered a precise ball for Sergej Milinkovic-Savic , who made no mistake in finding the back of the net. The momentum stayed with the home side, and by the 23rd minute, they had doubled their advantage. Ruben Neves turned provider, setting up Crysencio Summerville for a clinical finish that left Al Ahli Jeddah reeling under the pressure. Discipline Crumbles Before the Break As the first half drew to a close, the temperature of the match reached a boiling point. A flurry of bookings saw Roger Ibanez , Mohamed Meite , and Crysencio Summerville all enter the referee's book as tackles flew in. However, the biggest flashpoint occurred deep in stoppage time. Following a heated exchange that saw both Ivan Toney and Merih Demiral cautioned, the situation escalated. In the 45+7th minute, Merih Demiral was shown a straight red card, leaving his team a man down and sparking furious protests from the Al Ahli players and staff. Tactical Shifts and the Final Blow The second half began with a raft of tactical changes as both managers looked to adapt to the new dynamics of the ten-man contest. Al Hilal introduced Ollie Watkins for Mohamed Meite at the restart to maintain their offensive edge. Despite the numerical disadvantage, Al Ahli fought to stay in the contest, but the pressure eventually told in the closing stages. In the 86th minute, Sultan Mandash capped off a brilliant individual performance with his second assist of the night, picking out Ollie Watkins who fired home to put the result beyond doubt and secure all three points."
+      "description": "Watch Racing Club vs Boca Juniors highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 24, 2026. A Battle Under the Lights On August 24, 2026, Racing Club and Boca Juniors faced off in a high-stakes Liga Profesional Argentina match, characterized by heavy challenges and significant tactical maneuvering. The stadium atmosphere was electric as both sides looked to establish dominance in a fixture that promised plenty of drama. Fast-Paced First Half Matches in this competition are rarely quiet, and this one was no exception. By the 5th minute, Ayrton Costa had already picked up a yellow card, setting the tone for a physical encounter. The deadlock was broken in the 9th minute when Marcos Rojo coolly converted a penalty to put Racing Club ahead. The lead was short-lived, however, as Miguel Merentiel leveled the score in the 28th minute, clinically finishing off an assist from Leonel Flores . Tactical Struggles The second half saw both managers turn to their benches to find a winning edge. A flurry of substitutions, including the introduction of Enner Valencia , Alan Velasco , and Sebastian Villa , signaled the desperate search for a late goal. Despite the tactical adjustments and persistent pressure, the defensive structures held firm. As the referee brandished yellow cards to Ezequiel Cannavo , Tomas Belmonte , and Leonel Perez in the closing stages, it became clear that neither side would break the impasse, with the final whistle blowing at 90+6 minutes."
+    },
+    {
+      "title": "Atlanta United - Sporting Kansas City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/atlanta-united-sporting-kansas-city-2026-08-24-H5tx.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 24, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1611.webp",
+          "name": "Sporting Kansas City",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1608.webp",
+          "name": "Atlanta United FC",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/atlanta-united-sporting-kansas-city-2026-08-24.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Atlanta United FC",
+          "player": "T. Jacob",
+          "event_type": "Goal",
+          "assist": "M. Almirón",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Sporting Kansas City",
+          "player": "E. Karic",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Atlanta United FC",
+          "player": "F. Picault",
+          "event_type": "Goal",
+          "assist": "E. Baez",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Sporting Kansas City",
+          "player": "S. Afrifa",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Atlanta United FC",
+          "player": "L. Brennan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Atlanta United FC",
+          "player": "E. Baez",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Atlanta United FC_wins": "1",
+          "draws": "0",
+          "Sporting Kansas City_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "27/02/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Atlanta United 3 - 1 Sporting Kansas City"
+          },
+          {
+            "date": "06/05/2019",
+            "competition": "Major League Soccer",
+            "teams_and_score": "Sporting Kansas City 0 - 3 Atlanta United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Atlanta United FC",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Atlanta United 2 - 1 Sporting Kansas City",
+              "result": "L"
+            },
+            {
+              "date": "19/05/2026",
+              "competition": "US Open Cup",
+              "teams_and_score": "Orlando City 4 - 1 Atlanta United",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "MLS",
+              "teams_and_score": "Orlando City 1 - 1 Atlanta United",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sporting Kansas City",
+          "form": [
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Atlanta United 2 - 1 Sporting Kansas City",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Atlanta United FC": "3",
+          "Sporting Kansas City": "1"
+        },
+        "shots_off_target": {
+          "Atlanta United FC": "4",
+          "Sporting Kansas City": "5"
+        },
+        "shots_blocked": {
+          "Atlanta United FC": "1",
+          "Sporting Kansas City": "2"
+        },
+        "corners": {
+          "Atlanta United FC": "2",
+          "Sporting Kansas City": "6"
+        },
+        "fouls": {
+          "Atlanta United FC": "8",
+          "Sporting Kansas City": "13"
+        },
+        "offsides": {
+          "Atlanta United FC": "1",
+          "Sporting Kansas City": "1"
+        },
+        "yellow_cards": {
+          "Atlanta United FC": "2",
+          "Sporting Kansas City": "1"
+        },
+        "goalkeeper_saves": {
+          "Atlanta United FC": "0",
+          "Sporting Kansas City": "1"
+        },
+        "ball_possession": {
+          "Atlanta United FC": "49%",
+          "Sporting Kansas City": "51%"
+        }
+      },
+      "description": "Watch Atlanta United FC vs Sporting Kansas City highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 24, 2026. High Stakes in MLS Action On August 24, 2026, Atlanta United FC and Sporting Kansas City faced off in a highly anticipated Major League Soccer fixture, as both sides looked to secure vital points in a battle defined by tactical shifts and moments of individual brilliance. Building the Momentum The home side started with clear intent, dictating the tempo early on. Just 13 minutes into the match, Tomas Jacob found the back of the net, capitalizing on a crisp assist from Miguel Almiron . The confidence within the Atlanta United ranks only grew, and by the 24th minute, they doubled their lead when Fabrice Picault converted a setup from Elias Baez , effectively putting the opposition on the back foot heading into the half. Tactical Battles and a Late Charge Coming out of the break, Sporting Kansas City sought a way back into the match, making significant substitutions in the 62nd minute to shake up their attack. The shift paid off in the 70th minute as Stephen Afrifa scored, injecting new life into the contest. As the final whistle approached at 90+7 minutes, the intensity reached a boiling point, evidenced by yellow cards issued to Emir Karic , Luke Brennan , and Elias Baez during a hard-fought closing sequence."
+    },
+    {
+      "title": "Santos - Mirassol",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/santos-mirassol-2026-08-24-2zMq.webp",
+      "competition": "Brasileirão",
+      "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+      "date": "Aug 24, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/7848.webp",
+          "name": "Mirassol",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/128.webp",
+          "name": "Santos",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/santos-mirassol-2026-08-24.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Santos",
+          "player": "J. Schmidt",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Mirassol",
+          "player": "G. Knesowitsch",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Mirassol",
+          "player": "Neto",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Mirassol",
+          "player": "C. Eduardo",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Santos",
+          "player": "A. Barreal",
+          "event_type": "Goal",
+          "assist": "Neymar",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Mirassol",
+          "player": "Wallisson",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "76'",
+          "team": "Mirassol",
+          "player": "I. Formiga",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Santos",
+          "player": "Neymar",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Santos_wins": "4",
+          "draws": "3",
+          "Mirassol_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "11/03/2026",
+            "competition": "Serie A",
+            "teams_and_score": "Mirassol 2 - 2 Santos FC"
+          },
+          {
+            "date": "20/11/2025",
+            "competition": "Serie A",
+            "teams_and_score": "Santos FC 1 - 1 Mirassol"
+          },
+          {
+            "date": "17/01/2025",
+            "competition": "Paulista A1",
+            "teams_and_score": "Santos FC 2 - 1 Mirassol"
+          },
+          {
+            "date": "12/10/2024",
+            "competition": "Serie B",
+            "teams_and_score": "Santos FC 3 - 2 Mirassol"
+          },
+          {
+            "date": "11/02/2024",
+            "competition": "Paulista A1",
+            "teams_and_score": "Mirassol 2 - 2 Santos FC"
+          },
+          {
+            "date": "14/01/2023",
+            "competition": "Paulista A1",
+            "teams_and_score": "Santos FC 2 - 1 Mirassol"
+          },
+          {
+            "date": "17/02/2022",
+            "competition": "Paulista A1",
+            "teams_and_score": "Mirassol 3 - 2 Santos FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Santos",
+          "form": [
+            "D",
+            "D",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Santos FC 1 - 1 Mirassol",
+              "result": "D"
+            },
+            {
+              "date": "20/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "CSD Macara 0 - 0 Santos FC",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Vasco da Gama 0 - 3 Santos FC",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "Santos FC 2 - 1 CSD Macara",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Santos FC 0 - 2 Athletico Paranaense",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Mirassol",
+          "form": [
+            "D",
+            "D",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Santos FC 1 - 1 Mirassol",
+              "result": "D"
+            },
+            {
+              "date": "20/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "LDU de Quito 0 - 0 Mirassol",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Mirassol 1 - 5 Flamengo",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "Mirassol 1 - 1 LDU de Quito",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Cruzeiro 3 - 1 Mirassol",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Santos": "7",
+          "Mirassol": "3"
+        },
+        "shots_off_target": {
+          "Santos": "7",
+          "Mirassol": "2"
+        },
+        "shots_blocked": {
+          "Santos": "7",
+          "Mirassol": "0"
+        },
+        "corners": {
+          "Santos": "10",
+          "Mirassol": "2"
+        },
+        "fouls": {
+          "Santos": "9",
+          "Mirassol": "13"
+        },
+        "yellow_cards": {
+          "Santos": "2",
+          "Mirassol": "3"
+        },
+        "red_cards": {
+          "Santos": "0",
+          "Mirassol": "1"
+        },
+        "goalkeeper_saves": {
+          "Santos": "2",
+          "Mirassol": "6"
+        },
+        "ball_possession": {
+          "Santos": "64%",
+          "Mirassol": "36%"
+        }
+      },
+      "description": "Watch Santos vs Mirassol highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on August 24, 2026. The clash between Santos and Mirassol delivered all the intensity expected from a Serie A encounter in Brazil. Played on August 24, 2026, the match was characterized by a fierce physical battle and turning points that kept fans on edge until the final whistle. A Hard-Fought First Half From the opening whistle, the atmosphere was charged. With both sides battling for dominance, the match saw early disciplinary action as Neto , Gabriel Knesowitsch , and Joao Schmidt all received yellow cards within the first 20 minutes. The physical play eventually opened up into attacking opportunities, leading to the breakthrough in the 36th minute when Carlos Eduardo found the target for Mirassol . Heading into the break, the intensity remained high as both sides looked to regroup. Second Half Drama and Decisive Moments The momentum shifted in the second half following a flurry of substitutions. In the 68th minute, Neymar turned creator, providing the crucial assist for Alvaro Barreal to level the score. The tension reached its boiling point in the 73rd minute when Wallisson was shown a straight red card, prompting heavy protests from his teammates. Despite late efforts to find a winner and a final yellow card shown to Neymar , the score remained deadlocked through the seven minutes of stoppage time, concluding a dramatic afternoon of football."
     }
   ],
   "hasMore": false,
