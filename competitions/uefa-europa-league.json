@@ -1,12 +1,656 @@
 {
   "competition": "UEFA Europa League",
   "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-  "total_matches": 47,
-  "Last update time": "05:30:34 AM 17-09-2026",
+  "total_matches": 54,
+  "Last update time": "04:40:27 AM 18-09-2026",
   "matches": [
     {
+      "title": "AC Milan vs Benfica",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/ac-milan-vs-benfica-2026-09-16-F073.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Sep 16, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/211.webp",
+          "name": "Benfica",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/489.webp",
+          "name": "AC Milan",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/ac-milan-vs-benfica-2026-09-16.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "AC Milan",
+          "player": "S. Pavlović",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Benfica",
+          "player": "D. Lukébakio",
+          "event_type": "Goal",
+          "assist": "J. Kaminski",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Benfica",
+          "player": "S. E. Karouani",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Benfica",
+          "player": "J. Durán",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "53'",
+          "team": "Benfica",
+          "player": "J. Kaminski",
+          "event_type": "Goal",
+          "assist": "S. E. Karouani",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "77'",
+          "team": "Benfica",
+          "player": "D. Banjaqui",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "85'",
+          "team": "Benfica",
+          "player": "L. Barreiro",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Benfica",
+          "player": "V. Pavlidis",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "AC Milan_wins": "0",
+          "draws": "2",
+          "Benfica_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "08/08/2009",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Benfica 1 - 1 AC Milan"
+          },
+          {
+            "date": "28/11/2007",
+            "competition": "Champions League grp. D",
+            "teams_and_score": "Benfica 1 - 1 AC Milan"
+          }
+        ],
+        "home_team_form": {
+          "team": "AC Milan",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "AC Milan 0 - 2 Benfica",
+              "result": "L"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Lazio 2 - 2 AC Milan",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Manchester United 2 - 4 AC Milan",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "AC Milan 1 - 2 Cagliari",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Benfica",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "AC Milan 0 - 2 Benfica",
+              "result": "W"
+            },
+            {
+              "date": "13/09/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "Benfica 3 - 1 Gil Vicente",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "AGF 1 - 3 Benfica",
+              "result": "W"
+            },
+            {
+              "date": "17/08/2026",
+              "competition": "Primeira Liga",
+              "teams_and_score": "Casa Pia AC 0 - 7 Benfica",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hearts 1 - 1 Benfica",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "AC Milan": "4",
+          "Benfica": "4"
+        },
+        "shots_off_target": {
+          "AC Milan": "10",
+          "Benfica": "3"
+        },
+        "shots_blocked": {
+          "AC Milan": "3",
+          "Benfica": "4"
+        },
+        "corners": {
+          "AC Milan": "10",
+          "Benfica": "1"
+        },
+        "fouls": {
+          "AC Milan": "14",
+          "Benfica": "12"
+        },
+        "offsides": {
+          "AC Milan": "0",
+          "Benfica": "3"
+        },
+        "yellow_cards": {
+          "AC Milan": "1",
+          "Benfica": "5"
+        },
+        "goalkeeper_saves": {
+          "AC Milan": "2",
+          "Benfica": "4"
+        },
+        "crosses": {
+          "AC Milan": "10",
+          "Benfica": "1"
+        },
+        "ball_possession": {
+          "AC Milan": "61%",
+          "Benfica": "39%"
+        }
+      },
+      "description": "Watch AC Milan vs Benfica highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on September 16, 2026. The lights of the San Siro shone brightly on September 16, 2026, as two European giants, AC Milan and Benfica , kicked off their UEFA Europa League campaign. Fans expected a tactical battle, and the atmosphere in the stadium reflected the high stakes of this group stage encounter. Clinical Benfica Seize the Initiative The match began with high physical intensity, leading to an early yellow card for Strahinja Pavlovic in the 11th minute. However, it was Benfica who found their attacking rhythm first. In the 16th minute, a well-structured move saw Jakub Kaminski provide the assist for Dodi Lukebakio , who made no mistake in finding the back of the net to open the scoring. AC Milan attempted to respond, but frustration began to grow, evidenced by a yellow card for Jhon Duran before the break, as the visitors maintained their defensive organization. Second Half Surge and Italian Struggles Hoping to turn the tide, the AC Milan manager made significant changes at halftime, introducing Christian Pulisic and Mario Gila . Despite the fresh energy, it was the Portuguese side that struck again. In the 54th minute, Souffian El Karouani delivered a perfect pass for Jakub Kaminski , who turned from provider to scorer by finishing with class to make it 0-2. This second goal forced the Italians into a desperate push, but even the introduction of Alexis Saelemaekers and Adrien Rabiot could not break through the Eagles' defensive block. Defensive Discipline Seals the Result The final stages of the match were defined by Benfica's intelligent game management and a series of yellow cards used to halt Milanese attacks. Daniel Banjaqui , Leandro Barreiro , and Vangelis Pavlidis were all cautioned by the referee as the clock ticked down. Even with late substitutions to freshen up the squad, Benfica remained resolute. When the final whistle blew after five minutes of stoppage time, the celebrations belonged to the visitors, confirming a dream start to their European journey on Italian soil."
+    },
+    {
+      "title": "Levski Sofia vs Salzburg",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/levski-sofia-salzburg-2026-09-17-eYnG.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Sep 17, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Salzburg",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/646.webp",
+          "name": "Levski Sofia",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/levski-sofia-salzburg-2026-09-17-9rytsm3u8-Ycm2k.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Salzburg",
+          "player": "H. Tabaković",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Salzburg",
+          "player": "S. Kitano",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "55'",
+          "team": "Levski Sofia",
+          "player": "A. Centelles",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "56'",
+          "team": "Salzburg",
+          "player": "H. Tabaković",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "60'",
+          "team": "Salzburg",
+          "player": "B. Mazurek",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "65'",
+          "team": "Salzburg",
+          "player": "Y. Vertessen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Salzburg",
+          "player": "A. Barry",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Levski Sofia_wins": "0",
+          "draws": "0",
+          "Salzburg_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "05/11/2009",
+            "competition": "Europa League Grp. G",
+            "teams_and_score": "Levski Sofia 0 - 1 FC Salzburg"
+          }
+        ],
+        "home_team_form": {
+          "team": "Levski Sofia",
+          "form": [
+            "L",
+            "D",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "17/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Levski Sofia 0 - 1 FC Salzburg",
+              "result": "L"
+            },
+            {
+              "date": "13/09/2026",
+              "competition": "Parva Liga",
+              "teams_and_score": "Botev Vratsa 0 - 0 Levski Sofia",
+              "result": "D"
+            },
+            {
+              "date": "09/09/2026",
+              "competition": "Super Cup",
+              "teams_and_score": "Levski Sofia 2 - 4 PFC CSKA Sofia",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Parva Liga",
+              "teams_and_score": "Levski Sofia 1 - 0 CSKA 1948 Sofia",
+              "result": "W"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "AEK Athens 4 - 0 Levski Sofia",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Salzburg",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "17/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Levski Sofia 0 - 1 FC Salzburg",
+              "result": "W"
+            },
+            {
+              "date": "11/09/2026",
+              "competition": "Bundesliga",
+              "teams_and_score": "SV Ried 1 - 1 FC Salzburg",
+              "result": "D"
+            },
+            {
+              "date": "06/09/2026",
+              "competition": "OFB Cup",
+              "teams_and_score": "SKN St. Poelten 0 - 3 FC Salzburg",
+              "result": "W"
+            },
+            {
+              "date": "02/09/2026",
+              "competition": "Bundesliga",
+              "teams_and_score": "FC Salzburg 5 - 1 Rapid Wien",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "FC Salzburg 3 - 0 Mjaellby",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Levski Sofia": "0",
+          "Salzburg": "7"
+        },
+        "shots_off_target": {
+          "Levski Sofia": "6",
+          "Salzburg": "3"
+        },
+        "shots_blocked": {
+          "Levski Sofia": "8",
+          "Salzburg": "2"
+        },
+        "corners": {
+          "Levski Sofia": "5",
+          "Salzburg": "4"
+        },
+        "fouls": {
+          "Levski Sofia": "9",
+          "Salzburg": "21"
+        },
+        "yellow_cards": {
+          "Levski Sofia": "1",
+          "Salzburg": "5"
+        },
+        "goalkeeper_saves": {
+          "Levski Sofia": "6",
+          "Salzburg": "0"
+        },
+        "crosses": {
+          "Levski Sofia": "5",
+          "Salzburg": "2"
+        },
+        "ball_possession": {
+          "Levski Sofia": "50%",
+          "Salzburg": "50%"
+        }
+      },
+      "description": "Watch Levski Sofia vs Salzburg highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on September 17, 2026. The stage was set for a compelling European night as Levski Sofia welcomed Salzburg for a high-stakes encounter in the UEFA Europa League . With both teams eager to make their mark on the group stage, the atmosphere was thick with anticipation from the opening whistle. Tabaković Breaks the Deadlock On September 17, 2026, the match began as a tactical chess match, with both sides testing each other's defensive resolve. It was Salzburg who eventually found the breakthrough in the 39th minute. Haris Tabaković showcased his clinical instincts by finding the back of the net, silencing the home crowd and giving the visitors a crucial lead. The intensity of the match was evident shortly after, as Sota Kitano picked up the first booking of the evening just before the half-time whistle, signaling a feisty second half to come. A Battle of Attrition in the Second Half Following the restart, the game shifted into a more physical contest as Levski Sofia pushed for an equalizer. The referee remained busy, issuing a flurry of yellow cards to maintain control. Alex Centelles was cautioned for the hosts, while Haris Tabaković , Bartosz Mazurek , and Yorbe Vertessen all saw yellow for Salzburg during a heated middle period. Both managers looked to their benches to inject fresh energy; Damir Redzic and Karim Konate were introduced for the visitors, while Levski brought on Juan Perea and Mazire Soula to bolster their attacking options. Resilient Salzburg Closes it Out As the clock ticked toward full-time, the tension reached its peak. Levski Sofia made a double substitution in the 88th minute, bringing on Asen Mitkov and Stivan Stoyanchov for a final assault. However, Salzburg ’s defensive organization remained disciplined under pressure. Deep into stoppage time, Abubakr Barry received a yellow card as the visitors fought to protect their advantage. Ultimately, the referee's final whistle after four minutes of added time confirmed a hard-earned victory for Salzburg , secured by that pivotal first-half goal from Tabaković ."
+    },
+    {
+      "title": "Olympiakos Piraeus vs Jagiellonia Białystok",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/olympiakos-piraeus-jagiellonia-bialystok-2026-09-16-20wn.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Sep 16, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Jagiellonia Białystok",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/553.webp",
+          "name": "Olympiakos Piraeus",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/olympiakos-piraeus-jagiellonia-bialystok-2026-09-16-loab0m3u8-BegOV.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Jagiellonia Białystok",
+          "player": "K. Szmyt",
+          "event_type": "Goal",
+          "assist": "N. Prelec",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Jagiellonia Białystok",
+          "player": "N. Wojtuszek",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Olympiakos Piraeus",
+          "player": "B. Onyemaechi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Olympiakos Piraeus",
+          "player": "A. Gonzalez",
+          "event_type": "Goal",
+          "assist": "P. Retsos",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Jagiellonia Białystok",
+          "player": "G. Montóia",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Olympiakos Piraeus",
+          "player": "S. Hezze",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Jagiellonia Białystok",
+          "player": "B. Vital",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Olympiakos Piraeus",
+          "player": "R. Yaremchuk",
+          "event_type": "Goal",
+          "assist": "R. Freuler",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Olympiakos Piraeus_wins": "0",
+          "draws": "0",
+          "Jagiellonia Białystok_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Olympiakos Piraeus",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Olympiacos 2 - 1 Jagiellonia Bialystok",
+              "result": "L"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Super League",
+              "teams_and_score": "Olympiacos 0 - 1 OFI Crete",
+              "result": "W"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "Greece Cup: Group Stage",
+              "teams_and_score": "Olympiacos 3 - 2 NFC Volos",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Super League",
+              "teams_and_score": "NFC Volos 1 - 1 Olympiacos",
+              "result": "D"
+            },
+            {
+              "date": "02/09/2026",
+              "competition": "Greece Cup: Group Stage",
+              "teams_and_score": "AE Larissa 0 - 4 Olympiacos",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Jagiellonia Białystok",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Olympiacos 2 - 1 Jagiellonia Bialystok",
+              "result": "L"
+            },
+            {
+              "date": "11/09/2026",
+              "competition": "Ekstraklasa",
+              "teams_and_score": "Wisla Krakow 2 - 0 Jagiellonia Bialystok",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "FC Iberia 1999 1 - 2 Jagiellonia Bialystok",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Ekstraklasa",
+              "teams_and_score": "Jagiellonia Bialystok 0 - 2 Widzew Lodz",
+              "result": "W"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Jagiellonia Bialystok 2 - 1 Rangers",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Olympiakos Piraeus": "6",
+          "Jagiellonia Białystok": "3"
+        },
+        "shots_off_target": {
+          "Olympiakos Piraeus": "11",
+          "Jagiellonia Białystok": "1"
+        },
+        "shots_blocked": {
+          "Olympiakos Piraeus": "9",
+          "Jagiellonia Białystok": "0"
+        },
+        "corners": {
+          "Olympiakos Piraeus": "13",
+          "Jagiellonia Białystok": "0"
+        },
+        "fouls": {
+          "Olympiakos Piraeus": "10",
+          "Jagiellonia Białystok": "13"
+        },
+        "offsides": {
+          "Olympiakos Piraeus": "1",
+          "Jagiellonia Białystok": "2"
+        },
+        "yellow_cards": {
+          "Olympiakos Piraeus": "2",
+          "Jagiellonia Białystok": "3"
+        },
+        "goalkeeper_saves": {
+          "Olympiakos Piraeus": "2",
+          "Jagiellonia Białystok": "4"
+        },
+        "crosses": {
+          "Olympiakos Piraeus": "8",
+          "Jagiellonia Białystok": "1"
+        },
+        "ball_possession": {
+          "Olympiakos Piraeus": "58%",
+          "Jagiellonia Białystok": "42%"
+        }
+      },
+      "description": "Watch Olympiakos Piraeus vs Jagiellonia Białystok highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on September 16, 2026. A tactical battle in Europe On September 16, 2026, Olympiakos Piraeus and Jagiellonia Białystok faced off in a compelling UEFA Europa League fixture. Both sides entered the pitch determined to assert their dominance in a high-stakes encounter where momentum shifted throughout the evening. A game of fine margins The match ignited early when Kajetan Szmyt struck for Jagiellonia in the 20th minute, finishing off a clever setup from Nik Prelec . Olympiakos responded with resilience, working their way back into the game until Armando Gonzalez found the equalizer in the 43rd minute, courtesy of an assist from Panagiotis Retsos . The second half proved to be a test of nerves as the physicality intensified, reflected in a flurry of yellow cards shown to both sides. With the clock ticking down and the tension mounting, Roman Yaremchuk emerged as the hero. In the 84th minute, he capitalized on a perfectly weighted ball from Remo Freuler to find the net, clinching the decisive goal that ultimately decided the contest."
+    },
+    {
       "title": "Ararat-Armenia vs Sparta Praha",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/ararat-armenia-sparta-praha-2026-09-16-RBwS.webp",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/ararat-armenia-sparta-praha-2026-09-16-J5Y3.webp",
       "competition": "UEFA Europa League",
       "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
       "date": "Sep 16, 2026",
@@ -26,7 +670,7 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/ararat-armenia-sparta-praha-2026-09-16-xpwq8m3u8-oEkJb.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/ararat-armenia-sparta-praha-2026-09-16-xbhjim3u8-4ZARw.m3u8"
         }
       ],
       "events_timeline": [],
@@ -48,1540 +692,156 @@
       "description": "Watch Ararat-Armenia vs Sparta Praha highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on September 16, 2026."
     },
     {
-      "title": "Hradec Králové vs Besiktas",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/hradec-kralove-vs-besiktas-2026-08-06-t4jz.webp",
+      "title": "Sunderland vs AZ",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sunderland-az-2026-09-16-hNLd.webp",
       "competition": "UEFA Europa League",
       "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 6, 2026",
+      "date": "Sep 16, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/549.webp",
-          "name": "Besiktas",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/21939.webp",
+          "name": "AZ",
+          "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/3723.webp",
-          "name": "Hradec Králové",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/746.webp",
+          "name": "Sunderland",
+          "score": "1"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/hradec-kralove-vs-besiktas-2026-08-06_dfSki.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/sunderland-az-2026-09-16-gbbnwm3u8-tK1Ax.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Hradec Králové",
-          "player": "M. V. Buren",
+          "team": "Sunderland",
+          "player": "T. Hume",
           "event_type": "Yellow Card"
         },
         {
           "time": "16'",
-          "team": "Hradec Králové",
-          "player": "J. Uhrincat",
+          "team": "Sunderland",
+          "player": "O. Alderete",
           "event_type": "Yellow Card"
         },
         {
           "time": "31'",
-          "team": "Besiktas",
-          "player": "V. Černý",
+          "team": "AZ",
+          "player": "A. Oufkir",
           "event_type": "Yellow Card"
         },
         {
           "time": "46'",
-          "team": "Besiktas",
-          "player": "K. Ouattara",
+          "team": "AZ",
+          "player": "W. Patati",
           "event_type": "Yellow Card"
         },
         {
           "time": "61'",
-          "team": "Besiktas",
-          "player": "K. Ouattara",
-          "event_type": "Red Card"
+          "team": "Sunderland",
+          "player": "E. L. Fée",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
         },
         {
           "time": "76'",
-          "team": "Besiktas",
-          "player": "S. Kılıçsoy",
-          "event_type": "Goal",
-          "assist": "W. Ndidi",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "91'",
-          "team": "Besiktas",
-          "player": "O. Hyeon-gyu",
+          "team": "Sunderland",
+          "player": "N. Mukiele",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Hradec Králové_wins": "0",
+          "Sunderland_wins": "0",
           "draws": "0",
-          "Besiktas_wins": "0"
+          "AZ_wins": "0"
         },
         "previous_matches": [],
         "home_team_form": {
-          "team": "Hradec Králové",
+          "team": "Sunderland",
           "form": [
             "W",
+            "L",
+            "W",
             "D",
-            "L",
-            "L",
             "W"
           ],
           "recent_matches": [
             {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hradec Kralove 0 - 1 Beşiktaş",
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Sunderland 1 - 0 AZ Alkmaar",
               "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Sunderland 0 - 2 Arsenal",
+              "result": "L"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Sunderland 1 - 0 Hull City",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 1 - 1 Sunderland",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sunderland 2 - 1 Rennes",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "AZ",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Sunderland 1 - 0 AZ Alkmaar",
+              "result": "L"
+            },
+            {
+              "date": "11/09/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "AZ Alkmaar 1 - 1 Willem II",
+              "result": "D"
             },
             {
               "date": "02/08/2026",
-              "competition": "1st League",
-              "teams_and_score": "Bohemians 1905 0 - 0 Hradec Kralove",
-              "result": "D"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hradec Kralove 3 - 1 Tromsoe",
-              "result": "L"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "1st League",
-              "teams_and_score": "Hradec Kralove 2 - 1 Pardubice",
-              "result": "L"
-            },
-            {
-              "date": "23/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Tromsoe 0 - 1 Hradec Kralove",
+              "competition": "Johan Cruyff Shield",
+              "teams_and_score": "PSV Eindhoven 0 - 4 AZ Alkmaar",
               "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Besiktas",
-          "form": [
-            "W",
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hradec Kralove 0 - 1 Beşiktaş",
-              "result": "W"
-            },
-            {
-              "date": "14/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Spartak Trnava 3 - 2 Beşiktaş",
-              "result": "L"
-            },
-            {
-              "date": "15/05/2026",
-              "competition": "Süper Lig",
-              "teams_and_score": "Rizespor 2 - 2 Beşiktaş",
-              "result": "D"
-            },
-            {
-              "date": "05/05/2026",
-              "competition": "Turkiye Cup: Final Stage",
-              "teams_and_score": "Beşiktaş 0 - 1 Konyaspor",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Hradec Králové": "9",
-          "Besiktas": "5"
-        },
-        "shots_off_target": {
-          "Hradec Králové": "3",
-          "Besiktas": "11"
-        },
-        "shots_blocked": {
-          "Hradec Králové": "0",
-          "Besiktas": "6"
-        },
-        "corners": {
-          "Hradec Králové": "8",
-          "Besiktas": "5"
-        },
-        "fouls": {
-          "Hradec Králové": "10",
-          "Besiktas": "6"
-        },
-        "yellow_cards": {
-          "Hradec Králové": "2",
-          "Besiktas": "2"
-        },
-        "red_cards": {
-          "Hradec Králové": "0",
-          "Besiktas": "1"
-        },
-        "goalkeeper_saves": {
-          "Hradec Králové": "4",
-          "Besiktas": "8"
-        },
-        "crosses": {
-          "Hradec Králové": "5",
-          "Besiktas": "3"
-        },
-        "ball_possession": {
-          "Hradec Králové": "48%",
-          "Besiktas": "52%"
-        }
-      },
-      "description": "Watch Hradec Králové vs Besiktas highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 6, 2026. The UEFA Europa League clash on August 6, 2026 , between Hradec Králové and Besiktas was a masterclass in resilience and tactical adaptation. Both sides entered the fray with high ambitions, resulting in a physical encounter where discipline—or the lack of it—ultimately dictated the narrative. A Cagey Opening Period The match ignited early as the referee established a strict boundary for physical play. Mick van Buren was the first to enter the book for Hradec Králové in just the 2nd minute. The home side struggled to find their rhythm under the pressure, picking up further yellow cards through Jakub Uhrincat and Vaclav Cerny as the first half progressed. Despite the stop-start nature of the game caused by frequent fouls, neither side could find the clinical edge required to break the deadlock before the interval. Red Card Drama and the Breakthrough The complexion of the game shifted dramatically in the second half. Besiktas defender Kassoum Ouattara , having already been cautioned in the 65th minute, received a second yellow card and was sent off in the 72nd minute. Down to ten men, the Turkish giants looked to be in trouble, but tactical substitutions proved inspired. The introduction of Wilfred Ndidi and Semih Kilicsoy injected fresh energy into the side at exactly the right moment. In the 80th minute, the breakthrough arrived. Wilfred Ndidi turned provider, delivering a pinpoint assist for Semih Kilicsoy , who kept his composure to fire Besiktas into the lead. Hradec Králové pushed for an equalizer in the dying stages, introducing Daniel Trubac to bolster the attack, but the ten men of Besiktas held firm. Following five minutes of added time, the final whistle confirmed a gritty away victory for the visitors."
-    },
-    {
-      "title": "PAOK vs Anderlecht",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/paok-vs-anderlecht-2026-08-06-wKHs.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 6, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/554.webp",
-          "name": "Anderlecht",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/619.webp",
-          "name": "PAOK",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/paok-vs-anderlecht-2026-08-06_Dq23l.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Anderlecht",
-          "player": "M. Cvetkovic",
-          "event_type": "Goal",
-          "assist": "E. Llansana",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "PAOK",
-          "player": "G. Michailidis",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "PAOK",
-          "player": "P. Hatzidiakos",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "56'",
-          "team": "Anderlecht",
-          "player": "M. N’Diaye",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "58'",
-          "team": "Anderlecht",
-          "player": "E. Llansana",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "86'",
-          "team": "PAOK",
-          "player": "A. Elustondo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Anderlecht",
-          "player": "D. Sikan",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "PAOK_wins": "1",
-          "draws": "1",
-          "Anderlecht_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "23/07/2019",
-            "competition": "Club Friendlies 2019",
-            "teams_and_score": "Anderlecht 1 - 3 PAOK FC"
-          },
-          {
-            "date": "29/06/2018",
-            "competition": "Club Friendlies",
-            "teams_and_score": "PAOK FC 2 - 2 Anderlecht"
-          }
-        ],
-        "home_team_form": {
-          "team": "PAOK",
-          "form": [
-            "L",
-            "L",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "PAOK FC 0 - 1 Anderlecht",
-              "result": "L"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "PAOK FC 2 - 3 FC Twente",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Super League: Championship",
-              "teams_and_score": "Panathinaikos 2 - 2 PAOK FC",
-              "result": "D"
-            },
-            {
-              "date": "25/04/2026",
-              "competition": "Cup Final Stage",
-              "teams_and_score": "PAOK FC 2 - 3 OFI Crete",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Anderlecht",
-          "form": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "PAOK FC 0 - 1 Anderlecht",
-              "result": "W"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Anderlecht 3 - 2 NEC Nijmegen",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Belgian Pro League Playoff: Championship Group",
-              "teams_and_score": "Union St.Gilloise 5 - 1 Anderlecht",
-              "result": "L"
-            },
-            {
-              "date": "14/05/2026",
-              "competition": "Belgian Cup",
-              "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht",
-              "result": "L"
-            },
-            {
-              "date": "10/05/2026",
-              "competition": "Belgian Pro League Playoff: Championship Group",
-              "teams_and_score": "Gent 1 - 1 Anderlecht",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "PAOK": "2",
-          "Anderlecht": "2"
-        },
-        "shots_off_target": {
-          "PAOK": "9",
-          "Anderlecht": "1"
-        },
-        "shots_blocked": {
-          "PAOK": "5",
-          "Anderlecht": "1"
-        },
-        "corners": {
-          "PAOK": "5",
-          "Anderlecht": "1"
-        },
-        "fouls": {
-          "PAOK": "15",
-          "Anderlecht": "19"
-        },
-        "offsides": {
-          "PAOK": "2",
-          "Anderlecht": "3"
-        },
-        "yellow_cards": {
-          "PAOK": "2",
-          "Anderlecht": "3"
-        },
-        "goalkeeper_saves": {
-          "PAOK": "1",
-          "Anderlecht": "2"
-        },
-        "crosses": {
-          "PAOK": "7",
-          "Anderlecht": "2"
-        },
-        "ball_possession": {
-          "PAOK": "65%",
-          "Anderlecht": "35%"
-        }
-      },
-      "description": "Watch PAOK vs Anderlecht highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 6, 2026. The atmosphere in the UEFA Europa League was thick with anticipation as both teams took to the pitch. Held on August 6, 2026 , this fixture promised an intense tactical battle between two sides eager to assert their dominance in the competition. An Electric Start The match exploded into life within the first minute as PAOK took the lead. Mihajlo Cvetkovic found the back of the net, capitalizing on a clinical assist from Enric Llansana . This early blow left Anderlecht reeling, forcing the visitors to scramble and adjust their defensive setup against the sustained pressure of the home side. Tension and Missed Chances Despite their early success, PAOK could not capitalize on their momentum to put the game to bed. In the 35th minute, Giannis Michailidis stepped up for a penalty, but he failed to convert the opportunity. This miss gave Anderlecht a lifeline, and the game quickly grew more aggressive. Before the half-time whistle, Pantelis Hatzidiakos was cautioned as the referee began to pull out cards to keep control of the rising intensity. Tactical Shifts and Late Discipline The second half saw a flurry of substitutions as both managers looked for fresh legs, with Aritz Elustondo replacing Hatzidiakos , and players like Dimitrios Pelkas entering the fray. As the clock ticked down, the discipline of the match deteriorated, with Moussa N'Diaye , Enric Llansana , Aritz Elustondo , and Danylo Sikan all picking up yellow cards. Despite the late drama and physical challenges, the referee brought the match to a close after five minutes of added time."
-    },
-    {
-      "title": "Larne vs FC Iberia 1999",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/larne-vs-fc-iberia-1999-2026-08-04-4dya.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 4, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "",
-          "name": "Away Team",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/larne-vs-fc-iberia-1999-2026-08-04_gwBjY.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
-        },
-        "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
-        }
-      },
-      "statistics": {},
-      "description": "Watch Larne vs FC Iberia 1999 highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 4, 2026."
-    },
-    {
-      "title": "Lincoln Red Imps FC vs Omonia Nicosia",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/lincoln-red-imps-fc-vs-omonia-nicosia-2026-08-06-g20C.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 6, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "",
-          "name": "Away Team",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/lincoln-red-imps-fc-vs-omonia-nicosia-2026-08-06_xF6Ny.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
-        },
-        "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
-        }
-      },
-      "statistics": {},
-      "description": "Watch Lincoln Red Imps FC vs Omonia Nicosia highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 6, 2026."
-    },
-    {
-      "title": "Pafos vs HNK Hajduk Split",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/pafos-vs-hnk-hajduk-split-2026-07-30-yfCx.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Jul 30, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/608.webp",
-          "name": "HNK Hajduk Split",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/3403.webp",
-          "name": "Pafos",
-          "score": "4"
-        },
-        "status": "AET"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/pafos-vs-hnk-hajduk-split-2026-07-30_ujnX9.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "12'",
-          "team": "Pafos",
-          "player": "D. Goldar",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "40'",
-          "team": "Pafos",
-          "player": "Guga",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "45+5'",
-          "team": "Pafos",
-          "player": "Guga",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "51'",
-          "team": "HNK Hajduk Split",
-          "player": "A. Pajaziti",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "68'",
-          "team": "Pafos",
-          "player": "I. Sunjic",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "Pafos",
-          "player": "D. Goldar",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "91'",
-          "team": "Pafos",
-          "player": "G. Biel",
-          "event_type": "Goal",
-          "score_update": "3 - 0"
-        },
-        {
-          "time": "106'",
-          "team": "HNK Hajduk Split",
-          "player": "R. Pukstas",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "121'",
-          "team": "Pafos",
-          "player": "J. Correia",
-          "event_type": "Goal",
-          "assist": "Pepe",
-          "score_update": "4 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Pafos_wins": "0",
-          "draws": "0",
-          "HNK Hajduk Split_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "23/07/2026",
-            "competition": "Qualification",
-            "teams_and_score": "Hajduk Split 2 - 0 Pafos FC"
-          }
-        ],
-        "home_team_form": {
-          "team": "Pafos",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Pafos FC 4 - 0 Hajduk Split",
-              "result": "W"
-            },
-            {
-              "date": "29/05/2026",
-              "competition": "Cypriot Cup",
-              "teams_and_score": "Apollon Limassol 0 - 2 Pafos FC",
-              "result": "W"
-            },
-            {
-              "date": "22/05/2026",
-              "competition": "1st Division: Championship",
-              "teams_and_score": "Pafos FC 2 - 0 APOEL Nicosia",
-              "result": "W"
-            },
-            {
-              "date": "22/04/2026",
-              "competition": "Cypriot Cup",
-              "teams_and_score": "Pafos FC 3 - 1 AEL Limassol",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "HNK Hajduk Split",
-          "form": [
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Pafos FC 4 - 0 Hajduk Split",
-              "result": "L"
-            },
-            {
-              "date": "22/05/2026",
-              "competition": "HNL",
-              "teams_and_score": "Hajduk Split 6 - 3 Vukovar 91",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Pafos": "9",
-          "HNK Hajduk Split": "2"
-        },
-        "shots_off_target": {
-          "Pafos": "17",
-          "HNK Hajduk Split": "6"
-        },
-        "shots_blocked": {
-          "Pafos": "2",
-          "HNK Hajduk Split": "1"
-        },
-        "corners": {
-          "Pafos": "9",
-          "HNK Hajduk Split": "2"
-        },
-        "fouls": {
-          "Pafos": "16",
-          "HNK Hajduk Split": "14"
-        },
-        "offsides": {
-          "Pafos": "2",
-          "HNK Hajduk Split": "3"
-        },
-        "yellow_cards": {
-          "Pafos": "3",
-          "HNK Hajduk Split": "2"
-        },
-        "goalkeeper_saves": {
-          "Pafos": "2",
-          "HNK Hajduk Split": "7"
-        },
-        "ball_possession": {
-          "Pafos": "57%",
-          "HNK Hajduk Split": "43%"
-        }
-      },
-      "description": "Watch Pafos vs HNK Hajduk Split highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 30, 2026. A high-stakes UEFA Europa League clash unfolded as Pafos hosted HNK Hajduk Split in a match defined by tactical patience and explosive late-game action. First Half Breakthrough On July 30, 2026 , the atmosphere was electric as the referee kicked off this continental encounter. The early stages were characterized by a physical approach from both sides, with David Goldar picking up an early booking for Pafos . The deadlock was finally broken in the 40th minute when Guga found the back of the net, giving the home side a crucial lead. However, the emotional intensity of the game was clear just before the break, as Guga himself received a yellow card during a frantic period of stoppage time. Late Drama Forces Extension The second half saw both managers turn to their benches to influence the flow of the game. Hajduk Split introduced Marko Livaja to bolster their attack, while Pafos brought on fresh legs including Joao Correia and Pepe . As the clock ticked toward the final whistle, the pressure intensified. In the 92nd minute, David Goldar rose to the occasion, scoring a vital goal to make it 2-0 and ensuring the match would continue into extra time as the aggregate tension peaked. Extra Time Dominance Once the match moved into the additional periods, Pafos seized complete control. Almost immediately after the restart, Biel clinical finishing made it 3-0 in the 93rd minute, leaving the visitors struggling to find a response. The clinical performance was capped off in the 117th minute when Pepe provided a perfect assist for Joao Correia , who made no mistake in slotting home the fourth. It was a statement victory for Pafos , who showed remarkable stamina to secure the result in front of their home supporters."
-    },
-    {
-      "title": "Hammarby FF vs Anderlecht",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/hammarby-ff-vs-anderlecht-2026-07-24-w6GL.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Jul 24, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/554.webp",
-          "name": "Anderlecht",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/363.webp",
-          "name": "Hammarby FF",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/hammarby-ff-vs-anderlecht-2026-07-24_qp8a3.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Anderlecht",
-          "player": "D. Sikan",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "Anderlecht",
-          "player": "N. Saliba",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Anderlecht",
-          "player": "L. Augustinsson",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Hammarby FF",
-          "player": "F. Winther",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Hammarby FF",
-          "player": "V. Eriksson",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Anderlecht",
-          "player": "N. Saliba",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "76'",
-          "team": "Hammarby FF",
-          "player": "F. J. Adjei",
-          "event_type": "Goal",
-          "assist": "P. Abraham",
-          "score_update": "1 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Hammarby FF_wins": "0",
-          "draws": "0",
-          "Anderlecht_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Hammarby FF",
-          "form": [
-            "D",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hammarby IF 1 - 1 Anderlecht",
-              "result": "D"
-            },
-            {
-              "date": "19/07/2026",
-              "competition": "Allsvenskan",
-              "teams_and_score": "Hammarby IF 4 - 0 Degerfors",
-              "result": "L"
-            },
-            {
-              "date": "24/06/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "BK Haecken 1 - 4 Hammarby IF",
-              "result": "W"
-            },
-            {
-              "date": "31/05/2026",
-              "competition": "Allsvenskan",
-              "teams_and_score": "BK Haecken 3 - 2 Hammarby IF",
-              "result": "L"
-            },
-            {
-              "date": "14/05/2026",
-              "competition": "Svenska Cupen: Knockout Stage",
-              "teams_and_score": "Mjaellby 2 - 1 Hammarby IF",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Anderlecht",
-          "form": [
-            "D",
-            "W",
-            "L",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hammarby IF 1 - 1 Anderlecht",
-              "result": "D"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Anderlecht 3 - 2 NEC Nijmegen",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Belgian Pro League Playoff: Championship Group",
-              "teams_and_score": "Union St.Gilloise 5 - 1 Anderlecht",
-              "result": "L"
-            },
-            {
-              "date": "14/05/2026",
-              "competition": "Belgian Cup",
-              "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht",
-              "result": "L"
-            },
-            {
-              "date": "10/05/2026",
-              "competition": "Belgian Pro League Playoff: Championship Group",
-              "teams_and_score": "Gent 1 - 1 Anderlecht",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Hammarby FF": "6",
-          "Anderlecht": "4"
-        },
-        "shots_off_target": {
-          "Hammarby FF": "6",
-          "Anderlecht": "2"
-        },
-        "corners": {
-          "Hammarby FF": "5",
-          "Anderlecht": "2"
-        },
-        "fouls": {
-          "Hammarby FF": "15",
-          "Anderlecht": "15"
-        },
-        "offsides": {
-          "Hammarby FF": "2",
-          "Anderlecht": "4"
-        },
-        "yellow_cards": {
-          "Hammarby FF": "2",
-          "Anderlecht": "3"
-        },
-        "red_cards": {
-          "Hammarby FF": "0",
-          "Anderlecht": "1"
-        },
-        "goalkeeper_saves": {
-          "Hammarby FF": "3",
-          "Anderlecht": "5"
-        },
-        "ball_possession": {
-          "Hammarby FF": "56%",
-          "Anderlecht": "44%"
-        }
-      },
-      "description": "Watch Hammarby FF vs Anderlecht highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 24, 2026. The stage was set for a high-stakes UEFA Europa League encounter on 2026-07-24 as Hammarby FF played host to Anderlecht . Both sides entered the pitch looking to establish dominance in a match that promised tactical intrigue and physical intensity from the very first whistle. Early Breakthrough and Tactical Friction Anderlecht wasted no time in making their mark on the contest, stunned the home crowd just 6 minutes into the match. Danylo Sikan showcased clinical finishing to put the visitors ahead, setting a challenging tone for Hammarby . As the first half progressed, the match became a bruising affair characterized by a flurry of cautions. Nathan Saliba and Ludwig Augustinsson were both booked for the Belgian side, while Frederik Winther received a yellow card for the hosts. Despite the pressure, the visitors managed to carry their slim lead into the halftime break. Discipline and Defensive Shifts The second half resumed with equal intensity as Victor Eriksson was cautioned almost immediately after the restart. Both managers turned to their benches to influence the flow, with Hammarby introducing Mihajlo Cvetkovic and Lukas Ambros to spark an offensive reaction. The game reached a critical turning point in the 78th minute when Nathan Saliba was shown a second yellow card. His dismissal left Anderlecht to navigate the final stages with only ten men, providing Hammarby with a lifeline in their pursuit of an equalizer. Late Heroics from the Bench With the numerical advantage, the home side ramped up the pressure, leading to a frantic finale. The breakthrough finally arrived in the 89th minute, courtesy of a tactical masterstroke. Frank Junior Adjei , who had only been on the pitch for three minutes after replacing Victor Lind , found the net following a brilliant assist from Paulos Abraham . The goal sent the stadium into raptures, securing a hard-fought draw for Hammarby after a resilient performance from both teams. The referee blew the final whistle at 90+4', ending a night of pure European drama."
-    },
-    {
-      "title": "HNK Hajduk Split vs Pafos",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/hnk-hajduk-split-vs-pafos-2026-07-24-eg77.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Jul 24, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/3403.webp",
-          "name": "Pafos",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/608.webp",
-          "name": "HNK Hajduk Split",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/hnk-hajduk-split-vs-pafos-2026-07-24_q6ekk.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "HNK Hajduk Split",
-          "player": "A. Pajaziti",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Pafos",
-          "player": "N. Ioannou",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "HNK Hajduk Split",
-          "player": "M. Sego",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "76'",
-          "team": "Pafos",
-          "player": "A. Brito",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "HNK Hajduk Split",
-          "player": "D. Melnjak",
-          "event_type": "Goal",
-          "assist": "M. Acapandie",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "106'",
-          "team": "HNK Hajduk Split",
-          "player": "A. Guram",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "121'",
-          "team": "HNK Hajduk Split",
-          "player": "A. d. Moral",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "HNK Hajduk Split_wins": "0",
-          "draws": "0",
-          "Pafos_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "HNK Hajduk Split",
-          "form": [
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hajduk Split 2 - 0 Pafos FC",
-              "result": "L"
-            },
-            {
-              "date": "22/05/2026",
-              "competition": "HNL",
-              "teams_and_score": "Hajduk Split 6 - 3 Vukovar 91",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Pafos",
-          "form": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hajduk Split 2 - 0 Pafos FC",
-              "result": "L"
-            },
-            {
-              "date": "29/05/2026",
-              "competition": "Cypriot Cup",
-              "teams_and_score": "Apollon Limassol 0 - 2 Pafos FC",
-              "result": "W"
-            },
-            {
-              "date": "22/05/2026",
-              "competition": "1st Division: Championship",
-              "teams_and_score": "Pafos FC 2 - 0 APOEL Nicosia",
-              "result": "W"
-            },
-            {
-              "date": "22/04/2026",
-              "competition": "Cypriot Cup",
-              "teams_and_score": "Pafos FC 3 - 1 AEL Limassol",
-              "result": "W"
-            },
-            {
-              "date": "18/04/2026",
-              "competition": "1st Division: Championship",
-              "teams_and_score": "Pafos FC 1 - 1 AEK Larnaca",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "HNK Hajduk Split": "3",
-          "Pafos": "4"
-        },
-        "shots_off_target": {
-          "HNK Hajduk Split": "5",
-          "Pafos": "6"
-        },
-        "shots_blocked": {
-          "HNK Hajduk Split": "2",
-          "Pafos": "3"
-        },
-        "corners": {
-          "HNK Hajduk Split": "8",
-          "Pafos": "7"
-        },
-        "fouls": {
-          "HNK Hajduk Split": "21",
-          "Pafos": "10"
-        },
-        "offsides": {
-          "HNK Hajduk Split": "0",
-          "Pafos": "3"
-        },
-        "yellow_cards": {
-          "HNK Hajduk Split": "3",
-          "Pafos": "2"
-        },
-        "goalkeeper_saves": {
-          "HNK Hajduk Split": "2",
-          "Pafos": "0"
-        },
-        "ball_possession": {
-          "HNK Hajduk Split": "44%",
-          "Pafos": "56%"
-        }
-      },
-      "description": "Watch HNK Hajduk Split vs Pafos highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 24, 2026. The atmosphere was charged with anticipation as HNK Hajduk Split hosted Pafos in a crucial UEFA Europa League fixture on 2026-07-24 . Both sides took to the pitch looking to establish dominance in a match that promised high tactical stakes. A Cagey Opening Exchange The contest began with a physical edge, signaled early on when Adrion Pajaziti was shown a yellow card in just the 4th minute. Throughout the first half, the game remained a strategic stalemate, with both defenses holding firm against occasional forays into the final third. Pafos managed to neutralize the hosts' creative sparks, leading to a goalless first 45 minutes. The referee blew for halftime after a brief period of stoppage time, leaving everything to be decided in the second period. The Breakthrough and Double Blow The second half saw a significant shift in momentum as HNK Hajduk Split increased their offensive tempo. Shortly after Nikolas Ioannou received a booking in the 55th minute, the deadlock was finally broken. Michele Sego found the back of the net in the 56th minute, sending the home crowd into raptures. The visitors attempted to stabilize with a double substitution, bringing on Alexandre Brito and Bruno Felipe , but the momentum remained firmly with the Croatian side. Sealing the Result The decisive moment arrived in the 64th minute when Mathieu Acapandie provided a brilliant assist for Dario Melnjak , who finished clinically to double the lead. Facing a two-goal deficit, Pafos struggled to find a way back into the game despite several tactical changes, including the introduction of Quina . The closing stages were marked by further bookings for the visitors, as Adam Guram and Alberto del Moral were cautioned late on. Hajduk Split managed the final minutes professionally, securing the win as the final whistle sounded after five minutes of added time."
-    },
-    {
-      "title": "Anderlecht vs PAOK",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/anderlecht-vs-paok-2026-08-13-2Khg.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/619.webp",
-          "name": "PAOK",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/554.webp",
-          "name": "Anderlecht",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/anderlecht-vs-paok-2026-08-13_r63KM.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Anderlecht",
-          "player": "L. Petrot",
-          "event_type": "Goal",
-          "assist": "G. Biancone",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "PAOK",
-          "player": "A. Živković",
-          "event_type": "Goal",
-          "assist": "C. Zafeiris",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "31'",
-          "team": "PAOK",
-          "player": "R. Baba",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "47'",
-          "team": "Anderlecht",
-          "player": "L. Ambros",
-          "event_type": "Goal",
-          "assist": "G. Biancone",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "55'",
-          "team": "Anderlecht",
-          "player": "D. Sikan",
-          "event_type": "Goal",
-          "assist": "M. Cvetkovic",
-          "score_update": "3 - 1"
-        },
-        {
-          "time": "80'",
-          "team": "Anderlecht",
-          "player": "L. Ambros",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "82'",
-          "team": "PAOK",
-          "player": "C. Zafeiris",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "88'",
-          "team": "PAOK",
-          "player": "A. Jeremejeff",
-          "event_type": "Goal",
-          "score_update": "3 - 2"
-        },
-        {
-          "time": "89'",
-          "team": "Anderlecht",
-          "player": "G. Biancone",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "89'",
-          "team": "PAOK",
-          "player": "A. Živković",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "PAOK",
-          "player": "A. Jeremejeff",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Anderlecht",
-          "player": "N. Saliba",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Anderlecht_wins": "1",
-          "draws": "1",
-          "PAOK_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "06/08/2026",
-            "competition": "Qualification",
-            "teams_and_score": "PAOK FC 0 - 1 Anderlecht"
-          },
-          {
-            "date": "23/07/2019",
-            "competition": "Club Friendlies 2019",
-            "teams_and_score": "Anderlecht 1 - 3 PAOK FC"
-          },
-          {
-            "date": "29/06/2018",
-            "competition": "Club Friendlies",
-            "teams_and_score": "PAOK FC 2 - 2 Anderlecht"
-          }
-        ],
-        "home_team_form": {
-          "team": "Anderlecht",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Anderlecht 3 - 2 PAOK FC",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Belgian Pro League",
-              "teams_and_score": "Anderlecht 2 - 1 Raal La Louviere",
-              "result": "W"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "PAOK FC 0 - 1 Anderlecht",
-              "result": "W"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Anderlecht 3 - 2 NEC Nijmegen",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Belgian Pro League Playoff: Championship Group",
-              "teams_and_score": "Union St.Gilloise 5 - 1 Anderlecht",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "PAOK",
-          "form": [
-            "L",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Anderlecht 3 - 2 PAOK FC",
-              "result": "L"
-            },
-            {
-              "date": "11/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "PAOK FC 2 - 3 FC Twente",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Super League: Championship",
-              "teams_and_score": "Panathinaikos 2 - 2 PAOK FC",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Anderlecht": "9",
-          "PAOK": "4"
-        },
-        "shots_off_target": {
-          "Anderlecht": "6",
-          "PAOK": "6"
-        },
-        "shots_blocked": {
-          "Anderlecht": "0",
-          "PAOK": "3"
-        },
-        "corners": {
-          "Anderlecht": "2",
-          "PAOK": "8"
-        },
-        "fouls": {
-          "Anderlecht": "12",
-          "PAOK": "8"
-        },
-        "offsides": {
-          "Anderlecht": "2",
-          "PAOK": "3"
-        },
-        "yellow_cards": {
-          "Anderlecht": "3",
-          "PAOK": "2"
-        },
-        "red_cards": {
-          "Anderlecht": "0",
-          "PAOK": "2"
-        },
-        "goalkeeper_saves": {
-          "Anderlecht": "2",
-          "PAOK": "6"
-        },
-        "crosses": {
-          "Anderlecht": "4",
-          "PAOK": "9"
-        },
-        "ball_possession": {
-          "Anderlecht": "45%",
-          "PAOK": "55%"
-        }
-      },
-      "description": "Watch Anderlecht vs PAOK highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 13, 2026. On August 13, 2026 , the UEFA Europa League delivered a captivating spectacle as Anderlecht hosted PAOK in a clash filled with tactical shifts. Both sides pushed for dominance in a game that remained unpredictable until the final whistle. First Half Deadlock Broken The match began with high intensity as both teams looked to establish early rhythm. Anderlecht broke the deadlock in the 19th minute when Leo Petrot found the back of the net, thanks to a well-placed assist from Giulian Biancone . However, the lead was short-lived. PAOK responded with determination, and in the 34th minute, Andrija Zivkovic finished clinically to level the score after a precise pass from Christos Zafeiris . The teams went into the break with everything to play for. Anderlecht's Second Half Surge The home side came out of the tunnel with renewed energy, taking control of the match immediately. Just two minutes into the second half, in the 47th minute, Lukas Ambros restored Anderlecht 's lead, with Giulian Biancone providing his second assist of the night. The pressure didn't stop there. In the 55th minute, Danylo Sikan capitalized on a ball from Mihajlo Cvetkovic to make it 3-1, putting the Belgian side in a commanding position. Late Penalty and Red Card Chaos As the clock ticked down, the atmosphere grew increasingly tense. PAOK were thrown a lifeline in the 88th minute when they were awarded a penalty, which Alexander Jeremejeff converted with composure. However, the comeback attempt quickly unraveled. Andrija Zivkovic was shown a straight red card in the 89th minute, followed by Alexander Jeremejeff receiving his marching orders in the 93rd minute amidst heavy protests. Despite a late yellow card for Nathan Saliba , Anderlecht secured the 3-2 victory in a frantic finish."
-    },
-    {
-      "title": "Omonia Nicosia vs Lincoln Red Imps FC",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/omonia-nicosia-vs-lincoln-red-imps-fc-2026-08-13-DISt.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "",
-          "name": "Away Team",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "",
-          "name": "Home Team",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/omonia-nicosia-vs-lincoln-red-imps-fc-2026-08-13_BluYR.m3u8"
-        }
-      ],
-      "events_timeline": [],
-      "head_to_head": {
-        "summary": {},
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Home Team",
-          "form": [],
-          "recent_matches": []
-        },
-        "away_team_form": {
-          "team": "Away Team",
-          "form": [],
-          "recent_matches": []
-        }
-      },
-      "statistics": {},
-      "description": "Watch Omonia Nicosia vs Lincoln Red Imps FC highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 13, 2026."
-    },
-    {
-      "title": "Pafos vs Red Bull Salzburg",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/pafos-vs-red-bull-salzburg-2026-08-13-9qwo.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/571.webp",
-          "name": "Red Bull Salzburg",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/3403.webp",
-          "name": "Pafos",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/pafos-vs-red-bull-salzburg-2026-08-13_rP5iJ.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Pafos",
-          "player": "Lele",
-          "event_type": "Goal",
-          "assist": "Bruno",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Red Bull Salzburg",
-          "player": "N. Veratschnig",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Pafos",
-          "player": "G. Biel",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Pafos",
-          "player": "Bruno",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Red Bull Salzburg",
-          "player": "H. Tabaković",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "76'",
-          "team": "Red Bull Salzburg",
-          "player": "H. Tabaković",
-          "event_type": "Goal",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "91'",
-          "team": "Red Bull Salzburg",
-          "player": "H. Tabaković",
-          "event_type": "Goal",
-          "score_update": "2 - 3"
-        },
-        {
-          "time": "106'",
-          "team": "Pafos",
-          "player": "M. Mammadov",
-          "event_type": "Goal",
-          "score_update": "3 - 3"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Pafos_wins": "0",
-          "draws": "0",
-          "Red Bull Salzburg_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "06/08/2026",
-            "competition": "Qualification",
-            "teams_and_score": "FC Salzburg 1 - 0 Pafos FC"
-          }
-        ],
-        "home_team_form": {
-          "team": "Pafos",
-          "form": [
-            "D",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Pafos FC 3 - 3 FC Salzburg",
-              "result": "D"
-            },
-            {
-              "date": "29/05/2026",
-              "competition": "Cypriot Cup",
-              "teams_and_score": "Apollon Limassol 0 - 2 Pafos FC",
-              "result": "W"
-            },
-            {
-              "date": "22/05/2026",
-              "competition": "1st Division: Championship",
-              "teams_and_score": "Pafos FC 2 - 0 APOEL Nicosia",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Red Bull Salzburg",
-          "form": [
-            "D",
-            "D",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Pafos FC 3 - 3 FC Salzburg",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Bundesliga",
-              "teams_and_score": "Wolfsberger AC 1 - 1 FC Salzburg",
-              "result": "D"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "FC Salzburg 1 - 0 Pafos FC",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Bundesliga",
-              "teams_and_score": "FC Salzburg 1 - 0 TSV Hartberg",
-              "result": "L"
             },
             {
               "date": "25/07/2026",
-              "competition": "OFB Cup",
-              "teams_and_score": "Oberwart 1 - 7 FC Salzburg",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AZ Alkmaar 3 - 2 Olympiacos",
+              "result": "W"
+            },
+            {
+              "date": "22/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "AZ Alkmaar 4 - 0 Genk",
               "result": "W"
             }
           ]
@@ -1589,390 +849,554 @@
       },
       "statistics": {
         "shots_on_target": {
-          "Pafos": "9",
-          "Red Bull Salzburg": "6"
+          "Sunderland": "5",
+          "AZ": "2"
         },
         "shots_off_target": {
-          "Pafos": "3",
-          "Red Bull Salzburg": "7"
+          "Sunderland": "11",
+          "AZ": "3"
         },
         "shots_blocked": {
-          "Pafos": "3",
-          "Red Bull Salzburg": "5"
+          "Sunderland": "4",
+          "AZ": "6"
         },
         "corners": {
-          "Pafos": "4",
-          "Red Bull Salzburg": "2"
+          "Sunderland": "12",
+          "AZ": "5"
         },
         "fouls": {
-          "Pafos": "12",
-          "Red Bull Salzburg": "16"
+          "Sunderland": "14",
+          "AZ": "13"
         },
         "offsides": {
-          "Pafos": "2",
-          "Red Bull Salzburg": "2"
+          "Sunderland": "1",
+          "AZ": "0"
         },
         "yellow_cards": {
-          "Pafos": "1",
-          "Red Bull Salzburg": "1"
+          "Sunderland": "3",
+          "AZ": "2"
         },
         "goalkeeper_saves": {
-          "Pafos": "3",
-          "Red Bull Salzburg": "6"
+          "Sunderland": "2",
+          "AZ": "4"
         },
         "crosses": {
-          "Pafos": "8",
-          "Red Bull Salzburg": "3"
+          "Sunderland": "6",
+          "AZ": "3"
         },
         "ball_possession": {
-          "Pafos": "52%",
-          "Red Bull Salzburg": "48%"
+          "Sunderland": "45%",
+          "AZ": "55%"
         }
       },
-      "description": "Watch Pafos vs Red Bull Salzburg highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 13, 2026. The UEFA Europa League served up an intriguing encounter on August 13, 2026, as Pafos hosted Red Bull Salzburg . Both sides took to the pitch under the floodlights, eager to claim vital points in this prestigious European competition. Salzburg Take Control Early The visitors from Austria established their rhythm early in the match, pressing high and forcing errors. In the 15th minute, the deadlock was broken when Lele found the back of the net, clinical in his finish after being set up by a clever assist from Bruno Felipe . While Pafos tried to find their footing, they struggled to contain the fluid movement of the Red Bull Salzburg attack. The pressure told again in the 37th minute when Biel scored a well-deserved second goal, ensuring the visitors went into the break with a commanding lead. The Haris Tabakovic Show The second half turned into a masterclass by Haris Tabakovic . The striker began his scoring spree in the 54th minute with a sharp finish. His momentum continued just four minutes later when Salzburg were awarded a penalty; Tabakovic stepped up and coolly converted from the spot in the 58th minute. Not content with a brace, he completed his hat-trick in the 70th minute, effectively ending any hopes of a comeback for the home side as the scoreline continued to widen. Late Impact and Full Time As the game entered its final stages, both managers utilized their benches. Murad Mammadov was introduced in the 82nd minute for Vlad Dragomir , and he made an instant impact. Just two minutes after his introduction, Mammadov found the target in the 84th minute to add a fifth for his side. Despite the late flurry of goals and tactical shifts, the intensity remained until the final whistle at 90+5 minutes, confirming a statement victory for the visiting team on Cypriot soil."
+      "description": "Watch Sunderland vs AZ highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on September 16, 2026. Sunderland and AZ faced off in a high-stakes UEFA Europa League clash on September 16, 2026, with both sides desperate to secure a vital victory under the lights. The match promised intensity and tactical discipline as the two European contenders met in a tightly contested affair. A Disciplined First Half Battle The game began with a high tempo, but it was characterized more by tactical fouls and defensive solidity than free-flowing attacking play. The referee was kept busy early on, issuing yellow cards to Sunderland 's Trai Hume in the 22nd minute and Omar Alderete in the 30th minute as the home side looked to assert their physical dominance. AZ were not without their own cautions, as Ayoub Oufkir was booked shortly before the break for a late challenge. Despite the territorial battle, clear-cut chances were at a premium during the first 45 minutes, leading to a goalless stalemate at the interval. The Decisive Moment from the Spot The second half saw both managers turn to their benches to break the deadlock. AZ introduced Weslley Pinto for Oufkir , but the substitute found himself in the book in the 65th minute after conceding a crucial penalty. This proved to be the turning point of the match. Enzo Le Fee stepped up to the spot in the 66th minute and showed nerves of steel, slotting the ball home to give Sunderland the lead. Immediately following the goal, the Black Cats made a triple substitution, bringing on Thomas Meunier , Brian Brobbey , and Nilson Angulo to provide fresh legs and defensive reinforcement. Late Pressure and Final Whistle As the clock ticked down, AZ pushed for an equalizer, introducing creative outlets like Calvin Stengs and Jizz Hornkamp . However, the Sunderland defense, bolstered by the earlier introduction of Daniel Ballard , remained resolute. Nordi Mukiele received a late yellow card for the visitors as frustrations grew. In the final minutes, Sunderland managed the game professionally, with Chris Rigg coming on to help see out the result. After four minutes of added time, the referee blew the final whistle, confirming a hard-fought victory for the hosts in front of a jubilant crowd."
     },
     {
-      "title": "Heart Of Midlothian vs Benfica",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/heart-of-midlothian-vs-benfica-2026-08-13-WgvM.webp",
+      "title": "Hapoel Be’er Sheva vs Dinamo Zagreb",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/hapoel-beer-sheva-dinamo-zagreb-2026-09-16-7r4C.webp",
       "competition": "UEFA Europa League",
       "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 13, 2026",
+      "date": "Sep 16, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/211.webp",
-          "name": "Benfica",
-          "score": "1"
+          "logo": "https://img.refooty.com/logo/teams/620.webp",
+          "name": "Dinamo Zagreb",
+          "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/254.webp",
-          "name": "Heart Of Midlothian",
-          "score": "1"
+          "logo": "",
+          "name": "Hapoel Be’er Sheva",
+          "score": "0"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/heart-of-midlothian-vs-benfica-2026-08-13_hJSdj.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/hapoel-beer-sheva-dinamo-zagreb-2026-09-16-zmxwvm3u8-XoYpk.m3u8"
         }
       ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Heart Of Midlothian",
-          "player": "C. R. S. Braga",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Heart Of Midlothian",
-          "player": "T. Magnusson",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Benfica",
-          "player": "D. Lukébakio",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        }
-      ],
+      "events_timeline": [],
       "head_to_head": {
         "summary": {
-          "Heart Of Midlothian_wins": "0",
-          "draws": "0",
-          "Benfica_wins": "1"
+          "Hapoel Be’er Sheva_wins": "0",
+          "draws": "1",
+          "Dinamo Zagreb_wins": "0"
         },
         "previous_matches": [
           {
-            "date": "06/08/2026",
-            "competition": "Qualification",
-            "teams_and_score": "Benfica 6 - 1 Hearts"
+            "date": "31/07/2018",
+            "competition": "Champions League Qualification",
+            "teams_and_score": "Hapoel Beer Sheva 2 - 2 Dinamo Zagreb"
           }
         ],
         "home_team_form": {
-          "team": "Heart Of Midlothian",
+          "team": "Hapoel Be’er Sheva",
           "form": [
             "D",
-            "L",
+            "W",
             "L",
             "L",
             "W"
           ],
           "recent_matches": [
             {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hearts 1 - 1 Benfica",
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Hapoel Beer Sheva 0 - 0 Dinamo Zagreb",
               "result": "D"
             },
             {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Hearts 4 - 0 Dundee United",
-              "result": "L"
+              "date": "13/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Hapoel Petah Tikva 0 - 2 Hapoel Beer Sheva",
+              "result": "W"
             },
             {
-              "date": "06/08/2026",
+              "date": "25/08/2026",
               "competition": "Qualification",
-              "teams_and_score": "Benfica 6 - 1 Hearts",
+              "teams_and_score": "Sabah FK 5 - 2 Hapoel Beer Sheva",
               "result": "L"
             },
             {
-              "date": "01/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Aberdeen 2 - 1 Hearts",
+              "date": "15/08/2026",
+              "competition": "Toto Cup Al: Placement Matches",
+              "teams_and_score": "Hapoel Haifa 4 - 0 Hapoel Beer Sheva",
               "result": "L"
             },
             {
-              "date": "28/07/2026",
+              "date": "11/08/2026",
               "competition": "Qualification",
-              "teams_and_score": "Hearts 0 - 2 Sturm Graz",
+              "teams_and_score": "FK Crvena Zvezda 0 - 2 Hapoel Beer Sheva",
               "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "Benfica",
-          "form": [
-            "D",
-            "D",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hearts 1 - 1 Benfica",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Primeira Liga",
-              "teams_and_score": "Benfica 2 - 2 Academico Viseu",
-              "result": "D"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Benfica 6 - 1 Hearts",
-              "result": "W"
-            },
-            {
-              "date": "24/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Benfica 5 - 1 CF Os Belenenses",
-              "result": "W"
-            },
-            {
-              "date": "23/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "St. Gallen 2 - 1 Benfica",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Heart Of Midlothian": "3",
-          "Benfica": "5"
-        },
-        "shots_off_target": {
-          "Heart Of Midlothian": "2",
-          "Benfica": "8"
-        },
-        "shots_blocked": {
-          "Heart Of Midlothian": "0",
-          "Benfica": "7"
-        },
-        "corners": {
-          "Heart Of Midlothian": "0",
-          "Benfica": "11"
-        },
-        "fouls": {
-          "Heart Of Midlothian": "5",
-          "Benfica": "13"
-        },
-        "offsides": {
-          "Heart Of Midlothian": "2",
-          "Benfica": "3"
-        },
-        "yellow_cards": {
-          "Heart Of Midlothian": "1",
-          "Benfica": "0"
-        },
-        "goalkeeper_saves": {
-          "Heart Of Midlothian": "4",
-          "Benfica": "2"
-        },
-        "crosses": {
-          "Heart Of Midlothian": "4",
-          "Benfica": "2"
-        },
-        "ball_possession": {
-          "Heart Of Midlothian": "39%",
-          "Benfica": "61%"
-        }
-      },
-      "description": "Watch Heart Of Midlothian vs Benfica highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 13, 2026. The atmosphere was electric at Tynecastle as Heart of Midlothian welcomed Portuguese giants Benfica for a high-stakes UEFA Europa League clash. Both sides looked to establish dominance early in a match that promised intensity and tactical intrigue from the first whistle. A Gritty Opening Exchange On August 13, 2026, the contest began with both teams testing each other's defensive resolve. Heart of Midlothian showed no fear against their illustrious opponents, maintaining a disciplined shape and closing down spaces. The first half was characterized by physical battles in midfield, punctuated by a yellow card for Claudio Braga in the 34th minute as the home side fought to keep Benfica at bay. Despite the pressure from the visitors, the score remained deadlocked as the referee blew for halftime. Tactical Shifts and the Second Half The second half saw the Benfica manager look to his bench to break the stalemate, introducing Tomas Araujo for Clement Lenglet immediately after the break. The game remained a tense affair until the 64th minute, when a triple substitution brought Tomas Magnusson , Leandro Barreiro , and Gianluca Prestianni onto the pitch. These changes injected fresh energy into the Portuguese side’s attack, gradually wearing down the Hearts defense that had stood firm for over an hour. The Decisive Double Blow The deadlock was finally broken in the 77th minute when substitute Tomas Magnusson found the back of the net, silencing the home crowd. Before Heart of Midlothian could even catch their breath, Benfica struck again. Just two minutes later, Dodi Lukebakio doubled the lead with a clinical finish in the 79th minute. Although the Scottish side attempted to respond with their own set of substitutions, including the introduction of James Wilson and MJ Kamara , the visitors managed the closing stages with professional composure to secure the victory."
-    },
-    {
-      "title": "Rangers vs Jagiellonia",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/rangers-vs-jagiellonia-2026-08-13-ikGs.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/336.webp",
-          "name": "Jagiellonia",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/257.webp",
-          "name": "Rangers",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/rangers-vs-jagiellonia-2026-08-13_ERmcC.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Rangers",
-          "player": "L. Shankland",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Jagiellonia",
-          "player": "T. Romanczuk",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Jagiellonia",
-          "player": "B. Vital",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Jagiellonia",
-          "player": "N. Prelec",
-          "event_type": "Goal",
-          "assist": "A. Klynge",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "91'",
-          "team": "Jagiellonia",
-          "player": "A. Klynge",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Rangers_wins": "0",
-          "draws": "0",
-          "Jagiellonia_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "06/08/2026",
-            "competition": "Qualification",
-            "teams_and_score": "Jagiellonia Bialystok 2 - 1 Rangers"
-          }
-        ],
-        "home_team_form": {
-          "team": "Rangers",
+          "team": "Dinamo Zagreb",
           "form": [
             "D",
             "L",
             "L",
-            "D",
+            "W",
             "D"
           ],
           "recent_matches": [
             {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Hapoel Beer Sheva 0 - 0 Dinamo Zagreb",
+              "result": "D"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "HNL",
+              "teams_and_score": "Osijek 4 - 2 Dinamo Zagreb",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Viking 3 - 1 Dinamo Zagreb",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "HNL",
+              "teams_and_score": "Dinamo Zagreb 3 - 1 NK Varazdin",
+              "result": "W"
+            },
+            {
+              "date": "18/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Dinamo Zagreb 2 - 2 Viking",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Hapoel Be’er Sheva": "2",
+          "Dinamo Zagreb": "1"
+        },
+        "shots_off_target": {
+          "Hapoel Be’er Sheva": "4",
+          "Dinamo Zagreb": "5"
+        },
+        "shots_blocked": {
+          "Hapoel Be’er Sheva": "9",
+          "Dinamo Zagreb": "1"
+        },
+        "corners": {
+          "Hapoel Be’er Sheva": "6",
+          "Dinamo Zagreb": "2"
+        },
+        "fouls": {
+          "Hapoel Be’er Sheva": "10",
+          "Dinamo Zagreb": "13"
+        },
+        "offsides": {
+          "Hapoel Be’er Sheva": "1",
+          "Dinamo Zagreb": "1"
+        },
+        "goalkeeper_saves": {
+          "Hapoel Be’er Sheva": "1",
+          "Dinamo Zagreb": "2"
+        },
+        "crosses": {
+          "Hapoel Be’er Sheva": "3",
+          "Dinamo Zagreb": "3"
+        },
+        "ball_possession": {
+          "Hapoel Be’er Sheva": "66%",
+          "Dinamo Zagreb": "34%"
+        }
+      },
+      "description": "Watch Hapoel Be’er Sheva vs Dinamo Zagreb highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on September 16, 2026. In a tense and hard-fought UEFA Europa League fixture, Hapoel Be'er Sheva and Dinamo Zagreb were unable to find a breakthrough, resulting in a goalless draw that marks the start of their European campaigns. A First Half of Missed Opportunities From the opening whistle on September 16, 2026, the match promised to be a tight affair, and the first 45 minutes did not disappoint in terms of contest, though cutting-edge efficiency was lacking from both sides. Dinamo Zagreb attempted to impose their rhythm but were met by a well-drilled Hapoel Be'er Sheva defense, which proved organized and ready for counter-attacks. There were periods of pressure and a few chances created, but the final touch and decision-making were not on the side of the forwards. The referee brought the first half to a close after a considerable amount of added time, leaving the game in the balance. Second Half: Intensity and Tactical Shifts The second period kicked off with similar intensity, as both teams looked to alter the match 's complexion. Hapoel Be'er Sheva made a series of substitutions aimed at injecting fresh legs and tactical options, with Yonas Malede coming off for Amir Ganah , and later Javon East being replaced by Mohammed Abu Rumi , while Forson Amankwah made way for Mohamad Kanaan . Dinamo Zagreb also opted for changes, with Luka Stojkovic departing for Kirill Kravtsov , and Mateo Lisica being substituted by Iker Almena . The alterations, however, were not enough to break down stubborn defenses or convert the few clear-cut opportunities into a goal . The encounter continued until the dying moments, with Matan Baltaxa and Pedro Amador being the final players to be substituted, but the scoreline remained unchanged, sealing a draw that sees both teams take a point from their opening fixture."
+    },
+    {
+      "title": "Anderlecht vs Olympique Lyonnais",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/anderlecht-olympique-lyonnais-2026-09-16-JXBz.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Sep 16, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/80.webp",
+          "name": "Lyon",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/554.webp",
+          "name": "Anderlecht",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/anderlecht-olympique-lyonnais-2026-09-16-my95am3u8-y56wz.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Lyon",
+          "player": "N. Nartey",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Lyon",
+          "player": "K. Nakamura",
+          "event_type": "Goal",
+          "assist": "M. Ouedraogo",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "31'",
+          "team": "Lyon",
+          "player": "M. Niakhaté",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Lyon",
+          "player": "M. Ouedraogo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Anderlecht",
+          "player": "M. Cvetkovic",
+          "event_type": "Goal",
+          "assist": "A. Maamar",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Anderlecht_wins": "2",
+          "draws": "0",
+          "Lyon_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "16/07/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Anderlecht 3 - 0 Lyon"
+          },
+          {
+            "date": "25/08/2009",
+            "competition": "Champions League Qualification",
+            "teams_and_score": "Anderlecht 1 - 3 Lyon"
+          },
+          {
+            "date": "25/11/2003",
+            "competition": "Champions League grp. A",
+            "teams_and_score": "Anderlecht 1 - 0 Lyon"
+          }
+        ],
+        "home_team_form": {
+          "team": "Anderlecht",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Anderlecht 1 - 2 Lyon",
+              "result": "L"
+            },
+            {
+              "date": "11/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "KV Mechelen 0 - 1 Anderlecht",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Anderlecht 3 - 0 Kairat Almaty",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "SK Beveren 1 - 0 Anderlecht",
+              "result": "L"
+            },
+            {
               "date": "13/08/2026",
               "competition": "Qualification",
-              "teams_and_score": "Rangers 1 - 1 Jagiellonia Bialystok",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Rangers 1 - 2 Hibernian",
-              "result": "L"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Jagiellonia Bialystok 2 - 1 Rangers",
-              "result": "L"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee United 1 - 1 Rangers",
-              "result": "D"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Rangers 0 - 0 West Ham United",
-              "result": "D"
+              "teams_and_score": "Anderlecht 3 - 2 PAOK FC",
+              "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "Jagiellonia",
+          "team": "Lyon",
           "form": [
+            "W",
             "D",
             "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Anderlecht 1 - 2 Lyon",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Paris FC 0 - 0 Lyon",
+              "result": "D"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Lyon 1 - 2 Fenerbahçe",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Toulouse 0 - 2 Lyon",
+              "result": "W"
+            },
+            {
+              "date": "18/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Fenerbahçe 1 - 1 Lyon",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Anderlecht": "5",
+          "Lyon": "10"
+        },
+        "shots_off_target": {
+          "Anderlecht": "5",
+          "Lyon": "1"
+        },
+        "shots_blocked": {
+          "Anderlecht": "4",
+          "Lyon": "2"
+        },
+        "corners": {
+          "Anderlecht": "6",
+          "Lyon": "4"
+        },
+        "fouls": {
+          "Anderlecht": "14",
+          "Lyon": "12"
+        },
+        "offsides": {
+          "Anderlecht": "3",
+          "Lyon": "5"
+        },
+        "yellow_cards": {
+          "Anderlecht": "0",
+          "Lyon": "2"
+        },
+        "goalkeeper_saves": {
+          "Anderlecht": "8",
+          "Lyon": "3"
+        },
+        "crosses": {
+          "Anderlecht": "6",
+          "Lyon": "4"
+        },
+        "ball_possession": {
+          "Anderlecht": "58%",
+          "Lyon": "42%"
+        }
+      },
+      "description": "Watch Anderlecht vs Lyon highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on September 16, 2026. The European stage was set for a classic encounter as Anderlecht hosted Olympique Lyonnais on September 16, 2026. Fans gathered with high expectations for this opening fixture of the UEFA Europa League campaign. Early Pressure Pays Off The match began with high intensity, and it didn't take long for the home side to find their rhythm. In the 8th minute, Noah Nartey broke the deadlock with a clinical finish that sent the stadium into a frenzy. Anderlecht continued to press, keeping Lyon on the back foot throughout the opening stages. The pressure told again in the 22nd minute when Mohamed Ouedraogo provided a brilliant assist for Keito Nakamura , who made no mistake in doubling the advantage. The first half was a physical affair, marked by yellow cards for Moussa Niakhate and Mohamed Ouedraogo as both teams fought for control of the midfield. Tactical Changes and the Final Blow Seeking a way back into the game, Lyon made a triple substitution at the start of the second half, bringing on Nicolas Tagliafico , Felix Bacher , and Marco Kana . Despite the fresh legs, Anderlecht remained composed and tactically disciplined. In the 61st minute, Ali Maamar turned creator, setting up Mihajlo Cvetkovic for a third goal that effectively ended the contest as a spectacle. A flurry of substitutions followed for both sides, including the introduction of Corentin Tolisso and Danylo Sikan for the visitors, but the Belgian defense held firm until the final whistle to secure a perfect start to their European journey."
+    },
+    {
+      "title": "Bayer Leverkusen vs Celje",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bayer-leverkusen-celje-2026-09-16-X4OJ.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Sep 16, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/4360.webp",
+          "name": "Celje",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/168.webp",
+          "name": "Bayer Leverkusen",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/bayer-leverkusen-celje-2026-09-16-3trylm3u8-iloFr.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Bayer Leverkusen",
+          "player": "S. Seslar",
+          "event_type": "Goal"
+        },
+        {
+          "time": "46'",
+          "team": "Bayer Leverkusen",
+          "player": "F. Medina",
+          "event_type": "Goal",
+          "assist": "A. García",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bayer Leverkusen_wins": "0",
+          "draws": "0",
+          "Celje_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Bayer Leverkusen",
+          "form": [
+            "W",
+            "D",
             "W",
             "W",
             "W"
           ],
           "recent_matches": [
             {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Rangers 1 - 1 Jagiellonia Bialystok",
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Bayer Leverkusen 2 - 0 NK Celje",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Bundesliga",
+              "teams_and_score": "Augsburg 2 - 2 Bayer Leverkusen",
               "result": "D"
             },
             {
-              "date": "09/08/2026",
-              "competition": "Ekstraklasa",
-              "teams_and_score": "Jagiellonia Bialystok 0 - 2 Widzew Lodz",
+              "date": "22/08/2026",
+              "competition": "DFB Cup: Round 1",
+              "teams_and_score": "Wehen Wiesbaden 0 - 4 Bayer Leverkusen",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Newcastle United 1 - 2 Bayer Leverkusen",
+              "result": "W"
+            },
+            {
+              "date": "29/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bayer Leverkusen 4 - 0 Genk",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Celje",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Bayer Leverkusen 2 - 0 NK Celje",
               "result": "L"
             },
             {
-              "date": "06/08/2026",
+              "date": "12/09/2026",
+              "competition": "Prva Liga",
+              "teams_and_score": "NK Bravo 2 - 1 NK Celje",
+              "result": "L"
+            },
+            {
+              "date": "26/08/2026",
               "competition": "Qualification",
-              "teams_and_score": "Jagiellonia Bialystok 2 - 1 Rangers",
+              "teams_and_score": "NK Celje 1 - 2 Slovan Bratislava",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Prva Liga",
+              "teams_and_score": "Nafta 1 - 3 NK Celje",
               "result": "W"
             },
             {
-              "date": "31/07/2026",
-              "competition": "Ekstraklasa",
-              "teams_and_score": "Motor Lublin 1 - 2 Jagiellonia Bialystok",
-              "result": "W"
-            },
-            {
-              "date": "17/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Nordsjaelland 1 - 2 Jagiellonia Bialystok",
+              "date": "11/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "NK Celje 2 - 0 Ararat Armenia",
               "result": "W"
             }
           ]
@@ -1980,43 +1404,43 @@
       },
       "statistics": {
         "shots_on_target": {
-          "Rangers": "3",
-          "Jagiellonia": "4"
+          "Bayer Leverkusen": "8",
+          "Celje": "3"
         },
         "shots_off_target": {
-          "Rangers": "7",
-          "Jagiellonia": "3"
+          "Bayer Leverkusen": "5",
+          "Celje": "1"
         },
         "shots_blocked": {
-          "Rangers": "3",
-          "Jagiellonia": "0"
+          "Bayer Leverkusen": "4",
+          "Celje": "1"
         },
         "corners": {
-          "Rangers": "6",
-          "Jagiellonia": "2"
+          "Bayer Leverkusen": "6",
+          "Celje": "2"
         },
         "fouls": {
-          "Rangers": "13",
-          "Jagiellonia": "18"
+          "Bayer Leverkusen": "16",
+          "Celje": "10"
         },
         "offsides": {
-          "Rangers": "0",
-          "Jagiellonia": "1"
-        },
-        "yellow_cards": {
-          "Rangers": "1",
-          "Jagiellonia": "3"
+          "Bayer Leverkusen": "2",
+          "Celje": "1"
         },
         "goalkeeper_saves": {
-          "Rangers": "3",
-          "Jagiellonia": "3"
+          "Bayer Leverkusen": "3",
+          "Celje": "7"
+        },
+        "crosses": {
+          "Bayer Leverkusen": "8",
+          "Celje": "2"
         },
         "ball_possession": {
-          "Rangers": "57%",
-          "Jagiellonia": "43%"
+          "Bayer Leverkusen": "56%",
+          "Celje": "44%"
         }
       },
-      "description": "Watch Rangers vs Jagiellonia highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 13, 2026. On August 13, 2026, the UEFA Europa League returned to the spotlight as Rangers faced off against Jagiellonia in a highly anticipated fixture. Both sets of fans filled the stadium with noise, anticipating a night of high-quality European football under the lights. Shankland Strikes Early The match ignited in the 19th minute when Rangers were awarded a penalty following sustained pressure. Lawrence Shankland stepped up to the spot and clinicaly dispatched his effort into the net, giving the home side an early lead. The remainder of the first half was a gritty affair, characterized by tactical battles in the midfield, as Jagiellonia struggled to find a way past a disciplined Scottish defense before the interval. Rising Tension and Tactical Changes The second half began with immediate intensity. Jagiellonia 's Taras Romanczuk received a yellow card just after the restart, signaling a more aggressive approach from the visitors. Rangers manager opted for a change at the break, bringing on Ross McCrorie to solidify the midfield. As the clock ticked past the hour mark, the game became increasingly physical, leading to another booking, this time for Bernardo Vital in the 63rd minute. Prelec Secures the Comeback The momentum shifted decisively in the 65th minute. Anders Klynge turned provider, delivering a perfect ball for Nik Prelec , who made no mistake in finding the target to level the score. Both managers turned to their benches to find a winner, with Cameron Devlin and Bojan Miovski joining the action for Rangers . Despite a frantic final period and seven minutes of stoppage time, neither side could find the decisive goal, resulting in a hard-fought draw that reflected the competitive nature of the contest."
+      "description": "Watch Bayer Leverkusen vs Celje highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on September 16, 2026. Tension hung in the air as both sides took to the pitch for this UEFA Europa League clash, aiming to assert their dominance in the competition. The match took place on September 16, 2026, setting the stage for a gritty tactical battle. The flow of the game Early pressure proved decisive when a stroke of misfortune struck the visitors. Just 15 minutes into the match, Svit Seslar inadvertently turned the ball into his own net, gifting Bayer Leverkusen an early lead. This goal forced the game into a rhythm where the home side looked to consolidate their lead while the opposition struggled to find an opening through a disciplined defense. As the second half progressed, fresh legs were introduced across the board to manage the physical demands of the match. The turning point arrived in the 74th minute, when Aleix Garcia provided a clinical assist for Facundo Medina. Medina made no mistake, doubling the advantage for the home team. Following the goal, both managers utilized their benches extensively to control the remaining minutes, seeing the match out until the final whistle confirmed the result."
     },
     {
       "title": "Jagiellonia vs Rangers",
@@ -3949,6 +3373,418 @@
         }
       },
       "description": "Watch Benfica vs FC St. Gallen highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 31, 2026. On the night of July 31, 2026 , the UEFA Europa League returned with a highly anticipated fixture between Portuguese giants Benfica and the Swiss visitors FC St. Gallen . Fans gathered to witness a tactical battle that promised high intensity and European drama. Early Breakthrough in Lisbon The match began with Benfica exerting immediate pressure, controlling the rhythm of the football from the opening whistle. It didn't take long for the deadlock to be broken. In the 11th minute, Rafa Silva played a pinpoint ball to Vangelis Pavlidis , who made no mistake in finding the back of the net. This early goal set the tone for the first half , as FC St. Gallen struggled to find their footing against a relentless home side. The Swiss side faced further complications when Jozo Stanic received a yellow card early on, and a tactical substitution was forced in the 33rd minute as Joel Ruiz replaced Tom Gaal . Despite these setbacks, the visitors managed to keep the deficit to a single goal heading into the interval. Turning Point and Disciplinary Woes The second half saw the momentum shift decisively. Ten minutes after the restart, Jakub Kaminski provided a brilliant assist for Vangelis Pavlidis to double the lead. Just moments later, the game reached a critical turning point when Jozo Stanic was shown a second yellow card and subsequently a red card , leaving FC St. Gallen with ten men. Exploiting the numerical advantage, Benfica continued their assault. Alexander Bah delivered a cross in the 66th minute that allowed Vangelis Pavlidis to complete a stunning hat-trick. The Greek striker wasn't finished yet; in the 74th minute, he converted a clinical penalty to score his fourth of the night, cementing his status as the standout player of the match . Clinical Finish and Late Flair With the result effectively sealed, both managers turned to their benches. Benfica introduced fresh legs including Dodi Lukebakio and Andreas Schjelderup . The substitutes made an immediate impact, with Lukebakio providing the assist for Clement Lenglet to add a fifth goal in the 81st minute. As the final whistle blew, it was a dominant display of sports excellence by the Lisbon side."
+    },
+    {
+      "title": "Hradec Králové vs Besiktas",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/hradec-kralove-vs-besiktas-2026-08-06-t4jz.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Aug 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/549.webp",
+          "name": "Besiktas",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/3723.webp",
+          "name": "Hradec Králové",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/hradec-kralove-vs-besiktas-2026-08-06_dfSki.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Hradec Králové",
+          "player": "M. V. Buren",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Hradec Králové",
+          "player": "J. Uhrincat",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Besiktas",
+          "player": "V. Černý",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Besiktas",
+          "player": "K. Ouattara",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Besiktas",
+          "player": "K. Ouattara",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "76'",
+          "team": "Besiktas",
+          "player": "S. Kılıçsoy",
+          "event_type": "Goal",
+          "assist": "W. Ndidi",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Besiktas",
+          "player": "O. Hyeon-gyu",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Hradec Králové_wins": "0",
+          "draws": "0",
+          "Besiktas_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Hradec Králové",
+          "form": [
+            "W",
+            "D",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hradec Kralove 0 - 1 Beşiktaş",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "1st League",
+              "teams_and_score": "Bohemians 1905 0 - 0 Hradec Kralove",
+              "result": "D"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hradec Kralove 3 - 1 Tromsoe",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "1st League",
+              "teams_and_score": "Hradec Kralove 2 - 1 Pardubice",
+              "result": "L"
+            },
+            {
+              "date": "23/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Tromsoe 0 - 1 Hradec Kralove",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Besiktas",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hradec Kralove 0 - 1 Beşiktaş",
+              "result": "W"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Spartak Trnava 3 - 2 Beşiktaş",
+              "result": "L"
+            },
+            {
+              "date": "15/05/2026",
+              "competition": "Süper Lig",
+              "teams_and_score": "Rizespor 2 - 2 Beşiktaş",
+              "result": "D"
+            },
+            {
+              "date": "05/05/2026",
+              "competition": "Turkiye Cup: Final Stage",
+              "teams_and_score": "Beşiktaş 0 - 1 Konyaspor",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Hradec Králové": "9",
+          "Besiktas": "5"
+        },
+        "shots_off_target": {
+          "Hradec Králové": "3",
+          "Besiktas": "11"
+        },
+        "shots_blocked": {
+          "Hradec Králové": "0",
+          "Besiktas": "6"
+        },
+        "corners": {
+          "Hradec Králové": "8",
+          "Besiktas": "5"
+        },
+        "fouls": {
+          "Hradec Králové": "10",
+          "Besiktas": "6"
+        },
+        "yellow_cards": {
+          "Hradec Králové": "2",
+          "Besiktas": "2"
+        },
+        "red_cards": {
+          "Hradec Králové": "0",
+          "Besiktas": "1"
+        },
+        "goalkeeper_saves": {
+          "Hradec Králové": "4",
+          "Besiktas": "8"
+        },
+        "crosses": {
+          "Hradec Králové": "5",
+          "Besiktas": "3"
+        },
+        "ball_possession": {
+          "Hradec Králové": "48%",
+          "Besiktas": "52%"
+        }
+      },
+      "description": "Watch Hradec Králové vs Besiktas highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 6, 2026. The UEFA Europa League clash on August 6, 2026 , between Hradec Králové and Besiktas was a masterclass in resilience and tactical adaptation. Both sides entered the fray with high ambitions, resulting in a physical encounter where discipline—or the lack of it—ultimately dictated the narrative. A Cagey Opening Period The match ignited early as the referee established a strict boundary for physical play. Mick van Buren was the first to enter the book for Hradec Králové in just the 2nd minute. The home side struggled to find their rhythm under the pressure, picking up further yellow cards through Jakub Uhrincat and Vaclav Cerny as the first half progressed. Despite the stop-start nature of the game caused by frequent fouls, neither side could find the clinical edge required to break the deadlock before the interval. Red Card Drama and the Breakthrough The complexion of the game shifted dramatically in the second half. Besiktas defender Kassoum Ouattara , having already been cautioned in the 65th minute, received a second yellow card and was sent off in the 72nd minute. Down to ten men, the Turkish giants looked to be in trouble, but tactical substitutions proved inspired. The introduction of Wilfred Ndidi and Semih Kilicsoy injected fresh energy into the side at exactly the right moment. In the 80th minute, the breakthrough arrived. Wilfred Ndidi turned provider, delivering a pinpoint assist for Semih Kilicsoy , who kept his composure to fire Besiktas into the lead. Hradec Králové pushed for an equalizer in the dying stages, introducing Daniel Trubac to bolster the attack, but the ten men of Besiktas held firm. Following five minutes of added time, the final whistle confirmed a gritty away victory for the visitors."
+    },
+    {
+      "title": "PAOK vs Anderlecht",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/paok-vs-anderlecht-2026-08-06-wKHs.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Aug 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/554.webp",
+          "name": "Anderlecht",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/619.webp",
+          "name": "PAOK",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/paok-vs-anderlecht-2026-08-06_Dq23l.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Anderlecht",
+          "player": "M. Cvetkovic",
+          "event_type": "Goal",
+          "assist": "E. Llansana",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "PAOK",
+          "player": "G. Michailidis",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "PAOK",
+          "player": "P. Hatzidiakos",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "56'",
+          "team": "Anderlecht",
+          "player": "M. N’Diaye",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "58'",
+          "team": "Anderlecht",
+          "player": "E. Llansana",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "86'",
+          "team": "PAOK",
+          "player": "A. Elustondo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Anderlecht",
+          "player": "D. Sikan",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "PAOK_wins": "1",
+          "draws": "1",
+          "Anderlecht_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "23/07/2019",
+            "competition": "Club Friendlies 2019",
+            "teams_and_score": "Anderlecht 1 - 3 PAOK FC"
+          },
+          {
+            "date": "29/06/2018",
+            "competition": "Club Friendlies",
+            "teams_and_score": "PAOK FC 2 - 2 Anderlecht"
+          }
+        ],
+        "home_team_form": {
+          "team": "PAOK",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "PAOK FC 0 - 1 Anderlecht",
+              "result": "L"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "PAOK FC 2 - 3 FC Twente",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Super League: Championship",
+              "teams_and_score": "Panathinaikos 2 - 2 PAOK FC",
+              "result": "D"
+            },
+            {
+              "date": "25/04/2026",
+              "competition": "Cup Final Stage",
+              "teams_and_score": "PAOK FC 2 - 3 OFI Crete",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Anderlecht",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "06/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "PAOK FC 0 - 1 Anderlecht",
+              "result": "W"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Anderlecht 3 - 2 NEC Nijmegen",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Belgian Pro League Playoff: Championship Group",
+              "teams_and_score": "Union St.Gilloise 5 - 1 Anderlecht",
+              "result": "L"
+            },
+            {
+              "date": "14/05/2026",
+              "competition": "Belgian Cup",
+              "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht",
+              "result": "L"
+            },
+            {
+              "date": "10/05/2026",
+              "competition": "Belgian Pro League Playoff: Championship Group",
+              "teams_and_score": "Gent 1 - 1 Anderlecht",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "PAOK": "2",
+          "Anderlecht": "2"
+        },
+        "shots_off_target": {
+          "PAOK": "9",
+          "Anderlecht": "1"
+        },
+        "shots_blocked": {
+          "PAOK": "5",
+          "Anderlecht": "1"
+        },
+        "corners": {
+          "PAOK": "5",
+          "Anderlecht": "1"
+        },
+        "fouls": {
+          "PAOK": "15",
+          "Anderlecht": "19"
+        },
+        "offsides": {
+          "PAOK": "2",
+          "Anderlecht": "3"
+        },
+        "yellow_cards": {
+          "PAOK": "2",
+          "Anderlecht": "3"
+        },
+        "goalkeeper_saves": {
+          "PAOK": "1",
+          "Anderlecht": "2"
+        },
+        "crosses": {
+          "PAOK": "7",
+          "Anderlecht": "2"
+        },
+        "ball_possession": {
+          "PAOK": "65%",
+          "Anderlecht": "35%"
+        }
+      },
+      "description": "Watch PAOK vs Anderlecht highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 6, 2026. The atmosphere in the UEFA Europa League was thick with anticipation as both teams took to the pitch. Held on August 6, 2026 , this fixture promised an intense tactical battle between two sides eager to assert their dominance in the competition. An Electric Start The match exploded into life within the first minute as PAOK took the lead. Mihajlo Cvetkovic found the back of the net, capitalizing on a clinical assist from Enric Llansana . This early blow left Anderlecht reeling, forcing the visitors to scramble and adjust their defensive setup against the sustained pressure of the home side. Tension and Missed Chances Despite their early success, PAOK could not capitalize on their momentum to put the game to bed. In the 35th minute, Giannis Michailidis stepped up for a penalty, but he failed to convert the opportunity. This miss gave Anderlecht a lifeline, and the game quickly grew more aggressive. Before the half-time whistle, Pantelis Hatzidiakos was cautioned as the referee began to pull out cards to keep control of the rising intensity. Tactical Shifts and Late Discipline The second half saw a flurry of substitutions as both managers looked for fresh legs, with Aritz Elustondo replacing Hatzidiakos , and players like Dimitrios Pelkas entering the fray. As the clock ticked down, the discipline of the match deteriorated, with Moussa N'Diaye , Enric Llansana , Aritz Elustondo , and Danylo Sikan all picking up yellow cards. Despite the late drama and physical challenges, the referee brought the match to a close after five minutes of added time."
     },
     {
       "title": "FC Iberia 1999 vs Larne",
@@ -6669,6 +6505,930 @@
         }
       },
       "description": "Watch Gornik Zabrze vs Ferencváros highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 13, 2026. The stage was set for a compelling UEFA Europa League encounter on August 13, 2026, as Gornik Zabrze hosted Ferencváros in a clash of tactical discipline. Both sides entered the pitch with high ambitions, looking to establish momentum in a match that promised to be decided by the narrowest of margins. Urbanski Strikes from the Spot The opening stages of the game were characterized by a fierce physical battle, particularly in the midfield. Ferencváros struggled to keep their composure under pressure, leading to an early yellow card for Attila Osvath in the 26th minute. As the first half drew to a close, the intensity spiked. A foul by Philippe Rommens in the 44th minute earned him a booking and, more importantly, handed the hosts a golden opportunity. Kacper Urbanski stepped up to the penalty spot in the 45th minute and coolly converted, sending the home crowd into raptures and giving Gornik Zabrze a vital lead at the break. Defensive Calamity Seals the Result The second half saw Ferencváros attempt to claw their way back into the contest with a series of tactical changes. The introduction of Naby Keita and Adam Nagy around the hour mark was intended to spark creativity, but the Gornik Zabrze backline remained resilient. The match reached its turning point in the 82nd minute when a moment of misfortune struck the visitors. Michal Sacek inadvertently directed the ball into his own net, gifting Gornik Zabrze a two-goal cushion that felt insurmountable given the flow of the game. In the closing stages, both managers utilized their benches to manage the final minutes. Gornik Zabrze brought on fresh legs in Ondrej Zmrzly and Yvan Ikia Dimi to see out the result, while Ferencváros made late attacking throws with Kenan Kodro and Nathan Zohore . After five minutes of added time, the referee blew the final whistle, confirming a professional and clinical victory for the Polish side on their home turf."
+    },
+    {
+      "title": "Larne vs FC Iberia 1999",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/larne-vs-fc-iberia-1999-2026-08-04-4dya.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Aug 4, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/larne-vs-fc-iberia-1999-2026-08-04_gwBjY.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch Larne vs FC Iberia 1999 highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 4, 2026."
+    },
+    {
+      "title": "Lincoln Red Imps FC vs Omonia Nicosia",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/lincoln-red-imps-fc-vs-omonia-nicosia-2026-08-06-g20C.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Aug 6, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/lincoln-red-imps-fc-vs-omonia-nicosia-2026-08-06_xF6Ny.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch Lincoln Red Imps FC vs Omonia Nicosia highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 6, 2026."
+    },
+    {
+      "title": "Pafos vs HNK Hajduk Split",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/pafos-vs-hnk-hajduk-split-2026-07-30-yfCx.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Jul 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/608.webp",
+          "name": "HNK Hajduk Split",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/3403.webp",
+          "name": "Pafos",
+          "score": "4"
+        },
+        "status": "AET"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/pafos-vs-hnk-hajduk-split-2026-07-30_ujnX9.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "12'",
+          "team": "Pafos",
+          "player": "D. Goldar",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "40'",
+          "team": "Pafos",
+          "player": "Guga",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "45+5'",
+          "team": "Pafos",
+          "player": "Guga",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "51'",
+          "team": "HNK Hajduk Split",
+          "player": "A. Pajaziti",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "68'",
+          "team": "Pafos",
+          "player": "I. Sunjic",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Pafos",
+          "player": "D. Goldar",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "91'",
+          "team": "Pafos",
+          "player": "G. Biel",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "106'",
+          "team": "HNK Hajduk Split",
+          "player": "R. Pukstas",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Pafos",
+          "player": "J. Correia",
+          "event_type": "Goal",
+          "assist": "Pepe",
+          "score_update": "4 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Pafos_wins": "0",
+          "draws": "0",
+          "HNK Hajduk Split_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "23/07/2026",
+            "competition": "Qualification",
+            "teams_and_score": "Hajduk Split 2 - 0 Pafos FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Pafos",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Pafos FC 4 - 0 Hajduk Split",
+              "result": "W"
+            },
+            {
+              "date": "29/05/2026",
+              "competition": "Cypriot Cup",
+              "teams_and_score": "Apollon Limassol 0 - 2 Pafos FC",
+              "result": "W"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "1st Division: Championship",
+              "teams_and_score": "Pafos FC 2 - 0 APOEL Nicosia",
+              "result": "W"
+            },
+            {
+              "date": "22/04/2026",
+              "competition": "Cypriot Cup",
+              "teams_and_score": "Pafos FC 3 - 1 AEL Limassol",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "HNK Hajduk Split",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Pafos FC 4 - 0 Hajduk Split",
+              "result": "L"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "HNL",
+              "teams_and_score": "Hajduk Split 6 - 3 Vukovar 91",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Pafos": "9",
+          "HNK Hajduk Split": "2"
+        },
+        "shots_off_target": {
+          "Pafos": "17",
+          "HNK Hajduk Split": "6"
+        },
+        "shots_blocked": {
+          "Pafos": "2",
+          "HNK Hajduk Split": "1"
+        },
+        "corners": {
+          "Pafos": "9",
+          "HNK Hajduk Split": "2"
+        },
+        "fouls": {
+          "Pafos": "16",
+          "HNK Hajduk Split": "14"
+        },
+        "offsides": {
+          "Pafos": "2",
+          "HNK Hajduk Split": "3"
+        },
+        "yellow_cards": {
+          "Pafos": "3",
+          "HNK Hajduk Split": "2"
+        },
+        "goalkeeper_saves": {
+          "Pafos": "2",
+          "HNK Hajduk Split": "7"
+        },
+        "ball_possession": {
+          "Pafos": "57%",
+          "HNK Hajduk Split": "43%"
+        }
+      },
+      "description": "Watch Pafos vs HNK Hajduk Split highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 30, 2026. A high-stakes UEFA Europa League clash unfolded as Pafos hosted HNK Hajduk Split in a match defined by tactical patience and explosive late-game action. First Half Breakthrough On July 30, 2026 , the atmosphere was electric as the referee kicked off this continental encounter. The early stages were characterized by a physical approach from both sides, with David Goldar picking up an early booking for Pafos . The deadlock was finally broken in the 40th minute when Guga found the back of the net, giving the home side a crucial lead. However, the emotional intensity of the game was clear just before the break, as Guga himself received a yellow card during a frantic period of stoppage time. Late Drama Forces Extension The second half saw both managers turn to their benches to influence the flow of the game. Hajduk Split introduced Marko Livaja to bolster their attack, while Pafos brought on fresh legs including Joao Correia and Pepe . As the clock ticked toward the final whistle, the pressure intensified. In the 92nd minute, David Goldar rose to the occasion, scoring a vital goal to make it 2-0 and ensuring the match would continue into extra time as the aggregate tension peaked. Extra Time Dominance Once the match moved into the additional periods, Pafos seized complete control. Almost immediately after the restart, Biel clinical finishing made it 3-0 in the 93rd minute, leaving the visitors struggling to find a response. The clinical performance was capped off in the 117th minute when Pepe provided a perfect assist for Joao Correia , who made no mistake in slotting home the fourth. It was a statement victory for Pafos , who showed remarkable stamina to secure the result in front of their home supporters."
+    },
+    {
+      "title": "Hammarby FF vs Anderlecht",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/hammarby-ff-vs-anderlecht-2026-07-24-w6GL.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Jul 24, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/554.webp",
+          "name": "Anderlecht",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/363.webp",
+          "name": "Hammarby FF",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/hammarby-ff-vs-anderlecht-2026-07-24_qp8a3.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Anderlecht",
+          "player": "D. Sikan",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Anderlecht",
+          "player": "N. Saliba",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Anderlecht",
+          "player": "L. Augustinsson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Hammarby FF",
+          "player": "F. Winther",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Hammarby FF",
+          "player": "V. Eriksson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Anderlecht",
+          "player": "N. Saliba",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "76'",
+          "team": "Hammarby FF",
+          "player": "F. J. Adjei",
+          "event_type": "Goal",
+          "assist": "P. Abraham",
+          "score_update": "1 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Hammarby FF_wins": "0",
+          "draws": "0",
+          "Anderlecht_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Hammarby FF",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hammarby IF 1 - 1 Anderlecht",
+              "result": "D"
+            },
+            {
+              "date": "19/07/2026",
+              "competition": "Allsvenskan",
+              "teams_and_score": "Hammarby IF 4 - 0 Degerfors",
+              "result": "L"
+            },
+            {
+              "date": "24/06/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "BK Haecken 1 - 4 Hammarby IF",
+              "result": "W"
+            },
+            {
+              "date": "31/05/2026",
+              "competition": "Allsvenskan",
+              "teams_and_score": "BK Haecken 3 - 2 Hammarby IF",
+              "result": "L"
+            },
+            {
+              "date": "14/05/2026",
+              "competition": "Svenska Cupen: Knockout Stage",
+              "teams_and_score": "Mjaellby 2 - 1 Hammarby IF",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Anderlecht",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hammarby IF 1 - 1 Anderlecht",
+              "result": "D"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Anderlecht 3 - 2 NEC Nijmegen",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Belgian Pro League Playoff: Championship Group",
+              "teams_and_score": "Union St.Gilloise 5 - 1 Anderlecht",
+              "result": "L"
+            },
+            {
+              "date": "14/05/2026",
+              "competition": "Belgian Cup",
+              "teams_and_score": "Union St.Gilloise 3 - 1 Anderlecht",
+              "result": "L"
+            },
+            {
+              "date": "10/05/2026",
+              "competition": "Belgian Pro League Playoff: Championship Group",
+              "teams_and_score": "Gent 1 - 1 Anderlecht",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Hammarby FF": "6",
+          "Anderlecht": "4"
+        },
+        "shots_off_target": {
+          "Hammarby FF": "6",
+          "Anderlecht": "2"
+        },
+        "corners": {
+          "Hammarby FF": "5",
+          "Anderlecht": "2"
+        },
+        "fouls": {
+          "Hammarby FF": "15",
+          "Anderlecht": "15"
+        },
+        "offsides": {
+          "Hammarby FF": "2",
+          "Anderlecht": "4"
+        },
+        "yellow_cards": {
+          "Hammarby FF": "2",
+          "Anderlecht": "3"
+        },
+        "red_cards": {
+          "Hammarby FF": "0",
+          "Anderlecht": "1"
+        },
+        "goalkeeper_saves": {
+          "Hammarby FF": "3",
+          "Anderlecht": "5"
+        },
+        "ball_possession": {
+          "Hammarby FF": "56%",
+          "Anderlecht": "44%"
+        }
+      },
+      "description": "Watch Hammarby FF vs Anderlecht highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 24, 2026. The stage was set for a high-stakes UEFA Europa League encounter on 2026-07-24 as Hammarby FF played host to Anderlecht . Both sides entered the pitch looking to establish dominance in a match that promised tactical intrigue and physical intensity from the very first whistle. Early Breakthrough and Tactical Friction Anderlecht wasted no time in making their mark on the contest, stunned the home crowd just 6 minutes into the match. Danylo Sikan showcased clinical finishing to put the visitors ahead, setting a challenging tone for Hammarby . As the first half progressed, the match became a bruising affair characterized by a flurry of cautions. Nathan Saliba and Ludwig Augustinsson were both booked for the Belgian side, while Frederik Winther received a yellow card for the hosts. Despite the pressure, the visitors managed to carry their slim lead into the halftime break. Discipline and Defensive Shifts The second half resumed with equal intensity as Victor Eriksson was cautioned almost immediately after the restart. Both managers turned to their benches to influence the flow, with Hammarby introducing Mihajlo Cvetkovic and Lukas Ambros to spark an offensive reaction. The game reached a critical turning point in the 78th minute when Nathan Saliba was shown a second yellow card. His dismissal left Anderlecht to navigate the final stages with only ten men, providing Hammarby with a lifeline in their pursuit of an equalizer. Late Heroics from the Bench With the numerical advantage, the home side ramped up the pressure, leading to a frantic finale. The breakthrough finally arrived in the 89th minute, courtesy of a tactical masterstroke. Frank Junior Adjei , who had only been on the pitch for three minutes after replacing Victor Lind , found the net following a brilliant assist from Paulos Abraham . The goal sent the stadium into raptures, securing a hard-fought draw for Hammarby after a resilient performance from both teams. The referee blew the final whistle at 90+4', ending a night of pure European drama."
+    },
+    {
+      "title": "HNK Hajduk Split vs Pafos",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/hnk-hajduk-split-vs-pafos-2026-07-24-eg77.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Jul 24, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/3403.webp",
+          "name": "Pafos",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/608.webp",
+          "name": "HNK Hajduk Split",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/hnk-hajduk-split-vs-pafos-2026-07-24_q6ekk.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "HNK Hajduk Split",
+          "player": "A. Pajaziti",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Pafos",
+          "player": "N. Ioannou",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "HNK Hajduk Split",
+          "player": "M. Sego",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "76'",
+          "team": "Pafos",
+          "player": "A. Brito",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "HNK Hajduk Split",
+          "player": "D. Melnjak",
+          "event_type": "Goal",
+          "assist": "M. Acapandie",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "106'",
+          "team": "HNK Hajduk Split",
+          "player": "A. Guram",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "HNK Hajduk Split",
+          "player": "A. d. Moral",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "HNK Hajduk Split_wins": "0",
+          "draws": "0",
+          "Pafos_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "HNK Hajduk Split",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hajduk Split 2 - 0 Pafos FC",
+              "result": "L"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "HNL",
+              "teams_and_score": "Hajduk Split 6 - 3 Vukovar 91",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Pafos",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "23/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hajduk Split 2 - 0 Pafos FC",
+              "result": "L"
+            },
+            {
+              "date": "29/05/2026",
+              "competition": "Cypriot Cup",
+              "teams_and_score": "Apollon Limassol 0 - 2 Pafos FC",
+              "result": "W"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "1st Division: Championship",
+              "teams_and_score": "Pafos FC 2 - 0 APOEL Nicosia",
+              "result": "W"
+            },
+            {
+              "date": "22/04/2026",
+              "competition": "Cypriot Cup",
+              "teams_and_score": "Pafos FC 3 - 1 AEL Limassol",
+              "result": "W"
+            },
+            {
+              "date": "18/04/2026",
+              "competition": "1st Division: Championship",
+              "teams_and_score": "Pafos FC 1 - 1 AEK Larnaca",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "HNK Hajduk Split": "3",
+          "Pafos": "4"
+        },
+        "shots_off_target": {
+          "HNK Hajduk Split": "5",
+          "Pafos": "6"
+        },
+        "shots_blocked": {
+          "HNK Hajduk Split": "2",
+          "Pafos": "3"
+        },
+        "corners": {
+          "HNK Hajduk Split": "8",
+          "Pafos": "7"
+        },
+        "fouls": {
+          "HNK Hajduk Split": "21",
+          "Pafos": "10"
+        },
+        "offsides": {
+          "HNK Hajduk Split": "0",
+          "Pafos": "3"
+        },
+        "yellow_cards": {
+          "HNK Hajduk Split": "3",
+          "Pafos": "2"
+        },
+        "goalkeeper_saves": {
+          "HNK Hajduk Split": "2",
+          "Pafos": "0"
+        },
+        "ball_possession": {
+          "HNK Hajduk Split": "44%",
+          "Pafos": "56%"
+        }
+      },
+      "description": "Watch HNK Hajduk Split vs Pafos highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on July 24, 2026. The atmosphere was charged with anticipation as HNK Hajduk Split hosted Pafos in a crucial UEFA Europa League fixture on 2026-07-24 . Both sides took to the pitch looking to establish dominance in a match that promised high tactical stakes. A Cagey Opening Exchange The contest began with a physical edge, signaled early on when Adrion Pajaziti was shown a yellow card in just the 4th minute. Throughout the first half, the game remained a strategic stalemate, with both defenses holding firm against occasional forays into the final third. Pafos managed to neutralize the hosts' creative sparks, leading to a goalless first 45 minutes. The referee blew for halftime after a brief period of stoppage time, leaving everything to be decided in the second period. The Breakthrough and Double Blow The second half saw a significant shift in momentum as HNK Hajduk Split increased their offensive tempo. Shortly after Nikolas Ioannou received a booking in the 55th minute, the deadlock was finally broken. Michele Sego found the back of the net in the 56th minute, sending the home crowd into raptures. The visitors attempted to stabilize with a double substitution, bringing on Alexandre Brito and Bruno Felipe , but the momentum remained firmly with the Croatian side. Sealing the Result The decisive moment arrived in the 64th minute when Mathieu Acapandie provided a brilliant assist for Dario Melnjak , who finished clinically to double the lead. Facing a two-goal deficit, Pafos struggled to find a way back into the game despite several tactical changes, including the introduction of Quina . The closing stages were marked by further bookings for the visitors, as Adam Guram and Alberto del Moral were cautioned late on. Hajduk Split managed the final minutes professionally, securing the win as the final whistle sounded after five minutes of added time."
+    },
+    {
+      "title": "Anderlecht vs PAOK",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/anderlecht-vs-paok-2026-08-13-2Khg.webp",
+      "competition": "UEFA Europa League",
+      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
+      "date": "Aug 13, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/619.webp",
+          "name": "PAOK",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/554.webp",
+          "name": "Anderlecht",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/anderlecht-vs-paok-2026-08-13_r63KM.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Anderlecht",
+          "player": "L. Petrot",
+          "event_type": "Goal",
+          "assist": "G. Biancone",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "PAOK",
+          "player": "A. Živković",
+          "event_type": "Goal",
+          "assist": "C. Zafeiris",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "PAOK",
+          "player": "R. Baba",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "47'",
+          "team": "Anderlecht",
+          "player": "L. Ambros",
+          "event_type": "Goal",
+          "assist": "G. Biancone",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "55'",
+          "team": "Anderlecht",
+          "player": "D. Sikan",
+          "event_type": "Goal",
+          "assist": "M. Cvetkovic",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "80'",
+          "team": "Anderlecht",
+          "player": "L. Ambros",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "82'",
+          "team": "PAOK",
+          "player": "C. Zafeiris",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "88'",
+          "team": "PAOK",
+          "player": "A. Jeremejeff",
+          "event_type": "Goal",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "89'",
+          "team": "Anderlecht",
+          "player": "G. Biancone",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "89'",
+          "team": "PAOK",
+          "player": "A. Živković",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "PAOK",
+          "player": "A. Jeremejeff",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Anderlecht",
+          "player": "N. Saliba",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Anderlecht_wins": "1",
+          "draws": "1",
+          "PAOK_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "06/08/2026",
+            "competition": "Qualification",
+            "teams_and_score": "PAOK FC 0 - 1 Anderlecht"
+          },
+          {
+            "date": "23/07/2019",
+            "competition": "Club Friendlies 2019",
+            "teams_and_score": "Anderlecht 1 - 3 PAOK FC"
+          },
+          {
+            "date": "29/06/2018",
+            "competition": "Club Friendlies",
+            "teams_and_score": "PAOK FC 2 - 2 Anderlecht"
+          }
+        ],
+        "home_team_form": {
+          "team": "Anderlecht",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Anderlecht 3 - 2 PAOK FC",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Anderlecht 2 - 1 Raal La Louviere",
+              "result": "W"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "PAOK FC 0 - 1 Anderlecht",
+              "result": "W"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Anderlecht 3 - 2 NEC Nijmegen",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Belgian Pro League Playoff: Championship Group",
+              "teams_and_score": "Union St.Gilloise 5 - 1 Anderlecht",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "PAOK",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Anderlecht 3 - 2 PAOK FC",
+              "result": "L"
+            },
+            {
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "PAOK FC 2 - 3 FC Twente",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Super League: Championship",
+              "teams_and_score": "Panathinaikos 2 - 2 PAOK FC",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Anderlecht": "9",
+          "PAOK": "4"
+        },
+        "shots_off_target": {
+          "Anderlecht": "6",
+          "PAOK": "6"
+        },
+        "shots_blocked": {
+          "Anderlecht": "0",
+          "PAOK": "3"
+        },
+        "corners": {
+          "Anderlecht": "2",
+          "PAOK": "8"
+        },
+        "fouls": {
+          "Anderlecht": "12",
+          "PAOK": "8"
+        },
+        "offsides": {
+          "Anderlecht": "2",
+          "PAOK": "3"
+        },
+        "yellow_cards": {
+          "Anderlecht": "3",
+          "PAOK": "2"
+        },
+        "red_cards": {
+          "Anderlecht": "0",
+          "PAOK": "2"
+        },
+        "goalkeeper_saves": {
+          "Anderlecht": "2",
+          "PAOK": "6"
+        },
+        "crosses": {
+          "Anderlecht": "4",
+          "PAOK": "9"
+        },
+        "ball_possession": {
+          "Anderlecht": "45%",
+          "PAOK": "55%"
+        }
+      },
+      "description": "Watch Anderlecht vs PAOK highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 13, 2026. On August 13, 2026 , the UEFA Europa League delivered a captivating spectacle as Anderlecht hosted PAOK in a clash filled with tactical shifts. Both sides pushed for dominance in a game that remained unpredictable until the final whistle. First Half Deadlock Broken The match began with high intensity as both teams looked to establish early rhythm. Anderlecht broke the deadlock in the 19th minute when Leo Petrot found the back of the net, thanks to a well-placed assist from Giulian Biancone . However, the lead was short-lived. PAOK responded with determination, and in the 34th minute, Andrija Zivkovic finished clinically to level the score after a precise pass from Christos Zafeiris . The teams went into the break with everything to play for. Anderlecht's Second Half Surge The home side came out of the tunnel with renewed energy, taking control of the match immediately. Just two minutes into the second half, in the 47th minute, Lukas Ambros restored Anderlecht 's lead, with Giulian Biancone providing his second assist of the night. The pressure didn't stop there. In the 55th minute, Danylo Sikan capitalized on a ball from Mihajlo Cvetkovic to make it 3-1, putting the Belgian side in a commanding position. Late Penalty and Red Card Chaos As the clock ticked down, the atmosphere grew increasingly tense. PAOK were thrown a lifeline in the 88th minute when they were awarded a penalty, which Alexander Jeremejeff converted with composure. However, the comeback attempt quickly unraveled. Andrija Zivkovic was shown a straight red card in the 89th minute, followed by Alexander Jeremejeff receiving his marching orders in the 93rd minute amidst heavy protests. Despite a late yellow card for Nathan Saliba , Anderlecht secured the 3-2 victory in a frantic finish."
     }
-  ]
+  ],
+  "hasMore": true,
+  "currentCount": 50,
+  "totalCount": 54,
+  "currentPage": 1,
+  "lastPage": 2
 }

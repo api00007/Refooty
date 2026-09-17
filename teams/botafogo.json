@@ -1,9 +1,252 @@
 {
   "team": "Botafogo",
   "team_logo": "https://img.refooty.com/logo/teams/120.webp",
-  "total_matches": 7,
-  "Last update time": "05:30:35 AM 17-09-2026",
+  "total_matches": 8,
+  "Last update time": "04:40:28 AM 18-09-2026",
   "matches": [
+    {
+      "title": "Botafogo - Gremio",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-gremio-2026-09-17-sWOP.webp",
+      "competition": "Brasileirão",
+      "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+      "date": "Sep 17, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/130.webp",
+          "name": "Gremio",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/120.webp",
+          "name": "Botafogo",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/botafogo-gremio-2026-09-17.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Botafogo",
+          "player": "D. Oliveira",
+          "event_type": "Goal",
+          "assist": "A. Montoro",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Gremio",
+          "player": "J. Cabral",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "52'",
+          "team": "Botafogo",
+          "player": "A. Montoro",
+          "event_type": "Goal",
+          "assist": "Vitinho",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "78'",
+          "team": "Gremio",
+          "player": "M. Villasanti",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "79'",
+          "team": "Botafogo",
+          "player": "D. Oliveira",
+          "event_type": "Goal",
+          "assist": "A. Montoro",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "88'",
+          "team": "Gremio",
+          "player": "G. Martins",
+          "event_type": "Goal",
+          "assist": "Tete",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "90+1'",
+          "team": "Gremio",
+          "player": "G. Martins",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Botafogo",
+          "player": "D. Oliveira",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Botafogo_wins": "1",
+          "draws": "1",
+          "Gremio_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "05/02/2026",
+            "competition": "Serie A",
+            "teams_and_score": "Gremio 5 - 3 Botafogo FR"
+          },
+          {
+            "date": "22/11/2025",
+            "competition": "Serie A",
+            "teams_and_score": "Botafogo FR 3 - 2 Gremio"
+          },
+          {
+            "date": "29/09/2024",
+            "competition": "Serie A",
+            "teams_and_score": "Botafogo FR 0 - 0 Gremio"
+          },
+          {
+            "date": "09/11/2023",
+            "competition": "Serie A 2023",
+            "teams_and_score": "Botafogo FR 3 - 4 Gremio"
+          },
+          {
+            "date": "08/02/2021",
+            "competition": "Serie A 2020",
+            "teams_and_score": "Botafogo FR 2 - 5 Gremio"
+          },
+          {
+            "date": "27/10/2019",
+            "competition": "Serie A",
+            "teams_and_score": "Gremio 3 - 0 Botafogo FR"
+          }
+        ],
+        "home_team_form": {
+          "team": "Botafogo",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Botafogo FR 3 - 2 Gremio",
+              "result": "W"
+            },
+            {
+              "date": "21/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "Botafogo FR 1 - 0 Cienciano",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Vitoria 1 - 0 Botafogo FR",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Round of 16",
+              "teams_and_score": "Cienciano 6 - 1 Botafogo FR",
+              "result": "L"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Botafogo FR 1 - 1 Fluminense",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Gremio",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "16/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Botafogo FR 3 - 2 Gremio",
+              "result": "L"
+            },
+            {
+              "date": "03/09/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Gremio 3 - 1 Internacional",
+              "result": "W"
+            },
+            {
+              "date": "30/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Gremio 3 - 1 Chapecoense AF",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Internacional 0 - 0 Gremio",
+              "result": "D"
+            },
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "RB Bragantino 1 - 0 Gremio",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Botafogo": "7",
+          "Gremio": "3"
+        },
+        "shots_off_target": {
+          "Botafogo": "3",
+          "Gremio": "10"
+        },
+        "corners": {
+          "Botafogo": "3",
+          "Gremio": "3"
+        },
+        "fouls": {
+          "Botafogo": "13",
+          "Gremio": "11"
+        },
+        "offsides": {
+          "Botafogo": "0",
+          "Gremio": "2"
+        },
+        "yellow_cards": {
+          "Botafogo": "1",
+          "Gremio": "1"
+        },
+        "goalkeeper_saves": {
+          "Botafogo": "1",
+          "Gremio": "4"
+        },
+        "ball_possession": {
+          "Botafogo": "36%",
+          "Gremio": "64%"
+        }
+      },
+      "description": "Watch Botafogo vs Gremio highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on September 17, 2026. On September 17, 2026 , Botafogo and Gremio faced off in a highly anticipated Serie A clash in Brazil. Both teams displayed tactical discipline and attacking intent from the start, setting the stage for a match filled with momentum shifts and high-octane football. A Lively Opening Exchange The deadlock was broken in the 30th minute when Alvaro Montoro turned provider, setting up Danilo for a clinical finish to give Botafogo the lead. The home side's celebrations were short-lived, however, as Gremio fought back almost immediately. In the 36th minute, Jovane Cabral found the back of the net to restore parity. The first half concluded with both sides level, having traded blows in a balanced and entertaining opening 45 minutes. Montoro Takes Center Stage The second half saw Botafogo ramp up the pressure. In the 52nd minute, Vitinho delivered a cross that found Alvaro Montoro , who slotted home to restore the advantage. Montoro continued to haunt the Gremio defense, and in the 79th minute, he recorded his second assist of the match, once again finding Danilo to extend the cushion. Despite multiple tactical changes from both benches, including the introduction of Martin Braithwaite for the visitors, the momentum remained firmly with the hosts. Late Drama and Narrow Margins The final minutes were anything but quiet. Gremio managed to pull one back in the 88th minute through Gustavo Martins , following an assist from Tete , setting up a grandstand finish. Tension boiled over in stoppage time as Danilo picked up a yellow card, and the referee added ten minutes of extra time. Despite the late surge from the visitors, Botafogo held firm to secure the victory in a five-goal thriller that kept fans on the edge of their seats until the final whistle."
+    },
     {
       "title": "Botafogo - Red Bull Bragantino",
       "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-red-bull-bragantino-2026-09-13-VyN8.webp",
@@ -252,262 +495,6 @@
         }
       },
       "description": "Watch Botafogo vs RB Bragantino highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The clash between Botafogo and Red Bull Bragantino served as a pivotal fixture in the Brazilian Serie A , taking place on September 13, 2026. Both sides arrived at the stadium with high ambitions, setting the stage for an encounter defined by physical intensity and tactical discipline. The flow of the match The opening half saw a cagey affair that shifted dramatically at the half-hour mark. Lucas Monzon inadvertently put the ball into his own net, handing a crucial lead to Botafogo . As the interval approached, the situation worsened for Red Bull Bragantino when Wallace Yan was shown a red card in the 44th minute, forcing his team to navigate the remainder of the contest with ten men. Second half dominance Coming out for the second half, Botafogo capitalized on their numerical advantage to exert control. In the 56th minute, Vitinho converted a clinical finish assisted by Alex Telles , effectively putting the match out of reach. The intensity remained high until the end, with the referee issuing yellow cards to Lucas Monzon , Nahuel Ferraresi , Kadir Barria , Tiago Volpi , and Juninho Capixaba during a heated second period. Despite various tactical substitutions, the result remained firm, as the referee signaled the end of proceedings in the 98th minute."
-    },
-    {
-      "title": "Botafogo - Fluminense",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-fluminense-2026-08-09-pDqP.webp",
-      "competition": "Brasileirão",
-      "competition_cover": "https://refooty.com/covers/brasileirao.webp",
-      "date": "Aug 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/124.webp",
-          "name": "Fluminense",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/120.webp",
-          "name": "Botafogo",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/botafogo-fluminense-2026-08-09_eFDFt.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Botafogo",
-          "player": "A. Telles",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "54'",
-          "team": "Fluminense",
-          "player": "Ignacio",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "58'",
-          "team": "Fluminense",
-          "player": "Ignacio",
-          "event_type": "Goal",
-          "assist": "K. Serna",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "68'",
-          "team": "Botafogo",
-          "player": "N. Ferraresi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Fluminense",
-          "player": "Nonato",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "77'",
-          "team": "Fluminense",
-          "player": "S. Xavier",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "Botafogo",
-          "player": "G. P. Justino",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+4'",
-          "team": "Botafogo",
-          "player": "F. Marcal",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Botafogo",
-          "player": "F. Marcal",
-          "event_type": "Red Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Botafogo_wins": "4",
-          "draws": "0",
-          "Fluminense_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "12/02/2026",
-            "competition": "Serie A",
-            "teams_and_score": "Fluminense 1 - 0 Botafogo FR"
-          },
-          {
-            "date": "01/02/2026",
-            "competition": "Carioca Taca Guanabara",
-            "teams_and_score": "Botafogo FR 0 - 1 Fluminense"
-          },
-          {
-            "date": "28/09/2025",
-            "competition": "Serie A",
-            "teams_and_score": "Fluminense 2 - 0 Botafogo FR"
-          },
-          {
-            "date": "30/01/2025",
-            "competition": "Carioca Taca Guanabara",
-            "teams_and_score": "Botafogo FR 2 - 1 Fluminense"
-          },
-          {
-            "date": "21/09/2024",
-            "competition": "Serie A",
-            "teams_and_score": "Fluminense 0 - 1 Botafogo FR"
-          },
-          {
-            "date": "03/03/2024",
-            "competition": "Carioca Taca Guanabara",
-            "teams_and_score": "Fluminense 2 - 4 Botafogo FR"
-          },
-          {
-            "date": "08/10/2023",
-            "competition": "Serie A 2023",
-            "teams_and_score": "Fluminense 0 - 2 Botafogo FR"
-          }
-        ],
-        "home_team_form": {
-          "team": "Botafogo",
-          "form": [
-            "D",
-            "W",
-            "D",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Botafogo FR 1 - 1 Fluminense",
-              "result": "D"
-            },
-            {
-              "date": "27/05/2026",
-              "competition": "Group E",
-              "teams_and_score": "Caracas 1 - 3 Botafogo FR",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR",
-              "result": "D"
-            },
-            {
-              "date": "21/05/2026",
-              "competition": "Group E",
-              "teams_and_score": "Independiente Petrolero 0 - 3 Botafogo FR",
-              "result": "W"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Botafogo FR 3 - 1 Corinthians",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Fluminense",
-          "form": [
-            "D",
-            "L",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Botafogo FR 1 - 1 Fluminense",
-              "result": "D"
-            },
-            {
-              "date": "06/08/2026",
-              "competition": "Copa do Brasil",
-              "teams_and_score": "Fluminense 1 - 3 Vasco da Gama",
-              "result": "L"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Fluminense 0 - 0 Bahia",
-              "result": "D"
-            },
-            {
-              "date": "28/05/2026",
-              "competition": "Group C",
-              "teams_and_score": "Fluminense 3 - 1 Deportivo La Guaira",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Mirassol 1 - 0 Fluminense",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Botafogo": "7",
-          "Fluminense": "4"
-        },
-        "shots_off_target": {
-          "Botafogo": "7",
-          "Fluminense": "5"
-        },
-        "shots_blocked": {
-          "Botafogo": "6",
-          "Fluminense": "5"
-        },
-        "corners": {
-          "Botafogo": "7",
-          "Fluminense": "7"
-        },
-        "fouls": {
-          "Botafogo": "16",
-          "Fluminense": "19"
-        },
-        "offsides": {
-          "Botafogo": "0",
-          "Fluminense": "1"
-        },
-        "yellow_cards": {
-          "Botafogo": "3",
-          "Fluminense": "3"
-        },
-        "red_cards": {
-          "Botafogo": "1",
-          "Fluminense": "0"
-        },
-        "goalkeeper_saves": {
-          "Botafogo": "3",
-          "Fluminense": "6"
-        },
-        "ball_possession": {
-          "Botafogo": "41%",
-          "Fluminense": "59%"
-        }
-      },
-      "description": "Watch Botafogo vs Fluminense highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The clash between Botafogo and Fluminense in Brazil's Serie A on August 9, 2026 , promised high-octane football and tactical intrigue. Both sides entered the arena with a point to prove, setting the stage for a match defined by momentum shifts and defensive resilience. Telles Breaks the Deadlock The first half was a cagey affair as both teams struggled to find a decisive opening in the final third. However, the atmosphere shifted just before the break. In the 44th minute, Alex Telles displayed clinical instinct to find the back of the net, giving Botafogo a vital lead. The goal sent the home crowd into a frenzy and forced the visitors to rethink their strategy during the interval after a half that had been largely balanced. Fluminense's Response and Mid-Half Drama Fluminense returned for the second half with renewed energy. The drama intensified in the 54th minute when Ignacio received a yellow card, but he quickly turned from villain to hero. Only four minutes later, in the 58th minute, Ignacio capitalized on a brilliant assist from Kevin Serna to level the score. The equalizer sparked a physical period of play, resulting in a flurry of bookings for players like Nahuel Ferraresi , Nonato , and Samuel Xavier as both teams fought desperately for control. Stoppage Time Chaos As the clock ticked toward the final whistle, both managers turned to their benches, introducing fresh legs like Hulk and Luciano Acosta . The closing stages were marked by tactical fouls and rising tempers. The breaking point came in stoppage time when Botafogo's Fernando Marcal picked up a yellow card in the 94th minute, followed immediately by a second yellow and a subsequent red card in the 95th. Despite the late dismissal, Botafogo held firm through ten minutes of added time to secure a hard-earned draw."
     },
     {
       "title": "Vitória - Botafogo",
@@ -1398,6 +1385,262 @@
         }
       },
       "description": "Watch Botafogo vs Palmeiras highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on September 7, 2026. On a night of high stakes in the Brazilian Serie A, two of the league's heavyweights met in a tactical chess match that tested the limits of their discipline. The encounter at the Nilton Santos stadium promised intensity and delivered a physical battle that kept fans on edge until the final whistle. A Physical Opening Exchange Played on September 7, 2026 , the clash between Botafogo and Palmeiras began with both sides prioritizing defensive solidity over offensive flair. The referee was kept busy from the outset as challenges flew in. Palmeiras defender Alexander Barboza was the first into the book in the 19th minute, followed quickly by teammate Arthur Cabral . Botafogo responded with their own physical approach, leading to a yellow card for Fernando Marçal in the 25th minute, setting the tone for a gritty first half. Tactical Tweaks in the Second Half As the second half got underway, both managers turned to their benches to find a breakthrough. Palmeiras introduced the likes of Vitor Roque and Jhon Arias in the 63rd minute, hoping to inject pace into their transitions. Botafogo countered by bringing on Junior Santos and Mateo Ponte . While the fresh legs added energy to the proceedings, clear-cut chances remained at a premium as both backlines stood firm under pressure. Late Drama and Red Card The game reached a boiling point in the closing stages. Yellow cards for Alvaro Montoro and Marlon Freitas highlighted the rising frustration on both sides. The definitive turning point arrived in stoppage time (90+3') when Alexander Barboza committed a foul that earned him his second yellow card of the night. Sent off just before the final whistle, Barboza left his team to survive the final moments with ten men. Ultimately, neither side could find a winner, leaving the points shared in a hard-fought goalless draw."
+    },
+    {
+      "title": "Botafogo - Fluminense",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/botafogo-fluminense-2026-08-09-pDqP.webp",
+      "competition": "Brasileirão",
+      "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/124.webp",
+          "name": "Fluminense",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/120.webp",
+          "name": "Botafogo",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/botafogo-fluminense-2026-08-09_eFDFt.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Botafogo",
+          "player": "A. Telles",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "54'",
+          "team": "Fluminense",
+          "player": "Ignacio",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "58'",
+          "team": "Fluminense",
+          "player": "Ignacio",
+          "event_type": "Goal",
+          "assist": "K. Serna",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "68'",
+          "team": "Botafogo",
+          "player": "N. Ferraresi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Fluminense",
+          "player": "Nonato",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "77'",
+          "team": "Fluminense",
+          "player": "S. Xavier",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Botafogo",
+          "player": "G. P. Justino",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Botafogo",
+          "player": "F. Marcal",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+5'",
+          "team": "Botafogo",
+          "player": "F. Marcal",
+          "event_type": "Red Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Botafogo_wins": "4",
+          "draws": "0",
+          "Fluminense_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "12/02/2026",
+            "competition": "Serie A",
+            "teams_and_score": "Fluminense 1 - 0 Botafogo FR"
+          },
+          {
+            "date": "01/02/2026",
+            "competition": "Carioca Taca Guanabara",
+            "teams_and_score": "Botafogo FR 0 - 1 Fluminense"
+          },
+          {
+            "date": "28/09/2025",
+            "competition": "Serie A",
+            "teams_and_score": "Fluminense 2 - 0 Botafogo FR"
+          },
+          {
+            "date": "30/01/2025",
+            "competition": "Carioca Taca Guanabara",
+            "teams_and_score": "Botafogo FR 2 - 1 Fluminense"
+          },
+          {
+            "date": "21/09/2024",
+            "competition": "Serie A",
+            "teams_and_score": "Fluminense 0 - 1 Botafogo FR"
+          },
+          {
+            "date": "03/03/2024",
+            "competition": "Carioca Taca Guanabara",
+            "teams_and_score": "Fluminense 2 - 4 Botafogo FR"
+          },
+          {
+            "date": "08/10/2023",
+            "competition": "Serie A 2023",
+            "teams_and_score": "Fluminense 0 - 2 Botafogo FR"
+          }
+        ],
+        "home_team_form": {
+          "team": "Botafogo",
+          "form": [
+            "D",
+            "W",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Botafogo FR 1 - 1 Fluminense",
+              "result": "D"
+            },
+            {
+              "date": "27/05/2026",
+              "competition": "Group E",
+              "teams_and_score": "Caracas 1 - 3 Botafogo FR",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Sao Paulo 1 - 1 Botafogo FR",
+              "result": "D"
+            },
+            {
+              "date": "21/05/2026",
+              "competition": "Group E",
+              "teams_and_score": "Independiente Petrolero 0 - 3 Botafogo FR",
+              "result": "W"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Botafogo FR 3 - 1 Corinthians",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Fluminense",
+          "form": [
+            "D",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Botafogo FR 1 - 1 Fluminense",
+              "result": "D"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "Copa do Brasil",
+              "teams_and_score": "Fluminense 1 - 3 Vasco da Gama",
+              "result": "L"
+            },
+            {
+              "date": "30/07/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Fluminense 0 - 0 Bahia",
+              "result": "D"
+            },
+            {
+              "date": "28/05/2026",
+              "competition": "Group C",
+              "teams_and_score": "Fluminense 3 - 1 Deportivo La Guaira",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Mirassol 1 - 0 Fluminense",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Botafogo": "7",
+          "Fluminense": "4"
+        },
+        "shots_off_target": {
+          "Botafogo": "7",
+          "Fluminense": "5"
+        },
+        "shots_blocked": {
+          "Botafogo": "6",
+          "Fluminense": "5"
+        },
+        "corners": {
+          "Botafogo": "7",
+          "Fluminense": "7"
+        },
+        "fouls": {
+          "Botafogo": "16",
+          "Fluminense": "19"
+        },
+        "offsides": {
+          "Botafogo": "0",
+          "Fluminense": "1"
+        },
+        "yellow_cards": {
+          "Botafogo": "3",
+          "Fluminense": "3"
+        },
+        "red_cards": {
+          "Botafogo": "1",
+          "Fluminense": "0"
+        },
+        "goalkeeper_saves": {
+          "Botafogo": "3",
+          "Fluminense": "6"
+        },
+        "ball_possession": {
+          "Botafogo": "41%",
+          "Fluminense": "59%"
+        }
+      },
+      "description": "Watch Botafogo vs Fluminense highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The clash between Botafogo and Fluminense in Brazil's Serie A on August 9, 2026 , promised high-octane football and tactical intrigue. Both sides entered the arena with a point to prove, setting the stage for a match defined by momentum shifts and defensive resilience. Telles Breaks the Deadlock The first half was a cagey affair as both teams struggled to find a decisive opening in the final third. However, the atmosphere shifted just before the break. In the 44th minute, Alex Telles displayed clinical instinct to find the back of the net, giving Botafogo a vital lead. The goal sent the home crowd into a frenzy and forced the visitors to rethink their strategy during the interval after a half that had been largely balanced. Fluminense's Response and Mid-Half Drama Fluminense returned for the second half with renewed energy. The drama intensified in the 54th minute when Ignacio received a yellow card, but he quickly turned from villain to hero. Only four minutes later, in the 58th minute, Ignacio capitalized on a brilliant assist from Kevin Serna to level the score. The equalizer sparked a physical period of play, resulting in a flurry of bookings for players like Nahuel Ferraresi , Nonato , and Samuel Xavier as both teams fought desperately for control. Stoppage Time Chaos As the clock ticked toward the final whistle, both managers turned to their benches, introducing fresh legs like Hulk and Luciano Acosta . The closing stages were marked by tactical fouls and rising tempers. The breaking point came in stoppage time when Botafogo's Fernando Marcal picked up a yellow card in the 94th minute, followed immediately by a second yellow and a subsequent red card in the 95th. Despite the late dismissal, Botafogo held firm through ten minutes of added time to secure a hard-earned draw."
     },
     {
       "title": "Cruzeiro - Botafogo",
