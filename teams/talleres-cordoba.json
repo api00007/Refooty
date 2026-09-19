@@ -2,14 +2,221 @@
   "team": "Talleres Cordoba",
   "team_logo": "https://img.refooty.com/logo/teams/456.webp",
   "total_matches": 9,
-  "Last update time": "03:50:18 PM 19-09-2026",
+  "Last update time": "04:07:21 PM 19-09-2026",
   "matches": [
     {
-      "title": "Newell's Old Boys - Talleres de Cordoba",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/newells-old-boys-talleres-de-cordoba-2026-07-25-PRca.webp",
+      "title": "Talleres de Cordoba - Union Santa Fe",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/talleres-de-cordoba-union-santa-fe-2026-09-13-WVpC.webp",
       "competition": "Argentine Primera División",
       "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Jul 25, 2026",
+      "date": "Sep 13, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/441.webp",
+          "name": "Union Santa Fe",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/456.webp",
+          "name": "Talleres Cordoba",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/talleres-de-cordoba-union-santa-fe-2026-09-13.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Union Santa Fe",
+          "player": "L. Ayala",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Talleres Cordoba",
+          "player": "A. Álvarez",
+          "event_type": "Goal",
+          "assist": "F. Fattori",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Union Santa Fe",
+          "player": "J. P. Luduena",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Talleres Cordoba",
+          "player": "R. D. Riquelme",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Union Santa Fe",
+          "player": "B. Cuello",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Talleres Cordoba",
+          "player": "V. Depietri",
+          "event_type": "Goal",
+          "assist": "A. Álvarez",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "106'",
+          "team": "Talleres Cordoba",
+          "player": "J. Sforza",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Union Santa Fe",
+          "player": "E. Ramirez",
+          "event_type": "Goal",
+          "assist": "B. Pitton",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Talleres Cordoba_wins": "2",
+          "draws": "5",
+          "Union Santa Fe_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "02/05/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Union 1 - 1 Talleres"
+          },
+          {
+            "date": "27/11/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Union 2 - 3 Talleres"
+          },
+          {
+            "date": "11/07/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Talleres 0 - 0 Union"
+          },
+          {
+            "date": "20/10/2022",
+            "competition": "Primera Division 2022",
+            "teams_and_score": "Talleres 2 - 2 Union"
+          },
+          {
+            "date": "18/02/2022",
+            "competition": "Copa de la Liga Profesional",
+            "teams_and_score": "Talleres 0 - 0 Union"
+          },
+          {
+            "date": "22/08/2021",
+            "competition": "Primera Division 2021",
+            "teams_and_score": "Union 1 - 2 Talleres"
+          },
+          {
+            "date": "16/04/2021",
+            "competition": "Copa de la Liga Profesional: Group B",
+            "teams_and_score": "Talleres 3 - 0 Union"
+          }
+        ],
+        "home_team_form": {
+          "team": "Talleres Cordoba",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Talleres 2 - 1 Union",
+              "result": "L"
+            },
+            {
+              "date": "20/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Union Santa Fe",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Talleres 2 - 1 Union",
+              "result": "L"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Union 0 - 2 Independiente",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Talleres Cordoba": "7",
+          "Union Santa Fe": "4"
+        },
+        "shots_off_target": {
+          "Talleres Cordoba": "7",
+          "Union Santa Fe": "10"
+        },
+        "shots_blocked": {
+          "Talleres Cordoba": "7",
+          "Union Santa Fe": "3"
+        },
+        "corners": {
+          "Talleres Cordoba": "12",
+          "Union Santa Fe": "4"
+        },
+        "fouls": {
+          "Talleres Cordoba": "12",
+          "Union Santa Fe": "10"
+        },
+        "offsides": {
+          "Talleres Cordoba": "2",
+          "Union Santa Fe": "2"
+        },
+        "yellow_cards": {
+          "Talleres Cordoba": "2",
+          "Union Santa Fe": "3"
+        },
+        "goalkeeper_saves": {
+          "Talleres Cordoba": "3",
+          "Union Santa Fe": "5"
+        },
+        "ball_possession": {
+          "Talleres Cordoba": "61%",
+          "Union Santa Fe": "39%"
+        }
+      },
+      "description": "Watch Talleres Cordoba vs Union Santa Fe highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on September 13, 2026. On September 13, 2026, the Liga Profesional Argentina delivered a captivating spectacle as Talleres de Cordoba hosted Union Santa Fe . Both sides took to the pitch with high ambitions, resulting in a match filled with tactical battles and late-game drama. Talleres Break the Deadlock The contest began with a cagey atmosphere, highlighted by an early yellow card for Union's Lucas Ayala in the 21st minute. As the first half progressed, Talleres began to find their rhythm, exploiting gaps in the visitors' defense. The breakthrough finally arrived in the 39th minute when Federico Fattori delivered a sharp pass to Agustin Alvarez , who clinicaly finished to give the home side a deserved lead heading into the break. Doubling the Advantage and Late Scares The second half saw a rise in intensity and several bookings, including Juan Pablo Luduena and Roman Riquelme . Despite the physical nature of the game, Talleres managed to double their lead in the 75th minute. Agustin Alvarez turned provider this time, setting up Valentin Depietri for a crucial second goal. It seemed like a comfortable path to victory for the hosts, but the narrative shifted in the final moments. In the 90th minute, Union Santa Fe pulled one back through Eric Ramirez , assisted by Bruno Pitton , setting up a nervous finish for the Cordoba faithful. A flurry of late substitutions and defensive maneuvers followed as Talleres fought to protect their lead. After six minutes of added time, the final whistle confirmed a hard-fought victory for the home side, leaving the fans in high spirits."
+    },
+    {
+      "title": "San Lorenzo - Talleres de Cordoba",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/san-lorenzo-talleres-de-cordoba-2026-09-06-elyT.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Sep 6, 2026",
       "events_info": {
         "away_team": {
           "logo": "https://img.refooty.com/logo/teams/456.webp",
@@ -17,8 +224,8 @@
           "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/457.webp",
-          "name": "Newells Old Boys",
+          "logo": "https://img.refooty.com/logo/teams/460.webp",
+          "name": "San Lorenzo",
           "score": "1"
         },
         "status": "FT"
@@ -26,110 +233,115 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/newells-old-boys-talleres-de-cordoba-2026-07-25_Tg4ds.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/san-lorenzo-talleres-de-cordoba-2026-09-06.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
           "team": "Talleres Cordoba",
-          "player": "R. D. Riquelme",
+          "player": "M. Galarza",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "San Lorenzo",
+          "player": "R. Auzmendi",
           "event_type": "Yellow Card"
         },
         {
           "time": "46'",
-          "team": "Newells Old Boys",
-          "player": "F. Guch",
-          "event_type": "Yellow Card"
+          "team": "Talleres Cordoba",
+          "player": "M. Galarza",
+          "event_type": "Red Card"
         },
         {
           "time": "61'",
-          "team": "Newells Old Boys",
-          "player": "M. Coccaro",
+          "team": "Talleres Cordoba",
+          "player": "V. Depietri",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "San Lorenzo",
+          "player": "A. Cuello",
           "event_type": "Goal",
           "score_update": "1 - 0"
         },
         {
-          "time": "76'",
-          "team": "Talleres Cordoba",
-          "player": "R. D. Riquelme",
-          "event_type": "Red Card"
+          "time": "91'",
+          "team": "San Lorenzo",
+          "player": "A. Cuello",
+          "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Newells Old Boys_wins": "3",
+          "San Lorenzo_wins": "5",
           "draws": "3",
-          "Talleres Cordoba_wins": "3"
+          "Talleres Cordoba_wins": "2"
         },
         "previous_matches": [
           {
-            "date": "24/01/2026",
+            "date": "01/03/2026",
             "competition": "Primera Division: Apertura",
-            "teams_and_score": "Talleres 2 - 1 Newell's Old Boys"
+            "teams_and_score": "Talleres 0 - 0 San Lorenzo de Almagro"
           },
           {
-            "date": "15/12/2024",
+            "date": "11/07/2025",
+            "competition": "Primera Division: Clausura",
+            "teams_and_score": "Talleres 1 - 2 San Lorenzo de Almagro"
+          },
+          {
+            "date": "25/01/2025",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "San Lorenzo de Almagro 1 - 0 Talleres"
+          },
+          {
+            "date": "25/08/2024",
             "competition": "Primera Division 2024",
-            "teams_and_score": "Talleres 1 - 3 Newell's Old Boys"
+            "teams_and_score": "San Lorenzo de Almagro 2 - 0 Talleres"
           },
           {
-            "date": "28/07/2023",
+            "date": "17/04/2023",
             "competition": "Primera Division 2023",
-            "teams_and_score": "Newell's Old Boys 1 - 1 Talleres"
+            "teams_and_score": "Talleres 0 - 0 San Lorenzo de Almagro"
           },
           {
-            "date": "08/09/2022",
-            "competition": "Cup",
-            "teams_and_score": "Talleres 2 - 1 Newell's Old Boys"
-          },
-          {
-            "date": "14/06/2022",
+            "date": "25/07/2022",
             "competition": "Primera Division 2022",
-            "teams_and_score": "Talleres 0 - 1 Newell's Old Boys"
+            "teams_and_score": "San Lorenzo de Almagro 1 - 1 Talleres"
           },
           {
-            "date": "28/02/2022",
+            "date": "13/03/2022",
             "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Talleres 1 - 2 Newell's Old Boys"
-          },
-          {
-            "date": "17/07/2021",
-            "competition": "Primera Division 2021",
-            "teams_and_score": "Newell's Old Boys 3 - 2 Talleres"
+            "teams_and_score": "Talleres 0 - 1 San Lorenzo de Almagro"
           }
         ],
         "home_team_form": {
-          "team": "Newells Old Boys",
+          "team": "San Lorenzo",
           "form": [
-            "L",
-            "D",
             "W",
+            "D",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "25/07/2026",
+              "date": "05/09/2026",
               "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Newell's Old Boys 1 - 0 Talleres",
-              "result": "L"
-            },
-            {
-              "date": "04/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Velez Sarsfield 1 - 1 Newell's Old Boys",
-              "result": "D"
-            },
-            {
-              "date": "29/03/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Newell's Old Boys 0 - 2 Acassuso",
+              "teams_and_score": "San Lorenzo de Almagro 1 - 0 Talleres",
               "result": "W"
             },
             {
-              "date": "21/03/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Newell's Old Boys 1 - 0 Gimnasia Mendoza",
+              "date": "17/07/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "San Lorenzo de Almagro 1 - 1 Deportivo Riestra",
+              "result": "D"
+            },
+            {
+              "date": "27/05/2026",
+              "competition": "Group D",
+              "teams_and_score": "San Lorenzo de Almagro 0 - 1 CD Recoleta",
               "result": "L"
             }
           ]
@@ -139,15 +351,176 @@
           "form": [
             "L",
             "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/09/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "San Lorenzo de Almagro 1 - 0 Talleres",
+              "result": "L"
+            },
+            {
+              "date": "20/05/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
+              "result": "W"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Talleres 0 - 1 Belgrano",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "San Lorenzo": "4",
+          "Talleres Cordoba": "6"
+        },
+        "shots_off_target": {
+          "San Lorenzo": "8",
+          "Talleres Cordoba": "7"
+        },
+        "shots_blocked": {
+          "San Lorenzo": "7",
+          "Talleres Cordoba": "2"
+        },
+        "corners": {
+          "San Lorenzo": "6",
+          "Talleres Cordoba": "4"
+        },
+        "fouls": {
+          "San Lorenzo": "12",
+          "Talleres Cordoba": "15"
+        },
+        "offsides": {
+          "San Lorenzo": "0",
+          "Talleres Cordoba": "1"
+        },
+        "yellow_cards": {
+          "San Lorenzo": "2",
+          "Talleres Cordoba": "1"
+        },
+        "red_cards": {
+          "San Lorenzo": "0",
+          "Talleres Cordoba": "1"
+        },
+        "goalkeeper_saves": {
+          "San Lorenzo": "6",
+          "Talleres Cordoba": "3"
+        },
+        "ball_possession": {
+          "San Lorenzo": "47%",
+          "Talleres Cordoba": "53%"
+        }
+      },
+      "description": "Watch San Lorenzo vs Talleres Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on September 6, 2026. Resilience and drama in the heart of Buenos Aires On September 6, 2026, San Lorenzo and Talleres de Cordoba locked horns in a high-stakes Liga Profesional Argentina fixture. Both sides entered the match looking to assert their dominance, leading to a contest defined by physical intensity and tactical maneuvering. A physical encounter The first half set an aggressive precedent, with Rodrigo Auzmendi and Matias Galarza both finding their names in the referee's notebook. This competitive spirit spilled over shortly after the break when Matias Galarza was shown a straight red card at the 58th minute, forcing his team to navigate the remainder of the match with only ten men amidst visible frustration from the squad. Finding the breakthrough Despite the disadvantage, the breakthrough came in the 63rd minute when Alexis Cuello found the back of the net to give his team the lead. This moment of brilliance shifted the momentum entirely, leaving Talleres de Cordoba scrambling to respond. As the clock wound down, fresh legs were introduced, with Enzo Salas and Agustin Ladstatter entering to help secure the result. The final whistle marked a testament to the team's ability to remain composed under pressure, closing out a hard-fought match that will be remembered for its tactical swings."
+    },
+    {
+      "title": "Talleres - Central Córdoba",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/talleres-central-cordoba-2026-08-30-91CU.webp",
+      "competition": "Argentine Primera División",
+      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/790.webp",
+          "name": "Central Cordoba",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/456.webp",
+          "name": "Talleres Cordoba",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/talleres-central-cordoba-2026-08-30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Talleres Cordoba",
+          "player": "V. Fascendini",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Central Cordoba",
+          "player": "D. J. C. Ovelar",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Talleres Cordoba",
+          "player": "E. M. Chiavassa",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Talleres Cordoba_wins": "2",
+          "draws": "2",
+          "Central Cordoba_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "24/02/2026",
+            "competition": "Primera Division: Apertura",
+            "teams_and_score": "Central Cordoba de Santiago 2 - 0 Talleres"
+          },
+          {
+            "date": "02/06/2024",
+            "competition": "Primera Division 2024",
+            "teams_and_score": "Central Cordoba de Santiago 2 - 4 Talleres"
+          },
+          {
+            "date": "20/02/2023",
+            "competition": "Primera Division 2023",
+            "teams_and_score": "Talleres 2 - 0 Central Cordoba de Santiago"
+          },
+          {
+            "date": "25/06/2022",
+            "competition": "Primera Division 2022",
+            "teams_and_score": "Talleres 0 - 2 Central Cordoba de Santiago"
+          },
+          {
+            "date": "29/07/2021",
+            "competition": "Primera Division 2021",
+            "teams_and_score": "Central Cordoba de Santiago 2 - 1 Talleres"
+          },
+          {
+            "date": "17/08/2019",
+            "competition": "Primera Division",
+            "teams_and_score": "Talleres 1 - 1 Central Cordoba de Santiago"
+          },
+          {
+            "date": "27/02/2016",
+            "competition": "Primera B Nacional",
+            "teams_and_score": "Talleres 2 - 0 Central Cordoba de Santiago"
+          }
+        ],
+        "home_team_form": {
+          "team": "Talleres Cordoba",
+          "form": [
+            "D",
+            "W",
             "W",
             "D"
           ],
           "recent_matches": [
             {
-              "date": "25/07/2026",
+              "date": "30/08/2026",
               "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Newell's Old Boys 1 - 0 Talleres",
-              "result": "L"
+              "teams_and_score": "Talleres 0 - 0 Central Cordoba de Santiago",
+              "result": "D"
             },
             {
               "date": "20/05/2026",
@@ -168,51 +541,68 @@
               "result": "D"
             }
           ]
+        },
+        "away_team_form": {
+          "team": "Central Cordoba",
+          "form": [
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Talleres 0 - 0 Central Cordoba de Santiago",
+              "result": "D"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Central Cordoba de Santiago 1 - 2 Boca Juniors",
+              "result": "L"
+            }
+          ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Newells Old Boys": "4",
-          "Talleres Cordoba": "5"
+          "Talleres Cordoba": "5",
+          "Central Cordoba": "4"
         },
         "shots_off_target": {
-          "Newells Old Boys": "4",
-          "Talleres Cordoba": "8"
+          "Talleres Cordoba": "10",
+          "Central Cordoba": "9"
         },
         "shots_blocked": {
-          "Newells Old Boys": "3",
-          "Talleres Cordoba": "4"
+          "Talleres Cordoba": "9",
+          "Central Cordoba": "3"
         },
         "corners": {
-          "Newells Old Boys": "8",
-          "Talleres Cordoba": "9"
+          "Talleres Cordoba": "6",
+          "Central Cordoba": "6"
         },
         "fouls": {
-          "Newells Old Boys": "14",
-          "Talleres Cordoba": "12"
+          "Talleres Cordoba": "9",
+          "Central Cordoba": "11"
         },
         "offsides": {
-          "Newells Old Boys": "3",
-          "Talleres Cordoba": "2"
+          "Talleres Cordoba": "2",
+          "Central Cordoba": "1"
         },
         "yellow_cards": {
-          "Newells Old Boys": "1",
-          "Talleres Cordoba": "0"
-        },
-        "red_cards": {
-          "Newells Old Boys": "0",
-          "Talleres Cordoba": "1"
+          "Talleres Cordoba": "2",
+          "Central Cordoba": "1"
         },
         "goalkeeper_saves": {
-          "Newells Old Boys": "5",
-          "Talleres Cordoba": "3"
+          "Talleres Cordoba": "4",
+          "Central Cordoba": "5"
         },
         "ball_possession": {
-          "Newells Old Boys": "33%",
-          "Talleres Cordoba": "67%"
+          "Talleres Cordoba": "63%",
+          "Central Cordoba": "37%"
         }
       },
-      "description": "Watch Newells Old Boys vs Talleres Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 25, 2026. The Liga Profesional Argentina clash between Newell's Old Boys and Talleres Cordoba on July 25, 2026, delivered a tactical battle defined by grit and narrow margins. Both sides entered the pitch looking to assert dominance, resulting in a match that hinged on disciplinary discipline and a single clinical moment from the penalty spot. Tactical Stalemate in the Opening Half The first half was a display of defensive organization as both teams struggled to find clear-cut chance opportunities. The intensity was palpable from the start, and the referee was forced to reach for his pocket as early as the 15th minute when Roman Riquelme received a yellow card for a mistimed challenge. While Newell's Old Boys attempted to control possession, Talleres remained compact, ensuring that the primary narrative of the opening 45 minutes was one of midfield duels rather than goalmouth action. The sides went into the break level after a brief period of stoppage time. Coccaro Breaks the Deadlock The second half saw immediate tactical adjustments, with Talleres introducing Augusto Schott to bolster their flanks. However, the momentum shifted decisively in favor of the hosts in the 55th minute. After a foul in the box, the referee pointed to the spot, giving Newell's a golden opportunity. Matias Coccaro stepped up and coolly converted the penalty, sending the home fans into raptures. Following the goal , Talleres responded with a double substitution, bringing on Valentin Depietri and Rick to inject pace into their attack. Late Red Card and Final Whistle As the game entered its final stages, the pressure began to take its toll on the players' discipline. In the 86th minute, the match took another dramatic turn when Roman Riquelme was shown his second yellow card, resulting in a red card and an early exit for the player . Down to ten men, Talleres struggled to mount a cohesive comeback despite a lengthy nine minutes of added time. Newell's Old Boys managed the closing moments with experience, successfully defending their lead until the referee blew the final whistle to end a physical sports contest."
+      "description": "Watch Talleres Cordoba vs Central Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The Liga Profesional Argentina delivered a match of high tactical discipline as Talleres Cordoba hosted Central Cordoba . Both sides stepped onto the pitch on August 30, 2026 , looking to assert dominance in a fixture that demanded focus and resilience from the very first whistle. A Cautious Opening Half The game began with a cagey first half where both teams prioritized defensive solidity. Talleres looked to control the tempo through possession, but Central Cordoba remained compact, denying their opponents any clear sight of goal. The midfield battle was fierce, with every yard of space contested vigorously. After two minutes of stoppage time, the referee brought the first half to a close with neither side able to find a breakthrough. Tactical Shifts and Rising Tension As the second half got underway at the 46-minute mark, the managers turned to their benches to spark life into the contest. A double substitution for the hosts at the hour mark saw Valentin Davila and Franco Cristaldo enter the fray. The physical nature of the game intensified shortly after, leading to a yellow card for Valentin Fascendini in the 66th minute as he looked to halt a dangerous counter-attack. Late Drama and Final Whistle The closing stages were defined by a flurry of substitutions as both teams searched for a winning formula. Juan Sforza and Joaquin Flores were among those introduced in a busy period between the 79th and 83rd minutes. However, the game grew fractious as the clock ticked down. Dario Caceres received a yellow card in the 87th minute, and Emiliano Chiavassa followed suit in the 89th. Ultimately, after five minutes of added time, the match ended, leaving both sides to reflect on a hard-earned point."
     },
     {
       "title": "Talleres de Cordoba - Lanus",
@@ -955,399 +1345,6 @@
       "description": "Watch Talleres Cordoba vs Rosario Central highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 25, 2026. In a captivating Liga Profesional Argentina fixture played on August 25, 2026, Talleres de Córdoba and Rosario Central delivered a high-octane encounter filled with tactical shifts and individual brilliance. Both teams displayed a fierce competitive spirit from the opening whistle, setting the stage for a dramatic contest in Córdoba. Talleres Assert Early Dominance The match began with high physical intensity, evidenced by early yellow cards for Vicente Pizarro and Alan Rodriguez . Talleres managed to harness this energy more effectively in the early stages. Their breakthrough arrived in the 21st minute when Agustín Álvarez stepped up to the penalty spot and coolly converted to give the hosts a deserved lead. Building on that momentum, Talleres struck again immediately after the halftime break. In the 47th minute, Timoteo Chamorro provided a pinpoint assist for Valentín Depietri , who doubled the advantage. At 2-0, the home side looked to be in total control, but the match was about to take a chaotic turn. Di María Leads the Fightback The 56th minute proved to be the major turning point of the game. A heated exchange on the pitch saw Augusto Schott , Enzo Copetti , and goalkeeper Ezequiel Unsain all receive yellow cards. Amidst the tension, Rosario Central were awarded a penalty, which Ángel Di María clinicaly finished to give the visitors hope. Boosted by the goal, the visitors pressed forward, and their persistence paid off in the 63rd minute. Franco Ibarra turned provider, setting up Ángel Di María for his second goal of the match to level the scores at 2-2. The final stages were a battle of nerves, with both managers turning to their benches and the referee brandishing further cards to Valentin Fascendini and Di María during stoppage time, ensuring the spoils were shared in a thrilling draw."
     },
     {
-      "title": "San Lorenzo - Talleres de Cordoba",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/san-lorenzo-talleres-de-cordoba-2026-09-06-elyT.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Sep 6, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/456.webp",
-          "name": "Talleres Cordoba",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/460.webp",
-          "name": "San Lorenzo",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/san-lorenzo-talleres-de-cordoba-2026-09-06.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Talleres Cordoba",
-          "player": "M. Galarza",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "San Lorenzo",
-          "player": "R. Auzmendi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Talleres Cordoba",
-          "player": "M. Galarza",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "61'",
-          "team": "Talleres Cordoba",
-          "player": "V. Depietri",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "San Lorenzo",
-          "player": "A. Cuello",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "91'",
-          "team": "San Lorenzo",
-          "player": "A. Cuello",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "San Lorenzo_wins": "5",
-          "draws": "3",
-          "Talleres Cordoba_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "01/03/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Talleres 0 - 0 San Lorenzo de Almagro"
-          },
-          {
-            "date": "11/07/2025",
-            "competition": "Primera Division: Clausura",
-            "teams_and_score": "Talleres 1 - 2 San Lorenzo de Almagro"
-          },
-          {
-            "date": "25/01/2025",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "San Lorenzo de Almagro 1 - 0 Talleres"
-          },
-          {
-            "date": "25/08/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "San Lorenzo de Almagro 2 - 0 Talleres"
-          },
-          {
-            "date": "17/04/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Talleres 0 - 0 San Lorenzo de Almagro"
-          },
-          {
-            "date": "25/07/2022",
-            "competition": "Primera Division 2022",
-            "teams_and_score": "San Lorenzo de Almagro 1 - 1 Talleres"
-          },
-          {
-            "date": "13/03/2022",
-            "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Talleres 0 - 1 San Lorenzo de Almagro"
-          }
-        ],
-        "home_team_form": {
-          "team": "San Lorenzo",
-          "form": [
-            "W",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/09/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "San Lorenzo de Almagro 1 - 0 Talleres",
-              "result": "W"
-            },
-            {
-              "date": "17/07/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "San Lorenzo de Almagro 1 - 1 Deportivo Riestra",
-              "result": "D"
-            },
-            {
-              "date": "27/05/2026",
-              "competition": "Group D",
-              "teams_and_score": "San Lorenzo de Almagro 0 - 1 CD Recoleta",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Talleres Cordoba",
-          "form": [
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/09/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "San Lorenzo de Almagro 1 - 0 Talleres",
-              "result": "L"
-            },
-            {
-              "date": "20/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
-              "result": "W"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "Talleres 0 - 1 Belgrano",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "San Lorenzo": "4",
-          "Talleres Cordoba": "6"
-        },
-        "shots_off_target": {
-          "San Lorenzo": "8",
-          "Talleres Cordoba": "7"
-        },
-        "shots_blocked": {
-          "San Lorenzo": "7",
-          "Talleres Cordoba": "2"
-        },
-        "corners": {
-          "San Lorenzo": "6",
-          "Talleres Cordoba": "4"
-        },
-        "fouls": {
-          "San Lorenzo": "12",
-          "Talleres Cordoba": "15"
-        },
-        "offsides": {
-          "San Lorenzo": "0",
-          "Talleres Cordoba": "1"
-        },
-        "yellow_cards": {
-          "San Lorenzo": "2",
-          "Talleres Cordoba": "1"
-        },
-        "red_cards": {
-          "San Lorenzo": "0",
-          "Talleres Cordoba": "1"
-        },
-        "goalkeeper_saves": {
-          "San Lorenzo": "6",
-          "Talleres Cordoba": "3"
-        },
-        "ball_possession": {
-          "San Lorenzo": "47%",
-          "Talleres Cordoba": "53%"
-        }
-      },
-      "description": "Watch San Lorenzo vs Talleres Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on September 6, 2026. Resilience and drama in the heart of Buenos Aires On September 6, 2026, San Lorenzo and Talleres de Cordoba locked horns in a high-stakes Liga Profesional Argentina fixture. Both sides entered the match looking to assert their dominance, leading to a contest defined by physical intensity and tactical maneuvering. A physical encounter The first half set an aggressive precedent, with Rodrigo Auzmendi and Matias Galarza both finding their names in the referee's notebook. This competitive spirit spilled over shortly after the break when Matias Galarza was shown a straight red card at the 58th minute, forcing his team to navigate the remainder of the match with only ten men amidst visible frustration from the squad. Finding the breakthrough Despite the disadvantage, the breakthrough came in the 63rd minute when Alexis Cuello found the back of the net to give his team the lead. This moment of brilliance shifted the momentum entirely, leaving Talleres de Cordoba scrambling to respond. As the clock wound down, fresh legs were introduced, with Enzo Salas and Agustin Ladstatter entering to help secure the result. The final whistle marked a testament to the team's ability to remain composed under pressure, closing out a hard-fought match that will be remembered for its tactical swings."
-    },
-    {
-      "title": "Talleres - Central Córdoba",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/talleres-central-cordoba-2026-08-30-91CU.webp",
-      "competition": "Argentine Primera División",
-      "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Aug 30, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/790.webp",
-          "name": "Central Cordoba",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/456.webp",
-          "name": "Talleres Cordoba",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/talleres-central-cordoba-2026-08-30.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "46'",
-          "team": "Talleres Cordoba",
-          "player": "V. Fascendini",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Central Cordoba",
-          "player": "D. J. C. Ovelar",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Talleres Cordoba",
-          "player": "E. M. Chiavassa",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Talleres Cordoba_wins": "2",
-          "draws": "2",
-          "Central Cordoba_wins": "5"
-        },
-        "previous_matches": [
-          {
-            "date": "24/02/2026",
-            "competition": "Primera Division: Apertura",
-            "teams_and_score": "Central Cordoba de Santiago 2 - 0 Talleres"
-          },
-          {
-            "date": "02/06/2024",
-            "competition": "Primera Division 2024",
-            "teams_and_score": "Central Cordoba de Santiago 2 - 4 Talleres"
-          },
-          {
-            "date": "20/02/2023",
-            "competition": "Primera Division 2023",
-            "teams_and_score": "Talleres 2 - 0 Central Cordoba de Santiago"
-          },
-          {
-            "date": "25/06/2022",
-            "competition": "Primera Division 2022",
-            "teams_and_score": "Talleres 0 - 2 Central Cordoba de Santiago"
-          },
-          {
-            "date": "29/07/2021",
-            "competition": "Primera Division 2021",
-            "teams_and_score": "Central Cordoba de Santiago 2 - 1 Talleres"
-          },
-          {
-            "date": "17/08/2019",
-            "competition": "Primera Division",
-            "teams_and_score": "Talleres 1 - 1 Central Cordoba de Santiago"
-          },
-          {
-            "date": "27/02/2016",
-            "competition": "Primera B Nacional",
-            "teams_and_score": "Talleres 2 - 0 Central Cordoba de Santiago"
-          }
-        ],
-        "home_team_form": {
-          "team": "Talleres Cordoba",
-          "form": [
-            "D",
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Talleres 0 - 0 Central Cordoba de Santiago",
-              "result": "D"
-            },
-            {
-              "date": "20/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
-              "result": "W"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Liga Profesional: Clausura Playoff",
-              "teams_and_score": "Talleres 0 - 1 Belgrano",
-              "result": "W"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Union 1 - 1 Talleres",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Central Cordoba",
-          "form": [
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/08/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Talleres 0 - 0 Central Cordoba de Santiago",
-              "result": "D"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Primera Division: Apertura",
-              "teams_and_score": "Central Cordoba de Santiago 1 - 2 Boca Juniors",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Talleres Cordoba": "5",
-          "Central Cordoba": "4"
-        },
-        "shots_off_target": {
-          "Talleres Cordoba": "10",
-          "Central Cordoba": "9"
-        },
-        "shots_blocked": {
-          "Talleres Cordoba": "9",
-          "Central Cordoba": "3"
-        },
-        "corners": {
-          "Talleres Cordoba": "6",
-          "Central Cordoba": "6"
-        },
-        "fouls": {
-          "Talleres Cordoba": "9",
-          "Central Cordoba": "11"
-        },
-        "offsides": {
-          "Talleres Cordoba": "2",
-          "Central Cordoba": "1"
-        },
-        "yellow_cards": {
-          "Talleres Cordoba": "2",
-          "Central Cordoba": "1"
-        },
-        "goalkeeper_saves": {
-          "Talleres Cordoba": "4",
-          "Central Cordoba": "5"
-        },
-        "ball_possession": {
-          "Talleres Cordoba": "63%",
-          "Central Cordoba": "37%"
-        }
-      },
-      "description": "Watch Talleres Cordoba vs Central Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The Liga Profesional Argentina delivered a match of high tactical discipline as Talleres Cordoba hosted Central Cordoba . Both sides stepped onto the pitch on August 30, 2026 , looking to assert dominance in a fixture that demanded focus and resilience from the very first whistle. A Cautious Opening Half The game began with a cagey first half where both teams prioritized defensive solidity. Talleres looked to control the tempo through possession, but Central Cordoba remained compact, denying their opponents any clear sight of goal. The midfield battle was fierce, with every yard of space contested vigorously. After two minutes of stoppage time, the referee brought the first half to a close with neither side able to find a breakthrough. Tactical Shifts and Rising Tension As the second half got underway at the 46-minute mark, the managers turned to their benches to spark life into the contest. A double substitution for the hosts at the hour mark saw Valentin Davila and Franco Cristaldo enter the fray. The physical nature of the game intensified shortly after, leading to a yellow card for Valentin Fascendini in the 66th minute as he looked to halt a dangerous counter-attack. Late Drama and Final Whistle The closing stages were defined by a flurry of substitutions as both teams searched for a winning formula. Juan Sforza and Joaquin Flores were among those introduced in a busy period between the 79th and 83rd minutes. However, the game grew fractious as the clock ticked down. Dario Caceres received a yellow card in the 87th minute, and Emiliano Chiavassa followed suit in the 89th. Ultimately, after five minutes of added time, the match ended, leaving both sides to reflect on a hard-earned point."
-    },
-    {
       "title": "Platense - Talleres de Cordoba",
       "thumbnail_url": "https://img.refooty.com/thumbnail/platense-talleres-de-cordoba-2026-08-04-NBw8.webp",
       "competition": "Argentine Primera División",
@@ -1868,140 +1865,148 @@
       "description": "Watch Gimnasia LP vs Talleres Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on August 18, 2026. The atmosphere was electric as both sides took to the pitch for a pivotal clash in the Liga Profesional Argentina . With the match played on August 18, 2026, the stakes were high, and neither team was prepared to cede an inch in what became a marathon of determination. Battle for dominance From the opening whistle, the intensity was palpable. The physicality of the game became clear early on, with Nicolas Watson and Ignacio Miramon both entering the referee's notebook in the 18th minute. The deadlock was broken in the 39th minute when Nicolas Benegas struck for Talleres Cordoba , finishing off an assist from Mariano Bracamonte . However, Gimnasia LP stayed resilient. Early in the second half, in the 53rd minute, Mateo Seoane found the back of the net to level the score, breathing new life into his side's efforts and setting the stage for a grandstand finish. Penalty drama The closing stages were defined by tactical shuffling and a surge in tension. The momentum shifted dramatically in stoppage time when Augusto Max was shown a straight red card, forcing Talleres to finish the match with ten men. Following the final whistle of regulation time, the deadlock forced the game into a penalty shoot-out. It was there, amidst the nerves of the spot-kicks, that the match reached its definitive conclusion."
     },
     {
-      "title": "Talleres de Cordoba - Union Santa Fe",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/talleres-de-cordoba-union-santa-fe-2026-09-13-WVpC.webp",
+      "title": "Newell's Old Boys - Talleres de Cordoba",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/newells-old-boys-talleres-de-cordoba-2026-07-25-PRca.webp",
       "competition": "Argentine Primera División",
       "competition_cover": "https://refooty.com/covers/argentine-primera-division.webp",
-      "date": "Sep 13, 2026",
+      "date": "Jul 25, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/441.webp",
-          "name": "Union Santa Fe",
-          "score": "1"
-        },
-        "home_team": {
           "logo": "https://img.refooty.com/logo/teams/456.webp",
           "name": "Talleres Cordoba",
-          "score": "2"
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/457.webp",
+          "name": "Newells Old Boys",
+          "score": "1"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/talleres-de-cordoba-union-santa-fe-2026-09-13.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/newells-old-boys-talleres-de-cordoba-2026-07-25_Tg4ds.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Union Santa Fe",
-          "player": "L. Ayala",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Talleres Cordoba",
-          "player": "A. Álvarez",
-          "event_type": "Goal",
-          "assist": "F. Fattori",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Union Santa Fe",
-          "player": "J. P. Luduena",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
           "team": "Talleres Cordoba",
           "player": "R. D. Riquelme",
           "event_type": "Yellow Card"
         },
         {
+          "time": "46'",
+          "team": "Newells Old Boys",
+          "player": "F. Guch",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Newells Old Boys",
+          "player": "M. Coccaro",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
           "time": "76'",
-          "team": "Union Santa Fe",
-          "player": "B. Cuello",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
           "team": "Talleres Cordoba",
-          "player": "V. Depietri",
-          "event_type": "Goal",
-          "assist": "A. Álvarez",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "106'",
-          "team": "Talleres Cordoba",
-          "player": "J. Sforza",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "121'",
-          "team": "Union Santa Fe",
-          "player": "E. Ramirez",
-          "event_type": "Goal",
-          "assist": "B. Pitton",
-          "score_update": "2 - 1"
+          "player": "R. D. Riquelme",
+          "event_type": "Red Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Talleres Cordoba_wins": "2",
-          "draws": "5",
-          "Union Santa Fe_wins": "2"
+          "Newells Old Boys_wins": "3",
+          "draws": "3",
+          "Talleres Cordoba_wins": "3"
         },
         "previous_matches": [
           {
-            "date": "02/05/2026",
+            "date": "24/01/2026",
             "competition": "Primera Division: Apertura",
-            "teams_and_score": "Union 1 - 1 Talleres"
+            "teams_and_score": "Talleres 2 - 1 Newell's Old Boys"
           },
           {
-            "date": "27/11/2024",
+            "date": "15/12/2024",
             "competition": "Primera Division 2024",
-            "teams_and_score": "Union 2 - 3 Talleres"
+            "teams_and_score": "Talleres 1 - 3 Newell's Old Boys"
           },
           {
-            "date": "11/07/2023",
+            "date": "28/07/2023",
             "competition": "Primera Division 2023",
-            "teams_and_score": "Talleres 0 - 0 Union"
+            "teams_and_score": "Newell's Old Boys 1 - 1 Talleres"
           },
           {
-            "date": "20/10/2022",
+            "date": "08/09/2022",
+            "competition": "Cup",
+            "teams_and_score": "Talleres 2 - 1 Newell's Old Boys"
+          },
+          {
+            "date": "14/06/2022",
             "competition": "Primera Division 2022",
-            "teams_and_score": "Talleres 2 - 2 Union"
+            "teams_and_score": "Talleres 0 - 1 Newell's Old Boys"
           },
           {
-            "date": "18/02/2022",
+            "date": "28/02/2022",
             "competition": "Copa de la Liga Profesional",
-            "teams_and_score": "Talleres 0 - 0 Union"
+            "teams_and_score": "Talleres 1 - 2 Newell's Old Boys"
           },
           {
-            "date": "22/08/2021",
+            "date": "17/07/2021",
             "competition": "Primera Division 2021",
-            "teams_and_score": "Union 1 - 2 Talleres"
-          },
-          {
-            "date": "16/04/2021",
-            "competition": "Copa de la Liga Profesional: Group B",
-            "teams_and_score": "Talleres 3 - 0 Union"
+            "teams_and_score": "Newell's Old Boys 3 - 2 Talleres"
           }
         ],
         "home_team_form": {
-          "team": "Talleres Cordoba",
+          "team": "Newells Old Boys",
           "form": [
             "L",
-            "W"
+            "D",
+            "W",
+            "L"
           ],
           "recent_matches": [
             {
-              "date": "12/09/2026",
+              "date": "25/07/2026",
               "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Talleres 2 - 1 Union",
+              "teams_and_score": "Newell's Old Boys 1 - 0 Talleres",
+              "result": "L"
+            },
+            {
+              "date": "04/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Velez Sarsfield 1 - 1 Newell's Old Boys",
+              "result": "D"
+            },
+            {
+              "date": "29/03/2026",
+              "competition": "Copa Argentina",
+              "teams_and_score": "Newell's Old Boys 0 - 2 Acassuso",
+              "result": "W"
+            },
+            {
+              "date": "21/03/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Newell's Old Boys 1 - 0 Gimnasia Mendoza",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Talleres Cordoba",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "25/07/2026",
+              "competition": "Liga Profesional: Clausura",
+              "teams_and_score": "Newell's Old Boys 1 - 0 Talleres",
               "result": "L"
             },
             {
@@ -2009,70 +2014,65 @@
               "competition": "Copa Argentina",
               "teams_and_score": "Talleres 0 - 3 Atletico Tucuman",
               "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Union Santa Fe",
-          "form": [
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "12/09/2026",
-              "competition": "Liga Profesional: Clausura",
-              "teams_and_score": "Talleres 2 - 1 Union",
-              "result": "L"
             },
             {
-              "date": "22/05/2026",
-              "competition": "Copa Argentina",
-              "teams_and_score": "Union 0 - 2 Independiente",
+              "date": "09/05/2026",
+              "competition": "Liga Profesional: Clausura Playoff",
+              "teams_and_score": "Talleres 0 - 1 Belgrano",
               "result": "W"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Primera Division: Apertura",
+              "teams_and_score": "Union 1 - 1 Talleres",
+              "result": "D"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Talleres Cordoba": "7",
-          "Union Santa Fe": "4"
+          "Newells Old Boys": "4",
+          "Talleres Cordoba": "5"
         },
         "shots_off_target": {
-          "Talleres Cordoba": "7",
-          "Union Santa Fe": "10"
+          "Newells Old Boys": "4",
+          "Talleres Cordoba": "8"
         },
         "shots_blocked": {
-          "Talleres Cordoba": "7",
-          "Union Santa Fe": "3"
+          "Newells Old Boys": "3",
+          "Talleres Cordoba": "4"
         },
         "corners": {
-          "Talleres Cordoba": "12",
-          "Union Santa Fe": "4"
+          "Newells Old Boys": "8",
+          "Talleres Cordoba": "9"
         },
         "fouls": {
-          "Talleres Cordoba": "12",
-          "Union Santa Fe": "10"
+          "Newells Old Boys": "14",
+          "Talleres Cordoba": "12"
         },
         "offsides": {
-          "Talleres Cordoba": "2",
-          "Union Santa Fe": "2"
+          "Newells Old Boys": "3",
+          "Talleres Cordoba": "2"
         },
         "yellow_cards": {
-          "Talleres Cordoba": "2",
-          "Union Santa Fe": "3"
+          "Newells Old Boys": "1",
+          "Talleres Cordoba": "0"
+        },
+        "red_cards": {
+          "Newells Old Boys": "0",
+          "Talleres Cordoba": "1"
         },
         "goalkeeper_saves": {
-          "Talleres Cordoba": "3",
-          "Union Santa Fe": "5"
+          "Newells Old Boys": "5",
+          "Talleres Cordoba": "3"
         },
         "ball_possession": {
-          "Talleres Cordoba": "61%",
-          "Union Santa Fe": "39%"
+          "Newells Old Boys": "33%",
+          "Talleres Cordoba": "67%"
         }
       },
-      "description": "Watch Talleres Cordoba vs Union Santa Fe highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on September 13, 2026. On September 13, 2026, the Liga Profesional Argentina delivered a captivating spectacle as Talleres de Cordoba hosted Union Santa Fe . Both sides took to the pitch with high ambitions, resulting in a match filled with tactical battles and late-game drama. Talleres Break the Deadlock The contest began with a cagey atmosphere, highlighted by an early yellow card for Union's Lucas Ayala in the 21st minute. As the first half progressed, Talleres began to find their rhythm, exploiting gaps in the visitors' defense. The breakthrough finally arrived in the 39th minute when Federico Fattori delivered a sharp pass to Agustin Alvarez , who clinicaly finished to give the home side a deserved lead heading into the break. Doubling the Advantage and Late Scares The second half saw a rise in intensity and several bookings, including Juan Pablo Luduena and Roman Riquelme . Despite the physical nature of the game, Talleres managed to double their lead in the 75th minute. Agustin Alvarez turned provider this time, setting up Valentin Depietri for a crucial second goal. It seemed like a comfortable path to victory for the hosts, but the narrative shifted in the final moments. In the 90th minute, Union Santa Fe pulled one back through Eric Ramirez , assisted by Bruno Pitton , setting up a nervous finish for the Cordoba faithful. A flurry of late substitutions and defensive maneuvers followed as Talleres fought to protect their lead. After six minutes of added time, the final whistle confirmed a hard-fought victory for the home side, leaving the fans in high spirits."
+      "description": "Watch Newells Old Boys vs Talleres Cordoba highlights and goals from Argentine Primera División on ReFooty: Football Highlights Hub. Match played on July 25, 2026. The Liga Profesional Argentina clash between Newell's Old Boys and Talleres Cordoba on July 25, 2026, delivered a tactical battle defined by grit and narrow margins. Both sides entered the pitch looking to assert dominance, resulting in a match that hinged on disciplinary discipline and a single clinical moment from the penalty spot. Tactical Stalemate in the Opening Half The first half was a display of defensive organization as both teams struggled to find clear-cut chance opportunities. The intensity was palpable from the start, and the referee was forced to reach for his pocket as early as the 15th minute when Roman Riquelme received a yellow card for a mistimed challenge. While Newell's Old Boys attempted to control possession, Talleres remained compact, ensuring that the primary narrative of the opening 45 minutes was one of midfield duels rather than goalmouth action. The sides went into the break level after a brief period of stoppage time. Coccaro Breaks the Deadlock The second half saw immediate tactical adjustments, with Talleres introducing Augusto Schott to bolster their flanks. However, the momentum shifted decisively in favor of the hosts in the 55th minute. After a foul in the box, the referee pointed to the spot, giving Newell's a golden opportunity. Matias Coccaro stepped up and coolly converted the penalty, sending the home fans into raptures. Following the goal , Talleres responded with a double substitution, bringing on Valentin Depietri and Rick to inject pace into their attack. Late Red Card and Final Whistle As the game entered its final stages, the pressure began to take its toll on the players' discipline. In the 86th minute, the match took another dramatic turn when Roman Riquelme was shown his second yellow card, resulting in a red card and an early exit for the player . Down to ten men, Talleres struggled to mount a cohesive comeback despite a lengthy nine minutes of added time. Newell's Old Boys managed the closing moments with experience, successfully defending their lead until the referee blew the final whistle to end a physical sports contest."
     }
   ]
 }

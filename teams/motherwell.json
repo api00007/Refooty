@@ -1,24 +1,279 @@
 {
   "team": "Motherwell",
   "team_logo": "https://img.refooty.com/logo/teams/256.webp",
-  "total_matches": 7,
-  "Last update time": "03:50:18 PM 19-09-2026",
+  "total_matches": 8,
+  "Last update time": "04:07:20 PM 19-09-2026",
   "matches": [
     {
-      "title": "Hibernian - Motherwell",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-motherwell-2026-08-02-rUOo.webp",
+      "title": "Motherwell - Aberdeen",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/motherwell-aberdeen-2026-09-15-VHdT.webp",
       "competition": "Premiership - Scotland",
       "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 2, 2026",
+      "date": "Sep 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/252.webp",
+          "name": "Aberdeen",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/256.webp",
+          "name": "Motherwell",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/motherwell-aberdeen-2026-09-15.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Aberdeen",
+          "player": "L. Mayo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Aberdeen",
+          "player": "G. Molloy",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "31'",
+          "team": "Motherwell",
+          "player": "T. Sparrow",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Aberdeen",
+          "player": "C. Ronan",
+          "event_type": "Goal",
+          "assist": "K. Nisbet",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Motherwell",
+          "player": "E. Longelo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Aberdeen",
+          "player": "A. Afeez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Aberdeen",
+          "player": "A. Mouloua",
+          "event_type": "Goal",
+          "assist": "C. Ronan",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "91'",
+          "team": "Aberdeen",
+          "player": "A. Mouloua",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Aberdeen",
+          "player": "K. Nisbet",
+          "event_type": "Goal",
+          "assist": "M. Muller",
+          "score_update": "0 - 4"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Motherwell_wins": "2",
+          "draws": "0",
+          "Aberdeen_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "18/02/2026",
+            "competition": "Scottish Cup: Round 5",
+            "teams_and_score": "Aberdeen 2 - 0 Motherwell"
+          },
+          {
+            "date": "15/02/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Motherwell 2 - 0 Aberdeen"
+          },
+          {
+            "date": "20/09/2025",
+            "competition": "Scottish League Cup: Quarter-Finals",
+            "teams_and_score": "Aberdeen 0 - 1 Motherwell"
+          },
+          {
+            "date": "29/03/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Aberdeen 4 - 1 Motherwell"
+          },
+          {
+            "date": "27/04/2024",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Aberdeen 1 - 0 Motherwell"
+          },
+          {
+            "date": "16/03/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Motherwell 0 - 1 Aberdeen"
+          }
+        ],
+        "home_team_form": {
+          "team": "Motherwell",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Motherwell 0 - 4 Aberdeen",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Freiburg 4 - 1 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Stenhousemuir 1 - 0 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Motherwell 2 - 0 HJK Helsinki",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Motherwell 0 - 0 Falkirk",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Aberdeen",
+          "form": [
+            "W",
+            "D",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Motherwell 0 - 4 Aberdeen",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Scottish League Cup: Quarter-Finals",
+              "teams_and_score": "Kilmarnock 1 - 1 Aberdeen",
+              "result": "D"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Aberdeen 0 - 0 Kilmarnock",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Motherwell": "5",
+          "Aberdeen": "4"
+        },
+        "shots_off_target": {
+          "Motherwell": "5",
+          "Aberdeen": "4"
+        },
+        "shots_blocked": {
+          "Motherwell": "2",
+          "Aberdeen": "3"
+        },
+        "corners": {
+          "Motherwell": "5",
+          "Aberdeen": "2"
+        },
+        "fouls": {
+          "Motherwell": "7",
+          "Aberdeen": "12"
+        },
+        "offsides": {
+          "Motherwell": "1",
+          "Aberdeen": "3"
+        },
+        "yellow_cards": {
+          "Motherwell": "2",
+          "Aberdeen": "3"
+        },
+        "goalkeeper_saves": {
+          "Motherwell": "0",
+          "Aberdeen": "5"
+        },
+        "crosses": {
+          "Motherwell": "5",
+          "Aberdeen": "4"
+        },
+        "ball_possession": {
+          "Motherwell": "69%",
+          "Aberdeen": "31%"
+        }
+      },
+      "description": "Watch Motherwell vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 15, 2026. The Scottish Premiership lights shone on Fir Park on September 15, 2026 , as Motherwell hosted Aberdeen in a clash of styles and ambitions. Both sides entered the pitch looking to claim dominance, setting the stage for a narrative that would unfold with increasing intensity as the clock ticked away. Molloy Breaks the Deadlock The opening period was a cagey affair, defined by tactical positioning and physical challenges. Aberdeen found their rhythm late in the first half when Gavin Molloy surged forward to find the back of the net in the 38th minute. The breakthrough came at a crucial time, just after Motherwell 's Tom Sparrow had been cautioned, leaving the hosts searching for answers as they headed into the tunnel for the interval. Clinical Second Half Surge Any hopes of a Motherwell comeback were quickly dampened as the second half got underway. In the 46th minute, Kevin Nisbet turned provider, setting up Connor Ronan for a clinical finish to double the visitors' lead. Motherwell attempted to alter the game's flow with a flurry of substitutions, bringing on the likes of Stuart Armstrong and Dylan Levitt , but the momentum remained firmly with the opposition. The pressure told again in the 76th minute when Ayoub Mouloua struck the third, assisted by the ever-active Ronan . Nisbet Completes the Rout As the match entered its final stages, Aberdeen refused to take their foot off the gas. In the 87th minute, Kevin Nisbet capped off a stellar individual performance by scoring himself, thanks to an assist from Marius Mueller . Despite the late yellow card for Mouloua , the visitors remained professional until the final whistle at 90+4. For Motherwell , it was a night of frustration characterized by yellow cards for Afeez Aremu and Emmanuel Longelo , as they struggled to contain a rampant away side."
+    },
+    {
+      "title": "Rangers - Motherwell",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/rangers-motherwell-2026-09-05-YeiA.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Sep 5, 2026",
       "events_info": {
         "away_team": {
           "logo": "https://img.refooty.com/logo/teams/256.webp",
           "name": "Motherwell",
-          "score": "2"
+          "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/249.webp",
-          "name": "Hibernian",
+          "logo": "https://img.refooty.com/logo/teams/257.webp",
+          "name": "Rangers",
           "score": "1"
         },
         "status": "FT"
@@ -26,121 +281,101 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/hibernian-motherwell-2026-08-02_xh6Fn.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/rangers-motherwell-2026-09-05.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Motherwell",
-          "player": "L. Fadinger",
+          "team": "Rangers",
+          "player": "R. D. Naderi",
           "event_type": "Goal",
-          "score_update": "0 - 1"
+          "score_update": "1 - 0"
         },
         {
-          "time": "46'",
-          "team": "Hibernian",
-          "player": "J. Mulligan",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Motherwell",
-          "player": "O. Priestman",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Hibernian",
-          "player": "M. Boyle",
+          "time": "16'",
+          "team": "Rangers",
+          "player": "K. Min-su",
           "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "91'",
-          "team": "Motherwell",
-          "player": "L. Fadinger",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "106'",
-          "team": "Motherwell",
-          "player": "T. Sparrow",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "121'",
-          "team": "Motherwell",
-          "player": "I. Said",
-          "event_type": "Goal",
-          "assist": "D. Williams",
-          "score_update": "1 - 2"
+          "score_update": "1 - 0"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Hibernian_wins": "2",
-          "draws": "2",
-          "Motherwell_wins": "1"
+          "Rangers_wins": "2",
+          "draws": "1",
+          "Motherwell_wins": "3"
         },
         "previous_matches": [
           {
-            "date": "16/05/2026",
+            "date": "26/04/2026",
             "competition": "Premiership: Championship Group",
-            "teams_and_score": "Hibernian 0 - 1 Motherwell"
+            "teams_and_score": "Rangers 2 - 3 Motherwell"
           },
           {
-            "date": "21/03/2026",
+            "date": "11/02/2026",
             "competition": "Premiership",
-            "teams_and_score": "Motherwell 0 - 0 Hibernian"
+            "teams_and_score": "Motherwell 1 - 1 Rangers"
           },
           {
-            "date": "11/01/2025",
+            "date": "01/03/2025",
             "competition": "Premiership",
-            "teams_and_score": "Hibernian 3 - 1 Motherwell"
+            "teams_and_score": "Rangers 1 - 2 Motherwell"
           },
           {
-            "date": "15/05/2024",
-            "competition": "Premiership: Relegation Group",
-            "teams_and_score": "Hibernian 3 - 0 Motherwell"
+            "date": "03/11/2024",
+            "competition": "Scottish League Cup: Semi-Finals",
+            "teams_and_score": "Motherwell 1 - 2 Rangers"
           },
           {
-            "date": "13/04/2024",
+            "date": "10/08/2024",
+            "competition": "Premiership",
+            "teams_and_score": "Rangers 2 - 1 Motherwell"
+          },
+          {
+            "date": "02/03/2024",
             "competition": "Premiership 23/24",
-            "teams_and_score": "Motherwell 1 - 1 Hibernian"
+            "teams_and_score": "Rangers 1 - 2 Motherwell"
           }
         ],
         "home_team_form": {
-          "team": "Hibernian",
+          "team": "Rangers",
           "form": [
+            "W",
             "L",
             "W",
-            "W",
+            "D",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "02/08/2026",
+              "date": "05/09/2026",
               "competition": "Premiership",
-              "teams_and_score": "Hibernian 1 - 2 Motherwell",
+              "teams_and_score": "Rangers 1 - 0 Motherwell",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Jablonec 1 - 0 Rangers",
               "result": "L"
             },
             {
-              "date": "30/07/2026",
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Rangers 5 - 1 St. Mirren",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
               "competition": "Qualification",
-              "teams_and_score": "Hibernian 4 - 1 Malisheva",
-              "result": "W"
+              "teams_and_score": "Rangers 1 - 1 Jagiellonia Bialystok",
+              "result": "D"
             },
             {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Hibernian 2 - 1 Broendby IF",
-              "result": "W"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "Premiership: Championship Group",
-              "teams_and_score": "Hibernian 0 - 1 Motherwell",
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Rangers 1 - 2 Hibernian",
               "result": "L"
             }
           ]
@@ -148,82 +383,81 @@
         "away_team_form": {
           "team": "Motherwell",
           "form": [
-            "W",
-            "W",
             "L",
-            "W"
+            "L",
+            "L",
+            "W",
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "02/08/2026",
+              "date": "05/09/2026",
               "competition": "Premiership",
-              "teams_and_score": "Hibernian 1 - 2 Motherwell",
-              "result": "W"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "HB Torshavn 0 - 3 Motherwell",
-              "result": "W"
-            },
-            {
-              "date": "17/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Motherwell 3 - 4 Genk",
+              "teams_and_score": "Rangers 1 - 0 Motherwell",
               "result": "L"
             },
             {
-              "date": "16/05/2026",
-              "competition": "Premiership: Championship Group",
-              "teams_and_score": "Hibernian 0 - 1 Motherwell",
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Freiburg 4 - 1 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Stenhousemuir 1 - 0 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Motherwell 2 - 0 HJK Helsinki",
               "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Motherwell 0 - 0 Falkirk",
+              "result": "D"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Hibernian": "6",
-          "Motherwell": "5"
+          "Rangers": "6",
+          "Motherwell": "3"
         },
         "shots_off_target": {
-          "Hibernian": "5",
-          "Motherwell": "2"
+          "Rangers": "12",
+          "Motherwell": "3"
         },
         "shots_blocked": {
-          "Hibernian": "8",
+          "Rangers": "8",
           "Motherwell": "2"
         },
         "corners": {
-          "Hibernian": "9",
-          "Motherwell": "2"
+          "Rangers": "7",
+          "Motherwell": "5"
         },
         "fouls": {
-          "Hibernian": "14",
-          "Motherwell": "13"
-        },
-        "offsides": {
-          "Hibernian": "1",
-          "Motherwell": "2"
-        },
-        "yellow_cards": {
-          "Hibernian": "1",
-          "Motherwell": "3"
+          "Rangers": "7",
+          "Motherwell": "12"
         },
         "goalkeeper_saves": {
-          "Hibernian": "3",
-          "Motherwell": "3"
+          "Rangers": "3",
+          "Motherwell": "4"
         },
         "crosses": {
-          "Hibernian": "7",
-          "Motherwell": "0"
+          "Rangers": "8",
+          "Motherwell": "3"
         },
         "ball_possession": {
-          "Hibernian": "48%",
-          "Motherwell": "52%"
+          "Rangers": "41%",
+          "Motherwell": "59%"
         }
       },
-      "description": "Watch Hibernian vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 2, 2026. The stage was set for a compelling Scottish Premiership clash as two determined sides met on the pitch. Fans were eager to see how this tactical battle would unfold on August 2, 2026 , with both teams searching for a decisive edge. Motherwell Break the Deadlock The opening period was a tightly contested affair, with both defenses holding firm under pressure. However, the game changed shortly before the break when Motherwell were awarded a penalty in the 40th minute. Lukas Fadinger stepped up to the spot and calmly converted, giving his side a hard-fought lead heading into the interval. Hibernian Fight Back in the Second Half Hibernian emerged for the second half with renewed energy and a more direct attacking approach. Their persistence paid off in the 56th minute when they were awarded a penalty of their own. Martin Boyle clinical finish restored parity and ignited the home crowd. As the half progressed, the intensity boiled over, leading to yellow cards for Josh Mulligan , Oscar Priestman , and Lukas Fadinger as both sides vied for control. Said Secures the Victory As the match entered its closing stages, tactical substitutions from both managers aimed to break the stalemate. The breakthrough finally arrived in the 85th minute. Dylan Williams provided a brilliant assist for Ibrahim Said , who found the back of the net to complete the comeback for Hibernian . Despite late pressure, the hosts held on to secure a dramatic victory in a game defined by grit and determination."
+      "description": "Watch Rangers vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The atmosphere was thick with anticipation as Rangers and Motherwell took to the pitch on September 5, 2026, for their Premiership clash. Both sides knew that securing victory would require not just tactical discipline, but a clinical edge in front of goal. Early intervention sets the tone The match ignited early when Ryan Don Naderi , who had replaced an injured Lawrence Shankland only minutes earlier, found the back of the net in the 12th minute to put his side in front. The momentum looked set to shift decisively in the 30th minute when the hosts were awarded a penalty, but Min-Su Kim failed to convert from the spot, allowing Motherwell a lifeline that kept the game hanging in the balance for the remainder of the evening. Managing the intensity The second half evolved into a high-stakes chess match as both managers utilized their benches to inject fresh energy. Following a flurry of substitutions, including the introductions of Jardell Kanga and Daisuke Yokota , the game became increasingly fragmented. Despite a frantic final push from the visitors, Rangers stood firm under pressure. The final whistle marked the conclusion of a hard-fought affair, with the home side celebrating a vital win built on their clinical first-half breakthrough."
     },
     {
       "title": "Motherwell - Dundee United",
@@ -453,6 +687,272 @@
         }
       },
       "description": "Watch Motherwell vs Dundee Utd highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 2, 2026. The atmosphere was electric as Motherwell and Dundee United faced off in a highly anticipated Premiership encounter. Both sides looked to assert their dominance early in a match that would soon be defined by a series of high-impact moments. Early Drama and Red Card On September 2, 2026 , the trajectory of the game shifted dramatically within the opening quarter-hour. In the 14th minute, Emmanuel Agyei was shown a straight red card, sparking heavy protests from his teammates. This pivotal moment forced Dundee United into an early reshuffle, with Abdoulaye Yoro sacrificed for Dylan Tait to stabilize the defense. Motherwell wasted little time capitalizing on their numerical advantage. In the 19th minute, Tom Sparrow provided a clinical assist for Seb Palmer Houlden , who fired the hosts into the lead. While the first half saw Palmer Houlden pick up a yellow card for a robust challenge, Motherwell remained firmly in the driving seat as they headed into the interval. Maswanhise Orchestrates the Finish The second half began with a flurry of substitutions as both managers looked to influence the flow. However, it was the individual brilliance of Tawanda Maswanhise that ultimately put the game out of reach. Within a devastating two-minute spell, Maswanhise turned provider twice to dismantle the opposition defense. In the 65th minute, he set up Alex Lowry for a composed finish to double the lead. Just two minutes later, Maswanhise was at it again, this time assisting Dylan Levitt , who made no mistake in finding the back of the net for the third goal. With the result secured, Motherwell introduced fresh legs like Willy Vogt and Stephen O'Donnell to see out a professional performance and claim all three points."
+    },
+    {
+      "title": "St. Mirren - Motherwell",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-motherwell-2026-08-30-1NdB.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/256.webp",
+          "name": "Motherwell",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/251.webp",
+          "name": "ST Mirren",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-motherwell-2026-08-30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "2'",
+          "team": "Motherwell",
+          "player": "T. Maswanhise",
+          "event_type": "Goal",
+          "assist": "A. Lowry",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "15'",
+          "team": "Motherwell",
+          "player": "T. Maswanhise",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "24'",
+          "team": "Motherwell",
+          "player": "R. Charles-Cook",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "39'",
+          "team": "ST Mirren",
+          "player": "P. Nsio",
+          "event_type": "Goal",
+          "assist": "S. Ramos",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "44'",
+          "team": "ST Mirren",
+          "player": "D. John",
+          "event_type": "Goal",
+          "assist": "S. Ramos",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "45+4'",
+          "team": "ST Mirren",
+          "player": "S. Ramos",
+          "event_type": "Goal",
+          "assist": "A. Gogic",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "47'",
+          "team": "Motherwell",
+          "player": "S. O'Donnell",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "52'",
+          "team": "Motherwell",
+          "player": "M. Moormann",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "85'",
+          "team": "ST Mirren",
+          "player": "R. Carr",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "89'",
+          "team": "ST Mirren",
+          "player": "J. Young",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Motherwell",
+          "player": "J. Kanga",
+          "event_type": "Goal",
+          "score_update": "3 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "ST Mirren_wins": "2",
+          "draws": "3",
+          "Motherwell_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "21/02/2026",
+            "competition": "Premiership",
+            "teams_and_score": "St. Mirren 0 - 5 Motherwell"
+          },
+          {
+            "date": "01/11/2025",
+            "competition": "Scottish League Cup: Semi-Finals",
+            "teams_and_score": "Motherwell 1 - 4 St. Mirren"
+          },
+          {
+            "date": "09/08/2025",
+            "competition": "Premiership",
+            "teams_and_score": "St. Mirren 0 - 0 Motherwell"
+          },
+          {
+            "date": "15/03/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Motherwell 2 - 2 St. Mirren"
+          },
+          {
+            "date": "30/03/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Motherwell 1 - 1 St. Mirren"
+          }
+        ],
+        "home_team_form": {
+          "team": "ST Mirren",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "St. Mirren 3 - 3 Motherwell",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Rangers 5 - 1 St. Mirren",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "St. Mirren 1 - 0 St. Johnstone",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Scottish League Cup: Group C",
+              "teams_and_score": "St. Mirren 0 - 1 Dunfermline Athletic",
+              "result": "W"
+            },
+            {
+              "date": "27/06/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Arbroath 2 - 4 St. Mirren",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Motherwell",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "St. Mirren 3 - 3 Motherwell",
+              "result": "D"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Freiburg 4 - 1 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Stenhousemuir 1 - 0 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Motherwell 2 - 0 HJK Helsinki",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Motherwell 0 - 0 Falkirk",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "ST Mirren": "9",
+          "Motherwell": "7"
+        },
+        "shots_off_target": {
+          "ST Mirren": "6",
+          "Motherwell": "9"
+        },
+        "shots_blocked": {
+          "ST Mirren": "8",
+          "Motherwell": "6"
+        },
+        "corners": {
+          "ST Mirren": "7",
+          "Motherwell": "7"
+        },
+        "fouls": {
+          "ST Mirren": "14",
+          "Motherwell": "12"
+        },
+        "offsides": {
+          "ST Mirren": "1",
+          "Motherwell": "2"
+        },
+        "yellow_cards": {
+          "ST Mirren": "2",
+          "Motherwell": "2"
+        },
+        "goalkeeper_saves": {
+          "ST Mirren": "4",
+          "Motherwell": "6"
+        },
+        "crosses": {
+          "ST Mirren": "4",
+          "Motherwell": "5"
+        },
+        "ball_possession": {
+          "ST Mirren": "45%",
+          "Motherwell": "55%"
+        }
+      },
+      "description": "Watch ST Mirren vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The Scottish Premiership clash between St. Mirren and Motherwell delivered everything a football fan could ask for in a high-stakes encounter. In an afternoon defined by constant momentum shifts, both sides displayed a relentless attacking spirit that kept the result in doubt until the final seconds. Early Breakthrough and Penalty Drama The match burst into life on August 30, 2026, as Motherwell wasted no time establishing their presence. Just 2 minutes in, Tawanda Maswanhise found the back of the net following a sharp assist from Alex Lowry . The visitors had a golden chance to double their lead in the 14th minute when a penalty was awarded, but Maswanhise failed to convert, providing St. Mirren with a much-needed lifeline. St. Mirren’s Resurgence and First-Half Flurry Capitalizing on the missed penalty, the home side rallied. Regan Charles-Cook restored parity in the 24th minute, and the turnaround seemed complete when Paul Nsio made it 2-1 in the 39th minute, assisted by Samuel Ramos . The goal-fest continued just before the break; Declan John leveled for Motherwell in the 44th minute, only for Samuel Ramos to strike back for St. Mirren in first-half stoppage time, assisted by Alexandros Gogic , sent the hosts into the locker room with a 3-2 lead. Late Drama and Kanga's Equalizer The second half saw a tighter contest as tactical adjustments and defensive caution took center stage. Yellow cards were brandished for Stephen O'Donnell , Martin Moormann , Ryan Carr , and Jake Young as the intensity remained high. As the clock ticked into stoppage time, Motherwell launched one final assault. In the 90+3rd minute, substitute Jardell Kanga emerged as the hero, firing home to secure a dramatic 3-3 draw and ensuring both teams walked away with a point from this classic football match."
     },
     {
       "title": "Motherwell - Falkirk",
@@ -1053,286 +1553,20 @@
       "description": "Watch Motherwell vs HJK helsinki highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on August 13, 2026. The stage was set for a high-stakes encounter as Motherwell and HJK Helsinki went head-to-head in a crucial UEFA Conference League fixture. Both sides took to the pitch on August 13, 2026 , looking to secure a vital advantage in their continental campaign. A Tactical Battle in the Opening Period The first half was characterized by a cautious approach from both teams, with much of the action contested in a crowded midfield. Motherwell attempted to find gaps in the opposition defense, but the visitors remained disciplined and organized. The intensity of the match was evident as challenges flew in, leading to the game's first booking in the 43rd minute when Alfie Cicale received a yellow card. Despite the effort from both camps, clear-cut chances were at a premium, and the referee blew for half-time with the deadlock still unbroken. Ibrahim Said Takes Center Stage The dynamic of the match shifted dramatically immediately after the restart. In the 47th minute, HJK Helsinki surged ahead as Ibrahim Said clinical finish found the back of the net to break the stalemate. The visitors grew in confidence, and despite Alexander Ring picking up a yellow card in the 57th minute, their momentum remained unchecked. Just three minutes later, Ibrahim Said struck again in the 60th minute, doubling his tally and putting his side in a commanding position as the home crowd watched on in frustration. Strategic Changes and the Final Whistle As the clock ticked down, both managers turned to their benches to inject fresh energy into the game. HJK Helsinki introduced the experienced Teemu Pukki and Mouhamed Gueye , while Motherwell looked to the likes of Ewan Wilson and Mikey Booth to spark a late comeback. A flurry of substitutions in the 68th minute saw Martin Kirilov and Till Cissokho enter the fray, but the visitors' defensive structure held firm against any late pressure. After four minutes of stoppage time, the final whistle confirmed a decisive result for the Finnish side, fueled by Said's match-winning performance."
     },
     {
-      "title": "St. Mirren - Motherwell",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/st-mirren-motherwell-2026-08-30-1NdB.webp",
+      "title": "Hibernian - Motherwell",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-motherwell-2026-08-02-rUOo.webp",
       "competition": "Premiership - Scotland",
       "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 30, 2026",
+      "date": "Aug 2, 2026",
       "events_info": {
         "away_team": {
           "logo": "https://img.refooty.com/logo/teams/256.webp",
           "name": "Motherwell",
-          "score": "3"
+          "score": "2"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/251.webp",
-          "name": "ST Mirren",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/st-mirren-motherwell-2026-08-30.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "2'",
-          "team": "Motherwell",
-          "player": "T. Maswanhise",
-          "event_type": "Goal",
-          "assist": "A. Lowry",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "15'",
-          "team": "Motherwell",
-          "player": "T. Maswanhise",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "24'",
-          "team": "Motherwell",
-          "player": "R. Charles-Cook",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "39'",
-          "team": "ST Mirren",
-          "player": "P. Nsio",
-          "event_type": "Goal",
-          "assist": "S. Ramos",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "44'",
-          "team": "ST Mirren",
-          "player": "D. John",
-          "event_type": "Goal",
-          "assist": "S. Ramos",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "45+4'",
-          "team": "ST Mirren",
-          "player": "S. Ramos",
-          "event_type": "Goal",
-          "assist": "A. Gogic",
-          "score_update": "3 - 2"
-        },
-        {
-          "time": "47'",
-          "team": "Motherwell",
-          "player": "S. O'Donnell",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "52'",
-          "team": "Motherwell",
-          "player": "M. Moormann",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "85'",
-          "team": "ST Mirren",
-          "player": "R. Carr",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "89'",
-          "team": "ST Mirren",
-          "player": "J. Young",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Motherwell",
-          "player": "J. Kanga",
-          "event_type": "Goal",
-          "score_update": "3 - 3"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "ST Mirren_wins": "2",
-          "draws": "3",
-          "Motherwell_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "21/02/2026",
-            "competition": "Premiership",
-            "teams_and_score": "St. Mirren 0 - 5 Motherwell"
-          },
-          {
-            "date": "01/11/2025",
-            "competition": "Scottish League Cup: Semi-Finals",
-            "teams_and_score": "Motherwell 1 - 4 St. Mirren"
-          },
-          {
-            "date": "09/08/2025",
-            "competition": "Premiership",
-            "teams_and_score": "St. Mirren 0 - 0 Motherwell"
-          },
-          {
-            "date": "15/03/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Motherwell 2 - 2 St. Mirren"
-          },
-          {
-            "date": "30/03/2024",
-            "competition": "Premiership 23/24",
-            "teams_and_score": "Motherwell 1 - 1 St. Mirren"
-          }
-        ],
-        "home_team_form": {
-          "team": "ST Mirren",
-          "form": [
-            "D",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "St. Mirren 3 - 3 Motherwell",
-              "result": "D"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Rangers 5 - 1 St. Mirren",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "St. Mirren 1 - 0 St. Johnstone",
-              "result": "L"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Scottish League Cup: Group C",
-              "teams_and_score": "St. Mirren 0 - 1 Dunfermline Athletic",
-              "result": "W"
-            },
-            {
-              "date": "27/06/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Arbroath 2 - 4 St. Mirren",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Motherwell",
-          "form": [
-            "D",
-            "L",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "St. Mirren 3 - 3 Motherwell",
-              "result": "D"
-            },
-            {
-              "date": "27/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Freiburg 4 - 1 Motherwell",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Stenhousemuir 1 - 0 Motherwell",
-              "result": "L"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Motherwell 2 - 0 HJK Helsinki",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Motherwell 0 - 0 Falkirk",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "ST Mirren": "9",
-          "Motherwell": "7"
-        },
-        "shots_off_target": {
-          "ST Mirren": "6",
-          "Motherwell": "9"
-        },
-        "shots_blocked": {
-          "ST Mirren": "8",
-          "Motherwell": "6"
-        },
-        "corners": {
-          "ST Mirren": "7",
-          "Motherwell": "7"
-        },
-        "fouls": {
-          "ST Mirren": "14",
-          "Motherwell": "12"
-        },
-        "offsides": {
-          "ST Mirren": "1",
-          "Motherwell": "2"
-        },
-        "yellow_cards": {
-          "ST Mirren": "2",
-          "Motherwell": "2"
-        },
-        "goalkeeper_saves": {
-          "ST Mirren": "4",
-          "Motherwell": "6"
-        },
-        "crosses": {
-          "ST Mirren": "4",
-          "Motherwell": "5"
-        },
-        "ball_possession": {
-          "ST Mirren": "45%",
-          "Motherwell": "55%"
-        }
-      },
-      "description": "Watch ST Mirren vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The Scottish Premiership clash between St. Mirren and Motherwell delivered everything a football fan could ask for in a high-stakes encounter. In an afternoon defined by constant momentum shifts, both sides displayed a relentless attacking spirit that kept the result in doubt until the final seconds. Early Breakthrough and Penalty Drama The match burst into life on August 30, 2026, as Motherwell wasted no time establishing their presence. Just 2 minutes in, Tawanda Maswanhise found the back of the net following a sharp assist from Alex Lowry . The visitors had a golden chance to double their lead in the 14th minute when a penalty was awarded, but Maswanhise failed to convert, providing St. Mirren with a much-needed lifeline. St. Mirren’s Resurgence and First-Half Flurry Capitalizing on the missed penalty, the home side rallied. Regan Charles-Cook restored parity in the 24th minute, and the turnaround seemed complete when Paul Nsio made it 2-1 in the 39th minute, assisted by Samuel Ramos . The goal-fest continued just before the break; Declan John leveled for Motherwell in the 44th minute, only for Samuel Ramos to strike back for St. Mirren in first-half stoppage time, assisted by Alexandros Gogic , sent the hosts into the locker room with a 3-2 lead. Late Drama and Kanga's Equalizer The second half saw a tighter contest as tactical adjustments and defensive caution took center stage. Yellow cards were brandished for Stephen O'Donnell , Martin Moormann , Ryan Carr , and Jake Young as the intensity remained high. As the clock ticked into stoppage time, Motherwell launched one final assault. In the 90+3rd minute, substitute Jardell Kanga emerged as the hero, firing home to secure a dramatic 3-3 draw and ensuring both teams walked away with a point from this classic football match."
-    },
-    {
-      "title": "Rangers - Motherwell",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/rangers-motherwell-2026-09-05-YeiA.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Sep 5, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/256.webp",
-          "name": "Motherwell",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/257.webp",
-          "name": "Rangers",
+          "logo": "https://img.refooty.com/logo/teams/249.webp",
+          "name": "Hibernian",
           "score": "1"
         },
         "status": "FT"
@@ -1340,101 +1574,121 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/rangers-motherwell-2026-09-05.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/hibernian-motherwell-2026-08-02_xh6Fn.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Rangers",
-          "player": "R. D. Naderi",
+          "team": "Motherwell",
+          "player": "L. Fadinger",
           "event_type": "Goal",
-          "score_update": "1 - 0"
+          "score_update": "0 - 1"
         },
         {
-          "time": "16'",
-          "team": "Rangers",
-          "player": "K. Min-su",
+          "time": "46'",
+          "team": "Hibernian",
+          "player": "J. Mulligan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Motherwell",
+          "player": "O. Priestman",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Hibernian",
+          "player": "M. Boyle",
           "event_type": "Goal",
-          "score_update": "1 - 0"
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "91'",
+          "team": "Motherwell",
+          "player": "L. Fadinger",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Motherwell",
+          "player": "T. Sparrow",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Motherwell",
+          "player": "I. Said",
+          "event_type": "Goal",
+          "assist": "D. Williams",
+          "score_update": "1 - 2"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Rangers_wins": "2",
-          "draws": "1",
-          "Motherwell_wins": "3"
+          "Hibernian_wins": "2",
+          "draws": "2",
+          "Motherwell_wins": "1"
         },
         "previous_matches": [
           {
-            "date": "26/04/2026",
+            "date": "16/05/2026",
             "competition": "Premiership: Championship Group",
-            "teams_and_score": "Rangers 2 - 3 Motherwell"
+            "teams_and_score": "Hibernian 0 - 1 Motherwell"
           },
           {
-            "date": "11/02/2026",
+            "date": "21/03/2026",
             "competition": "Premiership",
-            "teams_and_score": "Motherwell 1 - 1 Rangers"
+            "teams_and_score": "Motherwell 0 - 0 Hibernian"
           },
           {
-            "date": "01/03/2025",
+            "date": "11/01/2025",
             "competition": "Premiership",
-            "teams_and_score": "Rangers 1 - 2 Motherwell"
+            "teams_and_score": "Hibernian 3 - 1 Motherwell"
           },
           {
-            "date": "03/11/2024",
-            "competition": "Scottish League Cup: Semi-Finals",
-            "teams_and_score": "Motherwell 1 - 2 Rangers"
+            "date": "15/05/2024",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Hibernian 3 - 0 Motherwell"
           },
           {
-            "date": "10/08/2024",
-            "competition": "Premiership",
-            "teams_and_score": "Rangers 2 - 1 Motherwell"
-          },
-          {
-            "date": "02/03/2024",
+            "date": "13/04/2024",
             "competition": "Premiership 23/24",
-            "teams_and_score": "Rangers 1 - 2 Motherwell"
+            "teams_and_score": "Motherwell 1 - 1 Hibernian"
           }
         ],
         "home_team_form": {
-          "team": "Rangers",
+          "team": "Hibernian",
           "form": [
-            "W",
             "L",
             "W",
-            "D",
+            "W",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "05/09/2026",
+              "date": "02/08/2026",
               "competition": "Premiership",
-              "teams_and_score": "Rangers 1 - 0 Motherwell",
-              "result": "W"
-            },
-            {
-              "date": "27/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Jablonec 1 - 0 Rangers",
+              "teams_and_score": "Hibernian 1 - 2 Motherwell",
               "result": "L"
             },
             {
-              "date": "16/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Rangers 5 - 1 St. Mirren",
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hibernian 4 - 1 Malisheva",
               "result": "W"
             },
             {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Rangers 1 - 1 Jagiellonia Bialystok",
-              "result": "D"
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hibernian 2 - 1 Broendby IF",
+              "result": "W"
             },
             {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Rangers 1 - 2 Hibernian",
+              "date": "16/05/2026",
+              "competition": "Premiership: Championship Group",
+              "teams_and_score": "Hibernian 0 - 1 Motherwell",
               "result": "L"
             }
           ]
@@ -1442,81 +1696,82 @@
         "away_team_form": {
           "team": "Motherwell",
           "form": [
-            "L",
-            "L",
-            "L",
             "W",
-            "D"
+            "W",
+            "L",
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "05/09/2026",
+              "date": "02/08/2026",
               "competition": "Premiership",
-              "teams_and_score": "Rangers 1 - 0 Motherwell",
-              "result": "L"
-            },
-            {
-              "date": "27/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Freiburg 4 - 1 Motherwell",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Stenhousemuir 1 - 0 Motherwell",
-              "result": "L"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Motherwell 2 - 0 HJK Helsinki",
+              "teams_and_score": "Hibernian 1 - 2 Motherwell",
               "result": "W"
             },
             {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Motherwell 0 - 0 Falkirk",
-              "result": "D"
+              "date": "30/07/2026",
+              "competition": "Qualification",
+              "teams_and_score": "HB Torshavn 0 - 3 Motherwell",
+              "result": "W"
+            },
+            {
+              "date": "17/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Motherwell 3 - 4 Genk",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "Premiership: Championship Group",
+              "teams_and_score": "Hibernian 0 - 1 Motherwell",
+              "result": "W"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Rangers": "6",
-          "Motherwell": "3"
+          "Hibernian": "6",
+          "Motherwell": "5"
         },
         "shots_off_target": {
-          "Rangers": "12",
-          "Motherwell": "3"
+          "Hibernian": "5",
+          "Motherwell": "2"
         },
         "shots_blocked": {
-          "Rangers": "8",
+          "Hibernian": "8",
           "Motherwell": "2"
         },
         "corners": {
-          "Rangers": "7",
-          "Motherwell": "5"
+          "Hibernian": "9",
+          "Motherwell": "2"
         },
         "fouls": {
-          "Rangers": "7",
-          "Motherwell": "12"
+          "Hibernian": "14",
+          "Motherwell": "13"
         },
-        "goalkeeper_saves": {
-          "Rangers": "3",
-          "Motherwell": "4"
+        "offsides": {
+          "Hibernian": "1",
+          "Motherwell": "2"
         },
-        "crosses": {
-          "Rangers": "8",
+        "yellow_cards": {
+          "Hibernian": "1",
           "Motherwell": "3"
         },
+        "goalkeeper_saves": {
+          "Hibernian": "3",
+          "Motherwell": "3"
+        },
+        "crosses": {
+          "Hibernian": "7",
+          "Motherwell": "0"
+        },
         "ball_possession": {
-          "Rangers": "41%",
-          "Motherwell": "59%"
+          "Hibernian": "48%",
+          "Motherwell": "52%"
         }
       },
-      "description": "Watch Rangers vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The atmosphere was thick with anticipation as Rangers and Motherwell took to the pitch on September 5, 2026, for their Premiership clash. Both sides knew that securing victory would require not just tactical discipline, but a clinical edge in front of goal. Early intervention sets the tone The match ignited early when Ryan Don Naderi , who had replaced an injured Lawrence Shankland only minutes earlier, found the back of the net in the 12th minute to put his side in front. The momentum looked set to shift decisively in the 30th minute when the hosts were awarded a penalty, but Min-Su Kim failed to convert from the spot, allowing Motherwell a lifeline that kept the game hanging in the balance for the remainder of the evening. Managing the intensity The second half evolved into a high-stakes chess match as both managers utilized their benches to inject fresh energy. Following a flurry of substitutions, including the introductions of Jardell Kanga and Daisuke Yokota , the game became increasingly fragmented. Despite a frantic final push from the visitors, Rangers stood firm under pressure. The final whistle marked the conclusion of a hard-fought affair, with the home side celebrating a vital win built on their clinical first-half breakthrough."
+      "description": "Watch Hibernian vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 2, 2026. The stage was set for a compelling Scottish Premiership clash as two determined sides met on the pitch. Fans were eager to see how this tactical battle would unfold on August 2, 2026 , with both teams searching for a decisive edge. Motherwell Break the Deadlock The opening period was a tightly contested affair, with both defenses holding firm under pressure. However, the game changed shortly before the break when Motherwell were awarded a penalty in the 40th minute. Lukas Fadinger stepped up to the spot and calmly converted, giving his side a hard-fought lead heading into the interval. Hibernian Fight Back in the Second Half Hibernian emerged for the second half with renewed energy and a more direct attacking approach. Their persistence paid off in the 56th minute when they were awarded a penalty of their own. Martin Boyle clinical finish restored parity and ignited the home crowd. As the half progressed, the intensity boiled over, leading to yellow cards for Josh Mulligan , Oscar Priestman , and Lukas Fadinger as both sides vied for control. Said Secures the Victory As the match entered its closing stages, tactical substitutions from both managers aimed to break the stalemate. The breakthrough finally arrived in the 85th minute. Dylan Williams provided a brilliant assist for Ibrahim Said , who found the back of the net to complete the comeback for Hibernian . Despite late pressure, the hosts held on to secure a dramatic victory in a game defined by grit and determination."
     }
   ]
 }

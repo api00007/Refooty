@@ -1,139 +1,347 @@
 {
   "competition": "Coppa Italia",
   "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
-  "total_matches": 9,
-  "Last update time": "03:50:17 PM 19-09-2026",
+  "total_matches": 11,
+  "Last update time": "04:07:20 PM 19-09-2026",
   "matches": [
     {
-      "title": "Parma vs Catania",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/parma-vs-catania-2026-08-14-pugr.webp",
+      "title": "Fiorentina vs Pisa",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/fiorentina-vs-pisa-2026-09-15-Alw8.webp",
       "competition": "Coppa Italia",
       "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
-      "date": "Aug 14, 2026",
+      "date": "Sep 15, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1580.webp",
-          "name": "Catania",
+          "logo": "https://img.refooty.com/logo/teams/801.webp",
+          "name": "Pisa",
           "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/523.webp",
-          "name": "Parma",
-          "score": "2"
+          "logo": "https://img.refooty.com/logo/teams/502.webp",
+          "name": "Fiorentina",
+          "score": "3"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/parma-vs-catania-2026-08-14_RpK1g.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/fiorentina-vs-pisa-2026-09-15.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Parma",
-          "player": "S. Lontani",
+          "team": "Fiorentina",
+          "player": "F. Mastantuono",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Pisa",
+          "player": "F. Loyola",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Fiorentina",
+          "player": "M. Pellegrino",
           "event_type": "Goal",
           "score_update": "1 - 0"
         },
         {
-          "time": "16'",
-          "team": "Parma",
-          "player": "S. Lontani",
+          "time": "52'",
+          "team": "Pisa",
+          "player": "S. Canestrelli",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "55'",
+          "team": "Fiorentina",
+          "player": "V. Valdepenas",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "71'",
+          "team": "Fiorentina",
+          "player": "W. Gnonto",
           "event_type": "Goal",
+          "assist": "A. E. Njie",
           "score_update": "2 - 0"
+        },
+        {
+          "time": "90+2'",
+          "team": "Fiorentina",
+          "player": "P. Gonçalves",
+          "event_type": "Goal",
+          "assist": "A. Jimenez",
+          "score_update": "3 - 0"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Parma_wins": "0",
-          "draws": "2",
-          "Catania_wins": "1"
+          "Fiorentina_wins": "1",
+          "draws": "0",
+          "Pisa_wins": "0"
         },
         "previous_matches": [
           {
-            "date": "09/02/2014",
-            "competition": "Serie A",
-            "teams_and_score": "Parma 0 - 0 Catania"
-          },
-          {
-            "date": "12/12/2012",
-            "competition": "Coppa Italia",
-            "teams_and_score": "Parma 1 - 1 Catania"
-          },
-          {
-            "date": "07/10/2012",
-            "competition": "Serie A",
-            "teams_and_score": "Catania 2 - 0 Parma"
+            "date": "23/02/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Fiorentina 1 - 0 Pisa"
           }
         ],
         "home_team_form": {
-          "team": "Parma",
+          "team": "Fiorentina",
           "form": [
             "W",
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "14/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Parma 2 - 0 Catania",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Parma 0 - 2 Sampdoria",
-              "result": "L"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Parma 1 - 1 Iraklis",
-              "result": "D"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Parma 1 - 0 Sassuolo",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Catania",
-          "form": [
-            "L",
-            "D",
+            "W",
             "W",
             "D"
           ],
           "recent_matches": [
             {
-              "date": "14/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Parma 2 - 0 Catania",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
+              "date": "15/09/2026",
               "competition": "Coppa Italia: Preliminary Round",
-              "teams_and_score": "L.R. Vicenza 1 - 1 Catania",
-              "result": "D"
-            },
-            {
-              "date": "27/05/2026",
-              "competition": "Serie C: Promotion Play-off",
-              "teams_and_score": "Catania 2 - 1 Ascoli",
+              "teams_and_score": "Fiorentina 3 - 0 Pisa",
               "result": "W"
             },
             {
-              "date": "26/04/2026",
-              "competition": "Serie C: Group C",
-              "teams_and_score": "Atalanta U23 1 - 1 Catania",
+              "date": "11/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Venezia 2 - 4 Fiorentina",
+              "result": "W"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Fiorentina 4 - 1 Benevento",
+              "result": "W"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Fiorentina 1 - 1 Deportivo A Coruna",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Pisa",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Fiorentina 3 - 0 Pisa",
+              "result": "L"
+            },
+            {
+              "date": "11/09/2026",
+              "competition": "Serie B",
+              "teams_and_score": "Pisa 1 - 4 Virtus Entella",
+              "result": "L"
+            },
+            {
+              "date": "17/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Pisa 1 - 1 Empoli",
+              "result": "D"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bologna 1 - 4 Pisa",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Lazio 2 - 1 Pisa",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Fiorentina": "7",
+          "Pisa": "0"
+        },
+        "shots_off_target": {
+          "Fiorentina": "6",
+          "Pisa": "6"
+        },
+        "shots_blocked": {
+          "Fiorentina": "3",
+          "Pisa": "1"
+        },
+        "corners": {
+          "Fiorentina": "3",
+          "Pisa": "0"
+        },
+        "fouls": {
+          "Fiorentina": "17",
+          "Pisa": "9"
+        },
+        "offsides": {
+          "Fiorentina": "1",
+          "Pisa": "0"
+        },
+        "yellow_cards": {
+          "Fiorentina": "2",
+          "Pisa": "2"
+        },
+        "goalkeeper_saves": {
+          "Fiorentina": "0",
+          "Pisa": "4"
+        },
+        "ball_possession": {
+          "Fiorentina": "53%",
+          "Pisa": "47%"
+        }
+      },
+      "description": "Watch Fiorentina vs Pisa highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on September 15, 2026. On September 15, 2026, the Coppa Italia took center stage as Fiorentina hosted Pisa in a knockout encounter filled with tactical intrigue. Both sets of supporters arrived at the stadium expecting a fierce battle for supremacy in one of Italy’s most prestigious cup competitions. Pellegrino Breaks the Deadlock The match began with high intensity, as both teams fought for control in the central areas. Early disciplinary issues saw Franco Mastantuono booked just six minutes into the game, setting a physical tone. As the first half progressed, Pisa struggled to contain the home side's growing pressure. The breakthrough finally arrived in the 40th minute when Mateo Pellegrino found the back of the net, rewarding Fiorentina 's persistence and sending them into the half-time break with a vital lead. Second Half Adjustments and Momentum The second half saw both managers turn to their benches to influence the outcome. Fiorentina introduced Viery for Radu Dragusin immediately after the restart, while a flurry of substitutions around the hour mark brought fresh energy to the pitch. The introduction of Alieu Njie and Pedro Gonçalves proved to be a masterstroke, as the home side tightened their grip on the match. Despite yellow cards for Simone Canestrelli and Victor Valdepenas , the flow of the game remained firmly in the hands of the hosts. Sealing the Victory In the 71st minute, the pressure told once again. Wilfried Gnonto doubled the lead with a clinical finish, expertly assisted by Alieu Njie . As the clock ticked towards full-time, Pisa found it difficult to muster a comeback against a disciplined defensive line. The scoring was completed in stoppage time when Pedro Gonçalves netted a third goal in the 90+2nd minute, courtesy of an Alex Jimenez assist. The referee's final whistle confirmed a comprehensive 3-0 victory, ensuring Fiorentina 's progression to the next round."
+    },
+    {
+      "title": "Genoa vs Südtirol",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/genoa-sudtirol-2026-09-15-K1gz.webp",
+      "competition": "Coppa Italia",
+      "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
+      "date": "Sep 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1578.webp",
+          "name": "Sudtirol",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/495.webp",
+          "name": "Genoa",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/genoa-sudtirol-2026-09-15.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Genoa",
+          "player": "J. Vásquez",
+          "event_type": "Goal",
+          "assist": "D. Puczka",
+          "score_update": "1 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Genoa_wins": "1",
+          "draws": "1",
+          "Sudtirol_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "01/05/2023",
+            "competition": "Serie B 22/23",
+            "teams_and_score": "Sudtirol 0 - 0 Genoa"
+          },
+          {
+            "date": "20/07/2016",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Genoa 3 - 0 Sudtirol"
+          }
+        ],
+        "home_team_form": {
+          "team": "Genoa",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Genoa 1 - 0 Sudtirol",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Genoa 1 - 1 Frosinone",
+              "result": "D"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Genoa 4 - 1 Ascoli",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Genoa 0 - 1 Deportivo A Coruna",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "AFC Bournemouth 10 - 1 Genoa",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Sudtirol",
+          "form": [
+            "L",
+            "D",
+            "D",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Genoa 1 - 0 Sudtirol",
+              "result": "L"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Serie B",
+              "teams_and_score": "Sudtirol 1 - 1 Modena",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Catanzaro 2 - 2 Sudtirol",
+              "result": "D"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "Serie B: Relegation: Play-off",
+              "teams_and_score": "Sudtirol 0 - 0 Bari",
+              "result": "D"
+            },
+            {
+              "date": "08/05/2026",
+              "competition": "Serie B",
+              "teams_and_score": "Sudtirol 1 - 1 Juve Stabia",
               "result": "D"
             }
           ]
@@ -141,47 +349,39 @@
       },
       "statistics": {
         "shots_on_target": {
-          "Parma": "8",
-          "Catania": "2"
+          "Genoa": "6",
+          "Sudtirol": "2"
         },
         "shots_off_target": {
-          "Parma": "1",
-          "Catania": "2"
+          "Genoa": "13",
+          "Sudtirol": "1"
         },
         "shots_blocked": {
-          "Parma": "3",
-          "Catania": "2"
+          "Genoa": "8",
+          "Sudtirol": "2"
         },
         "corners": {
-          "Parma": "3",
-          "Catania": "5"
+          "Genoa": "10",
+          "Sudtirol": "3"
         },
         "fouls": {
-          "Parma": "19",
-          "Catania": "8"
+          "Genoa": "10",
+          "Sudtirol": "7"
         },
         "offsides": {
-          "Parma": "1",
-          "Catania": "2"
-        },
-        "yellow_cards": {
-          "Parma": "1",
-          "Catania": "2"
+          "Genoa": "4",
+          "Sudtirol": "2"
         },
         "goalkeeper_saves": {
-          "Parma": "2",
-          "Catania": "6"
-        },
-        "crosses": {
-          "Parma": "3",
-          "Catania": "4"
+          "Genoa": "2",
+          "Sudtirol": "5"
         },
         "ball_possession": {
-          "Parma": "34%",
-          "Catania": "66%"
+          "Genoa": "53%",
+          "Sudtirol": "47%"
         }
       },
-      "description": "Watch Parma vs Catania highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on August 14, 2026. The Coppa Italia brought a fascinating clash between Parma and Catania on August 14, 2026, as both sides aimed to secure their place in the next round of the tournament. The atmosphere was charged with expectation for a match that promised tactical depth and individual brilliance. Lontani's First-Half Masterclass Parma took control of the proceedings early on, utilizing high pressure to disrupt Catania 's buildup play. After initial efforts from Adrián Bernabé and El Bilal Touré , the deadlock was finally broken in the 19th minute. Following a corner delivered by Emanuele Valeri , the ball fell to Simone Lontani , who fired a precise right-footed shot into the top right corner to give the hosts the lead. Catania attempted to respond immediately and nearly equalized in the 24th minute when Simone Leonardi tested the reflexes of Edoardo Corvi with a dangerous strike. However, it was Parma who struck again during a lethal counter-attack in the 35th minute. El Bilal Touré burst forward and provided a perfect cross for Simone Lontani , who made no mistake from close range to double his tally and the lead before the break. Management and Defensive Resilience Returning from the locker rooms, Catania introduced tactical changes with the arrivals of Alessandro Raimo and Michael Liguori to try and alter the course of the match. The Sicilian side came close to reducing the deficit through an Andrea Allegretto header, but Edoardo Corvi shone again with a steady save in the bottom corner. Catania goalkeeper Filippo Rinaldi also played a key role in preventing a heavier scoreline, stopping dangerous attempts from Enrico Delprato and Sascha Britschgi . In the final stages, the tempo slowed as both managers turned to their benches, including the introductions of Mandela Keita and Franco Carboni for Parma . Despite Catania 's late efforts, the home defense remained solid, securing a professional victory and progression to the next stage."
+      "description": "Watch Genoa vs Sudtirol highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on September 15, 2026. The Coppa Italia delivered another evening of high drama on September 15, 2026, as Genoa faced off against a disciplined Südtirol side. It was a match defined by tactical patience, defensive resilience, and a dramatic conclusion that rewarded the persistence of the home supporters. A Tight and Tactical First Half From the opening whistle, Südtirol established a solid defensive structure that proved difficult for Genoa to break down. The first half was characterized by intense midfield battles and limited clear-cut chances for either side. Despite Genoa 's attempts to dictate the tempo, the visitors remained compact, ensuring that the scoreline remained level. As the referee blew for half-time at 45+1 minutes, both teams headed to the tunnels with the match still searching for its first major breakthrough. Substitutions Alter the Dynamic The second half saw both managers turn to their benches in an attempt to spark some offensive creativity. Giacomo Stabile replaced Andrea Giorgini at the break, and as the hour mark passed, Genoa introduced a wave of experience with Stephan El Shaarawy , Kevin Zeroli , and Lorenzo Colombo . The influx of fresh legs increased the pressure on the Südtirol backline, though the visitors continued to defend gallantly, making their own tactical changes by bringing on Salvatore Molina and Alvin Okoro to maintain their energy levels. In the 80th minute, a pivotal substitution occurred that would ultimately decide the fate of the tie. Johan Vasquez entered the fray, replacing Sebastian Otoa . This move added a new dimension to Genoa 's approach during the final stages of the game, as they pushed forward with renewed urgency to avoid the uncertainty of extra time. Vasquez Becomes the Late Hero The decisive moment arrived in the 87th minute, just as the game seemed destined for an additional thirty minutes. David Puczka delivered a pinpoint assist, finding Johan Vasquez in a dangerous position. The substitute made no mistake, firing the ball home to give Genoa the lead. The late goal left Südtirol with very little time to respond, and despite a final substitution to bring on Bjarki Steinn Bjarkason , they could not find an equalizer. Genoa held on to secure their progression, thanks to a moment of clinical finishing in the dying embers of the match."
     },
     {
       "title": "Cagliari vs Verona",
@@ -1873,6 +2073,185 @@
         }
       },
       "description": "Watch Fiorentina vs Benevento highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on August 14, 2026. The Coppa Italia returned to the spotlight on August 14, 2026, as Fiorentina and Benevento faced off in a highly anticipated knockout encounter. Fans at the stadium were treated to a match filled with tactical intensity and a flurry of offensive actions from the very first whistle. Early Dominance from the Viola Fiorentina wasted no time in asserting their authority on home turf. In just the 2nd minute, Albert Gudmundsson sent the crowd into a frenzy by nodding home a header from point-blank range. Despite the early setback, Benevento attempted to fight back, with Davide Lamesta testing the legendary David de Gea with several long-range efforts. However, the hosts doubled their advantage in the 35th minute when Moise Kean clinicaly finished a cross from João Mário , sending the Viola into the break with a commanding lead. A Second Half Scoring Blitz The momentum stayed firmly with the home side as the second half commenced. Within five minutes of the restart, the match was effectively put out of reach. First, Luca Ranieri rose highest to head home from a corner in the 48th minute, assisted by Radu Dragusin . Just two minutes later, Cher Ndour made it four with a precise left-footed strike into the bottom corner. Fiorentina's relentless pressure left the visitors struggling to find answers in a chaotic opening to the period. Consolation and Professional Closing Benevento did manage to find a spark of hope in the 54th minute when Davide Lamesta unleashed a powerful strike from outside the box to beat De Gea . The visitors introduced Simone Verdi and David Okereke in an attempt to claw further back into the game, but the Fiorentina defense remained organized. As the clock wound down, yellow cards for Christ Inao Oulaï and Pietro Beruatto highlighted the competitive edge of the tie. Ultimately, Fiorentina secured a comfortable 4-1 victory, progressing in the tournament with style and efficiency."
+    },
+    {
+      "title": "Parma vs Catania",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/parma-vs-catania-2026-08-14-pugr.webp",
+      "competition": "Coppa Italia",
+      "competition_cover": "https://refooty.com/covers/coppa-italia.webp",
+      "date": "Aug 14, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1580.webp",
+          "name": "Catania",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/523.webp",
+          "name": "Parma",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/parma-vs-catania-2026-08-14_RpK1g.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Parma",
+          "player": "S. Lontani",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Parma",
+          "player": "S. Lontani",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Parma_wins": "0",
+          "draws": "2",
+          "Catania_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "09/02/2014",
+            "competition": "Serie A",
+            "teams_and_score": "Parma 0 - 0 Catania"
+          },
+          {
+            "date": "12/12/2012",
+            "competition": "Coppa Italia",
+            "teams_and_score": "Parma 1 - 1 Catania"
+          },
+          {
+            "date": "07/10/2012",
+            "competition": "Serie A",
+            "teams_and_score": "Catania 2 - 0 Parma"
+          }
+        ],
+        "home_team_form": {
+          "team": "Parma",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "14/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Parma 2 - 0 Catania",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Parma 0 - 2 Sampdoria",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Parma 1 - 1 Iraklis",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Parma 1 - 0 Sassuolo",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Catania",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "14/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Parma 2 - 0 Catania",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "L.R. Vicenza 1 - 1 Catania",
+              "result": "D"
+            },
+            {
+              "date": "27/05/2026",
+              "competition": "Serie C: Promotion Play-off",
+              "teams_and_score": "Catania 2 - 1 Ascoli",
+              "result": "W"
+            },
+            {
+              "date": "26/04/2026",
+              "competition": "Serie C: Group C",
+              "teams_and_score": "Atalanta U23 1 - 1 Catania",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Parma": "8",
+          "Catania": "2"
+        },
+        "shots_off_target": {
+          "Parma": "1",
+          "Catania": "2"
+        },
+        "shots_blocked": {
+          "Parma": "3",
+          "Catania": "2"
+        },
+        "corners": {
+          "Parma": "3",
+          "Catania": "5"
+        },
+        "fouls": {
+          "Parma": "19",
+          "Catania": "8"
+        },
+        "offsides": {
+          "Parma": "1",
+          "Catania": "2"
+        },
+        "yellow_cards": {
+          "Parma": "1",
+          "Catania": "2"
+        },
+        "goalkeeper_saves": {
+          "Parma": "2",
+          "Catania": "6"
+        },
+        "crosses": {
+          "Parma": "3",
+          "Catania": "4"
+        },
+        "ball_possession": {
+          "Parma": "34%",
+          "Catania": "66%"
+        }
+      },
+      "description": "Watch Parma vs Catania highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on August 14, 2026. The Coppa Italia brought a fascinating clash between Parma and Catania on August 14, 2026, as both sides aimed to secure their place in the next round of the tournament. The atmosphere was charged with expectation for a match that promised tactical depth and individual brilliance. Lontani's First-Half Masterclass Parma took control of the proceedings early on, utilizing high pressure to disrupt Catania 's buildup play. After initial efforts from Adrián Bernabé and El Bilal Touré , the deadlock was finally broken in the 19th minute. Following a corner delivered by Emanuele Valeri , the ball fell to Simone Lontani , who fired a precise right-footed shot into the top right corner to give the hosts the lead. Catania attempted to respond immediately and nearly equalized in the 24th minute when Simone Leonardi tested the reflexes of Edoardo Corvi with a dangerous strike. However, it was Parma who struck again during a lethal counter-attack in the 35th minute. El Bilal Touré burst forward and provided a perfect cross for Simone Lontani , who made no mistake from close range to double his tally and the lead before the break. Management and Defensive Resilience Returning from the locker rooms, Catania introduced tactical changes with the arrivals of Alessandro Raimo and Michael Liguori to try and alter the course of the match. The Sicilian side came close to reducing the deficit through an Andrea Allegretto header, but Edoardo Corvi shone again with a steady save in the bottom corner. Catania goalkeeper Filippo Rinaldi also played a key role in preventing a heavier scoreline, stopping dangerous attempts from Enrico Delprato and Sascha Britschgi . In the final stages, the tempo slowed as both managers turned to their benches, including the introductions of Mandela Keita and Franco Carboni for Parma . Despite Catania 's late efforts, the home defense remained solid, securing a professional victory and progression to the next stage."
     }
   ]
 }
