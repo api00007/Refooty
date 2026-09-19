@@ -2,6 +2,13 @@
   "Total_Competitions": 39,
   "competitions": [
     {
+      "name": "Premier League",
+      "slug": "premier-league",
+      "cover_image": "https://refooty.com/covers/premier-league.webp",
+      "total_matches": 41,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/premier-league.json"
+    },
+    {
       "name": "Championship",
       "slug": "championship",
       "cover_image": "https://refooty.com/covers/championship.webp",
@@ -121,13 +128,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/serie-a.json"
     },
     {
-      "name": "Premier League",
-      "slug": "premier-league",
-      "cover_image": "https://refooty.com/covers/premier-league.webp",
-      "total_matches": 41,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/premier-league.json"
-    },
-    {
       "name": "Jupiler Pro League",
       "slug": "jupiler-pro-league",
       "cover_image": "https://refooty.com/covers/jupiler-pro-league.webp",
@@ -156,25 +156,11 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/pro-league-saudi-arabia.json"
     },
     {
-      "name": "League Two",
-      "slug": "league-two",
-      "cover_image": "https://refooty.com/covers/league-two.webp",
-      "total_matches": 19,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/league-two.json"
-    },
-    {
       "name": "UEFA Champions League",
       "slug": "uefa-champions-league",
       "cover_image": "https://refooty.com/covers/uefa-champions-league.webp",
       "total_matches": 45,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-champions-league.json"
-    },
-    {
-      "name": "DFB-Pokal",
-      "slug": "dfb-pokal",
-      "cover_image": "https://refooty.com/covers/dfb-pokal.webp",
-      "total_matches": 5,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/dfb-pokal.json"
     },
     {
       "name": "Friendly",
@@ -212,6 +198,13 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-conference-league.json"
     },
     {
+      "name": "League Two",
+      "slug": "league-two",
+      "cover_image": "https://refooty.com/covers/league-two.webp",
+      "total_matches": 19,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/league-two.json"
+    },
+    {
       "name": "Segunda División",
       "slug": "segunda-división",
       "cover_image": "",
@@ -231,6 +224,13 @@
       "cover_image": "",
       "total_matches": 18,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/ligue-2.json"
+    },
+    {
+      "name": "DFB-Pokal",
+      "slug": "dfb-pokal",
+      "cover_image": "https://refooty.com/covers/dfb-pokal.webp",
+      "total_matches": 5,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/dfb-pokal.json"
     },
     {
       "name": "USL Championship",

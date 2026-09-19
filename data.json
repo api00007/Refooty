@@ -3,8 +3,236 @@
   "AUTHOR": "iVan_FluX",
   "CONTACT (OWNER)": "https://t.me/iVan_flux",
   "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-  "Last update time": "04:07:19 PM 19-09-2026",
+  "Last update time": "04:10:29 PM 19-09-2026",
   "matches": [
+    {
+      "title": "Brentford vs Chelsea",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/brentford-vs-chelsea-2026-09-18-4ORo.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 18, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/49.webp",
+          "name": "Chelsea",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/55.webp",
+          "name": "Brentford",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/brentford-vs-chelsea-2026-09-18.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "61'",
+          "team": "Brentford",
+          "player": "J. Anthony",
+          "event_type": "Goal",
+          "assist": "J. Schuster",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "83'",
+          "team": "Brentford",
+          "player": "I. Thiago",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "84'",
+          "team": "Brentford",
+          "player": "I. Thiago",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "85'",
+          "team": "Brentford",
+          "player": "M. Sangare",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Brentford",
+          "player": "F. Carvalho",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Brentford_wins": "2",
+          "draws": "2",
+          "Chelsea_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "17/01/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Chelsea 2 - 0 Brentford"
+          },
+          {
+            "date": "06/04/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Brentford 0 - 0 Chelsea"
+          },
+          {
+            "date": "02/03/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "Brentford 2 - 2 Chelsea"
+          },
+          {
+            "date": "26/04/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Chelsea 0 - 2 Brentford"
+          },
+          {
+            "date": "02/04/2022",
+            "competition": "Premier League 21/22",
+            "teams_and_score": "Chelsea 1 - 4 Brentford"
+          },
+          {
+            "date": "22/12/2021",
+            "competition": "EFL Cup 21/22",
+            "teams_and_score": "Brentford 0 - 2 Chelsea"
+          }
+        ],
+        "home_team_form": {
+          "team": "Brentford",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "18/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 3 - 0 Chelsea",
+              "result": "W"
+            },
+            {
+              "date": "15/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Reading 1 - 2 Brentford",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "AFC Bournemouth 2 - 2 Brentford",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Birmingham City 1 - 6 Brentford",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Chelsea",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "18/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 3 - 0 Chelsea",
+              "result": "L"
+            },
+            {
+              "date": "09/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Chelsea 6 - 3 Leeds United",
+              "result": "W"
+            },
+            {
+              "date": "06/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Arsenal 2 - 1 Chelsea",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Chelsea 2 - 0 Luton Town",
+              "result": "W"
+            },
+            {
+              "date": "24/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Fulham 2 - 3 Chelsea",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Brentford": "6",
+          "Chelsea": "2"
+        },
+        "shots_off_target": {
+          "Brentford": "3",
+          "Chelsea": "3"
+        },
+        "shots_blocked": {
+          "Brentford": "4",
+          "Chelsea": "7"
+        },
+        "corners": {
+          "Brentford": "4",
+          "Chelsea": "12"
+        },
+        "fouls": {
+          "Brentford": "10",
+          "Chelsea": "7"
+        },
+        "offsides": {
+          "Brentford": "2",
+          "Chelsea": "2"
+        },
+        "yellow_cards": {
+          "Brentford": "2",
+          "Chelsea": "0"
+        },
+        "goalkeeper_saves": {
+          "Brentford": "2",
+          "Chelsea": "3"
+        },
+        "crosses": {
+          "Brentford": "5",
+          "Chelsea": "2"
+        },
+        "ball_possession": {
+          "Brentford": "40%",
+          "Chelsea": "60%"
+        }
+      },
+      "description": "Watch Brentford vs Chelsea highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 18, 2026. The atmosphere was thick with anticipation as two London rivals prepared to lock horns in a clash of tactical wits. On 2026-09-18 , fans packed the stadium to witness a Premier League encounter that promised to be a defining moment in both teams' campaigns. A Cautious Opening Exchange The first half was characterized by a high-stakes chess match, with Chelsea enjoying the lion's share of possession. Jordan Henderson pulled the strings from midfield, orchestrating several attacking sequences that resulted in a flurry of corners. Despite the pressure from Pedro Neto and Danny Welbeck , the Brentford defense remained resolute. The hosts had to overcome some early nerves, including a defensive blunder that nearly cost them, but they successfully navigated the opening 45 minutes to keep the scores level at the break. The Bees Find Their Rhythm The deadlock was finally broken in the 61st minute as the hosts clicked into gear. A flowing move saw Mikkel Damsgaard provide a key pass to Jannik Schuster , who delivered a pinpoint cross for Jaidon Anthony . The forward made no mistake from close range, heading the ball into the net to give Brentford a hard-fought lead. Chelsea attempted to respond by introducing fresh legs, including Estevao and Josh Acheampong , but they struggled to break down a compact and energized opposition. Clinical Finishing Seals the Win As the clock ticked toward full-time, the game opened up, allowing Brentford to showcase their clinical edge. In the 83rd minute, Igor Thiago doubled the lead with a simple tap-in, though his exuberant celebrations—which involved removing his shirt—earned him a yellow card. Chelsea pushed for a late consolation, with Maxence Lacroix going close with a header, but the night belonged to the home side. In the fourth minute of stoppage time, super-sub Fabio Carvalho converted a pass from Kevin Schade to make it 3-0, putting the finishing touches on a dominant second-half performance."
+    },
     {
       "title": "bristol city - watford",
       "thumbnail_url": "https://img.refooty.com/thumbnail/bristol-city-watford-2026-09-18-MgMG.webp",
@@ -9897,225 +10125,6 @@
         }
       },
       "description": "Watch Fiorentina vs Pisa highlights and goals from Coppa Italia on ReFooty: Football Highlights Hub. Match played on September 15, 2026. On September 15, 2026, the Coppa Italia took center stage as Fiorentina hosted Pisa in a knockout encounter filled with tactical intrigue. Both sets of supporters arrived at the stadium expecting a fierce battle for supremacy in one of Italy’s most prestigious cup competitions. Pellegrino Breaks the Deadlock The match began with high intensity, as both teams fought for control in the central areas. Early disciplinary issues saw Franco Mastantuono booked just six minutes into the game, setting a physical tone. As the first half progressed, Pisa struggled to contain the home side's growing pressure. The breakthrough finally arrived in the 40th minute when Mateo Pellegrino found the back of the net, rewarding Fiorentina 's persistence and sending them into the half-time break with a vital lead. Second Half Adjustments and Momentum The second half saw both managers turn to their benches to influence the outcome. Fiorentina introduced Viery for Radu Dragusin immediately after the restart, while a flurry of substitutions around the hour mark brought fresh energy to the pitch. The introduction of Alieu Njie and Pedro Gonçalves proved to be a masterstroke, as the home side tightened their grip on the match. Despite yellow cards for Simone Canestrelli and Victor Valdepenas , the flow of the game remained firmly in the hands of the hosts. Sealing the Victory In the 71st minute, the pressure told once again. Wilfried Gnonto doubled the lead with a clinical finish, expertly assisted by Alieu Njie . As the clock ticked towards full-time, Pisa found it difficult to muster a comeback against a disciplined defensive line. The scoring was completed in stoppage time when Pedro Gonçalves netted a third goal in the 90+2nd minute, courtesy of an Alex Jimenez assist. The referee's final whistle confirmed a comprehensive 3-0 victory, ensuring Fiorentina 's progression to the next round."
-    },
-    {
-      "title": "Hibernian - Kilmarnock",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/hibernian-kilmarnock-2026-09-15-wFdl.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Sep 15, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/250.webp",
-          "name": "Kilmarnock",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/249.webp",
-          "name": "Hibernian",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/hibernian-kilmarnock-2026-09-15.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Kilmarnock",
-          "player": "T. John-Jules",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Kilmarnock",
-          "player": "G. Stanger",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "56'",
-          "team": "Kilmarnock",
-          "player": "J. Hugill",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "78'",
-          "team": "Kilmarnock",
-          "player": "D. Daniels",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+2'",
-          "team": "Kilmarnock",
-          "player": "D. Daniels",
-          "event_type": "Red Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Hibernian_wins": "2",
-          "draws": "2",
-          "Kilmarnock_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "04/04/2026",
-            "competition": "Premiership",
-            "teams_and_score": "Hibernian 3 - 0 Kilmarnock"
-          },
-          {
-            "date": "15/03/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Kilmarnock 1 - 1 Hibernian"
-          },
-          {
-            "date": "27/01/2024",
-            "competition": "Premiership 23/24",
-            "teams_and_score": "Kilmarnock 2 - 2 Hibernian"
-          },
-          {
-            "date": "18/02/2023",
-            "competition": "Premiership 22/23",
-            "teams_and_score": "Hibernian 2 - 0 Kilmarnock"
-          }
-        ],
-        "home_team_form": {
-          "team": "Hibernian",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/09/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Hibernian 0 - 1 Kilmarnock",
-              "result": "L"
-            },
-            {
-              "date": "12/09/2026",
-              "competition": "Scottish League Cup: Quarter-Finals",
-              "teams_and_score": "Ross County 0 - 3 Hibernian",
-              "result": "W"
-            },
-            {
-              "date": "06/09/2026",
-              "competition": "Premiership",
-              "teams_and_score": "St. Johnstone 2 - 1 Hibernian",
-              "result": "L"
-            },
-            {
-              "date": "27/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hibernian 2 - 3 Gent",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Hibernian 1 - 0 Partick Thistle",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Kilmarnock",
-          "form": [
-            "W",
-            "D",
-            "D",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/09/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Hibernian 0 - 1 Kilmarnock",
-              "result": "W"
-            },
-            {
-              "date": "12/09/2026",
-              "competition": "Scottish League Cup: Quarter-Finals",
-              "teams_and_score": "Kilmarnock 1 - 1 Aberdeen",
-              "result": "D"
-            },
-            {
-              "date": "05/09/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Aberdeen 0 - 0 Kilmarnock",
-              "result": "D"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Kilmarnock 3 - 2 Ayr United",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Kilmarnock 1 - 5 Celtic",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Hibernian": "7",
-          "Kilmarnock": "7"
-        },
-        "shots_off_target": {
-          "Hibernian": "6",
-          "Kilmarnock": "3"
-        },
-        "shots_blocked": {
-          "Hibernian": "10",
-          "Kilmarnock": "2"
-        },
-        "corners": {
-          "Hibernian": "15",
-          "Kilmarnock": "7"
-        },
-        "fouls": {
-          "Hibernian": "8",
-          "Kilmarnock": "10"
-        },
-        "offsides": {
-          "Hibernian": "5",
-          "Kilmarnock": "2"
-        },
-        "yellow_cards": {
-          "Hibernian": "0",
-          "Kilmarnock": "1"
-        },
-        "red_cards": {
-          "Hibernian": "0",
-          "Kilmarnock": "1"
-        },
-        "goalkeeper_saves": {
-          "Hibernian": "6",
-          "Kilmarnock": "7"
-        },
-        "crosses": {
-          "Hibernian": "6",
-          "Kilmarnock": "4"
-        },
-        "ball_possession": {
-          "Hibernian": "60%",
-          "Kilmarnock": "40%"
-        }
-      },
-      "description": "Watch Hibernian vs Kilmarnock highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 15, 2026. Tactical Battle at Easter Road Ends in Narrow Kilmarnock Victory On September 15, 2026 , Hibernian hosted Kilmarnock in a Scottish Premiership encounter that tested the resolve of both squads. The match featured intense tactical battles and a physical edge that kept the spectators on the edge of their seats throughout the afternoon. Stanger Provides the Breakthrough The home side faced an early disruption when Kanayochukwu Megwa was forced off after just eight minutes, with Grant Hanley coming on to stabilize the defense. As the contest intensified, Tyreece John-Jules received a yellow card in the 31st minute for a heavy challenge. The decisive moment of the first half arrived in the 40th minute when George Stanger found the target with a clinical finish, giving Kilmarnock a vital lead heading into the break. Second Half Adjustments and Stoppage Time Drama Seeking an equalizer, Hibernian made a triple substitution in the 53rd minute, introducing Martin Boyle , Nathan Lowe , and Owen Elding . Shortly after, Kilmarnock nearly doubled their lead, but J. Hugill missed a significant chance in the 56th minute. The visitors then refreshed their lineup with several changes, including the introduction of Djenairo Daniels for John-Jules in the 73rd minute. Lowering the curtain on a tense affair, the final moments were marred by disciplinary issues for the visitors. Daniels earned his first yellow card in the 78th minute and was subsequently sent off in the 92nd minute after receiving a second yellow card. Despite being reduced to ten men for the remainder of stoppage time, Kilmarnock withstood nine minutes of added time to secure the win."
     }
   ],
   "hasMore": true,
