@@ -1,9 +1,221 @@
 {
   "team": "Coritiba",
   "team_logo": "https://img.refooty.com/logo/teams/147.webp",
-  "total_matches": 5,
-  "Last update time": "12:20:19 AM 20-09-2026",
+  "total_matches": 6,
+  "Last update time": "10:50:55 PM 20-09-2026",
   "matches": [
+    {
+      "title": "Vasco da Gama - Coritiba",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/vasco-da-gama-coritiba-2026-09-20-TGTZ.webp",
+      "competition": "Brasileirão",
+      "competition_cover": "https://refooty.com/covers/brasileirao.webp",
+      "date": "Sep 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/147.webp",
+          "name": "Coritiba",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/133.webp",
+          "name": "Vasco DA Gama",
+          "score": "5"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/vasco-da-gama-coritiba-2026-09-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Vasco DA Gama",
+          "player": "F. Colidio",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Vasco DA Gama",
+          "player": "B. Duarte",
+          "event_type": "Goal",
+          "assist": "A. Gomez",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Vasco DA Gama",
+          "player": "A. Lescano",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Coritiba",
+          "player": "P. Roberto",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Vasco DA Gama",
+          "player": "A. Gomez",
+          "event_type": "Goal",
+          "assist": "A. Saldivia",
+          "score_update": "4 - 0"
+        },
+        {
+          "time": "91'",
+          "team": "Vasco DA Gama",
+          "player": "A. Gomez",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Vasco DA Gama",
+          "player": "R. Rique",
+          "event_type": "Goal",
+          "score_update": "5 - 0"
+        },
+        {
+          "time": "121'",
+          "team": "Coritiba",
+          "player": "N. Fonseca",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Vasco DA Gama_wins": "2",
+          "draws": "2",
+          "Coritiba_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "01/04/2026",
+            "competition": "Serie A",
+            "teams_and_score": "Coritiba 1 - 1 Vasco da Gama"
+          },
+          {
+            "date": "21/09/2023",
+            "competition": "Serie A 2023",
+            "teams_and_score": "Vasco da Gama 5 - 1 Coritiba"
+          },
+          {
+            "date": "16/10/2021",
+            "competition": "Serie B",
+            "teams_and_score": "Vasco da Gama 2 - 1 Coritiba"
+          },
+          {
+            "date": "17/01/2021",
+            "competition": "Serie A 2020",
+            "teams_and_score": "Vasco da Gama 0 - 1 Coritiba"
+          },
+          {
+            "date": "21/10/2017",
+            "competition": "Serie A",
+            "teams_and_score": "Vasco da Gama 1 - 1 Coritiba"
+          }
+        ],
+        "home_team_form": {
+          "team": "Vasco DA Gama",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Vasco da Gama 5 - 0 Coritiba",
+              "result": "W"
+            },
+            {
+              "date": "15/09/2026",
+              "competition": "Quarter-Finals",
+              "teams_and_score": "Vasco da Gama 2 - 0 Santa Fe",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Gremio 1 - 2 Vasco da Gama",
+              "result": "W"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "Quarter-Finals",
+              "teams_and_score": "Santa Fe 0 - 0 Vasco da Gama",
+              "result": "D"
+            },
+            {
+              "date": "06/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Fluminense 1 - 0 Vasco da Gama",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Coritiba",
+          "form": [
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Vasco da Gama 5 - 0 Coritiba",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Vasco DA Gama": "11",
+          "Coritiba": "1"
+        },
+        "shots_off_target": {
+          "Vasco DA Gama": "11",
+          "Coritiba": "1"
+        },
+        "shots_blocked": {
+          "Vasco DA Gama": "10",
+          "Coritiba": "2"
+        },
+        "corners": {
+          "Vasco DA Gama": "12",
+          "Coritiba": "2"
+        },
+        "fouls": {
+          "Vasco DA Gama": "7",
+          "Coritiba": "8"
+        },
+        "offsides": {
+          "Vasco DA Gama": "0",
+          "Coritiba": "1"
+        },
+        "yellow_cards": {
+          "Vasco DA Gama": "1",
+          "Coritiba": "2"
+        },
+        "goalkeeper_saves": {
+          "Vasco DA Gama": "1",
+          "Coritiba": "6"
+        },
+        "ball_possession": {
+          "Vasco DA Gama": "65%",
+          "Coritiba": "35%"
+        }
+      },
+      "description": "Watch Vasco DA Gama vs Coritiba highlights and goals from Brasileirão on ReFooty: Football Highlights Hub. Match played on September 20, 2026. The stage was set for a classic encounter as Vasco da Gama and Coritiba squared off on September 20, 2026. With both teams eager to climb the Serie A standings, the match promised a high-octane battle of tactics and individual brilliance from the very first whistle. Clinical Finishing in the Opening Period Vasco da Gama signaled their intent early on, breaking the deadlock in the 24th minute. Facundo Colidio found himself in the right place at the right time to slot the ball home, giving the home fans plenty to cheer about. Despite the setback, Coritiba remained composed, working their way back into the contest through disciplined buildup play. Their efforts were rewarded just before the halftime whistle. In the 44th minute, Andres Gomez turned provider, delivering a precise ball for [player1] to finish clinically. The equalizer sent the teams into the dressing rooms level, setting the scene for a dramatic second half filled with strategic changes and tactical adjustments. Penalty Drama and Substitute Impact The second half saw a flurry of activity, starting with a penalty awarded to Vasco da Gama in the 56th minute. Alan Lescano stepped up and coolly dispatched the spot-kick to restore the lead. However, the advantage was short-lived as Coritiba struck back in the 63rd minute. Andres Gomez , capitalizing on an assist from Alan Saldivia , found the net to level the scores once again in this see-saw battle. As the clock ticked down, it was a substitution that proved to be the masterstroke. Ramon Rique , who had replaced Lescano only moments earlier, made an instant impact by scoring in the 73rd minute. The final stages were physically demanding, with yellow cards shown to Nicolas Fonseca and Paulo Roberto as Coritiba pushed for another equalizer. Ultimately, the defense held firm through eight minutes of stoppage time to secure a vital result."
+    },
     {
       "title": "Coritiba - Athletico Paranaense",
       "thumbnail_url": "https://img.refooty.com/thumbnail/coritiba-athletico-paranaense-2026-09-12-j1xZ.webp",

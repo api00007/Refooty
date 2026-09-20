@@ -1,9 +1,221 @@
 {
   "team": "Dundee Fc",
   "team_logo": "https://img.refooty.com/logo/teams/253.webp",
-  "total_matches": 6,
-  "Last update time": "12:20:19 AM 20-09-2026",
+  "total_matches": 7,
+  "Last update time": "10:50:56 PM 20-09-2026",
   "matches": [
+    {
+      "title": "Dundee - Motherwell",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-motherwell-2026-09-19-hL5W.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Sep 19, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/256.webp",
+          "name": "Motherwell",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/253.webp",
+          "name": "Dundee FC",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/dundee-motherwell-2026-09-19.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Dundee FC",
+          "player": "J. Westley",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Dundee FC",
+          "player": "B. Fink",
+          "event_type": "Goal",
+          "assist": "R. Astley",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Motherwell",
+          "player": "A. Lowry",
+          "event_type": "Goal",
+          "assist": "T. Sparrow",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "67'",
+          "team": "Motherwell",
+          "player": "D. Williams",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Dundee FC",
+          "player": "O. Goodman",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Dundee FC_wins": "1",
+          "draws": "0",
+          "Motherwell_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "07/03/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee FC 2 - 1 Motherwell"
+          },
+          {
+            "date": "03/05/2025",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Dundee FC 1 - 2 Motherwell"
+          },
+          {
+            "date": "26/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Motherwell 2 - 1 Dundee FC"
+          },
+          {
+            "date": "06/04/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Dundee FC 2 - 3 Motherwell"
+          }
+        ],
+        "home_team_form": {
+          "team": "Dundee FC",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 1 Motherwell",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Dundee FC 4 - 0 Clyde",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Motherwell",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 1 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Freiburg 4 - 1 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Stenhousemuir 1 - 0 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Motherwell 2 - 0 HJK Helsinki",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Motherwell 0 - 0 Falkirk",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Dundee FC": "6",
+          "Motherwell": "4"
+        },
+        "shots_off_target": {
+          "Dundee FC": "1",
+          "Motherwell": "5"
+        },
+        "shots_blocked": {
+          "Dundee FC": "4",
+          "Motherwell": "6"
+        },
+        "corners": {
+          "Dundee FC": "9",
+          "Motherwell": "9"
+        },
+        "fouls": {
+          "Dundee FC": "8",
+          "Motherwell": "9"
+        },
+        "offsides": {
+          "Dundee FC": "1",
+          "Motherwell": "1"
+        },
+        "yellow_cards": {
+          "Dundee FC": "1",
+          "Motherwell": "1"
+        },
+        "goalkeeper_saves": {
+          "Dundee FC": "3",
+          "Motherwell": "4"
+        },
+        "crosses": {
+          "Dundee FC": "5",
+          "Motherwell": "7"
+        },
+        "ball_possession": {
+          "Dundee FC": "37%",
+          "Motherwell": "63%"
+        }
+      },
+      "description": "Watch Dundee FC vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 19, 2026. A High-Stakes Premiership Encounter On September 19, 2026 , Dundee FC and Motherwell faced off in a compelling Premiership fixture. The atmosphere was charged with expectation as both clubs aimed to secure a vital result in this professional football match. First Half Momentum The game sparked into life when Dundee FC broke the deadlock. In the 22nd minute, Joe Westley stepped up to the spot and calmly converted a penalty to put the home side ahead. Motherwell , however, responded with grit. Just before the break, they turned the game on its head with two quick strikes. Bradley Fink leveled the score in the 40th minute, set up by Ryan Astley , and shortly after, Alex Lowry found the net with an assist from Tom Sparrow to give the visitors a lead heading into halftime. Tactical Shifts and Conclusion The second half saw a flurry of changes as both managers looked to dictate the tempo. While the intensity remained high, the physical nature of the game led to caution for players like Dylan Williams and Owen Goodman , who both entered the referee's book. Despite several tactical substitutions, including the arrival of fresh legs like Eythor Martin Bjoergolfsson and Idris Odutayo , the scoreline from the first period held firm. The final whistle confirmed a resilient performance from both sides in a game defined by its clinical finishing."
+    },
     {
       "title": "Dundee - Aberdeen",
       "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-aberdeen-2026-08-08-mhwX.webp",
