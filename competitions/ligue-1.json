@@ -1,9 +1,465 @@
 {
   "competition": "Ligue 1",
   "competition_cover": "https://refooty.com/covers/ligue-1.webp",
-  "total_matches": 24,
-  "Last update time": "05:50:35 AM 21-09-2026",
+  "total_matches": 26,
+  "Last update time": "03:40:21 AM 22-09-2026",
   "matches": [
+    {
+      "title": "Lyon vs Rennes",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/lyon-vs-rennes-2026-09-20-vWpr.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Sep 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/94.webp",
+          "name": "Rennes",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/80.webp",
+          "name": "Lyon",
+          "score": "4"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/lyon-vs-rennes-2026-09-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Lyon",
+          "player": "M. Niakhaté",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Lyon",
+          "player": "E. Nuamah",
+          "event_type": "Goal",
+          "assist": "C. Tolisso",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Rennes",
+          "player": "Q. Merlin",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Lyon",
+          "player": "E. Nuamah",
+          "event_type": "Goal",
+          "assist": "P. Šulc",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "48'",
+          "team": "Lyon",
+          "player": "Z. Athekame",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        },
+        {
+          "time": "60'",
+          "team": "Lyon",
+          "player": "P. Šulc",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Lyon",
+          "player": "C. Tolisso",
+          "event_type": "Goal",
+          "assist": "Z. Athekame",
+          "score_update": "4 - 0"
+        },
+        {
+          "time": "81'",
+          "team": "Rennes",
+          "player": "V. Rongier",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "86'",
+          "team": "Lyon",
+          "player": "Z. Athekame",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+2'",
+          "team": "Lyon",
+          "player": "N. Nartey",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Lyon_wins": "3",
+          "draws": "0",
+          "Rennes_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "03/05/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "Lyon 4 - 2 Rennes"
+          },
+          {
+            "date": "26/04/2025",
+            "competition": "Ligue 1 24/25",
+            "teams_and_score": "Lyon 4 - 1 Rennes"
+          },
+          {
+            "date": "26/01/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "Lyon 2 - 3 Rennes"
+          },
+          {
+            "date": "09/04/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Lyon 3 - 1 Rennes"
+          },
+          {
+            "date": "13/03/2022",
+            "competition": "Ligue 1 21/22",
+            "teams_and_score": "Lyon 2 - 4 Rennes"
+          }
+        ],
+        "home_team_form": {
+          "team": "Lyon",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Lyon 4 - 0 Rennes",
+              "result": "W"
+            },
+            {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Anderlecht 1 - 2 Lyon",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Paris FC 0 - 0 Lyon",
+              "result": "D"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Lyon 1 - 2 Fenerbahçe",
+              "result": "L"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Toulouse 0 - 2 Lyon",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Rennes",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Lyon 4 - 0 Rennes",
+              "result": "L"
+            },
+            {
+              "date": "16/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Sturm Graz 0 - 0 Rennes",
+              "result": "D"
+            },
+            {
+              "date": "11/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Rennes 1 - 0 Marseille",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sunderland 2 - 1 Rennes",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Lyon": "9",
+          "Rennes": "4"
+        },
+        "shots_off_target": {
+          "Lyon": "5",
+          "Rennes": "8"
+        },
+        "shots_blocked": {
+          "Lyon": "1",
+          "Rennes": "1"
+        },
+        "corners": {
+          "Lyon": "3",
+          "Rennes": "8"
+        },
+        "fouls": {
+          "Lyon": "13",
+          "Rennes": "14"
+        },
+        "offsides": {
+          "Lyon": "2",
+          "Rennes": "0"
+        },
+        "yellow_cards": {
+          "Lyon": "4",
+          "Rennes": "2"
+        },
+        "goalkeeper_saves": {
+          "Lyon": "4",
+          "Rennes": "5"
+        },
+        "crosses": {
+          "Lyon": "2",
+          "Rennes": "5"
+        },
+        "ball_possession": {
+          "Lyon": "45%",
+          "Rennes": "55%"
+        }
+      },
+      "description": "Watch Lyon vs Rennes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 20, 2026. A pivotal clash in the French top flight On September 20, 2026, the intensity was palpable as the two sides took to the pitch for a crucial Ligue 1 encounter, both sides looking to dictate the tempo and secure vital points. Early dominance and clinical finishing Lyon burst out of the gates, immediately putting Rennes under immense pressure. The breakthrough arrived in the 7th minute when Ernest Nuamah fired home following a setup by Corentin Tolisso . The momentum remained firmly with the hosts as they continued to probe the Rennes defense. Their persistence paid off again in the 30th minute, with Nuamah netting his second of the match courtesy of a Pavel Sulc assist, providing the home side with a commanding cushion going into the break. Sealing a comprehensive result Any hopes of a second-half comeback from the visitors were extinguished early on. Just three minutes after the restart, Zachary Athekame tapped into an empty net to make it 3-0. The match remained in Lyon 's firm control, with the team effectively managing their lead. The icing on the cake arrived in the 76th minute when Corentin Tolisso rifled a long-range effort past the keeper, assisted by Athekame . Despite late tactical adjustments from Rennes , they could find no way through the disciplined home backline, ending a night of total dominance for the hosts."
+    },
+    {
+      "title": "Nice vs Lille",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/nice-vs-lille-2026-09-20-cYxj.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Sep 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/79.webp",
+          "name": "Lille",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/84.webp",
+          "name": "Nice",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/nice-vs-lille-2026-09-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "5'",
+          "team": "Nice",
+          "player": "A. Mohamed",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "22'",
+          "team": "Nice",
+          "player": "N. Ngoy",
+          "event_type": "Goal"
+        },
+        {
+          "time": "45+1'",
+          "team": "Nice",
+          "player": "X. Mandza",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "57'",
+          "team": "Nice",
+          "player": "M. Amoura",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "67'",
+          "team": "Nice",
+          "player": "M. Amoura",
+          "event_type": "Goal",
+          "assist": "G. Hein",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "79'",
+          "team": "Lille",
+          "player": "A. Ueda",
+          "event_type": "Goal",
+          "assist": "M. Kjærgaard",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "90+1'",
+          "team": "Lille",
+          "player": "M. Kjærgaard",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Nice_wins": "1",
+          "draws": "2",
+          "Lille_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "18/04/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "Lille 0 - 0 Nice"
+          },
+          {
+            "date": "17/01/2025",
+            "competition": "Ligue 1 24/25",
+            "teams_and_score": "Lille 2 - 1 Nice"
+          },
+          {
+            "date": "19/05/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "Lille 2 - 2 Nice"
+          },
+          {
+            "date": "29/01/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Nice 1 - 0 Lille"
+          },
+          {
+            "date": "14/05/2022",
+            "competition": "Ligue 1 21/22",
+            "teams_and_score": "Nice 1 - 3 Lille"
+          }
+        ],
+        "home_team_form": {
+          "team": "Nice",
+          "form": [
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Nice 2 - 1 Lille",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hull City 0 - 0 Nice",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lille",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Nice 2 - 1 Lille",
+              "result": "L"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Lille 2 - 3 Real Betis",
+              "result": "L"
+            },
+            {
+              "date": "03/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Toulouse 0 - 1 Lille",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Everton 1 - 1 Lille",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Nice": "4",
+          "Lille": "8"
+        },
+        "shots_off_target": {
+          "Nice": "6",
+          "Lille": "6"
+        },
+        "shots_blocked": {
+          "Nice": "0",
+          "Lille": "7"
+        },
+        "corners": {
+          "Nice": "3",
+          "Lille": "7"
+        },
+        "fouls": {
+          "Nice": "16",
+          "Lille": "9"
+        },
+        "offsides": {
+          "Nice": "4",
+          "Lille": "1"
+        },
+        "yellow_cards": {
+          "Nice": "3",
+          "Lille": "1"
+        },
+        "goalkeeper_saves": {
+          "Nice": "7",
+          "Lille": "3"
+        },
+        "crosses": {
+          "Nice": "1",
+          "Lille": "13"
+        },
+        "ball_possession": {
+          "Nice": "41%",
+          "Lille": "59%"
+        }
+      },
+      "description": "Watch Nice vs Lille highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 20, 2026. The Ligue 1 clash between Nice and Lille delivered a high-stakes tactical battle as both sides vied for supremacy. With expectations high, the match promised to be a defining moment for both clubs early in the campaign. Early Breakthrough and Momentum Shifts The match on September 20, 2026 , ignited quickly with a physical edge. Only five minutes had passed when Mohamed Abdelmonem entered the referee's book for a tactical foul to halt a promising counter-attack. Nice gradually assumed control and found the breakthrough in the 22nd minute. Following a dangerous delivery sparked by Niels Nkounkou , Lille defender Nathan Ngoy inadvertently turned the ball into his own net, gifting the hosts a 1-0 lead. Nice continued to apply pressure, nearly doubling their advantage in the 31st minute when Elye Wahi unleashed a strike that rattled the post. Lille struggled to find their rhythm in the final third, with Basar Onal attempting to create chances through set-pieces, but the Nice backline held firm. As the first half drew to a close, Xavier Mandza received a yellow card, highlighting the gritty nature of the contest. Amoura Doubles the Lead Before Ueda Responds The second half saw Nice maintain their offensive intent. Despite receiving a yellow card in the 57th minute, Mohamed Amoura became the hero for the home side shortly after. In the 67th minute, Gauthier Hein provided a perfectly weighted pass for Amoura , who clinicaly finished with his left foot to make it 2-0. Lille responded by making several tactical substitutions, introducing the veteran Olivier Giroud and Maurits Kjaergaard to spark a comeback. The visitors' persistence paid off in the 79th minute. Ayase Ueda found the back of the net with a sharp left-footed strike, assisted by Kjaergaard . A tense VAR review followed, checking for a potential infringement, but the goal was ultimately confirmed. The momentum shifted toward Lille , and Ueda nearly equalized just minutes later with a powerful header that was expertly saved by Yehvann Diouf . Stoppage Time Drama The closing stages were filled with tension as Lille threw everything forward. Maurits Kjaergaard received a yellow card in the 91st minute for a dangerous challenge as the visitors became increasingly desperate. Nice looked to exploit the gaps on the break, but a late offside call against Nathan N'Goumou prevented a third goal. Despite 59% possession for Lille , the Nice defense remained resilient until the final whistle at 90+7', securing a deserved 2-1 victory in a pulsating encounter."
+    },
     {
       "title": "Marseille vs Paris Saint Germain",
       "thumbnail_url": "https://img.refooty.com/thumbnail/marseille-vs-paris-saint-germain-2026-09-20-2tF4.webp",
@@ -252,813 +708,6 @@
         }
       },
       "description": "Watch Marseille vs Paris Saint Germain highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 20, 2026. On September 20, 2026, the football world turned its eyes to a high-stakes encounter as Marseille hosted Paris Saint-Germain in a clash filled with traditional rivalry and tactical intrigue. Both sides took to the pitch with everything to play for in a match that promised to be defined by fine margins and individual brilliance. A Cagey Opening at the Vélodrome The first half was a tense, tactical affair where clear-cut chances were hard to come by. Paris Saint-Germain controlled much of the possession, but the Marseille defense remained disciplined, forcing the visitors into a series of unsuccessful corners and long-range efforts. Ousmane Dembele was active on the flanks, yet his final delivery often lacked the precision to trouble the home side's goalkeeper. Discipline became an issue as the intensity rose. Timothy Weah received a yellow card in the 32nd minute for a rough challenge, followed shortly by Nuno Mendes , who also went into the referee's book. Despite the mounting pressure from PSG , Joao Neves saw his header saved comfortably by Jeffrey De Lange , ensuring the teams went into the break on level terms. Second Half Explosion The game exploded into life after the hour mark. The deadlock was finally broken in the 66th minute when substitute Ferran Torres , who had only been on the pitch for seven minutes, rose highest to head home a perfect cross from Desire Doue . However, the lead was short-lived. In the 72nd minute, Amine Gouiri found Angel Gomes , who struck a clinical right-footed shot to bring Marseille level and send the home crowd into a frenzy. The parity lasted only two minutes. Paris Saint-Germain responded immediately through their captain. Following a corner, Nuno Mendes provided a decisive pass that allowed Marquinhos to tap the ball into an open net, restoring the lead for the Parisians. The drama intensified further when Timothy Weah was shown a second yellow card in the 77th minute, leaving the visitors to defend their slim advantage with ten men. Late Drama and Close Shaves The final stages were a test of nerves for PSG . Marseille threw everything forward, with Ulisses Garcia and Nayef Aguerd both seeing headed efforts blocked in stoppage time. The biggest chance fell to Aguerd in the 90+7th minute; after a brilliant cross from Faris Moumbagna , the defender found himself in a scoring position but somehow sent his header wide of the target. Despite the numerical disadvantage and the late onslaught, Paris Saint-Germain held firm to secure a hard-fought victory. Nuno Mendes was particularly instrumental in the closing moments, earning praise for a performance that solidified his status as a man-of-the-match contender."
-    },
-    {
-      "title": "Nice vs Lorient",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/nice-vs-lorient-2026-08-23-qYaI.webp",
-      "competition": "Ligue 1",
-      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
-      "date": "Aug 23, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/97.webp",
-          "name": "Lorient",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/84.webp",
-          "name": "Nice",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/nice-vs-lorient-2026-08-23.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Nice",
-          "player": "Z. Diallo",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Nice_wins": "2",
-          "draws": "4",
-          "Lorient_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "04/03/2026",
-            "competition": "Coupe de France",
-            "teams_and_score": "Lorient 0 - 0 Nice"
-          },
-          {
-            "date": "22/02/2026",
-            "competition": "Ligue 1 25/26",
-            "teams_and_score": "Nice 3 - 3 Lorient"
-          },
-          {
-            "date": "19/04/2024",
-            "competition": "Ligue 1 23/24",
-            "teams_and_score": "Nice 3 - 0 Lorient"
-          },
-          {
-            "date": "19/03/2023",
-            "competition": "Ligue 1 22/23",
-            "teams_and_score": "Nice 1 - 1 Lorient"
-          },
-          {
-            "date": "17/04/2022",
-            "competition": "Ligue 1 21/22",
-            "teams_and_score": "Nice 2 - 1 Lorient"
-          },
-          {
-            "date": "14/03/2021",
-            "competition": "Ligue 1 20/21",
-            "teams_and_score": "Lorient 1 - 1 Nice"
-          }
-        ],
-        "home_team_form": {
-          "team": "Nice",
-          "form": [
-            "D",
-            "D",
-            "W",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Nice 0 - 0 Lorient",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Hull City 0 - 0 Nice",
-              "result": "D"
-            },
-            {
-              "date": "29/05/2026",
-              "competition": "Ligue 1: Qualification Play-offs",
-              "teams_and_score": "Nice 4 - 1 Saint-Etienne",
-              "result": "W"
-            },
-            {
-              "date": "22/05/2026",
-              "competition": "Coupe de France",
-              "teams_and_score": "Lens 3 - 1 Nice",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Nice 0 - 0 Metz",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Lorient",
-          "form": [
-            "D",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "22/08/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Nice 0 - 0 Lorient",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Elversberg 4 - 1 Lorient",
-              "result": "L"
-            },
-            {
-              "date": "17/05/2026",
-              "competition": "Ligue 1 25/26",
-              "teams_and_score": "Lorient 0 - 2 Le Havre",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Nice": "1",
-          "Lorient": "2"
-        },
-        "shots_off_target": {
-          "Nice": "7",
-          "Lorient": "5"
-        },
-        "shots_blocked": {
-          "Nice": "6",
-          "Lorient": "3"
-        },
-        "corners": {
-          "Nice": "9",
-          "Lorient": "3"
-        },
-        "fouls": {
-          "Nice": "15",
-          "Lorient": "8"
-        },
-        "offsides": {
-          "Nice": "2",
-          "Lorient": "1"
-        },
-        "yellow_cards": {
-          "Nice": "1",
-          "Lorient": "0"
-        },
-        "goalkeeper_saves": {
-          "Nice": "2",
-          "Lorient": "1"
-        },
-        "crosses": {
-          "Nice": "4",
-          "Lorient": "4"
-        },
-        "ball_possession": {
-          "Nice": "60%",
-          "Lorient": "40%"
-        }
-      },
-      "description": "Watch Nice vs Lorient highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on August 23, 2026. Stalemate at the Allianz Riviera On August 23, 2026, the Allianz Riviera played host to a cagey Ligue 1 encounter between Nice and Lorient . Both sides looked to assert their authority early on, but the match ultimately evolved into a test of defensive resilience rather than a display of attacking flair, leaving supporters witnessing a tight, tactical battle. A Tactical Stalemate Throughout the first half, Nice sought to dictate the play, relying heavily on the delivery of Jonathan Clauss from dead-ball situations. Despite several dangerous corners, the Lorient defense remained disciplined, snuffing out threats before they could materialize into clear-cut chances. The visitors remained patient, surviving a scare in the 24th minute when a defensive blunder almost proved costly for Nice 's keeper Yehvann Diouf , but the deadlock remained unbroken as both teams entered the interval level. As the second half progressed, both managers turned to their benches in hopes of finding a spark. The introduction of players like Mohamed-Ali Cho for Nice added fresh legs to the attack, but the final ball continued to elude both sides. Despite Nice enjoying 60% of the ball possession, they were unable to navigate through the deep block established by Lorient . By the time the final whistle blew, the match concluded without a breakthrough, reflecting a day where defensive structure took precedence over offensive innovation."
-    },
-    {
-      "title": "Lille vs Troyes",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/lille-troyes-2026-09-13-JIAO.webp",
-      "competition": "Ligue 1",
-      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
-      "date": "Sep 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/9945.webp",
-          "name": "Estac Troyes",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/79.webp",
-          "name": "Lille",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/lille-troyes-2026-09-13-g0ngnm3u8-ZBb3A.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Lille",
-          "player": "H. A. Haraldsson",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "16'",
-          "team": "Lille",
-          "player": "T. Santos",
-          "event_type": "Goal",
-          "assist": "D. Bakwa",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "82'",
-          "team": "Lille",
-          "player": "O. Giroud",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Lille",
-          "player": "E. Mbappé",
-          "event_type": "Goal",
-          "assist": "M. Kjærgaard",
-          "score_update": "2 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Lille_wins": "2",
-          "draws": "1",
-          "Estac Troyes_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "03/06/2023",
-            "competition": "Ligue 1 22/23",
-            "teams_and_score": "Troyes 1 - 1 Lille"
-          },
-          {
-            "date": "08/01/2023",
-            "competition": "Coupe de France 22/23",
-            "teams_and_score": "Lille 2 - 0 Troyes"
-          },
-          {
-            "date": "01/05/2022",
-            "competition": "Ligue 1 21/22",
-            "teams_and_score": "Troyes 3 - 0 Lille"
-          },
-          {
-            "date": "20/01/2018",
-            "competition": "Ligue 1",
-            "teams_and_score": "Troyes 1 - 0 Lille"
-          },
-          {
-            "date": "22/07/2015",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Lille 1 - 0 Troyes"
-          }
-        ],
-        "home_team_form": {
-          "team": "Lille",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Lille 2 - 0 Troyes",
-              "result": "W"
-            },
-            {
-              "date": "08/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "Lille 2 - 3 Real Betis",
-              "result": "L"
-            },
-            {
-              "date": "03/09/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Toulouse 0 - 1 Lille",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Everton 1 - 1 Lille",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Estac Troyes",
-          "form": [
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Lille 2 - 0 Troyes",
-              "result": "L"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Troyes 1 - 1 Panetolikos",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Lille": "6",
-          "Estac Troyes": "1"
-        },
-        "shots_off_target": {
-          "Lille": "5",
-          "Estac Troyes": "6"
-        },
-        "shots_blocked": {
-          "Lille": "2",
-          "Estac Troyes": "1"
-        },
-        "corners": {
-          "Lille": "2",
-          "Estac Troyes": "5"
-        },
-        "fouls": {
-          "Lille": "11",
-          "Estac Troyes": "20"
-        },
-        "offsides": {
-          "Lille": "3",
-          "Estac Troyes": "2"
-        },
-        "yellow_cards": {
-          "Lille": "1",
-          "Estac Troyes": "0"
-        },
-        "goalkeeper_saves": {
-          "Lille": "1",
-          "Estac Troyes": "4"
-        },
-        "crosses": {
-          "Lille": "1",
-          "Estac Troyes": "4"
-        },
-        "ball_possession": {
-          "Lille": "63%",
-          "Estac Troyes": "37%"
-        }
-      },
-      "description": "Watch Lille vs Estac Troyes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The Ligue 1 clash on September 13, 2026, delivered a captivating display of tactical discipline and clinical finishing. Both sides took to the pitch with high stakes, creating an atmosphere of anticipation as the match unfolded under the bright lights. Early Pressure and Breakthrough Lille ignited the contest with immediate attacking intent, nearly taking the lead in the 2nd minute when Dilane Bakwa saw his effort agonisingly strike the post. The drama intensified moments later as a Lille goal was chalked off following a VAR review for offside. Undeterred by the early setbacks, the home side continued to dictate play. The breakthrough finally arrived in the 18th minute; Tiago Santos unleashed a stunning right-footed strike from outside the penalty area, courtesy of a Dilane Bakwa assist, to give his side a deserved lead and settle the nerves of the home support. Tactical Shifts and Mbappe's Late Strike As the second half progressed, Troyes attempted to claw their way back into the game through a series of tactical substitutions, bringing on the likes of Renaud Ripart and Yacouba Kone . Lille countered by introducing veteran striker Olivier Giroud , who made his presence felt but earned a yellow card in the 82nd minute for a robust challenge. Despite Lille 's dominance in possession, which peaked at 64%, the result remained on a knife-edge until deep into stoppage time. In the 90+3rd minute, Maurits Kjaergaard turned provider for Ethan Mbappe , who clinicaly found the net with his left foot to secure the victory and ensure all three points stayed with the hosts."
-    },
-    {
-      "title": "Le Mans vs Lens",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/le-mans-lens-2026-09-13-r3CO.webp",
-      "competition": "Ligue 1",
-      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
-      "date": "Sep 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/116.webp",
-          "name": "Lens",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1298.webp",
-          "name": "Le Mans",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/le-mans-lens-2026-09-13-kfttum3u8-cZEBt.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "15'",
-          "team": "Le Mans",
-          "player": "N. Boisse",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "20'",
-          "team": "Lens",
-          "player": "M. Cuisance",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "28'",
-          "team": "Le Mans",
-          "player": "J. Vercruysse",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "32'",
-          "team": "Le Mans",
-          "player": "A. Bourabaa",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "38'",
-          "team": "Lens",
-          "player": "A. Bulatovic",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "44'",
-          "team": "Le Mans",
-          "player": "L. Calodat",
-          "event_type": "Goal",
-          "assist": "A. Bourabaa",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "45+2'",
-          "team": "Lens",
-          "player": "A. Sima",
-          "event_type": "Goal",
-          "assist": "F. Thauvin",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Lens",
-          "player": "F. Ivanović",
-          "event_type": "Goal",
-          "assist": "R. Aguilar",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "61'",
-          "team": "Lens",
-          "player": "F. Thauvin",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Le Mans_wins": "1",
-          "draws": "0",
-          "Lens_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "27/07/2019",
-            "competition": "Ligue 2 19/20",
-            "teams_and_score": "Le Mans 1 - 2 Lens"
-          },
-          {
-            "date": "24/05/2013",
-            "competition": "Ligue 2",
-            "teams_and_score": "Le Mans 2 - 1 Lens"
-          },
-          {
-            "date": "06/02/2010",
-            "competition": "Ligue 1",
-            "teams_and_score": "Lens 2 - 1 Le Mans"
-          }
-        ],
-        "home_team_form": {
-          "team": "Le Mans",
-          "form": [
-            "D",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Le Mans 2 - 2 Lens",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Le Mans 0 - 1 Le Havre",
-              "result": "L"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Ligue 2 25/26",
-              "teams_and_score": "SC Bastia 0 - 2 Le Mans",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Lens",
-          "form": [
-            "D",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Le Mans 2 - 2 Lens",
-              "result": "D"
-            },
-            {
-              "date": "10/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "Slavia Prague 2 - 3 Lens",
-              "result": "W"
-            },
-            {
-              "date": "05/09/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Lens 0 - 1 Lorient",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Trophee des Champions",
-              "teams_and_score": "Lens 1 - 0 Paris Saint-Germain",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Lens 0 - 2 Sunderland",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Le Mans": "5",
-          "Lens": "6"
-        },
-        "shots_off_target": {
-          "Le Mans": "5",
-          "Lens": "6"
-        },
-        "shots_blocked": {
-          "Le Mans": "3",
-          "Lens": "4"
-        },
-        "corners": {
-          "Le Mans": "3",
-          "Lens": "9"
-        },
-        "fouls": {
-          "Le Mans": "17",
-          "Lens": "11"
-        },
-        "offsides": {
-          "Le Mans": "1",
-          "Lens": "3"
-        },
-        "yellow_cards": {
-          "Le Mans": "2",
-          "Lens": "3"
-        },
-        "goalkeeper_saves": {
-          "Le Mans": "4",
-          "Lens": "3"
-        },
-        "crosses": {
-          "Le Mans": "5",
-          "Lens": "6"
-        },
-        "ball_possession": {
-          "Le Mans": "53%",
-          "Lens": "47%"
-        }
-      },
-      "description": "Watch Le Mans vs Lens highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The clash between Le Mans and Lens on 2026-09-13 promised high stakes in Ligue 1 , as both sides looked to assert their dominance in a tactical battle. The atmosphere was electric as the players took to the pitch, knowing that every challenge and every pass could define their season. Le Mans Take Command The opening stages were characterized by physical play, with early yellow cards shown to Noa Boisse and Michael Cuisance . Le Mans gradually grew into the game and found the breakthrough in the 32nd minute. Adil Bourabaa reacted quickest to a loose ball in the box, heading home to give the hosts the lead. The momentum stayed with Le Mans , and in the 44th minute, Lucas Calodat doubled the advantage with a clinical left-footed finish following a clever assist from Bourabaa . Lens Fight Back Just as it seemed Le Mans would coast into the break with a two-goal cushion, Lens struck back in first-half stoppage time. Florian Thauvin delivered a pin-point cross for Abdallah Sima , who powered a header past the goalkeeper. The visitors carried that energy into the second half, bolstered by tactical substitutions. In the 51st minute, parity was restored when Franjo Ivanovic , who had only just come on, met Ruben Aguilar 's cross with a bullet header to make it 2-2. Late Drama and VAR Intervention The match reached a fever pitch in the 79th minute when the referee pointed to the spot, awarding Lens a penalty for a foul by Djibril Sidibe on Thorgan Hazard . However, the drama was far from over; a lengthy VAR review led the referee to overturn the decision, sparking intense debate on the pitch. Despite late pressure from Lens and a series of corners from Thauvin , the Le Mans defense held firm. A final chance for Andrija Bulatovic went wide in the 94th minute, ensuring both teams left with a hard-earned point."
-    },
-    {
-      "title": "Brest vs PSG",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/brest-psg-2026-09-13-GueQ.webp",
-      "competition": "Ligue 1",
-      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
-      "date": "Sep 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/85.webp",
-          "name": "Paris Saint Germain",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/9958.webp",
-          "name": "Brest",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/brest-psg-2026-09-13-blz0km3u8-ND4kl.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Paris Saint Germain",
-          "player": "F. Torres",
-          "event_type": "Goal",
-          "assist": "O. Dembélé",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "16'",
-          "team": "Brest",
-          "player": "K. Doumbia",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Paris Saint Germain",
-          "player": "Vitinha",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Paris Saint Germain",
-          "player": "P. Fernandez",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Brest_wins": "0",
-          "draws": "1",
-          "Paris Saint Germain_wins": "5"
-        },
-        "previous_matches": [
-          {
-            "date": "10/05/2026",
-            "competition": "Ligue 1 25/26",
-            "teams_and_score": "Paris Saint-Germain 1 - 0 Brest"
-          },
-          {
-            "date": "19/02/2025",
-            "competition": "Knockout Stage",
-            "teams_and_score": "Paris Saint-Germain 7 - 0 Brest"
-          },
-          {
-            "date": "01/02/2025",
-            "competition": "Ligue 1 24/25",
-            "teams_and_score": "Brest 2 - 5 Paris Saint-Germain"
-          },
-          {
-            "date": "07/02/2024",
-            "competition": "Coupe de France 23/24",
-            "teams_and_score": "Paris Saint-Germain 3 - 1 Brest"
-          },
-          {
-            "date": "28/01/2024",
-            "competition": "Ligue 1 23/24",
-            "teams_and_score": "Paris Saint-Germain 2 - 2 Brest"
-          },
-          {
-            "date": "11/03/2023",
-            "competition": "Ligue 1 22/23",
-            "teams_and_score": "Brest 1 - 2 Paris Saint-Germain"
-          }
-        ],
-        "home_team_form": {
-          "team": "Brest",
-          "form": [
-            "L",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Brest 0 - 1 Paris Saint-Germain",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Nottingham Forest 2 - 0 Brest",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Brest 2 - 2 Venezia",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Paris Saint Germain",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Brest 0 - 1 Paris Saint-Germain",
-              "result": "W"
-            },
-            {
-              "date": "09/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "Paris Saint-Germain 6 - 1 Slovan Bratislava",
-              "result": "L"
-            },
-            {
-              "date": "04/09/2026",
-              "competition": "Ligue 1",
-              "teams_and_score": "Paris Saint-Germain 1 - 2 AS Monaco",
-              "result": "W"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Trophee des Champions",
-              "teams_and_score": "Lens 1 - 0 Paris Saint-Germain",
-              "result": "L"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "UEFA Super Cup",
-              "teams_and_score": "Paris Saint-Germain 2 - 1 Aston Villa",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Brest": "5",
-          "Paris Saint Germain": "7"
-        },
-        "shots_off_target": {
-          "Brest": "7",
-          "Paris Saint Germain": "4"
-        },
-        "shots_blocked": {
-          "Brest": "4",
-          "Paris Saint Germain": "4"
-        },
-        "corners": {
-          "Brest": "3",
-          "Paris Saint Germain": "2"
-        },
-        "fouls": {
-          "Brest": "13",
-          "Paris Saint Germain": "7"
-        },
-        "offsides": {
-          "Brest": "3",
-          "Paris Saint Germain": "1"
-        },
-        "yellow_cards": {
-          "Brest": "1",
-          "Paris Saint Germain": "2"
-        },
-        "goalkeeper_saves": {
-          "Brest": "6",
-          "Paris Saint Germain": "6"
-        },
-        "crosses": {
-          "Brest": "5",
-          "Paris Saint Germain": "3"
-        },
-        "ball_possession": {
-          "Brest": "41%",
-          "Paris Saint Germain": "59%"
-        }
-      },
-      "description": "Watch Brest vs Paris Saint Germain highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 13, 2026. Ligue 1 action returned with a high-stakes encounter on September 13, 2026 , as Brest hosted the reigning giants Paris Saint-Germain . The match promised a compelling narrative, featuring a home side eager to prove their worth against a star-studded Parisian lineup in front of a passionate crowd. Torres Fires Early for PSG The visitors wasted no time asserting their dominance, breaking the deadlock in just the 5th minute. Ousmane Dembélé turned provider, setting up Ferran Torres , who unleashed a clinical right-footed strike from outside the box that left Egil Selvik with no chance. However, Brest almost found an immediate response when Ludovic Ajorque rose highest to meet a cross, but his header was safely gathered by Matvey Safonov . As the first half progressed, Paris Saint-Germain controlled much of the possession, testing the Brest defense with intricate passing. Achraf Hakimi came close to doubling the lead with a header in the 26th minute, only to see it saved by Selvik . The game grew increasingly physical, leading to a yellow card for Kamory Doumbia following a reckless challenge. Despite several half-chances for both sides, the Parisians headed into the tunnel with a slender one-goal advantage. Late Drama and Woodwork Denies Brest The second half saw Brest emerge with renewed energy, nearly equalizing in the 50th minute. A defensive lapse by Nuno Mendes allowed Kamory Doumbia a clear sight of goal, but his powerful effort cannoned off the post. Moments later, a VAR check for a potential PSG goal kept the tension high, though the scoreline remained unchanged. Safonov was called into action again shortly after, comfortably saving another header from the persistent Doumbia . In the closing stages, both managers turned to their benches to influence the outcome. Brest threw everything forward in search of a leveler, and in the 3rd minute of stoppage time, Djylian N'Guessan almost produced a moment of magic with an audacious bicycle kick that drifted just wide. Ultimately, the Paris Saint-Germain defense held firm under late pressure to secure a 1-0 victory, grinding out three points in a challenging away fixture."
     },
     {
       "title": "Toulouse vs Olympique Lyonnais",
@@ -5254,6 +4903,813 @@
         }
       },
       "description": "Watch Lille vs Paris Saint Germain highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on August 28, 2026. The Ligue 1 clash between LOSC Lille and Paris Saint-Germain on 2026-08-28 promised a high-stakes tactical battle from the very first whistle. Both sides stepped onto the pitch looking to claim dominance in a match that would eventually defy all expectations. Lille Seize the Initiative The hosts started with intent and found their breakthrough in the 21st minute. Hakon Arnar Haraldsson unleashed a clinical right-footed strike from outside the box that left the keeper helpless. Although play was briefly paused for a VAR check, the goal was confirmed, rewarding the build-up play involving Nathan Ngoy and an assist from Olivier Giroud . Lille managed to navigate the remainder of the first half with their lead intact, despite PSG beginning to control large spells of possession. Frustration for Paris and Bakwa's Strike As the second half progressed, PSG ramped up the pressure, introducing Khvicha Kvaratskhelia to spark their attack. Despite maintaining a dominant 73% of the ball, the visitors struggled to break down a resilient Lille defense. The task became even more daunting in the 84th minute when Dilane Bakwa doubled the lead for the home side, finishing expertly with his left foot after being set up by Giroud . At 2-0, the result seemed beyond doubt as the clock ticked toward the ninety-minute mark. Stoppage-Time Resurrection The game entered a chaotic final phase that saw PSG produce a stunning comeback. In the 91st minute, Vitinha gave the visitors a lifeline, firing home from distance following an assist by Mika Godts . The drama reached its peak in the 95th minute when Marquinhos rose highest to head home an equalizer from a Vitinha cross. In the aftermath of the goal, Lille captain Benjamin Andre was shown a red card for dissent, bringing a volatile and thrilling encounter to a close with the points shared in dramatic fashion."
+    },
+    {
+      "title": "Nice vs Lorient",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/nice-vs-lorient-2026-08-23-qYaI.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Aug 23, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/97.webp",
+          "name": "Lorient",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/84.webp",
+          "name": "Nice",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/nice-vs-lorient-2026-08-23.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Nice",
+          "player": "Z. Diallo",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Nice_wins": "2",
+          "draws": "4",
+          "Lorient_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "04/03/2026",
+            "competition": "Coupe de France",
+            "teams_and_score": "Lorient 0 - 0 Nice"
+          },
+          {
+            "date": "22/02/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "Nice 3 - 3 Lorient"
+          },
+          {
+            "date": "19/04/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "Nice 3 - 0 Lorient"
+          },
+          {
+            "date": "19/03/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Nice 1 - 1 Lorient"
+          },
+          {
+            "date": "17/04/2022",
+            "competition": "Ligue 1 21/22",
+            "teams_and_score": "Nice 2 - 1 Lorient"
+          },
+          {
+            "date": "14/03/2021",
+            "competition": "Ligue 1 20/21",
+            "teams_and_score": "Lorient 1 - 1 Nice"
+          }
+        ],
+        "home_team_form": {
+          "team": "Nice",
+          "form": [
+            "D",
+            "D",
+            "W",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Nice 0 - 0 Lorient",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Hull City 0 - 0 Nice",
+              "result": "D"
+            },
+            {
+              "date": "29/05/2026",
+              "competition": "Ligue 1: Qualification Play-offs",
+              "teams_and_score": "Nice 4 - 1 Saint-Etienne",
+              "result": "W"
+            },
+            {
+              "date": "22/05/2026",
+              "competition": "Coupe de France",
+              "teams_and_score": "Lens 3 - 1 Nice",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Nice 0 - 0 Metz",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lorient",
+          "form": [
+            "D",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "22/08/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Nice 0 - 0 Lorient",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Elversberg 4 - 1 Lorient",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Ligue 1 25/26",
+              "teams_and_score": "Lorient 0 - 2 Le Havre",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Nice": "1",
+          "Lorient": "2"
+        },
+        "shots_off_target": {
+          "Nice": "7",
+          "Lorient": "5"
+        },
+        "shots_blocked": {
+          "Nice": "6",
+          "Lorient": "3"
+        },
+        "corners": {
+          "Nice": "9",
+          "Lorient": "3"
+        },
+        "fouls": {
+          "Nice": "15",
+          "Lorient": "8"
+        },
+        "offsides": {
+          "Nice": "2",
+          "Lorient": "1"
+        },
+        "yellow_cards": {
+          "Nice": "1",
+          "Lorient": "0"
+        },
+        "goalkeeper_saves": {
+          "Nice": "2",
+          "Lorient": "1"
+        },
+        "crosses": {
+          "Nice": "4",
+          "Lorient": "4"
+        },
+        "ball_possession": {
+          "Nice": "60%",
+          "Lorient": "40%"
+        }
+      },
+      "description": "Watch Nice vs Lorient highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on August 23, 2026. Stalemate at the Allianz Riviera On August 23, 2026, the Allianz Riviera played host to a cagey Ligue 1 encounter between Nice and Lorient . Both sides looked to assert their authority early on, but the match ultimately evolved into a test of defensive resilience rather than a display of attacking flair, leaving supporters witnessing a tight, tactical battle. A Tactical Stalemate Throughout the first half, Nice sought to dictate the play, relying heavily on the delivery of Jonathan Clauss from dead-ball situations. Despite several dangerous corners, the Lorient defense remained disciplined, snuffing out threats before they could materialize into clear-cut chances. The visitors remained patient, surviving a scare in the 24th minute when a defensive blunder almost proved costly for Nice 's keeper Yehvann Diouf , but the deadlock remained unbroken as both teams entered the interval level. As the second half progressed, both managers turned to their benches in hopes of finding a spark. The introduction of players like Mohamed-Ali Cho for Nice added fresh legs to the attack, but the final ball continued to elude both sides. Despite Nice enjoying 60% of the ball possession, they were unable to navigate through the deep block established by Lorient . By the time the final whistle blew, the match concluded without a breakthrough, reflecting a day where defensive structure took precedence over offensive innovation."
+    },
+    {
+      "title": "Lille vs Troyes",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/lille-troyes-2026-09-13-JIAO.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Sep 13, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/9945.webp",
+          "name": "Estac Troyes",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/79.webp",
+          "name": "Lille",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/lille-troyes-2026-09-13-g0ngnm3u8-ZBb3A.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Lille",
+          "player": "H. A. Haraldsson",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "16'",
+          "team": "Lille",
+          "player": "T. Santos",
+          "event_type": "Goal",
+          "assist": "D. Bakwa",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "82'",
+          "team": "Lille",
+          "player": "O. Giroud",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Lille",
+          "player": "E. Mbappé",
+          "event_type": "Goal",
+          "assist": "M. Kjærgaard",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Lille_wins": "2",
+          "draws": "1",
+          "Estac Troyes_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "03/06/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Troyes 1 - 1 Lille"
+          },
+          {
+            "date": "08/01/2023",
+            "competition": "Coupe de France 22/23",
+            "teams_and_score": "Lille 2 - 0 Troyes"
+          },
+          {
+            "date": "01/05/2022",
+            "competition": "Ligue 1 21/22",
+            "teams_and_score": "Troyes 3 - 0 Lille"
+          },
+          {
+            "date": "20/01/2018",
+            "competition": "Ligue 1",
+            "teams_and_score": "Troyes 1 - 0 Lille"
+          },
+          {
+            "date": "22/07/2015",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Lille 1 - 0 Troyes"
+          }
+        ],
+        "home_team_form": {
+          "team": "Lille",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Lille 2 - 0 Troyes",
+              "result": "W"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Lille 2 - 3 Real Betis",
+              "result": "L"
+            },
+            {
+              "date": "03/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Toulouse 0 - 1 Lille",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Everton 1 - 1 Lille",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Estac Troyes",
+          "form": [
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Lille 2 - 0 Troyes",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Troyes 1 - 1 Panetolikos",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Lille": "6",
+          "Estac Troyes": "1"
+        },
+        "shots_off_target": {
+          "Lille": "5",
+          "Estac Troyes": "6"
+        },
+        "shots_blocked": {
+          "Lille": "2",
+          "Estac Troyes": "1"
+        },
+        "corners": {
+          "Lille": "2",
+          "Estac Troyes": "5"
+        },
+        "fouls": {
+          "Lille": "11",
+          "Estac Troyes": "20"
+        },
+        "offsides": {
+          "Lille": "3",
+          "Estac Troyes": "2"
+        },
+        "yellow_cards": {
+          "Lille": "1",
+          "Estac Troyes": "0"
+        },
+        "goalkeeper_saves": {
+          "Lille": "1",
+          "Estac Troyes": "4"
+        },
+        "crosses": {
+          "Lille": "1",
+          "Estac Troyes": "4"
+        },
+        "ball_possession": {
+          "Lille": "63%",
+          "Estac Troyes": "37%"
+        }
+      },
+      "description": "Watch Lille vs Estac Troyes highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The Ligue 1 clash on September 13, 2026, delivered a captivating display of tactical discipline and clinical finishing. Both sides took to the pitch with high stakes, creating an atmosphere of anticipation as the match unfolded under the bright lights. Early Pressure and Breakthrough Lille ignited the contest with immediate attacking intent, nearly taking the lead in the 2nd minute when Dilane Bakwa saw his effort agonisingly strike the post. The drama intensified moments later as a Lille goal was chalked off following a VAR review for offside. Undeterred by the early setbacks, the home side continued to dictate play. The breakthrough finally arrived in the 18th minute; Tiago Santos unleashed a stunning right-footed strike from outside the penalty area, courtesy of a Dilane Bakwa assist, to give his side a deserved lead and settle the nerves of the home support. Tactical Shifts and Mbappe's Late Strike As the second half progressed, Troyes attempted to claw their way back into the game through a series of tactical substitutions, bringing on the likes of Renaud Ripart and Yacouba Kone . Lille countered by introducing veteran striker Olivier Giroud , who made his presence felt but earned a yellow card in the 82nd minute for a robust challenge. Despite Lille 's dominance in possession, which peaked at 64%, the result remained on a knife-edge until deep into stoppage time. In the 90+3rd minute, Maurits Kjaergaard turned provider for Ethan Mbappe , who clinicaly found the net with his left foot to secure the victory and ensure all three points stayed with the hosts."
+    },
+    {
+      "title": "Le Mans vs Lens",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/le-mans-lens-2026-09-13-r3CO.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Sep 13, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/116.webp",
+          "name": "Lens",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1298.webp",
+          "name": "Le Mans",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/le-mans-lens-2026-09-13-kfttum3u8-cZEBt.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "15'",
+          "team": "Le Mans",
+          "player": "N. Boisse",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "20'",
+          "team": "Lens",
+          "player": "M. Cuisance",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "28'",
+          "team": "Le Mans",
+          "player": "J. Vercruysse",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "32'",
+          "team": "Le Mans",
+          "player": "A. Bourabaa",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "38'",
+          "team": "Lens",
+          "player": "A. Bulatovic",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "44'",
+          "team": "Le Mans",
+          "player": "L. Calodat",
+          "event_type": "Goal",
+          "assist": "A. Bourabaa",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "45+2'",
+          "team": "Lens",
+          "player": "A. Sima",
+          "event_type": "Goal",
+          "assist": "F. Thauvin",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Lens",
+          "player": "F. Ivanović",
+          "event_type": "Goal",
+          "assist": "R. Aguilar",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "Lens",
+          "player": "F. Thauvin",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Le Mans_wins": "1",
+          "draws": "0",
+          "Lens_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "27/07/2019",
+            "competition": "Ligue 2 19/20",
+            "teams_and_score": "Le Mans 1 - 2 Lens"
+          },
+          {
+            "date": "24/05/2013",
+            "competition": "Ligue 2",
+            "teams_and_score": "Le Mans 2 - 1 Lens"
+          },
+          {
+            "date": "06/02/2010",
+            "competition": "Ligue 1",
+            "teams_and_score": "Lens 2 - 1 Le Mans"
+          }
+        ],
+        "home_team_form": {
+          "team": "Le Mans",
+          "form": [
+            "D",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Le Mans 2 - 2 Lens",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Le Mans 0 - 1 Le Havre",
+              "result": "L"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Ligue 2 25/26",
+              "teams_and_score": "SC Bastia 0 - 2 Le Mans",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Lens",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Le Mans 2 - 2 Lens",
+              "result": "D"
+            },
+            {
+              "date": "10/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Slavia Prague 2 - 3 Lens",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Lens 0 - 1 Lorient",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Trophee des Champions",
+              "teams_and_score": "Lens 1 - 0 Paris Saint-Germain",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Lens 0 - 2 Sunderland",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Le Mans": "5",
+          "Lens": "6"
+        },
+        "shots_off_target": {
+          "Le Mans": "5",
+          "Lens": "6"
+        },
+        "shots_blocked": {
+          "Le Mans": "3",
+          "Lens": "4"
+        },
+        "corners": {
+          "Le Mans": "3",
+          "Lens": "9"
+        },
+        "fouls": {
+          "Le Mans": "17",
+          "Lens": "11"
+        },
+        "offsides": {
+          "Le Mans": "1",
+          "Lens": "3"
+        },
+        "yellow_cards": {
+          "Le Mans": "2",
+          "Lens": "3"
+        },
+        "goalkeeper_saves": {
+          "Le Mans": "4",
+          "Lens": "3"
+        },
+        "crosses": {
+          "Le Mans": "5",
+          "Lens": "6"
+        },
+        "ball_possession": {
+          "Le Mans": "53%",
+          "Lens": "47%"
+        }
+      },
+      "description": "Watch Le Mans vs Lens highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The clash between Le Mans and Lens on 2026-09-13 promised high stakes in Ligue 1 , as both sides looked to assert their dominance in a tactical battle. The atmosphere was electric as the players took to the pitch, knowing that every challenge and every pass could define their season. Le Mans Take Command The opening stages were characterized by physical play, with early yellow cards shown to Noa Boisse and Michael Cuisance . Le Mans gradually grew into the game and found the breakthrough in the 32nd minute. Adil Bourabaa reacted quickest to a loose ball in the box, heading home to give the hosts the lead. The momentum stayed with Le Mans , and in the 44th minute, Lucas Calodat doubled the advantage with a clinical left-footed finish following a clever assist from Bourabaa . Lens Fight Back Just as it seemed Le Mans would coast into the break with a two-goal cushion, Lens struck back in first-half stoppage time. Florian Thauvin delivered a pin-point cross for Abdallah Sima , who powered a header past the goalkeeper. The visitors carried that energy into the second half, bolstered by tactical substitutions. In the 51st minute, parity was restored when Franjo Ivanovic , who had only just come on, met Ruben Aguilar 's cross with a bullet header to make it 2-2. Late Drama and VAR Intervention The match reached a fever pitch in the 79th minute when the referee pointed to the spot, awarding Lens a penalty for a foul by Djibril Sidibe on Thorgan Hazard . However, the drama was far from over; a lengthy VAR review led the referee to overturn the decision, sparking intense debate on the pitch. Despite late pressure from Lens and a series of corners from Thauvin , the Le Mans defense held firm. A final chance for Andrija Bulatovic went wide in the 94th minute, ensuring both teams left with a hard-earned point."
+    },
+    {
+      "title": "Brest vs PSG",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/brest-psg-2026-09-13-GueQ.webp",
+      "competition": "Ligue 1",
+      "competition_cover": "https://refooty.com/covers/ligue-1.webp",
+      "date": "Sep 13, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/85.webp",
+          "name": "Paris Saint Germain",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/9958.webp",
+          "name": "Brest",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/brest-psg-2026-09-13-blz0km3u8-ND4kl.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Paris Saint Germain",
+          "player": "F. Torres",
+          "event_type": "Goal",
+          "assist": "O. Dembélé",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Brest",
+          "player": "K. Doumbia",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Paris Saint Germain",
+          "player": "Vitinha",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Paris Saint Germain",
+          "player": "P. Fernandez",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Brest_wins": "0",
+          "draws": "1",
+          "Paris Saint Germain_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "10/05/2026",
+            "competition": "Ligue 1 25/26",
+            "teams_and_score": "Paris Saint-Germain 1 - 0 Brest"
+          },
+          {
+            "date": "19/02/2025",
+            "competition": "Knockout Stage",
+            "teams_and_score": "Paris Saint-Germain 7 - 0 Brest"
+          },
+          {
+            "date": "01/02/2025",
+            "competition": "Ligue 1 24/25",
+            "teams_and_score": "Brest 2 - 5 Paris Saint-Germain"
+          },
+          {
+            "date": "07/02/2024",
+            "competition": "Coupe de France 23/24",
+            "teams_and_score": "Paris Saint-Germain 3 - 1 Brest"
+          },
+          {
+            "date": "28/01/2024",
+            "competition": "Ligue 1 23/24",
+            "teams_and_score": "Paris Saint-Germain 2 - 2 Brest"
+          },
+          {
+            "date": "11/03/2023",
+            "competition": "Ligue 1 22/23",
+            "teams_and_score": "Brest 1 - 2 Paris Saint-Germain"
+          }
+        ],
+        "home_team_form": {
+          "team": "Brest",
+          "form": [
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Brest 0 - 1 Paris Saint-Germain",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Nottingham Forest 2 - 0 Brest",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brest 2 - 2 Venezia",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Paris Saint Germain",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Brest 0 - 1 Paris Saint-Germain",
+              "result": "W"
+            },
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Paris Saint-Germain 6 - 1 Slovan Bratislava",
+              "result": "L"
+            },
+            {
+              "date": "04/09/2026",
+              "competition": "Ligue 1",
+              "teams_and_score": "Paris Saint-Germain 1 - 2 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Trophee des Champions",
+              "teams_and_score": "Lens 1 - 0 Paris Saint-Germain",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "UEFA Super Cup",
+              "teams_and_score": "Paris Saint-Germain 2 - 1 Aston Villa",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Brest": "5",
+          "Paris Saint Germain": "7"
+        },
+        "shots_off_target": {
+          "Brest": "7",
+          "Paris Saint Germain": "4"
+        },
+        "shots_blocked": {
+          "Brest": "4",
+          "Paris Saint Germain": "4"
+        },
+        "corners": {
+          "Brest": "3",
+          "Paris Saint Germain": "2"
+        },
+        "fouls": {
+          "Brest": "13",
+          "Paris Saint Germain": "7"
+        },
+        "offsides": {
+          "Brest": "3",
+          "Paris Saint Germain": "1"
+        },
+        "yellow_cards": {
+          "Brest": "1",
+          "Paris Saint Germain": "2"
+        },
+        "goalkeeper_saves": {
+          "Brest": "6",
+          "Paris Saint Germain": "6"
+        },
+        "crosses": {
+          "Brest": "5",
+          "Paris Saint Germain": "3"
+        },
+        "ball_possession": {
+          "Brest": "41%",
+          "Paris Saint Germain": "59%"
+        }
+      },
+      "description": "Watch Brest vs Paris Saint Germain highlights and goals from Ligue 1 on ReFooty: Football Highlights Hub. Match played on September 13, 2026. Ligue 1 action returned with a high-stakes encounter on September 13, 2026 , as Brest hosted the reigning giants Paris Saint-Germain . The match promised a compelling narrative, featuring a home side eager to prove their worth against a star-studded Parisian lineup in front of a passionate crowd. Torres Fires Early for PSG The visitors wasted no time asserting their dominance, breaking the deadlock in just the 5th minute. Ousmane Dembélé turned provider, setting up Ferran Torres , who unleashed a clinical right-footed strike from outside the box that left Egil Selvik with no chance. However, Brest almost found an immediate response when Ludovic Ajorque rose highest to meet a cross, but his header was safely gathered by Matvey Safonov . As the first half progressed, Paris Saint-Germain controlled much of the possession, testing the Brest defense with intricate passing. Achraf Hakimi came close to doubling the lead with a header in the 26th minute, only to see it saved by Selvik . The game grew increasingly physical, leading to a yellow card for Kamory Doumbia following a reckless challenge. Despite several half-chances for both sides, the Parisians headed into the tunnel with a slender one-goal advantage. Late Drama and Woodwork Denies Brest The second half saw Brest emerge with renewed energy, nearly equalizing in the 50th minute. A defensive lapse by Nuno Mendes allowed Kamory Doumbia a clear sight of goal, but his powerful effort cannoned off the post. Moments later, a VAR check for a potential PSG goal kept the tension high, though the scoreline remained unchanged. Safonov was called into action again shortly after, comfortably saving another header from the persistent Doumbia . In the closing stages, both managers turned to their benches to influence the outcome. Brest threw everything forward in search of a leveler, and in the 3rd minute of stoppage time, Djylian N'Guessan almost produced a moment of magic with an audacious bicycle kick that drifted just wide. Ultimately, the Paris Saint-Germain defense held firm under late pressure to secure a 1-0 victory, grinding out three points in a challenging away fixture."
     }
   ]
 }

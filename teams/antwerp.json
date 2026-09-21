@@ -1,102 +1,239 @@
 {
   "team": "Antwerp",
   "team_logo": "https://img.refooty.com/logo/teams/740.webp",
-  "total_matches": 7,
-  "Last update time": "05:50:36 AM 21-09-2026",
+  "total_matches": 8,
+  "Last update time": "03:40:22 AM 22-09-2026",
   "matches": [
     {
-      "title": "Millwall vs Antwerp",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/millwall-vs-antwerp-2026-08-01-IHbY.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 1, 2026",
+      "title": "Antwerp - Union SG",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/antwerp-union-sg-2026-09-21-AKsT.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Sep 21, 2026",
       "events_info": {
         "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1393.webp",
+          "name": "Union St. Gilloise",
+          "score": "2"
+        },
+        "home_team": {
           "logo": "https://img.refooty.com/logo/teams/740.webp",
           "name": "Antwerp",
           "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/58.webp",
-          "name": "Millwall",
-          "score": "1"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/millwall-vs-antwerp-2026-08-01_tWzep.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/antwerp-union-sg-2026-09-21.m3u8"
         }
       ],
       "events_timeline": [
         {
+          "time": "1'",
+          "team": "Antwerp",
+          "player": "M. Frey",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "1'",
+          "team": "Union St. Gilloise",
+          "player": "A. Zorgane",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Antwerp",
+          "player": "A. Vermeeren",
+          "event_type": "Yellow Card"
+        },
+        {
           "time": "46'",
-          "team": "Millwall",
-          "player": "J. Cooper",
+          "team": "Union St. Gilloise",
+          "player": "M. Biondic",
           "event_type": "Goal",
-          "score_update": "1 - 0"
+          "assist": "R. Ratomo",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Antwerp",
+          "player": "B. Deuff",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Antwerp",
+          "player": "B. Deuff",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "91'",
+          "team": "Antwerp",
+          "player": "S. Porozo",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Union St. Gilloise",
+          "player": "H. Koffi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "Union St. Gilloise",
+          "player": "D. D. Roeve",
+          "event_type": "Goal",
+          "assist": "K. Rodríguez",
+          "score_update": "0 - 2"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Millwall_wins": "0",
+          "Antwerp_wins": "1",
           "draws": "0",
-          "Antwerp_wins": "0"
+          "Union St. Gilloise_wins": "5"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "21/02/2026",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Union St.Gilloise 2 - 1 Royal Antwerp"
+          },
+          {
+            "date": "17/05/2025",
+            "competition": "Belgian Pro League: Championship Group",
+            "teams_and_score": "Royal Antwerp 0 - 4 Union St.Gilloise"
+          },
+          {
+            "date": "08/01/2025",
+            "competition": "Belgian Cup",
+            "teams_and_score": "Royal Antwerp 5 - 1 Union St.Gilloise"
+          },
+          {
+            "date": "01/12/2024",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Union St.Gilloise 2 - 1 Royal Antwerp"
+          },
+          {
+            "date": "09/05/2024",
+            "competition": "Belgian Cup",
+            "teams_and_score": "Union St.Gilloise 1 - 0 Royal Antwerp"
+          },
+          {
+            "date": "28/04/2024",
+            "competition": "Belgian Pro League: Championship Group 23/24",
+            "teams_and_score": "Union St.Gilloise 4 - 1 Royal Antwerp"
+          }
+        ],
         "home_team_form": {
-          "team": "Millwall",
-          "form": [
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Millwall 1 - 0 Royal Antwerp",
-              "result": "W"
-            },
-            {
-              "date": "11/05/2026",
-              "competition": "Championship: Play-offs 25/26",
-              "teams_and_score": "Millwall 0 - 2 Hull City",
-              "result": "L"
-            },
-            {
-              "date": "02/05/2026",
-              "competition": "Championship 25/26",
-              "teams_and_score": "Millwall 2 - 0 Oxford United",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
           "team": "Antwerp",
           "form": [
             "L",
-            "W"
+            "L"
           ],
           "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Royal Antwerp 0 - 2 Union St.Gilloise",
+              "result": "L"
+            },
             {
               "date": "02/08/2026",
               "competition": "Club Friendlies 2026",
               "teams_and_score": "Leyton Orient 2 - 1 Royal Antwerp",
               "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Union St. Gilloise",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Royal Antwerp 0 - 2 Union St.Gilloise",
+              "result": "W"
             },
             {
-              "date": "23/05/2026",
-              "competition": "Belgian Pro League Playoff: Conference League Group",
-              "teams_and_score": "Royal Antwerp 2 - 0 Westerlo",
+              "date": "17/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Viktoria Plzen 0 - 3 Union St.Gilloise",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Union St.Gilloise 5 - 0 Lommel",
+              "result": "L"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Bodoe/Glimt 3 - 2 Union St.Gilloise",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Westerlo 1 - 5 Union St.Gilloise",
               "result": "W"
             }
           ]
         }
       },
-      "statistics": {},
-      "description": "Watch Millwall vs Antwerp highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
+      "statistics": {
+        "shots_on_target": {
+          "Antwerp": "1",
+          "Union St. Gilloise": "11"
+        },
+        "shots_off_target": {
+          "Antwerp": "4",
+          "Union St. Gilloise": "4"
+        },
+        "shots_blocked": {
+          "Antwerp": "2",
+          "Union St. Gilloise": "6"
+        },
+        "corners": {
+          "Antwerp": "1",
+          "Union St. Gilloise": "7"
+        },
+        "fouls": {
+          "Antwerp": "16",
+          "Union St. Gilloise": "13"
+        },
+        "offsides": {
+          "Antwerp": "1",
+          "Union St. Gilloise": "1"
+        },
+        "yellow_cards": {
+          "Antwerp": "4",
+          "Union St. Gilloise": "2"
+        },
+        "red_cards": {
+          "Antwerp": "1",
+          "Union St. Gilloise": "0"
+        },
+        "goalkeeper_saves": {
+          "Antwerp": "9",
+          "Union St. Gilloise": "1"
+        },
+        "ball_possession": {
+          "Antwerp": "49%",
+          "Union St. Gilloise": "51%"
+        }
+      },
+      "description": "Watch Antwerp vs Union St. Gilloise highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on September 21, 2026. High stakes in the Jupiler Pro League On September 21, 2026, Antwerp and Union St. Gilloise faced off in a highly anticipated Jupiler Pro League match, characterized by tactical intensity and a flurry of early disciplinary action. The opening exchanges were defined by a physical battle, as the referee was forced to produce several yellow cards within the first 25 minutes to keep tempers in check, involving players such as Adem Zorgane , Michael Frey , and Arthur Vermeeren . Second-half breakthroughs The deadlock was finally broken six minutes into the second half. In the 51st minute, Mateo Biondic capitalized on an assist from Relebohile Mofokeng to put his side ahead. As the match progressed, the disciplinary issues returned, culminating in a red card for Bahmed Deuff in the 70th minute, leaving his team to navigate the final stages a man down. Despite the numerical disadvantage, the contest remained wide open, and the visitors managed to level the score in the 78th minute when Denzel De Roeve struck home following a creative setup from Kevin Rodriguez , ensuring a hard-fought conclusion to the evening."
     },
     {
       "title": "Antwerp - SK Beveren",
@@ -481,6 +618,100 @@
         }
       },
       "description": "Watch Standard Liege vs Antwerp highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on September 7, 2026. The stage was set for an intense clash between Standard Liège and Lommel United , as both sides took to the pitch under the lights for a Jupiler Pro League showdown. Held on September 7, 2026, the match demanded high focus and physical endurance from the very first minute. A cagey start From the opening whistle, the intensity was palpable as both sides battled for control of the midfield. Discipline became an early talking point, with the referee issuing yellow cards to Maxime Busi in the 8th minute and Ibrahim Karamoko in the 10th. The remainder of the first half was defined by tactical caution and gritty defensive work, with neither side able to break the deadlock before the half-time whistle signaled a temporary respite. The decisive moment Following the restart, the defensive tension remained, resulting in a yellow card for Yuto Tsunashima just two minutes into the second half. As the match progressed, both managers looked to their benches to inject fresh energy into their lineups. The breakthrough finally arrived in the 77th minute when Standard Liège were awarded a penalty. Dennis Eckert stepped up and coolly dispatched the spot-kick, shifting the momentum of the game firmly in his team's favor. Despite a flurry of substitutions in the closing stages, the hosts held their ground to secure a hard-fought result."
+    },
+    {
+      "title": "Millwall vs Antwerp",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/millwall-vs-antwerp-2026-08-01-IHbY.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 1, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/740.webp",
+          "name": "Antwerp",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/58.webp",
+          "name": "Millwall",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/millwall-vs-antwerp-2026-08-01_tWzep.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Millwall",
+          "player": "J. Cooper",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Millwall_wins": "0",
+          "draws": "0",
+          "Antwerp_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Millwall",
+          "form": [
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Millwall 1 - 0 Royal Antwerp",
+              "result": "W"
+            },
+            {
+              "date": "11/05/2026",
+              "competition": "Championship: Play-offs 25/26",
+              "teams_and_score": "Millwall 0 - 2 Hull City",
+              "result": "L"
+            },
+            {
+              "date": "02/05/2026",
+              "competition": "Championship 25/26",
+              "teams_and_score": "Millwall 2 - 0 Oxford United",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Antwerp",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Leyton Orient 2 - 1 Royal Antwerp",
+              "result": "L"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Belgian Pro League Playoff: Conference League Group",
+              "teams_and_score": "Royal Antwerp 2 - 0 Westerlo",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Millwall vs Antwerp highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 1, 2026."
     },
     {
       "title": "Antwerp - STVV - 2026-2027",

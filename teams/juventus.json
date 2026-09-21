@@ -1,9 +1,242 @@
 {
   "team": "Juventus",
   "team_logo": "https://img.refooty.com/logo/teams/496.webp",
-  "total_matches": 11,
-  "Last update time": "05:50:36 AM 21-09-2026",
+  "total_matches": 12,
+  "Last update time": "03:40:22 AM 22-09-2026",
   "matches": [
+    {
+      "title": "Juventus vs Atalanta",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/juventus-atalanta-2026-09-20-HSed.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Sep 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/499.webp",
+          "name": "Atalanta",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/496.webp",
+          "name": "Juventus",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/juventus-atalanta-2026-09-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Atalanta",
+          "player": "T. Kristensen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Juventus",
+          "player": "F. Conceição",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Juventus",
+          "player": "F. Conceição",
+          "event_type": "Goal",
+          "assist": "Z. Çelik",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Atalanta",
+          "player": "F. Kessié",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Juventus",
+          "player": "Bremer",
+          "event_type": "Goal",
+          "assist": "E. Zhegrova",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Juventus_wins": "3",
+          "draws": "3",
+          "Atalanta_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "11/04/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Atalanta 0 - 1 Juventus"
+          },
+          {
+            "date": "05/02/2026",
+            "competition": "Coppa Italia: Quarter-Finals",
+            "teams_and_score": "Atalanta 3 - 0 Juventus"
+          },
+          {
+            "date": "27/09/2025",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Juventus 1 - 1 Atalanta"
+          },
+          {
+            "date": "16/08/2025",
+            "competition": "Club Friendlies 2025",
+            "teams_and_score": "Atalanta 1 - 2 Juventus"
+          },
+          {
+            "date": "09/03/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Juventus 0 - 4 Atalanta"
+          },
+          {
+            "date": "15/05/2024",
+            "competition": "Coppa Italia: Final 23/24",
+            "teams_and_score": "Atalanta 0 - 1 Juventus"
+          },
+          {
+            "date": "10/03/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Juventus 2 - 2 Atalanta"
+          }
+        ],
+        "home_team_form": {
+          "team": "Juventus",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Juventus 2 - 0 Atalanta",
+              "result": "W"
+            },
+            {
+              "date": "17/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Juventus 5 - 0 NEC Nijmegen",
+              "result": "W"
+            },
+            {
+              "date": "13/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Sassuolo 3 - 2 Juventus",
+              "result": "L"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Juventus 2 - 0 Palermo",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Juventus 2 - 0 Nice",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Atalanta",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Juventus 2 - 0 Atalanta",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hapoel Tel Aviv 0 - 1 Atalanta",
+              "result": "W"
+            },
+            {
+              "date": "23/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Atalanta 2 - 1 Sassuolo",
+              "result": "W"
+            },
+            {
+              "date": "20/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Atalanta 0 - 0 Hapoel Tel Aviv",
+              "result": "D"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Atalanta 1 - 0 Athletic Club",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Juventus": "5",
+          "Atalanta": "2"
+        },
+        "shots_off_target": {
+          "Juventus": "4",
+          "Atalanta": "6"
+        },
+        "shots_blocked": {
+          "Juventus": "5",
+          "Atalanta": "3"
+        },
+        "corners": {
+          "Juventus": "4",
+          "Atalanta": "5"
+        },
+        "fouls": {
+          "Juventus": "10",
+          "Atalanta": "10"
+        },
+        "offsides": {
+          "Juventus": "4",
+          "Atalanta": "0"
+        },
+        "yellow_cards": {
+          "Juventus": "1",
+          "Atalanta": "2"
+        },
+        "goalkeeper_saves": {
+          "Juventus": "1",
+          "Atalanta": "3"
+        },
+        "crosses": {
+          "Juventus": "8",
+          "Atalanta": "3"
+        },
+        "ball_possession": {
+          "Juventus": "52%",
+          "Atalanta": "48%"
+        }
+      },
+      "description": "Watch Juventus vs Atalanta highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 20, 2026. Tactical Chess Match Opens the Encounter Juventus hosted Atalanta in a Serie A fixture that promised a tactical battle. From the outset, both sides were engaged in a strategic contest, with clear-cut chances scarce in the initial exchanges. Possession was hard-fought, but Juventus managed to hold a slight edge for much of the first half, dictating the tempo at various stages. First Goal Arrives Late in the First Half As the first half drew towards its close with the prospect of heading into the break goalless, Juventus found a way to break down the Atalanta defence. At the 28th minute, through a well-constructed move, Chico Conceicao opened the scoring for the home side, giving his team a crucial advantage before the half-time whistle. Atalanta attempted to respond, with Nikola Krstovic having a late header blocked in added time, but they couldn't find the equalizer. Second Half Sees Substitutions and Equaliser Attempts Into the second half, Atalanta sought to increase their attacking pressure in a bid to find an equalizer. Both teams made a series of substitutions to inject fresh energy into proceedings and alter the game's trajectory. Atalanta had an opportunity from a corner kick, but the ball failed to find any teammates. Juventus found themselves defending at times but also looked to create chances to extend their lead. Bremer Secures Victory Late On The decisive moment of the match arrived in the 77th minute. Edon Zhegrova , who had come on as a substitute, delivered a corner from the right with precision. In the heart of the box, Gleison Bremer rose highest to head the ball home, extending Juventus 's advantage. Despite Atalanta 's efforts to create chances in the closing stages, including a blocked header from Teun Koopmeiners and a shot wide from Thomas Kristensen , Juventus held firm. The final whistle confirmed a 2-0 victory for Juventus , a result that reflected the team''s ability to capitalize on their opportunities and maintain defensive solidity. Statistics and Match Conclusion At the end of the match, played on September 20, 2026, Juventus recorded 52% of the ball possession, compared to Atalanta 's 48%. The attendance at the stadium was 40,351. Juventus celebrated a deserved victory after a fine display, solidifying their position in the league table."
+    },
     {
       "title": "Juventus vs NEC Nijmegen",
       "thumbnail_url": "https://img.refooty.com/thumbnail/juventus-vs-nec-nijmegen-2026-09-17-hBFU.webp",
@@ -210,261 +443,6 @@
         }
       },
       "description": "Watch Juventus vs NEC Nijmegen highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on September 17, 2026. The stage was set on September 17, 2026, as Juventus welcomed NEC Nijmegen for a highly anticipated clash in the UEFA Europa League . Both sides took to the pitch with high ambitions, looking to establish momentum in the early stages of the competition. Explosive Start for the Hosts Juventus wasted no time establishing their dominance, breaking the deadlock just 9 minutes into the match. Nico Gonzalez found the back of the net after a clinical assist from Kamil Grabara , sending the home crowd into a frenzy. The pressure didn't stop there; in the 24th minute, Kerim Alajbegovic doubled the lead, finishing off a well-worked move orchestrated by Weston McKennie . As the first half progressed, the visitors struggled to contain the Italian side's attacking flair. In the 35th minute, a foul in the box led to a penalty, which Nick Woltemade calmly converted to put his side three goals up. The opening 45 minutes were a masterclass in efficiency, leaving the Dutch side with a mountain to climb after the break. Second Half Intensity and Clinical Finishing The second half saw an increase in physical play, with Jamiro Monteiro and Douglas Luiz both receiving yellow cards as the midfield battle intensified. Tactical changes followed, with both managers turning to their benches. The introduction of Randal Kolo Muani in the 71st minute proved to be the decisive factor in the closing stages of the game. In the 75th minute, Kolo Muani turned provider, setting up Mehmet Zeki Celik for the fourth goal. The French international then capped off a brilliant individual cameo by scoring himself in the 82nd minute, assisted by Jhon Lucumi . The referee’s final whistle at 90+4' signaled a perfect start for Juventus , who secured a comprehensive victory in front of their supporters."
-    },
-    {
-      "title": "Sassuolo vs Juventus",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/sassuolo-juventus-2026-09-13-ajTZ.webp",
-      "competition": "Serie A",
-      "competition_cover": "https://refooty.com/covers/serie-a.webp",
-      "date": "Sep 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/496.webp",
-          "name": "Juventus",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/488.webp",
-          "name": "Sassuolo",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/sassuolo-juventus-2026-09-13-ctqp6m3u8-QwfgO.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Juventus",
-          "player": "J. Lucumí",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "48'",
-          "team": "Sassuolo",
-          "player": "L. Lipani",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "65'",
-          "team": "Sassuolo",
-          "player": "S. Esposito",
-          "event_type": "Goal",
-          "assist": "N. Matic",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "76'",
-          "team": "Juventus",
-          "player": "D. Luiz",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "82'",
-          "team": "Juventus",
-          "player": "E. Zhegrova",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "89'",
-          "team": "Sassuolo",
-          "player": "K. Bowie",
-          "event_type": "Goal",
-          "assist": "D. Bakola",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "90+1'",
-          "team": "Juventus",
-          "player": "E. Zhegrova",
-          "event_type": "Goal",
-          "assist": "R. K. Muani",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "90+3'",
-          "team": "Sassuolo",
-          "player": "F. Leysen",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+4'",
-          "team": "Sassuolo",
-          "player": "V. Adžić",
-          "event_type": "Goal",
-          "assist": "A. Laurienté",
-          "score_update": "3 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Sassuolo_wins": "2",
-          "draws": "1",
-          "Juventus_wins": "4"
-        },
-        "previous_matches": [
-          {
-            "date": "21/03/2026",
-            "competition": "Serie A 25/26",
-            "teams_and_score": "Juventus 1 - 1 Sassuolo"
-          },
-          {
-            "date": "16/01/2024",
-            "competition": "Serie A 23/24",
-            "teams_and_score": "Juventus 3 - 0 Sassuolo"
-          },
-          {
-            "date": "16/04/2023",
-            "competition": "Serie A 22/23",
-            "teams_and_score": "Sassuolo 1 - 0 Juventus"
-          },
-          {
-            "date": "25/04/2022",
-            "competition": "Serie A 21/22",
-            "teams_and_score": "Sassuolo 1 - 2 Juventus"
-          },
-          {
-            "date": "10/02/2022",
-            "competition": "Coppa Italia 21/22",
-            "teams_and_score": "Juventus 2 - 1 Sassuolo"
-          },
-          {
-            "date": "27/10/2021",
-            "competition": "Serie A 21/22",
-            "teams_and_score": "Juventus 1 - 2 Sassuolo"
-          },
-          {
-            "date": "12/05/2021",
-            "competition": "Serie A 20/21",
-            "teams_and_score": "Sassuolo 1 - 3 Juventus"
-          }
-        ],
-        "home_team_form": {
-          "team": "Sassuolo",
-          "form": [
-            "W",
-            "D",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Sassuolo 3 - 2 Juventus",
-              "result": "W"
-            },
-            {
-              "date": "02/09/2026",
-              "competition": "Coppa Italia: Preliminary Round",
-              "teams_and_score": "Sassuolo 1 - 1 Frosinone",
-              "result": "D"
-            },
-            {
-              "date": "29/08/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Sassuolo 2 - 1 Torino",
-              "result": "W"
-            },
-            {
-              "date": "17/08/2026",
-              "competition": "Coppa Italia: Round of 32",
-              "teams_and_score": "Sassuolo 3 - 0 Cesena FC",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Augsburg 3 - 2 Sassuolo",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Juventus",
-          "form": [
-            "L",
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Sassuolo 3 - 2 Juventus",
-              "result": "L"
-            },
-            {
-              "date": "11/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Juventus 2 - 0 Palermo",
-              "result": "W"
-            },
-            {
-              "date": "31/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Juventus 2 - 0 Nice",
-              "result": "W"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Basel 0 - 0 Juventus",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Sassuolo": "6",
-          "Juventus": "8"
-        },
-        "shots_off_target": {
-          "Sassuolo": "3",
-          "Juventus": "5"
-        },
-        "shots_blocked": {
-          "Sassuolo": "1",
-          "Juventus": "6"
-        },
-        "corners": {
-          "Sassuolo": "3",
-          "Juventus": "10"
-        },
-        "fouls": {
-          "Sassuolo": "8",
-          "Juventus": "13"
-        },
-        "offsides": {
-          "Sassuolo": "3",
-          "Juventus": "2"
-        },
-        "yellow_cards": {
-          "Sassuolo": "2",
-          "Juventus": "2"
-        },
-        "goalkeeper_saves": {
-          "Sassuolo": "6",
-          "Juventus": "3"
-        },
-        "crosses": {
-          "Sassuolo": "1",
-          "Juventus": "6"
-        },
-        "ball_possession": {
-          "Sassuolo": "42%",
-          "Juventus": "58%"
-        }
-      },
-      "description": "Watch Sassuolo vs Juventus highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The Serie A clash between Sassuolo and Juventus on September 13, 2026, was billed as a high-stakes tactical battle, but it eventually transformed into one of the most chaotic finishes of the season. Both sides entered the Mapei Stadium with a clear intent to dominate, leading to a match that kept fans on the edge of their seats until the final whistle. A Tense Tactical Opening The first half was characterized by a cautious approach from both managers. Juventus controlled more of the ball, but the Sassuolo defense remained disciplined. The physicality of the encounter was evident early on when Jhon Lucumi received a yellow card in the 20th minute for a rough challenge. Despite numerous corner situations earned by Douglas Luiz and Chico Conceicao , clear-cut chances remained at a premium, and the teams headed into the locker rooms with the deadlock unbroken. Deadlock Broken in the Second Half The intensity surged after the break as the home side found their rhythm. In the 65th minute, Sebastiano Esposito ignited the stadium by slotting home with his right foot following a brilliant key pass from Nemanja Matic . Juventus responded with tactical changes, and their persistence paid off in the 82nd minute. Edon Zhegrova capitalized on a defensive lapse to fire home an equalizer with his left foot, setting the stage for a grandstand finish. Stoppage Time Mayhem The final minutes produced a script that no one could have written. In the 89th minute, Kieron Bowie struck what many thought was the winner for Sassuolo after being set up by Darryl Bakola . However, Juventus fought back instantly; in the first minute of added time, Edon Zhegrova secured his brace with a clinical finish assisted by Randal Kolo Muani . Just as a draw seemed certain, Sassuolo launched one final counter-attack. In the 94th minute, Armand Lauriente delivered a perfect ball for Vasilije Adzic , who found the net to secure a stunning 3-2 victory in the dying seconds."
     },
     {
       "title": "Juventus vs AC Milan",
@@ -2011,6 +1989,261 @@
       },
       "statistics": {},
       "description": "Watch Juventus vs Inter highlights and goals from FIFA Club World Cup on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
+    },
+    {
+      "title": "Sassuolo vs Juventus",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sassuolo-juventus-2026-09-13-ajTZ.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Sep 13, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/496.webp",
+          "name": "Juventus",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/488.webp",
+          "name": "Sassuolo",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/sassuolo-juventus-2026-09-13-ctqp6m3u8-QwfgO.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Juventus",
+          "player": "J. Lucumí",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "48'",
+          "team": "Sassuolo",
+          "player": "L. Lipani",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "65'",
+          "team": "Sassuolo",
+          "player": "S. Esposito",
+          "event_type": "Goal",
+          "assist": "N. Matic",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "76'",
+          "team": "Juventus",
+          "player": "D. Luiz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "82'",
+          "team": "Juventus",
+          "player": "E. Zhegrova",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "89'",
+          "team": "Sassuolo",
+          "player": "K. Bowie",
+          "event_type": "Goal",
+          "assist": "D. Bakola",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "90+1'",
+          "team": "Juventus",
+          "player": "E. Zhegrova",
+          "event_type": "Goal",
+          "assist": "R. K. Muani",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "90+3'",
+          "team": "Sassuolo",
+          "player": "F. Leysen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+4'",
+          "team": "Sassuolo",
+          "player": "V. Adžić",
+          "event_type": "Goal",
+          "assist": "A. Laurienté",
+          "score_update": "3 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Sassuolo_wins": "2",
+          "draws": "1",
+          "Juventus_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "21/03/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Juventus 1 - 1 Sassuolo"
+          },
+          {
+            "date": "16/01/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Juventus 3 - 0 Sassuolo"
+          },
+          {
+            "date": "16/04/2023",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "Sassuolo 1 - 0 Juventus"
+          },
+          {
+            "date": "25/04/2022",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Sassuolo 1 - 2 Juventus"
+          },
+          {
+            "date": "10/02/2022",
+            "competition": "Coppa Italia 21/22",
+            "teams_and_score": "Juventus 2 - 1 Sassuolo"
+          },
+          {
+            "date": "27/10/2021",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Juventus 1 - 2 Sassuolo"
+          },
+          {
+            "date": "12/05/2021",
+            "competition": "Serie A 20/21",
+            "teams_and_score": "Sassuolo 1 - 3 Juventus"
+          }
+        ],
+        "home_team_form": {
+          "team": "Sassuolo",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Sassuolo 3 - 2 Juventus",
+              "result": "W"
+            },
+            {
+              "date": "02/09/2026",
+              "competition": "Coppa Italia: Preliminary Round",
+              "teams_and_score": "Sassuolo 1 - 1 Frosinone",
+              "result": "D"
+            },
+            {
+              "date": "29/08/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Sassuolo 2 - 1 Torino",
+              "result": "W"
+            },
+            {
+              "date": "17/08/2026",
+              "competition": "Coppa Italia: Round of 32",
+              "teams_and_score": "Sassuolo 3 - 0 Cesena FC",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Augsburg 3 - 2 Sassuolo",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Juventus",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Sassuolo 3 - 2 Juventus",
+              "result": "L"
+            },
+            {
+              "date": "11/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Juventus 2 - 0 Palermo",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Juventus 2 - 0 Nice",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Basel 0 - 0 Juventus",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sassuolo": "6",
+          "Juventus": "8"
+        },
+        "shots_off_target": {
+          "Sassuolo": "3",
+          "Juventus": "5"
+        },
+        "shots_blocked": {
+          "Sassuolo": "1",
+          "Juventus": "6"
+        },
+        "corners": {
+          "Sassuolo": "3",
+          "Juventus": "10"
+        },
+        "fouls": {
+          "Sassuolo": "8",
+          "Juventus": "13"
+        },
+        "offsides": {
+          "Sassuolo": "3",
+          "Juventus": "2"
+        },
+        "yellow_cards": {
+          "Sassuolo": "2",
+          "Juventus": "2"
+        },
+        "goalkeeper_saves": {
+          "Sassuolo": "6",
+          "Juventus": "3"
+        },
+        "crosses": {
+          "Sassuolo": "1",
+          "Juventus": "6"
+        },
+        "ball_possession": {
+          "Sassuolo": "42%",
+          "Juventus": "58%"
+        }
+      },
+      "description": "Watch Sassuolo vs Juventus highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The Serie A clash between Sassuolo and Juventus on September 13, 2026, was billed as a high-stakes tactical battle, but it eventually transformed into one of the most chaotic finishes of the season. Both sides entered the Mapei Stadium with a clear intent to dominate, leading to a match that kept fans on the edge of their seats until the final whistle. A Tense Tactical Opening The first half was characterized by a cautious approach from both managers. Juventus controlled more of the ball, but the Sassuolo defense remained disciplined. The physicality of the encounter was evident early on when Jhon Lucumi received a yellow card in the 20th minute for a rough challenge. Despite numerous corner situations earned by Douglas Luiz and Chico Conceicao , clear-cut chances remained at a premium, and the teams headed into the locker rooms with the deadlock unbroken. Deadlock Broken in the Second Half The intensity surged after the break as the home side found their rhythm. In the 65th minute, Sebastiano Esposito ignited the stadium by slotting home with his right foot following a brilliant key pass from Nemanja Matic . Juventus responded with tactical changes, and their persistence paid off in the 82nd minute. Edon Zhegrova capitalized on a defensive lapse to fire home an equalizer with his left foot, setting the stage for a grandstand finish. Stoppage Time Mayhem The final minutes produced a script that no one could have written. In the 89th minute, Kieron Bowie struck what many thought was the winner for Sassuolo after being set up by Darryl Bakola . However, Juventus fought back instantly; in the first minute of added time, Edon Zhegrova secured his brace with a clinical finish assisted by Randal Kolo Muani . Just as a draw seemed certain, Sassuolo launched one final counter-attack. In the 94th minute, Armand Lauriente delivered a perfect ball for Vasilije Adzic , who found the net to secure a stunning 3-2 victory in the dying seconds."
     }
   ]
 }

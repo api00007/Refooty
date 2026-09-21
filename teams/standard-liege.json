@@ -1,9 +1,202 @@
 {
   "team": "Standard Liege",
   "team_logo": "https://img.refooty.com/logo/teams/733.webp",
-  "total_matches": 7,
-  "Last update time": "05:50:36 AM 21-09-2026",
+  "total_matches": 8,
+  "Last update time": "03:40:22 AM 22-09-2026",
   "matches": [
+    {
+      "title": "KAA Gent - Standard de Liège",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/kaa-gent-standard-de-liege-2026-09-21-0ghl.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Sep 21, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/733.webp",
+          "name": "Standard Liege",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/19685.webp",
+          "name": "KAA Gent",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/kaa-gent-standard-de-liege-2026-09-21.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "31'",
+          "team": "KAA Gent",
+          "player": "J. Vergara",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "45+3'",
+          "team": "Standard Liege",
+          "player": "C. Nielsen",
+          "event_type": "Goal",
+          "assist": "D. E. Ayensa",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "KAA Gent",
+          "player": "S. V. d. Heyden",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "KAA Gent",
+          "player": "C. Burgess",
+          "event_type": "Goal",
+          "assist": "T. D. Vlieger",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "KAA Gent_wins": "3",
+          "draws": "0",
+          "Standard Liege_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "23/01/2026",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Standard Liege 0 - 4 Gent"
+          },
+          {
+            "date": "22/12/2024",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Standard Liege 0 - 1 Gent"
+          },
+          {
+            "date": "18/05/2024",
+            "competition": "Belgian Pro League: UECL Group 23/24",
+            "teams_and_score": "Standard Liege 1 - 4 Gent"
+          },
+          {
+            "date": "02/03/2024",
+            "competition": "Belgian Pro League 23/24",
+            "teams_and_score": "Standard Liege 4 - 2 Gent"
+          },
+          {
+            "date": "03/06/2023",
+            "competition": "Belgian Pro League: UECL Group 22/23",
+            "teams_and_score": "Gent 3 - 1 Standard Liege"
+          }
+        ],
+        "home_team_form": {
+          "team": "KAA Gent",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "18/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Gent 2 - 1 Standard Liege",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hibernian 2 - 3 Gent",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Raal La Louviere 1 - 2 Gent",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Gent 1 - 1 IFK Gothenburg",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Gent 2 - 0 KV Mechelen",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Standard Liege",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "18/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Gent 2 - 1 Standard Liege",
+              "result": "L"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Standard Liege 2 - 1 RFC Seraing",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "KAA Gent": "6",
+          "Standard Liege": "4"
+        },
+        "shots_off_target": {
+          "KAA Gent": "4",
+          "Standard Liege": "4"
+        },
+        "shots_blocked": {
+          "KAA Gent": "1",
+          "Standard Liege": "6"
+        },
+        "corners": {
+          "KAA Gent": "5",
+          "Standard Liege": "6"
+        },
+        "fouls": {
+          "KAA Gent": "11",
+          "Standard Liege": "5"
+        },
+        "offsides": {
+          "KAA Gent": "0",
+          "Standard Liege": "1"
+        },
+        "yellow_cards": {
+          "KAA Gent": "1",
+          "Standard Liege": "0"
+        },
+        "goalkeeper_saves": {
+          "KAA Gent": "3",
+          "Standard Liege": "4"
+        },
+        "ball_possession": {
+          "KAA Gent": "45%",
+          "Standard Liege": "55%"
+        }
+      },
+      "description": "Watch KAA Gent vs Standard Liege highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on September 21, 2026. The atmosphere in the Jupiler Pro League was electric as KAA Gent hosted Standard Liege in a clash that promised tactical intrigue and high intensity. On September 21, 2026, both sides took to the pitch searching for crucial points, delivering a spectacle that kept fans on the edge of their seats until the final whistle. Early Breakthrough and a Sudden Response The match began with both teams testing each other's resolve, but it was the home side that struck first. Despite an early setback when Mouhamed Ngom had to be replaced by Maksim Paskotsi in the 27th minute, KAA Gent maintained their focus. In the 31st minute, Josue Vergara found the back of the net with a clinical finish, giving the hosts a well-deserved lead and energizing the home crowd. Just as it seemed Gent would head into the break with the advantage, Standard Liege produced a moment of quality in stoppage time. In the 45+3 minute, Dennis Eckert turned provider, delivering a perfect ball for Casper Nielsen , who clinicaly leveled the score. This late equalizer shifted the momentum significantly as the players headed into the tunnel for halftime. The Turning Point in the Second Half The second period was a tighter affair, characterized by tactical adjustments and a physical battle in midfield. A flurry of substitutions in the 71st minute saw both managers looking for a winning edge, with Gent introducing fresh legs like Leonardo Lopes and Bruny Nsimba . However, the tension continued to rise, leading to a yellow card for Siebe van der Heyden in the 76th minute. The decisive moment arrived in the 83rd minute. Tibe De Vlieger delivered a pinpoint assist into the danger zone, where Christian Burgess rose to the occasion, finding the net to complete the comeback for the visitors. Despite four minutes of added time and late tactical shifts, Standard Liege held firm to secure a 2-1 victory, leaving the Ghelamco Arena with all three points after the referee blew the final whistle at 90+4'."
+    },
     {
       "title": "St. Liège - Antwerp - 2026-2027",
       "thumbnail_url": "https://img.refooty.com/thumbnail/st-liege-antwerp-2026-2027-2026-09-07-jB28.webp",

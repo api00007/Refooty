@@ -1,9 +1,713 @@
 {
   "competition": "Premier League",
   "competition_cover": "https://refooty.com/covers/premier-league.webp",
-  "total_matches": 48,
-  "Last update time": "05:50:35 AM 21-09-2026",
+  "total_matches": 51,
+  "Last update time": "03:40:21 AM 22-09-2026",
   "matches": [
+    {
+      "title": "Leeds vs Crystal Palace",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/leeds-vs-crystal-palace-2026-09-20-FKR7.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/52.webp",
+          "name": "Crystal Palace",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/63.webp",
+          "name": "Leeds",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/leeds-vs-crystal-palace-2026-09-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Leeds",
+          "player": "J. Bogle",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "52'",
+          "team": "Crystal Palace",
+          "player": "T. Mitchell",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "62'",
+          "team": "Leeds",
+          "player": "A. Tanaka",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "64'",
+          "team": "Crystal Palace",
+          "player": "A. Wharton",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "81'",
+          "team": "Crystal Palace",
+          "player": "Y. Pino",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Crystal Palace",
+          "player": "J. Lerma",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Leeds_wins": "1",
+          "draws": "4",
+          "Crystal Palace_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "15/03/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Crystal Palace 0 - 0 Leeds United"
+          },
+          {
+            "date": "09/04/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Leeds United 1 - 5 Crystal Palace"
+          },
+          {
+            "date": "22/07/2022",
+            "competition": "Club Friendlies 2022",
+            "teams_and_score": "Crystal Palace 1 - 1 Leeds United"
+          },
+          {
+            "date": "25/04/2022",
+            "competition": "Premier League 21/22",
+            "teams_and_score": "Crystal Palace 0 - 0 Leeds United"
+          },
+          {
+            "date": "08/02/2021",
+            "competition": "Premier League 20/21",
+            "teams_and_score": "Leeds United 2 - 0 Crystal Palace"
+          },
+          {
+            "date": "09/03/2013",
+            "competition": "Championship",
+            "teams_and_score": "Crystal Palace 2 - 2 Leeds United"
+          }
+        ],
+        "home_team_form": {
+          "team": "Leeds",
+          "form": [
+            "D",
+            "L",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Leeds United 0 - 0 Crystal Palace",
+              "result": "D"
+            },
+            {
+              "date": "09/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Chelsea 6 - 3 Leeds United",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brighton 1 - 1 Leeds United",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Nottingham Forest 0 - 2 Leeds United",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Nottingham Forest 0 - 1 Leeds United",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Crystal Palace",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Leeds United 0 - 0 Crystal Palace",
+              "result": "D"
+            },
+            {
+              "date": "17/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Crystal Palace 4 - 0 Lech Poznan",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Crystal Palace 2 - 3 Ipswich Town",
+              "result": "L"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Crystal Palace 3 - 0 Middlesbrough",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Fulham 2 - 3 Crystal Palace",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Leeds": "2",
+          "Crystal Palace": "4"
+        },
+        "shots_off_target": {
+          "Leeds": "5",
+          "Crystal Palace": "5"
+        },
+        "shots_blocked": {
+          "Leeds": "6",
+          "Crystal Palace": "3"
+        },
+        "corners": {
+          "Leeds": "4",
+          "Crystal Palace": "3"
+        },
+        "fouls": {
+          "Leeds": "10",
+          "Crystal Palace": "12"
+        },
+        "offsides": {
+          "Leeds": "2",
+          "Crystal Palace": "2"
+        },
+        "yellow_cards": {
+          "Leeds": "2",
+          "Crystal Palace": "3"
+        },
+        "goalkeeper_saves": {
+          "Leeds": "5",
+          "Crystal Palace": "2"
+        },
+        "crosses": {
+          "Leeds": "4",
+          "Crystal Palace": "1"
+        },
+        "ball_possession": {
+          "Leeds": "51%",
+          "Crystal Palace": "49%"
+        }
+      },
+      "description": "Watch Leeds vs Crystal Palace highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 20, 2026. The atmosphere was buzzing at Elland Road as two sides looked to secure crucial points in this highly anticipated Premier League fixture. Played on September 20, 2026, the match promised to be a grueling test of resolve and tactical discipline for both Leeds and Crystal Palace . A cagey opening chapter From the start, the game was characterized by intense pressure and physical challenges. Leeds sought to command the play, with Tarik Muharemovic coming close with a header that was ultimately blocked by the defense. Despite Anton Stach delivering multiple dangerous corners, the final touch was consistently missing for the hosts, leaving the scores level as both sides struggled to find a clinical edge before the break. Second-half drama and stalemate Returning from the tunnel, the match reached a boiling point in the 53rd minute when a Crystal Palace goal was sensationally ruled out by VAR due to an offside call. This decision shifted the momentum, leading to a more disjointed and aggressive affair as the clock ticked down. Players like Ao Tanaka , Adam Wharton , Yeremy Pino , and Jefferson Lerma all found their names in the referee's notebook as tactical fouls became frequent. Despite Leeds holding 51% of the possession and pushing until the final whistle in front of a crowd of 36,462, neither side could break the deadlock, leaving the game to finish scoreless."
+    },
+    {
+      "title": "Newcastle vs Hull City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/newcastle-vs-hull-city-2026-09-20-KCPQ.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/64.webp",
+          "name": "Hull City",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/34.webp",
+          "name": "Newcastle",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/newcastle-vs-hull-city-2026-09-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "3'",
+          "team": "Newcastle",
+          "player": "J. Willock",
+          "event_type": "Goal",
+          "assist": "H. Barnes",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "7'",
+          "team": "Newcastle",
+          "player": "L. Hall",
+          "event_type": "Goal",
+          "assist": "H. Barnes",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "29'",
+          "team": "Hull City",
+          "player": "M. Crooks",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "39'",
+          "team": "Hull City",
+          "player": "M. Belloumi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+2'",
+          "team": "Newcastle",
+          "player": "Y. Wissa",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "45+2'",
+          "team": "Hull City",
+          "player": "K. Tzolakis",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+3'",
+          "team": "Newcastle",
+          "player": "J. Murphy",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Hull City",
+          "player": "R. Giles",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Hull City",
+          "player": "M. Cho",
+          "event_type": "Goal",
+          "assist": "M. Belloumi",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Newcastle_wins": "2",
+          "draws": "2",
+          "Hull City_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "27/07/2024",
+            "competition": "Featured Club Friendlies",
+            "teams_and_score": "Hull City 0 - 2 Newcastle United"
+          },
+          {
+            "date": "24/07/2018",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Hull City 2 - 2 Newcastle United"
+          },
+          {
+            "date": "29/11/2016",
+            "competition": "EFL Cup",
+            "teams_and_score": "Hull City 1 - 1 Newcastle United"
+          },
+          {
+            "date": "31/01/2015",
+            "competition": "Premier League",
+            "teams_and_score": "Hull City 0 - 3 Newcastle United"
+          },
+          {
+            "date": "14/01/2009",
+            "competition": "FA Cup",
+            "teams_and_score": "Newcastle United 0 - 1 Hull City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Newcastle",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Newcastle United 2 - 1 Hull City",
+              "result": "W"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Millwall 0 - 1 Newcastle United",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Newcastle United 2 - 2 AFC Bournemouth",
+              "result": "D"
+            },
+            {
+              "date": "26/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Newcastle United 3 - 2 West Bromwich Albion",
+              "result": "W"
+            },
+            {
+              "date": "23/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Newcastle United 2 - 2 Liverpool",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Hull City",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Newcastle United 2 - 1 Hull City",
+              "result": "L"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Sunderland 1 - 0 Hull City",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Hull City 0 - 0 Aston Villa",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Stoke City 1 - 1 Hull City",
+              "result": "D"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Hull City 2 - 0 Manchester United",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Newcastle": "5",
+          "Hull City": "4"
+        },
+        "shots_off_target": {
+          "Newcastle": "5",
+          "Hull City": "7"
+        },
+        "shots_blocked": {
+          "Newcastle": "2",
+          "Hull City": "11"
+        },
+        "corners": {
+          "Newcastle": "4",
+          "Hull City": "7"
+        },
+        "fouls": {
+          "Newcastle": "4",
+          "Hull City": "10"
+        },
+        "offsides": {
+          "Newcastle": "2",
+          "Hull City": "1"
+        },
+        "yellow_cards": {
+          "Newcastle": "1",
+          "Hull City": "5"
+        },
+        "goalkeeper_saves": {
+          "Newcastle": "3",
+          "Hull City": "3"
+        },
+        "crosses": {
+          "Newcastle": "3",
+          "Hull City": "6"
+        },
+        "ball_possession": {
+          "Newcastle": "56%",
+          "Hull City": "44%"
+        }
+      },
+      "description": "Watch Newcastle vs Hull City highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 20, 2026. On September 20, 2026 , St. James' Park hosted a compelling Premier League fixture between Newcastle United and Hull City . The match promised a clash of styles, with both teams eager to prove their worth in a league where every point is a battle. Newcastle's Early Double Salvo The Magpies exploded out of the blocks, leaving the visitors stunned within the opening ten minutes. In the 3rd minute, Harvey Barnes turned provider, setting up Joseph Willock for a composed left-footed finish to open the scoring. The momentum stayed firmly with the hosts, and by the 7th minute, it was two. Harvey Barnes once again showcased his vision, assisting Lewis Hall , who clinically converted with his left foot. It was a dream start for Newcastle , who looked poised to run away with the contest. Penalty Drama Before the Break As the first half drew to a close, the game turned increasingly physical. Hull City players Matt Crooks and Mohamed Belloumi were cautioned as they struggled to contain the Newcastle attack. The drama peaked in stoppage time when Sorba Thomas tripped Jacob Murphy in the box. After a VAR check, a penalty was awarded. Yoane Wissa stepped up to potentially seal the game, but his effort was brilliantly parried by Konstantinos Tzolakis . The save gave Hull a lifeline and prevented the deficit from becoming insurmountable before the interval. Hull's Fightback and Defensive Resilience The second half saw a rejuvenated Hull City searching for a way back. Their efforts bore fruit in the 67th minute when Mohamed Belloumi assisted Mohamed-Ali Cho , who slotted home with his left foot to make it 2-1. This sparked a nervous final period for Newcastle , as defensive blunders by Lewis Hall and Fabian Schaer gifted chances to the visitors. Despite a late flurry of corners from Ryan Giles and a blocked effort by Oli McBurnie , Newcastle held firm. Key clearances from Malick Thiaw and Sven Botman ensured the hosts secured all three points in a tense finale."
+    },
+    {
+      "title": "Bournemouth vs Liverpool",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/bournemouth-vs-liverpool-2026-09-20-LXim.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/40.webp",
+          "name": "Liverpool",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/35.webp",
+          "name": "Bournemouth",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/bournemouth-vs-liverpool-2026-09-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Liverpool",
+          "player": "D. Szoboszlai",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Bournemouth",
+          "player": "A. Silva",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Bournemouth_wins": "2",
+          "draws": "0",
+          "Liverpool_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "24/01/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "AFC Bournemouth 3 - 2 Liverpool"
+          },
+          {
+            "date": "01/02/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "AFC Bournemouth 0 - 2 Liverpool"
+          },
+          {
+            "date": "21/01/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "AFC Bournemouth 0 - 4 Liverpool"
+          },
+          {
+            "date": "01/11/2023",
+            "competition": "EFL Cup: Round 4 23/24",
+            "teams_and_score": "AFC Bournemouth 1 - 2 Liverpool"
+          },
+          {
+            "date": "19/08/2023",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "Liverpool 3 - 1 AFC Bournemouth"
+          },
+          {
+            "date": "11/03/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "AFC Bournemouth 1 - 0 Liverpool"
+          },
+          {
+            "date": "07/03/2020",
+            "competition": "Premier League 19/20",
+            "teams_and_score": "Liverpool 2 - 1 AFC Bournemouth"
+          }
+        ],
+        "home_team_form": {
+          "team": "Bournemouth",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "AFC Bournemouth 0 - 1 Liverpool",
+              "result": "L"
+            },
+            {
+              "date": "17/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Real Sociedad 1 - 2 AFC Bournemouth",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "AFC Bournemouth 2 - 2 Brentford",
+              "result": "D"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "AFC Bournemouth 4 - 0 Lincoln City",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Newcastle United 2 - 2 AFC Bournemouth",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Liverpool",
+          "form": [
+            "W",
+            "W",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "AFC Bournemouth 0 - 1 Liverpool",
+              "result": "W"
+            },
+            {
+              "date": "15/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Liverpool 3 - 1 Tottenham Hotspur",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Liverpool 0 - 0 Fulham",
+              "result": "D"
+            },
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Liverpool 2 - 1 Atletico Madrid",
+              "result": "W"
+            },
+            {
+              "date": "04/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Ipswich Town 0 - 2 Liverpool",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Bournemouth": "2",
+          "Liverpool": "3"
+        },
+        "shots_off_target": {
+          "Bournemouth": "5",
+          "Liverpool": "3"
+        },
+        "shots_blocked": {
+          "Bournemouth": "2",
+          "Liverpool": "6"
+        },
+        "corners": {
+          "Bournemouth": "3",
+          "Liverpool": "3"
+        },
+        "fouls": {
+          "Bournemouth": "11",
+          "Liverpool": "13"
+        },
+        "offsides": {
+          "Bournemouth": "4",
+          "Liverpool": "2"
+        },
+        "yellow_cards": {
+          "Bournemouth": "1",
+          "Liverpool": "2"
+        },
+        "goalkeeper_saves": {
+          "Bournemouth": "2",
+          "Liverpool": "2"
+        },
+        "crosses": {
+          "Bournemouth": "6",
+          "Liverpool": "1"
+        },
+        "ball_possession": {
+          "Bournemouth": "46%",
+          "Liverpool": "54%"
+        }
+      },
+      "description": "Watch Bournemouth vs Liverpool highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 20, 2026. The spotlight fell on the south coast on 2026-09-20 as Bournemouth hosted Liverpool in a highly anticipated Premier League encounter. Both sides looked to establish dominance early in a fixture known for its tactical discipline and high-stakes intensity. A Cautious Opening Exchange The match began with both teams prioritizing defensive solidity, leading to a first half of limited clear-cut chances. Liverpool controlled much of the possession, with Dominik Szoboszlai acting as the primary threat from set-pieces. The Hungarian playmaker saw two direct free-kick efforts sail wide of the target, failing to test the keeper despite his technical quality. Bournemouth remained dangerous on the break but were repeatedly frustrated by the assistant referee’s flag, with Evanilson and Ryan Christie frequently caught offside. As the half progressed, the game became a midfield battle, with neither side able to find the final ball required to break the deadlock before the interval. Isak Capitalizes on Defensive Lapse The second half saw an increase in intensity, punctuated by a yellow card for Dominik Szoboszlai shortly after the restart. The defining moment of the match arrived in the 57th minute when a defensive error by James Hill proved costly. Alexander Isak was the sharpest player in the box, reacting first to a loose ball and firing a right-footed shot into the net to give Liverpool the lead. The striker’s exuberant celebration earned him a booking, but his contribution had already changed the complexion of the game. Late Pressure and Tactical Shifts In search of an equalizer, Bournemouth introduced David Brooks and Lewis Cook in a tactical reshuffle. Brooks attempted to spark a comeback with several dangerous deliveries from corners, but Alisson Becker remained composed, intercepting crucial crosses to relieve the pressure. Liverpool also turned to their bench, bringing on Ryan Gravenberch and Lewis Koumas to maintain their energy levels in the closing stages. As the clock ticked into stoppage time, Lewis Koumas nearly doubled the lead with a well-struck effort that was saved. Despite a late free-kick from Alex Scott that went wide and a final surge from the home side, Liverpool ’s defense, marshaled by Virgil van Dijk , held firm to secure the victory in front of an attendance of 11,316 ."
+    },
     {
       "title": "Fulham vs Manchester United",
       "thumbnail_url": "https://img.refooty.com/thumbnail/fulham-vs-manchester-united-2026-09-20-9OAv.webp",
@@ -958,741 +1662,6 @@
         }
       },
       "description": "Watch Brentford vs Chelsea highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 18, 2026. The atmosphere was thick with anticipation as two London rivals prepared to lock horns in a clash of tactical wits. On 2026-09-18 , fans packed the stadium to witness a Premier League encounter that promised to be a defining moment in both teams' campaigns. A Cautious Opening Exchange The first half was characterized by a high-stakes chess match, with Chelsea enjoying the lion's share of possession. Jordan Henderson pulled the strings from midfield, orchestrating several attacking sequences that resulted in a flurry of corners. Despite the pressure from Pedro Neto and Danny Welbeck , the Brentford defense remained resolute. The hosts had to overcome some early nerves, including a defensive blunder that nearly cost them, but they successfully navigated the opening 45 minutes to keep the scores level at the break. The Bees Find Their Rhythm The deadlock was finally broken in the 61st minute as the hosts clicked into gear. A flowing move saw Mikkel Damsgaard provide a key pass to Jannik Schuster , who delivered a pinpoint cross for Jaidon Anthony . The forward made no mistake from close range, heading the ball into the net to give Brentford a hard-fought lead. Chelsea attempted to respond by introducing fresh legs, including Estevao and Josh Acheampong , but they struggled to break down a compact and energized opposition. Clinical Finishing Seals the Win As the clock ticked toward full-time, the game opened up, allowing Brentford to showcase their clinical edge. In the 83rd minute, Igor Thiago doubled the lead with a simple tap-in, though his exuberant celebrations—which involved removing his shirt—earned him a yellow card. Chelsea pushed for a late consolation, with Maxence Lacroix going close with a header, but the night belonged to the home side. In the fourth minute of stoppage time, super-sub Fabio Carvalho converted a pass from Kevin Schade to make it 3-0, putting the finishing touches on a dominant second-half performance."
-    },
-    {
-      "title": "Sunderland vs Arsenal",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/sunderland-vs-arsenal-2026-09-13-qFG0.webp",
-      "competition": "Premier League",
-      "competition_cover": "https://refooty.com/covers/premier-league.webp",
-      "date": "Sep 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/42.webp",
-          "name": "Arsenal",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/746.webp",
-          "name": "Sunderland",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/sunderland-vs-arsenal-2026-09-13.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Sunderland",
-          "player": "R. Mandava",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "Arsenal",
-          "player": "M. Arteta",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "56'",
-          "team": "Sunderland",
-          "player": "E. L. Fée",
-          "event_type": "Goal",
-          "score_update": "0 - 0"
-        },
-        {
-          "time": "58'",
-          "team": "Arsenal",
-          "player": "B. Guimarães",
-          "event_type": "Goal",
-          "assist": "D. Rice",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "66'",
-          "team": "Sunderland",
-          "player": "D. Ballard",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "69'",
-          "team": "Sunderland",
-          "player": "G. Xhaka",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "81'",
-          "team": "Sunderland",
-          "player": "B. Brobbey",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Sunderland",
-          "player": "N. Mukiele",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Arsenal",
-          "player": "G. Magalhães",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Arsenal",
-          "player": "K. Havertz",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+6'",
-          "team": "Sunderland",
-          "player": "R. Mandava",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "90+7'",
-          "team": "Arsenal",
-          "player": "B. Saka",
-          "event_type": "Goal",
-          "score_update": "0 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Sunderland_wins": "0",
-          "draws": "0",
-          "Arsenal_wins": "5"
-        },
-        "previous_matches": [
-          {
-            "date": "07/02/2026",
-            "competition": "Premier League 25/26",
-            "teams_and_score": "Arsenal 3 - 0 Sunderland"
-          },
-          {
-            "date": "21/12/2021",
-            "competition": "EFL Cup 21/22",
-            "teams_and_score": "Arsenal 5 - 1 Sunderland"
-          },
-          {
-            "date": "16/05/2017",
-            "competition": "Premier League",
-            "teams_and_score": "Arsenal 2 - 0 Sunderland"
-          },
-          {
-            "date": "09/01/2016",
-            "competition": "FA Cup",
-            "teams_and_score": "Arsenal 3 - 1 Sunderland"
-          },
-          {
-            "date": "05/12/2015",
-            "competition": "Premier League",
-            "teams_and_score": "Arsenal 3 - 1 Sunderland"
-          }
-        ],
-        "home_team_form": {
-          "team": "Sunderland",
-          "form": [
-            "L",
-            "W",
-            "D",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "12/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Sunderland 0 - 2 Arsenal",
-              "result": "L"
-            },
-            {
-              "date": "08/09/2026",
-              "competition": "EFL Cup: Round 3",
-              "teams_and_score": "Sunderland 1 - 0 Hull City",
-              "result": "W"
-            },
-            {
-              "date": "05/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Brentford 1 - 1 Sunderland",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Sunderland 2 - 1 Rennes",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Sunderland 1 - 0 Wrexham",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Arsenal",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "12/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Sunderland 0 - 2 Arsenal",
-              "result": "W"
-            },
-            {
-              "date": "09/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "Napoli 0 - 1 Arsenal",
-              "result": "W"
-            },
-            {
-              "date": "06/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Arsenal 2 - 1 Chelsea",
-              "result": "W"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Community Shield",
-              "teams_and_score": "Arsenal 3 - 0 Manchester City",
-              "result": "W"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Arsenal 1 - 1 Como 1907",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Sunderland": "3",
-          "Arsenal": "5"
-        },
-        "shots_off_target": {
-          "Sunderland": "5",
-          "Arsenal": "4"
-        },
-        "shots_blocked": {
-          "Sunderland": "4",
-          "Arsenal": "2"
-        },
-        "corners": {
-          "Sunderland": "4",
-          "Arsenal": "2"
-        },
-        "fouls": {
-          "Sunderland": "18",
-          "Arsenal": "11"
-        },
-        "offsides": {
-          "Sunderland": "2",
-          "Arsenal": "2"
-        },
-        "yellow_cards": {
-          "Sunderland": "4",
-          "Arsenal": "2"
-        },
-        "red_cards": {
-          "Sunderland": "1",
-          "Arsenal": "0"
-        },
-        "goalkeeper_saves": {
-          "Sunderland": "3",
-          "Arsenal": "2"
-        },
-        "crosses": {
-          "Sunderland": "5",
-          "Arsenal": "3"
-        },
-        "ball_possession": {
-          "Sunderland": "43%",
-          "Arsenal": "57%"
-        }
-      },
-      "description": "Watch Sunderland vs Arsenal highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 13, 2026. On September 13, 2026 , Sunderland and Arsenal clashed in a Premier League fixture defined by high stakes and late-game drama. Both teams approached the match with a clear tactical agenda, creating a compelling narrative that unfolded over ninety minutes of intense football action. A Turning Point in the Second Half Following a goalless opening half, the tension reached a boiling point in the 56th minute when Sunderland was awarded a penalty. Enzo Le Fee stepped up, but his effort was denied by a sharp save, a moment that proved to be the match’s primary catalyst. Shortly after this reprieve, Arsenal capitalized on the momentum shift. In the 58th minute, Bruno Guimarães unleashed a brilliant strike from outside the box following an assist from Declan Rice , putting the visitors ahead in spectacular fashion. Discipline and Late Drama As the game progressed, frustration mounted for the hosts, leading to a series of yellow cards for players including Daniel Ballard , Granit Xhaka , and Brian Brobbey . The closing moments turned chaotic, characterized by physical confrontations and defensive lapses. In the 90+6th minute, Reinildo was sent off after receiving a second yellow card following a foul in the penalty area. Bukayo Saka stepped up to the spot and coolly converted in the 90+7th minute, confirming a 2-0 victory for Arsenal and capping off a day of immense pressure and tactical struggle."
-    },
-    {
-      "title": "Coventry City vs Brighton & Hove Albion",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/coventry-city-brighton-hove-albion-2026-09-13-AIcK.webp",
-      "competition": "Premier League",
-      "competition_cover": "https://refooty.com/covers/premier-league.webp",
-      "date": "Sep 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/51.webp",
-          "name": "Brighton",
-          "score": "5"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1346.webp",
-          "name": "Coventry City",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/coventry-city-brighton-hove-albion-2026-09-13-hofxcm3u8-DFpor.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Brighton",
-          "player": "C. Kostoulas",
-          "event_type": "Goal",
-          "assist": "P. Groß",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "51'",
-          "team": "Brighton",
-          "player": "M. Yalcouyé",
-          "event_type": "Goal",
-          "assist": "M. D. Cuyper",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "53'",
-          "team": "Coventry City",
-          "player": "T. Awoniyi",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "70'",
-          "team": "Brighton",
-          "player": "P. Groß",
-          "event_type": "Goal",
-          "score_update": "0 - 3"
-        },
-        {
-          "time": "83'",
-          "team": "Brighton",
-          "player": "L. Dunk",
-          "event_type": "Goal",
-          "assist": "C. Andres",
-          "score_update": "0 - 4"
-        },
-        {
-          "time": "90+4'",
-          "team": "Brighton",
-          "player": "Y. Ayari",
-          "event_type": "Goal",
-          "assist": "P. Groß",
-          "score_update": "0 - 5"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Coventry City_wins": "2",
-          "draws": "1",
-          "Brighton_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "17/02/2018",
-            "competition": "FA Cup",
-            "teams_and_score": "Brighton 3 - 1 Coventry City"
-          },
-          {
-            "date": "31/12/2011",
-            "competition": "Championship",
-            "teams_and_score": "Coventry City 2 - 0 Brighton"
-          },
-          {
-            "date": "07/01/2006",
-            "competition": "FA Cup",
-            "teams_and_score": "Brighton 0 - 1 Coventry City"
-          },
-          {
-            "date": "17/09/2005",
-            "competition": "Championship",
-            "teams_and_score": "Brighton 2 - 2 Coventry City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Coventry City",
-          "form": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Coventry City 0 - 5 Brighton",
-              "result": "L"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Plymouth Argyle 2 - 4 Coventry City",
-              "result": "W"
-            },
-            {
-              "date": "21/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Arsenal 3 - 0 Coventry City",
-              "result": "L"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Coventry City 2 - 0 AS Monaco",
-              "result": "W"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Coventry City 3 - 1 Espanyol",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Brighton",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Coventry City 0 - 5 Brighton",
-              "result": "W"
-            },
-            {
-              "date": "27/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Brighton 4 - 0 Tromsoe",
-              "result": "W"
-            },
-            {
-              "date": "23/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Brighton 4 - 0 Aston Villa",
-              "result": "W"
-            },
-            {
-              "date": "20/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Tromsoe 0 - 0 Brighton",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Brighton 1 - 0 Bologna",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Coventry City": "6",
-          "Brighton": "7"
-        },
-        "shots_off_target": {
-          "Coventry City": "6",
-          "Brighton": "10"
-        },
-        "shots_blocked": {
-          "Coventry City": "2",
-          "Brighton": "5"
-        },
-        "corners": {
-          "Coventry City": "5",
-          "Brighton": "3"
-        },
-        "fouls": {
-          "Coventry City": "9",
-          "Brighton": "15"
-        },
-        "offsides": {
-          "Coventry City": "2",
-          "Brighton": "2"
-        },
-        "red_cards": {
-          "Coventry City": "1",
-          "Brighton": "0"
-        },
-        "goalkeeper_saves": {
-          "Coventry City": "2",
-          "Brighton": "6"
-        },
-        "crosses": {
-          "Coventry City": "5",
-          "Brighton": "3"
-        },
-        "ball_possession": {
-          "Coventry City": "31%",
-          "Brighton": "69%"
-        }
-      },
-      "description": "Watch Coventry City vs Brighton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The Premier League clash on September 13, 2026, saw Coventry City host Brighton & Hove Albion in a match that promised high stakes and tactical intrigue. From the first whistle, the atmosphere reflected the intensity of English football as both sides looked to establish dominance early on. Brighton Take the Lead Brighton began the match with clear attacking intent, controlling 69% of the possession throughout the contest. After a series of unsuccessful corners from both teams, the deadlock was finally broken in the 35th minute. Pascal Gross turned provider, delivering a cross that Charalampos Kostoulas met with a stunning right-footed volley. The clinical finish gave the Seagulls a well-deserved lead, which they carried into the halftime interval despite Coventry's efforts to regroup. Red Card and Rapid Escalation The second half shifted the momentum decisively in favor of the visitors. In the 51st minute, Malick Junior Yalcouyé doubled the lead with a neat finish following an assist from Maxim De Cuyper . Just two minutes later, disaster struck for Coventry when Taiwo Awoniyi was shown a straight red card for violent conduct. Forced to play with ten men, the hosts struggled to contain the mounting pressure from a relentless Brighton attack. A Late Barrage of Goals The visitors capitalized on their numerical advantage in the 70th minute when Bobby Thomas conceded a penalty for a foul on Kostoulas . Pascal Gross stepped up and calmly slotted the ball into the net to make it 3-0. As the match entered its closing stages, Lewis Dunk produced a contender for goal of the season in the 83rd minute, unleashing a powerful strike from distance. The scoring was completed in stoppage time when Yasin Ayari fired home from outside the box in the 94th minute, assisted once again by Gross . In front of a crowd of 31,492, Brighton secured a emphatic 5-0 victory, leaving Coventry to reflect on a difficult afternoon defined by clinical finishing and a costly dismissal."
-    },
-    {
-      "title": "Manchester United vs Manchester City",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/manchester-united-manchester-city-2026-09-13-WuQS.webp",
-      "competition": "Premier League",
-      "competition_cover": "https://refooty.com/covers/premier-league.webp",
-      "date": "Sep 13, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/50.webp",
-          "name": "Manchester City",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/33.webp",
-          "name": "Manchester United",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "1st Half",
-          "m3u8_url": "https://img.refooty.com/m3u8/manchester-united-vs-manchester-city-full-match-replay-13-sep-2026-8dbxvm3u8-6JrgE.m3u8"
-        },
-        {
-          "part": "2nd Half",
-          "m3u8_url": "https://img.refooty.com/m3u8/manchester-united-vs-manchester-city-full-match-replay-13-sep-2026-zkmsem3u8-G7d5i.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "23'",
-          "team": "Manchester City",
-          "player": "P. Foden",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "45+2'",
-          "team": "Manchester City",
-          "player": "E. Maresca",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Manchester City",
-          "player": "E. Haaland",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Manchester City",
-          "player": "J. Gvardiol",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Manchester City",
-          "player": "E. Fernández",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Manchester United",
-          "player": "H. Maguire",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Manchester United_wins": "3",
-          "draws": "2",
-          "Manchester City_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "17/01/2026",
-            "competition": "Premier League 25/26",
-            "teams_and_score": "Manchester United 2 - 0 Manchester City"
-          },
-          {
-            "date": "06/04/2025",
-            "competition": "Premier League 24/25",
-            "teams_and_score": "Manchester United 0 - 0 Manchester City"
-          },
-          {
-            "date": "10/08/2024",
-            "competition": "Community Shield",
-            "teams_and_score": "Manchester City 1 - 1 Manchester United"
-          },
-          {
-            "date": "25/05/2024",
-            "competition": "FA Cup: Final 23/24",
-            "teams_and_score": "Manchester City 1 - 2 Manchester United"
-          },
-          {
-            "date": "03/03/2024",
-            "competition": "Premier League 23/24",
-            "teams_and_score": "Manchester City 3 - 1 Manchester United"
-          },
-          {
-            "date": "03/06/2023",
-            "competition": "FA Cup: Final 22/23",
-            "teams_and_score": "Manchester City 2 - 1 Manchester United"
-          },
-          {
-            "date": "14/01/2023",
-            "competition": "Premier League 22/23",
-            "teams_and_score": "Manchester United 2 - 1 Manchester City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Manchester United",
-          "form": [
-            "L",
-            "W",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Manchester United 0 - 1 Manchester City",
-              "result": "L"
-            },
-            {
-              "date": "10/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "Manchester United 4 - 0 Sabah FK",
-              "result": "W"
-            },
-            {
-              "date": "06/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Everton 2 - 2 Manchester United",
-              "result": "D"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester United 2 - 4 AC Milan",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Manchester City",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Manchester United 0 - 1 Manchester City",
-              "result": "W"
-            },
-            {
-              "date": "08/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "FC Porto 0 - 2 Manchester City",
-              "result": "W"
-            },
-            {
-              "date": "05/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Manchester City 1 - 0 Coventry City",
-              "result": "W"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Community Shield",
-              "teams_and_score": "Arsenal 3 - 0 Manchester City",
-              "result": "L"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Manchester City 3 - 1 Atletico Madrid",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Manchester United": "3",
-          "Manchester City": "2"
-        },
-        "shots_off_target": {
-          "Manchester United": "9",
-          "Manchester City": "1"
-        },
-        "shots_blocked": {
-          "Manchester United": "4",
-          "Manchester City": "3"
-        },
-        "corners": {
-          "Manchester United": "6",
-          "Manchester City": "7"
-        },
-        "fouls": {
-          "Manchester United": "17",
-          "Manchester City": "10"
-        },
-        "offsides": {
-          "Manchester United": "4",
-          "Manchester City": "1"
-        },
-        "yellow_cards": {
-          "Manchester United": "1",
-          "Manchester City": "2"
-        },
-        "red_cards": {
-          "Manchester United": "0",
-          "Manchester City": "1"
-        },
-        "goalkeeper_saves": {
-          "Manchester United": "1",
-          "Manchester City": "3"
-        },
-        "crosses": {
-          "Manchester United": "6",
-          "Manchester City": "3"
-        },
-        "ball_possession": {
-          "Manchester United": "55%",
-          "Manchester City": "45%"
-        }
-      },
-      "description": "Watch Manchester United vs Manchester City highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The Manchester derby returned to the spotlight on a tense afternoon at Old Trafford, as both sides looked to assert their dominance in a clash defined by tactical battles and high-stakes drama. With the atmosphere reaching fever pitch, the city rivals faced off in a game that would test their resilience to the limit. Early Shock and Defensive Discipline The match, held on September 13, 2026 , exploded into life with high intensity from the first whistle. However, the dynamics shifted dramatically in the 23rd minute when Manchester City were reduced to ten men. Phil Foden was shown a straight red card for violent conduct, forcing the visitors into a defensive reshuffle. Manchester United attempted to capitalize on the advantage, with Matheus Cunha and Bryan Mbeumo firing efforts from distance, but they failed to find the target. As the first half drew to a close, the tension boiled over on the touchline, resulting in a yellow card for Enzo Maresca for dissent. Haaland Delivers Amid VAR Drama Despite being a man down, the visitors remained a constant threat on the counter. In the 60th minute, Erling Haaland silenced the home crowd, finding the net with a powerful left-footed strike. The goal was subject to a lengthy VAR review, but the decision stood, sparking celebrations in the away end. Manchester United responded by introducing Benjamin Sesko and Joshua Zirkzee to bolster their attack. While they dominated possession with 55%, breaking through the City line led by Marc Guehi proved to be an arduous task. Late Scares and Donnarumma's Heroics The closing stages were marred by a flurry of bookings as Harry Maguire , Enzo Fernandez , and Josko Gvardiol were all cautioned. In the fifth minute of stoppage time, United had a golden opportunity to level the score. Bruno Fernandes teed up Bryan Mbeumo for what looked like a certain goal, but Gianluigi Donnarumma produced a world-class save to deny the hosts. Despite late pressure and numerous corners, the ten men of City held firm in front of 74,161 spectators to claim a hard-fought derby victory."
     },
     {
       "title": "Aston Villa vs Nottingham Forest",
@@ -10814,6 +10783,509 @@
         }
       },
       "description": "Watch Brentford vs Tottenham highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 22, 2026. The Premier League International Cup brought together two London rivals on a high-stakes evening. On August 22, 2026, the atmosphere was electric as Brentford and Tottenham Hotspur locked horns in a clash of styles and ambitions. Brentford Assert Early Authority Brentford started the match with an intensity that Tottenham Hotspur struggled to match. In the 12th minute, the deadlock was broken through a clinical team move. Dango Ouattara released Mamadou Sangare , who provided the perfectly weighted assist for Keane Lewis-Potter to slot home with his right foot. Tottenham attempted to find an immediate equalizer, but Conor Gallagher saw his long-range effort sail wide of the target. The Bees doubled their advantage in the 33rd minute, capitalizing on a moment of defensive hesitation. Following a miscue from goalkeeper Antonin Kinsky , Vitaly Janelt reacted first to the loose ball, firing it into the net to make it 2-0. Frustrations began to boil over for the visitors shortly after, as Gallagher was shown a yellow card for a robust challenge. Second-Half Dominance and Tactical Control Any hopes of a Tottenham comeback were effectively extinguished shortly after the restart. In the 49th minute, Michael Kayode found himself in the right place at the right time to tap the ball into an open goal, extending the lead to 3-0. Despite tactical substitutions from the Spurs bench, including the introduction of James Maddison and Dominic Solanke , the home side remained disciplined and compact. Brentford had a golden opportunity to add a fourth in the 55th minute when Rodrigo Bentancur conceded a penalty for a foul on Kevin Schade . However, Igor Thiago ’s strike rattled the post and stayed out. While Tottenham enjoyed 59% of the possession, they failed to register a breakthrough against a resolute defense. In front of a crowd of 17,180, Brentford secured a deserved and emphatic victory."
+    },
+    {
+      "title": "Sunderland vs Arsenal",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/sunderland-vs-arsenal-2026-09-13-qFG0.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 13, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/42.webp",
+          "name": "Arsenal",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/746.webp",
+          "name": "Sunderland",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/sunderland-vs-arsenal-2026-09-13.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Sunderland",
+          "player": "R. Mandava",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "16'",
+          "team": "Arsenal",
+          "player": "M. Arteta",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "56'",
+          "team": "Sunderland",
+          "player": "E. L. Fée",
+          "event_type": "Goal",
+          "score_update": "0 - 0"
+        },
+        {
+          "time": "58'",
+          "team": "Arsenal",
+          "player": "B. Guimarães",
+          "event_type": "Goal",
+          "assist": "D. Rice",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "66'",
+          "team": "Sunderland",
+          "player": "D. Ballard",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "69'",
+          "team": "Sunderland",
+          "player": "G. Xhaka",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "81'",
+          "team": "Sunderland",
+          "player": "B. Brobbey",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Sunderland",
+          "player": "N. Mukiele",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Arsenal",
+          "player": "G. Magalhães",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Arsenal",
+          "player": "K. Havertz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+6'",
+          "team": "Sunderland",
+          "player": "R. Mandava",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "90+7'",
+          "team": "Arsenal",
+          "player": "B. Saka",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Sunderland_wins": "0",
+          "draws": "0",
+          "Arsenal_wins": "5"
+        },
+        "previous_matches": [
+          {
+            "date": "07/02/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Arsenal 3 - 0 Sunderland"
+          },
+          {
+            "date": "21/12/2021",
+            "competition": "EFL Cup 21/22",
+            "teams_and_score": "Arsenal 5 - 1 Sunderland"
+          },
+          {
+            "date": "16/05/2017",
+            "competition": "Premier League",
+            "teams_and_score": "Arsenal 2 - 0 Sunderland"
+          },
+          {
+            "date": "09/01/2016",
+            "competition": "FA Cup",
+            "teams_and_score": "Arsenal 3 - 1 Sunderland"
+          },
+          {
+            "date": "05/12/2015",
+            "competition": "Premier League",
+            "teams_and_score": "Arsenal 3 - 1 Sunderland"
+          }
+        ],
+        "home_team_form": {
+          "team": "Sunderland",
+          "form": [
+            "L",
+            "W",
+            "D",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Sunderland 0 - 2 Arsenal",
+              "result": "L"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Sunderland 1 - 0 Hull City",
+              "result": "W"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 1 - 1 Sunderland",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Sunderland 2 - 1 Rennes",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sunderland 1 - 0 Wrexham",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Arsenal",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Sunderland 0 - 2 Arsenal",
+              "result": "W"
+            },
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Napoli 0 - 1 Arsenal",
+              "result": "W"
+            },
+            {
+              "date": "06/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Arsenal 2 - 1 Chelsea",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Community Shield",
+              "teams_and_score": "Arsenal 3 - 0 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 1 Como 1907",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Sunderland": "3",
+          "Arsenal": "5"
+        },
+        "shots_off_target": {
+          "Sunderland": "5",
+          "Arsenal": "4"
+        },
+        "shots_blocked": {
+          "Sunderland": "4",
+          "Arsenal": "2"
+        },
+        "corners": {
+          "Sunderland": "4",
+          "Arsenal": "2"
+        },
+        "fouls": {
+          "Sunderland": "18",
+          "Arsenal": "11"
+        },
+        "offsides": {
+          "Sunderland": "2",
+          "Arsenal": "2"
+        },
+        "yellow_cards": {
+          "Sunderland": "4",
+          "Arsenal": "2"
+        },
+        "red_cards": {
+          "Sunderland": "1",
+          "Arsenal": "0"
+        },
+        "goalkeeper_saves": {
+          "Sunderland": "3",
+          "Arsenal": "2"
+        },
+        "crosses": {
+          "Sunderland": "5",
+          "Arsenal": "3"
+        },
+        "ball_possession": {
+          "Sunderland": "43%",
+          "Arsenal": "57%"
+        }
+      },
+      "description": "Watch Sunderland vs Arsenal highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 13, 2026. On September 13, 2026 , Sunderland and Arsenal clashed in a Premier League fixture defined by high stakes and late-game drama. Both teams approached the match with a clear tactical agenda, creating a compelling narrative that unfolded over ninety minutes of intense football action. A Turning Point in the Second Half Following a goalless opening half, the tension reached a boiling point in the 56th minute when Sunderland was awarded a penalty. Enzo Le Fee stepped up, but his effort was denied by a sharp save, a moment that proved to be the match’s primary catalyst. Shortly after this reprieve, Arsenal capitalized on the momentum shift. In the 58th minute, Bruno Guimarães unleashed a brilliant strike from outside the box following an assist from Declan Rice , putting the visitors ahead in spectacular fashion. Discipline and Late Drama As the game progressed, frustration mounted for the hosts, leading to a series of yellow cards for players including Daniel Ballard , Granit Xhaka , and Brian Brobbey . The closing moments turned chaotic, characterized by physical confrontations and defensive lapses. In the 90+6th minute, Reinildo was sent off after receiving a second yellow card following a foul in the penalty area. Bukayo Saka stepped up to the spot and coolly converted in the 90+7th minute, confirming a 2-0 victory for Arsenal and capping off a day of immense pressure and tactical struggle."
+    },
+    {
+      "title": "Coventry City vs Brighton & Hove Albion",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/coventry-city-brighton-hove-albion-2026-09-13-AIcK.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 13, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/51.webp",
+          "name": "Brighton",
+          "score": "5"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1346.webp",
+          "name": "Coventry City",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/coventry-city-brighton-hove-albion-2026-09-13-hofxcm3u8-DFpor.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Brighton",
+          "player": "C. Kostoulas",
+          "event_type": "Goal",
+          "assist": "P. Groß",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "51'",
+          "team": "Brighton",
+          "player": "M. Yalcouyé",
+          "event_type": "Goal",
+          "assist": "M. D. Cuyper",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "53'",
+          "team": "Coventry City",
+          "player": "T. Awoniyi",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "70'",
+          "team": "Brighton",
+          "player": "P. Groß",
+          "event_type": "Goal",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "83'",
+          "team": "Brighton",
+          "player": "L. Dunk",
+          "event_type": "Goal",
+          "assist": "C. Andres",
+          "score_update": "0 - 4"
+        },
+        {
+          "time": "90+4'",
+          "team": "Brighton",
+          "player": "Y. Ayari",
+          "event_type": "Goal",
+          "assist": "P. Groß",
+          "score_update": "0 - 5"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Coventry City_wins": "2",
+          "draws": "1",
+          "Brighton_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "17/02/2018",
+            "competition": "FA Cup",
+            "teams_and_score": "Brighton 3 - 1 Coventry City"
+          },
+          {
+            "date": "31/12/2011",
+            "competition": "Championship",
+            "teams_and_score": "Coventry City 2 - 0 Brighton"
+          },
+          {
+            "date": "07/01/2006",
+            "competition": "FA Cup",
+            "teams_and_score": "Brighton 0 - 1 Coventry City"
+          },
+          {
+            "date": "17/09/2005",
+            "competition": "Championship",
+            "teams_and_score": "Brighton 2 - 2 Coventry City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Coventry City",
+          "form": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Coventry City 0 - 5 Brighton",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Plymouth Argyle 2 - 4 Coventry City",
+              "result": "W"
+            },
+            {
+              "date": "21/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Arsenal 3 - 0 Coventry City",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Coventry City 2 - 0 AS Monaco",
+              "result": "W"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Coventry City 3 - 1 Espanyol",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Brighton",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Coventry City 0 - 5 Brighton",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Brighton 4 - 0 Tromsoe",
+              "result": "W"
+            },
+            {
+              "date": "23/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brighton 4 - 0 Aston Villa",
+              "result": "W"
+            },
+            {
+              "date": "20/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Tromsoe 0 - 0 Brighton",
+              "result": "D"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Brighton 1 - 0 Bologna",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Coventry City": "6",
+          "Brighton": "7"
+        },
+        "shots_off_target": {
+          "Coventry City": "6",
+          "Brighton": "10"
+        },
+        "shots_blocked": {
+          "Coventry City": "2",
+          "Brighton": "5"
+        },
+        "corners": {
+          "Coventry City": "5",
+          "Brighton": "3"
+        },
+        "fouls": {
+          "Coventry City": "9",
+          "Brighton": "15"
+        },
+        "offsides": {
+          "Coventry City": "2",
+          "Brighton": "2"
+        },
+        "red_cards": {
+          "Coventry City": "1",
+          "Brighton": "0"
+        },
+        "goalkeeper_saves": {
+          "Coventry City": "2",
+          "Brighton": "6"
+        },
+        "crosses": {
+          "Coventry City": "5",
+          "Brighton": "3"
+        },
+        "ball_possession": {
+          "Coventry City": "31%",
+          "Brighton": "69%"
+        }
+      },
+      "description": "Watch Coventry City vs Brighton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The Premier League clash on September 13, 2026, saw Coventry City host Brighton & Hove Albion in a match that promised high stakes and tactical intrigue. From the first whistle, the atmosphere reflected the intensity of English football as both sides looked to establish dominance early on. Brighton Take the Lead Brighton began the match with clear attacking intent, controlling 69% of the possession throughout the contest. After a series of unsuccessful corners from both teams, the deadlock was finally broken in the 35th minute. Pascal Gross turned provider, delivering a cross that Charalampos Kostoulas met with a stunning right-footed volley. The clinical finish gave the Seagulls a well-deserved lead, which they carried into the halftime interval despite Coventry's efforts to regroup. Red Card and Rapid Escalation The second half shifted the momentum decisively in favor of the visitors. In the 51st minute, Malick Junior Yalcouyé doubled the lead with a neat finish following an assist from Maxim De Cuyper . Just two minutes later, disaster struck for Coventry when Taiwo Awoniyi was shown a straight red card for violent conduct. Forced to play with ten men, the hosts struggled to contain the mounting pressure from a relentless Brighton attack. A Late Barrage of Goals The visitors capitalized on their numerical advantage in the 70th minute when Bobby Thomas conceded a penalty for a foul on Kostoulas . Pascal Gross stepped up and calmly slotted the ball into the net to make it 3-0. As the match entered its closing stages, Lewis Dunk produced a contender for goal of the season in the 83rd minute, unleashing a powerful strike from distance. The scoring was completed in stoppage time when Yasin Ayari fired home from outside the box in the 94th minute, assisted once again by Gross . In front of a crowd of 31,492, Brighton secured a emphatic 5-0 victory, leaving Coventry to reflect on a difficult afternoon defined by clinical finishing and a costly dismissal."
     }
-  ]
+  ],
+  "hasMore": true,
+  "currentCount": 50,
+  "totalCount": 51,
+  "currentPage": 1,
+  "lastPage": 2
 }

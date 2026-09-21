@@ -1,9 +1,188 @@
 {
   "team": "Oh Leuven",
   "team_logo": "https://img.refooty.com/logo/teams/260.webp",
-  "total_matches": 7,
-  "Last update time": "05:50:36 AM 21-09-2026",
+  "total_matches": 8,
+  "Last update time": "03:40:22 AM 22-09-2026",
   "matches": [
+    {
+      "title": "OH Leuven - RAAL",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/oh-leuven-raal-2026-09-21-HRMe.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Sep 21, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/5902.webp",
+          "name": "RAAL La Louvière",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/260.webp",
+          "name": "OH Leuven",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/oh-leuven-raal-2026-09-21.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "OH Leuven",
+          "player": "W. George",
+          "event_type": "Goal",
+          "assist": "A. K. Traore",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "RAAL La Louvière",
+          "player": "P. Nkoa",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "OH Leuven",
+          "player": "W. George",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "OH Leuven",
+          "player": "B. Verstraete",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "OH Leuven",
+          "player": "E. Pletinckx",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "RAAL La Louvière",
+          "player": "M. Peano",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "106'",
+          "team": "RAAL La Louvière",
+          "player": "I. Coulibaly",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "OH Leuven",
+          "player": "W. Balikwisha",
+          "event_type": "Goal",
+          "assist": "D. Opoku",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "OH Leuven_wins": "0",
+          "draws": "1",
+          "RAAL La Louvière_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "27/12/2025",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Raal La Louviere 0 - 0 Oud-Heverlee Leuven"
+          }
+        ],
+        "home_team_form": {
+          "team": "OH Leuven",
+          "form": [
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Oud-Heverlee Leuven 2 - 0 Raal La Louviere",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Oud-Heverlee Leuven 3 - 6 Lille",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "RAAL La Louvière",
+          "form": [
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Oud-Heverlee Leuven 2 - 0 Raal La Louviere",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Eintracht Braunschweig 0 - 0 Raal La Louviere",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "OH Leuven": "4",
+          "RAAL La Louvière": "2"
+        },
+        "shots_off_target": {
+          "OH Leuven": "3",
+          "RAAL La Louvière": "1"
+        },
+        "shots_blocked": {
+          "OH Leuven": "3",
+          "RAAL La Louvière": "4"
+        },
+        "corners": {
+          "OH Leuven": "3",
+          "RAAL La Louvière": "5"
+        },
+        "fouls": {
+          "OH Leuven": "12",
+          "RAAL La Louvière": "17"
+        },
+        "offsides": {
+          "OH Leuven": "0",
+          "RAAL La Louvière": "2"
+        },
+        "yellow_cards": {
+          "OH Leuven": "3",
+          "RAAL La Louvière": "2"
+        },
+        "red_cards": {
+          "OH Leuven": "0",
+          "RAAL La Louvière": "1"
+        },
+        "goalkeeper_saves": {
+          "OH Leuven": "2",
+          "RAAL La Louvière": "2"
+        },
+        "ball_possession": {
+          "OH Leuven": "47%",
+          "RAAL La Louvière": "53%"
+        }
+      },
+      "description": "Watch OH Leuven vs RAAL La Louvière highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on September 21, 2026. Balikwisha Strikes Late as Leuven Complete Dramatic Comeback Against RAAL A captivating Jupiler Pro League fixture on September 21, 2026, saw OH Leuven host RAAL La Louvière in a match that delivered late drama and a stunning turnaround at the King Power Atias Stadium . RAAL Takes the Lead in First Half RAAL La Louvière found their stride in the first half, asserting control and finding the breakthrough. In the 32nd minute, a well-crafted assist from Abdoul Karim Traore set up Wouter George , who found the back of the net to give the visitors the lead. RAAL capitalized on their chances, while OH Leuven struggled to impose their attacking game. The first half was a physical affair, with the referee issuing several yellow cards. Patrick Nkoa was cautioned in the 42nd minute, and Wouter George followed in the 51st minute of the second half. RAAL went into the break with a narrow advantage, but OH Leuven knew the game was far from over. Second Half Shift and Late Heroics OH Leuven emerged for the second half with renewed vigor. Substitutions were made to inject fresh impetus into the attack, and the home side began to ramp up the pressure on RAAL . The match took a significant turn in the 82nd minute when Marcos Peano was shown a red card, reducing RAAL to ten men. This opened the door for OH Leuven to press their advantage in the closing stages. Then, in the 88th minute, the comeback was complete. Davis Opoku delivered a crucial assist, finding William Balikwisha with a pinpoint pass. Balikwisha made no mistake, scoring the equalizer and igniting the King Power Atias Stadium . The goal by Balikwisha , assisted by Opoku , capped off a remarkable turnaround for OH Leuven . The final minutes were tense as RAAL defended resolutely against OH Leuven 's final push. Despite late substitutions from both sides, no further goals were scored, confirming OH Leuven 's dramatic victory in a memorable football encounter."
+    },
     {
       "title": "Sporting Charleroi - OH Leuven",
       "thumbnail_url": "https://img.refooty.com/thumbnail/sporting-charleroi-oh-leuven-2026-08-10-ILm9.webp",

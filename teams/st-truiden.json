@@ -1,9 +1,199 @@
 {
   "team": "St. Truiden",
   "team_logo": "https://img.refooty.com/logo/teams/735.webp",
-  "total_matches": 9,
-  "Last update time": "05:50:36 AM 21-09-2026",
+  "total_matches": 10,
+  "Last update time": "03:40:22 AM 22-09-2026",
   "matches": [
+    {
+      "title": "STVV - KVC Westerlo",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/stvv-kvc-westerlo-2026-09-21-8l5q.webp",
+      "competition": "Jupiler Pro League",
+      "competition_cover": "https://refooty.com/covers/jupiler-pro-league.webp",
+      "date": "Sep 21, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/261.webp",
+          "name": "KVC Westerlo",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/735.webp",
+          "name": "St. Truiden",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/stvv-kvc-westerlo-2026-09-21.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "KVC Westerlo",
+          "player": "N. Bassette",
+          "event_type": "Goal",
+          "assist": "C. Sandra",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "KVC Westerlo",
+          "player": "C. Sandra",
+          "event_type": "Goal",
+          "assist": "I. Sakamoto",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "61'",
+          "team": "St. Truiden",
+          "player": "V. Musliu",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "KVC Westerlo",
+          "player": "N. Bassette",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "St. Truiden_wins": "3",
+          "draws": "2",
+          "KVC Westerlo_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "06/02/2026",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Westerlo 0 - 4 St.Truiden"
+          },
+          {
+            "date": "05/07/2025",
+            "competition": "Club Friendlies 2025",
+            "teams_and_score": "Westerlo 1 - 3 St.Truiden"
+          },
+          {
+            "date": "11/01/2025",
+            "competition": "Belgian Pro League",
+            "teams_and_score": "Westerlo 1 - 2 St.Truiden"
+          },
+          {
+            "date": "03/05/2024",
+            "competition": "Belgian Pro League: UECL Group 23/24",
+            "teams_and_score": "Westerlo 2 - 2 St.Truiden"
+          },
+          {
+            "date": "24/02/2024",
+            "competition": "Belgian Pro League 23/24",
+            "teams_and_score": "St.Truiden 1 - 0 Westerlo"
+          },
+          {
+            "date": "01/07/2023",
+            "competition": "Club Friendlies 2023",
+            "teams_and_score": "Westerlo 2 - 2 St.Truiden"
+          }
+        ],
+        "home_team_form": {
+          "team": "St. Truiden",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "St.Truiden 0 - 2 Westerlo",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Omonia Nicosia 4 - 2 St.Truiden",
+              "result": "L"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "Cercle Brugge 3 - 3 St.Truiden",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AEK Athens 3 - 0 St.Truiden",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "KVC Westerlo",
+          "form": [
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "Belgian Pro League",
+              "teams_and_score": "St.Truiden 0 - 2 Westerlo",
+              "result": "W"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Westerlo 1 - 2 Samsunspor",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "St. Truiden": "3",
+          "KVC Westerlo": "8"
+        },
+        "shots_off_target": {
+          "St. Truiden": "11",
+          "KVC Westerlo": "5"
+        },
+        "shots_blocked": {
+          "St. Truiden": "3",
+          "KVC Westerlo": "5"
+        },
+        "corners": {
+          "St. Truiden": "6",
+          "KVC Westerlo": "3"
+        },
+        "fouls": {
+          "St. Truiden": "11",
+          "KVC Westerlo": "10"
+        },
+        "offsides": {
+          "St. Truiden": "1",
+          "KVC Westerlo": "0"
+        },
+        "yellow_cards": {
+          "St. Truiden": "1",
+          "KVC Westerlo": "1"
+        },
+        "goalkeeper_saves": {
+          "St. Truiden": "6",
+          "KVC Westerlo": "3"
+        },
+        "ball_possession": {
+          "St. Truiden": "52%",
+          "KVC Westerlo": "48%"
+        }
+      },
+      "description": "Watch St. Truiden vs KVC Westerlo highlights and goals from Jupiler Pro League on ReFooty: Football Highlights Hub. Match played on September 21, 2026. The stage was set for a compelling clash in the Jupiler Pro League as both sides aimed to establish their dominance from the opening whistle. This match, taking place on September 21, 2026, brought St. Truiden and KVC Westerlo together for a significant encounter. Breakthroughs and Momentum The game sparked into life in the latter stages of the first half. In the 36th minute, Cisse Sandra provided the crucial assist for Norman Bassette , whose strike broke the deadlock. The momentum carried forward into the second half, with the team wasting no time after the restart. In the 46th minute, Isa Sakamoto turned provider, setting up Cisse Sandra to find the back of the net, effectively doubling the impact of their offensive play. Tactical Shifts and Discipline As the second half progressed, the physical demands of the match became increasingly apparent. In the 73rd minute, the referee issued yellow cards to both Visar Musliu and Norman Bassette following a period of high intensity. The remainder of the match saw a flurry of substitutions, with players like Oumar Diouf , Joedrick Pupe , and Nelson Ishiwatari entering the fray to stabilize or invigorate their respective sides. The referee eventually blew the final whistle at the 90+4 minute mark, bringing the proceedings to a close."
+    },
     {
       "title": "STVV - RAAL - 2026-2027",
       "thumbnail_url": "https://img.refooty.com/thumbnail/stvv-raal-2026-2027-2026-09-07-tWke.webp",
