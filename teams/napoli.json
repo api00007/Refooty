@@ -2,8 +2,443 @@
   "team": "Napoli",
   "team_logo": "https://img.refooty.com/logo/teams/492.webp",
   "total_matches": 8,
-  "Last update time": "03:50:09 AM 22-09-2026",
+  "Last update time": "04:11:06 AM 22-09-2026",
   "matches": [
+    {
+      "title": "Napoli vs Bologna",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-vs-bologna-2026-09-14-1OYj.webp",
+      "competition": "Serie A",
+      "competition_cover": "https://refooty.com/covers/serie-a.webp",
+      "date": "Sep 14, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/500.webp",
+          "name": "Bologna",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/492.webp",
+          "name": "Napoli",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/napoli-vs-bologna-2026-09-14.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Bologna",
+          "player": "A. Theate",
+          "event_type": "Red Card"
+        },
+        {
+          "time": "16'",
+          "team": "Bologna",
+          "player": "M. Amondarain",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Napoli",
+          "player": "S. Lobotka",
+          "event_type": "Goal",
+          "assist": "C. Favasuli",
+          "score_update": "1 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Napoli_wins": "2",
+          "draws": "2",
+          "Bologna_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "11/05/2026",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Napoli 2 - 3 Bologna"
+          },
+          {
+            "date": "22/12/2025",
+            "competition": "Super Cup",
+            "teams_and_score": "Napoli 2 - 0 Bologna"
+          },
+          {
+            "date": "09/11/2025",
+            "competition": "Serie A 25/26",
+            "teams_and_score": "Bologna 2 - 0 Napoli"
+          },
+          {
+            "date": "07/04/2025",
+            "competition": "Serie A 24/25",
+            "teams_and_score": "Bologna 1 - 1 Napoli"
+          },
+          {
+            "date": "11/05/2024",
+            "competition": "Serie A 23/24",
+            "teams_and_score": "Napoli 0 - 2 Bologna"
+          },
+          {
+            "date": "28/05/2023",
+            "competition": "Serie A 22/23",
+            "teams_and_score": "Bologna 2 - 2 Napoli"
+          },
+          {
+            "date": "17/01/2022",
+            "competition": "Serie A 21/22",
+            "teams_and_score": "Bologna 0 - 2 Napoli"
+          }
+        ],
+        "home_team_form": {
+          "team": "Napoli",
+          "form": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Napoli 1 - 0 Bologna",
+              "result": "W"
+            },
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Napoli 0 - 1 Arsenal",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Inter 3 - 2 Napoli",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 6 - 2 Aris",
+              "result": "W"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Napoli 2 - 1 Osasuna",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Bologna",
+          "form": [
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "13/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Napoli 1 - 0 Bologna",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Brighton 1 - 0 Bologna",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Bologna 1 - 4 Pisa",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Napoli": "3",
+          "Bologna": "2"
+        },
+        "shots_off_target": {
+          "Napoli": "6",
+          "Bologna": "3"
+        },
+        "shots_blocked": {
+          "Napoli": "5",
+          "Bologna": "0"
+        },
+        "corners": {
+          "Napoli": "10",
+          "Bologna": "0"
+        },
+        "fouls": {
+          "Napoli": "15",
+          "Bologna": "10"
+        },
+        "offsides": {
+          "Napoli": "2",
+          "Bologna": "3"
+        },
+        "yellow_cards": {
+          "Napoli": "0",
+          "Bologna": "1"
+        },
+        "goalkeeper_saves": {
+          "Napoli": "2",
+          "Bologna": "3"
+        },
+        "crosses": {
+          "Napoli": "7",
+          "Bologna": "4"
+        },
+        "ball_possession": {
+          "Napoli": "58%",
+          "Bologna": "42%"
+        }
+      },
+      "description": "Watch Napoli vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 14, 2026. High Tension at the Start On September 14, 2026 , SSC Napoli and Bologna faced off in a Serie A encounter that showcased tactical discipline and high-stakes drama. Both teams entered the pitch with clear structures, looking to establish dominance in the midfield from the opening whistle. The match saw its first major turning point early on. In the 8th minute, Bologna thought they had taken the lead through Arthur Theate , but the goal was chalked off following a VAR review for offside. This let-off galvanized Napoli , who began to control more of the ball, though clear-cut chances remained rare in a physical first half that saw Mikel Amondarain receive a yellow card for a robust challenge. Lobotka Breaks the Deadlock The second half saw Napoli turn up the pressure, aided by the tactical introduction of Noa Lang and Costantino Favasuli . The home side’s creative engine, Kevin De Bruyne , began to dictate play, consistently delivering dangerous balls from corners and open play that tested the Bologna backline. The breakthrough finally arrived in the 66th minute. A brilliant sequence of play saw Kevin De Bruyne provide a key pass to Costantino Favasuli , who squared the ball for Stanislav Lobotka . The midfielder made no mistake, finishing clinicaly with his right foot to put Napoli ahead. The goal reflected Napoli's growing dominance, as they maintained nearly 59% possession throughout much of the half. Defensive Solidity and Final Whistle As the clock ticked down, Bologna pushed for an equalizer, making several substitutions including the introduction of Jens Odgaard . However, the Napoli defense, anchored by Amir Rrahmani and Rafa Marin , stood firm. Marin was particularly impressive in the dying moments, intercepting crucial crosses aimed into the penalty area. Despite five minutes of added time and late pressure from the visitors, Napoli managed the game professionally. Mathias Olivera replaced De Bruyne in the 88th minute to bolster the defense, ensuring that the hosts kept a clean sheet and secured all three points in a hard-fought contest."
+    },
+    {
+      "title": "Napoli vs Celta Vigo",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-vs-celta-vigo-2026-08-08-krbe.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/538.webp",
+          "name": "Celta Vigo",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/492.webp",
+          "name": "Napoli",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/napoli-vs-celta-vigo-2026-08-08_vYemI.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Napoli",
+          "player": "G. D. Lorenzo",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Celta Vigo",
+          "player": "F. Jutglà",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Napoli_wins": "0",
+          "draws": "0",
+          "Celta Vigo_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Napoli",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 1 - 1 Celta Vigo",
+              "result": "D"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Napoli 2 - 1 Osasuna",
+              "result": "W"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 2 - 0 Carrarese",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Napoli 1 - 0 Udinese",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Celta Vigo",
+          "form": [
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 1 - 1 Celta Vigo",
+              "result": "D"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "SC Braga 2 - 2 Celta Vigo",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Celta Vigo 1 - 0 Sevilla",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Napoli vs Celta Vigo highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
+    },
+    {
+      "title": "Napoli vs Osasuna",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-vs-osasuna-2026-08-05-7byF.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 5, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/727.webp",
+          "name": "Osasuna",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/492.webp",
+          "name": "Napoli",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/napoli-vs-osasuna-2026-08-05_NTK6o.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Napoli",
+          "player": "M. Politano",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Napoli",
+          "player": "L. Lucca",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Osasuna",
+          "player": "A. Budimir",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Napoli_wins": "0",
+          "draws": "0",
+          "Osasuna_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Napoli",
+          "form": [
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Napoli 2 - 1 Osasuna",
+              "result": "W"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 2 - 0 Carrarese",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "Napoli 1 - 0 Udinese",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Osasuna",
+          "form": [
+            "L",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Napoli 2 - 1 Osasuna",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Norwich City 1 - 2 Osasuna",
+              "result": "W"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Getafe 1 - 0 Osasuna",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Napoli vs Osasuna highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 5, 2026."
+    },
     {
       "title": "Inter Milan vs Napoli",
       "thumbnail_url": "https://img.refooty.com/thumbnail/inter-milan-v-napoli-2026-09-05-5Za6.webp",
@@ -258,6 +693,211 @@
         }
       },
       "description": "Watch Inter vs Napoli highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 5, 2026. Two of Serie A's heavyweights produced a memorable spectacle at the San Siro that kept fans on the edge of their seats until the final whistle. The match on September 5, 2026, became a testament to the unpredictable nature of top-tier football, as the momentum swung wildly between the two sides. Tactical Stalemate in the Opening Period The contest began with Inter attempting to establish dominance on home turf, frequently utilizing Federico Dimarco and Nicolo Barella to deliver dangerous crosses from corner situations. Despite the sustained pressure, the SSC Napoli backline remained disciplined and organized. The most significant opening of the first half arrived in the 12th minute when Francesco Pio Esposito directed a powerful header toward goal, only to be denied by a sharp save from Alex Meret . The first 45 minutes concluded goalless, characterized by intense midfield duels and a tactical yellow card for Antonio Vergara , who halted a promising counter-attack. Napoli Strike Twice as the Game Ignites The second half exploded into life shortly after the restart. In the 50th minute, a defensive lapse by Nicolo Barella proved costly as Matteo Politano reacted quickest to a loose ball, firing home with his right foot to give the visitors the lead. The San Siro was stunned again just three minutes later when Rasmus Højlund unleashed a brilliant long-range strike from outside the box, assisted by Giovanni Di Lorenzo , to double the advantage. However, Inter responded almost immediately. In the 56th minute, Federico Dimarco turned provider for Lautaro Martínez , who clinical finished with his right foot to pull one back and ignite the comeback. A Thrilling Turn of Events and Late Drama As the clock ticked down, tactical changes altered the course of the match. Inter introduced Carlos Augusto and Marcus Thuram , a combination that proved decisive in the 82nd minute when Augusto's precise cross found Thuram for a commanding header to level the scores. The drama reached its crescendo in stoppage time. In the 91st minute, Manuel Akanji played a key role in setting up Lautaro Martínez , who struck again—this time with his left foot—to complete the sensational turnaround. The emotions ran high as Cristian Chivu was booked for his exuberant celebrations, marking the end of a classic Serie A encounter."
+    },
+    {
+      "title": "Napoli vs Arsenal",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-arsenal-2026-09-09-9X0Q.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Sep 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/42.webp",
+          "name": "Arsenal",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/492.webp",
+          "name": "Napoli",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Arsenal_2026_09_09.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Napoli",
+          "player": "B. Gilmour",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "75'",
+          "team": "Arsenal",
+          "player": "M. Ødegaard",
+          "event_type": "Goal",
+          "assist": "C. Tzolis",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "85'",
+          "team": "Napoli",
+          "player": "L. Lucca",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Arsenal",
+          "player": "M. Ødegaard",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Napoli_wins": "1",
+          "draws": "1",
+          "Arsenal_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "18/04/2019",
+            "competition": "Europa League Final Stage",
+            "teams_and_score": "Napoli 0 - 1 Arsenal"
+          },
+          {
+            "date": "11/12/2013",
+            "competition": "Champions League grp. F",
+            "teams_and_score": "Napoli 2 - 0 Arsenal"
+          },
+          {
+            "date": "03/08/2013",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Arsenal 2 - 2 Napoli"
+          }
+        ],
+        "home_team_form": {
+          "team": "Napoli",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Napoli 0 - 1 Arsenal",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Serie A",
+              "teams_and_score": "Inter 3 - 2 Napoli",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 6 - 2 Aris",
+              "result": "W"
+            },
+            {
+              "date": "05/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Napoli 2 - 1 Osasuna",
+              "result": "W"
+            },
+            {
+              "date": "26/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Napoli 2 - 0 Carrarese",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Arsenal",
+          "form": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/09/2026",
+              "competition": "League Stage",
+              "teams_and_score": "Napoli 0 - 1 Arsenal",
+              "result": "W"
+            },
+            {
+              "date": "06/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Arsenal 2 - 1 Chelsea",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Community Shield",
+              "teams_and_score": "Arsenal 3 - 0 Manchester City",
+              "result": "W"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Arsenal 1 - 1 Como 1907",
+              "result": "D"
+            },
+            {
+              "date": "30/05/2026",
+              "competition": "Final",
+              "teams_and_score": "Paris Saint-Germain 1 - 1 Arsenal",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Napoli": "3",
+          "Arsenal": "8"
+        },
+        "shots_off_target": {
+          "Napoli": "0",
+          "Arsenal": "11"
+        },
+        "shots_blocked": {
+          "Napoli": "2",
+          "Arsenal": "7"
+        },
+        "corners": {
+          "Napoli": "0",
+          "Arsenal": "6"
+        },
+        "fouls": {
+          "Napoli": "12",
+          "Arsenal": "11"
+        },
+        "offsides": {
+          "Napoli": "1",
+          "Arsenal": "1"
+        },
+        "yellow_cards": {
+          "Napoli": "2",
+          "Arsenal": "1"
+        },
+        "goalkeeper_saves": {
+          "Napoli": "6",
+          "Arsenal": "3"
+        },
+        "crosses": {
+          "Napoli": "0",
+          "Arsenal": "5"
+        },
+        "ball_possession": {
+          "Napoli": "42%",
+          "Arsenal": "58%"
+        }
+      },
+      "description": "Watch Napoli vs Arsenal highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 9, 2026. The UEFA Champions League took center stage on 2026-09-09 as SSC Napoli and Arsenal faced off in a highly anticipated group stage encounter. With both teams seeking to establish their dominance in the competition, the tactical battle on the pitch promised high drama from the opening whistle. Tactical Discipline and Early Openings Arsenal started the match with clear intent, dictating the tempo through Declan Rice and Mikel Merino . The first major spark of quality arrived in the 13th minute when Bukayo Saka unleashed a stunning bicycle kick that seemed destined for the back of the net, only for Alex Meret to produce a world-class save. Minutes later, Merino tested the keeper again with a powerful header, but the Italian shot-stopper remained firm. SSC Napoli focused on defensive solidity, absorbing pressure and forcing Arsenal into wide areas. The home side's discipline was tested as the first half progressed, with Billy Gilmour receiving a yellow card in the 42nd minute for a professional foul to halt a dangerous counter-attack. Despite the visitors' 58% possession, the score remained level as both teams headed into the tunnel at the interval. The Breakthrough and Substitutions The second half saw a series of tactical adjustments from both benches. Mikel Arteta introduced Christos Tzolis and Bruno Guimarães , a move that would ultimately change the course of the match. In the 75th minute, Tzolis found space and laid the ball off to Martin Ødegaard . The Norwegian playmaker took a touch and rifled a brilliant left-footed strike from outside the box, leaving Meret with no chance and giving the Gunners the lead. In response, Napoli threw on Lorenzo Lucca and David Neres to inject some physical presence into their frontline. The intensity increased as Lucca was booked for an elbow on Ezri Konsa in the 85th minute. Arsenal's defense, bolstered by the introduction of Martin Zubimendi , stood tall against the late onslaught. Late Drama and the Final Whistle Four minutes of added time brought a flurry of incidents. Martin Ødegaard picked up a yellow card for kicking the ball away as tensions boiled over, and Kai Havertz had a late strike ruled out for offside in the 94th minute. Napoli pushed forward until the very last second, but David Raya remained composed to claim high balls and secure the clean sheet. The final whistle confirmed a hard-fought victory for the English side in a night defined by tactical precision and one moment of magic."
     },
     {
       "title": "Napoli vs Carrarese",
@@ -728,646 +1368,6 @@
       },
       "statistics": {},
       "description": "Watch Napoli vs Aris Thessalonikis highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 12, 2026."
-    },
-    {
-      "title": "Napoli vs Bologna",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-vs-bologna-2026-09-14-1OYj.webp",
-      "competition": "Serie A",
-      "competition_cover": "https://refooty.com/covers/serie-a.webp",
-      "date": "Sep 14, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/500.webp",
-          "name": "Bologna",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/492.webp",
-          "name": "Napoli",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/napoli-vs-bologna-2026-09-14.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Bologna",
-          "player": "A. Theate",
-          "event_type": "Red Card"
-        },
-        {
-          "time": "16'",
-          "team": "Bologna",
-          "player": "M. Amondarain",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Napoli",
-          "player": "S. Lobotka",
-          "event_type": "Goal",
-          "assist": "C. Favasuli",
-          "score_update": "1 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Napoli_wins": "2",
-          "draws": "2",
-          "Bologna_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "11/05/2026",
-            "competition": "Serie A 25/26",
-            "teams_and_score": "Napoli 2 - 3 Bologna"
-          },
-          {
-            "date": "22/12/2025",
-            "competition": "Super Cup",
-            "teams_and_score": "Napoli 2 - 0 Bologna"
-          },
-          {
-            "date": "09/11/2025",
-            "competition": "Serie A 25/26",
-            "teams_and_score": "Bologna 2 - 0 Napoli"
-          },
-          {
-            "date": "07/04/2025",
-            "competition": "Serie A 24/25",
-            "teams_and_score": "Bologna 1 - 1 Napoli"
-          },
-          {
-            "date": "11/05/2024",
-            "competition": "Serie A 23/24",
-            "teams_and_score": "Napoli 0 - 2 Bologna"
-          },
-          {
-            "date": "28/05/2023",
-            "competition": "Serie A 22/23",
-            "teams_and_score": "Bologna 2 - 2 Napoli"
-          },
-          {
-            "date": "17/01/2022",
-            "competition": "Serie A 21/22",
-            "teams_and_score": "Bologna 0 - 2 Napoli"
-          }
-        ],
-        "home_team_form": {
-          "team": "Napoli",
-          "form": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Napoli 1 - 0 Bologna",
-              "result": "W"
-            },
-            {
-              "date": "09/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "Napoli 0 - 1 Arsenal",
-              "result": "L"
-            },
-            {
-              "date": "05/09/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Inter 3 - 2 Napoli",
-              "result": "L"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 6 - 2 Aris",
-              "result": "W"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Napoli 2 - 1 Osasuna",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Bologna",
-          "form": [
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "13/09/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Napoli 1 - 0 Bologna",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Brighton 1 - 0 Bologna",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Bologna 1 - 4 Pisa",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Napoli": "3",
-          "Bologna": "2"
-        },
-        "shots_off_target": {
-          "Napoli": "6",
-          "Bologna": "3"
-        },
-        "shots_blocked": {
-          "Napoli": "5",
-          "Bologna": "0"
-        },
-        "corners": {
-          "Napoli": "10",
-          "Bologna": "0"
-        },
-        "fouls": {
-          "Napoli": "15",
-          "Bologna": "10"
-        },
-        "offsides": {
-          "Napoli": "2",
-          "Bologna": "3"
-        },
-        "yellow_cards": {
-          "Napoli": "0",
-          "Bologna": "1"
-        },
-        "goalkeeper_saves": {
-          "Napoli": "2",
-          "Bologna": "3"
-        },
-        "crosses": {
-          "Napoli": "7",
-          "Bologna": "4"
-        },
-        "ball_possession": {
-          "Napoli": "58%",
-          "Bologna": "42%"
-        }
-      },
-      "description": "Watch Napoli vs Bologna highlights and goals from Serie A on ReFooty: Football Highlights Hub. Match played on September 14, 2026. High Tension at the Start On September 14, 2026 , SSC Napoli and Bologna faced off in a Serie A encounter that showcased tactical discipline and high-stakes drama. Both teams entered the pitch with clear structures, looking to establish dominance in the midfield from the opening whistle. The match saw its first major turning point early on. In the 8th minute, Bologna thought they had taken the lead through Arthur Theate , but the goal was chalked off following a VAR review for offside. This let-off galvanized Napoli , who began to control more of the ball, though clear-cut chances remained rare in a physical first half that saw Mikel Amondarain receive a yellow card for a robust challenge. Lobotka Breaks the Deadlock The second half saw Napoli turn up the pressure, aided by the tactical introduction of Noa Lang and Costantino Favasuli . The home side’s creative engine, Kevin De Bruyne , began to dictate play, consistently delivering dangerous balls from corners and open play that tested the Bologna backline. The breakthrough finally arrived in the 66th minute. A brilliant sequence of play saw Kevin De Bruyne provide a key pass to Costantino Favasuli , who squared the ball for Stanislav Lobotka . The midfielder made no mistake, finishing clinicaly with his right foot to put Napoli ahead. The goal reflected Napoli's growing dominance, as they maintained nearly 59% possession throughout much of the half. Defensive Solidity and Final Whistle As the clock ticked down, Bologna pushed for an equalizer, making several substitutions including the introduction of Jens Odgaard . However, the Napoli defense, anchored by Amir Rrahmani and Rafa Marin , stood firm. Marin was particularly impressive in the dying moments, intercepting crucial crosses aimed into the penalty area. Despite five minutes of added time and late pressure from the visitors, Napoli managed the game professionally. Mathias Olivera replaced De Bruyne in the 88th minute to bolster the defense, ensuring that the hosts kept a clean sheet and secured all three points in a hard-fought contest."
-    },
-    {
-      "title": "Napoli vs Celta Vigo",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-vs-celta-vigo-2026-08-08-krbe.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 8, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/538.webp",
-          "name": "Celta Vigo",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/492.webp",
-          "name": "Napoli",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/napoli-vs-celta-vigo-2026-08-08_vYemI.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Napoli",
-          "player": "G. D. Lorenzo",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Celta Vigo",
-          "player": "F. Jutglà",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Napoli_wins": "0",
-          "draws": "0",
-          "Celta Vigo_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Napoli",
-          "form": [
-            "D",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 1 - 1 Celta Vigo",
-              "result": "D"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Napoli 2 - 1 Osasuna",
-              "result": "W"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 2 - 0 Carrarese",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Napoli 1 - 0 Udinese",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Celta Vigo",
-          "form": [
-            "D",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 1 - 1 Celta Vigo",
-              "result": "D"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "SC Braga 2 - 2 Celta Vigo",
-              "result": "D"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Celta Vigo 1 - 0 Sevilla",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Napoli vs Celta Vigo highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
-    },
-    {
-      "title": "Napoli vs Osasuna",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-vs-osasuna-2026-08-05-7byF.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 5, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/727.webp",
-          "name": "Osasuna",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/492.webp",
-          "name": "Napoli",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/napoli-vs-osasuna-2026-08-05_NTK6o.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Napoli",
-          "player": "M. Politano",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Napoli",
-          "player": "L. Lucca",
-          "event_type": "Goal",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "61'",
-          "team": "Osasuna",
-          "player": "A. Budimir",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Napoli_wins": "0",
-          "draws": "0",
-          "Osasuna_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Napoli",
-          "form": [
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Napoli 2 - 1 Osasuna",
-              "result": "W"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 2 - 0 Carrarese",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Napoli 1 - 0 Udinese",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Osasuna",
-          "form": [
-            "L",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Napoli 2 - 1 Osasuna",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Norwich City 1 - 2 Osasuna",
-              "result": "W"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "LaLiga 25/26",
-              "teams_and_score": "Getafe 1 - 0 Osasuna",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Napoli vs Osasuna highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 5, 2026."
-    },
-    {
-      "title": "Napoli vs Arsenal",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/napoli-v-arsenal-2026-09-09-9X0Q.webp",
-      "competition": "UEFA Champions League",
-      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
-      "date": "Sep 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/42.webp",
-          "name": "Arsenal",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/492.webp",
-          "name": "Napoli",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Napoli_v_Arsenal_2026_09_09.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Napoli",
-          "player": "B. Gilmour",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "75'",
-          "team": "Arsenal",
-          "player": "M. Ødegaard",
-          "event_type": "Goal",
-          "assist": "C. Tzolis",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "85'",
-          "team": "Napoli",
-          "player": "L. Lucca",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+1'",
-          "team": "Arsenal",
-          "player": "M. Ødegaard",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Napoli_wins": "1",
-          "draws": "1",
-          "Arsenal_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "18/04/2019",
-            "competition": "Europa League Final Stage",
-            "teams_and_score": "Napoli 0 - 1 Arsenal"
-          },
-          {
-            "date": "11/12/2013",
-            "competition": "Champions League grp. F",
-            "teams_and_score": "Napoli 2 - 0 Arsenal"
-          },
-          {
-            "date": "03/08/2013",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Arsenal 2 - 2 Napoli"
-          }
-        ],
-        "home_team_form": {
-          "team": "Napoli",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "Napoli 0 - 1 Arsenal",
-              "result": "L"
-            },
-            {
-              "date": "05/09/2026",
-              "competition": "Serie A",
-              "teams_and_score": "Inter 3 - 2 Napoli",
-              "result": "L"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 6 - 2 Aris",
-              "result": "W"
-            },
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Napoli 2 - 1 Osasuna",
-              "result": "W"
-            },
-            {
-              "date": "26/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Napoli 2 - 0 Carrarese",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Arsenal",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "D",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/09/2026",
-              "competition": "League Stage",
-              "teams_and_score": "Napoli 0 - 1 Arsenal",
-              "result": "W"
-            },
-            {
-              "date": "06/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Arsenal 2 - 1 Chelsea",
-              "result": "W"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Community Shield",
-              "teams_and_score": "Arsenal 3 - 0 Manchester City",
-              "result": "W"
-            },
-            {
-              "date": "12/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Arsenal 1 - 1 Como 1907",
-              "result": "D"
-            },
-            {
-              "date": "30/05/2026",
-              "competition": "Final",
-              "teams_and_score": "Paris Saint-Germain 1 - 1 Arsenal",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Napoli": "3",
-          "Arsenal": "8"
-        },
-        "shots_off_target": {
-          "Napoli": "0",
-          "Arsenal": "11"
-        },
-        "shots_blocked": {
-          "Napoli": "2",
-          "Arsenal": "7"
-        },
-        "corners": {
-          "Napoli": "0",
-          "Arsenal": "6"
-        },
-        "fouls": {
-          "Napoli": "12",
-          "Arsenal": "11"
-        },
-        "offsides": {
-          "Napoli": "1",
-          "Arsenal": "1"
-        },
-        "yellow_cards": {
-          "Napoli": "2",
-          "Arsenal": "1"
-        },
-        "goalkeeper_saves": {
-          "Napoli": "6",
-          "Arsenal": "3"
-        },
-        "crosses": {
-          "Napoli": "0",
-          "Arsenal": "5"
-        },
-        "ball_possession": {
-          "Napoli": "42%",
-          "Arsenal": "58%"
-        }
-      },
-      "description": "Watch Napoli vs Arsenal highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on September 9, 2026. The UEFA Champions League took center stage on 2026-09-09 as SSC Napoli and Arsenal faced off in a highly anticipated group stage encounter. With both teams seeking to establish their dominance in the competition, the tactical battle on the pitch promised high drama from the opening whistle. Tactical Discipline and Early Openings Arsenal started the match with clear intent, dictating the tempo through Declan Rice and Mikel Merino . The first major spark of quality arrived in the 13th minute when Bukayo Saka unleashed a stunning bicycle kick that seemed destined for the back of the net, only for Alex Meret to produce a world-class save. Minutes later, Merino tested the keeper again with a powerful header, but the Italian shot-stopper remained firm. SSC Napoli focused on defensive solidity, absorbing pressure and forcing Arsenal into wide areas. The home side's discipline was tested as the first half progressed, with Billy Gilmour receiving a yellow card in the 42nd minute for a professional foul to halt a dangerous counter-attack. Despite the visitors' 58% possession, the score remained level as both teams headed into the tunnel at the interval. The Breakthrough and Substitutions The second half saw a series of tactical adjustments from both benches. Mikel Arteta introduced Christos Tzolis and Bruno Guimarães , a move that would ultimately change the course of the match. In the 75th minute, Tzolis found space and laid the ball off to Martin Ødegaard . The Norwegian playmaker took a touch and rifled a brilliant left-footed strike from outside the box, leaving Meret with no chance and giving the Gunners the lead. In response, Napoli threw on Lorenzo Lucca and David Neres to inject some physical presence into their frontline. The intensity increased as Lucca was booked for an elbow on Ezri Konsa in the 85th minute. Arsenal's defense, bolstered by the introduction of Martin Zubimendi , stood tall against the late onslaught. Late Drama and the Final Whistle Four minutes of added time brought a flurry of incidents. Martin Ødegaard picked up a yellow card for kicking the ball away as tensions boiled over, and Kai Havertz had a late strike ruled out for offside in the 94th minute. Napoli pushed forward until the very last second, but David Raya remained composed to claim high balls and secure the clean sheet. The final whistle confirmed a hard-fought victory for the English side in a night defined by tactical precision and one moment of magic."
     }
   ]
 }
