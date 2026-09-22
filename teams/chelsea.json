@@ -1,24 +1,24 @@
 {
   "team": "Chelsea",
   "team_logo": "https://img.refooty.com/logo/teams/49.webp",
-  "total_matches": 14,
-  "Last update time": "07:40:09 AM 22-09-2026",
+  "total_matches": 15,
+  "Last update time": "11:10:35 AM 22-09-2026",
   "matches": [
     {
-      "title": "Chelsea vs AC Milan",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-vs-ac-milan-2026-08-08-4OHY.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 8, 2026",
+      "title": "arsenal - chelsea",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/arsenal-chelsea-2026-02-03-Q3Fy.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Feb 3, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/489.webp",
-          "name": "AC Milan",
+          "logo": "https://img.refooty.com/logo/teams/49.webp",
+          "name": "Chelsea",
           "score": "0"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/49.webp",
-          "name": "Chelsea",
+          "logo": "https://img.refooty.com/logo/teams/42.webp",
+          "name": "Arsenal",
           "score": "3"
         },
         "status": "FT"
@@ -26,432 +26,177 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/chelsea-vs-ac-milan-2026-08-08_cKtP3.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/arsenal-chelsea-2026-02-03.m3u8"
         }
       ],
       "events_timeline": [
         {
-          "time": "45'",
-          "team": "AC Milan",
-          "player": "S. Pavlović",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "45+2'",
-          "team": "Chelsea",
-          "player": "J. Pedro",
+          "time": "31'",
+          "team": "Arsenal",
+          "player": "P. Groß",
           "event_type": "Goal",
+          "assist": "C. Kostoulas",
           "score_update": "1 - 0"
         },
         {
-          "time": "46'",
-          "team": "Chelsea",
-          "player": "J. Pedro",
+          "time": "33'",
+          "team": "Arsenal",
+          "player": "C. Kostoulas",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45'",
+          "team": "Arsenal",
+          "player": "C. Kostoulas",
           "event_type": "Goal",
+          "assist": "D. Gomez",
           "score_update": "2 - 0"
         },
         {
-          "time": "61'",
-          "team": "Chelsea",
-          "player": "M. Caicedo",
+          "time": "45+1'",
+          "team": "Arsenal",
+          "player": "F. Kadıoğlu",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "57'",
+          "team": "Arsenal",
+          "player": "C. Andres",
           "event_type": "Goal",
+          "assist": "P. Groß",
           "score_update": "3 - 0"
+        },
+        {
+          "time": "71'",
+          "team": "Arsenal",
+          "player": "P. Struijk",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+1'",
+          "team": "Arsenal",
+          "player": "M. D. Cuyper",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+7'",
+          "team": "Chelsea",
+          "player": "D. Rice",
+          "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Chelsea_wins": "3",
+          "Arsenal_wins": "3",
           "draws": "1",
-          "AC Milan_wins": "0"
+          "Chelsea_wins": "2"
         },
         "previous_matches": [
           {
-            "date": "10/08/2025",
-            "competition": "Club Friendlies 2025",
-            "teams_and_score": "Chelsea 4 - 1 AC Milan"
+            "date": "04/03/2026",
+            "competition": "Premier League 25/26",
+            "teams_and_score": "Brighton 0 - 1 Arsenal"
           },
           {
-            "date": "11/10/2022",
-            "competition": "Group E 22/23",
-            "teams_and_score": "AC Milan 0 - 2 Chelsea"
+            "date": "29/10/2025",
+            "competition": "EFL Cup: Round 4 25/26",
+            "teams_and_score": "Arsenal 2 - 0 Brighton"
           },
           {
-            "date": "03/08/2008",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Chelsea 5 - 0 AC Milan"
+            "date": "04/01/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Brighton 1 - 1 Arsenal"
           },
           {
-            "date": "26/10/1999",
-            "competition": "Champions League grp. H",
-            "teams_and_score": "AC Milan 1 - 1 Chelsea"
+            "date": "06/04/2024",
+            "competition": "Premier League 23/24",
+            "teams_and_score": "Brighton 0 - 3 Arsenal"
+          },
+          {
+            "date": "14/05/2023",
+            "competition": "Premier League 22/23",
+            "teams_and_score": "Arsenal 0 - 3 Brighton"
+          },
+          {
+            "date": "09/11/2022",
+            "competition": "EFL Cup 22/23",
+            "teams_and_score": "Arsenal 1 - 3 Brighton"
           }
         ],
         "home_team_form": {
-          "team": "Chelsea",
+          "team": "Arsenal",
           "form": [
+            "L",
             "W",
-            "L",
-            "L",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Chelsea 3 - 0 AC Milan",
-              "result": "W"
-            },
-            {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Sunderland 2 - 1 Chelsea",
-              "result": "L"
-            },
-            {
-              "date": "16/05/2026",
-              "competition": "FA Cup: Final",
-              "teams_and_score": "Chelsea 0 - 1 Manchester City",
-              "result": "L"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Liverpool 1 - 1 Chelsea",
-              "result": "D"
-            },
-            {
-              "date": "26/04/2026",
-              "competition": "FA Cup: Semi-Finals",
-              "teams_and_score": "Chelsea 1 - 0 Leeds United",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "AC Milan",
-          "form": [
+            "W",
             "L",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Chelsea 3 - 0 AC Milan",
+              "date": "19/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brighton 3 - 0 Arsenal",
               "result": "L"
             },
             {
-              "date": "24/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "AC Milan 1 - 2 Cagliari",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Chelsea vs AC Milan highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
-    },
-    {
-      "title": "Chelsea FC vs Real Sociedad",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-v-real-sociedad-2026-08-15-CoON.webp",
-      "competition": "Friendly",
-      "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 15, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/548.webp",
-          "name": "Real Sociedad",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/49.webp",
-          "name": "Chelsea",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Chelsea_v_Real_Sociedad_2026_08_15.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Chelsea",
-          "player": "M. Rogers",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Real Sociedad",
-          "player": "J. Aramburu",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Chelsea",
-          "player": "J. Pedro",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Chelsea",
-          "player": "J. Pedro",
-          "event_type": "Goal",
-          "score_update": "3 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Chelsea_wins": "1",
-          "draws": "0",
-          "Real Sociedad_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "12/08/2014",
-            "competition": "Club Friendlies",
-            "teams_and_score": "Chelsea 2 - 0 Real Sociedad"
-          }
-        ],
-        "home_team_form": {
-          "team": "Chelsea",
-          "form": [
-            "W",
-            "D",
-            "L",
-            "L",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
+              "date": "16/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Manchester United 2 - 3 Brighton",
               "result": "W"
             },
             {
-              "date": "09/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Johor Darul Ta'zim FC 3 - 3 Chelsea",
-              "result": "D"
+              "date": "13/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Coventry City 0 - 5 Brighton",
+              "result": "W"
             },
             {
-              "date": "24/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Sunderland 2 - 1 Chelsea",
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Brighton 4 - 0 Tromsoe",
               "result": "L"
             },
             {
-              "date": "16/05/2026",
-              "competition": "FA Cup: Final",
-              "teams_and_score": "Chelsea 0 - 1 Manchester City",
+              "date": "23/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brighton 4 - 0 Aston Villa",
               "result": "L"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Premier League 25/26",
-              "teams_and_score": "Liverpool 1 - 1 Chelsea",
-              "result": "D"
             }
           ]
         },
         "away_team_form": {
-          "team": "Real Sociedad",
+          "team": "Chelsea",
           "form": [
             "L",
-            "L",
-            "L",
             "W",
-            "D"
+            "W",
+            "W",
+            "L"
           ],
           "recent_matches": [
             {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
+              "date": "19/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brighton 3 - 0 Arsenal",
               "result": "L"
             },
             {
-              "date": "08/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "FC Cologne 2 - 1 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "07/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "FC Cologne 2 - 0 Real Sociedad",
-              "result": "L"
-            },
-            {
-              "date": "28/07/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Aston Villa 2 - 4 Real Sociedad",
+              "date": "15/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Ipswich Town 2 - 4 Arsenal",
               "result": "W"
             },
             {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Real Sociedad 1 - 1 Racing Santander",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Chelsea vs Real Sociedad highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 15, 2026."
-    },
-    {
-      "title": "Chelsea FC vs Hull City",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-v-hull-city-2026-09-12-ISbi.webp",
-      "competition": "Premier League",
-      "competition_cover": "https://refooty.com/covers/premier-league.webp",
-      "date": "Sep 12, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/64.webp",
-          "name": "Hull City",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/49.webp",
-          "name": "Chelsea",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Chelsea_v_Hull_City_2026_09_12.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Chelsea",
-          "player": "M. Rogers",
-          "event_type": "Goal",
-          "assist": "J. Pedro",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Hull City",
-          "player": "O. McBurnie",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "Hull City",
-          "player": "M. Belloumi",
-          "event_type": "Goal",
-          "assist": "R. Giles",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Hull City",
-          "player": "M. Belloumi",
-          "event_type": "Goal",
-          "assist": "O. McBurnie",
-          "score_update": "1 - 2"
-        },
-        {
-          "time": "50'",
-          "team": "Hull City",
-          "player": "J. Egan",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "52'",
-          "team": "Hull City",
-          "player": "M. Crooks",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "66'",
-          "team": "Chelsea",
-          "player": "J. Pedro",
-          "event_type": "Goal",
-          "assist": "C. Palmer",
-          "score_update": "2 - 2"
-        },
-        {
-          "time": "80'",
-          "team": "Chelsea",
-          "player": "V. Barco",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "88'",
-          "team": "Hull City",
-          "player": "T. Iroegbunam",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+6'",
-          "team": "Hull City",
-          "player": "B. Norton-Cuffy",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Chelsea_wins": "4",
-          "draws": "0",
-          "Hull City_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "13/02/2026",
-            "competition": "FA Cup: Round 4",
-            "teams_and_score": "Hull City 0 - 4 Chelsea"
-          },
-          {
-            "date": "25/01/2020",
-            "competition": "FA Cup 19/20",
-            "teams_and_score": "Hull City 1 - 2 Chelsea"
-          },
-          {
-            "date": "16/02/2018",
-            "competition": "FA Cup",
-            "teams_and_score": "Chelsea 4 - 0 Hull City"
-          },
-          {
-            "date": "22/01/2017",
-            "competition": "Premier League",
-            "teams_and_score": "Chelsea 2 - 0 Hull City"
-          }
-        ],
-        "home_team_form": {
-          "team": "Chelsea",
-          "form": [
-            "D",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
               "date": "12/09/2026",
               "competition": "Premier League",
-              "teams_and_score": "Chelsea 2 - 2 Hull City",
-              "result": "D"
+              "teams_and_score": "Sunderland 0 - 2 Arsenal",
+              "result": "W"
             },
             {
               "date": "09/09/2026",
-              "competition": "EFL Cup: Round 3",
-              "teams_and_score": "Chelsea 6 - 3 Leeds United",
+              "competition": "League Stage",
+              "teams_and_score": "Napoli 0 - 1 Arsenal",
               "result": "W"
             },
             {
@@ -459,107 +204,53 @@
               "competition": "Premier League",
               "teams_and_score": "Arsenal 2 - 1 Chelsea",
               "result": "L"
-            },
-            {
-              "date": "27/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Chelsea 2 - 0 Luton Town",
-              "result": "W"
-            },
-            {
-              "date": "24/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Fulham 2 - 3 Chelsea",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Hull City",
-          "form": [
-            "D",
-            "L",
-            "D",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "12/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Chelsea 2 - 2 Hull City",
-              "result": "D"
-            },
-            {
-              "date": "08/09/2026",
-              "competition": "EFL Cup: Round 3",
-              "teams_and_score": "Sunderland 1 - 0 Hull City",
-              "result": "L"
-            },
-            {
-              "date": "05/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Hull City 0 - 0 Aston Villa",
-              "result": "D"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Stoke City 1 - 1 Hull City",
-              "result": "D"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Hull City 2 - 0 Manchester United",
-              "result": "W"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Chelsea": "7",
-          "Hull City": "5"
+          "Arsenal": "5",
+          "Chelsea": "2"
         },
         "shots_off_target": {
-          "Chelsea": "4",
-          "Hull City": "4"
+          "Arsenal": "9",
+          "Chelsea": "4"
         },
         "shots_blocked": {
-          "Chelsea": "1",
-          "Hull City": "4"
+          "Arsenal": "3",
+          "Chelsea": "5"
         },
         "corners": {
-          "Chelsea": "10",
-          "Hull City": "4"
+          "Arsenal": "5",
+          "Chelsea": "6"
         },
         "fouls": {
-          "Chelsea": "7",
-          "Hull City": "12"
+          "Arsenal": "13",
+          "Chelsea": "11"
         },
         "offsides": {
-          "Chelsea": "1",
-          "Hull City": "1"
+          "Arsenal": "0",
+          "Chelsea": "2"
         },
         "yellow_cards": {
-          "Chelsea": "1",
-          "Hull City": "5"
+          "Arsenal": "4",
+          "Chelsea": "1"
         },
         "goalkeeper_saves": {
-          "Chelsea": "3",
-          "Hull City": "5"
+          "Arsenal": "2",
+          "Chelsea": "2"
         },
         "crosses": {
-          "Chelsea": "6",
-          "Hull City": "7"
+          "Arsenal": "6",
+          "Chelsea": "6"
         },
         "ball_possession": {
-          "Chelsea": "68%",
-          "Hull City": "32%"
+          "Arsenal": "40%",
+          "Chelsea": "60%"
         }
       },
-      "description": "Watch Chelsea vs Hull City highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 12, 2026. The Premier League clash on 2026-09-12 brought a high-octane atmosphere to the capital, as two sides hungry for momentum faced off in a compelling encounter. From the first whistle, the game unfolded as a tactical chess match punctuated by moments of individual brilliance and defensive frailty. Rapid Exchanges and a Quickfire Double Chelsea wasted no time in asserting their presence, breaking the deadlock in the 7th minute. Following a defensive lapse by Emiliano Martinez , the home side clinical. Cole Palmer provided the vision with a key pass, allowing Joao Pedro to set up Morgan Rogers , who slotted home with his left foot. However, the lead proved fragile as Hull City mounted a spirited comeback before the interval. Mohamed Belloumi turned the game on its head in a sensational six-minute spell. In the 28th minute, he capitalized on a mistake by Jorrel Hato to level the scores after being found by Ryan Giles . Belloumi wasn't finished, and in the 34th minute, he struck again with his left foot, this time assisted by Oli McBurnie , sending the traveling supporters into raptures as the Tigers took an unexpected lead into the break. Second Half Resilience and Late Drama The second half saw Chelsea dominate possession, reaching a 68% share as they hunted for an equalizer. Their persistence paid off in the 66th minute; Cole Palmer turned provider once more, finding Joao Pedro , who maintained his composure to fire home the leveling goal. The match grew increasingly physical thereafter, with the referee busy issuing bookings to players including John Egan , Matt Crooks , and Valentin Barco as both teams fought for every inch of grass. As the clock ticked into six minutes of added time, the drama intensified for the 39,352 fans in attendance. Estevao forced a fine save from the keeper in the 91st minute, and Cole Palmer had a golden opportunity to win it with a late free kick, but his effort sailed wide. Despite a late flurry of corners and a yellow card for Brooke Norton-Cuffy in the dying moments, neither side could find a winner, leaving the points shared in a hard-fought contest."
+      "description": "Watch Arsenal vs Chelsea highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on February 3, 2026. The atmosphere at the Emirates Stadium was electric on February 3, 2026, as two ambitious sides met in a high-stakes Carabao Cup clash. With a place in the next round on the line, both managers fielded strong lineups, setting the stage for a tactical battle under the North London lights. Brighton’s First-Half Masterclass Despite Arsenal enjoying more of the ball, it was Brighton who displayed clinical precision when it mattered most. The breakthrough came in the 31st minute when Pascal Gross unleashed a powerful strike from outside the box following a clever setup by Charalampos Kostoulas . The goal silenced the home crowd and shifted the momentum firmly in favor of the visitors. As the first half drew to a close, the Seagulls doubled their advantage to leave the Gunners reeling. In the 45th minute, Diego Gomez provided the assist for Charalampos Kostoulas , who beat the keeper with a well-placed right-footed shot from distance. The 2-0 scoreline at the break left Arsenal with a mountain to climb, as their offensive efforts struggled to breach a disciplined defensive line. Sealing the Victory and Late Drama Any hopes of an Arsenal comeback were effectively extinguished in the 57th minute. Pascal Gross turned provider, swinging in a corner from the left that was met by Chema Andres , who headed the ball home to make it 3-0. Even with the introduction of Viktor Gyoekeres , Martin Zubimendi , and Eberechi Eze , the hosts could not find a way back into the contest. The closing stages were filled with incident as Brighton nearly added a fourth, with Malick Junior Yalcouye rattling the post in the 90th minute. Arsenal 's frustration boiled over in stoppage time; Declan Rice was shown a yellow card for violent conduct in the 90+7th minute, just moments before the final whistle confirmed a comprehensive victory for the visitors."
     },
     {
       "title": "Fulham vs Chelsea FC",
@@ -1472,6 +1163,155 @@
         }
       },
       "description": "Watch Chelsea vs Brighton highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on August 30, 2026. The air was thick with anticipation as two of England's most dynamic sides faced off in an afternoon of high-stakes football. Every passage of play seemed to carry the weight of the match, as fans were treated to a display of attacking intent that defied tactical norms. A Lightning Start at the Bridge On August 30, 2026 , the Premier League witnessed a chaotic and clinical opening in the clash between Chelsea and Brighton . The deadlock was broken just 4 minutes in when Romeo Lavia pounced on a loose ball following a mistake by goalkeeper Bart Verbruggen , firing home with his right foot. The home side didn't let up, and by the 14th minute, they had doubled their advantage. Pedro Neto found the back of the net after a precise assist from Morgan Rogers , leaving the visitors reeling from an early double blow. Brighton's Spirited Comeback Despite the early setback, Brighton showcased their trademark resilience and technical quality. In the 32nd minute, Joao Pedro began the fightback, finishing clinically after being set up by Jorrel Hato . The momentum swung violently in favor of the \"Seagulls,\" and just three minutes later, the scores were level. Malick Junior Yalcouye unleashed a stunning right-footed volley that flew into the net, completing a remarkable ten-minute turnaround and ensuring the sides went into the break on equal terms. Twists and the Palmer Factor The second half introduced fresh drama and a touch of misfortune. In the 63rd minute, Chelsea regained the lead in unexpected fashion when Joao Pedro inadvertently sent the ball into his own net during a defensive scramble from a corner. The hosts capitalized on this stroke of luck, and in the 74th minute, Cole Palmer produced a moment of magic. Picking up the ball outside the box, the forward unleashed a pinpoint left-footed strike that beat the keeper to make it 4-2. A Frantic Finish The closing stages were defined by tactical fouls and rising tempers, as Brighton ’s Lewis Dunk , Olivier Boscagli , and Costinha all entered the referee's book. Despite holding a staggering 74% of the possession, the visitors struggled to break through a determined Chelsea defense until the dying embers of the game. In the 6th minute of stoppage time, Pascal Gross headed home a loose ball to bring the score to 4-3, but it proved to be too little, too late as the referee blew the final whistle shortly after."
+    },
+    {
+      "title": "Chelsea vs AC Milan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-vs-ac-milan-2026-08-08-4OHY.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/489.webp",
+          "name": "AC Milan",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/49.webp",
+          "name": "Chelsea",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/chelsea-vs-ac-milan-2026-08-08_cKtP3.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "45'",
+          "team": "AC Milan",
+          "player": "S. Pavlović",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "45+2'",
+          "team": "Chelsea",
+          "player": "J. Pedro",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Chelsea",
+          "player": "J. Pedro",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "61'",
+          "team": "Chelsea",
+          "player": "M. Caicedo",
+          "event_type": "Goal",
+          "score_update": "3 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Chelsea_wins": "3",
+          "draws": "1",
+          "AC Milan_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "10/08/2025",
+            "competition": "Club Friendlies 2025",
+            "teams_and_score": "Chelsea 4 - 1 AC Milan"
+          },
+          {
+            "date": "11/10/2022",
+            "competition": "Group E 22/23",
+            "teams_and_score": "AC Milan 0 - 2 Chelsea"
+          },
+          {
+            "date": "03/08/2008",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Chelsea 5 - 0 AC Milan"
+          },
+          {
+            "date": "26/10/1999",
+            "competition": "Champions League grp. H",
+            "teams_and_score": "AC Milan 1 - 1 Chelsea"
+          }
+        ],
+        "home_team_form": {
+          "team": "Chelsea",
+          "form": [
+            "W",
+            "L",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Chelsea 3 - 0 AC Milan",
+              "result": "W"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Sunderland 2 - 1 Chelsea",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "FA Cup: Final",
+              "teams_and_score": "Chelsea 0 - 1 Manchester City",
+              "result": "L"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Chelsea",
+              "result": "D"
+            },
+            {
+              "date": "26/04/2026",
+              "competition": "FA Cup: Semi-Finals",
+              "teams_and_score": "Chelsea 1 - 0 Leeds United",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "AC Milan",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Chelsea 3 - 0 AC Milan",
+              "result": "L"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Serie A 25/26",
+              "teams_and_score": "AC Milan 1 - 2 Cagliari",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Chelsea vs AC Milan highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
     },
     {
       "title": "Brentford vs Chelsea",
@@ -2863,6 +2703,162 @@
       "description": "Watch Chelsea vs Arsenal highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on January 14, 2026. On January 14, 2026 , the Carabao Cup served up a high-octane clash between Chelsea and Leeds United . This midweek fixture under the lights promised intensity as both sides looked to secure their progression in the tournament. Leeds Stuns the Bridge Leeds United started with a fearless attitude, taking the fight to their hosts from the opening whistle. Their persistence paid off in the 23rd minute when Tarik Muharemovic rose highest to meet a Harry Wilson cross following a corner, heading firmly into the net. Chelsea struggled to find their rhythm in the opening period, with Jamie Gittens seeing his efforts saved by Michael Zetterer . Frustration boiled over late in the half as Reggie Watson picked up a yellow card, leaving the Blues with plenty of work to do. The Palmer Effect The second half began with a shock as Brenden Aaronson doubled the visitors' lead in the 48th minute, finishing coolly after being set up by Lukas Nmecha . Facing an uphill battle, the introduction of Cole Palmer at halftime proved to be a tactical masterstroke. In the 53rd minute, Palmer converted a penalty after Pep Chavarría was fouled in the box. Just two minutes later, the playmaker struck again, firing a left-footed shot into the bottom corner to bring the scores level and ignite the home crowd. A Goal-Scoring Frenzy With the momentum firmly in their favor, Chelsea surged ahead. Pedro Neto made it 3-2 in the 60th minute with a clinical strike from distance, before Danny Welbeck added a fourth shortly after. Leeds United refused to surrender, and Dominic Calvert-Lewin pulled one back to make it 4-3 in the 75th minute, ensuring a tense finale. However, the quality of the Blues' substitutes continued to tell as they pushed for a decisive advantage. Sealing the Result As the clock ticked toward full-time, Valentín Barco found the bottom corner in the 80th minute to restore a two-goal cushion. Despite a late flurry of blocked attempts from a desperate Leeds side, the final word belonged to Danny Welbeck . In the fourth minute of stoppage time, Welbeck headed home his second of the night to seal a remarkable 6-3 victory. It was a breathless display of attacking football that saw Chelsea advance after a truly unforgettable second-half performance."
     },
     {
+      "title": "Chelsea FC vs Real Sociedad",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-v-real-sociedad-2026-08-15-CoON.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/548.webp",
+          "name": "Real Sociedad",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/49.webp",
+          "name": "Chelsea",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Chelsea_v_Real_Sociedad_2026_08_15.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Chelsea",
+          "player": "M. Rogers",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Real Sociedad",
+          "player": "J. Aramburu",
+          "event_type": "Goal",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Chelsea",
+          "player": "J. Pedro",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Chelsea",
+          "player": "J. Pedro",
+          "event_type": "Goal",
+          "score_update": "3 - 1"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Chelsea_wins": "1",
+          "draws": "0",
+          "Real Sociedad_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "12/08/2014",
+            "competition": "Club Friendlies",
+            "teams_and_score": "Chelsea 2 - 0 Real Sociedad"
+          }
+        ],
+        "home_team_form": {
+          "team": "Chelsea",
+          "form": [
+            "W",
+            "D",
+            "L",
+            "L",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Johor Darul Ta'zim FC 3 - 3 Chelsea",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Sunderland 2 - 1 Chelsea",
+              "result": "L"
+            },
+            {
+              "date": "16/05/2026",
+              "competition": "FA Cup: Final",
+              "teams_and_score": "Chelsea 0 - 1 Manchester City",
+              "result": "L"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Chelsea",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Real Sociedad",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Chelsea 3 - 1 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "FC Cologne 2 - 1 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "07/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FC Cologne 2 - 0 Real Sociedad",
+              "result": "L"
+            },
+            {
+              "date": "28/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Aston Villa 2 - 4 Real Sociedad",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Real Sociedad 1 - 1 Racing Santander",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Chelsea vs Real Sociedad highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 15, 2026."
+    },
+    {
       "title": "Johor DT vs Chelsea FC",
       "thumbnail_url": "https://img.refooty.com/thumbnail/johor-dt-v-chelsea-2026-08-09-mOXZ.webp",
       "competition": "Friendly",
@@ -3065,6 +3061,258 @@
       },
       "statistics": {},
       "description": "Watch Johor Darul Takzim FC vs Chelsea highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 9, 2026. The FIFA Club World Cup delivered a spectacle of pure drama as two continents collided on the pitch. On August 9, 2026 , Johor DT and Chelsea played out a high-stakes encounter that tested the limits of their endurance and tactical discipline, leaving fans breathless until the final whistle. A Second-Half Surge of Goals After a tightly contested opening period, the match exploded into life during the second half. The tension was palpable as J. Silva and Estêvão both saw yellow cards early on, but the breakthrough for the visitors came in the 62nd minute. Liam Delap showed nerves of steel to convert a penalty, making it 1-2 in favor of Chelsea . The lead, however, was incredibly short-lived as the home side mounted an immediate response. In the 65th minute, Arribas found the back of the net to level the score at 2-2, sending the home crowd into a state of delirium. The game then became a feisty affair, with the referee busy issuing cautions to Nicolas Jackson , A. Cristian , and Geovany Quenda as both teams fought desperately for control of the midfield and the lead. Late Drama and Heartbreak As the clock ticked toward full-time, it appeared that Johor DT was on the verge of a historic upset. In the 86th minute, Bergson produced a moment of magic to score and put his side 3-2 up. It was a goal that felt like a match-winner, but the unpredictable nature of the sport struck again in the dying moments of regulation time. Disaster hit for the hosts in the 89th minute when A. Cristian unfortunately turned the ball into his own net, gifting Chelsea an equalizer and making the score 3-3. Despite the late pressure and a yellow card for R. Watson in stoppage time, neither side could find a decisive seventh goal, ending a remarkable contest that will be remembered for its wild momentum shifts."
+    },
+    {
+      "title": "Chelsea FC vs Hull City",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/chelsea-v-hull-city-2026-09-12-ISbi.webp",
+      "competition": "Premier League",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 12, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/64.webp",
+          "name": "Hull City",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/49.webp",
+          "name": "Chelsea",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/Chelsea_v_Hull_City_2026_09_12.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Chelsea",
+          "player": "M. Rogers",
+          "event_type": "Goal",
+          "assist": "J. Pedro",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Hull City",
+          "player": "O. McBurnie",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Hull City",
+          "player": "M. Belloumi",
+          "event_type": "Goal",
+          "assist": "R. Giles",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Hull City",
+          "player": "M. Belloumi",
+          "event_type": "Goal",
+          "assist": "O. McBurnie",
+          "score_update": "1 - 2"
+        },
+        {
+          "time": "50'",
+          "team": "Hull City",
+          "player": "J. Egan",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "52'",
+          "team": "Hull City",
+          "player": "M. Crooks",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "66'",
+          "team": "Chelsea",
+          "player": "J. Pedro",
+          "event_type": "Goal",
+          "assist": "C. Palmer",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "80'",
+          "team": "Chelsea",
+          "player": "V. Barco",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "88'",
+          "team": "Hull City",
+          "player": "T. Iroegbunam",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+6'",
+          "team": "Hull City",
+          "player": "B. Norton-Cuffy",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Chelsea_wins": "4",
+          "draws": "0",
+          "Hull City_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "13/02/2026",
+            "competition": "FA Cup: Round 4",
+            "teams_and_score": "Hull City 0 - 4 Chelsea"
+          },
+          {
+            "date": "25/01/2020",
+            "competition": "FA Cup 19/20",
+            "teams_and_score": "Hull City 1 - 2 Chelsea"
+          },
+          {
+            "date": "16/02/2018",
+            "competition": "FA Cup",
+            "teams_and_score": "Chelsea 4 - 0 Hull City"
+          },
+          {
+            "date": "22/01/2017",
+            "competition": "Premier League",
+            "teams_and_score": "Chelsea 2 - 0 Hull City"
+          }
+        ],
+        "home_team_form": {
+          "team": "Chelsea",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Chelsea 2 - 2 Hull City",
+              "result": "D"
+            },
+            {
+              "date": "09/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Chelsea 6 - 3 Leeds United",
+              "result": "W"
+            },
+            {
+              "date": "06/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Arsenal 2 - 1 Chelsea",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Chelsea 2 - 0 Luton Town",
+              "result": "W"
+            },
+            {
+              "date": "24/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Fulham 2 - 3 Chelsea",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Hull City",
+          "form": [
+            "D",
+            "L",
+            "D",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "12/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Chelsea 2 - 2 Hull City",
+              "result": "D"
+            },
+            {
+              "date": "08/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Sunderland 1 - 0 Hull City",
+              "result": "L"
+            },
+            {
+              "date": "05/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Hull City 0 - 0 Aston Villa",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Stoke City 1 - 1 Hull City",
+              "result": "D"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Hull City 2 - 0 Manchester United",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Chelsea": "7",
+          "Hull City": "5"
+        },
+        "shots_off_target": {
+          "Chelsea": "4",
+          "Hull City": "4"
+        },
+        "shots_blocked": {
+          "Chelsea": "1",
+          "Hull City": "4"
+        },
+        "corners": {
+          "Chelsea": "10",
+          "Hull City": "4"
+        },
+        "fouls": {
+          "Chelsea": "7",
+          "Hull City": "12"
+        },
+        "offsides": {
+          "Chelsea": "1",
+          "Hull City": "1"
+        },
+        "yellow_cards": {
+          "Chelsea": "1",
+          "Hull City": "5"
+        },
+        "goalkeeper_saves": {
+          "Chelsea": "3",
+          "Hull City": "5"
+        },
+        "crosses": {
+          "Chelsea": "6",
+          "Hull City": "7"
+        },
+        "ball_possession": {
+          "Chelsea": "68%",
+          "Hull City": "32%"
+        }
+      },
+      "description": "Watch Chelsea vs Hull City highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 12, 2026. The Premier League clash on 2026-09-12 brought a high-octane atmosphere to the capital, as two sides hungry for momentum faced off in a compelling encounter. From the first whistle, the game unfolded as a tactical chess match punctuated by moments of individual brilliance and defensive frailty. Rapid Exchanges and a Quickfire Double Chelsea wasted no time in asserting their presence, breaking the deadlock in the 7th minute. Following a defensive lapse by Emiliano Martinez , the home side clinical. Cole Palmer provided the vision with a key pass, allowing Joao Pedro to set up Morgan Rogers , who slotted home with his left foot. However, the lead proved fragile as Hull City mounted a spirited comeback before the interval. Mohamed Belloumi turned the game on its head in a sensational six-minute spell. In the 28th minute, he capitalized on a mistake by Jorrel Hato to level the scores after being found by Ryan Giles . Belloumi wasn't finished, and in the 34th minute, he struck again with his left foot, this time assisted by Oli McBurnie , sending the traveling supporters into raptures as the Tigers took an unexpected lead into the break. Second Half Resilience and Late Drama The second half saw Chelsea dominate possession, reaching a 68% share as they hunted for an equalizer. Their persistence paid off in the 66th minute; Cole Palmer turned provider once more, finding Joao Pedro , who maintained his composure to fire home the leveling goal. The match grew increasingly physical thereafter, with the referee busy issuing bookings to players including John Egan , Matt Crooks , and Valentin Barco as both teams fought for every inch of grass. As the clock ticked into six minutes of added time, the drama intensified for the 39,352 fans in attendance. Estevao forced a fine save from the keeper in the 91st minute, and Cole Palmer had a golden opportunity to win it with a late free kick, but his effort sailed wide. Despite a late flurry of corners and a yellow card for Brooke Norton-Cuffy in the dying moments, neither side could find a winner, leaving the points shared in a hard-fought contest."
     }
   ]
 }
