@@ -2,6 +2,13 @@
   "Total_Competitions": 39,
   "competitions": [
     {
+      "name": "Friendly",
+      "slug": "friendly",
+      "cover_image": "https://refooty.com/covers/friendly.webp",
+      "total_matches": 207,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/friendly.json"
+    },
+    {
       "name": "Argentine Primera División",
       "slug": "argentine-primera-división",
       "cover_image": "https://refooty.com/covers/argentine-primera-division.webp",
@@ -135,48 +142,6 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-league.json"
     },
     {
-      "name": "CONMEBOL Libertadores",
-      "slug": "conmebol-libertadores",
-      "cover_image": "",
-      "total_matches": 3,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/conmebol-libertadores.json"
-    },
-    {
-      "name": "Carabao",
-      "slug": "carabao",
-      "cover_image": "https://refooty.com/covers/carabao.webp",
-      "total_matches": 68,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/carabao.json"
-    },
-    {
-      "name": "Coppa Italia",
-      "slug": "coppa-italia",
-      "cover_image": "https://refooty.com/covers/coppa-italia.webp",
-      "total_matches": 11,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/coppa-italia.json"
-    },
-    {
-      "name": "Pro League - Saudi Arabia",
-      "slug": "pro-league-saudi-arabia",
-      "cover_image": "https://refooty.com/covers/pro-league-saudi.webp",
-      "total_matches": 58,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/pro-league-saudi-arabia.json"
-    },
-    {
-      "name": "UEFA Champions League",
-      "slug": "uefa-champions-league",
-      "cover_image": "https://refooty.com/covers/uefa-champions-league.webp",
-      "total_matches": 45,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-champions-league.json"
-    },
-    {
-      "name": "Friendly",
-      "slug": "friendly",
-      "cover_image": "https://refooty.com/covers/friendly.webp",
-      "total_matches": 202,
-      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/friendly.json"
-    },
-    {
       "name": "Unknown Competition",
       "slug": "unknown-competition",
       "cover_image": "",
@@ -198,6 +163,13 @@
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/usl-championship.json"
     },
     {
+      "name": "Pro League - Saudi Arabia",
+      "slug": "pro-league-saudi-arabia",
+      "cover_image": "https://refooty.com/covers/pro-league-saudi.webp",
+      "total_matches": 58,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/pro-league-saudi-arabia.json"
+    },
+    {
       "name": "Primeira Liga",
       "slug": "primeira-liga",
       "cover_image": "https://refooty.com/covers/primeira-liga.webp",
@@ -210,6 +182,20 @@
       "cover_image": "https://refooty.com/covers/uefa-europa-conference-league.webp",
       "total_matches": 83,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-europa-conference-league.json"
+    },
+    {
+      "name": "Carabao",
+      "slug": "carabao",
+      "cover_image": "https://refooty.com/covers/carabao.webp",
+      "total_matches": 68,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/carabao.json"
+    },
+    {
+      "name": "UEFA Champions League",
+      "slug": "uefa-champions-league",
+      "cover_image": "https://refooty.com/covers/uefa-champions-league.webp",
+      "total_matches": 45,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/uefa-champions-league.json"
     },
     {
       "name": "2. Bundesliga",
@@ -252,6 +238,20 @@
       "cover_image": "https://refooty.com/covers/fifa-club-world-cup.webp",
       "total_matches": 1,
       "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/fifa-club-world-cup.json"
+    },
+    {
+      "name": "CONMEBOL Libertadores",
+      "slug": "conmebol-libertadores",
+      "cover_image": "",
+      "total_matches": 3,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/conmebol-libertadores.json"
+    },
+    {
+      "name": "Coppa Italia",
+      "slug": "coppa-italia",
+      "cover_image": "https://refooty.com/covers/coppa-italia.webp",
+      "total_matches": 11,
+      "json_url": "https://raw.githubusercontent.com/api00007/Refooty/main/competitions/coppa-italia.json"
     },
     {
       "name": "DFL-Supercup",
