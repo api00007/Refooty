@@ -3,105 +3,145 @@
   "AUTHOR": "iVan_FluX",
   "CONTACT (OWNER)": "https://t.me/iVan_flux",
   "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-  "Last update time": "06:20:33 AM 24-09-2026",
+  "Last update time": "10:10:34 AM 24-09-2026",
   "matches": [
     {
-      "title": "AC Milan vs Inter",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/ac-milan-vs-inter-2026-08-05-55b1.webp",
+      "title": "Celtic vs AC Milan",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/celtic-vs-ac-milan-2026-07-25-FnjM.webp",
       "competition": "Friendly",
       "competition_cover": "https://refooty.com/covers/friendly.webp",
-      "date": "Aug 5, 2026",
+      "date": "Jul 25, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/505.webp",
-          "name": "Inter",
-          "score": "1"
-        },
-        "home_team": {
           "logo": "https://img.refooty.com/logo/teams/489.webp",
           "name": "AC Milan",
-          "score": "1"
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/247.webp",
+          "name": "Celtic",
+          "score": "2"
         },
         "status": "FT"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/ac-milan-vs-inter-2026-08-05_Hk6PH.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/celtic-vs-ac-milan-2026-07-25_hL9NN.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Inter",
-          "player": "Y. Bisseck",
+          "team": "Celtic",
+          "player": "C. Duran",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Celtic",
+          "player": "J. Forrest",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "AC Milan",
+          "player": "F. Camarda",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Celtic",
+          "player": "K. Tierney",
           "event_type": "Yellow Card"
         },
         {
-          "time": "52'",
-          "team": "Inter",
-          "player": "F. Dimarco",
-          "event_type": "Goal",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "84'",
+          "time": "76'",
           "team": "AC Milan",
-          "player": "C. Nkunku",
+          "player": "F. Camarda",
           "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "90+3'",
-          "team": "AC Milan",
-          "player": "P. Estupiñán",
-          "event_type": "Yellow Card"
+          "score_update": "2 - 2"
         }
       ],
       "head_to_head": {
         "summary": {
-          "AC Milan_wins": "4",
+          "Celtic_wins": "0",
           "draws": "1",
-          "Inter_wins": "2"
+          "AC Milan_wins": "4"
         },
         "previous_matches": [
           {
-            "date": "08/03/2026",
-            "competition": "Serie A 25/26",
-            "teams_and_score": "AC Milan 1 - 0 Inter"
+            "date": "03/12/2020",
+            "competition": "Group H 20/21",
+            "teams_and_score": "AC Milan 4 - 2 Celtic"
           },
           {
-            "date": "23/04/2025",
-            "competition": "Coppa Italia: Semi-Finals",
-            "teams_and_score": "Inter 0 - 3 AC Milan"
+            "date": "26/11/2013",
+            "competition": "Champions League grp. H",
+            "teams_and_score": "Celtic 0 - 3 AC Milan"
           },
           {
-            "date": "02/02/2025",
-            "competition": "Serie A 24/25",
-            "teams_and_score": "AC Milan 1 - 1 Inter"
+            "date": "04/12/2007",
+            "competition": "Champions League grp. D",
+            "teams_and_score": "AC Milan 1 - 0 Celtic"
           },
           {
-            "date": "06/01/2025",
-            "competition": "Super Cup",
-            "teams_and_score": "Inter 2 - 3 AC Milan"
+            "date": "07/03/2007",
+            "competition": "Champions League Final Stages",
+            "teams_and_score": "AC Milan 1 - 0 Celtic"
           },
           {
-            "date": "22/09/2024",
-            "competition": "Serie A 24/25",
-            "teams_and_score": "Inter 1 - 2 AC Milan"
-          },
-          {
-            "date": "22/04/2024",
-            "competition": "Serie A 23/24",
-            "teams_and_score": "AC Milan 1 - 2 Inter"
-          },
-          {
-            "date": "16/05/2023",
-            "competition": "Semi-Finals 22/23",
-            "teams_and_score": "Inter 1 - 0 AC Milan"
+            "date": "07/12/2004",
+            "competition": "Champions League grp. F",
+            "teams_and_score": "Celtic 0 - 0 AC Milan"
           }
         ],
         "home_team_form": {
+          "team": "Celtic",
+          "form": [
+            "D",
+            "D",
+            "L",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "25/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Celtic 2 - 2 AC Milan",
+              "result": "D"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Celtic 1 - 1 Middlesbrough",
+              "result": "D"
+            },
+            {
+              "date": "14/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Sporting CP 4 - 1 Celtic",
+              "result": "L"
+            },
+            {
+              "date": "07/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Shelbourne 1 - 1 Celtic",
+              "result": "D"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "Scottish Cup: Final",
+              "teams_and_score": "Celtic 3 - 1 Dunfermline Athletic",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
           "team": "AC Milan",
           "form": [
             "D",
@@ -109,9 +149,9 @@
           ],
           "recent_matches": [
             {
-              "date": "05/08/2026",
+              "date": "25/07/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "AC Milan 1 - 1 Inter",
+              "teams_and_score": "Celtic 2 - 2 AC Milan",
               "result": "D"
             },
             {
@@ -121,68 +161,26 @@
               "result": "L"
             }
           ]
-        },
-        "away_team_form": {
-          "team": "Inter",
-          "form": [
-            "D",
-            "D",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "05/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "AC Milan 1 - 1 Inter",
-              "result": "D"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Bologna 3 - 3 Inter",
-              "result": "D"
-            },
-            {
-              "date": "13/05/2026",
-              "competition": "Coppa Italia: Final",
-              "teams_and_score": "Lazio 0 - 2 Inter",
-              "result": "W"
-            },
-            {
-              "date": "09/05/2026",
-              "competition": "Serie A 25/26",
-              "teams_and_score": "Lazio 0 - 3 Inter",
-              "result": "W"
-            },
-            {
-              "date": "21/04/2026",
-              "competition": "Coppa Italia: Semi-Finals",
-              "teams_and_score": "Inter 3 - 2 Como 1907",
-              "result": "W"
-            }
-          ]
         }
       },
       "statistics": {},
-      "description": "Watch AC Milan vs Inter highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 5, 2026. Two of Italy’s biggest giants renewed their historic rivalry on the international stage as AC Milan and Inter faced off in a highly anticipated summer clash. Both sides looked to assert their dominance and fine-tune their tactics in a match that promised high-intensity football from the opening whistle. Tactical Battle in the Opening Period On August 5, 2026 , the atmosphere was electric as the two Milanese clubs took to the field. The first half was a cagey affair, with both teams prioritizing defensive organization over all-out attack. While there were occasional chances and bursts of pace, neither goalkeeper was truly tested during the opening 45 minutes as the tactical battle took center stage in this prestigious friendly match . Dimarco Breaks the Deadlock The tempo shifted dramatically in the second half . In the 52nd minute, Inter found the breakthrough they were looking for. A well-worked move ended with Federico Dimarco finding space to strike, sending the ball into the back of the net to give the Nerazzurri a 1-0 lead. The goal forced AC Milan to take more risks and push higher up the pitch as they searched for a way back into the contest. Late Drama and the Equalizer As the clock ticked down, the pressure from the Rossoneri finally paid off. In the 84th minute, a crucial foul in the box resulted in a penalty for AC Milan . Christopher Nkunku stepped up under immense pressure and coolly converted the spot-kick to level the score at 1-1. The final moments were marked by rising tensions, including a yellow card for Pervis Estupiñán in stoppage time, as the fierce sports rivalry ensured a competitive finish to the draw."
+      "description": "Watch Celtic vs AC Milan highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 25, 2026."
     },
     {
-      "title": "Persib Bandung vs Persija Jakarta",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/persib-bandung-vs-persija-jakarta-2026-08-04-YCNy.webp",
-      "competition": "Liga 1 - Indonesia",
-      "competition_cover": "https://refooty.com/covers/liga-1-indonesia.webp",
-      "date": "Aug 4, 2026",
+      "title": "VfB Stuttgart vs Hollenbach",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/vfb-stuttgart-vs-hollenbach-2026-07-25-vqZM.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Jul 25, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/2439.webp",
-          "name": "Persija Jakarta",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/17048.webp",
+          "name": "Hollenbach",
+          "score": "5"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/2445.webp",
-          "name": "Persib Bandung",
+          "logo": "https://img.refooty.com/logo/teams/172.webp",
+          "name": "VfB Stuttgart",
           "score": "0"
         },
         "status": "FT"
@@ -190,624 +188,292 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/persib-bandung-vs-persija-jakarta-2026-08-04_GtL0F.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "52'",
-          "team": "Persija Jakarta",
-          "player": "Tiri",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "87'",
-          "team": "Persija Jakarta",
-          "player": "B. Lessy",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+5'",
-          "team": "Persib Bandung",
-          "player": "T. P. Alam",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Persib Bandung_wins": "1",
-          "draws": "1",
-          "Persija Jakarta_wins": "1"
-        },
-        "previous_matches": [
-          {
-            "date": "18/08/2025",
-            "competition": "Super League",
-            "teams_and_score": "Persijap Jepara 2 - 1 Persib Bandung"
-          },
-          {
-            "date": "19/08/2014",
-            "competition": "Super League First Round West",
-            "teams_and_score": "Persib Bandung 5 - 0 Persijap Jepara"
-          },
-          {
-            "date": "07/05/2011",
-            "competition": "Super Liga",
-            "teams_and_score": "Persijap Jepara 1 - 1 Persib Bandung"
-          }
-        ],
-        "home_team_form": {
-          "team": "Persib Bandung",
-          "form": [
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/05/2026",
-              "competition": "Super League",
-              "teams_and_score": "Persib Bandung 0 - 0 Persijap Jepara",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Persija Jakarta",
-          "form": [
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "23/05/2026",
-              "competition": "Super League",
-              "teams_and_score": "Persib Bandung 0 - 0 Persijap Jepara",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Persib Bandung vs Persija Jakarta highlights and goals from Liga 1 - Indonesia on ReFooty: Football Highlights Hub. Match played on August 4, 2026. One of Indonesian football's most anticipated rivalries took center stage as Persib Bandung hosted Persija Jakarta in a high-stakes Liga 1 encounter. The atmosphere was electric, with both sets of fans expecting a masterclass in intensity and tactical discipline. Rivalry Heat in Liga 1 On August 4, 2026 , the Liga 1 season witnessed another chapter of the historic rivalry between Persib Bandung and Persija Jakarta . From the opening whistle, the match was characterized by tight marking and a congested midfield, as neither side wanted to give an inch in this prestigious fixture. The first half remained a tactical chess match, with both teams probing for openings but finding the opposing defenses well-organized and resolute. The Physical Battle Intensifies The second half saw the intensity ramp up significantly as the search for a breakthrough became more desperate. The referee was forced to intervene in the 52nd minute when Tiri from Persija Jakarta received a yellow card for a cynical challenge, signaling the start of a more physical phase of the game. Despite the growing number of fouls, clear-cut scoring opportunities remained scarce, with the football on display becoming more about grit than creative flair. Late Drama and Discipline As the clock ticked toward the final whistle, the pressure reached a boiling point. In the 87th minute, B. Lessy became the second Persija Jakarta player to enter the book, picking up a yellow card as the visitors struggled to contain Persib's late surges. The drama continued deep into stoppage time; in the 90+5th minute, Persib Bandung goalkeeper T. P. Alam was also cautioned by the official. Despite the late cards and tactical shifts, the match concluded with both sides sharing the spoils in a hard-fought contest."
-    },
-    {
-      "title": "Vietnam vs Cambodia",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/vietnam-vs-cambodia-2026-08-07-pW5W.webp",
-      "competition": "Asian Cup",
-      "competition_cover": "",
-      "date": "Aug 7, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1543.webp",
-          "name": "Cambodia",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1542.webp",
-          "name": "Vietnam",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/vietnam-vs-cambodia-2026-08-07_3tjTG.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/vfb-stuttgart-vs-hollenbach-2026-07-25_W7foD.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Vietnam",
-          "player": "",
+          "team": "Hollenbach",
+          "player": "T. Tomas",
           "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "46'",
-          "team": "Cambodia",
-          "player": "",
-          "event_type": "Goal",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "61'",
-          "team": "Vietnam",
-          "player": "",
-          "event_type": "Goal"
-        },
-        {
-          "time": "76'",
-          "team": "Vietnam",
-          "player": "D. B. Nguyen",
-          "event_type": "Goal",
-          "score_update": "3 - 1"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Vietnam_wins": "5",
-          "draws": "0",
-          "Cambodia_wins": "0"
-        },
-        "previous_matches": [
-          {
-            "date": "19/03/2025",
-            "competition": "Friendlies 2025",
-            "teams_and_score": "Vietnam 2 - 1 Cambodia"
-          },
-          {
-            "date": "19/12/2021",
-            "competition": "AFF Championship: Group B",
-            "teams_and_score": "Vietnam 4 - 0 Cambodia"
-          },
-          {
-            "date": "24/11/2018",
-            "competition": "AFF Championship Grp. A",
-            "teams_and_score": "Vietnam 3 - 0 Cambodia"
-          },
-          {
-            "date": "10/10/2017",
-            "competition": "Asian Cup Qualification Round 3 Grp. C",
-            "teams_and_score": "Vietnam 5 - 0 Cambodia"
-          },
-          {
-            "date": "26/11/2016",
-            "competition": "AFF Championship Grp. B",
-            "teams_and_score": "Vietnam 2 - 1 Cambodia"
-          }
-        ],
-        "home_team_form": {
-          "team": "Vietnam",
-          "form": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "07/08/2026",
-              "competition": "ASEAN Championship: Group A",
-              "teams_and_score": "Vietnam 3 - 1 Cambodia",
-              "result": "W"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Friendlies",
-              "teams_and_score": "Vietnam 4 - 0 Myanmar",
-              "result": "W"
-            },
-            {
-              "date": "31/03/2026",
-              "competition": "Asian Cup: Qualification: 3rd Round: Group F",
-              "teams_and_score": "Vietnam 3 - 1 Malaysia",
-              "result": "W"
-            },
-            {
-              "date": "26/03/2026",
-              "competition": "Friendlies",
-              "teams_and_score": "Vietnam 3 - 0 Bangladesh",
-              "result": "W"
-            },
-            {
-              "date": "19/11/2025",
-              "competition": "Asian Cup: Qualification: 3rd Round: Group F",
-              "teams_and_score": "Laos 0 - 2 Vietnam",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Cambodia",
-          "form": [
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "07/08/2026",
-              "competition": "ASEAN Championship: Group A",
-              "teams_and_score": "Vietnam 3 - 1 Cambodia",
-              "result": "L"
-            },
-            {
-              "date": "09/06/2026",
-              "competition": "Friendlies",
-              "teams_and_score": "Cambodia 2 - 0 Hong Kong",
-              "result": "W"
-            },
-            {
-              "date": "13/11/2025",
-              "competition": "Friendlies 2025",
-              "teams_and_score": "Hong Kong 1 - 1 Cambodia",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Vietnam": "5",
-          "Cambodia": "3"
-        },
-        "shots_off_target": {
-          "Vietnam": "9",
-          "Cambodia": "2"
-        },
-        "shots_blocked": {
-          "Vietnam": "2",
-          "Cambodia": "1"
-        },
-        "corners": {
-          "Vietnam": "4",
-          "Cambodia": "1"
-        },
-        "fouls": {
-          "Vietnam": "5",
-          "Cambodia": "12"
-        },
-        "offsides": {
-          "Vietnam": "3",
-          "Cambodia": "1"
-        },
-        "yellow_cards": {
-          "Vietnam": "0",
-          "Cambodia": "1"
-        },
-        "goalkeeper_saves": {
-          "Vietnam": "2",
-          "Cambodia": "3"
-        },
-        "ball_possession": {
-          "Vietnam": "75%",
-          "Cambodia": "25%"
-        }
-      },
-      "description": "Watch Vietnam vs Cambodia highlights and goals from Asian Cup on ReFooty: Football Highlights Hub. Match played on August 7, 2026."
-    },
-    {
-      "title": "Bohemians vs FC Midtjylland",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/bohemians-vs-fc-midtjylland-2026-08-06-cRp7.webp",
-      "competition": "UEFA Europa Conference League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-conference-league.webp",
-      "date": "Aug 6, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/397.webp",
-          "name": "FC Midtjylland",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/3840.webp",
-          "name": "Bohemians",
-          "score": "0"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/bohemians-vs-fc-midtjylland-2026-08-06_MvWcp.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Bohemians",
-          "player": "C. Parsons",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "16'",
-          "team": "FC Midtjylland",
-          "player": "S. Johannesen",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "31'",
-          "team": "FC Midtjylland",
-          "player": "Franculino",
-          "event_type": "Goal",
-          "assist": "S. Johannesen",
           "score_update": "0 - 1"
         },
         {
-          "time": "46'",
-          "team": "FC Midtjylland",
-          "player": "A. Gabriel",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "FC Midtjylland",
-          "player": "D. Castillo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Bohemians",
-          "player": "D. James-Taylor",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "FC Midtjylland",
-          "player": "V. Byskov",
+          "time": "16'",
+          "team": "Hollenbach",
+          "player": "C. Führich",
           "event_type": "Goal",
           "score_update": "0 - 2"
         },
         {
-          "time": "106'",
-          "team": "Bohemians",
-          "player": "D. Rooney",
-          "event_type": "Yellow Card"
+          "time": "46'",
+          "team": "Hollenbach",
+          "player": "M. Mittelstädt",
+          "event_type": "Goal",
+          "score_update": "0 - 3"
+        },
+        {
+          "time": "61'",
+          "team": "Hollenbach",
+          "player": "J. Milosevic",
+          "event_type": "Goal",
+          "score_update": "0 - 4"
+        },
+        {
+          "time": "76'",
+          "team": "Hollenbach",
+          "player": "N. Nartey",
+          "event_type": "Goal",
+          "score_update": "0 - 5"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Bohemians_wins": "0",
+          "VfB Stuttgart_wins": "2",
           "draws": "0",
-          "FC Midtjylland_wins": "0"
+          "Hollenbach_wins": "0"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "07/07/2024",
+            "competition": "Club Friendlies 2024",
+            "teams_and_score": "FSV Hollenbach 1 - 8 VfB Stuttgart"
+          },
+          {
+            "date": "06/07/2021",
+            "competition": "Club Friendlies 2021",
+            "teams_and_score": "FSV Hollenbach 1 - 10 VfB Stuttgart"
+          }
+        ],
         "home_team_form": {
-          "team": "Bohemians",
+          "team": "VfB Stuttgart",
           "form": [
-            "W",
-            "D",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Bohemian FC 0 - 2 FC Midtjylland",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "League of Ireland Premier Division",
-              "teams_and_score": "Bohemian FC 1 - 1 Galway United FC",
-              "result": "D"
-            },
-            {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Ballkani 3 - 2 Bohemian FC",
-              "result": "L"
-            },
-            {
-              "date": "03/07/2026",
-              "competition": "League of Ireland Premier Division",
-              "teams_and_score": "Drogheda United 0 - 2 Bohemian FC",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "FC Midtjylland",
-          "form": [
-            "W",
-            "W",
-            "L",
             "W",
             "L"
           ],
           "recent_matches": [
             {
-              "date": "06/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Bohemian FC 0 - 2 FC Midtjylland",
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FSV Hollenbach 0 - 5 VfB Stuttgart",
               "result": "W"
             },
             {
-              "date": "02/08/2026",
-              "competition": "Superliga",
-              "teams_and_score": "FC Midtjylland 2 - 1 AC Horsens",
-              "result": "W"
-            },
+              "date": "30/05/2026",
+              "competition": "Oberliga: Baden-Wurttemberg",
+              "teams_and_score": "FSV Hollenbach 4 - 3 1. CfR Pforzheim",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Hollenbach",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
             {
-              "date": "30/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "FC Midtjylland 0 - 2 Beşiktaş",
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "FSV Hollenbach 0 - 5 VfB Stuttgart",
               "result": "L"
             },
             {
-              "date": "26/07/2026",
-              "competition": "Superliga",
-              "teams_and_score": "SoenderjyskE 2 - 3 FC Midtjylland",
-              "result": "W"
+              "date": "23/05/2026",
+              "competition": "DFB Cup: Final 25/26",
+              "teams_and_score": "Bayern Munich 3 - 0 VfB Stuttgart",
+              "result": "L"
             },
             {
-              "date": "23/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Beşiktaş 1 - 0 FC Midtjylland",
+              "date": "16/05/2026",
+              "competition": "Bundesliga 25/26",
+              "teams_and_score": "Eintracht Frankfurt 2 - 2 VfB Stuttgart",
+              "result": "D"
+            },
+            {
+              "date": "23/04/2026",
+              "competition": "DFB Cup: Semi-Finals 25/26",
+              "teams_and_score": "VfB Stuttgart 2 - 1 Freiburg",
+              "result": "L"
+            },
+            {
+              "date": "19/04/2026",
+              "competition": "Bundesliga 25/26",
+              "teams_and_score": "Bayern Munich 4 - 2 VfB Stuttgart",
               "result": "L"
             }
           ]
         }
       },
-      "statistics": {
-        "shots_on_target": {
-          "Bohemians": "2",
-          "FC Midtjylland": "5"
-        },
-        "shots_off_target": {
-          "Bohemians": "3",
-          "FC Midtjylland": "1"
-        },
-        "shots_blocked": {
-          "Bohemians": "1",
-          "FC Midtjylland": "1"
-        },
-        "corners": {
-          "Bohemians": "3",
-          "FC Midtjylland": "8"
-        },
-        "fouls": {
-          "Bohemians": "11",
-          "FC Midtjylland": "16"
-        },
-        "offsides": {
-          "Bohemians": "1",
-          "FC Midtjylland": "1"
-        },
-        "yellow_cards": {
-          "Bohemians": "3",
-          "FC Midtjylland": "3"
-        },
-        "goalkeeper_saves": {
-          "Bohemians": "4",
-          "FC Midtjylland": "2"
-        },
-        "ball_possession": {
-          "Bohemians": "37%",
-          "FC Midtjylland": "63%"
-        }
-      },
-      "description": "Watch Bohemians vs FC Midtjylland highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on August 6, 2026. The Bohemians hosted FC Midtjylland in a high-stakes UEFA Conference League encounter on August 6, 2026 , where both sides looked to establish dominance early on. The atmosphere was electric as the teams stepped onto the pitch for this crucial European fixture. Clinical Finishing in the Opening Period The match began with a flurry of physical challenges, leading to early yellow cards for Connor Parsons and Sofus Johannesen . However, the tactical discipline of FC Midtjylland soon paid dividends. In the 28th minute, Sofus Johannesen turned provider, delivering a precise ball to Franculino . The forward made no mistake, firing home with his left foot to break the deadlock. Bohemians struggled to find an immediate response as the visitors controlled the tempo leading into the halftime break. Midtjylland Solidify the Lead The second half saw a significant tactical shift as FC Midtjylland introduced Gue-Sung Cho , Dario Osorio , and Adam Gabriel in a triple substitution. The game remained feisty, with Adam Gabriel and Denil Castillo both entering the referee's book. Bohemians attempted to refresh their attack by bringing on Dayle Rooney and Colm Whelan , but their momentum was halted in the 77th minute. Valdemar Byskov found space in the box and clinically finished with his right foot to double the visitors' advantage. In the closing stages, FC Midtjylland managed the game effectively, utilizing substitutions like Stanley Iheanacho to see out the remaining minutes. Despite late pressure and a yellow card for Dayle Rooney , the home side could not bridge the gap. The final whistle confirmed a professional performance from the Danish side, leaving them in a strong position in the tournament."
+      "statistics": {},
+      "description": "Watch VfB Stuttgart vs Hollenbach highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on July 25, 2026."
     },
     {
-      "title": "Maccabi Tel Aviv vs CSKA Sofia",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/maccabi-tel-aviv-vs-cska-sofia-2026-08-06-ohXm.webp",
-      "competition": "UEFA Europa League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-league.webp",
-      "date": "Aug 6, 2026",
+      "title": "Dinamo Zagreb vs FC Thun",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dinamo-zagreb-vs-fc-thun-2026-07-28-kHle.webp",
+      "competition": "UEFA Champions League",
+      "competition_cover": "https://refooty.com/covers/uefa-champions-league.webp",
+      "date": "Jul 28, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/853.webp",
-          "name": "CSKA Sofia",
-          "score": "3"
+          "logo": "https://img.refooty.com/logo/teams/1012.webp",
+          "name": "FC Thun",
+          "score": "2"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/604.webp",
-          "name": "Maccabi Tel Aviv",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/620.webp",
+          "name": "Dinamo Zagreb",
+          "score": "3"
         },
-        "status": "FT"
+        "status": "AET"
       },
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/maccabi-tel-aviv-vs-cska-sofia-2026-08-06_vXalg.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/dinamo-zagreb-vs-fc-thun-2026-07-28_cTk88.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "CSKA Sofia",
-          "player": "M. Ebong",
+          "team": "FC Thun",
+          "player": "B. Labeau",
           "event_type": "Goal",
-          "assist": "S. L. Godoy",
+          "assist": "N. O. Zoukit",
           "score_update": "0 - 1"
         },
         {
           "time": "16'",
-          "team": "CSKA Sofia",
-          "player": "Jordao",
+          "team": "Dinamo Zagreb",
+          "player": "M. Zajc",
           "event_type": "Yellow Card"
         },
         {
           "time": "31'",
-          "team": "CSKA Sofia",
-          "player": "S. L. Godoy",
+          "team": "FC Thun",
+          "player": "M. Burki",
           "event_type": "Goal",
-          "assist": "I. Pittas",
+          "assist": "F. Fehr",
           "score_update": "0 - 2"
         },
         {
           "time": "46'",
-          "team": "Maccabi Tel Aviv",
-          "player": "S. A. Farkhi",
+          "team": "Dinamo Zagreb",
+          "player": "B. Goda",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Dinamo Zagreb",
+          "player": "J. Mišić",
           "event_type": "Yellow Card"
         },
         {
           "time": "61'",
-          "team": "Maccabi Tel Aviv",
-          "player": "M. Camara",
+          "team": "Dinamo Zagreb",
+          "player": "F. Topic",
           "event_type": "Yellow Card"
         },
         {
-          "time": "54'",
-          "team": "CSKA Sofia",
-          "player": "I. Pittas",
-          "event_type": "Yellow Card"
+          "time": "76'",
+          "team": "FC Thun",
+          "player": "M. Burki",
+          "event_type": "Red Card"
         },
         {
-          "time": "85'",
-          "team": "Maccabi Tel Aviv",
-          "player": "R. Shlomo",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "85'",
-          "team": "CSKA Sofia",
-          "player": "J. Zwarts",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90'",
-          "team": "CSKA Sofia",
-          "player": "J. Zwarts",
+          "time": "91'",
+          "team": "Dinamo Zagreb",
+          "player": "D. Beljo",
           "event_type": "Goal",
-          "assist": "Pastor",
-          "score_update": "0 - 3"
+          "assist": "M. Valincic",
+          "score_update": "1 - 2"
         },
         {
-          "time": "90+4'",
-          "team": "CSKA Sofia",
-          "player": "S. Sensi",
+          "time": "106'",
+          "team": "Dinamo Zagreb",
+          "player": "L. Kačavenda",
+          "event_type": "Goal",
+          "assist": "F. Topic",
+          "score_update": "2 - 2"
+        },
+        {
+          "time": "91'",
+          "team": "Dinamo Zagreb",
+          "player": "M. Valincic",
+          "event_type": "Goal",
+          "assist": "J. Mišić",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "106'",
+          "team": "FC Thun",
+          "player": "C. Ibayi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "121'",
+          "team": "Dinamo Zagreb",
+          "player": "A. Hoxha",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Maccabi Tel Aviv_wins": "0",
-          "draws": "0",
-          "CSKA Sofia_wins": "0"
+          "Dinamo Zagreb_wins": "0",
+          "draws": "1",
+          "FC Thun_wins": "0"
         },
-        "previous_matches": [],
+        "previous_matches": [
+          {
+            "date": "21/07/2026",
+            "competition": "Qualification",
+            "teams_and_score": "Thun 1 - 1 Dinamo Zagreb"
+          }
+        ],
         "home_team_form": {
-          "team": "Maccabi Tel Aviv",
+          "team": "Dinamo Zagreb",
           "form": [
-            "L",
             "W",
+            "D",
             "W",
-            "D"
+            "W"
           ],
           "recent_matches": [
             {
-              "date": "06/08/2026",
+              "date": "28/07/2026",
               "competition": "Qualification",
-              "teams_and_score": "Maccabi Tel Aviv 0 - 3 PFC CSKA Sofia",
-              "result": "L"
-            },
-            {
-              "date": "16/07/2026",
-              "competition": "Super Cup",
-              "teams_and_score": "Hapoel Beer Sheva 1 - 3 Maccabi Tel Aviv",
-              "result": "W"
-            },
-            {
-              "date": "26/05/2026",
-              "competition": "State Cup",
-              "teams_and_score": "Hapoel Beer Sheva 1 - 2 Maccabi Tel Aviv",
+              "teams_and_score": "Dinamo Zagreb 3 - 2 Thun",
               "result": "W"
             },
             {
               "date": "23/05/2026",
-              "competition": "Premier League: Championship Group",
-              "teams_and_score": "Hapoel Petah Tikva 2 - 2 Maccabi Tel Aviv",
+              "competition": "HNL",
+              "teams_and_score": "Dinamo Zagreb 0 - 0 NK Lokomotiva",
               "result": "D"
+            },
+            {
+              "date": "13/05/2026",
+              "competition": "Cup",
+              "teams_and_score": "Dinamo Zagreb 2 - 0 Rijeka",
+              "result": "W"
+            },
+            {
+              "date": "09/05/2026",
+              "competition": "HNL",
+              "teams_and_score": "Dinamo Zagreb 2 - 0 Hajduk Split",
+              "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "CSKA Sofia",
+          "team": "FC Thun",
           "form": [
-            "W",
+            "L",
             "W",
             "D",
             "W",
@@ -815,33 +481,33 @@
           ],
           "recent_matches": [
             {
-              "date": "06/08/2026",
+              "date": "28/07/2026",
               "competition": "Qualification",
-              "teams_and_score": "Maccabi Tel Aviv 0 - 3 PFC CSKA Sofia",
+              "teams_and_score": "Dinamo Zagreb 3 - 2 Thun",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Super League",
+              "teams_and_score": "Luzern 1 - 3 Thun",
               "result": "W"
             },
             {
-              "date": "02/08/2026",
-              "competition": "Parva Liga",
-              "teams_and_score": "PFC CSKA Sofia 2 - 1 Dunav Ruse",
-              "result": "W"
-            },
-            {
-              "date": "30/07/2026",
+              "date": "21/07/2026",
               "competition": "Qualification",
-              "teams_and_score": "PFC CSKA Sofia 0 - 0 Qarabag FK",
+              "teams_and_score": "Thun 1 - 1 Dinamo Zagreb",
               "result": "D"
             },
             {
-              "date": "27/07/2026",
-              "competition": "Parva Liga",
-              "teams_and_score": "PFC CSKA Sofia 3 - 2 Botev Plovdiv",
+              "date": "11/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Thun 1 - 2 Waldhof Mannheim",
               "result": "W"
             },
             {
-              "date": "23/07/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Qarabag FK 0 - 0 PFC CSKA Sofia",
+              "date": "17/05/2026",
+              "competition": "Super League: Championship Group 25/26",
+              "teams_and_score": "St. Gallen 1 - 1 Thun",
               "result": "D"
             }
           ]
@@ -849,50 +515,363 @@
       },
       "statistics": {
         "shots_on_target": {
-          "Maccabi Tel Aviv": "2",
-          "CSKA Sofia": "6"
+          "Dinamo Zagreb": "6",
+          "FC Thun": "3"
         },
         "shots_off_target": {
-          "Maccabi Tel Aviv": "5",
-          "CSKA Sofia": "8"
+          "Dinamo Zagreb": "16",
+          "FC Thun": "2"
         },
         "shots_blocked": {
-          "Maccabi Tel Aviv": "0",
-          "CSKA Sofia": "6"
+          "Dinamo Zagreb": "7",
+          "FC Thun": "3"
         },
         "corners": {
-          "Maccabi Tel Aviv": "2",
-          "CSKA Sofia": "2"
+          "Dinamo Zagreb": "14",
+          "FC Thun": "1"
         },
         "fouls": {
-          "Maccabi Tel Aviv": "21",
-          "CSKA Sofia": "15"
+          "Dinamo Zagreb": "15",
+          "FC Thun": "13"
         },
         "offsides": {
-          "Maccabi Tel Aviv": "1",
-          "CSKA Sofia": "0"
+          "Dinamo Zagreb": "0",
+          "FC Thun": "3"
         },
         "yellow_cards": {
-          "Maccabi Tel Aviv": "3",
-          "CSKA Sofia": "4"
+          "Dinamo Zagreb": "5",
+          "FC Thun": "1"
+        },
+        "red_cards": {
+          "Dinamo Zagreb": "0",
+          "FC Thun": "1"
         },
         "goalkeeper_saves": {
-          "Maccabi Tel Aviv": "3",
-          "CSKA Sofia": "2"
+          "Dinamo Zagreb": "1",
+          "FC Thun": "4"
+        },
+        "crosses": {
+          "Dinamo Zagreb": "10",
+          "FC Thun": "2"
         },
         "ball_possession": {
-          "Maccabi Tel Aviv": "56%",
-          "CSKA Sofia": "44%"
+          "Dinamo Zagreb": "76%",
+          "FC Thun": "24%"
         }
       },
-      "description": "Watch Maccabi Tel Aviv vs CSKA Sofia highlights and goals from UEFA Europa League on ReFooty: Football Highlights Hub. Match played on August 6, 2026. The atmosphere at the stadium was electric for this UEFA Europa League fixture, setting the stage for a high-stakes tactical battle. On August 6, 2026, both sides took to the pitch eager to prove their worth in European competition. Establishing Control The match ignited quickly, with the breakthrough arriving at the 9-minute mark. Max Ebong found the back of the net after a clinical assist from Leandro Godoy , handing the visitors an early lead. The goal energized the away side, who maintained their momentum throughout the first half. At 29 minutes, Leandro Godoy turned from provider to scorer, converting an assist from Ioannis Pittas to double the lead and put the pressure firmly on the home side heading into the break. A Clinical Finish The second half saw both managers turn to their benches to inject fresh energy into the match. Despite tactical adjustments by Maccabi Tel Aviv to try and find a way back, the defensive discipline remained high, even as yellow cards began to mount for both sides. The result was put beyond doubt in the 90th minute when Joel Zwarts latched onto a pass from Pastor to score the final goal, cementing a comprehensive victory for the visitors."
+      "description": "Watch Dinamo Zagreb vs FC Thun highlights and goals from UEFA Champions League on ReFooty: Football Highlights Hub. Match played on July 28, 2026. The atmosphere was electric as Dinamo Zagreb hosted FC Thun in a high-stakes UEFA Champions League encounter on July 28, 2026. This match proved to be a classic European night, filled with tactical shifts and an emotional roller-coaster that kept fans on the edge of their seats until the very last whistle. Early Shock for the Hosts The game began in nightmare fashion for the home side. Within just four minutes, FC Thun took a stunning lead through Brighton Labeau , who clinicaly finished a pass from Nassim Zoukit . Dinamo Zagreb struggled to find their rhythm, and their frustrations grew as Miha Zajc picked up an early booking. The situation turned from bad to worse in the 22nd minute when Marco Buerki doubled the visitors' lead, assisted by Fabio Fehr , leaving the Croatian champions staring at a mountain to climb. The Turning Point The momentum shifted dramatically in the 67th minute when goalscorer Marco Buerki was shown a straight red card. The decision sparked heavy protests from the FC Thun players, but the referee stood firm. With a man advantage, Dinamo Zagreb finally ignited. Dion Drena Beljo pulled one back in the 74th minute following a setup by Moris Valincic . The stadium erupted just five minutes later when substitute Lukas Kacavenda leveled the score, thanks to an assist from Fran Topic , forcing the contest into extra time. Extra-Time Drama and Victory The additional 30 minutes were a test of endurance. Dinamo Zagreb continued to pile on the pressure, and their persistence paid off in the 112th minute. Moris Valincic , turning from provider to scorer, netted the decisive goal after being played in by Josip Misic . Despite a late flurry of yellow cards for Arber Hoxha and Christopher Ibayi , and several tactical substitutions to kill the clock, Dinamo held on to secure a breathtaking 3-2 comeback victory."
     },
     {
-      "title": "FK Partizan vs FK Tobol Kostanay",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/fk-partizan-vs-fk-tobol-kostanay-2026-08-06-rTRz.webp",
-      "competition": "UEFA Europa Conference League",
-      "competition_cover": "https://refooty.com/covers/uefa-europa-conference-league.webp",
-      "date": "Aug 6, 2026",
+      "title": "Tottenham vs Getafe",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/tottenham-vs-getafe-2026-08-08-X60e.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/friendly.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/546.webp",
+          "name": "Getafe",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/15638.webp",
+          "name": "Tottenham",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/tottenham-vs-getafe-2026-08-08_5BotG.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {
+          "Tottenham_wins": "0",
+          "draws": "0",
+          "Getafe_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "25/10/2007",
+            "competition": "UEFA Cup Grp. G",
+            "teams_and_score": "Tottenham Hotspur 1 - 2 Getafe"
+          }
+        ],
+        "home_team_form": {
+          "team": "Tottenham",
+          "form": [
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Tottenham Hotspur 1 - 1 Getafe",
+              "result": "D"
+            },
+            {
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Tottenham Hotspur 1 - 0 Everton",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Getafe",
+          "form": [
+            "D",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Tottenham Hotspur 1 - 1 Getafe",
+              "result": "D"
+            },
+            {
+              "date": "06/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "AS Monaco 1 - 0 Getafe",
+              "result": "L"
+            },
+            {
+              "date": "23/05/2026",
+              "competition": "LaLiga 25/26",
+              "teams_and_score": "Getafe 1 - 0 Osasuna",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Tottenham vs Getafe highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
+    },
+    {
+      "title": "NEC Nijmegen vs Telstar",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/nec-nijmegen-vs-telstar-2026-08-08-Fwnp.webp",
+      "competition": "Eredivisie",
+      "competition_cover": "https://refooty.com/covers/eredivisie.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/427.webp",
+          "name": "Telstar",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/413.webp",
+          "name": "NEC Nijmegen",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/nec-nijmegen-vs-telstar-2026-08-08_eQjBD.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Telstar",
+          "player": "P. Brouwer",
+          "event_type": "Goal",
+          "assist": "A. Soualhia",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Telstar",
+          "player": "R. Mendes",
+          "event_type": "Goal",
+          "assist": "P. Brouwer",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "NEC Nijmegen",
+          "player": "B. Pereira",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "NEC Nijmegen",
+          "player": "I. Hansen-Aaroen",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Telstar",
+          "player": "I. Ahmed",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Telstar",
+          "player": "R. K. Jr",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "106'",
+          "team": "NEC Nijmegen",
+          "player": "K. Sierhuis",
+          "event_type": "Goal",
+          "assist": "D. Tadić",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "NEC Nijmegen_wins": "1",
+          "draws": "2",
+          "Telstar_wins": "0"
+        },
+        "previous_matches": [
+          {
+            "date": "02/05/2026",
+            "competition": "Eredivisie",
+            "teams_and_score": "NEC Nijmegen 1 - 1 Telstar"
+          },
+          {
+            "date": "05/04/2021",
+            "competition": "Eerste Divisie 20/21",
+            "teams_and_score": "NEC Nijmegen 1 - 1 Telstar"
+          },
+          {
+            "date": "07/02/2020",
+            "competition": "Eerste Divisie",
+            "teams_and_score": "Telstar 1 - 7 NEC Nijmegen"
+          }
+        ],
+        "home_team_form": {
+          "team": "NEC Nijmegen",
+          "form": [
+            "L",
+            "D",
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "NEC Nijmegen 1 - 2 Telstar",
+              "result": "L"
+            },
+            {
+              "date": "04/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Olympiacos 0 - 0 NEC Nijmegen",
+              "result": "D"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "NEC Nijmegen 1 - 2 Sevilla",
+              "result": "L"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "NEC Nijmegen 0 - 1 Elversberg",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "NEC Nijmegen 2 - 1 Go Ahead Eagles",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Telstar",
+          "form": [
+            "W",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "08/08/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "NEC Nijmegen 1 - 2 Telstar",
+              "result": "W"
+            },
+            {
+              "date": "31/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Wolfsburg 3 - 1 Telstar",
+              "result": "L"
+            },
+            {
+              "date": "17/05/2026",
+              "competition": "Eredivisie",
+              "teams_and_score": "FC Volendam 1 - 2 Telstar",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "NEC Nijmegen": "4",
+          "Telstar": "3"
+        },
+        "shots_off_target": {
+          "NEC Nijmegen": "12",
+          "Telstar": "3"
+        },
+        "shots_blocked": {
+          "NEC Nijmegen": "11",
+          "Telstar": "2"
+        },
+        "corners": {
+          "NEC Nijmegen": "13",
+          "Telstar": "3"
+        },
+        "fouls": {
+          "NEC Nijmegen": "12",
+          "Telstar": "14"
+        },
+        "offsides": {
+          "NEC Nijmegen": "2",
+          "Telstar": "1"
+        },
+        "yellow_cards": {
+          "NEC Nijmegen": "2",
+          "Telstar": "2"
+        },
+        "goalkeeper_saves": {
+          "NEC Nijmegen": "1",
+          "Telstar": "3"
+        },
+        "crosses": {
+          "NEC Nijmegen": "10",
+          "Telstar": "2"
+        },
+        "ball_possession": {
+          "NEC Nijmegen": "71%",
+          "Telstar": "29%"
+        }
+      },
+      "description": "Watch NEC Nijmegen vs Telstar highlights and goals from Eredivisie on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Eredivisie match on 2026-08-08 presented a classic footballing tale of dominance versus clinical efficiency. While one side controlled the tempo and the ball, the other seized their moments with surgical precision to define the outcome. Telstar’s Early Blitz The match ignited within seconds of the kickoff. In the very 1st minute, Abdelnor Soualhia delivered a pinpoint ball that found Patrick Brouwer , who executed a stunning right-footed volley to give Telstar an immediate lead. NEC Nijmegen scrambled to respond, earning several corners through Sami Ouaissa , but their set-piece deliveries failed to find a target in a crowded box. The visitors doubled their advantage in the 24th minute, capitalizing on another defensive lapse. Patrick Brouwer turned provider this time, setting up Rui Mendes , who made no mistake with a composed left-footed finish. Despite NEC Nijmegen holding the lion's share of possession, they went into the break trailing by two goals, struggling to convert their territorial dominance into clear-cut chances. Sierhuis Sparks a Comeback Attempt The second half saw a flurry of tactical changes as NEC Nijmegen pushed desperately for a way back into the game. The introduction of Kaj Sierhuis proved inspired. In the 83rd minute, a move involving Clement Bischoff allowed Dusan Tadic to slide a pass to Kaj Sierhuis , who buried his shot into the back of the net. The goal electrified the stadium and set up a grandstand finish. Desperate Final Charges As the clock ticked toward the 90th minute, NEC Nijmegen threw everything forward, maintaining 71% possession throughout the contest. Bryan Linssen saw a goal-bound header saved comfortably by Ronald Koeman , who was later cautioned for time-wasting as Telstar clung to their lead. Despite six minutes of added time and relentless pressure from Emre Mor and Clement Bischoff , the visitors held firm to secure a hard-fought victory in front of 12,650 fans."
+    },
+    {
+      "title": "Chaves vs Academica",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/chaves-vs-academica-2026-08-08-pKcl.webp",
+      "competition": "Primeira Liga",
+      "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+      "date": "Aug 8, 2026",
       "events_info": {
         "away_team": {
           "logo": "",
@@ -909,7 +888,7 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/fk-partizan-vs-fk-tobol-kostanay-2026-08-06_Ep2Sm.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/chaves-vs-academica-2026-08-08_JnERP.m3u8"
         }
       ],
       "events_timeline": [],
@@ -928,12 +907,55 @@
         }
       },
       "statistics": {},
-      "description": "Watch FK Partizan vs FK Tobol Kostanay highlights and goals from UEFA Europa Conference League on ReFooty: Football Highlights Hub. Match played on August 6, 2026."
+      "description": "Watch Chaves vs Academica highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
+    },
+    {
+      "title": "Penafiel vs Portimonense",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/penafiel-vs-portimonense-2026-08-08-BZ90.webp",
+      "competition": "Primeira Liga",
+      "competition_cover": "https://refooty.com/covers/primeira-liga.webp",
+      "date": "Aug 8, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "",
+          "name": "Away Team",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "",
+          "name": "Home Team",
+          "score": "0"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/penafiel-vs-portimonense-2026-08-08_myduX.m3u8"
+        }
+      ],
+      "events_timeline": [],
+      "head_to_head": {
+        "summary": {},
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Home Team",
+          "form": [],
+          "recent_matches": []
+        },
+        "away_team_form": {
+          "team": "Away Team",
+          "form": [],
+          "recent_matches": []
+        }
+      },
+      "statistics": {},
+      "description": "Watch Penafiel vs Portimonense highlights and goals from Primeira Liga on ReFooty: Football Highlights Hub. Match played on August 8, 2026."
     }
   ],
   "hasMore": false,
-  "currentCount": 6,
-  "totalCount": 1706,
+  "currentCount": 7,
+  "totalCount": 1707,
   "currentPage": 35,
   "lastPage": 35
 }
