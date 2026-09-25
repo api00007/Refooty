@@ -2,8 +2,217 @@
   "team": "Reading",
   "team_logo": "https://img.refooty.com/logo/teams/53.webp",
   "total_matches": 4,
-  "Last update time": "05:50:11 AM 25-09-2026",
+  "Last update time": "06:07:21 AM 25-09-2026",
   "matches": [
+    {
+      "title": "Reading vs Brentford",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/reading-vs-brentford-2026-09-15-N5Cw.webp",
+      "competition": "Carabao",
+      "competition_cover": "https://refooty.com/covers/carabao.webp",
+      "date": "Sep 15, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/55.webp",
+          "name": "Brentford",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/53.webp",
+          "name": "Reading",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/reading-vs-brentford-2026-09-15.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "3'",
+          "team": "Brentford",
+          "player": "C. Wilson",
+          "event_type": "Goal",
+          "assist": "D. Ouattara",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "45+1'",
+          "team": "Brentford",
+          "player": "F. Carvalho",
+          "event_type": "Goal",
+          "assist": "D. Ouattara",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "46'",
+          "team": "Reading",
+          "player": "P. O'Connor",
+          "event_type": "Goal",
+          "assist": "C. Savage",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Reading_wins": "2",
+          "draws": "0",
+          "Brentford_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "10/02/2021",
+            "competition": "English Football League - Championship 2020/2021",
+            "teams_and_score": "Reading 1 - 3 Brentford"
+          },
+          {
+            "date": "30/06/2020",
+            "competition": "English Football League - Championship 2019/2020",
+            "teams_and_score": "Reading 0 - 3 Brentford"
+          },
+          {
+            "date": "13/04/2019",
+            "competition": "English Football League - Championship 2018/2019",
+            "teams_and_score": "Reading 2 - 1 Brentford"
+          },
+          {
+            "date": "20/01/2018",
+            "competition": "English Football League - Championship 2017/2018",
+            "teams_and_score": "Reading 0 - 1 Brentford"
+          },
+          {
+            "date": "14/02/2017",
+            "competition": "English Football League - Championship 2016/2017",
+            "teams_and_score": "Reading 3 - 2 Brentford"
+          }
+        ],
+        "home_team_form": {
+          "team": "Reading",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "D",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Reading 1 - 2 Brentford",
+              "result": "L"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "League 1",
+              "teams_and_score": "Cambridge United 2 - 1 Reading",
+              "result": "L"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Stevenage 0 - 3 Reading",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "League 1",
+              "teams_and_score": "AFC Wimbledon 0 - 0 Reading",
+              "result": "D"
+            },
+            {
+              "date": "18/08/2026",
+              "competition": "EFL Trophy South: Group C",
+              "teams_and_score": "Reading 1 - 1 Wycombe Wanderers",
+              "result": "D"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Brentford",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "15/09/2026",
+              "competition": "EFL Cup: Round 3",
+              "teams_and_score": "Reading 1 - 2 Brentford",
+              "result": "W"
+            },
+            {
+              "date": "12/09/2026",
+              "competition": "Premier League",
+              "teams_and_score": "AFC Bournemouth 2 - 2 Brentford",
+              "result": "D"
+            },
+            {
+              "date": "25/08/2026",
+              "competition": "EFL Cup: Round 2",
+              "teams_and_score": "Birmingham City 1 - 6 Brentford",
+              "result": "W"
+            },
+            {
+              "date": "22/08/2026",
+              "competition": "Premier League",
+              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Brentford 7 - 0 Eintracht Frankfurt",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Reading": "3",
+          "Brentford": "8"
+        },
+        "shots_off_target": {
+          "Reading": "8",
+          "Brentford": "10"
+        },
+        "shots_blocked": {
+          "Reading": "6",
+          "Brentford": "6"
+        },
+        "corners": {
+          "Reading": "5",
+          "Brentford": "7"
+        },
+        "fouls": {
+          "Reading": "8",
+          "Brentford": "11"
+        },
+        "offsides": {
+          "Reading": "2",
+          "Brentford": "3"
+        },
+        "goalkeeper_saves": {
+          "Reading": "7",
+          "Brentford": "2"
+        },
+        "crosses": {
+          "Reading": "5",
+          "Brentford": "7"
+        },
+        "ball_possession": {
+          "Reading": "29%",
+          "Brentford": "71%"
+        }
+      },
+      "description": "Watch Reading vs Brentford highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on September 15, 2026. The Carabao Cup took center stage on September 15, 2026 , as Reading welcomed Brentford in a fixture defined by early clinical finishing and a high-octane second-half resurgence. Both sides displayed immense tactical discipline in a match that kept the spectators on the edge of their seats until the final whistle. Brentford Strike Early Brentford wasted no time establishing their dominance, finding the back of the net just three minutes into the contest. Callum Wilson clinical right-footed finish into the bottom left corner, courtesy of a Dango Ouattara assist, silenced the home crowd and set the tone for the first half. Reading attempted to claw their way back, with Jamie Reid and Paudie O'Connor testing the visitors' resolve, but the Bees' defense remained organized under pressure. As the half progressed, Reading grew in confidence. Charlie Savage became the primary playmaker, delivering dangerous set-pieces that nearly resulted in an equalizer. However, Brentford goalkeeper Ellery Balcombe produced a vital save from a close-range Reid effort to preserve the lead. Doubling the Advantage Just as the first half drew to a close, Brentford dealt a significant blow to the hosts' ambitions. In the first minute of added time, Fábio Carvalho capitalized on another Dango Ouattara through ball to slot home a composed finish into the bottom right corner. Entering the break with a two-goal cushion, the visitors appeared to be in total control of the narrative. Reading’s Spirited Fightback The second half saw a revitalized Reading side emerge from the tunnel. After a sustained period of pressure involving multiple corners and blocked attempts by Josh Stokes , the breakthrough finally arrived in the 72nd minute. Paudie O'Connor rose highest in the box to power home a header from a Charlie Savage cross, breathing new life into the stadium. In a frantic final ten minutes, Brentford looked to catch Reading on the break, with Igor Thiago forcing two world-class saves from Joel Pereira . Despite a late flurry of substitutions and tactical shifts from both managers—including the introduction of Aaron Hickey for the visitors and George Earthy for the hosts— Brentford held firm to secure a 2-1 victory and their place in the next round."
+    },
     {
       "title": "Stevenage vs Reading",
       "thumbnail_url": "https://img.refooty.com/thumbnail/stevenage-vs-reading-2026-08-25-usLj.webp",
@@ -725,215 +934,6 @@
         }
       },
       "description": "Watch Reading vs Mansfield Town highlights and goals from League One on ReFooty: Football Highlights Hub. Match played on September 2, 2026. On September 2, 2026 , Reading played host to Mansfield Town in a League One encounter that provided a stark contrast in clinical finishing and defensive organization. The atmosphere at the stadium was filled with anticipation as both sides looked to secure vital points in their domestic campaign. A First-Half Blitz Mansfield Town wasted little time in establishing their authority on the pitch, moving the ball with purpose and exploiting gaps in the Reading backline. The deadlock was broken in the 35th minute when Jack Marriott clinical finish put the visitors ahead, following a delivery from Jeriel Dorsett . Before the hosts could regroup, their situation worsened as Benn Ward doubled the lead in the 40th minute, silencing the home crowd. The visitors were not finished with their first-half onslaught. In the 44th minute, George Earthy combined with Kyreece Lisbie to slot home a third, effectively putting the game out of reach before the interval. The referee's whistle for halftime brought a much-needed reprieve for a shell-shocked Reading side. Mansfield Complete the Rout The second half saw Reading attempt to salvage some pride with double substitutions at the restart, introducing Regan Hendry and George Maris . However, Mansfield Town remained relentless. In the 58th minute, Jack Marriott secured his second goal of the afternoon, assisted by Lewis Wing , to make it 4-0. The frustration for the home side boiled over in the 72nd minute when goalkeeper Joel Pereira was shown a yellow card. As the clock ticked down, Mansfield utilized their bench, bringing on fresh legs including Jacob Brown and Randell Williams . The tactical moves paid dividends in the 80th minute when Williams set up Brown for a fifth goal, putting the final exclamation point on a dominant performance. Despite late efforts from the hosts and the introduction of Charlie Savage , the match concluded with Mansfield Town securing a comprehensive and memorable victory."
-    },
-    {
-      "title": "Reading vs Brentford",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/reading-vs-brentford-2026-09-15-N5Cw.webp",
-      "competition": "Carabao",
-      "competition_cover": "https://refooty.com/covers/carabao.webp",
-      "date": "Sep 15, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/55.webp",
-          "name": "Brentford",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/53.webp",
-          "name": "Reading",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/reading-vs-brentford-2026-09-15.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "3'",
-          "team": "Brentford",
-          "player": "C. Wilson",
-          "event_type": "Goal",
-          "assist": "D. Ouattara",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "45+1'",
-          "team": "Brentford",
-          "player": "F. Carvalho",
-          "event_type": "Goal",
-          "assist": "D. Ouattara",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "46'",
-          "team": "Reading",
-          "player": "P. O'Connor",
-          "event_type": "Goal",
-          "assist": "C. Savage",
-          "score_update": "1 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Reading_wins": "2",
-          "draws": "0",
-          "Brentford_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "10/02/2021",
-            "competition": "English Football League - Championship 2020/2021",
-            "teams_and_score": "Reading 1 - 3 Brentford"
-          },
-          {
-            "date": "30/06/2020",
-            "competition": "English Football League - Championship 2019/2020",
-            "teams_and_score": "Reading 0 - 3 Brentford"
-          },
-          {
-            "date": "13/04/2019",
-            "competition": "English Football League - Championship 2018/2019",
-            "teams_and_score": "Reading 2 - 1 Brentford"
-          },
-          {
-            "date": "20/01/2018",
-            "competition": "English Football League - Championship 2017/2018",
-            "teams_and_score": "Reading 0 - 1 Brentford"
-          },
-          {
-            "date": "14/02/2017",
-            "competition": "English Football League - Championship 2016/2017",
-            "teams_and_score": "Reading 3 - 2 Brentford"
-          }
-        ],
-        "home_team_form": {
-          "team": "Reading",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "D",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/09/2026",
-              "competition": "EFL Cup: Round 3",
-              "teams_and_score": "Reading 1 - 2 Brentford",
-              "result": "L"
-            },
-            {
-              "date": "12/09/2026",
-              "competition": "League 1",
-              "teams_and_score": "Cambridge United 2 - 1 Reading",
-              "result": "L"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Stevenage 0 - 3 Reading",
-              "result": "W"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "League 1",
-              "teams_and_score": "AFC Wimbledon 0 - 0 Reading",
-              "result": "D"
-            },
-            {
-              "date": "18/08/2026",
-              "competition": "EFL Trophy South: Group C",
-              "teams_and_score": "Reading 1 - 1 Wycombe Wanderers",
-              "result": "D"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Brentford",
-          "form": [
-            "W",
-            "D",
-            "W",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "15/09/2026",
-              "competition": "EFL Cup: Round 3",
-              "teams_and_score": "Reading 1 - 2 Brentford",
-              "result": "W"
-            },
-            {
-              "date": "12/09/2026",
-              "competition": "Premier League",
-              "teams_and_score": "AFC Bournemouth 2 - 2 Brentford",
-              "result": "D"
-            },
-            {
-              "date": "25/08/2026",
-              "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Birmingham City 1 - 6 Brentford",
-              "result": "W"
-            },
-            {
-              "date": "22/08/2026",
-              "competition": "Premier League",
-              "teams_and_score": "Brentford 3 - 0 Tottenham Hotspur",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Brentford 7 - 0 Eintracht Frankfurt",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Reading": "3",
-          "Brentford": "8"
-        },
-        "shots_off_target": {
-          "Reading": "8",
-          "Brentford": "10"
-        },
-        "shots_blocked": {
-          "Reading": "6",
-          "Brentford": "6"
-        },
-        "corners": {
-          "Reading": "5",
-          "Brentford": "7"
-        },
-        "fouls": {
-          "Reading": "8",
-          "Brentford": "11"
-        },
-        "offsides": {
-          "Reading": "2",
-          "Brentford": "3"
-        },
-        "goalkeeper_saves": {
-          "Reading": "7",
-          "Brentford": "2"
-        },
-        "crosses": {
-          "Reading": "5",
-          "Brentford": "7"
-        },
-        "ball_possession": {
-          "Reading": "29%",
-          "Brentford": "71%"
-        }
-      },
-      "description": "Watch Reading vs Brentford highlights and goals from Carabao on ReFooty: Football Highlights Hub. Match played on September 15, 2026. The Carabao Cup took center stage on September 15, 2026 , as Reading welcomed Brentford in a fixture defined by early clinical finishing and a high-octane second-half resurgence. Both sides displayed immense tactical discipline in a match that kept the spectators on the edge of their seats until the final whistle. Brentford Strike Early Brentford wasted no time establishing their dominance, finding the back of the net just three minutes into the contest. Callum Wilson clinical right-footed finish into the bottom left corner, courtesy of a Dango Ouattara assist, silenced the home crowd and set the tone for the first half. Reading attempted to claw their way back, with Jamie Reid and Paudie O'Connor testing the visitors' resolve, but the Bees' defense remained organized under pressure. As the half progressed, Reading grew in confidence. Charlie Savage became the primary playmaker, delivering dangerous set-pieces that nearly resulted in an equalizer. However, Brentford goalkeeper Ellery Balcombe produced a vital save from a close-range Reid effort to preserve the lead. Doubling the Advantage Just as the first half drew to a close, Brentford dealt a significant blow to the hosts' ambitions. In the first minute of added time, Fábio Carvalho capitalized on another Dango Ouattara through ball to slot home a composed finish into the bottom right corner. Entering the break with a two-goal cushion, the visitors appeared to be in total control of the narrative. Reading’s Spirited Fightback The second half saw a revitalized Reading side emerge from the tunnel. After a sustained period of pressure involving multiple corners and blocked attempts by Josh Stokes , the breakthrough finally arrived in the 72nd minute. Paudie O'Connor rose highest in the box to power home a header from a Charlie Savage cross, breathing new life into the stadium. In a frantic final ten minutes, Brentford looked to catch Reading on the break, with Igor Thiago forcing two world-class saves from Joel Pereira . Despite a late flurry of substitutions and tactical shifts from both managers—including the introduction of Aaron Hickey for the visitors and George Earthy for the hosts— Brentford held firm to secure a 2-1 victory and their place in the next round."
     }
   ]
 }

@@ -2,8 +2,220 @@
   "team": "Dundee Fc",
   "team_logo": "https://img.refooty.com/logo/teams/253.webp",
   "total_matches": 7,
-  "Last update time": "05:50:10 AM 25-09-2026",
+  "Last update time": "06:07:21 AM 25-09-2026",
   "matches": [
+    {
+      "title": "Dundee - Motherwell",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-motherwell-2026-09-19-hL5W.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Sep 19, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/256.webp",
+          "name": "Motherwell",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/253.webp",
+          "name": "Dundee FC",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/dundee-motherwell-2026-09-19.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Dundee FC",
+          "player": "J. Westley",
+          "event_type": "Goal",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Dundee FC",
+          "player": "B. Fink",
+          "event_type": "Goal",
+          "assist": "R. Astley",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Motherwell",
+          "player": "A. Lowry",
+          "event_type": "Goal",
+          "assist": "T. Sparrow",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "67'",
+          "team": "Motherwell",
+          "player": "D. Williams",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Dundee FC",
+          "player": "O. Goodman",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Dundee FC_wins": "1",
+          "draws": "0",
+          "Motherwell_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "07/03/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee FC 2 - 1 Motherwell"
+          },
+          {
+            "date": "03/05/2025",
+            "competition": "Premiership: Relegation Group",
+            "teams_and_score": "Dundee FC 1 - 2 Motherwell"
+          },
+          {
+            "date": "26/02/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Motherwell 2 - 1 Dundee FC"
+          },
+          {
+            "date": "06/04/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Dundee FC 2 - 3 Motherwell"
+          }
+        ],
+        "home_team_form": {
+          "team": "Dundee FC",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 1 Motherwell",
+              "result": "W"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Dundee FC 4 - 0 Clyde",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Motherwell",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "D"
+          ],
+          "recent_matches": [
+            {
+              "date": "19/09/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 1 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Freiburg 4 - 1 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Stenhousemuir 1 - 0 Motherwell",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Motherwell 2 - 0 HJK Helsinki",
+              "result": "W"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Motherwell 0 - 0 Falkirk",
+              "result": "D"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Dundee FC": "6",
+          "Motherwell": "4"
+        },
+        "shots_off_target": {
+          "Dundee FC": "1",
+          "Motherwell": "5"
+        },
+        "shots_blocked": {
+          "Dundee FC": "4",
+          "Motherwell": "6"
+        },
+        "corners": {
+          "Dundee FC": "9",
+          "Motherwell": "9"
+        },
+        "fouls": {
+          "Dundee FC": "8",
+          "Motherwell": "9"
+        },
+        "offsides": {
+          "Dundee FC": "1",
+          "Motherwell": "1"
+        },
+        "yellow_cards": {
+          "Dundee FC": "1",
+          "Motherwell": "1"
+        },
+        "goalkeeper_saves": {
+          "Dundee FC": "3",
+          "Motherwell": "4"
+        },
+        "crosses": {
+          "Dundee FC": "5",
+          "Motherwell": "7"
+        },
+        "ball_possession": {
+          "Dundee FC": "37%",
+          "Motherwell": "63%"
+        }
+      },
+      "description": "Watch Dundee FC vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 19, 2026. A High-Stakes Premiership Encounter On September 19, 2026 , Dundee FC and Motherwell faced off in a compelling Premiership fixture. The atmosphere was charged with expectation as both clubs aimed to secure a vital result in this professional football match. First Half Momentum The game sparked into life when Dundee FC broke the deadlock. In the 22nd minute, Joe Westley stepped up to the spot and calmly converted a penalty to put the home side ahead. Motherwell , however, responded with grit. Just before the break, they turned the game on its head with two quick strikes. Bradley Fink leveled the score in the 40th minute, set up by Ryan Astley , and shortly after, Alex Lowry found the net with an assist from Tom Sparrow to give the visitors a lead heading into halftime. Tactical Shifts and Conclusion The second half saw a flurry of changes as both managers looked to dictate the tempo. While the intensity remained high, the physical nature of the game led to caution for players like Dylan Williams and Owen Goodman , who both entered the referee's book. Despite several tactical substitutions, including the arrival of fresh legs like Eythor Martin Bjoergolfsson and Idris Odutayo , the scoreline from the first period held firm. The final whistle confirmed a resilient performance from both sides in a game defined by its clinical finishing."
+    },
     {
       "title": "Heart of Midlothian - Dundee",
       "thumbnail_url": "https://img.refooty.com/thumbnail/heart-of-midlothian-dundee-2026-09-06-GVUe.webp",
@@ -260,437 +472,6 @@
         }
       },
       "description": "Watch Heart Of Midlothian vs Dundee FC highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 6, 2026. The Scottish Premiership delivered a spectacle of pure drama on September 6, 2026, as Heart of Midlothian faced off against Dundee FC . In a match that fluctuated between tactical discipline and chaotic outbursts, the final result was undecided until the very last kick of the game. Visitors Take an Early Grip The match began with an early tactical reshuffle for Dundee FC after Joe Westley was forced off just ten minutes in, replaced by Bobby Wales . Despite the disruption, the visitors found their rhythm quickly. In the 17th minute, Imari Samuels turned provider, delivering a pinpoint ball for Bradley Fink to clinicaly slot home. The remainder of the first half was a feisty affair, characterized by heavy challenges and yellow cards for Joshua McPake and Ryan Finnigan as both sides struggled to dominate the territory. Momentum Shifts and Penalty Precision As the second half progressed, a flurry of substitutions from both managers altered the flow of the contest. Heart of Midlothian began to hoard possession, searching for a way through a stubborn Dundee defense. The breakthrough finally arrived in the 85th minute when the referee pointed to the spot. Claudio Braga stepped up under immense pressure and fired his penalty home to level the scores, setting the stage for a grandstand finish. Stoppage Time Chaos and the Winner The game descended into chaos during added time. In the 90+1st minute, Zan Besir was shown a straight red card, sparking furious protests from the Dundee players. Reduced to ten men, the visitors could not hold out against the renewed waves of attack. In the 90+7th minute, Sabah Kerjota became the hero of the afternoon, converting a chance created by Joshua McPake to secure all three points. Kerjota received a yellow card for his celebrations, but it was a small price to pay for a stunning comeback victory."
-    },
-    {
-      "title": "Dundee - Hibernian",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-hibernian-2026-08-30-qvLy.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Aug 30, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/249.webp",
-          "name": "Hibernian",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/253.webp",
-          "name": "Dundee FC",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/dundee-hibernian-2026-08-30.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Hibernian",
-          "player": "M. Boyle",
-          "event_type": "Goal",
-          "assist": "G. Hanley",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "46'",
-          "team": "Hibernian",
-          "player": "F. Passlack",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Hibernian",
-          "player": "C. Wright",
-          "event_type": "Goal",
-          "assist": "F. Passlack",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "76'",
-          "team": "Dundee FC",
-          "player": "D. Wright",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "91'",
-          "team": "Dundee FC",
-          "player": "J. Westley",
-          "event_type": "Goal",
-          "score_update": "1 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Dundee FC_wins": "1",
-          "draws": "1",
-          "Hibernian_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "28/02/2026",
-            "competition": "Premiership",
-            "teams_and_score": "Dundee FC 3 - 3 Hibernian"
-          },
-          {
-            "date": "13/04/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Hibernian 4 - 0 Dundee FC"
-          },
-          {
-            "date": "24/02/2024",
-            "competition": "Premiership 23/24",
-            "teams_and_score": "Hibernian 2 - 1 Dundee FC"
-          },
-          {
-            "date": "10/05/2022",
-            "competition": "Premiership: Relegation Group 21/22",
-            "teams_and_score": "Dundee FC 3 - 1 Hibernian"
-          }
-        ],
-        "home_team_form": {
-          "team": "Dundee FC",
-          "form": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee FC 1 - 2 Hibernian",
-              "result": "L"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group D",
-              "teams_and_score": "Dundee FC 4 - 0 Clyde",
-              "result": "W"
-            },
-            {
-              "date": "18/07/2026",
-              "competition": "Club Friendlies 2026",
-              "teams_and_score": "Dundee FC 0 - 4 Everton",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Hibernian",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "D",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "30/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee FC 1 - 2 Hibernian",
-              "result": "W"
-            },
-            {
-              "date": "27/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Hibernian 2 - 3 Gent",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Hibernian 1 - 0 Partick Thistle",
-              "result": "W"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "KF Shkendija 0 - 0 Hibernian",
-              "result": "D"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Rangers 1 - 2 Hibernian",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Dundee FC": "3",
-          "Hibernian": "7"
-        },
-        "shots_off_target": {
-          "Dundee FC": "4",
-          "Hibernian": "7"
-        },
-        "shots_blocked": {
-          "Dundee FC": "4",
-          "Hibernian": "11"
-        },
-        "corners": {
-          "Dundee FC": "3",
-          "Hibernian": "5"
-        },
-        "fouls": {
-          "Dundee FC": "8",
-          "Hibernian": "14"
-        },
-        "offsides": {
-          "Dundee FC": "2",
-          "Hibernian": "4"
-        },
-        "yellow_cards": {
-          "Dundee FC": "1",
-          "Hibernian": "1"
-        },
-        "goalkeeper_saves": {
-          "Dundee FC": "5",
-          "Hibernian": "2"
-        },
-        "crosses": {
-          "Dundee FC": "4",
-          "Hibernian": "4"
-        },
-        "ball_possession": {
-          "Dundee FC": "39%",
-          "Hibernian": "61%"
-        }
-      },
-      "description": "Watch Dundee FC vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 30, 2026. On August 30, 2026 , Dundee FC and Hibernian faced off in a Scottish Premiership clash that promised plenty of action. Both teams looked to impose their style of play in a contest where every tactical decision could prove decisive. Clinical First Half from the Visitors The match began with high energy as both sides vied for control in the middle of the park. It was Hibernian who struck first in the 25th minute, breaking the deadlock through a well-worked move. Grant Hanley provided a pinpoint assist for Martin Boyle , who made no mistake in finding the back of the net. Dundee FC struggled to find an immediate response, as the visitors maintained a disciplined shape, ensuring they headed into the halftime break with a narrow lead. Second Half Shifts and Doubling the Lead The second half saw an increase in physical play, with Felix Passlack picking up a yellow card in the 58th minute. However, Passlack quickly turned from villain to hero just three minutes later. In the 61st minute, he set up Callum Wright , who clinicaly finished to double the lead for Hibernian . Following the goal, both managers turned to their benches. Dundee FC introduced Alan Forrest and Finlay Robertson to spark a comeback, while the game’s tempo remained frantic as Drey Wright also saw yellow for a mistimed challenge. Late Resurgence and Final Whistle As the clock ticked toward the final whistle, the drama intensified at Dens Park. In the 84th minute, Joe Westley managed to pull one back for Dundee FC , firing home to set up a grandstand finish. The closing stages were marked by a flurry of substitutions, including the arrival of Joe Newell and Miguel Chaiwa for the visitors to help see out the game. Despite late pressure from the hosts, the referee blew for full-time after three minutes of stoppage time, bringing an end to a captivating encounter."
-    },
-    {
-      "title": "Dundee - Motherwell",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-motherwell-2026-09-19-hL5W.webp",
-      "competition": "Premiership - Scotland",
-      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
-      "date": "Sep 19, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/256.webp",
-          "name": "Motherwell",
-          "score": "1"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/253.webp",
-          "name": "Dundee FC",
-          "score": "2"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/dundee-motherwell-2026-09-19.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Dundee FC",
-          "player": "J. Westley",
-          "event_type": "Goal",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Dundee FC",
-          "player": "B. Fink",
-          "event_type": "Goal",
-          "assist": "R. Astley",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Motherwell",
-          "player": "A. Lowry",
-          "event_type": "Goal",
-          "assist": "T. Sparrow",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "67'",
-          "team": "Motherwell",
-          "player": "D. Williams",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Dundee FC",
-          "player": "O. Goodman",
-          "event_type": "Yellow Card"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Dundee FC_wins": "1",
-          "draws": "0",
-          "Motherwell_wins": "3"
-        },
-        "previous_matches": [
-          {
-            "date": "07/03/2026",
-            "competition": "Premiership",
-            "teams_and_score": "Dundee FC 2 - 1 Motherwell"
-          },
-          {
-            "date": "03/05/2025",
-            "competition": "Premiership: Relegation Group",
-            "teams_and_score": "Dundee FC 1 - 2 Motherwell"
-          },
-          {
-            "date": "26/02/2025",
-            "competition": "Premiership",
-            "teams_and_score": "Motherwell 2 - 1 Dundee FC"
-          },
-          {
-            "date": "06/04/2024",
-            "competition": "Premiership 23/24",
-            "teams_and_score": "Dundee FC 2 - 3 Motherwell"
-          }
-        ],
-        "home_team_form": {
-          "team": "Dundee FC",
-          "form": [
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "19/09/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee FC 2 - 1 Motherwell",
-              "result": "W"
-            },
-            {
-              "date": "15/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
-              "result": "L"
-            },
-            {
-              "date": "08/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
-              "result": "W"
-            },
-            {
-              "date": "25/07/2026",
-              "competition": "Scottish League Cup: Group D",
-              "teams_and_score": "Dundee FC 4 - 0 Clyde",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Motherwell",
-          "form": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "D"
-          ],
-          "recent_matches": [
-            {
-              "date": "19/09/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Dundee FC 2 - 1 Motherwell",
-              "result": "L"
-            },
-            {
-              "date": "27/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Freiburg 4 - 1 Motherwell",
-              "result": "L"
-            },
-            {
-              "date": "16/08/2026",
-              "competition": "Scottish League Cup: Round of 16",
-              "teams_and_score": "Stenhousemuir 1 - 0 Motherwell",
-              "result": "L"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Qualification",
-              "teams_and_score": "Motherwell 2 - 0 HJK Helsinki",
-              "result": "W"
-            },
-            {
-              "date": "09/08/2026",
-              "competition": "Premiership",
-              "teams_and_score": "Motherwell 0 - 0 Falkirk",
-              "result": "D"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Dundee FC": "6",
-          "Motherwell": "4"
-        },
-        "shots_off_target": {
-          "Dundee FC": "1",
-          "Motherwell": "5"
-        },
-        "shots_blocked": {
-          "Dundee FC": "4",
-          "Motherwell": "6"
-        },
-        "corners": {
-          "Dundee FC": "9",
-          "Motherwell": "9"
-        },
-        "fouls": {
-          "Dundee FC": "8",
-          "Motherwell": "9"
-        },
-        "offsides": {
-          "Dundee FC": "1",
-          "Motherwell": "1"
-        },
-        "yellow_cards": {
-          "Dundee FC": "1",
-          "Motherwell": "1"
-        },
-        "goalkeeper_saves": {
-          "Dundee FC": "3",
-          "Motherwell": "4"
-        },
-        "crosses": {
-          "Dundee FC": "5",
-          "Motherwell": "7"
-        },
-        "ball_possession": {
-          "Dundee FC": "37%",
-          "Motherwell": "63%"
-        }
-      },
-      "description": "Watch Dundee FC vs Motherwell highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on September 19, 2026. A High-Stakes Premiership Encounter On September 19, 2026 , Dundee FC and Motherwell faced off in a compelling Premiership fixture. The atmosphere was charged with expectation as both clubs aimed to secure a vital result in this professional football match. First Half Momentum The game sparked into life when Dundee FC broke the deadlock. In the 22nd minute, Joe Westley stepped up to the spot and calmly converted a penalty to put the home side ahead. Motherwell , however, responded with grit. Just before the break, they turned the game on its head with two quick strikes. Bradley Fink leveled the score in the 40th minute, set up by Ryan Astley , and shortly after, Alex Lowry found the net with an assist from Tom Sparrow to give the visitors a lead heading into halftime. Tactical Shifts and Conclusion The second half saw a flurry of changes as both managers looked to dictate the tempo. While the intensity remained high, the physical nature of the game led to caution for players like Dylan Williams and Owen Goodman , who both entered the referee's book. Despite several tactical substitutions, including the arrival of fresh legs like Eythor Martin Bjoergolfsson and Idris Odutayo , the scoreline from the first period held firm. The final whistle confirmed a resilient performance from both sides in a game defined by its clinical finishing."
     },
     {
       "title": "Celtic - Dundee",
@@ -1572,6 +1353,225 @@
         }
       },
       "description": "Watch Dundee FC vs Aberdeen highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 8, 2026. The Scottish Premiership season continued with a high-stakes encounter as Dundee FC faced off against Aberdeen . Fans gathered in anticipation of a contest that promised both tactical discipline and offensive ambition from the opening whistle. Early Breakthrough and First Half Discipline On August 8, 2026 , the match ignited early with a showcase of clinical attacking play. In the 9th minute, the deadlock was broken when Joe Bevan turned provider, delivering a precise ball to Joe Westley , who made no mistake in finding the back of the net. This early advantage for Aberdeen set the tone for a physical contest, as Dundee FC struggled to find an immediate rhythm. The intensity of the match was reflected in the referee's notebook, starting with a yellow card for Alexander Briedl in the 12th minute. As the first half progressed, the battle in midfield grew more contested. Lewis Mayo received a booking in the 38th minute for a mistimed challenge, and goalscorer Joe Westley joined him in the book just before the interval in the 44th minute. Despite the cautions, the visitors remained composed, maintaining their lead as both sides retreated to the dressing rooms for half-time adjustments. Bevan Doubles the Lead as Substitutions Flow The second half began with a tactical reshuffle, as Dundee FC introduced Lewis Smith and Ayoub Mouloua to inject energy into their lineup. However, it was Aberdeen who struck again to tighten their grip on the match. In the 56th minute, the roles shifted for Joe Bevan ; after assisting the opener, he found the net himself to double the lead. This second goal provided a significant cushion and forced the hosts into further defensive vulnerability as they chased the game. The final half-hour saw a flurry of activity on the benches, with both managers utilizing their full squads. Players like Finlay Robertson , Ashley Hay , and Jack Milne were introduced to manage the closing stages. Although Jack Milne picked up a late yellow card in the 90th minute, the result was never in doubt. The referee blew the final whistle at 90+4 minutes, confirming a disciplined and effective performance by the visitors on the road."
+    },
+    {
+      "title": "Dundee - Hibernian",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/dundee-hibernian-2026-08-30-qvLy.webp",
+      "competition": "Premiership - Scotland",
+      "competition_cover": "https://refooty.com/covers/scottish-premiership.webp",
+      "date": "Aug 30, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/249.webp",
+          "name": "Hibernian",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/253.webp",
+          "name": "Dundee FC",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/dundee-hibernian-2026-08-30.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Hibernian",
+          "player": "M. Boyle",
+          "event_type": "Goal",
+          "assist": "G. Hanley",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "46'",
+          "team": "Hibernian",
+          "player": "F. Passlack",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Hibernian",
+          "player": "C. Wright",
+          "event_type": "Goal",
+          "assist": "F. Passlack",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "76'",
+          "team": "Dundee FC",
+          "player": "D. Wright",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Dundee FC",
+          "player": "J. Westley",
+          "event_type": "Goal",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Dundee FC_wins": "1",
+          "draws": "1",
+          "Hibernian_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "28/02/2026",
+            "competition": "Premiership",
+            "teams_and_score": "Dundee FC 3 - 3 Hibernian"
+          },
+          {
+            "date": "13/04/2025",
+            "competition": "Premiership",
+            "teams_and_score": "Hibernian 4 - 0 Dundee FC"
+          },
+          {
+            "date": "24/02/2024",
+            "competition": "Premiership 23/24",
+            "teams_and_score": "Hibernian 2 - 1 Dundee FC"
+          },
+          {
+            "date": "10/05/2022",
+            "competition": "Premiership: Relegation Group 21/22",
+            "teams_and_score": "Dundee FC 3 - 1 Hibernian"
+          }
+        ],
+        "home_team_form": {
+          "team": "Dundee FC",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 1 - 2 Hibernian",
+              "result": "L"
+            },
+            {
+              "date": "15/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Aberdeen 3 - 0 Dundee FC",
+              "result": "L"
+            },
+            {
+              "date": "08/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 2 - 0 Aberdeen",
+              "result": "W"
+            },
+            {
+              "date": "25/07/2026",
+              "competition": "Scottish League Cup: Group D",
+              "teams_and_score": "Dundee FC 4 - 0 Clyde",
+              "result": "W"
+            },
+            {
+              "date": "18/07/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Dundee FC 0 - 4 Everton",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Hibernian",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "D",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "30/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Dundee FC 1 - 2 Hibernian",
+              "result": "W"
+            },
+            {
+              "date": "27/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "Hibernian 2 - 3 Gent",
+              "result": "L"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Scottish League Cup: Round of 16",
+              "teams_and_score": "Hibernian 1 - 0 Partick Thistle",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Qualification",
+              "teams_and_score": "KF Shkendija 0 - 0 Hibernian",
+              "result": "D"
+            },
+            {
+              "date": "09/08/2026",
+              "competition": "Premiership",
+              "teams_and_score": "Rangers 1 - 2 Hibernian",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Dundee FC": "3",
+          "Hibernian": "7"
+        },
+        "shots_off_target": {
+          "Dundee FC": "4",
+          "Hibernian": "7"
+        },
+        "shots_blocked": {
+          "Dundee FC": "4",
+          "Hibernian": "11"
+        },
+        "corners": {
+          "Dundee FC": "3",
+          "Hibernian": "5"
+        },
+        "fouls": {
+          "Dundee FC": "8",
+          "Hibernian": "14"
+        },
+        "offsides": {
+          "Dundee FC": "2",
+          "Hibernian": "4"
+        },
+        "yellow_cards": {
+          "Dundee FC": "1",
+          "Hibernian": "1"
+        },
+        "goalkeeper_saves": {
+          "Dundee FC": "5",
+          "Hibernian": "2"
+        },
+        "crosses": {
+          "Dundee FC": "4",
+          "Hibernian": "4"
+        },
+        "ball_possession": {
+          "Dundee FC": "39%",
+          "Hibernian": "61%"
+        }
+      },
+      "description": "Watch Dundee FC vs Hibernian highlights and goals from Premiership - Scotland on ReFooty: Football Highlights Hub. Match played on August 30, 2026. On August 30, 2026 , Dundee FC and Hibernian faced off in a Scottish Premiership clash that promised plenty of action. Both teams looked to impose their style of play in a contest where every tactical decision could prove decisive. Clinical First Half from the Visitors The match began with high energy as both sides vied for control in the middle of the park. It was Hibernian who struck first in the 25th minute, breaking the deadlock through a well-worked move. Grant Hanley provided a pinpoint assist for Martin Boyle , who made no mistake in finding the back of the net. Dundee FC struggled to find an immediate response, as the visitors maintained a disciplined shape, ensuring they headed into the halftime break with a narrow lead. Second Half Shifts and Doubling the Lead The second half saw an increase in physical play, with Felix Passlack picking up a yellow card in the 58th minute. However, Passlack quickly turned from villain to hero just three minutes later. In the 61st minute, he set up Callum Wright , who clinicaly finished to double the lead for Hibernian . Following the goal, both managers turned to their benches. Dundee FC introduced Alan Forrest and Finlay Robertson to spark a comeback, while the game’s tempo remained frantic as Drey Wright also saw yellow for a mistimed challenge. Late Resurgence and Final Whistle As the clock ticked toward the final whistle, the drama intensified at Dens Park. In the 84th minute, Joe Westley managed to pull one back for Dundee FC , firing home to set up a grandstand finish. The closing stages were marked by a flurry of substitutions, including the arrival of Joe Newell and Miguel Chaiwa for the visitors to help see out the game. Despite late pressure from the hosts, the referee blew for full-time after three minutes of stoppage time, bringing an end to a captivating encounter."
     }
   ]
 }
