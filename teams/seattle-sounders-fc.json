@@ -1,9 +1,770 @@
 {
   "team": "Seattle Sounders Fc",
   "team_logo": "https://img.refooty.com/logo/teams/1595.webp",
-  "total_matches": 20,
-  "Last update time": "06:10:15 AM 27-09-2026",
+  "total_matches": 24,
+  "Last update time": "04:00:23 AM 28-09-2026",
   "matches": [
+    {
+      "title": "Vancouver Whitecaps - D.C. United",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/vancouver-whitecaps-dc-united-2026-09-27-c6Iq.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Sep 27, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1615.webp",
+          "name": "DC United",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1595.webp",
+          "name": "Seattle Sounders FC",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/vancouver-whitecaps-dc-united-2026-09-27.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Seattle Sounders FC",
+          "player": "J. Morris",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "DC United",
+          "player": "J. Diaz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Seattle Sounders FC",
+          "player": "H. Dotson",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "DC United",
+          "player": "A. Markanich",
+          "event_type": "Goal",
+          "assist": "B. Hlongwane",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "DC United",
+          "player": "O. Gene",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Seattle Sounders FC",
+          "player": "H. Dotson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Seattle Sounders FC",
+          "player": "P. Arriola",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "Seattle Sounders FC",
+          "player": "S. R. Hawkins",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Seattle Sounders FC_wins": "3",
+          "draws": "3",
+          "DC United_wins": "1"
+        },
+        "previous_matches": [
+          {
+            "date": "22/03/2026",
+            "competition": "MLS",
+            "teams_and_score": "Minnesota United 0 - 0 Seattle Sounders FC"
+          },
+          {
+            "date": "08/11/2025",
+            "competition": "MLS: Play-off 2025",
+            "teams_and_score": "Minnesota United 3 - 3 Seattle Sounders FC"
+          },
+          {
+            "date": "17/08/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Minnesota United 1 - 0 Seattle Sounders FC"
+          },
+          {
+            "date": "24/08/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Minnesota United 2 - 3 Seattle Sounders FC"
+          },
+          {
+            "date": "27/07/2024",
+            "competition": "Leagues Cup West Group 6",
+            "teams_and_score": "Seattle Sounders FC 2 - 0 Minnesota United"
+          },
+          {
+            "date": "16/06/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Seattle Sounders FC 2 - 0 Minnesota United"
+          },
+          {
+            "date": "27/08/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Minnesota United 1 - 1 Seattle Sounders FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Seattle Sounders FC",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Seattle Sounders FC 3 - 1 Minnesota United",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "DC United",
+          "form": [
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Seattle Sounders FC 3 - 1 Minnesota United",
+              "result": "L"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Minnesota United 3 - 1 Atlante",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Seattle Sounders FC": "8",
+          "DC United": "2"
+        },
+        "shots_off_target": {
+          "Seattle Sounders FC": "3",
+          "DC United": "7"
+        },
+        "shots_blocked": {
+          "Seattle Sounders FC": "2",
+          "DC United": "5"
+        },
+        "corners": {
+          "Seattle Sounders FC": "5",
+          "DC United": "7"
+        },
+        "fouls": {
+          "Seattle Sounders FC": "12",
+          "DC United": "6"
+        },
+        "offsides": {
+          "Seattle Sounders FC": "1",
+          "DC United": "1"
+        },
+        "yellow_cards": {
+          "Seattle Sounders FC": "2",
+          "DC United": "2"
+        },
+        "goalkeeper_saves": {
+          "Seattle Sounders FC": "0",
+          "DC United": "5"
+        },
+        "ball_possession": {
+          "Seattle Sounders FC": "55%",
+          "DC United": "45%"
+        }
+      },
+      "description": "Watch Seattle Sounders FC vs DC United highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 27, 2026. A hard-fought battle in MLS On September 27, 2026, the Major League Soccer landscape was defined by an intense showdown between Seattle Sounders FC and D.C. United . Both sides showcased their ambition, delivering a performance characterized by constant tactical shifts and high-energy transitions throughout the evening. First half exchanges The Seattle Sounders FC struck first, with Jordan Morris finding the net in the 16th minute courtesy of an Albert Rusnak assist. The match remained a tight contest until Hassani Dotson leveled the score for D.C. United in the 35th minute, ensuring both teams headed into the locker rooms on even footing. Second half drama As the second half commenced, the momentum continued to swing. Anthony Markanich put D.C. United ahead in the 57th minute after being set up by Bongokuhle Hlongwane . Just when the visitors looked to seal the win, Paul Arriola stepped up in the 83rd minute, again assisted by Albert Rusnak , to level the score. The match was physically demanding, with the referee issuing yellow cards to Jefferson Diaz , Owen Gene , Hassani Dotson , and Stuart Russell Hawkins as tempers flared in the closing stages."
+    },
+    {
+      "title": "Seattle Sounders FC - Minnesota United | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/seattle-sounders-fc-minnesota-united-full-match-highlights-2026-09-27-y3ea.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Sep 27, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1595.webp",
+          "name": "Seattle Sounders FC",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1595.webp",
+          "name": "Seattle Sounders FC",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/seattle-sounders-fc-minnesota-united-full-match-highlights-2026-09-27.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Seattle Sounders FC",
+          "player": "J. Morris",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Seattle Sounders FC",
+          "player": "J. Diaz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Seattle Sounders FC",
+          "player": "H. Dotson",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Seattle Sounders FC",
+          "player": "A. Markanich",
+          "event_type": "Goal",
+          "assist": "B. Hlongwane",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Seattle Sounders FC",
+          "player": "O. Gene",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Seattle Sounders FC",
+          "player": "H. Dotson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Seattle Sounders FC",
+          "player": "P. Arriola",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "Seattle Sounders FC",
+          "player": "S. R. Hawkins",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Seattle Sounders FC_wins": "1",
+          "draws": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "22/03/2026",
+            "competition": "MLS",
+            "teams_and_score": "Minnesota United 0 - 0 Seattle Sounders FC"
+          },
+          {
+            "date": "08/11/2025",
+            "competition": "MLS: Play-off 2025",
+            "teams_and_score": "Minnesota United 3 - 3 Seattle Sounders FC"
+          },
+          {
+            "date": "17/08/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Minnesota United 1 - 0 Seattle Sounders FC"
+          },
+          {
+            "date": "24/08/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Minnesota United 2 - 3 Seattle Sounders FC"
+          },
+          {
+            "date": "27/07/2024",
+            "competition": "Leagues Cup West Group 6",
+            "teams_and_score": "Seattle Sounders FC 2 - 0 Minnesota United"
+          },
+          {
+            "date": "16/06/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Seattle Sounders FC 2 - 0 Minnesota United"
+          },
+          {
+            "date": "27/08/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Minnesota United 1 - 1 Seattle Sounders FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Seattle Sounders FC",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Seattle Sounders FC 3 - 1 Minnesota United",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Seattle Sounders FC",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Seattle Sounders FC 3 - 1 Minnesota United",
+              "result": "W"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Minnesota United 3 - 1 Atlante",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Seattle Sounders FC": "2"
+        },
+        "shots_off_target": {
+          "Seattle Sounders FC": "7"
+        },
+        "shots_blocked": {
+          "Seattle Sounders FC": "5"
+        },
+        "corners": {
+          "Seattle Sounders FC": "7"
+        },
+        "fouls": {
+          "Seattle Sounders FC": "6"
+        },
+        "offsides": {
+          "Seattle Sounders FC": "1"
+        },
+        "yellow_cards": {
+          "Seattle Sounders FC": "2"
+        },
+        "goalkeeper_saves": {
+          "Seattle Sounders FC": "5"
+        },
+        "ball_possession": {
+          "Seattle Sounders FC": "45%"
+        }
+      },
+      "description": "Watch Seattle Sounders FC vs Seattle Sounders FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 27, 2026. On September 27, 2026, the MLS spotlight shone brightly on a captivating encounter between Seattle Sounders FC and Minnesota United . The match delivered a masterclass in resilience and tactical shifts, keeping the crowd on the edge of their seats from start to finish. Early Dominance and Response Seattle Sounders FC initiated the contest with high intensity, looking to exploit their home advantage. Their efforts were rewarded in the 16th minute when Albert Rusnak provided a sublime assist for Jordan Morris , who clinicaly finished to give the hosts the lead. However, Minnesota United refused to be intimidated. Despite an early yellow card for Jefferson Diaz , the visitors found their rhythm and leveled the score in the 35th minute through a well-taken goal by Hassani Dotson , ensuring a tense atmosphere heading into the break. Momentum Shifts in the Second Half The second half began with Minnesota United showing renewed vigor. In the 57th minute, the game was turned on its head as Bongokuhle Hlongwane set up Anthony Markanich for a crucial goal that put the visitors in front. The match grew increasingly physical, with Owen Gene and Hassani Dotson both receiving yellow cards as the battle in midfield intensified. Seattle responded with a series of tactical substitutions, bringing on fresh legs to chase the game. A Dramatic Conclusion As the clock ticked towards the final whistle, the pressure from the home side finally told. In the 83rd minute, Albert Rusnak once again proved to be the provider, finding Paul Arriola who fired home a dramatic equalizer. The final minutes were a whirlwind of activity, including a yellow card for Stuart Russell Hawkins and multiple substitutions as both managers looked to secure the result. Ultimately, the referee's final whistle confirmed a thrilling draw that reflected the competitive spirit of both clubs."
+    },
+    {
+      "title": "Nashville SC - Toronto FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/nashville-sc-toronto-fc-2026-09-27-w2vP.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Sep 27, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1595.webp",
+          "name": "Seattle Sounders FC",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/9569.webp",
+          "name": "Nashville SC",
+          "score": "2"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/nashville-sc-toronto-fc-2026-09-27.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Nashville SC",
+          "player": "H. Mukhtar",
+          "event_type": "Goal",
+          "assist": "C. Espinoza",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Nashville SC",
+          "player": "H. Mukhtar",
+          "event_type": "Goal",
+          "assist": "S. Surridge",
+          "score_update": "2 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Nashville SC_wins": "2",
+          "draws": "1",
+          "Seattle Sounders FC_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "09/09/2026",
+            "competition": "MLS",
+            "teams_and_score": "Toronto FC 2 - 1 Nashville SC"
+          },
+          {
+            "date": "20/07/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Nashville SC 1 - 0 Toronto FC"
+          },
+          {
+            "date": "19/06/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Toronto FC 1 - 2 Nashville SC"
+          },
+          {
+            "date": "10/06/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Toronto FC 1 - 1 Nashville SC"
+          },
+          {
+            "date": "07/08/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Nashville SC 3 - 4 Toronto FC"
+          },
+          {
+            "date": "18/09/2021",
+            "competition": "Major League Soccer 2021",
+            "teams_and_score": "Toronto FC 2 - 1 Nashville SC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Nashville SC",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Nashville SC 2 - 0 Toronto FC",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Monterrey 2 - 1 Nashville SC",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Seattle Sounders FC",
+          "form": [
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Nashville SC 2 - 0 Toronto FC",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Nashville SC": "11",
+          "Seattle Sounders FC": "3"
+        },
+        "shots_off_target": {
+          "Nashville SC": "7",
+          "Seattle Sounders FC": "3"
+        },
+        "shots_blocked": {
+          "Nashville SC": "5",
+          "Seattle Sounders FC": "5"
+        },
+        "corners": {
+          "Nashville SC": "9",
+          "Seattle Sounders FC": "3"
+        },
+        "fouls": {
+          "Nashville SC": "12",
+          "Seattle Sounders FC": "9"
+        },
+        "offsides": {
+          "Nashville SC": "5",
+          "Seattle Sounders FC": "0"
+        },
+        "yellow_cards": {
+          "Nashville SC": "1",
+          "Seattle Sounders FC": "0"
+        },
+        "goalkeeper_saves": {
+          "Nashville SC": "3",
+          "Seattle Sounders FC": "9"
+        },
+        "ball_possession": {
+          "Nashville SC": "62%",
+          "Seattle Sounders FC": "38%"
+        }
+      },
+      "description": "Watch Nashville SC vs Seattle Sounders FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 27, 2026. A night to remember in Music City The atmosphere was electric on September 27, 2026, as Nashville SC hosted Seattle Sounders FC in a crucial MLS (Major League Soccer) fixture. Both sides entered the match with clear intentions, aiming to dictate the tempo early and secure vital points in a highly competitive league environment. Mukhtar takes center stage It was a night dominated by the brilliance of Hany Mukhtar , who proved to be the difference-maker throughout the first half. The breakthrough came early in the 16th minute when Cristian Espinoza delivered a precise assist for Mukhtar to put his team ahead. The momentum remained firmly with the hosts as they continued to press, eventually doubling their lead in the 43rd minute. This time, it was Sam Surridge who provided the delivery for Mukhtar , who finished clinically to put the result firmly in his side’s control heading into the break. Maintaining the advantage The second half saw Nashville SC expertly navigate the remaining time, managing the game flow with tactical discipline. A flurry of substitutions in the second 45 minutes, including the introduction of Alex Muyl , Josh Bauer , and Bryan Acosta , kept the energy levels high. Despite the efforts of Seattle Sounders FC to claw their way back through late tactical shifts involving Kobe Franklin and Alejandro Piedrahita , the defense held firm. When the final whistle blew at 90+6 minutes, the home side had comfortably secured their victory."
+    },
+    {
+      "title": "CF Montréal - FC Cincinnati | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/cf-montreal-fc-cincinnati-full-match-highlights-2026-09-27-intN.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Sep 27, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1595.webp",
+          "name": "Seattle Sounders FC",
+          "score": "1"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1595.webp",
+          "name": "Seattle Sounders FC",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/cf-montreal-fc-cincinnati-full-match-highlights-2026-09-27.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Seattle Sounders FC",
+          "player": "J. Morris",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Seattle Sounders FC",
+          "player": "J. Diaz",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "31'",
+          "team": "Seattle Sounders FC",
+          "player": "H. Dotson",
+          "event_type": "Goal",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "46'",
+          "team": "Seattle Sounders FC",
+          "player": "A. Markanich",
+          "event_type": "Goal",
+          "assist": "B. Hlongwane",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "61'",
+          "team": "Seattle Sounders FC",
+          "player": "O. Gene",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Seattle Sounders FC",
+          "player": "H. Dotson",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "91'",
+          "team": "Seattle Sounders FC",
+          "player": "P. Arriola",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "106'",
+          "team": "Seattle Sounders FC",
+          "player": "S. R. Hawkins",
+          "event_type": "Yellow Card"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Seattle Sounders FC_wins": "1",
+          "draws": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "22/03/2026",
+            "competition": "MLS",
+            "teams_and_score": "Minnesota United 0 - 0 Seattle Sounders FC"
+          },
+          {
+            "date": "08/11/2025",
+            "competition": "MLS: Play-off 2025",
+            "teams_and_score": "Minnesota United 3 - 3 Seattle Sounders FC"
+          },
+          {
+            "date": "17/08/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Minnesota United 1 - 0 Seattle Sounders FC"
+          },
+          {
+            "date": "24/08/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Minnesota United 2 - 3 Seattle Sounders FC"
+          },
+          {
+            "date": "27/07/2024",
+            "competition": "Leagues Cup West Group 6",
+            "teams_and_score": "Seattle Sounders FC 2 - 0 Minnesota United"
+          },
+          {
+            "date": "16/06/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Seattle Sounders FC 2 - 0 Minnesota United"
+          },
+          {
+            "date": "27/08/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Minnesota United 1 - 1 Seattle Sounders FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Seattle Sounders FC",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Seattle Sounders FC 3 - 1 Minnesota United",
+              "result": "W"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Seattle Sounders FC",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "27/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Seattle Sounders FC 3 - 1 Minnesota United",
+              "result": "W"
+            },
+            {
+              "date": "12/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Minnesota United 3 - 1 Atlante",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Seattle Sounders FC": "2"
+        },
+        "shots_off_target": {
+          "Seattle Sounders FC": "7"
+        },
+        "shots_blocked": {
+          "Seattle Sounders FC": "5"
+        },
+        "corners": {
+          "Seattle Sounders FC": "7"
+        },
+        "fouls": {
+          "Seattle Sounders FC": "6"
+        },
+        "offsides": {
+          "Seattle Sounders FC": "1"
+        },
+        "yellow_cards": {
+          "Seattle Sounders FC": "2"
+        },
+        "goalkeeper_saves": {
+          "Seattle Sounders FC": "5"
+        },
+        "ball_possession": {
+          "Seattle Sounders FC": "45%"
+        }
+      },
+      "description": "Watch Seattle Sounders FC vs Seattle Sounders FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 27, 2026. The MLS delivered a spectacle of intensity and tactical shifting in this high-stakes clash on September 27, 2026 . Both sides brought immense energy to the pitch, creating a physical encounter that kept supporters on the edge of their seats until the final whistle. Morris Strikes Early as Minnesota Responds The match ignited early when Seattle Sounders capitalized on a defensive lapse in the 16th minute. Albert Rusnak turned provider, delivering a clinical ball to Jordan Morris , who made no mistake in finding the back of the net. However, the momentum began to shift as the first half progressed. Minnesota United dug deep and found their rhythm, eventually leveling the score in the 35th minute through a determined strike from Hassani Dotson . The battle in midfield grew increasingly physical, highlighted by a yellow card for Jefferson Diaz as both teams fought for dominance before the break. Tactical Shifts and Late Heroics The second half saw the visitors turn the game on its head. In the 57th minute, Anthony Markanich put Minnesota in front after a brilliant setup by Bongokuhle Hlongwane . Facing a deficit, Seattle looked to their bench for inspiration, introducing Paul Arriola into the fray. The tactical gamble paid off in the 83rd minute; Albert Rusnak recorded his second assist of the night, finding Arriola , who clinically equalized to restore parity. Despite a late flurry of yellow cards for Owen Gene , Hassani Dotson , and Stuart Russell Hawkins , neither side could find a winner, leaving the points shared in a pulsating contest."
+    },
     {
       "title": "Seattle Sounders FC - Real Salt Lake | Full Match Highlights",
       "thumbnail_url": "https://img.refooty.com/thumbnail/seattle-sounders-fc-real-salt-lake-full-match-highlights-2026-09-24-Ph79.webp",
@@ -197,507 +958,6 @@
         }
       },
       "description": "Watch Seattle Sounders FC vs Seattle Sounders FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 24, 2026."
-    },
-    {
-      "title": "Seattle Sounders FC vs Austin FC",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/seattle-sounders-fc-vs-austin-fc-2026-08-20-uS5i.webp",
-      "competition": "Major League Soccer",
-      "competition_cover": "https://refooty.com/covers/mls.webp",
-      "date": "Aug 20, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/16489.webp",
-          "name": "Austin FC",
-          "score": "2"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1595.webp",
-          "name": "Seattle Sounders FC",
-          "score": "1"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/seattle-sounders-fc-vs-austin-fc-2026-08-20.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "46'",
-          "team": "Seattle Sounders FC",
-          "player": "K. Kossa-Rienzi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Austin FC",
-          "player": "F. Torres",
-          "event_type": "Goal",
-          "assist": "Z. Kolmanic",
-          "score_update": "0 - 1"
-        },
-        {
-          "time": "76'",
-          "team": "Austin FC",
-          "player": "G. Biro",
-          "event_type": "Goal",
-          "assist": "B. Vazquez",
-          "score_update": "0 - 2"
-        },
-        {
-          "time": "91'",
-          "team": "Seattle Sounders FC",
-          "player": "S. R. Hawkins",
-          "event_type": "Goal",
-          "assist": "A. Rusnak",
-          "score_update": "1 - 2"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Seattle Sounders FC_wins": "4",
-          "draws": "0",
-          "Austin FC_wins": "2"
-        },
-        "previous_matches": [
-          {
-            "date": "23/07/2026",
-            "competition": "MLS",
-            "teams_and_score": "Austin FC 3 - 1 Seattle Sounders FC"
-          },
-          {
-            "date": "21/09/2025",
-            "competition": "MLS 2025",
-            "teams_and_score": "Austin FC 2 - 1 Seattle Sounders FC"
-          },
-          {
-            "date": "14/07/2024",
-            "competition": "MLS 2024",
-            "teams_and_score": "Austin FC 0 - 1 Seattle Sounders FC"
-          },
-          {
-            "date": "31/08/2023",
-            "competition": "MLS 2023",
-            "teams_and_score": "Austin FC 1 - 2 Seattle Sounders FC"
-          },
-          {
-            "date": "11/09/2022",
-            "competition": "Major League Soccer 2022",
-            "teams_and_score": "Seattle Sounders FC 3 - 0 Austin FC"
-          },
-          {
-            "date": "23/07/2021",
-            "competition": "Major League Soccer 2021",
-            "teams_and_score": "Austin FC 0 - 1 Seattle Sounders FC"
-          }
-        ],
-        "home_team_form": {
-          "team": "Seattle Sounders FC",
-          "form": [
-            "L",
-            "L",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "20/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Seattle Sounders FC 1 - 2 Austin FC",
-              "result": "L"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
-              "result": "L"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Austin FC",
-          "form": [
-            "W",
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "20/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Seattle Sounders FC 1 - 2 Austin FC",
-              "result": "W"
-            },
-            {
-              "date": "14/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "CF America 1 - 1 Austin FC",
-              "result": "D"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Colorado Rapids 1 - 0 Austin FC",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "shots_on_target": {
-          "Seattle Sounders FC": "7",
-          "Austin FC": "7"
-        },
-        "shots_off_target": {
-          "Seattle Sounders FC": "6",
-          "Austin FC": "4"
-        },
-        "shots_blocked": {
-          "Seattle Sounders FC": "6",
-          "Austin FC": "1"
-        },
-        "corners": {
-          "Seattle Sounders FC": "7",
-          "Austin FC": "5"
-        },
-        "fouls": {
-          "Seattle Sounders FC": "10",
-          "Austin FC": "9"
-        },
-        "offsides": {
-          "Seattle Sounders FC": "0",
-          "Austin FC": "1"
-        },
-        "yellow_cards": {
-          "Seattle Sounders FC": "1",
-          "Austin FC": "0"
-        },
-        "goalkeeper_saves": {
-          "Seattle Sounders FC": "5",
-          "Austin FC": "6"
-        },
-        "ball_possession": {
-          "Seattle Sounders FC": "46%",
-          "Austin FC": "54%"
-        }
-      },
-      "description": "Watch Seattle Sounders FC vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 20, 2026. Tactical Battle in the Pacific Northwest On August 20, 2026, Seattle Sounders FC and Austin FC faced off in a Major League Soccer contest characterized by a fierce struggle for midfield control. Both sides looked to establish their dominance early on in a match that promised high stakes for the league table. Breaking the Deadlock After a tightly contested opening period, the game exploded into life during the second half. The deadlock was finally shattered in the 66th minute when Facundo Torres fired home following a setup from Zan Kolmanic . As the pressure mounted, both managers utilized their benches to inject fresh energy, leading to a frantic tactical reshuffle as the match progressed into its final phase. A Chaotic Finale The closing stages provided a spectacular display of late drama. Guilherme Biro drew level for his side in the 87th minute, courtesy of an assist from Brandon Vazquez . With momentum swinging wildly, the final word went to Stuart Russell Hawkins , who capitalized on a perfectly weighted ball from Albert Rusnak in the 90th minute. It was a breathless conclusion to a match that kept spectators on the edge of their seats until the final whistle."
-    },
-    {
-      "title": "Seattle FC - Club Querétaro | Leagues Cup | Full Match Highlights",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/seattle-fc-club-queretaro-leagues-cup-full-match-highlights-2026-08-09-lfdV.webp",
-      "competition": "Unknown Competition",
-      "competition_cover": "",
-      "date": "Aug 9, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/2290.webp",
-          "name": "Club Queretaro",
-          "score": "0"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1595.webp",
-          "name": "Seattle Sounders FC",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/seattle-fc-club-queretaro-leagues-cup-full-match-highlights-2026-08-09_1g0AY.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Seattle Sounders FC",
-          "player": "S. Gomez",
-          "event_type": "Goal",
-          "assist": "P. Rothrock",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "16'",
-          "team": "Seattle Sounders FC",
-          "player": "D. Musovski",
-          "event_type": "Goal",
-          "assist": "P. Rothrock",
-          "score_update": "2 - 0"
-        },
-        {
-          "time": "31'",
-          "team": "Seattle Sounders FC",
-          "player": "M. Anchor",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "46'",
-          "team": "Club Queretaro",
-          "player": "S. Homenchenko",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "61'",
-          "team": "Seattle Sounders FC",
-          "player": "A. Rusnak",
-          "event_type": "Goal",
-          "assist": "S. Gomez",
-          "score_update": "3 - 0"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Seattle Sounders FC_wins": "0",
-          "draws": "0",
-          "Club Queretaro_wins": "0"
-        },
-        "previous_matches": [],
-        "home_team_form": {
-          "team": "Seattle Sounders FC",
-          "form": [
-            "W",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
-              "result": "W"
-            },
-            {
-              "date": "02/08/2026",
-              "competition": "MLS",
-              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
-              "result": "L"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Club Queretaro",
-          "form": [
-            "L",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "09/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
-              "result": "L"
-            },
-            {
-              "date": "01/08/2026",
-              "competition": "Liga MX: Apertura",
-              "teams_and_score": "Queretaro FC 3 - 2 Tigres",
-              "result": "L"
-            },
-            {
-              "date": "25/04/2026",
-              "competition": "Liga MX: Clausura",
-              "teams_and_score": "Puebla 1 - 2 Queretaro FC",
-              "result": "W"
-            }
-          ]
-        }
-      },
-      "statistics": {},
-      "description": "Watch Seattle Sounders FC vs Club Queretaro highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
-    },
-    {
-      "title": "Colorado Rapids - Seattle Sounders FC",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/colorado-rapids-seattle-sounders-fc-2026-09-20-F3Vy.webp",
-      "competition": "Major League Soccer",
-      "competition_cover": "https://refooty.com/covers/mls.webp",
-      "date": "Sep 20, 2026",
-      "events_info": {
-        "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/1595.webp",
-          "name": "Seattle Sounders FC",
-          "score": "3"
-        },
-        "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/1610.webp",
-          "name": "Colorado Rapids",
-          "score": "3"
-        },
-        "status": "FT"
-      },
-      "streams": [
-        {
-          "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/colorado-rapids-seattle-sounders-fc-2026-09-20.m3u8"
-        }
-      ],
-      "events_timeline": [
-        {
-          "time": "1'",
-          "team": "Colorado Rapids",
-          "player": "M. Whittaker",
-          "event_type": "Goal",
-          "assist": "P. Aaronson",
-          "score_update": "1 - 0"
-        },
-        {
-          "time": "49'",
-          "team": "Seattle Sounders FC",
-          "player": "C. Roldan",
-          "event_type": "Goal",
-          "assist": "A. Rusnak",
-          "score_update": "1 - 1"
-        },
-        {
-          "time": "56'",
-          "team": "Colorado Rapids",
-          "player": "D. Phillip",
-          "event_type": "Goal",
-          "score_update": "2 - 1"
-        },
-        {
-          "time": "69'",
-          "team": "Colorado Rapids",
-          "player": "D. Phillip",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "76'",
-          "team": "Colorado Rapids",
-          "player": "M. Whittaker",
-          "event_type": "Goal",
-          "assist": "P. Aaronson",
-          "score_update": "3 - 1"
-        },
-        {
-          "time": "79'",
-          "team": "Seattle Sounders FC",
-          "player": "D. Joveljic",
-          "event_type": "Goal",
-          "assist": "S. Gomez",
-          "score_update": "3 - 2"
-        },
-        {
-          "time": "81'",
-          "team": "Colorado Rapids",
-          "player": "D. Yapi",
-          "event_type": "Yellow Card"
-        },
-        {
-          "time": "90+3'",
-          "team": "Seattle Sounders FC",
-          "player": "C. Clark",
-          "event_type": "Goal",
-          "assist": "A. Rusnak",
-          "score_update": "3 - 3"
-        }
-      ],
-      "head_to_head": {
-        "summary": {
-          "Colorado Rapids_wins": "0",
-          "draws": "2",
-          "Seattle Sounders FC_wins": "4"
-        },
-        "previous_matches": [
-          {
-            "date": "23/02/2026",
-            "competition": "MLS",
-            "teams_and_score": "Seattle Sounders FC 2 - 0 Colorado Rapids"
-          },
-          {
-            "date": "17/07/2025",
-            "competition": "MLS 2025",
-            "teams_and_score": "Seattle Sounders FC 3 - 3 Colorado Rapids"
-          },
-          {
-            "date": "06/10/2024",
-            "competition": "MLS 2024",
-            "teams_and_score": "Colorado Rapids 0 - 1 Seattle Sounders FC"
-          },
-          {
-            "date": "21/09/2023",
-            "competition": "MLS 2023",
-            "teams_and_score": "Colorado Rapids 1 - 2 Seattle Sounders FC"
-          },
-          {
-            "date": "24/07/2022",
-            "competition": "Major League Soccer 2022",
-            "teams_and_score": "Seattle Sounders FC 2 - 1 Colorado Rapids"
-          },
-          {
-            "date": "21/10/2021",
-            "competition": "Major League Soccer 2021",
-            "teams_and_score": "Colorado Rapids 1 - 1 Seattle Sounders FC"
-          }
-        ],
-        "home_team_form": {
-          "team": "Colorado Rapids",
-          "form": [
-            "D",
-            "L",
-            "W"
-          ],
-          "recent_matches": [
-            {
-              "date": "20/09/2026",
-              "competition": "MLS",
-              "teams_and_score": "Colorado Rapids 3 - 3 Seattle Sounders FC",
-              "result": "D"
-            },
-            {
-              "date": "17/09/2026",
-              "competition": "US Open Cup",
-              "teams_and_score": "Colorado Rapids 0 - 3 St. Louis City",
-              "result": "L"
-            },
-            {
-              "date": "13/09/2026",
-              "competition": "MLS",
-              "teams_and_score": "Colorado Rapids 1 - 0 CF Montreal",
-              "result": "W"
-            }
-          ]
-        },
-        "away_team_form": {
-          "team": "Seattle Sounders FC",
-          "form": [
-            "D",
-            "L"
-          ],
-          "recent_matches": [
-            {
-              "date": "20/09/2026",
-              "competition": "MLS",
-              "teams_and_score": "Colorado Rapids 3 - 3 Seattle Sounders FC",
-              "result": "D"
-            },
-            {
-              "date": "13/08/2026",
-              "competition": "Leagues Cup",
-              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
-              "result": "L"
-            }
-          ]
-        }
-      },
-      "statistics": {
-        "yellow_cards": {
-          "Colorado Rapids": "2",
-          "Seattle Sounders FC": "0"
-        },
-        "ball_possession": {
-          "Colorado Rapids": "0%",
-          "Seattle Sounders FC": "0%"
-        }
-      },
-      "description": "Watch Colorado Rapids vs Seattle Sounders FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 20, 2026. A High-Stakes Encounter on the Pitch On September 20, 2026, the Major League Soccer match between the Colorado Rapids and Seattle Sounders FC stood out as a true test of grit and tactical discipline. From the opening whistle, both teams pushed for control in an encounter defined by rapid momentum shifts and relentless attacking play. The Battle Unfolds The scoring broke open in the 28th minute when Morgan Whittaker found the back of the net following a crisp assist from Paxten Aaronson , handing the Colorado Rapids an early lead. The visitors rallied quickly after the interval, with Cristian Roldan leveling the score in the 49th minute courtesy of an Albert Rusnak setup. The pressure continued to mount, and at the 56th minute, Donavan Phillip restored the lead for the home side, though he found himself in the referee's notebook with a yellow card shortly after in the 69th minute. A Thrilling Conclusion The closing stages brought a flurry of excitement as the intensity reached its peak. Morgan Whittaker struck again in the 76th minute, assisted once more by Paxten Aaronson , to seemingly put the game out of reach. Yet, the Seattle Sounders FC responded with tenacity; Dejan Joveljic brought his side within one in the 79th minute following a Sebastian Gomez delivery. With time ticking away, the late drama reached its climax in the 90+3 minute, when Caden Clark fired home an equalizer after a second assist of the match from Albert Rusnak , sealing a hard-fought draw."
     },
     {
       "title": "Inter Miami CF - Atlético San Luis | Leagues Cup | Full Match Highlights",
@@ -3237,6 +3497,321 @@
       "description": "Watch Nashville SC vs Seattle Sounders FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 30, 2026."
     },
     {
+      "title": "Seattle Sounders FC vs Austin FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/seattle-sounders-fc-vs-austin-fc-2026-08-20-uS5i.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Aug 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/16489.webp",
+          "name": "Austin FC",
+          "score": "2"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1595.webp",
+          "name": "Seattle Sounders FC",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/seattle-sounders-fc-vs-austin-fc-2026-08-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "46'",
+          "team": "Seattle Sounders FC",
+          "player": "K. Kossa-Rienzi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Austin FC",
+          "player": "F. Torres",
+          "event_type": "Goal",
+          "assist": "Z. Kolmanic",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "76'",
+          "team": "Austin FC",
+          "player": "G. Biro",
+          "event_type": "Goal",
+          "assist": "B. Vazquez",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "91'",
+          "team": "Seattle Sounders FC",
+          "player": "S. R. Hawkins",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "1 - 2"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Seattle Sounders FC_wins": "4",
+          "draws": "0",
+          "Austin FC_wins": "2"
+        },
+        "previous_matches": [
+          {
+            "date": "23/07/2026",
+            "competition": "MLS",
+            "teams_and_score": "Austin FC 3 - 1 Seattle Sounders FC"
+          },
+          {
+            "date": "21/09/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Austin FC 2 - 1 Seattle Sounders FC"
+          },
+          {
+            "date": "14/07/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Austin FC 0 - 1 Seattle Sounders FC"
+          },
+          {
+            "date": "31/08/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Austin FC 1 - 2 Seattle Sounders FC"
+          },
+          {
+            "date": "11/09/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Seattle Sounders FC 3 - 0 Austin FC"
+          },
+          {
+            "date": "23/07/2021",
+            "competition": "Major League Soccer 2021",
+            "teams_and_score": "Austin FC 0 - 1 Seattle Sounders FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Seattle Sounders FC",
+          "form": [
+            "L",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 Austin FC",
+              "result": "L"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
+              "result": "L"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Austin FC",
+          "form": [
+            "W",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 Austin FC",
+              "result": "W"
+            },
+            {
+              "date": "14/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "CF America 1 - 1 Austin FC",
+              "result": "D"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Colorado Rapids 1 - 0 Austin FC",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "Seattle Sounders FC": "7",
+          "Austin FC": "7"
+        },
+        "shots_off_target": {
+          "Seattle Sounders FC": "6",
+          "Austin FC": "4"
+        },
+        "shots_blocked": {
+          "Seattle Sounders FC": "6",
+          "Austin FC": "1"
+        },
+        "corners": {
+          "Seattle Sounders FC": "7",
+          "Austin FC": "5"
+        },
+        "fouls": {
+          "Seattle Sounders FC": "10",
+          "Austin FC": "9"
+        },
+        "offsides": {
+          "Seattle Sounders FC": "0",
+          "Austin FC": "1"
+        },
+        "yellow_cards": {
+          "Seattle Sounders FC": "1",
+          "Austin FC": "0"
+        },
+        "goalkeeper_saves": {
+          "Seattle Sounders FC": "5",
+          "Austin FC": "6"
+        },
+        "ball_possession": {
+          "Seattle Sounders FC": "46%",
+          "Austin FC": "54%"
+        }
+      },
+      "description": "Watch Seattle Sounders FC vs Austin FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on August 20, 2026. Tactical Battle in the Pacific Northwest On August 20, 2026, Seattle Sounders FC and Austin FC faced off in a Major League Soccer contest characterized by a fierce struggle for midfield control. Both sides looked to establish their dominance early on in a match that promised high stakes for the league table. Breaking the Deadlock After a tightly contested opening period, the game exploded into life during the second half. The deadlock was finally shattered in the 66th minute when Facundo Torres fired home following a setup from Zan Kolmanic . As the pressure mounted, both managers utilized their benches to inject fresh energy, leading to a frantic tactical reshuffle as the match progressed into its final phase. A Chaotic Finale The closing stages provided a spectacular display of late drama. Guilherme Biro drew level for his side in the 87th minute, courtesy of an assist from Brandon Vazquez . With momentum swinging wildly, the final word went to Stuart Russell Hawkins , who capitalized on a perfectly weighted ball from Albert Rusnak in the 90th minute. It was a breathless conclusion to a match that kept spectators on the edge of their seats until the final whistle."
+    },
+    {
+      "title": "Seattle FC - Club Querétaro | Leagues Cup | Full Match Highlights",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/seattle-fc-club-queretaro-leagues-cup-full-match-highlights-2026-08-09-lfdV.webp",
+      "competition": "Unknown Competition",
+      "competition_cover": "",
+      "date": "Aug 9, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/2290.webp",
+          "name": "Club Queretaro",
+          "score": "0"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1595.webp",
+          "name": "Seattle Sounders FC",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/seattle-fc-club-queretaro-leagues-cup-full-match-highlights-2026-08-09_1g0AY.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Seattle Sounders FC",
+          "player": "S. Gomez",
+          "event_type": "Goal",
+          "assist": "P. Rothrock",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "16'",
+          "team": "Seattle Sounders FC",
+          "player": "D. Musovski",
+          "event_type": "Goal",
+          "assist": "P. Rothrock",
+          "score_update": "2 - 0"
+        },
+        {
+          "time": "31'",
+          "team": "Seattle Sounders FC",
+          "player": "M. Anchor",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Club Queretaro",
+          "player": "S. Homenchenko",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Seattle Sounders FC",
+          "player": "A. Rusnak",
+          "event_type": "Goal",
+          "assist": "S. Gomez",
+          "score_update": "3 - 0"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Seattle Sounders FC_wins": "0",
+          "draws": "0",
+          "Club Queretaro_wins": "0"
+        },
+        "previous_matches": [],
+        "home_team_form": {
+          "team": "Seattle Sounders FC",
+          "form": [
+            "W",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
+              "result": "W"
+            },
+            {
+              "date": "02/08/2026",
+              "competition": "MLS",
+              "teams_and_score": "Portland Timbers 2 - 1 Seattle Sounders FC",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Club Queretaro",
+          "form": [
+            "L",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "09/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 3 - 0 Queretaro FC",
+              "result": "L"
+            },
+            {
+              "date": "01/08/2026",
+              "competition": "Liga MX: Apertura",
+              "teams_and_score": "Queretaro FC 3 - 2 Tigres",
+              "result": "L"
+            },
+            {
+              "date": "25/04/2026",
+              "competition": "Liga MX: Clausura",
+              "teams_and_score": "Puebla 1 - 2 Queretaro FC",
+              "result": "W"
+            }
+          ]
+        }
+      },
+      "statistics": {},
+      "description": "Watch Seattle Sounders FC vs Club Queretaro highlights and goals from Leagues Cup on ReFooty: Football Highlights Hub. Match played on August 9, 2026."
+    },
+    {
       "title": "LA Galaxy - Seattle Sounders FC",
       "thumbnail_url": "https://img.refooty.com/thumbnail/la-galaxy-seattle-sounders-fc-2026-09-13-TLBI.webp",
       "competition": "Major League Soccer",
@@ -3415,6 +3990,192 @@
         }
       },
       "description": "Watch LA Galaxy vs Seattle Sounders FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 13, 2026. The match between LA Galaxy and Seattle Sounders FC was billed as a high-stakes tactical encounter for both squads. Played on September 13, 2026, the game served as a testament to the competitive intensity found within Major League Soccer . A Penalty Breakout The first half was characterized by a cagey struggle for midfield dominance. Neither side wanted to commit too many numbers forward early on, but the complexion of the game shifted in the 44th minute. LA Galaxy earned a golden opportunity from the penalty spot, and Marco Reus clinically dispatched the effort, giving his side a hard-fought lead heading into the halftime break. Second Half Resilience Coming out for the second half, both managers turned to their benches to inject fresh energy into their respective setups. The game became increasingly open as players like Paul Arriola and Jordan Morris looked to force the issue. The breakthrough for the visitors arrived in the 81st minute, when Morris provided a pinpoint assist for Arriola , who slotted home the equalizer. Tensions rose as the clock ticked down, resulting in late bookings for Peter Kingston and Hassani Dotson , but neither side could find a winner before the final whistle signaled the end of a hard-earned draw."
+    },
+    {
+      "title": "Colorado Rapids - Seattle Sounders FC",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/colorado-rapids-seattle-sounders-fc-2026-09-20-F3Vy.webp",
+      "competition": "Major League Soccer",
+      "competition_cover": "https://refooty.com/covers/mls.webp",
+      "date": "Sep 20, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/1595.webp",
+          "name": "Seattle Sounders FC",
+          "score": "3"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/1610.webp",
+          "name": "Colorado Rapids",
+          "score": "3"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/colorado-rapids-seattle-sounders-fc-2026-09-20.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Colorado Rapids",
+          "player": "M. Whittaker",
+          "event_type": "Goal",
+          "assist": "P. Aaronson",
+          "score_update": "1 - 0"
+        },
+        {
+          "time": "49'",
+          "team": "Seattle Sounders FC",
+          "player": "C. Roldan",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "1 - 1"
+        },
+        {
+          "time": "56'",
+          "team": "Colorado Rapids",
+          "player": "D. Phillip",
+          "event_type": "Goal",
+          "score_update": "2 - 1"
+        },
+        {
+          "time": "69'",
+          "team": "Colorado Rapids",
+          "player": "D. Phillip",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "76'",
+          "team": "Colorado Rapids",
+          "player": "M. Whittaker",
+          "event_type": "Goal",
+          "assist": "P. Aaronson",
+          "score_update": "3 - 1"
+        },
+        {
+          "time": "79'",
+          "team": "Seattle Sounders FC",
+          "player": "D. Joveljic",
+          "event_type": "Goal",
+          "assist": "S. Gomez",
+          "score_update": "3 - 2"
+        },
+        {
+          "time": "81'",
+          "team": "Colorado Rapids",
+          "player": "D. Yapi",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "90+3'",
+          "team": "Seattle Sounders FC",
+          "player": "C. Clark",
+          "event_type": "Goal",
+          "assist": "A. Rusnak",
+          "score_update": "3 - 3"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "Colorado Rapids_wins": "0",
+          "draws": "2",
+          "Seattle Sounders FC_wins": "4"
+        },
+        "previous_matches": [
+          {
+            "date": "23/02/2026",
+            "competition": "MLS",
+            "teams_and_score": "Seattle Sounders FC 2 - 0 Colorado Rapids"
+          },
+          {
+            "date": "17/07/2025",
+            "competition": "MLS 2025",
+            "teams_and_score": "Seattle Sounders FC 3 - 3 Colorado Rapids"
+          },
+          {
+            "date": "06/10/2024",
+            "competition": "MLS 2024",
+            "teams_and_score": "Colorado Rapids 0 - 1 Seattle Sounders FC"
+          },
+          {
+            "date": "21/09/2023",
+            "competition": "MLS 2023",
+            "teams_and_score": "Colorado Rapids 1 - 2 Seattle Sounders FC"
+          },
+          {
+            "date": "24/07/2022",
+            "competition": "Major League Soccer 2022",
+            "teams_and_score": "Seattle Sounders FC 2 - 1 Colorado Rapids"
+          },
+          {
+            "date": "21/10/2021",
+            "competition": "Major League Soccer 2021",
+            "teams_and_score": "Colorado Rapids 1 - 1 Seattle Sounders FC"
+          }
+        ],
+        "home_team_form": {
+          "team": "Colorado Rapids",
+          "form": [
+            "D",
+            "L",
+            "W"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Colorado Rapids 3 - 3 Seattle Sounders FC",
+              "result": "D"
+            },
+            {
+              "date": "17/09/2026",
+              "competition": "US Open Cup",
+              "teams_and_score": "Colorado Rapids 0 - 3 St. Louis City",
+              "result": "L"
+            },
+            {
+              "date": "13/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Colorado Rapids 1 - 0 CF Montreal",
+              "result": "W"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Seattle Sounders FC",
+          "form": [
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "20/09/2026",
+              "competition": "MLS",
+              "teams_and_score": "Colorado Rapids 3 - 3 Seattle Sounders FC",
+              "result": "D"
+            },
+            {
+              "date": "13/08/2026",
+              "competition": "Leagues Cup",
+              "teams_and_score": "Seattle Sounders FC 1 - 2 CD Guadalajara",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "yellow_cards": {
+          "Colorado Rapids": "2",
+          "Seattle Sounders FC": "0"
+        },
+        "ball_possession": {
+          "Colorado Rapids": "0%",
+          "Seattle Sounders FC": "0%"
+        }
+      },
+      "description": "Watch Colorado Rapids vs Seattle Sounders FC highlights and goals from Major League Soccer on ReFooty: Football Highlights Hub. Match played on September 20, 2026. A High-Stakes Encounter on the Pitch On September 20, 2026, the Major League Soccer match between the Colorado Rapids and Seattle Sounders FC stood out as a true test of grit and tactical discipline. From the opening whistle, both teams pushed for control in an encounter defined by rapid momentum shifts and relentless attacking play. The Battle Unfolds The scoring broke open in the 28th minute when Morgan Whittaker found the back of the net following a crisp assist from Paxten Aaronson , handing the Colorado Rapids an early lead. The visitors rallied quickly after the interval, with Cristian Roldan leveling the score in the 49th minute courtesy of an Albert Rusnak setup. The pressure continued to mount, and at the 56th minute, Donavan Phillip restored the lead for the home side, though he found himself in the referee's notebook with a yellow card shortly after in the 69th minute. A Thrilling Conclusion The closing stages brought a flurry of excitement as the intensity reached its peak. Morgan Whittaker struck again in the 76th minute, assisted once more by Paxten Aaronson , to seemingly put the game out of reach. Yet, the Seattle Sounders FC responded with tenacity; Dejan Joveljic brought his side within one in the 79th minute following a Sebastian Gomez delivery. With time ticking away, the late drama reached its climax in the 90+3 minute, when Caden Clark fired home an equalizer after a second assist of the match from Albert Rusnak , sealing a hard-fought draw."
     }
   ]
 }
