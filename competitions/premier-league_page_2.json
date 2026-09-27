@@ -2,23 +2,23 @@
   "competition": "Premier League",
   "competition_cover": "https://refooty.com/covers/premier-league.webp",
   "total_matches": 51,
-  "Last update time": "08:10:16 PM 26-09-2026",
+  "Last update time": "05:50:45 AM 27-09-2026",
   "matches": [
     {
-      "title": "Hull City vs Aston Villa",
-      "thumbnail_url": "https://img.refooty.com/thumbnail/hull-city-v-aston-villa-2026-09-05-o3pL.webp",
+      "title": "Ipswich vs Liverpool",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/ipswich-v-liverpool-2026-09-04-a66p.webp",
       "competition": "Premier League",
       "competition_cover": "https://refooty.com/covers/premier-league.webp",
-      "date": "Sep 5, 2026",
+      "date": "Sep 4, 2026",
       "events_info": {
         "away_team": {
-          "logo": "https://img.refooty.com/logo/teams/66.webp",
-          "name": "Aston Villa",
-          "score": "0"
+          "logo": "https://img.refooty.com/logo/teams/40.webp",
+          "name": "Liverpool",
+          "score": "2"
         },
         "home_team": {
-          "logo": "https://img.refooty.com/logo/teams/64.webp",
-          "name": "Hull City",
+          "logo": "https://img.refooty.com/logo/teams/57.webp",
+          "name": "Ipswich",
           "score": "0"
         },
         "status": "FT"
@@ -26,162 +26,195 @@
       "streams": [
         {
           "part": "Full Stream",
-          "m3u8_url": "https://img.refooty.com/m3u8/Hull_City_v_Aston_Villa_2026_09_05.m3u8"
+          "m3u8_url": "https://img.refooty.com/m3u8/Ipswich_v_Liverpool_2026_09_04.m3u8"
         }
       ],
       "events_timeline": [
         {
           "time": "1'",
-          "team": "Hull City",
-          "player": "S. Ajayi",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Goal",
+          "assist": "C. Gakpo",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Liverpool",
+          "player": "A. Isak",
+          "event_type": "Goal",
+          "assist": "C. Gakpo",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "31'",
+          "team": "Liverpool",
+          "player": "A. M. Allister",
           "event_type": "Yellow Card"
         },
         {
           "time": "46'",
-          "team": "Hull City",
-          "player": "L. Gourna-Douath",
+          "team": "Ipswich",
+          "player": "J. Enciso",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "46'",
+          "team": "Liverpool",
+          "player": "J. Jacquet",
+          "event_type": "Yellow Card"
+        },
+        {
+          "time": "61'",
+          "team": "Liverpool",
+          "player": "M. Kerkez",
           "event_type": "Yellow Card"
         }
       ],
       "head_to_head": {
         "summary": {
-          "Hull City_wins": "1",
+          "Ipswich_wins": "0",
           "draws": "1",
-          "Aston Villa_wins": "0"
+          "Liverpool_wins": "2"
         },
         "previous_matches": [
           {
-            "date": "19/01/2019",
-            "competition": "Championship",
-            "teams_and_score": "Aston Villa 2 - 2 Hull City"
+            "date": "25/01/2025",
+            "competition": "Premier League 24/25",
+            "teams_and_score": "Liverpool 4 - 1 Ipswich Town"
           },
           {
-            "date": "10/02/2015",
+            "date": "04/12/2002",
+            "competition": "League Cup",
+            "teams_and_score": "Liverpool 1 - 1 Ipswich Town"
+          },
+          {
+            "date": "11/05/2002",
             "competition": "Premier League",
-            "teams_and_score": "Hull City 2 - 0 Aston Villa"
+            "teams_and_score": "Liverpool 5 - 0 Ipswich Town"
           }
         ],
         "home_team_form": {
-          "team": "Hull City",
+          "team": "Ipswich",
           "form": [
-            "D",
-            "D",
+            "L",
             "W",
-            "D",
+            "W",
             "W"
           ],
           "recent_matches": [
             {
-              "date": "05/09/2026",
+              "date": "04/09/2026",
               "competition": "Premier League",
-              "teams_and_score": "Hull City 0 - 0 Aston Villa",
-              "result": "D"
+              "teams_and_score": "Ipswich Town 0 - 2 Liverpool",
+              "result": "L"
             },
             {
               "date": "25/08/2026",
               "competition": "EFL Cup: Round 2",
-              "teams_and_score": "Stoke City 1 - 1 Hull City",
-              "result": "D"
+              "teams_and_score": "Ipswich Town 3 - 1 Leicester City",
+              "result": "W"
             },
             {
               "date": "22/08/2026",
               "competition": "Premier League",
-              "teams_and_score": "Hull City 2 - 0 Manchester United",
+              "teams_and_score": "Ipswich Town 2 - 1 Sunderland",
               "result": "W"
             },
             {
               "date": "15/08/2026",
               "competition": "Club Friendlies 2026",
-              "teams_and_score": "Hull City 0 - 0 Nice",
-              "result": "D"
-            },
-            {
-              "date": "23/05/2026",
-              "competition": "Championship: Play-offs 25/26",
-              "teams_and_score": "Hull City 1 - 0 Middlesbrough",
+              "teams_and_score": "Union Berlin 2 - 4 Ipswich Town",
               "result": "W"
             }
           ]
         },
         "away_team_form": {
-          "team": "Aston Villa",
+          "team": "Liverpool",
           "form": [
+            "W",
+            "W",
             "D",
             "L",
-            "L",
-            "L"
+            "D"
           ],
           "recent_matches": [
             {
-              "date": "05/09/2026",
+              "date": "04/09/2026",
               "competition": "Premier League",
-              "teams_and_score": "Hull City 0 - 0 Aston Villa",
+              "teams_and_score": "Ipswich Town 0 - 2 Liverpool",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Featured Club Friendlies",
+              "teams_and_score": "Liverpool 2 - 0 Como 1907",
+              "result": "W"
+            },
+            {
+              "date": "16/08/2026",
+              "competition": "Club Friendlies 2026",
+              "teams_and_score": "Liverpool 0 - 0 Como 1907",
               "result": "D"
             },
             {
-              "date": "15/08/2026",
+              "date": "09/08/2026",
               "competition": "Featured Club Friendlies",
-              "teams_and_score": "Borussia M'gladbach 2 - 1 Aston Villa",
+              "teams_and_score": "Liverpool 2 - 3 AS Monaco",
               "result": "L"
             },
             {
-              "date": "12/08/2026",
-              "competition": "UEFA Super Cup",
-              "teams_and_score": "Paris Saint-Germain 2 - 1 Aston Villa",
-              "result": "L"
-            },
-            {
-              "date": "07/08/2026",
-              "competition": "Featured Club Friendlies",
-              "teams_and_score": "Bayern Munich 2 - 1 Aston Villa",
-              "result": "L"
+              "date": "24/05/2026",
+              "competition": "Premier League 25/26",
+              "teams_and_score": "Liverpool 1 - 1 Brentford",
+              "result": "D"
             }
           ]
         }
       },
       "statistics": {
         "shots_on_target": {
-          "Hull City": "4",
-          "Aston Villa": "1"
+          "Ipswich": "5",
+          "Liverpool": "7"
         },
         "shots_off_target": {
-          "Hull City": "7",
-          "Aston Villa": "7"
+          "Ipswich": "5",
+          "Liverpool": "1"
         },
         "shots_blocked": {
-          "Hull City": "0",
-          "Aston Villa": "5"
+          "Ipswich": "4",
+          "Liverpool": "2"
         },
         "corners": {
-          "Hull City": "3",
-          "Aston Villa": "4"
+          "Ipswich": "4",
+          "Liverpool": "3"
         },
         "fouls": {
-          "Hull City": "10",
-          "Aston Villa": "5"
+          "Ipswich": "6",
+          "Liverpool": "13"
         },
         "offsides": {
-          "Hull City": "2",
-          "Aston Villa": "2"
+          "Ipswich": "5",
+          "Liverpool": "4"
         },
         "yellow_cards": {
-          "Hull City": "2",
-          "Aston Villa": "0"
+          "Ipswich": "1",
+          "Liverpool": "3"
         },
         "goalkeeper_saves": {
-          "Hull City": "1",
-          "Aston Villa": "4"
+          "Ipswich": "5",
+          "Liverpool": "5"
         },
         "crosses": {
-          "Hull City": "2",
-          "Aston Villa": "1"
+          "Ipswich": "4",
+          "Liverpool": "3"
         },
         "ball_possession": {
-          "Hull City": "27%",
-          "Aston Villa": "73%"
+          "Ipswich": "45%",
+          "Liverpool": "55%"
         }
       },
-      "description": "Watch Hull City vs Aston Villa highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 5, 2026. The atmosphere at the MKM Stadium was electric as Hull City hosted Aston Villa in a Premier League clash that pitted tactical resilience against sustained offensive pressure. Both sides were desperate to make an impact in this early-season fixture. Tactical Discipline at the Forefront On September 5, 2026 , the footballing world turned its attention to Hull , where the home side faced a stern test against an Aston Villa team looking to dominate from the outset. Villa controlled the tempo early on, enjoying a massive share of the ball. However, the first half was characterized more by defensive positioning than clinical finishing. Emiliano Buendia looked to spark something for the visitors, but his deliveries from corners and a long-range free kick failed to trouble the Hull goalkeeper. The hosts remained compact, though Semi Ajayi earned a yellow card for a tactical foul to halt a dangerous counter-attack. A Battle of Attrition The second half followed a similar pattern, with Aston Villa recording a staggering 73% of the possession. Despite the territorial advantage, clear-cut chances remained at a premium. Tyrone Mings came close with a header in the 76th minute, but his effort was bravely blocked by a sea of amber shirts. As the clock ticked down, both managers turned to their benches. The introduction of Alejandro Garnacho and Tammy Abraham provided fresh energy for Villa , while Hull looked to hit on the break through Mohamed-Ali Cho . In the dying moments, Oli McBurnie had a rare sight of goal for the home side, but his effort sailed wide, ensuring both sides shared the points in front of 24,425 fans."
+      "description": "Watch Ipswich vs Liverpool highlights and goals from Premier League on ReFooty: Football Highlights Hub. Match played on September 4, 2026. The atmosphere at the stadium was electric for this Premier League encounter, with the home crowd eager to see their side test themselves against one of the league's heavyweights. It promised to be a fascinating tactical battle where early momentum would play a crucial role in shaping the narrative. Isak's Early Blitz On September 4, 2026, the match exploded into life with Liverpool asserting their dominance from the opening whistle. In the 6th minute, Cody Gakpo turned provider, setting up Alexander Isak who clinicaly finished with his right foot. Before Ipswich Town could regain their composure, a distribution error by goalkeeper Kjell Scherpen gifted the visitors another opportunity. In the 9th minute, the duo combined again as Cody Gakpo notched his second assist, allowing Alexander Isak to double the lead with a precise left-footed strike. Disciplinary Battles and Defensive Shape As the first half progressed, the game became increasingly physical, leading to several cautions for dissent. Alexis Mac Allister was booked early on, followed by Julio Enciso as frustrations grew. Ipswich attempted to find a way back through set-pieces delivered by Sasa Lukic , but they struggled to breach a disciplined defensive line that repeatedly caught the hosts offside. Liverpool remained threatening, with Alexis Mac Allister nearly adding a third early in the second half via a header that was well saved by Scherpen . VAR Drama and Final Whistle The second half saw a flurry of tactical changes, with Arne Slot introducing the likes of Ryan Gravenberch and Bradley Barcola to maintain control. A significant moment occurred in the 68th minute when the referee consulted VAR for a potential Liverpool penalty; however, after a tense review, the original decision stood. Despite late pressure from Ipswich and a long-range effort from Kasey McAteer that tested Alisson Becker , the visitors held firm to secure a 0-2 victory in front of 30,019 fans."
     }
   ],
   "hasMore": false,
