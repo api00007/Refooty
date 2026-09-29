@@ -1,9 +1,228 @@
 {
   "team": "Uruguay",
   "team_logo": "https://img.refooty.com/logo/teams/7.webp",
-  "total_matches": 1,
-  "Last update time": "03:30:19 PM 28-09-2026",
+  "total_matches": 2,
+  "Last update time": "05:40:19 AM 29-09-2026",
   "matches": [
+    {
+      "title": "South Korea vs Uruguay",
+      "thumbnail_url": "https://img.refooty.com/thumbnail/south-korea-vs-uruguay-2026-09-28-a5tG.webp",
+      "competition": "Friendly",
+      "competition_cover": "https://refooty.com/covers/premier-league.webp",
+      "date": "Sep 28, 2026",
+      "events_info": {
+        "away_team": {
+          "logo": "https://img.refooty.com/logo/teams/7.webp",
+          "name": "Uruguay",
+          "score": "4"
+        },
+        "home_team": {
+          "logo": "https://img.refooty.com/logo/teams/17.webp",
+          "name": "South Korea",
+          "score": "1"
+        },
+        "status": "FT"
+      },
+      "streams": [
+        {
+          "part": "Full Stream",
+          "m3u8_url": "https://img.refooty.com/m3u8/south-korea-vs-uruguay-2026-09-28.m3u8"
+        }
+      ],
+      "events_timeline": [
+        {
+          "time": "1'",
+          "team": "Uruguay",
+          "player": "D. Núñez",
+          "event_type": "Goal",
+          "score_update": "0 - 1"
+        },
+        {
+          "time": "16'",
+          "team": "Uruguay",
+          "player": "G. d. Arrascaeta",
+          "event_type": "Goal",
+          "score_update": "0 - 2"
+        },
+        {
+          "time": "31'",
+          "team": "Uruguay",
+          "player": "K. Min-jae",
+          "event_type": "Goal"
+        },
+        {
+          "time": "46'",
+          "team": "Uruguay",
+          "player": "D. Núñez",
+          "event_type": "Goal",
+          "score_update": "0 - 4"
+        },
+        {
+          "time": "61'",
+          "team": "South Korea",
+          "player": "S. Heung-min",
+          "event_type": "Goal",
+          "score_update": "1 - 4"
+        }
+      ],
+      "head_to_head": {
+        "summary": {
+          "South Korea_wins": "1",
+          "draws": "1",
+          "Uruguay_wins": "3"
+        },
+        "previous_matches": [
+          {
+            "date": "28/03/2023",
+            "competition": "Friendlies",
+            "teams_and_score": "South Korea 1 - 2 Uruguay"
+          },
+          {
+            "date": "24/11/2022",
+            "competition": "Group H",
+            "teams_and_score": "Uruguay 0 - 0 South Korea"
+          },
+          {
+            "date": "12/10/2018",
+            "competition": "Friendlies",
+            "teams_and_score": "South Korea 2 - 1 Uruguay"
+          },
+          {
+            "date": "26/06/2010",
+            "competition": "World Cup 1/8 finals",
+            "teams_and_score": "Uruguay 2 - 1 South Korea"
+          },
+          {
+            "date": "24/03/2007",
+            "competition": "Friendlies",
+            "teams_and_score": "South Korea 0 - 2 Uruguay"
+          }
+        ],
+        "home_team_form": {
+          "team": "South Korea",
+          "form": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "28/09/2026",
+              "competition": "Friendlies",
+              "teams_and_score": "South Korea 1 - 4 Uruguay",
+              "result": "L"
+            },
+            {
+              "date": "25/06/2026",
+              "competition": "Group A",
+              "teams_and_score": "South Africa 1 - 0 South Korea",
+              "result": "L"
+            },
+            {
+              "date": "04/06/2026",
+              "competition": "Friendlies",
+              "teams_and_score": "South Korea 1 - 0 El Salvador",
+              "result": "W"
+            },
+            {
+              "date": "31/03/2026",
+              "competition": "Featured Friendlies",
+              "teams_and_score": "Austria 1 - 0 South Korea",
+              "result": "L"
+            },
+            {
+              "date": "28/03/2026",
+              "competition": "Friendlies",
+              "teams_and_score": "South Korea 0 - 4 Ivory Coast",
+              "result": "L"
+            }
+          ]
+        },
+        "away_team_form": {
+          "team": "Uruguay",
+          "form": [
+            "W",
+            "L",
+            "D",
+            "D",
+            "L"
+          ],
+          "recent_matches": [
+            {
+              "date": "28/09/2026",
+              "competition": "Friendlies",
+              "teams_and_score": "South Korea 1 - 4 Uruguay",
+              "result": "W"
+            },
+            {
+              "date": "27/06/2026",
+              "competition": "Group H",
+              "teams_and_score": "Uruguay 0 - 1 Spain",
+              "result": "L"
+            },
+            {
+              "date": "31/03/2026",
+              "competition": "Friendlies",
+              "teams_and_score": "Algeria 0 - 0 Uruguay",
+              "result": "D"
+            },
+            {
+              "date": "27/03/2026",
+              "competition": "Featured Friendlies",
+              "teams_and_score": "England 1 - 1 Uruguay",
+              "result": "D"
+            },
+            {
+              "date": "19/11/2025",
+              "competition": "Friendlies 2025",
+              "teams_and_score": "USA 5 - 1 Uruguay",
+              "result": "L"
+            }
+          ]
+        }
+      },
+      "statistics": {
+        "shots_on_target": {
+          "South Korea": "7",
+          "Uruguay": "4"
+        },
+        "shots_off_target": {
+          "South Korea": "3",
+          "Uruguay": "5"
+        },
+        "shots_blocked": {
+          "South Korea": "4",
+          "Uruguay": "0"
+        },
+        "corners": {
+          "South Korea": "7",
+          "Uruguay": "1"
+        },
+        "fouls": {
+          "South Korea": "7",
+          "Uruguay": "9"
+        },
+        "offsides": {
+          "South Korea": "1",
+          "Uruguay": "0"
+        },
+        "yellow_cards": {
+          "South Korea": "0",
+          "Uruguay": "1"
+        },
+        "goalkeeper_saves": {
+          "South Korea": "1",
+          "Uruguay": "6"
+        },
+        "ball_possession": {
+          "South Korea": "59%",
+          "Uruguay": "41%"
+        }
+      },
+      "description": "Watch South Korea vs Uruguay highlights and goals from Friendly on ReFooty: Football Highlights Hub. Match played on September 28, 2026."
+    },
     {
       "title": "Japan vs Uruguay",
       "thumbnail_url": "https://img.refooty.com/thumbnail/japan-vs-uruguay-2026-09-24-Kpmp.webp",
